@@ -1,0 +1,15 @@
+{
+  "name": "Solved STBB Books",
+  "short_name": "STBB Solved",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B6B4A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
