@@ -1,4 +1,4 @@
-// Solved STBB Books — search, filters, FAQ, detail modal
+// Solved Sindh Textbook Board Books — search, filters, FAQ, detail modal
 // NOTE: website is English-only. No language switcher, no RTL: the whole
 // document always stays LTR so English content is always left-sided.
 document.addEventListener('DOMContentLoaded', ()=>{
@@ -25,8 +25,9 @@ async function loadBooks(){
 function cardHTML(b){
   const live = b.status==='live';
   const badge = live ? '<span class="chip live">● Live — Preview Free</span>' : '<span class="chip soon">Coming Soon</span>';
-  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}">👁 Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
-  return `<article class="card" data-id="${b.id}"><div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div><div class="card-body">${badge}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
+  const cover = b.cover ? `<div class="card-cover has-img"><img src="/${b.cover}" alt="${b.title} — official book cover" loading="lazy"></div>` : `<div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div>`;
+  return `<article class="card" data-id="${b.id}">${cover}<div class="card-body">${badge}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
@@ -57,8 +58,9 @@ async function openBook(id){
   const b = books.find(x=>x.id===id); if(!b) return;
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
-  const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}">👁 Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
-  body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
+  const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
+  const coverImg = b.cover ? `<img class="modal-cover" src="/${b.cover}" alt="${b.title} — official book cover">` : '';
+  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
   modal.classList.add('open');
 }
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }
