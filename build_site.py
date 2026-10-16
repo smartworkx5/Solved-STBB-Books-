@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build core pages for Solved STBB Books (index, books, solved, about, contact, legal, SEO files).
+"""Build core pages for Solved Sindh Textbook Board Books (index, books, solved, about, contact, legal, SEO files).
 Run: python3 build_site.py  (then python3 build_blog.py for the 50 blog posts)
 Data source: assets/data/books.json is generated here from BOOKS below.
 To add a book: add an entry to BOOKS (or edit assets/data/books.json) + drop the PDF in assets/pdfs/.
@@ -13,12 +13,12 @@ TODAY = date.today().isoformat()
 
 # ---------------- Book catalogue ----------------
 REAL = [
- {"id":"isl-6-sd","title":"Class 6 Islamiat — Solved Exercises (Sindhi Medium)","cls":6,"subject":"Islamiat","medium":"Sindhi","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class6-Islamiat-SolvedExercises-Sindhi.pdf","pages":28,"desc":"Complete solved exercises for STBB Class 6 Islamiat, Sindhi medium — handwritten-style notes in the book's own format.","chapters":["Quran Majeed — Nazra, Hifz, Duaein","Imaniyat & Ibadat — Tauheed, Azan, Namaz, Hajj","Seerat Tayyaba — Sulah Hudaibiya se Ghazwa Khyber","Akhlaq & Adab — Taharat, Sadaqat, Amanat, Huqooq-ul-Ibad","Mashahir-e-Islam — Khadija, Ali, Data Ganj Bakhsh, Tariq bin Ziyad"]},
- {"id":"isl-6-ur","title":"Class 6 Islamiat — Solved Exercises (Urdu Medium)","cls":6,"subject":"Islamiat","medium":"Urdu","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class6-Islamiat-SolvedExercises-Urdu.pdf","pages":28,"desc":"Complete solved exercises for STBB Class 6 Islamiat, Urdu medium — clear answers in exam format.","chapters":["Quran Majeed — Nazra, Hifz, Duaein","Imaniyat & Ibadat — Tauheed, Azan, Namaz, Hajj","Seerat Tayyaba — Sulah Hudaibiya se Ghazwa Khyber","Akhlaq & Adab — Taharat, Sadaqat, Amanat, Huqooq-ul-Ibad","Mashahir-e-Islam — Khadija, Ali, Data Ganj Bakhsh, Tariq bin Ziyad"]},
- {"id":"isl-8-sd","title":"Class 8 Islamiat — Solved Exercises (Sindhi Medium)","cls":8,"subject":"Islamiat","medium":"Sindhi","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class8-Islamiat-SolvedExercises-Sindhi.pdf","pages":32,"desc":"Complete solved exercises for STBB Class 8 Islamiat, Sindhi medium — Aakhirat, Roza, Seerat, Akhlaq solved.","chapters":["Quran Majeed — Nazra, Hifz, Ayat-ul-Kursi","Imaniyat & Ibadat — Aakhirat, Roza, Hajj","Seerat Tayyaba — Khulq-e-Azeem, Sabr, Adl, Husn-e-Muashrat","Akhlaq & Adab — Halal Kamai, Itehad-e-Milli, Huqooq-ul-Ibad","Mashahir-e-Islam — Fatima-tuz-Zahra, Muhammad bin Qasim, Ibn-e-Sina, Shah Waliullah"]},
- {"id":"isl-8-ur","title":"Class 8 Islamiat — Solved Exercises (Urdu Medium)","cls":8,"subject":"Islamiat","medium":"Urdu","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class8-Islamiat-SolvedExercises-Urdu.pdf","pages":32,"desc":"Complete solved exercises for STBB Class 8 Islamiat, Urdu medium — exam-ready answers.","chapters":["Quran Majeed — Nazra, Hifz, Ayat-ul-Kursi","Imaniyat & Ibadat — Aakhirat, Roza, Hajj","Seerat Tayyaba — Khulq-e-Azeem, Sabr, Adl, Husn-e-Muashrat","Akhlaq & Adab — Halal Kamai, Itehad-e-Milli, Huqooq-ul-Ibad","Mashahir-e-Islam — Fatima-tuz-Zahra, Muhammad bin Qasim, Ibn-e-Sina, Shah Waliullah"]},
- {"id":"isl-9-sd","title":"Class 9 Islamiat — Solved Exercises (Sindhi Medium)","cls":9,"subject":"Islamiat","medium":"Sindhi","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class9-Islamiat-SolvedExercises-Sindhi.pdf","pages":40,"desc":"Complete solved exercises for STBB Class 9 Islamiat (IX–X volume), Sindhi medium — Quran, Hadith, Tauheed, Seerat.","chapters":["Quran Majeed — Taaruf, Fazilat, Chuninda Ayaat","Hadith Sharif — Taaruf, Sunnat, Chuninda Ahadith","Imaniyat — Tauheed, Risalat","Ibadat — Ahmiyat, Jihad","Seerat Tayyaba — Baasat, Dawat, Hijrat, Ghazwat, Shamail","Akhlaq — Ilm, Khandan, Ehtram-e-Insaniyat, Adl, Haya","Mashahir — Imam Hussain, Abu Ubaidah, Jabir bin Hayyan"]},
- {"id":"isl-9-ur","title":"Class 9 Islamiat — Solved Exercises (Urdu Medium)","cls":9,"subject":"Islamiat","medium":"Urdu","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class9-Islamiat-SolvedExercises-Urdu.pdf","pages":40,"desc":"Complete solved exercises for STBB Class 9 Islamiat (IX–X volume), Urdu medium — board-exam-ready answers.","chapters":["Quran Majeed — Taaruf, Fazilat, Chuninda Ayaat","Hadith Sharif — Taaruf, Sunnat, Chuninda Ahadith","Imaniyat — Tauheed, Risalat","Ibadat — Ahmiyat, Jihad","Seerat Tayyaba — Baasat, Dawat, Hijrat, Ghazwat, Shamail","Akhlaq — Ilm, Khandan, Ehtram-e-Insaniyat, Adl, Haya","Mashahir — Imam Hussain, Abu Ubaidah, Jabir bin Hayyan"]},
+ {"id":"isl-6-sd","cover":"assets/images/covers/isl-6-sd.jpg","title":"Class 6 Islamiat — Solved Exercises (Sindhi Medium)","cls":6,"subject":"Islamiat","medium":"Sindhi","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class6-Islamiat-SolvedExercises-Sindhi.pdf","pages":28,"desc":"Complete solved exercises for Sindh Textbook Board Class 6 Islamiat, Sindhi medium — handwritten-style notes in the book's own format.","chapters":["Quran Majeed — Nazra, Hifz, Duaein","Imaniyat & Ibadat — Tauheed, Azan, Namaz, Hajj","Seerat Tayyaba — Sulah Hudaibiya se Ghazwa Khyber","Akhlaq & Adab — Taharat, Sadaqat, Amanat, Huqooq-ul-Ibad","Mashahir-e-Islam — Khadija, Ali, Data Ganj Bakhsh, Tariq bin Ziyad"]},
+ {"id":"isl-6-ur","cover":"assets/images/covers/isl-6-ur.jpg","title":"Class 6 Islamiat — Solved Exercises (Urdu Medium)","cls":6,"subject":"Islamiat","medium":"Urdu","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class6-Islamiat-SolvedExercises-Urdu.pdf","pages":28,"desc":"Complete solved exercises for Sindh Textbook Board Class 6 Islamiat, Urdu medium — clear answers in exam format.","chapters":["Quran Majeed — Nazra, Hifz, Duaein","Imaniyat & Ibadat — Tauheed, Azan, Namaz, Hajj","Seerat Tayyaba — Sulah Hudaibiya se Ghazwa Khyber","Akhlaq & Adab — Taharat, Sadaqat, Amanat, Huqooq-ul-Ibad","Mashahir-e-Islam — Khadija, Ali, Data Ganj Bakhsh, Tariq bin Ziyad"]},
+ {"id":"isl-8-sd","cover":"assets/images/covers/isl-8-sd.jpg","title":"Class 8 Islamiat — Solved Exercises (Sindhi Medium)","cls":8,"subject":"Islamiat","medium":"Sindhi","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class8-Islamiat-SolvedExercises-Sindhi.pdf","pages":32,"desc":"Complete solved exercises for Sindh Textbook Board Class 8 Islamiat, Sindhi medium — Aakhirat, Roza, Seerat, Akhlaq solved.","chapters":["Quran Majeed — Nazra, Hifz, Ayat-ul-Kursi","Imaniyat & Ibadat — Aakhirat, Roza, Hajj","Seerat Tayyaba — Khulq-e-Azeem, Sabr, Adl, Husn-e-Muashrat","Akhlaq & Adab — Halal Kamai, Itehad-e-Milli, Huqooq-ul-Ibad","Mashahir-e-Islam — Fatima-tuz-Zahra, Muhammad bin Qasim, Ibn-e-Sina, Shah Waliullah"]},
+ {"id":"isl-8-ur","cover":"assets/images/covers/isl-8-ur.jpg","title":"Class 8 Islamiat — Solved Exercises (Urdu Medium)","cls":8,"subject":"Islamiat","medium":"Urdu","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class8-Islamiat-SolvedExercises-Urdu.pdf","pages":32,"desc":"Complete solved exercises for Sindh Textbook Board Class 8 Islamiat, Urdu medium — exam-ready answers.","chapters":["Quran Majeed — Nazra, Hifz, Ayat-ul-Kursi","Imaniyat & Ibadat — Aakhirat, Roza, Hajj","Seerat Tayyaba — Khulq-e-Azeem, Sabr, Adl, Husn-e-Muashrat","Akhlaq & Adab — Halal Kamai, Itehad-e-Milli, Huqooq-ul-Ibad","Mashahir-e-Islam — Fatima-tuz-Zahra, Muhammad bin Qasim, Ibn-e-Sina, Shah Waliullah"]},
+ {"id":"isl-9-sd","cover":"assets/images/covers/isl-9-sd.jpg","title":"Class 9 Islamiat — Solved Exercises (Sindhi Medium)","cls":9,"subject":"Islamiat","medium":"Sindhi","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class9-Islamiat-SolvedExercises-Sindhi.pdf","pages":40,"desc":"Complete solved exercises for Sindh Textbook Board Class 9 Islamiat (IX–X volume), Sindhi medium — Quran, Hadith, Tauheed, Seerat.","chapters":["Quran Majeed — Taaruf, Fazilat, Chuninda Ayaat","Hadith Sharif — Taaruf, Sunnat, Chuninda Ahadith","Imaniyat — Tauheed, Risalat","Ibadat — Ahmiyat, Jihad","Seerat Tayyaba — Baasat, Dawat, Hijrat, Ghazwat, Shamail","Akhlaq — Ilm, Khandan, Ehtram-e-Insaniyat, Adl, Haya","Mashahir — Imam Hussain, Abu Ubaidah, Jabir bin Hayyan"]},
+ {"id":"isl-9-ur","cover":"assets/images/covers/isl-9-ur.jpg","title":"Class 9 Islamiat — Solved Exercises (Urdu Medium)","cls":9,"subject":"Islamiat","medium":"Urdu","type":"solved-notes","status":"live","pdf":"assets/pdfs/Class9-Islamiat-SolvedExercises-Urdu.pdf","pages":40,"desc":"Complete solved exercises for Sindh Textbook Board Class 9 Islamiat (IX–X volume), Urdu medium — board-exam-ready answers.","chapters":["Quran Majeed — Taaruf, Fazilat, Chuninda Ayaat","Hadith Sharif — Taaruf, Sunnat, Chuninda Ahadith","Imaniyat — Tauheed, Risalat","Ibadat — Ahmiyat, Jihad","Seerat Tayyaba — Baasat, Dawat, Hijrat, Ghazwat, Shamail","Akhlaq — Ilm, Khandan, Ehtram-e-Insaniyat, Adl, Haya","Mashahir — Imam Hussain, Abu Ubaidah, Jabir bin Hayyan"]},
 ]
 SUBJECTS_BY_CLASS = {
  1:["Sindhi","Urdu","English","Math","Islamiat"], 2:["Sindhi","Urdu","English","Math","Islamiat"],
@@ -35,11 +35,11 @@ for cls, subjects in SUBJECTS_BY_CLASS.items():
         med = MEDIUMS[(cls + j) % 3]
         if subj == "Islamiat" and cls in (6,8,9) and med in ("Sindhi","Urdu"):
             continue  # already live above
-        BOOKS.append({"id":f"{subj.lower().replace(' ','-')}-{cls}-{med.lower()[:2]}","title":f"Class {cls} {subj} — Solved Exercises ({med} Medium)","cls":cls,"subject":subj,"medium":med,"type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"STBB Class {cls} {subj} solved exercises, {med} medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.","chapters":[]})
+        BOOKS.append({"id":f"{subj.lower().replace(' ','-')}-{cls}-{med.lower()[:2]}","title":f"Class {cls} {subj} — Solved Exercises ({med} Medium)","cls":cls,"subject":subj,"medium":med,"type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class {cls} {subj} solved exercises, {med} medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.","chapters":[]})
 for subj in ["Physics","Chemistry","Biology","Mathematics","Urdu","English"]:
-    BOOKS.append({"id":f"{subj.lower()}-11-en","title":f"Class 11 {subj} — Solved Exercises (English Medium)","cls":11,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"STBB Class 11 {subj} solved exercises, English medium — coming soon.","chapters":[]})
+    BOOKS.append({"id":f"{subj.lower()}-11-en","title":f"Class 11 {subj} — Solved Exercises (English Medium)","cls":11,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class 11 {subj} solved exercises, English medium — coming soon.","chapters":[]})
 for subj in ["Physics","Chemistry","Biology","Mathematics","Urdu","English"]:
-    BOOKS.append({"id":f"{subj.lower()}-12-en","title":f"Class 12 {subj} — Solved Exercises (English Medium)","cls":12,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"STBB Class 12 {subj} solved exercises, English medium — coming soon.","chapters":[]})
+    BOOKS.append({"id":f"{subj.lower()}-12-en","title":f"Class 12 {subj} — Solved Exercises (English Medium)","cls":12,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class 12 {subj} solved exercises, English medium — coming soon.","chapters":[]})
 
 def w(path, content):
     full = os.path.join(SITE, path)
@@ -57,15 +57,15 @@ a{color:var(--green)}a:hover{color:var(--green2)}.container{width:100%;max-width
 .site-header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50}.header-inner{display:flex;align-items:center;gap:16px;min-height:64px}
 .logo{display:flex;align-items:center;gap:9px;font-weight:800;font-size:19px;color:var(--dark);text-decoration:none}.logo-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:9px;background:var(--green);color:#fff;font-size:20px}
 .main-nav{margin-left:auto;display:flex;align-items:center;gap:4px;flex-wrap:wrap}.main-nav a{padding:8px 11px;border-radius:8px;text-decoration:none;color:var(--dark);font-weight:600;font-size:15px}.main-nav a.active,.main-nav a:hover{background:#EAF4EF;color:var(--green)}
-.btn{display:inline-block;background:var(--green);color:#fff!important;text-decoration:none;padding:12px 22px;border-radius:10px;font-weight:700;border:2px solid var(--green);cursor:pointer}.btn:hover{background:var(--green2);border-color:var(--green2)}.btn.small{padding:8px 15px;font-size:14px}.btn.outline{background:#fff;color:var(--green)!important}.btn.light{background:#fff;color:var(--green)!important;border-color:#fff}.btn.amber{background:var(--amber);border-color:var(--amber);color:#222!important}
+.btn{display:inline-block;background:var(--green);color:#fff!important;text-decoration:none;padding:12px 22px;border-radius:10px;font-weight:700;border:2px solid var(--green);cursor:pointer}.btn:hover{background:var(--green2);border-color:var(--green2)}.btn.small{padding:8px 15px;font-size:14px}.btn .ic{vertical-align:-2px;margin-right:5px}.btn.outline{background:#fff;color:var(--green)!important}.btn.light{background:#fff;color:var(--green)!important;border-color:#fff}.btn.amber{background:var(--amber);border-color:var(--amber);color:#222!important}
 .nav-toggle{display:none;margin-left:auto;background:none;border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:18px;cursor:pointer}
 .hero{background:var(--green);color:#fff;padding:52px 0 46px;text-align:center}.hero h1{font-size:clamp(30px,5vw,48px);line-height:1.15;margin:10px 0 14px}.hero p.lead{font-size:18px;max-width:720px;opacity:.95;margin:0 auto}.eyebrow{display:inline-block;background:rgba(255,255,255,.16);padding:6px 12px;border-radius:999px;font-size:13px;font-weight:700}
 .search-box{display:flex;gap:10px;max-width:680px;margin:22px auto 10px}.search-box input{flex:1;padding:14px 16px;border-radius:10px;border:0;font-size:16px}.search-box .btn{background:#fff;color:var(--green)!important;border-color:#fff}
-.stats{display:flex;gap:26px;flex-wrap:wrap;margin-top:22px;justify-content:center}.stat b{display:block;font-size:26px}.stat span{opacity:.85;font-size:14px}
+
 .section{padding:48px 0}.section h2{font-size:30px;margin:0 0 8px}.section .sub{color:var(--muted);max-width:760px;margin:0 0 26px}
 .filters{display:flex;gap:12px;flex-wrap:wrap;background:#fff;border:1px solid var(--line);padding:16px;border-radius:var(--radius);margin-bottom:26px}.filters label{font-weight:700;font-size:14px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:170px}.filters input,.filters select{padding:11px 12px;border:1px solid var(--line);border-radius:9px;font-size:15px;background:#fff}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:18px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}.card-cover{background:var(--green);color:#fff;padding:22px;min-height:120px;display:flex;flex-direction:column;justify-content:flex-end;gap:4px}.card-cover small{opacity:.85}.card-cover b{font-size:20px;line-height:1.25}.card-body{padding:18px;display:flex;flex-direction:column;gap:10px;flex:1}.card-body h3{margin:0;font-size:18px;line-height:1.35}.card-body p{margin:0;color:var(--muted);font-size:14.5px}.card-body .actions{margin-top:auto;display:flex;gap:8px;flex-wrap:wrap}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}.card-cover.has-img{background:#fff;padding:10px;min-height:0}.card-cover.has-img img{width:100%;height:220px;object-fit:contain;display:block}.modal-cover{width:100%;max-height:260px;object-fit:contain;background:#fff;border-radius:8px;margin-bottom:12px}.card-cover{background:var(--green);color:#fff;padding:22px;min-height:120px;display:flex;flex-direction:column;justify-content:flex-end;gap:4px}.card-cover small{opacity:.85}.card-cover b{font-size:20px;line-height:1.25}.card-body{padding:18px;display:flex;flex-direction:column;gap:10px;flex:1}.card-body h3{margin:0;font-size:18px;line-height:1.35}.card-body p{margin:0;color:var(--muted);font-size:14.5px}.card-body .actions{margin-top:auto;display:flex;gap:8px;flex-wrap:wrap}
 .chip{display:inline-block;background:#EAF4EF;color:var(--green);padding:4px 10px;border-radius:999px;font-size:12.5px;font-weight:700}.chip.soon{background:#FFF4DE;color:#8A5A00}.chip.live{background:#E3F7EC;color:#0B6B4A}
 .steps-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}.step{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px}.step .num{width:44px;height:44px;border-radius:50%;background:var(--green);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px;margin-bottom:12px}
 .subject-strip{display:flex;gap:10px;flex-wrap:wrap}.subject-strip a{background:#fff;border:1px solid var(--line);padding:9px 16px;border-radius:999px;text-decoration:none;color:var(--dark);font-weight:600}
@@ -81,13 +81,13 @@ figure.diagram{margin:22px 0 8px;border:1px solid var(--line);border-radius:12px
 .site-footer{background:#fff;border-top:1px solid var(--line);margin-top:50px;padding:36px 0 20px}.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:24px}.site-footer ul{list-style:none;padding:0}.site-footer li{margin-bottom:8px}.site-footer a{text-decoration:none;color:var(--muted)}.copyright{text-align:center;color:var(--muted);font-size:13.5px;border-top:1px solid var(--line);padding-top:16px}
 .pagination{display:flex;gap:12px;align-items:center;justify-content:center;margin:30px 0}.form-box{max-width:640px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px}.form-box label{display:block;font-weight:700;margin:14px 0 6px}.form-box input,.form-box textarea,.form-box select{width:100%;padding:12px;border:1px solid var(--line);border-radius:9px;font-size:15px}
 .notice{background:#FFF4DE;border:1px solid #F2D492;border-radius:10px;padding:14px 18px}
-@media(max-width:760px){.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.search-box{flex-direction:column}.hero{padding:36px 0 30px}.section{padding:32px 0}.stats{gap:16px}}
+@media(max-width:760px){.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.search-box{flex-direction:column}.hero{padding:36px 0 30px}.section{padding:32px 0}}
 .pdf-frame{width:100%;height:78vh;border:1px solid var(--line);border-radius:12px;background:#fff}.btn.whatsapp{background:#25D366;border-color:#25D366;color:#fff!important}.btn.whatsapp:hover{background:#1FB857;border-color:#1FB857}.preview-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 @media(max-width:760px){.pdf-frame{height:68vh}}
 """
 
 JS = r"""
-// Solved STBB Books — search, filters, FAQ, detail modal
+// Solved Sindh Textbook Board Books — search, filters, FAQ, detail modal
 // NOTE: website is English-only. No language switcher, no RTL: the whole
 // document always stays LTR so English content is always left-sided.
 document.addEventListener('DOMContentLoaded', ()=>{
@@ -114,8 +114,9 @@ async function loadBooks(){
 function cardHTML(b){
   const live = b.status==='live';
   const badge = live ? '<span class="chip live">● Live — Preview Free</span>' : '<span class="chip soon">Coming Soon</span>';
-  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}">👁 Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
-  return `<article class="card" data-id="${b.id}"><div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div><div class="card-body">${badge}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
+  const cover = b.cover ? `<div class="card-cover has-img"><img src="/${b.cover}" alt="${b.title} — official book cover" loading="lazy"></div>` : `<div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div>`;
+  return `<article class="card" data-id="${b.id}">${cover}<div class="card-body">${badge}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
@@ -146,8 +147,9 @@ async function openBook(id){
   const b = books.find(x=>x.id===id); if(!b) return;
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
-  const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}">👁 Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
-  body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
+  const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
+  const coverImg = b.cover ? `<img class="modal-cover" src="/${b.cover}" alt="${b.title} — official book cover">` : '';
+  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
   modal.classList.add('open');
 }
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }
@@ -166,7 +168,7 @@ def head(title, desc, path, keywords="", extra=""):
 <link rel="canonical" href="{BASE}{path}">
 <meta name="robots" content="index, follow">
 {f'<meta name="keywords" content="{keywords}">' if keywords else ''}
-<meta property="og:type" content="website"><meta property="og:site_name" content="Solved STBB Books">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Solved Sindh Textbook Board Books">
 <meta property="og:title" content="{title}"><meta property="og:description" content="{desc}">
 <meta property="og:url" content="{BASE}{path}"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{title}"><meta name="twitter:description" content="{desc}"><meta name="twitter:image" content="{BASE}/assets/images/og.svg">
@@ -181,7 +183,7 @@ def header(active=""):
     def a(href, label):
         return f'<a href="{href}" class="{"active" if href==active else ""}">{label}</a>'
     return f"""<header class="site-header"><div class="container header-inner">
-<a class="logo" href="/"><span class="logo-mark">S</span> Solved STBB Books</a>
+<a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
 {a('/', 'Home')}{a('/books.html', 'Books')}{a('/solved.html', 'Solved Notes')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}<a href="/books.html" class="btn small">Browse Books</a>
@@ -189,22 +191,23 @@ def header(active=""):
 """
 
 FOOTER = """<footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved STBB Books</a><p>Preview solved STBB books and exercises free on this website — Sindhi, Urdu and English medium. Full PDFs Rs.100 on WhatsApp. Prepared by teachers, for students.</p></div>
+<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Full PDFs Rs.100 on WhatsApp. Prepared by teachers, for students.</p></div>
 <div><h3>Explore</h3><ul><li><a href="/books.html">All Books</a></li><li><a href="/solved.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
-</div><p class="copyright">© 2026 Solved STBB Books. Preview free on this website. STBB textbooks are the property of the Sindh Textbook Board.</p></footer>
+</div><p class="copyright">© 2026 Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
 <script src="/assets/js/main.js"></script>
 </body></html>"""
 
 MODAL = """<div class="modal-backdrop" id="book-modal" role="dialog" aria-modal="true" aria-label="Book details"><div class="modal"><button class="close" onclick="closeModal()" aria-label="Close">×</button><div id="modal-body"></div></div></div>"""
 
-ORG_LD = json.dumps({"@context":"https://schema.org","@type":"Organization","name":"Solved STBB Books","url":BASE,"logo":BASE+"/assets/images/og.svg","description":"Free solved STBB books and exercises for Sindh Board students in Sindhi, Urdu and English medium."}, ensure_ascii=False)
-SITE_LD = json.dumps({"@context":"https://schema.org","@type":"WebSite","name":"Solved STBB Books","url":BASE,"inLanguage":["en","sd","ur"],"publisher":{"@type":"Organization","name":"Solved STBB Books"},"potentialAction":{"@type":"SearchAction","target":BASE+"/books.html?q={search_term_string}","query-input":"required name=search_term_string"}}, ensure_ascii=False)
+ORG_LD = json.dumps({"@context":"https://schema.org","@type":"Organization","name":"Solved Sindh Textbook Board Books","url":BASE,"logo":BASE+"/assets/images/og.svg","description":"Free solved Sindh Textbook Board books and exercises for Sindh Board students in Sindhi, Urdu and English medium."}, ensure_ascii=False)
+SITE_LD = json.dumps({"@context":"https://schema.org","@type":"WebSite","name":"Solved Sindh Textbook Board Books","url":BASE,"inLanguage":["en","sd","ur"],"publisher":{"@type":"Organization","name":"Solved Sindh Textbook Board Books"},"potentialAction":{"@type":"SearchAction","target":BASE+"/books.html?q={search_term_string}","query-input":"required name=search_term_string"}}, ensure_ascii=False)
 
 def featured_cards():
     out = ""
     for b in REAL:
-        out += f"""<article class="card"><div class="card-cover"><small>Class {b['cls']} · {b['medium']} Medium</small><b>Class {b['cls']} Islamiat</b><small>Solved Exercises</small></div><div class="card-body"><span class="chip live">● Live — Preview Free</span><p>{b['desc']}</p><div class="actions"><a class="btn small" href="/preview.html?id={b['id']}">👁 Open</a></div></div></article>\n"""
+        cover = f"""<div class="card-cover has-img"><img src="/{b['cover']}" alt="Class {b['cls']} Islamiat — official book cover" loading="lazy"></div>""" if b.get('cover') else f"""<div class="card-cover"><small>Class {b['cls']} · {b['medium']} Medium</small><b>Class {b['cls']} Islamiat</b><small>Solved Exercises</small></div>"""
+        out += f"""<article class="card">{cover}<div class="card-body"><span class="chip live">● Live — Preview Free</span><p>{b['desc']}</p><div class="actions"><a class="btn small" href="/preview.html?id={b['id']}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a></div></div></article>\n"""
     return out
 
 # ---------------- Pages ----------------
@@ -219,24 +222,24 @@ def build():
     faq_ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
         {"@type":"Question","name":"Are the solved notes really free?","acceptedAnswer":{"@type":"Answer","text":"Preview is free on this website. The full PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp."}},
         {"@type":"Question","name":"Which mediums are available?","acceptedAnswer":{"@type":"Answer","text":"Solved notes are available in Sindhi, Urdu and English medium. Islamiat for Classes 6, 8 and 9 is live in Sindhi and Urdu; more books are being added."}},
-        {"@type":"Question","name":"Do the solved notes follow the STBB textbook?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every solved exercise follows the official STBB textbook chapter by chapter, in the book's own format."}},
-        {"@type":"Question","name":"Can I request a book that is not listed?","acceptedAnswer":{"@type":"Answer","text":"Yes. Use the contact page to request any STBB class, subject or medium. Requested books are prepared first."}},
+        {"@type":"Question","name":"Do the solved notes follow the Sindh Textbook Board textbook?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every solved exercise follows the official Sindh Textbook Board textbook chapter by chapter, in the book's own format."}},
+        {"@type":"Question","name":"Can I request a book that is not listed?","acceptedAnswer":{"@type":"Answer","text":"Yes. Use the contact page to request any Sindh Textbook Board class, subject or medium. Requested books are prepared first."}},
     ]}
-    index = head("Solved STBB Books — Solved Exercises Sindhi, Urdu & English Medium, Free Preview | Sindh Board",
-        "Preview solved STBB books & exercises free on this website. Class 6, 8, 9 Islamiat solved notes live in Sindhi & Urdu medium. Full PDF Rs.100 on WhatsApp.",
-        "/", "STBB solved books, Sindh Textbook Board solved exercises, Class 9 Islamiat solved Sindhi",
+    index = head("Solved Sindh Textbook Board Books — Solved Exercises Sindhi, Urdu & English Medium, Free Preview | Sindh Board",
+        "Preview solved Sindh Textbook Board books & exercises free on this website. Class 6, 8, 9 Islamiat solved notes live in Sindhi & Urdu medium. Full PDF Rs.100 on WhatsApp.",
+        "/", "Sindh Textbook Board solved books, Sindh Textbook Board solved exercises, Class 9 Islamiat solved Sindhi",
         f'<script type="application/ld+json">{ORG_LD}</script><script type="application/ld+json">{SITE_LD}</script><script type="application/ld+json">{json.dumps(faq_ld, ensure_ascii=False)}</script>')
     index += header("/") + f"""
 <main id="main">
 <section class="hero"><div class="container">
-<span class="eyebrow">Free Preview · STBB Textbook Board</span>
-<h1 id="hero-title">Free Solved STBB Books — Sindhi, Urdu &amp; English Medium</h1>
+<span class="eyebrow">Free Preview · Sindh Textbook Board</span>
+<h1 id="hero-title">Free Solved Sindh Textbook Board Books — Sindhi, Urdu &amp; English Medium</h1>
 <p class="lead" id="hero-sub">Preview solved exercises for Sindh Textbook Board books. Class 6, 8 and 9 Islamiat notes are live now — free preview on this website. Full PDF Rs.100 on WhatsApp.</p>
 <form class="search-box" id="hero-search-form" role="search"><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
 <div><a class="btn light" href="/books.html">Browse All Books</a> <a class="btn amber" href="/solved.html">Solved Notes</a></div>
-<div class="stats"><div class="stat"><b>6</b><span>Solved notes live</span></div><div class="stat"><b>3</b><span>Mediums: Sindhi · Urdu · English</span></div><div class="stat"><b>50</b><span>Free exam guides</span></div><div class="stat"><b>Rs.100</b><span>Full PDF on WhatsApp</span></div></div>
+
 </div></section>
-<section class="section container"><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the STBB textbook. Click Open to preview free on this website. Full PDF Rs.100 on WhatsApp.</p><div class="grid">{featured_cards()}</div></section>
+<section class="section container"><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the Sindh Textbook Board textbook. Click Open to preview free on this website. Full PDF Rs.100 on WhatsApp.</p><div class="grid">{featured_cards()}</div></section>
 <section class="section container"><h2>How it works</h2><div class="steps-grid">
 <div class="step"><div class="num">1</div><h3>Find your book</h3><p>Search by class, subject or medium — or browse the catalogue.</p></div>
 <div class="step"><div class="num">2</div><h3>Preview free</h3><p>Open the preview on this website. Free to preview — full PDF Rs.100 on WhatsApp.</p></div>
@@ -244,7 +247,7 @@ def build():
 <section class="section container"><h2>Browse by subject</h2><div class="subject-strip">
 <a href="/books.html?f-subject=Islamiat">Islamiat</a><a href="/books.html?f-subject=Urdu">Urdu</a><a href="/books.html?f-subject=Sindhi">Sindhi</a><a href="/books.html?f-subject=English">English</a><a href="/books.html?f-subject=Math">Math</a><a href="/books.html?f-subject=Science">Science</a><a href="/books.html?f-subject=Physics">Physics</a><a href="/books.html?f-subject=Chemistry">Chemistry</a><a href="/books.html?f-subject=Biology">Biology</a><a href="/books.html?f-subject=Pakistan Studies">Pakistan Studies</a><a href="/books.html?f-subject=Social Studies">Social Studies</a></div></section>
 <section class="section container"><h2>Why students love it</h2><div class="steps-grid">
-<div class="step"><h3>📖 Follows the textbook</h3><p>Every answer follows the STBB book chapter by chapter — nothing extra, nothing missing.</p></div>
+<div class="step"><h3>📖 Follows the textbook</h3><p>Every answer follows the Sindh Textbook Board book chapter by chapter — nothing extra, nothing missing.</p></div>
 <div class="step"><h3>✍️ Exam-ready answers</h3><p>Answers are written the way examiners want: translation, explanation, example.</p></div>
 <div class="step"><h3>🌍 Three mediums</h3><p>Sindhi, Urdu and English — study in the medium you write your exam in.</p></div>
 <div class="step"><h3>📱 Works on any phone</h3><p>Fast, mobile-first pages and PDFs that open on any phone.</p></div></div></section>
@@ -255,7 +258,7 @@ def build():
 <section class="section container"><h2>Frequently asked questions</h2><div class="faq">
 <details open><summary>Are the solved notes really free?</summary><p>Preview is free on this website. The full PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp.</p></details>
 <details><summary>Which mediums are available?</summary><p>Sindhi, Urdu and English. Islamiat for Classes 6, 8 and 9 is live in Sindhi and Urdu; more books are being added.</p></details>
-<details><summary>Do the solved notes follow the STBB textbook?</summary><p>Yes. Every solved exercise follows the official STBB textbook chapter by chapter.</p></details>
+<details><summary>Do the solved notes follow the Sindh Textbook Board textbook?</summary><p>Yes. Every solved exercise follows the official Sindh Textbook Board textbook chapter by chapter.</p></details>
 <details><summary>Can I request a book that is not listed?</summary><p>Yes — use the <a href="/contact.html">contact page</a>. Requested books are prepared first.</p></details>
 </div></section>
 <section class="section container"><div class="newsletter"><h2>Get new solved notes first</h2><p>One email when a new book is added. No spam, unsubscribe anytime.</p><form><label class="sr-only" for="nl-email" style="position:absolute;left:-9999px">Email</label><input id="nl-email" type="email" required placeholder="Your email address"><button class="btn amber" type="submit">Join free</button></form><p class="nl-msg"></p><p>Or join on WhatsApp: <a href="https://wa.me/923018981055" style="color:#fff">+92 301 8981055</a></p></div></section>
@@ -264,11 +267,11 @@ def build():
     w("index.html", index)
 
     # BOOKS
-    books_page = head("All Books — STBB Solved Exercises by Class, Subject & Medium | Solved STBB Books",
-        "Browse all STBB solved books by class (1-12), subject and medium (Sindhi, Urdu, English). Free PDF downloads, live search and filters.",
-        "/books.html", "STBB books catalogue, solved exercises by class, Sindh Board books")
+    books_page = head("All Books — Sindh Textbook Board Solved Exercises by Class, Subject & Medium | Solved Sindh Textbook Board Books",
+        "Browse all Sindh Textbook Board solved books by class (1-12), subject and medium (Sindhi, Urdu, English). Free PDF downloads, live search and filters.",
+        "/books.html", "Sindh Textbook Board books catalogue, solved exercises by class, Sindh Board books")
     books_page += header("/books.html") + """
-<main id="main" class="container"><h1>All Books — STBB Solved Exercises</h1>
+<main id="main" class="container"><h1>All Books — Sindh Textbook Board Solved Exercises</h1>
 <p class="lead">Search and filter the full catalogue. Live books have a free preview; full PDF Rs.100 on WhatsApp. Coming-soon books can be requested.</p>
 <div class="filters">
 <label>Search <input type="search" id="q" placeholder="e.g. Class 9 Islamiat Sindhi"></label>
@@ -283,38 +286,38 @@ def build():
     w("books.html", books_page)
 
     # SOLVED
-    solved = head("Solved Notes — Free Preview of STBB Solved Exercises",
+    solved = head("Solved Notes — Free Preview of Sindh Textbook Board Solved Exercises",
         "Preview solved notes free: Class 6, 8, 9 Islamiat solved exercises in Sindhi & Urdu medium. Full PDF Rs.100 on WhatsApp.",
-        "/solved.html", "STBB solved notes, solved exercises PDF, Islamiat solved notes")
+        "/solved.html", "Sindh Textbook Board solved notes, solved exercises PDF, Islamiat solved notes")
     solved += header("/solved.html") + f"""
 <main id="main" class="container"><h1>Solved Notes — Free Preview</h1>
 <p class="lead">Six solved-notes PDFs are live now — preview them free on this website. Full PDF Rs.100 on WhatsApp. More classes, subjects and mediums are being added — request yours on the contact page.</p>
 <div class="grid">{featured_cards()}</div>
 <h2 style="margin-top:36px">How to use solved notes (so they become marks)</h2>
-<ol class="steps"><li>Read the solved answer with your STBB book open.</li><li>Close the book and write the answer from memory.</li><li>Compare, fix the missing line, and revise after 2 days.</li></ol>
+<ol class="steps"><li>Read the solved answer with your Sindh Textbook Board book open.</li><li>Close the book and write the answer from memory.</li><li>Compare, fix the missing line, and revise after 2 days.</li></ol>
 <p><a class="btn" href="/books.html">Browse all books →</a></p></main>
 """ + MODAL + FOOTER
     w("solved.html", solved)
 
     # ABOUT / CONTACT / LEGAL
-    about = head("About — Solved STBB Books", "About Solved STBB Books: free solved STBB exercises for Sindh Board students in Sindhi, Urdu and English medium, prepared by teachers.", "/about.html")
-    about += header("/about.html") + """<main id="main" class="container"><h1>About Solved STBB Books</h1><p class="lead">We are teachers from Sindh. We saw students struggling to find solved exercises in their own medium — especially Sindhi medium — so we started preparing them, chapter by chapter, from the official STBB textbooks.</p><h2>What we do</h2><ul><li>Solve every exercise from the STBB textbook in the book's own format.</li><li>Write answers the way board examiners want: translation, explanation, example.</li><li>Publish everything for preview — free on this website; full PDFs Rs.100 on WhatsApp.</li></ul><h2>What we do not do</h2><p>We do not replace the textbook. Solved notes are for learning and revision — always study with your STBB book open. STBB textbooks are the property of the Sindh Textbook Board; solved notes here are original explanations of those exercises.</p><p><a class="btn" href="/books.html">Browse books →</a></p></main>""" + FOOTER
+    about = head("About — Solved Sindh Textbook Board Books", "About Solved Sindh Textbook Board Books: free solved Sindh Textbook Board exercises for Sindh Board students in Sindhi, Urdu and English medium, prepared by teachers.", "/about.html")
+    about += header("/about.html") + """<main id="main" class="container"><h1>About Solved Sindh Textbook Board Books</h1><p class="lead">We are teachers from Sindh. We saw students struggling to find solved exercises in their own medium — especially Sindhi medium — so we started preparing them, chapter by chapter, from the official Sindh Textbook Board textbooks.</p><h2>What we do</h2><ul><li>Solve every exercise from the Sindh Textbook Board textbook in the book's own format.</li><li>Write answers the way board examiners want: translation, explanation, example.</li><li>Publish everything for preview — free on this website; full PDFs Rs.100 on WhatsApp.</li></ul><h2>What we do not do</h2><p>We do not replace the textbook. Solved notes are for learning and revision — always study with your Sindh Textbook Board book open. Textbooks are the property of the Sindh Textbook Board; solved notes here are original explanations of those exercises.</p><p><a class="btn" href="/books.html">Browse books →</a></p></main>""" + FOOTER
     w("about.html", about)
-    contact = head("Contact — Request a Book | Solved STBB Books", "Contact Solved STBB Books to request a solved book, report an error, or suggest a new guide.", "/contact.html")
+    contact = head("Contact — Request a Book | Solved Sindh Textbook Board Books", "Contact Solved Sindh Textbook Board Books to request a solved book, report an error, or suggest a new guide.", "/contact.html")
     contact += header("/contact.html") + """<main id="main" class="container"><h1>Contact &amp; Request a Book</h1><p class="lead">Tell us which book you need — class, subject and medium — and we will prepare it first.</p><div class="form-box"><form action="mailto:hello@stbbsolved.pk" method="post" enctype="text/plain"><label>Your name <input name="name" required></label><label>Email <input name="email" type="email" required></label><label>Request <select name="type"><option>Request a solved book</option><option>Report an error</option><option>Suggest a guide</option><option>Other</option></select></label><label>Class <input name="class" placeholder="e.g. Class 10"></label><label>Subject &amp; Medium <input name="subject" placeholder="e.g. Physics, English medium"></label><label>Message <textarea name="message" rows="5" required placeholder="Which book do you need?"></textarea></label><button class="btn" type="submit">Send request</button></form></div><p>WhatsApp: <a href="https://wa.me/923018981055">+92 301 8981055</a></p></main>""" + FOOTER
     w("contact.html", contact)
-    privacy = head("Privacy Policy | Solved STBB Books", "Privacy policy for Solved STBB Books. No accounts, no tracking beyond basic analytics.", "/privacy.html")
+    privacy = head("Privacy Policy | Solved Sindh Textbook Board Books", "Privacy policy for Solved Sindh Textbook Board Books. No accounts, no tracking beyond basic analytics.", "/privacy.html")
     privacy += header("") + """<main id="main" class="container"><h1>Privacy Policy</h1><p>This site does not require accounts. We do not sell personal data. If you email us, we use your message only to reply. Preview uses the on-page viewer; full PDFs are sent on WhatsApp after payment. No personal data is needed to preview.</p><p>Basic anonymous visit counts may be used to see which books students need most. No advertising profiles are built from this site.</p></main>""" + FOOTER
     w("privacy.html", privacy)
-    terms = head("Terms | Solved STBB Books", "Terms of use for Solved STBB Books. Free solved notes for study; always verify against your STBB textbook.", "/terms.html")
-    terms += header("") + """<main id="main" class="container"><h1>Terms of Use</h1><p>Solved-note previews are free for study and revision. Full PDFs cost Rs.100 via WhatsApp. Always verify answers against your official STBB textbook and your teacher. We aim for accuracy but accept no liability for exam outcomes. STBB textbooks remain the property of the Sindh Textbook Board.</p></main>""" + FOOTER
+    terms = head("Terms | Solved Sindh Textbook Board Books", "Terms of use for Solved Sindh Textbook Board Books. Free solved notes for study; always verify against your Sindh Textbook Board textbook.", "/terms.html")
+    terms += header("") + """<main id="main" class="container"><h1>Terms of Use</h1><p>Solved-note previews are free for study and revision. Full PDFs cost Rs.100 via WhatsApp. Always verify answers against your official Sindh Textbook Board textbook and your teacher. We aim for accuracy but accept no liability for exam outcomes. Textbooks remain the property of the Sindh Textbook Board.</p></main>""" + FOOTER
     w("terms.html", terms)
 
     # PREVIEW — PDF viewer page. Users preview free on this website; the
     # Download button is locked and opens the Rs.100 WhatsApp buy popup.
-    preview = head("Preview Solved PDF | Solved STBB Books",
-        "Preview a solved STBB PDF free on this website. Full PDF Rs.100 on WhatsApp.",
-        "/preview.html", "preview solved PDF, STBB solved notes preview")
+    preview = head("Preview Solved PDF | Solved Sindh Textbook Board Books",
+        "Preview a solved Sindh Textbook Board PDF free on this website. Full PDF Rs.100 on WhatsApp.",
+        "/preview.html", "preview solved PDF, Sindh Textbook Board solved notes preview")
     preview += header("") + """<main id="main" class="container">
 <p id="preview-loading">Loading book…</p>
 <div id="preview-content" style="display:none">
@@ -342,7 +345,7 @@ async function initPreview(){
   }
   document.getElementById('preview-content').style.display = 'block';
   document.getElementById('preview-title').textContent = b.title;
-  document.title = 'Preview — ' + b.title + ' | Solved STBB Books';
+  document.title = 'Preview — ' + b.title + ' | Solved Sindh Textbook Board Books';
   document.getElementById('preview-chips').innerHTML = '<span class="chip">Class ' + b.cls + '</span> <span class="chip">' + b.subject + '</span> <span class="chip">' + b.medium + ' Medium</span> <span class="chip live">Preview Free</span>';
   document.getElementById('preview-desc').textContent = b.desc || '';
   document.getElementById('pdf-frame').src = '/' + b.pdf + '#toolbar=0&navpanes=0&scrollbar=0';
@@ -373,13 +376,13 @@ document.addEventListener('DOMContentLoaded', initPreview);
     sm += "</urlset>\n"
     w("sitemap.xml", sm)
     w("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\n")
-    w("manifest.webmanifest", json.dumps({"name":"Solved STBB Books","short_name":"STBB Solved","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#0B6B4A","icons":[{"src":"/favicon.svg","sizes":"512x512","type":"image/svg+xml"}]}, indent=2))
+    w("manifest.webmanifest", json.dumps({"name":"Solved Sindh Textbook Board Books","short_name":"Sindh Textbook Board Solved","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#0B6B4A","icons":[{"src":"/favicon.svg","sizes":"512x512","type":"image/svg+xml"}]}, indent=2))
     w("favicon.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0B6B4A"/><text x="32" y="44" font-family="Arial" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">S</text></svg>\n')
-    w("assets/images/og.svg", '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#0B6B4A"/><text x="60" y="200" font-family="Arial" font-size="64" font-weight="bold" fill="#fff">Solved STBB Books</text><text x="60" y="280" font-family="Arial" font-size="32" fill="#DCE8E0">Preview solved exercises free — Sindhi · Urdu · English</text><text x="60" y="340" font-family="Arial" font-size="28" fill="#fff">Class 6 · 8 · 9 Islamiat notes live now</text></svg>\n')
+    w("assets/images/og.svg", '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#0B6B4A"/><text x="60" y="200" font-family="Arial" font-size="64" font-weight="bold" fill="#fff">Solved Sindh Textbook Board Books</text><text x="60" y="280" font-family="Arial" font-size="32" fill="#DCE8E0">Preview solved exercises free — Sindhi · Urdu · English</text><text x="60" y="340" font-family="Arial" font-size="28" fill="#fff">Class 6 · 8 · 9 Islamiat notes live now</text></svg>\n')
     # README
-    readme = f"""# Solved STBB Books — Static Website
+    readme = f"""# Solved Sindh Textbook Board Books — Static Website
 
-Free solved STBB books & exercises for Sindh Board students (Sindhi, Urdu, English medium).
+Free solved Sindh Textbook Board books & exercises for Sindh Board students (Sindhi, Urdu, English medium).
 Pure static HTML/CSS/JS — no backend, no build step. Deploy anywhere (Vercel, GitHub Pages, Netlify).
 
 ## Live content
