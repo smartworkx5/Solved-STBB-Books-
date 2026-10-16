@@ -1,11 +1,11 @@
-TOPICS = [{'angle': 'Shows parents a short daily read-aloud and picture-talk routine built around early STBB readers, with no '
+TOPICS = [{'angle': 'Shows parents a short daily read-aloud and picture-talk routine built around early Sindh Textbook Board readers, with no '
            'homework pressure.',
   'cat': 'Study Tips',
   'cluster': 'primary-classes-1-4',
-  'keyword': 'class 1 2 reading routine STBB',
+  'keyword': 'class 1 2 reading routine Sindh Textbook Board',
   'slug': 'class-1-2-reading-routine-sindh-textbooks',
   'status': 'done',
-  'title': 'A Simple Daily Reading Routine for Class 1 and 2 STBB Pupils'},
+  'title': 'A Simple Daily Reading Routine for Class 1 and 2 Sindh Textbook Board Pupils'},
  {'angle': 'Focuses on stroke order, lined practice, and short daily drills that help Class 3-4 pupils write Urdu and '
            'Sindhi letters clearly.',
   'cat': 'Study Tips',
@@ -364,7 +364,7 @@ TOPICS = [{'angle': 'Shows parents a short daily read-aloud and picture-talk rou
   'slug': 'english-medium-grammar-tenses-timeline',
   'status': 'todo',
   'title': 'Mastering English Tenses with a Timeline Method'},
- {'angle': 'Adapts the Cornell layout to STBB chapters with cues, notes, and a short summary per page.',
+ {'angle': 'Adapts the Cornell layout to Sindh Textbook Board chapters with cues, notes, and a short summary per page.',
   'cat': 'Subject Guides',
   'cluster': 'english-medium-guides',
   'keyword': 'English medium Cornell note taking',
