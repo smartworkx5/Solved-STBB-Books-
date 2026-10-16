@@ -11,7 +11,7 @@ import json
 import os
 from datetime import date
 
-BASE = "https://www.stbbsolved.pk"
+BASE = "https://solved-stbb-books.vercel.app"
 SITE_DIR = os.path.dirname(os.path.abspath(__file__))
 TODAY = date.today().isoformat()
 
@@ -81,6 +81,28 @@ POSTS += [
 ]
 
 assert len(POSTS) == 50, f"Expected 50 posts, got {len(POSTS)}"
+BASE_POSTS = list(POSTS)
+
+# Daily engine extras: gen/extra_posts.json (appended by gen/build_batch.py).
+# Kept separate so the original 50 posts are never edited by daily runs.
+def _load_extra_posts():
+    extra_path = os.path.join(SITE_DIR, "gen", "extra_posts.json")
+    if not os.path.exists(extra_path):
+        return []
+    try:
+        with open(extra_path, encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return []
+    seen = {p["slug"] for p in BASE_POSTS}
+    out = []
+    for p in data:
+        if p.get("slug") and p["slug"] not in seen:
+            seen.add(p["slug"])
+            out.append(p)
+    return out
+
+POSTS = BASE_POSTS + _load_extra_posts()
 
 
 # ---------------- Generator ----------------
@@ -96,22 +118,100 @@ def related_links(post, all_posts):
         out += f'<li><a href="/blog/{esc(p["slug"])}.html">{esc(p["title"])}</a></li>\n'
     return out
 
+def _md_links(s):
+    """Convert [text](/path) markdown links to <a> tags (after escaping)."""
+    import re
+    return re.sub(r"\[([^\]]+)\]\((/[^)\s]+)\)", r'<a href="\2">\1</a>', s)
+
+def fmt(s):
+    return _md_links(esc(s or ""))
+
+def _count_words(p):
+    parts = [p.get("intro", ""), p.get("desc", "")]
+    for s in p.get("sections", []):
+        parts.append(s.get("h2", ""))
+        parts.extend(s.get("paras", []))
+        parts.extend(s.get("bullets", []))
+    parts.extend(p.get("points", []))
+    for f in p.get("faqs", []):
+        parts.append(f.get("q", ""))
+        parts.append(f.get("a", ""))
+    return max(1, len(" ".join(parts).split()))
+
+def _section_html(s):
+    h = f'<section><h2>{esc(s["h2"])}</h2>\n'
+    for para in s.get("paras", []):
+        h += f"<p>{fmt(para)}</p>\n"
+    if s.get("bullets"):
+        h += "<ul class=\"key-points\">" + "".join(f"<li>{fmt(b)}</li>\n" for b in s["bullets"]) + "</ul>"
+    dg = s.get("diagram")
+    if dg:
+        h += (f'<figure class="diagram"><img src="{esc(dg["src"])}" alt="{esc(dg.get("alt", ""))}" loading="lazy">'
+              f'<figcaption>{esc(dg.get("caption", ""))}</figcaption></figure>\n')
+    h += "</section>\n"
+    return h
+
 def post_html(post, idx, all_posts):
     d = post
     n = idx + 1
-    words = 650
-    faq_q1 = f"What is covered in {d['title'].split('—')[0].strip()}?"
-    faq_a1 = f"This guide covers the full {d['title'].split('—')[0].strip()} with {d['cat'].lower()} focus: key concepts, worked answers, and exam-ready format. Use it with your STBB textbook and the free solved notes on this site."
-    faq_q2 = "Are these notes free?"
-    faq_a2 = "Yes. All solved notes and blog guides on this site are 100% free. You can read them online or download the solved-exercise PDFs for Class 6, 8 and 9 Islamiat in Sindhi and Urdu medium."
-    faq_q3 = "How should I use this guide before the exam?"
-    faq_a3 = "Read it once with your textbook open, then close the book and write the key answers from memory. Re-read the parts you missed. One read + one written recall beats three passive reads."
-    points_html = "".join(f"<li>{esc(p)}</li>\n" for p in d["points"])
+    # Legacy posts keep the original fixed meta line (byte-identical output).
+    # New posts (with sections) get a real computed word count.
+    if d.get("sections"):
+        words = _count_words(d)
+        read_min = max(1, round(words / 200))
+    else:
+        words = 650
+        read_min = 4
+    # FAQs: per-post FAQs for new posts, generic 3 for legacy posts.
+    if d.get("faqs"):
+        faqs = [{"q": f["q"], "a": f["a"]} for f in d["faqs"]]
+    else:
+        faqs = [
+            {"q": f"What is covered in {d['title'].split('—')[0].strip()}?",
+             "a": f"This guide covers the full {d['title'].split('—')[0].strip()} with {d['cat'].lower()} focus: key concepts, worked answers, and exam-ready format. Use it with your STBB textbook and the free solved notes on this site."},
+            {"q": "Are these notes free?",
+             "a": "Yes. All solved notes and blog guides on this site are 100% free. You can read them online or download the solved-exercise PDFs for Class 6, 8 and 9 Islamiat in Sindhi and Urdu medium."},
+            {"q": "How should I use this guide before the exam?",
+             "a": "Read it once with your textbook open, then close the book and write the key answers from memory. Re-read the parts you missed. One read + one written recall beats three passive reads."},
+        ]
     faq_json = [
-        {"@type": "Question", "name": faq_q1, "acceptedAnswer": {"@type": "Answer", "text": faq_a1}},
-        {"@type": "Question", "name": faq_q2, "acceptedAnswer": {"@type": "Answer", "text": faq_a2}},
-        {"@type": "Question", "name": faq_q3, "acceptedAnswer": {"@type": "Answer", "text": faq_a3}},
+        {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}}
+        for f in faqs
     ]
+    faq_html = "".join(
+        f'<details{" open" if i == 0 else ""}><summary>{fmt(f["q"])}</summary><p>{fmt(f["a"])}</p></details>\n'
+        for i, f in enumerate(faqs))
+    og_image = f"{BASE}{d['thumb']}" if d.get("thumb") else f"{BASE}/assets/images/og.svg"
+    if d.get("thumb"):
+        hero_html = (f'<img class="post-thumb" src="{esc(d["thumb"])}" alt="{esc(d["title"])}" '
+                     f'width="1200" height="630">')
+    else:
+        hero_html = (f'<div class="post-hero" role="img" aria-label="Illustration for this article">'
+                     f'<span class="post-hero-num">{n:02d}</span><span class="post-hero-cat">{esc(d["cat"])}</span></div>')
+    # Middle content: new posts use their own sections; legacy posts keep the fixed template.
+    if d.get("sections"):
+        middle_html = "".join(_section_html(s) for s in d["sections"])
+        if d.get("points"):
+            middle_html += (f'<section><h2>{len(d["points"])} key points you must know</h2>'
+                            f'<ul class="key-points">' + "".join(f"<li>{fmt(p)}</li>\n" for p in d["points"]) + "</ul></section>\n")
+    else:
+        points_html = "".join(f"<li>{esc(p)}</li>\n" for p in d["points"])
+        middle_html = f"""<section><h2>What this guide covers</h2>
+<p>Students in Sindh study from STBB textbooks, but the textbook alone does not show how an answer should look in the exam. That is the gap this guide fills. Below you will find the key ideas in exam order, the mistakes to avoid, and a simple revision method you can use tonight. Keep your STBB book open beside this page while you read — every section below maps to a chapter or exercise in the book.</p>
+<p>If you are in a hurry, read the five key points first, then the FAQ at the end. If you have a full study session, work through the whole page and write the answers from memory at the end. Both ways work; the second way works better.</p></section>
+<section><h2>5 key points you must know</h2><ul class="key-points">{points_html}</ul></section>
+<section><h2>How to use this guide (step by step)</h2>
+<ol class="steps">
+<li><strong>Read with the book open.</strong> Match each point above to the matching chapter or exercise in your STBB textbook. If a point does not match, re-read the chapter — the book is always the final source.</li>
+<li><strong>Write one answer from memory.</strong> Close the book and write the most important answer in your own words. Writing reveals what you actually know.</li>
+<li><strong>Check and fix.</strong> Compare your answer with the book and this guide. Add the one line you missed. That missing line is your real lesson.</li>
+<li><strong>Solve a past paper question.</strong> Find one past board question on this topic and answer it timed. Past paper practice turns knowledge into marks.</li>
+<li><strong>Revise after 2 days.</strong> Re-read your written answer after two days. Spaced revision — reading again after a gap — is what moves answers from short-term to long-term memory.</li>
+</ol></section>
+<section><h2>Common mistakes to avoid</h2>
+<p>Most students lose marks on the same few mistakes: starting without reading the question twice, writing one long paragraph instead of points, skipping the reference or example, and leaving questions blank. Avoid those four and your marks rise even if your knowledge stays the same. A second common mistake is studying only from guides and never opening the textbook. Guides help you understand; the textbook is what the paper is set from. Always study both together.</p>
+<p>Finally, do not leave revision to the last night. The night before the exam is for re-reading your notes, not for learning new chapters. Plan your revision so the last night is calm — that calm is worth marks on its own.</p></section>
+"""
     ld = {"@context": "https://schema.org", "@type": "Article",
           "headline": d["title"], "description": d["desc"], "inLanguage": "en",
           "author": {"@type": "Organization", "name": "Solved STBB Books"},
@@ -132,11 +232,11 @@ def post_html(post, idx, all_posts):
 <meta property="og:title" content="{esc(d['title'])}">
 <meta property="og:description" content="{esc(d['desc'])}">
 <meta property="og:url" content="{BASE}/blog/{esc(d['slug'])}.html">
-<meta property="og:image" content="{BASE}/assets/images/og.svg">
+<meta property="og:image" content="{og_image}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{esc(d['title'])}">
 <meta name="twitter:description" content="{esc(d['desc'])}">
-<meta name="twitter:image" content="{BASE}/assets/images/og.svg">
+<meta name="twitter:image" content="{og_image}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#0B6B4A">
@@ -157,31 +257,13 @@ def post_html(post, idx, all_posts):
 <header class="post-head">
 <span class="chip">{esc(d['cat'])}</span>
 <h1>{esc(d['title'])}</h1>
-<p class="post-meta">By Solved STBB Books Team · Updated {TODAY} · {words} words · 4 min read</p>
-<div class="post-hero" role="img" aria-label="Illustration for this article"><span class="post-hero-num">{n:02d}</span><span class="post-hero-cat">{esc(d['cat'])}</span></div>
+<p class="post-meta">By Solved STBB Books Team · Updated {TODAY} · {words} words · {read_min} min read</p>
+{hero_html}
 <p class="lead">{esc(d['intro'])}</p>
 </header>
-<section><h2>What this guide covers</h2>
-<p>Students in Sindh study from STBB textbooks, but the textbook alone does not show how an answer should look in the exam. That is the gap this guide fills. Below you will find the key ideas in exam order, the mistakes to avoid, and a simple revision method you can use tonight. Keep your STBB book open beside this page while you read — every section below maps to a chapter or exercise in the book.</p>
-<p>If you are in a hurry, read the five key points first, then the FAQ at the end. If you have a full study session, work through the whole page and write the answers from memory at the end. Both ways work; the second way works better.</p></section>
-<section><h2>5 key points you must know</h2><ul class="key-points">{points_html}</ul></section>
-<section><h2>How to use this guide (step by step)</h2>
-<ol class="steps">
-<li><strong>Read with the book open.</strong> Match each point above to the matching chapter or exercise in your STBB textbook. If a point does not match, re-read the chapter — the book is always the final source.</li>
-<li><strong>Write one answer from memory.</strong> Close the book and write the most important answer in your own words. Writing reveals what you actually know.</li>
-<li><strong>Check and fix.</strong> Compare your answer with the book and this guide. Add the one line you missed. That missing line is your real lesson.</li>
-<li><strong>Solve a past paper question.</strong> Find one past board question on this topic and answer it timed. Past paper practice turns knowledge into marks.</li>
-<li><strong>Revise after 2 days.</strong> Re-read your written answer after two days. Spaced revision — reading again after a gap — is what moves answers from short-term to long-term memory.</li>
-</ol></section>
-<section><h2>Common mistakes to avoid</h2>
-<p>Most students lose marks on the same few mistakes: starting without reading the question twice, writing one long paragraph instead of points, skipping the reference or example, and leaving questions blank. Avoid those four and your marks rise even if your knowledge stays the same. A second common mistake is studying only from guides and never opening the textbook. Guides help you understand; the textbook is what the paper is set from. Always study both together.</p>
-<p>Finally, do not leave revision to the last night. The night before the exam is for re-reading your notes, not for learning new chapters. Plan your revision so the last night is calm — that calm is worth marks on its own.</p></section>
-<section><h2>Frequently asked questions</h2>
+{middle_html}<section><h2>Frequently asked questions</h2>
 <div class="faq">
-<details open><summary>{esc(faq_q1)}</summary><p>{esc(faq_a1)}</p></details>
-<details><summary>{esc(faq_q2)}</summary><p>{esc(faq_a2)}</p></details>
-<details><summary>{esc(faq_q3)}</summary><p>{esc(faq_a3)}</p></details>
-</div></section>
+{faq_html}</div></section>
 <section><h2>Free solved notes — download next</h2>
 <p>These guides work best with the solved exercises. Download the free PDFs for <a href="/solved.html">Class 6, 8 and 9 Islamiat solved notes</a> in Sindhi and Urdu medium, or browse the <a href="/books.html">full books catalogue</a> for your class and medium. New solved notes are added regularly — check the catalogue for coming-soon books.</p></section>
 <aside class="related"><h2>Related guides</h2><ul>{related_links(post, all_posts)}</ul></aside>
@@ -198,10 +280,13 @@ def post_html(post, idx, all_posts):
 
 def blog_index_html(posts, page, total_pages):
     per = 30
+    # Newest first: extras (daily posts) are appended to POSTS, so reverse.
+    ordered = list(reversed(posts))
     start = (page - 1) * per
-    chunk = posts[start:start + per]
+    chunk = ordered[start:start + per]
     cards = ""
-    for i, p in enumerate(chunk, start=start + 1):
+    for k, p in enumerate(chunk):
+        i = len(posts) - (start + k)
         cards += f"""<article class="card blog-card"><div class="card-cover"><span>{i:02d}</span><small>{esc(p['cat'])}</small></div><div class="card-body"><h3><a href="/blog/{esc(p['slug'])}.html">{esc(p['title'])}</a></h3><p>{esc(p['desc'])}</p><a class="btn small outline" href="/blog/{esc(p['slug'])}.html">Read guide →</a></div></article>\n"""
     prev_link = ""
     next_link = ""
@@ -214,12 +299,12 @@ def blog_index_html(posts, page, total_pages):
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Blog — STBB Solved Notes, Exam Guides & Study Tips | Solved STBB Books</title>
-<meta name="description" content="50 free guides: STBB solved exercises, Sindh Board syllabus, paper patterns, exam dates and study tips for Class 1-10 in Sindhi, Urdu and English medium.">
+<meta name="description" content="{len(posts)} free guides: STBB solved exercises, Sindh Board syllabus, paper patterns, exam dates and study tips for Class 1-10 in Sindhi, Urdu and English medium.">
 <link rel="canonical" href="{BASE}/blog/">
 <meta name="robots" content="index, follow">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Solved STBB Books">
 <meta property="og:title" content="Blog — STBB Solved Notes & Exam Guides">
-<meta property="og:description" content="50 free guides for Sindh Board students: solved exercises, syllabus, paper patterns and study tips.">
+<meta property="og:description" content="{len(posts)} free guides for Sindh Board students: solved exercises, syllabus, paper patterns and study tips.">
 <meta property="og:url" content="{BASE}/blog/"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css">
@@ -233,7 +318,7 @@ def blog_index_html(posts, page, total_pages):
 </nav></div></header>
 <main id="main" class="container">
 <h1>Blog — Guides for Sindh Board Students</h1>
-<p class="lead">50 free guides: solved exercises, syllabus, paper patterns, exam dates and study methods. Search below or browse by category.</p>
+<p class="lead">{len(posts)} free guides: solved exercises, syllabus, paper patterns, exam dates and study methods. Search below or browse by category.</p>
 <div class="filters"><label>Search guides <input type="search" id="blog-search" placeholder="Search guides… e.g. Class 9 Islamiat"></label>
 <label>Category <select id="blog-cat"><option value="">All categories</option><option>Solved Notes</option><option>Study Tips</option><option>Board &amp; Syllabus</option><option>Subject Guides</option></select></label></div>
 <div class="grid" id="blog-grid">{cards}</div>
@@ -254,11 +339,13 @@ def main():
     for i, p in enumerate(POSTS):
         with open(os.path.join(blog_dir, p["slug"] + ".html"), "w", encoding="utf-8") as f:
             f.write(post_html(p, i, POSTS))
-    total_pages = 2
+    import math
+    total_pages = max(1, math.ceil(len(POSTS) / 30))
     with open(os.path.join(blog_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(blog_index_html(POSTS, 1, total_pages))
-    with open(os.path.join(blog_dir, "page-2.html"), "w", encoding="utf-8") as f:
-        f.write(blog_index_html(POSTS, 2, total_pages))
+    for pg in range(2, total_pages + 1):
+        with open(os.path.join(blog_dir, f"page-{pg}.html"), "w", encoding="utf-8") as f:
+            f.write(blog_index_html(POSTS, pg, total_pages))
     print(f"Wrote {len(POSTS)} blog posts + index + page-2")
 
 if __name__ == "__main__":
