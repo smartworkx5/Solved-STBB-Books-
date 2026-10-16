@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370">
+<rect width="1000" height="370" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Confirmed vs Reported</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Confirmed</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Reported, not confirmed</text>
+<rect x="40" y="160" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Check by roll number on the</text>
+<text x="60" y="218" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">official site or by SMS</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Result in October 2026</text>
+<rect x="40" y="242" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Schools may hold result gatherings</text>
+<text x="540" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Result around 10:00 AM on the day</text>
+<rect x="40" y="296" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Only BIEK can confirm the date</text>
+<text x="540" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Any date seen on social media</text>
+</svg>
