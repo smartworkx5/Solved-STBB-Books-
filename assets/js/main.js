@@ -27,7 +27,8 @@ function cardHTML(b){
   const badge = live ? '<span class="chip live">● Live — Preview Free</span>' : '<span class="chip soon">Coming Soon</span>';
   const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
   const cover = b.cover ? `<div class="card-cover has-img"><img src="/${b.cover}" alt="${b.title} — official book cover" loading="lazy"></div>` : `<div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div>`;
-  return `<article class="card" data-id="${b.id}">${cover}<div class="card-body">${badge}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const titleRow = b.cover ? `<h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p>` : '';
+  return `<article class="card" data-id="${b.id}">${cover}<div class="card-body">${badge}${titleRow}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
