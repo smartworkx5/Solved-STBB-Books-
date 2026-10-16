@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="646" viewBox="0 0 1000 646">
+<rect width="1000" height="646" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">From Maths Word to Correct Operation</text>
+<rect x="140" y="108" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 1: Read the question</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Underline the maths word, such as total, difference, or</text>
+<text x="500" y="202" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">product.</text>
+<polygon points="500,236 486,258 514,258" fill="#F59E0B"/>
+<rect x="140" y="266" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="298" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 2: Name the operation</text>
+<text x="500" y="332" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Say it in Sindhi: jama, farq, zarab, or bhaag.</text>
+<polygon points="500,364 486,386 514,386" fill="#F59E0B"/>
+<rect x="140" y="394" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="426" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 3: Write the sum</text>
+<text x="500" y="460" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Set out the numbers neatly in columns.</text>
+<polygon points="500,492 486,514 514,514" fill="#F59E0B"/>
+<rect x="140" y="522" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="554" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 4: Calculate and check</text>
+<text x="500" y="588" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Work slowly, then check by the opposite operation.</text>
+</svg>

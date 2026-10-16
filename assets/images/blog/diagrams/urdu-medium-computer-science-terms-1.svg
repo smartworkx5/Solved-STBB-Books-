@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="468" viewBox="0 0 1000 468">
+<rect width="1000" height="468" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The Computer as a School Office</text>
+<circle cx="500" cy="238" r="95" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="3"/>
+<text x="500" y="232" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">A Computer</text>
+<line x1="360" y1="182" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">CPU</text>
+<text x="80" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">The brain: follows</text>
+<text x="80" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">instructions and calculates.</text>
+<line x1="640" y1="182" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">RAM</text>
+<text x="660" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">The working desk: holds what</text>
+<text x="660" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">you use right now.</text>
+<line x1="360" y1="332" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Storage</text>
+<text x="80" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">The record room: keeps files</text>
+<text x="80" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">after switch-off.</text>
+<line x1="640" y1="332" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Input and Output</text>
+<text x="660" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Doors: keyboard and mouse in,</text>
+<text x="660" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">screen and speaker out.</text>
+</svg>
