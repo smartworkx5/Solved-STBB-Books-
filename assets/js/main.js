@@ -1,25 +1,10 @@
-// Solved STBB Books — search, filters, FAQ, language toggle, detail modal
-const I18N = {
-  en: {heroTitle:"Free Solved STBB Books — Sindhi, Urdu & English Medium", heroSub:"Download solved exercises for Sindh Textbook Board books. Class 6, 8 and 9 Islamiat notes are live now — 100% free, no signup.", searchBtn:"Search", ctaBooks:"Browse All Books", ctaSolved:"Solved Notes"},
-  sd: {heroTitle:"مفت حل ٿيل STBB ڪتاب — سنڌي، اردو ۽ انگريزي ميڊيم", heroSub:"سنڌ ٽيڪسٽ بڪ بورڊ جي ڪتابن جون حل ٿيل مشقون ڊائون لوڊ ڪريو. ڪلاس 6، 8 ۽ 9 اسلاميات جا نوٽس هاڻي موجود آهن — بلڪل مفت.", searchBtn:"ڳولا", ctaBooks:"سڀ ڪتاب ڏسو", ctaSolved:"حل ٿيل نوٽس"},
-  ur: {heroTitle:"مفت حل شدہ STBB کتب — سندھی، اردو اور انگریزی میڈیم", heroSub:"سندھ ٹیکسٹ بک بورڈ کی کتب کی حل شدہ مشقیں ڈاؤن لوڈ کریں۔ کلاس 6، 8 اور 9 اسلامیات کے نوٹس اب موجود ہیں — بالکل مفت۔", searchBtn:"تلاش", ctaBooks:"تمام کتب دیکھیں", ctaSolved:"حل شدہ نوٹس"}
-};
-function setLang(l){
-  const d = I18N[l] || I18N.en;
-  const t = document.getElementById('hero-title'); if(t) t.textContent = d.heroTitle;
-  const s = document.getElementById('hero-sub'); if(s) s.textContent = d.heroSub;
-  document.querySelectorAll('.lang-switch button').forEach(b=>b.classList.toggle('active', b.dataset.lang===l));
-  try{localStorage.setItem('stbb-lang', l);}catch(e){}
-  document.documentElement.lang = l==='en' ? 'en' : (l==='sd' ? 'sd' : 'ur');
-  document.documentElement.dir = l==='en' ? 'ltr' : 'rtl';
-  if(l==='en'){ document.documentElement.dir='ltr'; }
-}
+// Solved STBB Books — search, filters, FAQ, detail modal
+// NOTE: website is English-only. No language switcher, no RTL: the whole
+// document always stays LTR so English content is always left-sided.
 document.addEventListener('DOMContentLoaded', ()=>{
   const navBtn = document.getElementById('nav-toggle');
   const nav = document.getElementById('main-nav');
   if(navBtn && nav){ navBtn.addEventListener('click', ()=>{ nav.classList.toggle('open'); navBtn.setAttribute('aria-expanded', nav.classList.contains('open')); }); }
-  try{ const saved = localStorage.getItem('stbb-lang'); if(saved && I18N[saved]) setLang(saved); }catch(e){}
-  document.querySelectorAll('.lang-switch button').forEach(b=>b.addEventListener('click', ()=>setLang(b.dataset.lang)));
   // Catalogue render
   const grid = document.getElementById('books-grid');
   if(grid){ renderBooks(); ['q','f-class','f-medium','f-subject','f-status'].forEach(id=>{ const el=document.getElementById(id); if(el) el.addEventListener('input', renderBooks); }); }
@@ -39,8 +24,8 @@ async function loadBooks(){
 }
 function cardHTML(b){
   const live = b.status==='live';
-  const badge = live ? '<span class="chip live">● Live — Free PDF</span>' : '<span class="chip soon">Coming Soon</span>';
-  const btn = live ? `<a class="btn small" href="/${b.pdf}" download>⬇ Download PDF</a><button class="btn small outline" onclick="openBook('${b.id}')">Details</button>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
+  const badge = live ? '<span class="chip live">● Live — Preview Free</span>' : '<span class="chip soon">Coming Soon</span>';
+  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}">👁 Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
   return `<article class="card" data-id="${b.id}"><div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div><div class="card-body">${badge}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
@@ -72,7 +57,7 @@ async function openBook(id){
   const b = books.find(x=>x.id===id); if(!b) return;
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
-  const dl = b.pdf ? `<p><a class="btn" href="/${b.pdf}" download>⬇ Download Free PDF</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
+  const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}">👁 Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
   body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
   modal.classList.add('open');
 }
