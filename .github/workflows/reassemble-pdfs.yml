@@ -1,0 +1,31 @@
+name: Reassemble PDFs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - assets/pdfs/parts/**
+      - .github/workflows/reassemble-pdfs.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reassemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reassemble PDFs from base64 parts
+        run: python3 assets/pdfs/parts/reassemble.py
+      - name: Commit reassembled PDFs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/pdfs/*.pdf
+          if git diff --cached --quiet; then
+            echo "No PDF changes to commit."
+          else
+            git commit -m "Reassemble solved-notes PDFs from base64 parts"
+            git push
+          fi
