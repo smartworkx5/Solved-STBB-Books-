@@ -1,6 +1,7 @@
 [
   {
     "id": "isl-6-sd",
+    "cover": "assets/images/covers/isl-6-sd.jpg",
     "title": "Class 6 Islamiat — Solved Exercises (Sindhi Medium)",
     "cls": 6,
     "subject": "Islamiat",
@@ -9,7 +10,7 @@
     "status": "live",
     "pdf": "assets/pdfs/Class6-Islamiat-SolvedExercises-Sindhi.pdf",
     "pages": 28,
-    "desc": "Complete solved exercises for STBB Class 6 Islamiat, Sindhi medium — handwritten-style notes in the book's own format.",
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Islamiat, Sindhi medium — handwritten-style notes in the book's own format.",
     "chapters": [
       "Quran Majeed — Nazra, Hifz, Duaein",
       "Imaniyat & Ibadat — Tauheed, Azan, Namaz, Hajj",
@@ -20,6 +21,7 @@
   },
   {
     "id": "isl-6-ur",
+    "cover": "assets/images/covers/isl-6-ur.jpg",
     "title": "Class 6 Islamiat — Solved Exercises (Urdu Medium)",
     "cls": 6,
     "subject": "Islamiat",
@@ -28,7 +30,7 @@
     "status": "live",
     "pdf": "assets/pdfs/Class6-Islamiat-SolvedExercises-Urdu.pdf",
     "pages": 28,
-    "desc": "Complete solved exercises for STBB Class 6 Islamiat, Urdu medium — clear answers in exam format.",
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Islamiat, Urdu medium — clear answers in exam format.",
     "chapters": [
       "Quran Majeed — Nazra, Hifz, Duaein",
       "Imaniyat & Ibadat — Tauheed, Azan, Namaz, Hajj",
@@ -39,6 +41,7 @@
   },
   {
     "id": "isl-8-sd",
+    "cover": "assets/images/covers/isl-8-sd.jpg",
     "title": "Class 8 Islamiat — Solved Exercises (Sindhi Medium)",
     "cls": 8,
     "subject": "Islamiat",
@@ -47,7 +50,7 @@
     "status": "live",
     "pdf": "assets/pdfs/Class8-Islamiat-SolvedExercises-Sindhi.pdf",
     "pages": 32,
-    "desc": "Complete solved exercises for STBB Class 8 Islamiat, Sindhi medium — Aakhirat, Roza, Seerat, Akhlaq solved.",
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Islamiat, Sindhi medium — Aakhirat, Roza, Seerat, Akhlaq solved.",
     "chapters": [
       "Quran Majeed — Nazra, Hifz, Ayat-ul-Kursi",
       "Imaniyat & Ibadat — Aakhirat, Roza, Hajj",
@@ -58,6 +61,7 @@
   },
   {
     "id": "isl-8-ur",
+    "cover": "assets/images/covers/isl-8-ur.jpg",
     "title": "Class 8 Islamiat — Solved Exercises (Urdu Medium)",
     "cls": 8,
     "subject": "Islamiat",
@@ -66,7 +70,7 @@
     "status": "live",
     "pdf": "assets/pdfs/Class8-Islamiat-SolvedExercises-Urdu.pdf",
     "pages": 32,
-    "desc": "Complete solved exercises for STBB Class 8 Islamiat, Urdu medium — exam-ready answers.",
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Islamiat, Urdu medium — exam-ready answers.",
     "chapters": [
       "Quran Majeed — Nazra, Hifz, Ayat-ul-Kursi",
       "Imaniyat & Ibadat — Aakhirat, Roza, Hajj",
@@ -77,6 +81,7 @@
   },
   {
     "id": "isl-9-sd",
+    "cover": "assets/images/covers/isl-9-sd.jpg",
     "title": "Class 9 Islamiat — Solved Exercises (Sindhi Medium)",
     "cls": 9,
     "subject": "Islamiat",
@@ -85,7 +90,7 @@
     "status": "live",
     "pdf": "assets/pdfs/Class9-Islamiat-SolvedExercises-Sindhi.pdf",
     "pages": 40,
-    "desc": "Complete solved exercises for STBB Class 9 Islamiat (IX–X volume), Sindhi medium — Quran, Hadith, Tauheed, Seerat.",
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Islamiat (IX–X volume), Sindhi medium — Quran, Hadith, Tauheed, Seerat.",
     "chapters": [
       "Quran Majeed — Taaruf, Fazilat, Chuninda Ayaat",
       "Hadith Sharif — Taaruf, Sunnat, Chuninda Ahadith",
@@ -98,6 +103,7 @@
   },
   {
     "id": "isl-9-ur",
+    "cover": "assets/images/covers/isl-9-ur.jpg",
     "title": "Class 9 Islamiat — Solved Exercises (Urdu Medium)",
     "cls": 9,
     "subject": "Islamiat",
@@ -106,7 +112,7 @@
     "status": "live",
     "pdf": "assets/pdfs/Class9-Islamiat-SolvedExercises-Urdu.pdf",
     "pages": 40,
-    "desc": "Complete solved exercises for STBB Class 9 Islamiat (IX–X volume), Urdu medium — board-exam-ready answers.",
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Islamiat (IX–X volume), Urdu medium — board-exam-ready answers.",
     "chapters": [
       "Quran Majeed — Taaruf, Fazilat, Chuninda Ayaat",
       "Hadith Sharif — Taaruf, Sunnat, Chuninda Ahadith",
@@ -127,7 +133,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 1 Sindhi solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 1 Sindhi solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -140,7 +146,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 1 Urdu solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 1 Urdu solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -153,7 +159,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 1 English solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 1 English solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -166,7 +172,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 1 Math solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 1 Math solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -179,7 +185,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 1 Islamiat solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 1 Islamiat solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -192,7 +198,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 2 Sindhi solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 2 Sindhi solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -205,7 +211,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 2 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 2 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -218,7 +224,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 2 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 2 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -231,7 +237,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 2 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 2 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -244,7 +250,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 2 Islamiat solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 2 Islamiat solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -257,7 +263,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 3 Sindhi solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 3 Sindhi solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -270,7 +276,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 3 Urdu solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 3 Urdu solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -283,7 +289,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 3 English solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 3 English solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -296,7 +302,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 3 Math solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 3 Math solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -309,7 +315,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 3 Science solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 3 Science solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -322,7 +328,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 4 Sindhi solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 4 Sindhi solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -335,7 +341,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 4 Urdu solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 4 Urdu solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -348,7 +354,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 4 English solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 4 English solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -361,7 +367,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 4 Math solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 4 Math solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -374,7 +380,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 4 Science solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 4 Science solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -387,7 +393,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 5 Sindhi solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 5 Sindhi solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -400,7 +406,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 5 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 5 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -413,7 +419,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 5 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 5 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -426,7 +432,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 5 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 5 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -439,7 +445,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 5 Science solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 5 Science solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -452,7 +458,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 6 Sindhi solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 6 Sindhi solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -465,7 +471,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 6 Urdu solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 6 Urdu solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -478,7 +484,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 6 English solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 6 English solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -491,7 +497,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 6 Math solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 6 Math solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -504,7 +510,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 6 Science solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 6 Science solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -517,7 +523,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 6 Social Studies solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 6 Social Studies solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -530,7 +536,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 7 Sindhi solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 7 Sindhi solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -543,7 +549,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 7 Urdu solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 7 Urdu solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -556,7 +562,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 7 English solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 7 English solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -569,7 +575,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 7 Math solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 7 Math solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -582,7 +588,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 7 Science solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 7 Science solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -595,7 +601,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 7 Islamiat solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 7 Islamiat solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -608,7 +614,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 8 Sindhi solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 8 Sindhi solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -621,7 +627,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 8 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 8 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -634,7 +640,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 8 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 8 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -647,7 +653,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 8 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 8 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -660,7 +666,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 8 Science solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 8 Science solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -673,7 +679,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 8 Social Studies solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 8 Social Studies solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -686,7 +692,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 Urdu solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -699,7 +705,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 English solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -712,7 +718,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 Math solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -725,7 +731,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 Physics solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 Physics solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -738,7 +744,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 Chemistry solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 Chemistry solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -751,7 +757,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 Biology solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 Biology solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -764,7 +770,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 9 Pakistan Studies solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 9 Pakistan Studies solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -777,7 +783,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 Urdu solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 Urdu solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -790,7 +796,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 English solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 English solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -803,7 +809,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 Math solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 Math solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -816,7 +822,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 Physics solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 Physics solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -829,7 +835,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 Chemistry solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 Chemistry solved exercises, English medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -842,7 +848,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 Biology solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 Biology solved exercises, Sindhi medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -855,7 +861,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 10 Pakistan Studies solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
+    "desc": "Sindh Textbook Board Class 10 Pakistan Studies solved exercises, Urdu medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.",
     "chapters": []
   },
   {
@@ -868,7 +874,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 11 Physics solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 11 Physics solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -881,7 +887,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 11 Chemistry solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 11 Chemistry solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -894,7 +900,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 11 Biology solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 11 Biology solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -907,7 +913,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 11 Mathematics solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 11 Mathematics solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -920,7 +926,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 11 Urdu solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 11 Urdu solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -933,7 +939,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 11 English solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 11 English solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -946,7 +952,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 12 Physics solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 12 Physics solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -959,7 +965,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 12 Chemistry solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 12 Chemistry solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -972,7 +978,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 12 Biology solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 12 Biology solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -985,7 +991,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 12 Mathematics solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 12 Mathematics solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -998,7 +1004,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 12 Urdu solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 12 Urdu solved exercises, English medium — coming soon.",
     "chapters": []
   },
   {
@@ -1011,7 +1017,7 @@
     "status": "coming-soon",
     "pdf": null,
     "pages": null,
-    "desc": "STBB Class 12 English solved exercises, English medium — coming soon.",
+    "desc": "Sindh Textbook Board Class 12 English solved exercises, English medium — coming soon.",
     "chapters": []
   }
 ]
