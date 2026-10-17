@@ -48,7 +48,10 @@ function cardHTML(b){
   const cover = subjectCover(b);
   const badge = live ? '<span class="live-badge"><i></i>Live Preview</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
   const btn = live ? `<a class="btn-open" href="/preview.html?id=${b.id}">${BOOK_IC} Open &rarr;</a>` : `<button class="btn-open" onclick="openBook('${b.id}')">Notify me</button>`;
-  return `<article class="card" data-id="${b.id}" data-class="${b.cls}"><div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div><div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const coverEl = live
+    ? `<div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div>${badge}</div>`
+    : `<div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div>`;
+  return `<article class="card" data-id="${b.id}" data-class="${b.cls}">${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
@@ -71,8 +74,8 @@ async function renderBooks(){
     if(q && !(b.title+' '+b.subject+' '+b.medium+' Class '+b.cls).toLowerCase().includes(q)) return false;
     return true;
   });
-  const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' books found';
-  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No books match your filters. Try clearing the search or choose another class/medium.</p>';
+  const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
+  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
 async function openBook(id){
   const books = await loadBooks();
@@ -80,8 +83,8 @@ async function openBook(id){
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
   const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
-  const coverImg = b.cover ? `<img class="modal-cover" src="/${b.cover}" alt="${b.title} — official book cover">` : '';
-  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
+  const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
+  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to solved notes</a></p>`;
   modal.classList.add('open');
 }
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }

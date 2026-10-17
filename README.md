@@ -19,7 +19,7 @@ python3 -m http.server 8000
 1. Drop the PDF into `assets/pdfs/` (e.g. `Class10-Physics-SolvedExercises-English.pdf`).
 2. Edit `assets/data/books.json` — copy a live entry, set `status: "live"`, `pdf: "assets/pdfs/<file>.pdf"`, `pages`, `desc`, `chapters`.
 3. Or: add the entry to `BOOKS` in `build_site.py` and re-run `python3 build_site.py`.
-4. The book appears automatically on Home, Books and Solved pages (JS renders from books.json).
+4. The book appears automatically on Home and Solved Notes pages (JS renders from books.json).
 
 ## Add a blog post
 Daily engine (15/day, from 2026-10-16): write a `gen/batch_XXX.py` batch file, run `python3 gen/build_batch.py batch_XXX BATCH_XXX` (validates, appends to `gen/extra_posts.json`, rebuilds blog + sitemap), then `python3 gen/push_batch.py "Day N" <files>` to push.
@@ -34,13 +34,13 @@ Manual single post: append a dict to `POSTS` in `build_blog.py` (slug, title, ca
 4. Submit `https://YOUR-DOMAIN/sitemap.xml` in Google Search Console.
 
 ## Files
-- `index.html`, `books.html`, `solved.html`, `about.html`, `contact.html`, `privacy.html`, `terms.html`
+- `index.html`, `books.html`, `about.html`, `contact.html`, `privacy.html`, `terms.html`
 - `blog/` — 50 posts + index + page-2
 - `assets/css/style.css`, `assets/js/main.js`, `assets/data/books.json`, `assets/pdfs/`
 - `sitemap.xml`, `robots.txt`, `manifest.webmanifest`, `favicon.svg`
 - `build_site.py`, `build_blog.py` — generators (source of truth for pages/blogs)
 
-## Domain suggestions (check availability before buying)
+## Domain suggestions (check availability before registering)
 1. **stbbsolved.pk** — exact-match, best for SEO in Pakistan
 2. **solvedstbb.com** — global, easy to say
 3. **stbbnotes.pk** — short, memorable, brandable
