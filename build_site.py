@@ -264,6 +264,23 @@ figure.diagram{margin:22px 0 8px;border:1px solid var(--line);border-radius:12px
 @media(max-width:520px){.hero h1{font-size:22px}.grid{grid-template-columns:1fr}.hero-search{flex-direction:column;background:transparent;padding:0;box-shadow:none;gap:10px}.hero-search input{background:#fff;border-radius:999px;padding:13px 18px;width:100%}.hero-search .btn{width:100%}}
 .pdf-frame{width:100%;height:78vh;border:1px solid var(--line);border-radius:12px;background:#fff}.btn.whatsapp{background:#25D366;border-color:#25D366;color:#fff!important}.btn.whatsapp:hover{background:#1FB857;border-color:#1FB857}.preview-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 @media(max-width:760px){.pdf-frame{height:68vh}}
+
+/* ---- Responsive hardening (mobile / tablet) ---- */
+/* Global media containment: no image, svg, video or iframe may ever exceed its container */
+img,svg,video,iframe{max-width:100%}
+img{height:auto}
+/* Long words / URLs in article bodies must wrap instead of overflowing narrow screens */
+.post{overflow-wrap:break-word}
+.post a{overflow-wrap:anywhere}
+.crumbs{overflow-wrap:break-word}
+/* Pagination links may wrap on small screens instead of clipping */
+.pagination{flex-wrap:wrap}
+/* Keep the header on one line a little longer on small tablets */
+@media(max-width:900px){.main-nav a{padding:8px 11px;font-size:14px}.logo-text{font-size:15px}}
+/* Article hero: stack title + number on mobile */
+@media(max-width:760px){.post-hero{flex-direction:column;align-items:flex-start;gap:6px;padding:26px 20px}.post-hero-num{font-size:36px;line-height:1}}
+/* Small phones: smaller headings, single-column trust grid, full-width newsletter form */
+@media(max-width:520px){.section h2{font-size:24px}.post h1{font-size:26px}.post h2{font-size:21px}.trust-grid{grid-template-columns:1fr}.newsletter{padding:24px 18px}.newsletter input{min-width:0;width:100%}.newsletter form{flex-direction:column}.newsletter .btn{width:100%}}
 """
 
 JS = r"""
