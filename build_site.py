@@ -133,6 +133,11 @@ REAL = [
 {'id': 'pakistan-studies-10-ur', 'title': 'Class 10 Pakistan Studies — Solved Exercises (Urdu Medium)', 'cls': 10, 'subject': 'Pakistan Studies', 'medium': 'Urdu', 'type': 'solved-notes', 'status': 'live', 'pdf': 'assets/pdfs/Class10-PakistanStudies-SolvedExercises-Urdu.pdf', 'pages': 35, 'desc': 'Complete solved exercises for Sindh Textbook Board Class 10 Pakistan Studies, Urdu medium — solved from the official textbook, exam-ready answers.', 'chapters': []},
 {'id': 'pakistan-studies-10-en', 'title': 'Class 10 Pakistan Studies — Solved Exercises (English Medium)', 'cls': 10, 'subject': 'Pakistan Studies', 'medium': 'English', 'type': 'solved-notes', 'status': 'live', 'pdf': 'assets/pdfs/Class10-PakistanStudies-SolvedExercises-English.pdf', 'pages': 53, 'desc': 'Complete solved exercises for Sindh Textbook Board Class 10 Pakistan Studies, English medium — solved from the official textbook, exam-ready answers.', 'chapters': []}
 ]
+SUBJ_SLUG = {"Sindhi":"sindhi","Urdu":"urdu","English":"english","Arabic":"arabic","Math":"math","Science":"science","Social Studies":"social-studies","Islamiat":"islamiat","Mazhabi Taleemat":"mazhabi-taleemat","Computer":"computer","Physics":"physics","Chemistry":"chemistry","Biology":"biology","Pakistan Studies":"pakistan-studies","Mathematics":"math"}
+SUBJECT_COVERS = {s: f"assets/images/covers/subjects/{slug}.svg" for s, slug in SUBJ_SLUG.items()}
+# All cards use the illustrated per-subject SVG covers (the 6 photo covers stay in the repo, unused).
+for _b in REAL:
+    _b["cover"] = SUBJECT_COVERS[_b["subject"]]
 SUBJECTS_BY_CLASS = {
  1:["Sindhi","Urdu","English","Math","Islamiat"], 2:["Sindhi","Urdu","English","Math","Islamiat"],
  3:["Sindhi","Urdu","English","Math","Science"], 4:["Sindhi","Urdu","English","Math","Science"],
@@ -151,11 +156,11 @@ for cls, subjects in SUBJECTS_BY_CLASS.items():
             continue  # already live above
         if f"{subj.lower().replace(' ','-')}-{cls}-{med.lower()[:2]}" in REAL_IDS:
             continue  # already live in REAL
-        BOOKS.append({"id":f"{subj.lower().replace(' ','-')}-{cls}-{med.lower()[:2]}","title":f"Class {cls} {subj} — Solved Exercises ({med} Medium)","cls":cls,"subject":subj,"medium":med,"type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class {cls} {subj} solved exercises, {med} medium — coming soon. Check the live Islamiat notes for Classes 6, 8 and 9 while this one is prepared.","chapters":[]})
+        BOOKS.append({"id":f"{subj.lower().replace(' ','-')}-{cls}-{med.lower()[:2]}","title":f"Class {cls} {subj} — Solved Exercises ({med} Medium)","cls":cls,"subject":subj,"medium":med,"type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class {cls} {subj} solved exercises, {med} medium — coming soon. Browse the 119 live solved books while this one is prepared.","chapters":[],"cover":SUBJECT_COVERS[subj]})
 for subj in ["Physics","Chemistry","Biology","Mathematics","Urdu","English"]:
-    BOOKS.append({"id":f"{subj.lower()}-11-en","title":f"Class 11 {subj} — Solved Exercises (English Medium)","cls":11,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class 11 {subj} solved exercises, English medium — coming soon.","chapters":[]})
+    BOOKS.append({"id":f"{subj.lower()}-11-en","title":f"Class 11 {subj} — Solved Exercises (English Medium)","cls":11,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class 11 {subj} solved exercises, English medium — coming soon.","chapters":[],"cover":SUBJECT_COVERS[subj]})
 for subj in ["Physics","Chemistry","Biology","Mathematics","Urdu","English"]:
-    BOOKS.append({"id":f"{subj.lower()}-12-en","title":f"Class 12 {subj} — Solved Exercises (English Medium)","cls":12,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class 12 {subj} solved exercises, English medium — coming soon.","chapters":[]})
+    BOOKS.append({"id":f"{subj.lower()}-12-en","title":f"Class 12 {subj} — Solved Exercises (English Medium)","cls":12,"subject":subj,"medium":"English","type":"solved-notes","status":"coming-soon","pdf":None,"pages":None,"desc":f"Sindh Textbook Board Class 12 {subj} solved exercises, English medium — coming soon.","chapters":[],"cover":SUBJECT_COVERS[subj]})
 
 def w(path, content):
     full = os.path.join(SITE, path)
@@ -166,23 +171,70 @@ def w(path, content):
 
 
 CSS = r"""
-:root{--green:#0B6B4A;--green2:#0E8A5F;--teal:#0E7C7B;--dark:#14201B;--muted:#5A6B62;--bg:#F7FAF8;--card:#fff;--line:#DCE8E0;--amber:#E8A020;--radius:14px}
-*{box-sizing:border-box}html{scroll-behavior:smooth}html,body{width:100%}body{overflow-x:clip;margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:var(--dark);background:var(--bg);line-height:1.65}
-a{color:var(--green)}a:hover{color:var(--green2)}.container{width:100%;max-width:1140px;margin:0 auto;padding:0 18px}
+:root{--green:#0B6B4A;--green2:#0E8A5F;--green-dark:#065F46;--dark:#14201B;--muted:#5A6B62;--bg:#F7FAF8;--card:#fff;--line:#E3ECE7;--amber:#F5B301;--radius:16px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}html,body{width:100%}body{overflow-x:clip;margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:var(--dark);background:#fff;line-height:1.65}
+a{color:var(--green)}a:hover{color:var(--green2)}.container{width:100%;max-width:1180px;margin:0 auto;padding:0 20px}
 .skip-link{position:absolute;left:-9999px}.skip-link:focus{position:static;background:var(--green);color:#fff;padding:8px 14px;display:block}
-.site-header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50}.header-inner{display:flex;align-items:center;gap:16px;min-height:64px}
-.logo{display:flex;align-items:center;gap:9px;font-weight:800;font-size:19px;color:var(--dark);text-decoration:none}.logo-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:9px;background:var(--green);color:#fff;font-size:20px}
-.main-nav{margin-left:auto;display:flex;align-items:center;gap:4px;flex-wrap:wrap}.main-nav a{padding:8px 11px;border-radius:8px;text-decoration:none;color:var(--dark);font-weight:600;font-size:15px}.main-nav a.active,.main-nav a:hover{background:#EAF4EF;color:var(--green)}
-.btn{display:inline-block;background:var(--green);color:#fff!important;text-decoration:none;padding:12px 22px;border-radius:10px;font-weight:700;border:2px solid var(--green);cursor:pointer}.btn:hover{background:var(--green2);border-color:var(--green2)}.btn.small{padding:8px 15px;font-size:14px}.btn .ic{vertical-align:-2px;margin-right:5px}.btn.outline{background:#fff;color:var(--green)!important}.btn.light{background:#fff;color:var(--green)!important;border-color:#fff}.btn.amber{background:var(--amber);border-color:var(--amber);color:#222!important}
+.site-header{background:#fff;border-bottom:1px solid #EEF2EF;position:sticky;top:0;z-index:50}.header-inner{display:flex;align-items:center;gap:18px;min-height:68px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--dark);line-height:1.15}.logo-mark{display:inline-flex;align-items:center;justify-content:center;min-width:40px;width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,#0E8A5F,#0B6B4A);color:#fff;font-size:23px;font-weight:800;box-shadow:0 4px 10px rgba(11,107,74,.25)}.logo-text{display:flex;flex-direction:column;font-weight:800;font-size:16.5px}.logo-text small{font-size:16.5px;font-weight:800}
+.main-nav{margin-left:auto;display:flex;align-items:center;gap:2px;flex-wrap:wrap}.main-nav a{padding:9px 14px;border-radius:999px;text-decoration:none;color:var(--dark);font-weight:600;font-size:15px}.main-nav a.active{background:var(--green);color:#fff!important}.main-nav a:hover{background:#EAF4EF;color:var(--green)}
+.header-search{display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;color:var(--dark);text-decoration:none;flex-shrink:0}.header-search:hover{background:#EAF4EF}
+.btn{display:inline-block;background:var(--green);color:#fff!important;text-decoration:none;padding:12px 22px;border-radius:999px;font-weight:700;border:2px solid var(--green);cursor:pointer}.btn:hover{background:var(--green2);border-color:var(--green2)}.btn.small{padding:9px 16px;font-size:14px}.btn .ic{vertical-align:-2px;margin-right:5px}.btn.outline{background:#fff;color:var(--green)!important}.btn.light{background:#fff;color:var(--green)!important;border-color:#fff}.btn.amber{background:var(--amber);border-color:var(--amber);color:#222!important}.btn.amber:hover{background:#FFC61A;border-color:#FFC61A}.btn-browse{box-shadow:0 4px 12px rgba(11,107,74,.25)}
 .nav-toggle{display:none;margin-left:auto;background:none;border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:18px;cursor:pointer}
-.hero{background:var(--green);color:#fff;padding:52px 0 46px;text-align:center}.hero h1{font-size:clamp(30px,5vw,48px);line-height:1.15;margin:10px 0 14px}.hero p.lead{font-size:18px;max-width:720px;opacity:.95;margin:0 auto}.eyebrow{display:inline-block;background:rgba(255,255,255,.16);padding:6px 12px;border-radius:999px;font-size:13px;font-weight:700}
-.search-box{display:flex;gap:10px;max-width:680px;margin:22px auto 10px}.search-box input{flex:1;padding:14px 16px;border-radius:10px;border:0;font-size:16px}.search-box .btn{background:#fff;color:var(--green)!important;border-color:#fff}
-
-.section{padding:48px 0}.section h2{font-size:30px;margin:0 0 8px}.section .sub{color:var(--muted);max-width:760px;margin:0 0 26px}
+.hero{background:linear-gradient(115deg,#063E2A 0%,#0B6B4A 45%,#0E8A5F 100%);color:#fff;padding:56px 0 52px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;width:520px;height:520px;border-radius:50%;background:rgba(255,255,255,.07);top:-180px;right:-80px}
+.hero::after{content:"";position:absolute;width:380px;height:380px;border-radius:50%;background:rgba(245,179,1,.14);bottom:-160px;left:-100px}
+.hero-inner{position:relative;z-index:1;display:grid;grid-template-columns:1.15fr .85fr;gap:36px;align-items:center}
+.hero-badge{display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.22);padding:7px 15px;border-radius:999px;font-size:13.5px;font-weight:700}
+.hero h1{font-size:clamp(32px,4.6vw,52px);line-height:1.12;margin:18px 0 14px;font-weight:800}
+.hero-yellow{color:#FDE047}
+.hero-lead{font-size:17px;opacity:.92;max-width:560px;margin:0 0 22px}
+.hero-search{display:flex;gap:8px;background:#fff;border-radius:999px;padding:7px 7px 7px 18px;max-width:560px;box-shadow:0 10px 24px rgba(0,0,0,.18);align-items:center}
+.hero-search .search-ic{color:#6B7280;flex-shrink:0}
+.hero-search input{flex:1;border:0;outline:0;font-size:15.5px;min-width:0;background:transparent}
+.hero-search .btn{padding:11px 24px}
+.hero-cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
+.btn-white{background:#fff;color:var(--green)!important;border-color:#fff}
+.hero-art{display:flex;justify-content:center}
+.hero-art svg{max-width:100%;height:auto;filter:drop-shadow(0 18px 28px rgba(0,0,0,.3))}
+.trust-bar{background:#fff;border-bottom:1px solid #EEF2EF;padding:22px 0}
+.trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.trust-item{display:flex;gap:13px;align-items:flex-start}
+.trust-ic{flex-shrink:0;width:46px;height:46px;border-radius:50%;background:#E6F4EC;display:flex;align-items:center;justify-content:center;color:var(--green)}
+.trust-item b{display:block;font-size:15.5px;line-height:1.3}
+.trust-item small{color:var(--muted);font-size:13.5px}
+.section{padding:52px 0}.section h2{font-size:30px;margin:0 0 8px}.section .sub{color:var(--muted);max-width:760px;margin:0 0 26px}
+.feat-head{display:flex;gap:20px;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;margin-bottom:24px}
+.feat-head h2{margin:0}.feat-head .sub{margin:6px 0 0}
+.feat-pills{display:flex;gap:8px;flex-wrap:wrap}
+.feat-pill{border:1.5px solid var(--line);background:#fff;color:var(--dark);padding:8px 18px;border-radius:999px;font-weight:700;font-size:14px;cursor:pointer}
+.feat-pill.active{background:var(--green);border-color:var(--green);color:#fff}
+.feat-pill:hover{border-color:var(--green);color:var(--green)}
+.feat-pill.active:hover{color:#fff}
 .filters{display:flex;gap:12px;flex-wrap:wrap;background:#fff;border:1px solid var(--line);padding:16px;border-radius:var(--radius);margin-bottom:26px}.filters label{font-weight:700;font-size:14px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:170px}.filters input,.filters select{padding:11px 12px;border:1px solid var(--line);border-radius:9px;font-size:15px;background:#fff}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:18px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}.card-cover.has-img{background:#fff;padding:10px;min-height:0}.card-cover.has-img img{width:auto;height:110px;object-fit:contain;display:block;margin:0 auto;border:1px solid var(--line);border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,.08)}.card-meta{display:flex;gap:6px;flex-wrap:wrap;margin:0}.modal-cover{width:100%;max-height:260px;object-fit:contain;background:#fff;border-radius:8px;margin-bottom:12px}.card-cover{background:var(--green);color:#fff;padding:22px;min-height:120px;display:flex;flex-direction:column;justify-content:flex-end;gap:4px}.card-cover small{opacity:.85}.card-cover b{font-size:20px;line-height:1.25}.card-body{padding:18px;display:flex;flex-direction:column;gap:10px;flex:1}.card-body h3{margin:0;font-size:18px;line-height:1.35}.card-body p{margin:0;color:var(--muted);font-size:14.5px}.card-body .actions{margin-top:auto;display:flex;gap:8px;flex-wrap:wrap}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+.card{background:var(--card);border:1px solid #E7EFEA;border-radius:18px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 2px 10px rgba(20,32,27,.05);transition:transform .15s ease,box-shadow .15s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(20,32,27,.12)}
+.card-cover{position:relative;background:#F1F5F2}
+.card-cover img{display:block;width:100%;height:auto;aspect-ratio:400/300;object-fit:cover}
+.live-badge{position:absolute;top:12px;left:12px;background:rgba(255,255,255,.94);color:#0B6B4A;font-size:12px;font-weight:800;padding:5px 11px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;box-shadow:0 2px 8px rgba(0,0,0,.12)}
+.live-badge i{width:7px;height:7px;border-radius:50%;background:#22C55E;display:inline-block;font-style:normal}
+.live-badge.soon{color:#8A5A00}.live-badge.soon i{background:#F59E0B}
+.card-body{padding:18px;display:flex;flex-direction:column;gap:10px;flex:1}
+.subj-tag{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:800;padding:5px 11px;border-radius:8px;width:fit-content;background:#EAF4EF;color:#0B6B4A}
+.subj-tag.sindhi{background:#F3E8FF;color:#7C3AED}.subj-tag.urdu{background:#E9F9EC;color:#0B6B4A}.subj-tag.english{background:#FDE8EF;color:#BE185D}.subj-tag.arabic{background:#E0F2FE;color:#1D4ED8}.subj-tag.math{background:#FFF7CC;color:#92400E}.subj-tag.science{background:#E0F7FA;color:#0E7490}.subj-tag.social-studies{background:#E8EAF6;color:#4338CA}.subj-tag.islamiat{background:#DBEAFE;color:#1E40AF}.subj-tag.mazhabi-taleemat{background:#E0F2F1;color:#00695C}.subj-tag.computer{background:#EDE9FE;color:#5B21B6}.subj-tag.physics{background:#FFEDD5;color:#C2410C}.subj-tag.chemistry{background:#FCE7F3;color:#9D174D}.subj-tag.biology{background:#DCFCE7;color:#15803D}.subj-tag.pakistan-studies{background:#D1FAE5;color:#065F46}
+.card-body h3{margin:0;font-size:17.5px;line-height:1.35}
+.card-meta{display:flex;gap:6px;flex-wrap:wrap;margin:0}
+.card-desc{margin:0;color:var(--muted);font-size:14px;line-height:1.55}
+.card-body .actions{margin-top:auto;padding-top:4px}
+.btn-open{display:inline-flex;align-items:center;gap:7px;background:var(--green-dark);color:#fff!important;text-decoration:none;padding:10px 20px;border-radius:999px;font-weight:700;font-size:14.5px}
+.btn-open:hover{background:var(--green)}
+.modal-cover{width:100%;max-height:260px;object-fit:contain;background:#F1F5F2;border-radius:8px;margin-bottom:12px}
 .chip{display:inline-block;background:#EAF4EF;color:var(--green);padding:4px 10px;border-radius:999px;font-size:12.5px;font-weight:700}.chip.soon{background:#FFF4DE;color:#8A5A00}.chip.live{background:#E3F7EC;color:#0B6B4A}
+.pdf-banner{display:flex;align-items:center;gap:18px;background:#EAF6EF;border:1px solid #D3EBDC;border-radius:18px;padding:22px 26px;flex-wrap:wrap;margin-top:10px}
+.pdf-banner-icon{width:56px;height:56px;border-radius:50%;background:var(--green);color:#fff;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.pdf-banner h3{margin:0;font-size:19px}.pdf-banner p{margin:2px 0 0;color:var(--muted);font-size:14.5px}
+.pdf-banner .btn.whatsapp{margin-left:auto}
 .steps-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}.step{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px}.step .num{width:44px;height:44px;border-radius:50%;background:var(--green);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px;margin-bottom:12px}
 .subject-strip{display:flex;gap:10px;flex-wrap:wrap}.subject-strip a{background:#fff;border:1px solid var(--line);padding:9px 16px;border-radius:999px;text-decoration:none;color:var(--dark);font-weight:600}
 .testimonials{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}.testi{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:22px}.testi p{font-style:italic}.testi b{display:block;margin-top:10px}
@@ -197,7 +249,9 @@ figure.diagram{margin:22px 0 8px;border:1px solid var(--line);border-radius:12px
 .site-footer{background:#fff;border-top:1px solid var(--line);margin-top:50px;padding:36px 0 20px}.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:24px}.site-footer ul{list-style:none;padding:0}.site-footer li{margin-bottom:8px}.site-footer a{text-decoration:none;color:var(--muted)}.copyright{text-align:center;color:var(--muted);font-size:13.5px;border-top:1px solid var(--line);padding-top:16px}
 .pagination{display:flex;gap:12px;align-items:center;justify-content:center;margin:30px 0}.form-box{max-width:640px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px}.form-box label{display:block;font-weight:700;margin:14px 0 6px}.form-box input,.form-box textarea,.form-box select{width:100%;padding:12px;border:1px solid var(--line);border-radius:9px;font-size:15px}
 .notice{background:#FFF4DE;border:1px solid #F2D492;border-radius:10px;padding:14px 18px}
-@media(max-width:760px){.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.search-box{flex-direction:column}.hero{padding:36px 0 30px}.section{padding:32px 0}}
+@media(max-width:1020px){.grid{grid-template-columns:repeat(3,1fr)}.trust-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:760px){.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.hero{padding:36px 0 30px}.section{padding:32px 0}.hero-inner{grid-template-columns:1fr}.hero-art{display:none}.grid{grid-template-columns:repeat(2,1fr)}.trust-grid{grid-template-columns:1fr 1fr}.pdf-banner{flex-direction:column;align-items:flex-start}.pdf-banner .btn.whatsapp{margin-left:0}.feat-head{flex-direction:column;align-items:flex-start}}
+@media(max-width:520px){.grid{grid-template-columns:1fr}.hero-search{flex-direction:column;background:transparent;padding:0;box-shadow:none;gap:10px}.hero-search input{background:#fff;border-radius:999px;padding:13px 18px;width:100%}.hero-search .btn{width:100%}}
 .pdf-frame{width:100%;height:78vh;border:1px solid var(--line);border-radius:12px;background:#fff}.btn.whatsapp{background:#25D366;border-color:#25D366;color:#fff!important}.btn.whatsapp:hover{background:#1FB857;border-color:#1FB857}.preview-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 @media(max-width:760px){.pdf-frame{height:68vh}}
 """
@@ -215,6 +269,17 @@ document.addEventListener('DOMContentLoaded', ()=>{
   if(grid){ renderBooks(); ['q','f-class','f-medium','f-subject','f-status'].forEach(id=>{ const el=document.getElementById(id); if(el) el.addEventListener('input', renderBooks); }); }
   const blogSearch = document.getElementById('blog-search');
   if(blogSearch){ const cat=document.getElementById('blog-cat'); const fn=()=>{ const q=blogSearch.value.toLowerCase(); const c=cat?cat.value:''; document.querySelectorAll('#blog-grid .blog-card').forEach(card=>{ const txt=card.textContent.toLowerCase(); const okQ=!q||txt.includes(q); const okC=!c||txt.includes(c.toLowerCase()); card.style.display=(okQ&&okC)?'':'none'; }); }; blogSearch.addEventListener('input',fn); if(cat) cat.addEventListener('change',fn); }
+  // Featured class-filter pills (index featured grid + solved page)
+  document.querySelectorAll('.feat-pills').forEach(pills=>{
+    pills.addEventListener('click', e=>{
+      const btn = e.target.closest('.feat-pill'); if(!btn) return;
+      pills.querySelectorAll('.feat-pill').forEach(p=>p.classList.remove('active'));
+      btn.classList.add('active');
+      const grid = document.getElementById(pills.dataset.grid); if(!grid) return;
+      const f = btn.dataset.filter;
+      grid.querySelectorAll('.card').forEach(card=>{ card.style.display = (f==='all' || card.dataset.class===f) ? '' : 'none'; });
+    });
+  });
   // Hero search -> books page
   const heroForm = document.getElementById('hero-search-form');
   if(heroForm){ heroForm.addEventListener('submit', e=>{ e.preventDefault(); const q=document.getElementById('hero-search').value; window.location.href='/books.html?q='+encodeURIComponent(q); }); }
@@ -227,13 +292,22 @@ async function loadBooks(){
   try{ const r = await fetch('/assets/data/books.json'); BOOKS = await r.json(); }catch(e){ BOOKS = []; }
   return BOOKS;
 }
+function subjSlug(subject){
+  const map = {'Sindhi':'sindhi','Urdu':'urdu','English':'english','Arabic':'arabic','Math':'math','Science':'science','Social Studies':'social-studies','Islamiat':'islamiat','Mazhabi Taleemat':'mazhabi-taleemat','Computer':'computer','Physics':'physics','Chemistry':'chemistry','Biology':'biology','Pakistan Studies':'pakistan-studies','Mathematics':'math'};
+  return map[subject] || 'science';
+}
+function subjectCover(b){
+  if(b.cover) return b.cover;
+  return 'assets/images/covers/subjects/' + subjSlug(b.subject) + '.svg';
+}
+const BOOK_IC = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>';
 function cardHTML(b){
   const live = b.status==='live';
-  const badge = live ? '<span class="chip live">● Live — Preview Free</span>' : '<span class="chip soon">Coming Soon</span>';
-  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
-  const cover = b.cover ? `<div class="card-cover has-img"><img src="/${b.cover}" alt="${b.title} — official book cover" loading="lazy"></div>` : `<div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div>`;
-  const titleRow = b.cover ? `<h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p>` : '';
-  return `<article class="card" data-id="${b.id}">${cover}<div class="card-body">${badge}${titleRow}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const slug = subjSlug(b.subject);
+  const cover = subjectCover(b);
+  const badge = live ? '<span class="live-badge"><i></i>Live Preview</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
+  const btn = live ? `<a class="btn-open" href="/preview.html?id=${b.id}">${BOOK_IC} Open &rarr;</a>` : `<button class="btn-open" onclick="openBook('${b.id}')">Notify me</button>`;
+  return `<article class="card" data-id="${b.id}" data-class="${b.cls}"><div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div><div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
@@ -290,7 +364,7 @@ def head(title, desc, path, keywords="", extra=""):
 <meta property="og:url" content="{BASE}{path}"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{title}"><meta name="twitter:description" content="{desc}"><meta name="twitter:image" content="{BASE}/assets/images/og.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=2">
+<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=3">
 {extra}</head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -300,10 +374,10 @@ def header(active=""):
     def a(href, label):
         return f'<a href="{href}" class="{"active" if href==active else ""}">{label}</a>'
     return f"""<header class="site-header"><div class="container header-inner">
-<a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a>
+<a class="logo" href="/"><span class="logo-mark">S</span><span class="logo-text">Solved Sindh Textbook Board<small>Books</small></span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-{a('/', 'Home')}{a('/books.html', 'Books')}{a('/solved.html', 'Solved Notes')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}<a href="/books.html" class="btn small">Browse Books</a>
+{a('/', 'Home')}{a('/books.html', 'Books')}{a('/solved.html', 'Solved Notes')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}<a class="header-search" href="/books.html" aria-label="Search books"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg></a><a href="/books.html" class="btn small btn-browse">Browse Books</a>
 </nav></div></header>
 """
 
@@ -320,16 +394,16 @@ MODAL = """<div class="modal-backdrop" id="book-modal" role="dialog" aria-modal=
 ORG_LD = json.dumps({"@context":"https://schema.org","@type":"Organization","name":"Solved Sindh Textbook Board Books","url":BASE,"logo":BASE+"/assets/images/og.svg","description":"Free solved Sindh Textbook Board books and exercises for Sindh Board students in Sindhi, Urdu and English medium."}, ensure_ascii=False)
 SITE_LD = json.dumps({"@context":"https://schema.org","@type":"WebSite","name":"Solved Sindh Textbook Board Books","url":BASE,"inLanguage":["en","sd","ur"],"publisher":{"@type":"Organization","name":"Solved Sindh Textbook Board Books"},"potentialAction":{"@type":"SearchAction","target":BASE+"/books.html?q={search_term_string}","query-input":"required name=search_term_string"}}, ensure_ascii=False)
 
+BOOK_ICON = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>'
+HERO_ART = '<svg viewBox="0 0 520 420" width="460" height="372" role="img" aria-label="Stack of Sindh Textbook Board books">\n<path d="M448 36l4 12 12 4-12 4-4 12-4-12-12-4 12-4z" fill="#FDE047"/>\n<path d="M52 52l3 9 9 3-9 3-3 9-3-9-9-3 9-3z" fill="#ffffff" opacity="0.85"/>\n<path d="M492 250l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#FDE047" opacity="0.9"/>\n<g transform="translate(396,52) rotate(12)">\n<polygon points="0,16 48,0 96,16 48,32" fill="#0B6B4A" stroke="#ffffff" stroke-width="2"/>\n<polygon points="24,28 24,52 48,62 72,52 72,28 48,38" fill="#065F46"/>\n<line x1="72" y1="28" x2="72" y2="62" stroke="#FDE047" stroke-width="2"/><circle cx="72" cy="66" r="4" fill="#FDE047"/>\n</g>\n<text x="398" y="146" font-family="cursive" font-size="30" fill="#FDE047" text-anchor="middle" transform="rotate(4 398 146)">Learn</text>\n<text x="400" y="178" font-family="cursive" font-size="30" fill="#ffffff" text-anchor="middle" transform="rotate(4 400 178)">Grow</text>\n<text x="402" y="210" font-family="cursive" font-size="30" fill="#FDE047" text-anchor="middle" transform="rotate(4 402 210)">Succeed</text>\n<g transform="rotate(-8 150 300)">\n<rect x="58" y="122" width="54" height="238" rx="6" fill="#2563EB"/>\n<rect x="116" y="112" width="54" height="248" rx="6" fill="#F59E0B"/>\n<rect x="174" y="120" width="54" height="240" rx="6" fill="#0E7490"/>\n</g>\n<g transform="rotate(3 330 250)">\n<ellipse cx="330" cy="370" rx="152" ry="12" fill="#000000" opacity="0.18"/>\n<rect x="212" y="96" width="236" height="272" rx="10" fill="#FFF8E7" stroke="#E8A020" stroke-width="3"/>\n<rect x="212" y="96" width="26" height="272" rx="6" fill="#0E8A5F"/>\n<circle cx="330" cy="160" r="34" fill="#ffffff" stroke="#0B6B4A" stroke-width="2.5"/>\n<circle cx="330" cy="160" r="26" fill="none" stroke="#0B6B4A" stroke-width="1.5"/>\n<path d="M338 142a20 20 0 1 0 12 22 15 15 0 1 1-12-22z" fill="#0B6B4A"/>\n<path d="M348 138l1.6 4 4 1.6-4 1.6-1.6 4-1.6-4-4-1.6 4-1.6z" fill="#0B6B4A"/>\n<text x="330" y="228" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Sindh Textbook Board</text>\n<text x="330" y="280" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#1F2937" text-anchor="middle">سنده</text>\n<text x="330" y="320" font-family="Arial, sans-serif" font-size="24" fill="#4B5563" text-anchor="middle">کتاب نصاب</text>\n</g>\n<g transform="translate(26,302)"><path d="M0 20c14-8 28-10 44-8v34c-16-2-30 0-44 8z" fill="#ffffff"/><path d="M44 12c16-2 30 0 44 8v34c-14-8-28-10-44-8z" fill="#FDE047"/></g>\n</svg>'
+PDF_BANNER = '<div class="pdf-banner"><span class="pdf-banner-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span><div><h3>Need full PDF?</h3><p>Get complete solved notes for just Rs.100 via WhatsApp.</p></div><a class="btn whatsapp" href="https://wa.me/923018981055">Contact on WhatsApp &rarr;</a></div>'
+PILLS = '<div class="feat-pills" data-grid="{grid}"><button class="feat-pill active" data-filter="all">All</button><button class="feat-pill" data-filter="6">Class 6</button><button class="feat-pill" data-filter="7">Class 7</button><button class="feat-pill" data-filter="8">Class 8</button><button class="feat-pill" data-filter="9">Class 9</button><button class="feat-pill" data-filter="10">Class 10</button></div>'
+
 def featured_cards(limit=None):
     out = ""
     for b in (REAL[:limit] if limit else REAL):
-        if b.get('cover'):
-            cover = f"""<div class="card-cover has-img"><img src="/{b['cover']}" alt="{b['title']} — official book cover" loading="lazy"></div>"""
-            titleRow = f"""<h3>{b['title']}</h3><p class="card-meta"><span class="chip">Class {b['cls']}</span> <span class="chip">{b['subject']}</span> <span class="chip">{b['medium']} Medium</span></p>"""
-        else:
-            cover = f"""<div class="card-cover"><small>Class {b['cls']} · {b['medium']} Medium</small><b>{b['title'].replace(' — Solved Exercises ('+b['medium']+' Medium)','')}</b><small>{b['subject']}</small></div>"""
-            titleRow = ""
-        out += f"""<article class="card">{cover}<div class="card-body"><span class="chip live">● Live — Preview Free</span>{titleRow}<p>{b['desc']}</p><div class="actions"><a class="btn small" href="/preview.html?id={b['id']}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a></div></div></article>\n"""
+        slug = SUBJ_SLUG[b['subject']]
+        out += f"""<article class="card" data-class="{b['cls']}"><div class="card-cover"><img src="/{b['cover']}" alt="{b['title']} — illustrated cover" loading="lazy"><span class="live-badge"><i></i>Live Preview</span></div><div class="card-body"><span class="subj-tag {slug}">{BOOK_ICON} {b['subject']}</span><h3>{b['title']}</h3><p class="card-meta"><span class="chip">Class {b['cls']}</span> <span class="chip">{b['subject']}</span> <span class="chip">{b['medium']} Medium</span></p><p class="card-desc">{b['desc']}</p><div class="actions"><a class="btn-open" href="/preview.html?id={b['id']}">{BOOK_ICON} Open &rarr;</a></div></div></article>\n"""
     return out
 
 # ---------------- Pages ----------------
@@ -343,35 +417,43 @@ def build():
     # INDEX
     faq_ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
         {"@type":"Question","name":"Are the solved notes really free?","acceptedAnswer":{"@type":"Answer","text":"Preview is free on this website. The full PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp."}},
-        {"@type":"Question","name":"Which mediums are available?","acceptedAnswer":{"@type":"Answer","text":"Solved notes are available in Sindhi, Urdu and English medium. Islamiat for Classes 6, 8 and 9 is live in Sindhi and Urdu; more books are being added."}},
+        {"@type":"Question","name":"Which mediums are available?","acceptedAnswer":{"@type":"Answer","text":"Solved notes are available in Sindhi, Urdu, English and Arabic medium for Classes 6–10 — 119 books are live now."}},
         {"@type":"Question","name":"Do the solved notes follow the Sindh Textbook Board textbook?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every solved exercise follows the official Sindh Textbook Board textbook chapter by chapter, in the book's own format."}},
         {"@type":"Question","name":"Can I request a book that is not listed?","acceptedAnswer":{"@type":"Answer","text":"Yes. Use the contact page to request any Sindh Textbook Board class, subject or medium. Requested books are prepared first."}},
     ]}
     index = head("Solved Sindh Textbook Board Books — Solved Exercises Sindhi, Urdu & English Medium, Free Preview | Sindh Board",
-        "Preview solved Sindh Textbook Board books & exercises free on this website. Class 6, 8, 9 Islamiat solved notes live in Sindhi & Urdu medium. Full PDF Rs.100 on WhatsApp.",
+        "Preview solved Sindh Textbook Board books & exercises free on this website. 119 solved books live for Classes 6–10 in Sindhi, Urdu, English & Arabic medium. Full PDF Rs.100 on WhatsApp.",
         "/", "Sindh Textbook Board solved books, Sindh Textbook Board solved exercises, Class 9 Islamiat solved Sindhi",
         f'<script type="application/ld+json">{ORG_LD}</script><script type="application/ld+json">{SITE_LD}</script><script type="application/ld+json">{json.dumps(faq_ld, ensure_ascii=False)}</script>')
     index += header("/") + f"""
 <main id="main">
-<section class="hero"><div class="container">
-<span class="eyebrow">Free Preview · Sindh Textbook Board</span>
-<h1 id="hero-title">Free Solved Sindh Textbook Board Books — Sindhi, Urdu &amp; English Medium</h1>
-<p class="lead" id="hero-sub">Preview solved exercises for Sindh Textbook Board books. Class 6, 8 and 9 Islamiat notes are live now — free preview on this website. Full PDF Rs.100 on WhatsApp.</p>
-<form class="search-box" id="hero-search-form" role="search"><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
-<div><a class="btn light" href="/books.html">Browse All Books</a> <a class="btn amber" href="/solved.html">Solved Notes</a></div>
-
+<section class="hero"><div class="container hero-inner">
+<div class="hero-copy">
+<span class="hero-badge">★ Free Preview · Sindh Textbook Board</span>
+<h1>Free Solved Sindh Textbook Board Books<br><span class="hero-yellow">Sindhi, Urdu &amp; English Medium</span></h1>
+<p class="hero-lead">Preview solved exercises for Sindh Textbook Board books. Classes 6–10 solved notes are live now — free preview on this website. Full PDF Rs.100 on WhatsApp.</p>
+<form class="hero-search" id="hero-search-form" role="search"><svg class="search-ic" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
+<div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse All Books</a> <a class="btn amber" href="/solved.html">Solved Notes</a></div>
+</div>
+<div class="hero-art">{HERO_ART}</div>
 </div></section>
-<section class="section container"><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the Sindh Textbook Board textbook. Click Open to preview free on this website. Full PDF Rs.100 on WhatsApp.</p><div class="grid">{featured_cards(12)}</div></section>
+<section class="trust-bar"><div class="container trust-grid">
+<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></span><div><b>100% Free Preview</b><small>See quality before you buy</small></div></div>
+<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span><div><b>All Classes &amp; Subjects</b><small>Classes 6–10 (Sindh Textbook Board)</small></div></div>
+<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg></span><div><b>Fast &amp; Easy Access</b><small>No registration needed</small></div></div>
+<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 4 5v6c0 5 3.4 9.4 8 11 4.6-1.6 8-6 8-11V5z"/><path d="m9 12 2 2 4-4"/></svg></span><div><b>Trusted &amp; Official</b><small>Sindh Textbook Board</small></div></div>
+</div></section>
+<section class="section container"><div class="feat-head"><div><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the Sindh Textbook Board textbook. Click Open to preview free on this website. Full PDF Rs.100 on WhatsApp.</p></div>{PILLS.format(grid="featured-grid")}</div><div class="grid featured-grid" id="featured-grid">{featured_cards(12)}</div>{PDF_BANNER}</section>
 <section class="section container"><h2>How it works</h2><div class="steps-grid">
 <div class="step"><div class="num">1</div><h3>Find your book</h3><p>Search by class, subject or medium — or browse the catalogue.</p></div>
 <div class="step"><div class="num">2</div><h3>Preview free</h3><p>Open the preview on this website. Free to preview — full PDF Rs.100 on WhatsApp.</p></div>
 <div class="step"><div class="num">3</div><h3>Learn &amp; write</h3><p>Study the solved answers, then write them from memory. That is how marks are made.</p></div></div></section>
 <section class="section container"><h2>Browse by subject</h2><div class="subject-strip">
-<a href="/books.html?f-subject=Islamiat">Islamiat</a><a href="/books.html?f-subject=Urdu">Urdu</a><a href="/books.html?f-subject=Sindhi">Sindhi</a><a href="/books.html?f-subject=English">English</a><a href="/books.html?f-subject=Math">Math</a><a href="/books.html?f-subject=Science">Science</a><a href="/books.html?f-subject=Physics">Physics</a><a href="/books.html?f-subject=Chemistry">Chemistry</a><a href="/books.html?f-subject=Biology">Biology</a><a href="/books.html?f-subject=Pakistan Studies">Pakistan Studies</a><a href="/books.html?f-subject=Social Studies">Social Studies</a></div></section>
+<a href="/books.html?f-subject=Islamiat">Islamiat</a><a href="/books.html?f-subject=Urdu">Urdu</a><a href="/books.html?f-subject=Sindhi">Sindhi</a><a href="/books.html?f-subject=English">English</a><a href="/books.html?f-subject=Math">Math</a><a href="/books.html?f-subject=Science">Science</a><a href="/books.html?f-subject=Physics">Physics</a><a href="/books.html?f-subject=Chemistry">Chemistry</a><a href="/books.html?f-subject=Biology">Biology</a><a href="/books.html?f-subject=Pakistan Studies">Pakistan Studies</a><a href="/books.html?f-subject=Social Studies">Social Studies</a><a href="/books.html?f-subject=Arabic">Arabic</a><a href="/books.html?f-subject=Computer">Computer</a><a href="/books.html?f-subject=Mazhabi Taleemat">Mazhabi Taleemat</a></div></section>
 <section class="section container"><h2>Why students love it</h2><div class="steps-grid">
 <div class="step"><h3>📖 Follows the textbook</h3><p>Every answer follows the Sindh Textbook Board book chapter by chapter — nothing extra, nothing missing.</p></div>
 <div class="step"><h3>✍️ Exam-ready answers</h3><p>Answers are written the way examiners want: translation, explanation, example.</p></div>
-<div class="step"><h3>🌍 Three mediums</h3><p>Sindhi, Urdu and English — study in the medium you write your exam in.</p></div>
+<div class="step"><h3>🌍 Four mediums</h3><p>Sindhi, Urdu, English and Arabic — study in the medium you write your exam in.</p></div>
 <div class="step"><h3>📱 Works on any phone</h3><p>Fast, mobile-first pages and PDFs that open on any phone.</p></div></div></section>
 <section class="section container"><h2>What students say</h2><div class="testimonials">
 <div class="testi"><p>“Class 9 Islamiat ke solved notes ne meri tayyari aasan kar di. Har jawab kitab ke mutabiq hai.”</p><b>— Class 9 Student, Hyderabad</b></div>
@@ -379,7 +461,7 @@ def build():
 <div class="testi"><p>“Main apni class ko isi se parhata hoon. Solved exercises ka format board ke liye behtareen hai.”</p><b>— School Teacher, Sukkur</b></div></div></section>
 <section class="section container"><h2>Frequently asked questions</h2><div class="faq">
 <details open><summary>Are the solved notes really free?</summary><p>Preview is free on this website. The full PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp.</p></details>
-<details><summary>Which mediums are available?</summary><p>Sindhi, Urdu and English. Islamiat for Classes 6, 8 and 9 is live in Sindhi and Urdu; more books are being added.</p></details>
+<details><summary>Which mediums are available?</summary><p>Sindhi, Urdu, English and Arabic. 119 solved books for Classes 6–10 are live now.</p></details>
 <details><summary>Do the solved notes follow the Sindh Textbook Board textbook?</summary><p>Yes. Every solved exercise follows the official Sindh Textbook Board textbook chapter by chapter.</p></details>
 <details><summary>Can I request a book that is not listed?</summary><p>Yes — use the <a href="/contact.html">contact page</a>. Requested books are prepared first.</p></details>
 </div></section>
@@ -409,12 +491,14 @@ def build():
 
     # SOLVED
     solved = head("Solved Notes — Free Preview of Sindh Textbook Board Solved Exercises",
-        "Preview solved notes free: Class 6, 8, 9 Islamiat solved exercises in Sindhi & Urdu medium. Full PDF Rs.100 on WhatsApp.",
+        "Preview solved notes free: 119 solved books for Classes 6–10 in Sindhi, Urdu, English & Arabic medium. Full PDF Rs.100 on WhatsApp.",
         "/solved.html", "Sindh Textbook Board solved notes, solved exercises PDF, Islamiat solved notes")
     solved += header("/solved.html") + f"""
 <main id="main" class="container"><h1>Solved Notes — Free Preview</h1>
-<p class="lead">Six solved-notes PDFs are live now — preview them free on this website. Full PDF Rs.100 on WhatsApp. More classes, subjects and mediums are being added — request yours on the contact page.</p>
-<div class="grid">{featured_cards()}</div>
+<p class="lead">119 solved-notes PDFs are live now — preview them free on this website. Full PDF Rs.100 on WhatsApp. More classes, subjects and mediums are being added — request yours on the contact page.</p>
+{PILLS.format(grid="solved-grid")}
+<div class="grid featured-grid" id="solved-grid">{featured_cards()}</div>
+{PDF_BANNER}
 <h2 style="margin-top:36px">How to use solved notes (so they become marks)</h2>
 <ol class="steps"><li>Read the solved answer with your Sindh Textbook Board book open.</li><li>Close the book and write the answer from memory.</li><li>Compare, fix the missing line, and revise after 2 days.</li></ol>
 <p><a class="btn" href="/books.html">Browse all books →</a></p></main>
@@ -500,7 +584,7 @@ document.addEventListener('DOMContentLoaded', initPreview);
     w("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\n")
     w("manifest.webmanifest", json.dumps({"name":"Solved Sindh Textbook Board Books","short_name":"Sindh Textbook Board Solved","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#0B6B4A","icons":[{"src":"/favicon.svg","sizes":"512x512","type":"image/svg+xml"}]}, indent=2))
     w("favicon.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0B6B4A"/><text x="32" y="44" font-family="Arial" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">S</text></svg>\n')
-    w("assets/images/og.svg", '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#0B6B4A"/><text x="60" y="200" font-family="Arial" font-size="64" font-weight="bold" fill="#fff">Solved Sindh Textbook Board Books</text><text x="60" y="280" font-family="Arial" font-size="32" fill="#DCE8E0">Preview solved exercises free — Sindhi · Urdu · English</text><text x="60" y="340" font-family="Arial" font-size="28" fill="#fff">Class 6 · 8 · 9 Islamiat notes live now</text></svg>\n')
+    w("assets/images/og.svg", '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#0B6B4A"/><text x="60" y="200" font-family="Arial" font-size="64" font-weight="bold" fill="#fff">Solved Sindh Textbook Board Books</text><text x="60" y="280" font-family="Arial" font-size="32" fill="#DCE8E0">Preview solved exercises free — Sindhi · Urdu · English</text><text x="60" y="340" font-family="Arial" font-size="28" fill="#fff">119 solved books live — Classes 6–10</text></svg>\n')
     # README
     readme = f"""# Solved Sindh Textbook Board Books — Static Website
 
@@ -508,8 +592,8 @@ Free solved Sindh Textbook Board books & exercises for Sindh Board students (Sin
 Pure static HTML/CSS/JS — no backend, no build step. Deploy anywhere (Vercel, GitHub Pages, Netlify).
 
 ## Live content
-- **6 solved-notes PDFs live**: Class 6 / 8 / 9 Islamiat × Sindhi / Urdu (in `assets/pdfs/`).
-- **{len(BOOKS)} catalogue entries** in `assets/data/books.json` (6 live + rest coming-soon).
+- **119 solved-notes PDFs live**: Classes 6–10 × all subjects × Sindhi / Urdu / English / Arabic (in `assets/pdfs/`).
+- **{len(BOOKS)} catalogue entries** in `assets/data/books.json` (119 live + rest coming-soon).
 - **{len(POSTS)} SEO blog posts** in `blog/` (generated by `build_blog.py`; daily engine in `gen/`).
 
 ## Preview locally

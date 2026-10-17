@@ -240,7 +240,7 @@ def post_html(post, idx, all_posts):
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#0B6B4A">
-<link rel="stylesheet" href="/assets/css/style.css?v=2">
+<link rel="stylesheet" href="/assets/css/style.css?v=3">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
 <body>
@@ -307,7 +307,7 @@ def blog_index_html(posts, page, total_pages):
 <meta property="og:description" content="{len(posts)} free guides for Sindh Board students: solved exercises, syllabus, paper patterns and study tips.">
 <meta property="og:url" content="{BASE}/blog/"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=2">
+<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=3">
 </head><body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header class="site-header"><div class="container header-inner">
