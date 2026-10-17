@@ -407,13 +407,13 @@ def header(active=""):
 <a class="logo" href="/"><span class="logo-mark">S</span><span class="logo-text">Solved Sindh Textbook Board Books</span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-{a('/', 'Home')}{a('/books.html', 'Solved Notes')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}
+{a('/', 'Home')}{a('/books.html', 'Solved Books')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}
 </nav></div></header>
 """
 
 FOOTER = """<footer class="site-footer"><div class="container footer-grid">
 <div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Prepared by teachers, for students.</p></div>
-<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
+<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© 2026 Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
 <script src="/assets/js/main.js"></script>
@@ -463,7 +463,7 @@ def build():
 <h1>Free Solved Sindh<br>Textbook Board Books<br><span class="hero-yellow">Sindhi, Urdu &amp; English Medium</span></h1>
 <p class="hero-lead">Preview solved exercises for Sindh Textbook Board books. Classes 6–10 solved notes are live now — free to read on this website, any time.</p>
 <form class="hero-search" id="hero-search-form" role="search"><svg class="search-ic" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
-<div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse Solved Notes</a> <a class="btn amber" href="/books.html">Solved Notes</a></div>
+<div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse Solved Books</a> <a class="btn amber" href="/books.html">Solved Books</a></div>
 </div>
 <div class="hero-art">{HERO_ART}</div>
 </div></section>
@@ -501,11 +501,11 @@ def build():
     w("index.html", index)
 
     # BOOKS
-    books_page = head("Solved Notes — Sindh Textbook Board Solved Exercises by Class, Subject & Medium | Solved Sindh Textbook Board Books",
+    books_page = head("Solved Books — Sindh Textbook Board Solved Exercises by Class, Subject & Medium | Solved Sindh Textbook Board Books",
         "Browse all Sindh Textbook Board solved notes by class, subject and medium (Sindhi, Urdu, English, Arabic). Free to read on this website, live search and filters.",
         "/books.html", "Sindh Textbook Board books catalogue, solved exercises by class, Sindh Board books")
     books_page += header("/books.html") + """
-<main id="main" class="container"><h1>Solved Notes — Sindh Textbook Board Solved Exercises</h1>
+<main id="main" class="container"><h1>Solved Books — Sindh Textbook Board Solved Exercises</h1>
 <p class="lead">Search and filter the full catalogue. All live notes are free to read on this website. Coming-soon notes can be requested.</p>
 <div class="filters">
 <label>Search <input type="search" id="q" placeholder="e.g. Class 9 Islamiat Sindhi"></label>
@@ -614,7 +614,7 @@ python3 -m http.server 8000
 1. Drop the PDF into `assets/pdfs/` (e.g. `Class10-Physics-SolvedExercises-English.pdf`).
 2. Edit `assets/data/books.json` — copy a live entry, set `status: "live"`, `pdf: "assets/pdfs/<file>.pdf"`, `pages`, `desc`, `chapters`.
 3. Or: add the entry to `BOOKS` in `build_site.py` and re-run `python3 build_site.py`.
-4. The book appears automatically on Home and Solved Notes pages (JS renders from books.json).
+4. The book appears automatically on Home and Solved Books pages (JS renders from books.json).
 
 ## Add a blog post
 Daily engine (15/day, from 2026-10-16): write a `gen/batch_XXX.py` batch file, run `python3 gen/build_batch.py batch_XXX BATCH_XXX` (validates, appends to `gen/extra_posts.json`, rebuilds blog + sitemap), then `python3 gen/push_batch.py "Day N" <files>` to push.
