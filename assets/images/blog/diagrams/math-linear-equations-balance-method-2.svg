@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510">
+<rect width="1000" height="510" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Solving 3x + 7 = 25, Step by Step</text>
+<line x1="70" y1="108" x2="70" y2="476" stroke="#0B6B4A" stroke-width="4"/>
+<circle cx="70" cy="130" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="138" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Start</text>
+<text x="110" y="166" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">3x + 7 = 25. The variable is hidden under times 3 and plus 7.</text>
+<circle cx="70" cy="222" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="230" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Step 1</text>
+<text x="110" y="258" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Subtract 7 from both sides: 3x = 18.</text>
+<circle cx="70" cy="314" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="322" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Step 2</text>
+<text x="110" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Divide both sides by 3: x = 6.</text>
+<circle cx="70" cy="406" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="414" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Check</text>
+<text x="110" y="442" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">3 x 6 + 7 = 25. Both sides match, so x = 6 is correct.</text>
+</svg>

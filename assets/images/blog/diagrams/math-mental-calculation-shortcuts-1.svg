@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="518" viewBox="0 0 1000 518">
+<rect width="1000" height="518" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Round, Calculate, Compensate</text>
+<rect x="140" y="108" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">1. Round</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Change an awkward number to a friendly one, such as 298 to</text>
+<text x="500" y="202" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">300.</text>
+<polygon points="500,236 486,258 514,258" fill="#F59E0B"/>
+<rect x="140" y="266" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="298" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">2. Calculate</text>
+<text x="500" y="332" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Do the easy calculation with the friendly number.</text>
+<polygon points="500,364 486,386 514,386" fill="#F59E0B"/>
+<rect x="140" y="394" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="426" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">3. Compensate</text>
+<text x="500" y="460" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Undo exactly what you changed: added 2, so subtract 2.</text>
+</svg>

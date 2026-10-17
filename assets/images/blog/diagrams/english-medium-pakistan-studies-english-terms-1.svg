@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="698" viewBox="0 0 1000 698">
+<rect width="1000" height="698" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">How Government Terms Fit Together</text>
+<rect x="350" y="228" width="300" height="76" rx="14" fill="#0B6B4A"/>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Constitution</text>
+<line x1="180" y1="236" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="240" height="108" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Central Government</text>
+<text x="180" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Handles national matters</text>
+<text x="180" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">under the constitution</text>
+<line x1="820" y1="236" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="128" width="240" height="108" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Provincial Governments</text>
+<text x="820" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Handle provincial matters</text>
+<text x="820" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">under the constitution</text>
+<line x1="180" y1="456" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="348" width="240" height="108" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Parliament</text>
+<text x="180" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Elected body that makes</text>
+<text x="180" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">laws</text>
+<line x1="820" y1="456" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="348" width="240" height="108" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Citizens</text>
+<text x="820" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Choose leaders through</text>
+<text x="820" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">elections</text>
+</svg>

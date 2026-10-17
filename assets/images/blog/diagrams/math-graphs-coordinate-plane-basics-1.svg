@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="468" viewBox="0 0 1000 468">
+<rect width="1000" height="468" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Reading an Ordered Pair (3, 2)</text>
+<circle cx="500" cy="238" r="95" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="3"/>
+<text x="500" y="232" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Point at 3</text>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">across, 2 up</text>
+<text x="500" y="296" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">from the</text>
+<text x="500" y="328" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">origin</text>
+<line x1="360" y1="182" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Origin (0, 0)</text>
+<text x="80" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Where the two axes cross;</text>
+<text x="80" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">every journey starts here.</text>
+<line x1="640" y1="182" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">x = 3</text>
+<text x="660" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Travel 3 units right along the</text>
+<text x="660" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">horizontal axis.</text>
+<line x1="360" y1="332" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">y = 2</text>
+<text x="80" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Travel 2 units up, parallel to</text>
+<text x="80" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">the vertical axis.</text>
+<line x1="640" y1="346" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="278" width="300" height="136" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">(3, 2)</text>
+<text x="660" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">The destination: 3 across, 2</text>
+<text x="660" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">up. Swap the numbers and you</text>
+<text x="660" y="390" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">land somewhere else.</text>
+</svg>
