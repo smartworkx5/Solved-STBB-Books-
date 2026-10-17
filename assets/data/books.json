@@ -1,7 +1,7 @@
 [
   {
     "id": "isl-6-sd",
-    "cover": "assets/images/covers/subjects/islamiat.svg",
+    "cover": "assets/images/covers/isl-6-sd.jpg",
     "title": "Class 6 Islamiat — Solved Exercises (Sindhi Medium)",
     "cls": 6,
     "subject": "Islamiat",
@@ -21,7 +21,7 @@
   },
   {
     "id": "isl-6-ur",
-    "cover": "assets/images/covers/subjects/islamiat.svg",
+    "cover": "assets/images/covers/isl-6-ur.jpg",
     "title": "Class 6 Islamiat — Solved Exercises (Urdu Medium)",
     "cls": 6,
     "subject": "Islamiat",
@@ -41,7 +41,7 @@
   },
   {
     "id": "isl-8-sd",
-    "cover": "assets/images/covers/subjects/islamiat.svg",
+    "cover": "assets/images/covers/isl-8-sd.jpg",
     "title": "Class 8 Islamiat — Solved Exercises (Sindhi Medium)",
     "cls": 8,
     "subject": "Islamiat",
@@ -61,7 +61,7 @@
   },
   {
     "id": "isl-8-ur",
-    "cover": "assets/images/covers/subjects/islamiat.svg",
+    "cover": "assets/images/covers/isl-8-ur.jpg",
     "title": "Class 8 Islamiat — Solved Exercises (Urdu Medium)",
     "cls": 8,
     "subject": "Islamiat",
@@ -81,7 +81,7 @@
   },
   {
     "id": "isl-9-sd",
-    "cover": "assets/images/covers/subjects/islamiat.svg",
+    "cover": "assets/images/covers/isl-9-sd.jpg",
     "title": "Class 9 Islamiat — Solved Exercises (Sindhi Medium)",
     "cls": 9,
     "subject": "Islamiat",
@@ -103,7 +103,7 @@
   },
   {
     "id": "isl-9-ur",
-    "cover": "assets/images/covers/subjects/islamiat.svg",
+    "cover": "assets/images/covers/isl-9-ur.jpg",
     "title": "Class 9 Islamiat — Solved Exercises (Urdu Medium)",
     "cls": 9,
     "subject": "Islamiat",
@@ -135,7 +135,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-66.jpg"
   },
   {
     "id": "sindhi-6-ur",
@@ -149,7 +149,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Sindhi, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-66.jpg"
   },
   {
     "id": "sindhi-6-en",
@@ -163,7 +163,7 @@
     "pages": 49,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Sindhi, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-66.jpg"
   },
   {
     "id": "english-6-si",
@@ -177,7 +177,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 English, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-143.jpg"
   },
   {
     "id": "english-6-ur",
@@ -191,7 +191,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 English, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-143.jpg"
   },
   {
     "id": "english-6-en",
@@ -205,7 +205,7 @@
     "pages": 43,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-143.jpg"
   },
   {
     "id": "arabic-6-ar",
@@ -219,7 +219,7 @@
     "pages": 162,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Arabic, Arabic medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/arabic.svg"
+    "cover": "assets/images/covers/portal-41.jpg"
   },
   {
     "id": "math-6-si",
@@ -233,7 +233,7 @@
     "pages": 133,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Math, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-270.jpg"
   },
   {
     "id": "math-6-ur",
@@ -247,7 +247,7 @@
     "pages": 141,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Math, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-96.jpg"
   },
   {
     "id": "math-6-en",
@@ -261,7 +261,7 @@
     "pages": 144,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Math, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-96.jpg"
   },
   {
     "id": "science-6-si",
@@ -275,7 +275,7 @@
     "pages": 22,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Science, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-115.jpg"
   },
   {
     "id": "science-6-ur",
@@ -289,7 +289,7 @@
     "pages": 22,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Science, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-115.jpg"
   },
   {
     "id": "science-6-en",
@@ -303,7 +303,7 @@
     "pages": 24,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Science, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-115.jpg"
   },
   {
     "id": "social-studies-6-si",
@@ -317,7 +317,7 @@
     "pages": 98,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Social Studies, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
+    "cover": "assets/images/covers/portal-131.jpg"
   },
   {
     "id": "social-studies-6-ur",
@@ -331,7 +331,7 @@
     "pages": 102,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Social Studies, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
+    "cover": "assets/images/covers/portal-131.jpg"
   },
   {
     "id": "social-studies-6-en",
@@ -345,7 +345,7 @@
     "pages": 139,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Social Studies, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
+    "cover": "assets/images/covers/portal-131.jpg"
   },
   {
     "id": "islamiat-6-en",
@@ -359,7 +359,7 @@
     "pages": 54,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Islamiat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-260.jpg"
   },
   {
     "id": "mazhabi-taleemat-6-si",
@@ -373,7 +373,7 @@
     "pages": 53,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Mazhabi Taleemat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-238.jpg"
   },
   {
     "id": "mazhabi-taleemat-6-ur",
@@ -387,7 +387,7 @@
     "pages": 53,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Mazhabi Taleemat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-249.jpg"
   },
   {
     "id": "mazhabi-taleemat-6-en",
@@ -401,7 +401,7 @@
     "pages": 54,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Mazhabi Taleemat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-249.jpg"
   },
   {
     "id": "computer-6-si",
@@ -415,7 +415,7 @@
     "pages": 25,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Computer, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-289.jpg"
   },
   {
     "id": "computer-6-ur",
@@ -429,7 +429,7 @@
     "pages": 26,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Computer, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-288.jpg"
   },
   {
     "id": "computer-6-en",
@@ -443,7 +443,7 @@
     "pages": 34,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Computer, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-287.jpg"
   },
   {
     "id": "sindhi-7-si",
@@ -457,7 +457,7 @@
     "pages": 92,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-93.jpg"
   },
   {
     "id": "english-7-en",
@@ -471,7 +471,7 @@
     "pages": 231,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-145.jpg"
   },
   {
     "id": "arabic-7-ar",
@@ -485,7 +485,7 @@
     "pages": 146,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Arabic, Arabic medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/arabic.svg"
+    "cover": "assets/images/covers/portal-232.jpg"
   },
   {
     "id": "math-7-si",
@@ -499,7 +499,7 @@
     "pages": 164,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Math, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-282.jpg"
   },
   {
     "id": "math-7-ur",
@@ -513,7 +513,7 @@
     "pages": 172,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Math, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-279.jpg"
   },
   {
     "id": "math-7-en",
@@ -527,7 +527,7 @@
     "pages": 232,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Math, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-97.jpg"
   },
   {
     "id": "science-7-si",
@@ -541,7 +541,7 @@
     "pages": 33,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Science, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-125.jpg"
   },
   {
     "id": "science-7-ur",
@@ -555,7 +555,7 @@
     "pages": 34,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Science, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-116.jpg"
   },
   {
     "id": "science-7-en",
@@ -569,7 +569,7 @@
     "pages": 44,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Science, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-114.jpg"
   },
   {
     "id": "social-studies-7-si",
@@ -583,7 +583,7 @@
     "pages": 53,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Social Studies, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
+    "cover": "assets/images/covers/portal-130.jpg"
   },
   {
     "id": "social-studies-7-ur",
@@ -597,7 +597,7 @@
     "pages": 55,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Social Studies, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
+    "cover": "assets/images/covers/portal-130.jpg"
   },
   {
     "id": "social-studies-7-en",
@@ -611,7 +611,7 @@
     "pages": 81,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Social Studies, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
+    "cover": "assets/images/covers/portal-130.jpg"
   },
   {
     "id": "islamiat-7-si",
@@ -625,7 +625,7 @@
     "pages": 51,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Islamiat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-137.jpg"
   },
   {
     "id": "islamiat-7-ur",
@@ -639,7 +639,7 @@
     "pages": 50,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Islamiat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-136.jpg"
   },
   {
     "id": "islamiat-7-en",
@@ -653,7 +653,7 @@
     "pages": 49,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Islamiat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-261.jpg"
   },
   {
     "id": "mazhabi-taleemat-7-si",
@@ -667,7 +667,7 @@
     "pages": 55,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Mazhabi Taleemat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-239.jpg"
   },
   {
     "id": "mazhabi-taleemat-7-ur",
@@ -681,7 +681,7 @@
     "pages": 57,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Mazhabi Taleemat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-251.jpg"
   },
   {
     "id": "mazhabi-taleemat-7-en",
@@ -695,7 +695,7 @@
     "pages": 65,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Mazhabi Taleemat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-251.jpg"
   },
   {
     "id": "computer-7-si",
@@ -709,7 +709,7 @@
     "pages": 27,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Computer, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-319.jpg"
   },
   {
     "id": "computer-7-ur",
@@ -723,7 +723,7 @@
     "pages": 27,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Computer, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-320.jpg"
   },
   {
     "id": "computer-7-en",
@@ -737,7 +737,7 @@
     "pages": 31,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Computer, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-317.jpg"
   },
   {
     "id": "sindhi-8-si",
@@ -751,7 +751,7 @@
     "pages": 162,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-94.jpg"
   },
   {
     "id": "urdu-8-ur",
@@ -765,7 +765,7 @@
     "pages": 156,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/urdu.svg"
+    "cover": "assets/images/covers/portal-23.jpg"
   },
   {
     "id": "english-8-en",
@@ -779,7 +779,7 @@
     "pages": 135,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-146.jpg"
   },
   {
     "id": "arabic-8-ar",
@@ -793,7 +793,7 @@
     "pages": 127,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Arabic, Arabic medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/arabic.svg"
+    "cover": "assets/images/covers/portal-233.jpg"
   },
   {
     "id": "math-8-si",
@@ -807,7 +807,7 @@
     "pages": 148,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Math, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-272.jpg"
   },
   {
     "id": "math-8-ur",
@@ -821,7 +821,7 @@
     "pages": 156,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Math, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-284.jpg"
   },
   {
     "id": "math-8-en",
@@ -835,7 +835,7 @@
     "pages": 201,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Math, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-283.jpg"
   },
   {
     "id": "science-8-si",
@@ -849,7 +849,7 @@
     "pages": 36,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Science, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-126.jpg"
   },
   {
     "id": "science-8-ur",
@@ -863,7 +863,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Science, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-98.jpg"
   },
   {
     "id": "science-8-en",
@@ -877,7 +877,7 @@
     "pages": 50,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Science, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/science.svg"
+    "cover": "assets/images/covers/portal-123.jpg"
   },
   {
     "id": "islamiat-8-en",
@@ -891,7 +891,7 @@
     "pages": 72,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Islamiat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-262.jpg"
   },
   {
     "id": "mazhabi-taleemat-8-si",
@@ -905,7 +905,7 @@
     "pages": 61,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Mazhabi Taleemat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-240.jpg"
   },
   {
     "id": "mazhabi-taleemat-8-ur",
@@ -919,7 +919,7 @@
     "pages": 61,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Mazhabi Taleemat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-248.jpg"
   },
   {
     "id": "mazhabi-taleemat-8-en",
@@ -933,7 +933,7 @@
     "pages": 75,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Mazhabi Taleemat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-248.jpg"
   },
   {
     "id": "computer-8-si",
@@ -947,7 +947,7 @@
     "pages": 25,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Computer, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-292.jpg"
   },
   {
     "id": "computer-8-ur",
@@ -961,7 +961,7 @@
     "pages": 26,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Computer, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-292.jpg"
   },
   {
     "id": "computer-8-en",
@@ -975,7 +975,7 @@
     "pages": 30,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Computer, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-322.jpg"
   },
   {
     "id": "sindhi-9-si",
@@ -989,7 +989,7 @@
     "pages": 98,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-212.jpg"
   },
   {
     "id": "urdu-9-ur",
@@ -1003,7 +1003,7 @@
     "pages": 112,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/urdu.svg"
+    "cover": "assets/images/covers/portal-13.jpg"
   },
   {
     "id": "english-9-en",
@@ -1017,7 +1017,7 @@
     "pages": 196,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-147.jpg"
   },
   {
     "id": "math-9-si",
@@ -1031,7 +1031,7 @@
     "pages": 110,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Math, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-275.jpg"
   },
   {
     "id": "math-9-ur",
@@ -1045,7 +1045,7 @@
     "pages": 111,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Math, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-180.jpg"
   },
   {
     "id": "math-9-en",
@@ -1059,7 +1059,7 @@
     "pages": 140,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Math, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-180.jpg"
   },
   {
     "id": "islamiat-9-en",
@@ -1073,7 +1073,7 @@
     "pages": 113,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Islamiat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-267.jpg"
   },
   {
     "id": "mazhabi-taleemat-9-si",
@@ -1087,7 +1087,7 @@
     "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Mazhabi Taleemat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-252.jpg"
   },
   {
     "id": "mazhabi-taleemat-9-ur",
@@ -1101,7 +1101,7 @@
     "pages": 59,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Mazhabi Taleemat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-252.jpg"
   },
   {
     "id": "mazhabi-taleemat-9-en",
@@ -1115,7 +1115,7 @@
     "pages": 63,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Mazhabi Taleemat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-252.jpg"
   },
   {
     "id": "computer-9-si",
@@ -1129,7 +1129,7 @@
     "pages": 31,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Computer, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-184.jpg"
   },
   {
     "id": "computer-9-ur",
@@ -1143,7 +1143,7 @@
     "pages": 32,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Computer, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-291.jpg"
   },
   {
     "id": "computer-9-en",
@@ -1157,7 +1157,7 @@
     "pages": 40,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Computer, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-121.jpg"
   },
   {
     "id": "physics-9-si",
@@ -1171,7 +1171,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Physics, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-174.jpg"
   },
   {
     "id": "physics-9-ur",
@@ -1185,7 +1185,7 @@
     "pages": 37,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Physics, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-174.jpg"
   },
   {
     "id": "physics-9-en",
@@ -1199,7 +1199,7 @@
     "pages": 54,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Physics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-174.jpg"
   },
   {
     "id": "chemistry-9-si",
@@ -1213,7 +1213,7 @@
     "pages": 41,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Chemistry, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-196.jpg"
   },
   {
     "id": "chemistry-9-ur",
@@ -1227,7 +1227,7 @@
     "pages": 44,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Chemistry, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-197.jpg"
   },
   {
     "id": "chemistry-9-en",
@@ -1241,7 +1241,7 @@
     "pages": 62,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Chemistry, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-195.jpg"
   },
   {
     "id": "biology-9-si",
@@ -1255,7 +1255,7 @@
     "pages": 37,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Biology, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-119.jpg"
   },
   {
     "id": "biology-9-ur",
@@ -1269,7 +1269,7 @@
     "pages": 38,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Biology, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-118.jpg"
   },
   {
     "id": "biology-9-en",
@@ -1283,7 +1283,7 @@
     "pages": 50,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Biology, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-117.jpg"
   },
   {
     "id": "pakistan-studies-9-si",
@@ -1297,7 +1297,7 @@
     "pages": 34,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Pakistan Studies, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/pakistan-studies.svg"
+    "cover": "assets/images/covers/portal-183.jpg"
   },
   {
     "id": "pakistan-studies-9-ur",
@@ -1311,7 +1311,7 @@
     "pages": 35,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Pakistan Studies, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/pakistan-studies.svg"
+    "cover": "assets/images/covers/portal-183.jpg"
   },
   {
     "id": "pakistan-studies-9-en",
@@ -1325,7 +1325,7 @@
     "pages": 53,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Pakistan Studies, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/pakistan-studies.svg"
+    "cover": "assets/images/covers/portal-183.jpg"
   },
   {
     "id": "sindhi-10-si",
@@ -1339,7 +1339,7 @@
     "pages": 98,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/sindhi.svg"
+    "cover": "assets/images/covers/portal-212.jpg"
   },
   {
     "id": "urdu-10-ur",
@@ -1353,7 +1353,7 @@
     "pages": 112,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/urdu.svg"
+    "cover": "assets/images/covers/portal-13.jpg"
   },
   {
     "id": "english-10-en",
@@ -1367,7 +1367,7 @@
     "pages": 369,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-201.jpg"
   },
   {
     "id": "math-10-si",
@@ -1381,7 +1381,7 @@
     "pages": 101,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Math, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-285.jpg"
   },
   {
     "id": "math-10-ur",
@@ -1395,7 +1395,7 @@
     "pages": 108,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Math, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-277.jpg"
   },
   {
     "id": "math-10-en",
@@ -1409,7 +1409,7 @@
     "pages": 151,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Math, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-205.jpg"
   },
   {
     "id": "islamiat-10-si",
@@ -1423,7 +1423,7 @@
     "pages": 70,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Islamiat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-264.jpg"
   },
   {
     "id": "islamiat-10-ur",
@@ -1437,7 +1437,7 @@
     "pages": 73,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Islamiat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-265.jpg"
   },
   {
     "id": "islamiat-10-en",
@@ -1451,7 +1451,7 @@
     "pages": 113,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Islamiat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/islamiat.svg"
+    "cover": "assets/images/covers/portal-267.jpg"
   },
   {
     "id": "mazhabi-taleemat-10-si",
@@ -1465,7 +1465,7 @@
     "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Mazhabi Taleemat, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-252.jpg"
   },
   {
     "id": "mazhabi-taleemat-10-ur",
@@ -1479,7 +1479,7 @@
     "pages": 59,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Mazhabi Taleemat, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-252.jpg"
   },
   {
     "id": "mazhabi-taleemat-10-en",
@@ -1493,7 +1493,7 @@
     "pages": 63,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Mazhabi Taleemat, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/mazhabi-taleemat.svg"
+    "cover": "assets/images/covers/portal-252.jpg"
   },
   {
     "id": "computer-10-si",
@@ -1507,7 +1507,7 @@
     "pages": 30,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Computer, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-204.jpg"
   },
   {
     "id": "computer-10-ur",
@@ -1521,7 +1521,7 @@
     "pages": 32,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Computer, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-204.jpg"
   },
   {
     "id": "computer-10-en",
@@ -1535,7 +1535,7 @@
     "pages": 37,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Computer, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/computer.svg"
+    "cover": "assets/images/covers/portal-204.jpg"
   },
   {
     "id": "physics-10-si",
@@ -1549,7 +1549,7 @@
     "pages": 54,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Physics, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-223.jpg"
   },
   {
     "id": "physics-10-ur",
@@ -1563,7 +1563,7 @@
     "pages": 57,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Physics, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-202.jpg"
   },
   {
     "id": "physics-10-en",
@@ -1577,7 +1577,7 @@
     "pages": 72,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Physics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-202.jpg"
   },
   {
     "id": "chemistry-10-si",
@@ -1591,7 +1591,7 @@
     "pages": 39,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Chemistry, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-199.jpg"
   },
   {
     "id": "chemistry-10-ur",
@@ -1605,7 +1605,7 @@
     "pages": 41,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Chemistry, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-200.jpg"
   },
   {
     "id": "chemistry-10-en",
@@ -1619,7 +1619,7 @@
     "pages": 52,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Chemistry, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-198.jpg"
   },
   {
     "id": "biology-10-si",
@@ -1633,7 +1633,7 @@
     "pages": 33,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Biology, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-186.jpg"
   },
   {
     "id": "biology-10-ur",
@@ -1647,7 +1647,7 @@
     "pages": 33,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Biology, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-188.jpg"
   },
   {
     "id": "biology-10-en",
@@ -1661,7 +1661,7 @@
     "pages": 41,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Biology, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-188.jpg"
   },
   {
     "id": "pakistan-studies-10-si",
@@ -1675,7 +1675,7 @@
     "pages": 34,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Pakistan Studies, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/pakistan-studies.svg"
+    "cover": "assets/images/covers/portal-227.jpg"
   },
   {
     "id": "pakistan-studies-10-ur",
@@ -1689,7 +1689,7 @@
     "pages": 35,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Pakistan Studies, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/pakistan-studies.svg"
+    "cover": "assets/images/covers/portal-227.jpg"
   },
   {
     "id": "pakistan-studies-10-en",
@@ -1703,7 +1703,7 @@
     "pages": 53,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Pakistan Studies, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/pakistan-studies.svg"
+    "cover": "assets/images/covers/portal-235.jpg"
   },
   {
     "id": "sindhi-1-ur",
