@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Urdu solved exercises cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E9F9EC"/><stop offset="1" stop-color="#C2EBCB"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#g)"/>
+<circle cx="368" cy="40" r="52" fill="#ffffff" opacity="0.35"/><circle cx="26" cy="262" r="60" fill="#ffffff" opacity="0.28"/>
+<circle cx="52" cy="230" r="16" fill="#34D399" opacity="0.6"/><path d="M330 236c8-14 20-20 34-22-2 12 2 22 10 30-14 2-30-2-44-8z" fill="#0B6B4A" opacity="0.5"/>
+<ellipse cx="200" cy="272" rx="118" ry="9" fill="#000000" opacity="0.12"/>
+<polygon points="132,48 118,60 118,264 132,252" fill="#065F46"/>
+<polygon points="132,48 118,60 282,60 268,48" fill="#E2E8F0"/>
+<polygon points="268,48 282,60 282,264 268,252" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
+<rect x="132" y="48" width="136" height="204" rx="4" fill="#ffffff" stroke="#0B6B4A" stroke-width="2.5"/>
+<text x="200" y="68" font-family="Arial, sans-serif" font-size="8.5" font-weight="bold" letter-spacing="1.5" fill="#0B6B4A" text-anchor="middle">SINDH TEXTBOOK BOARD</text>
+<rect x="168" y="75" width="64" height="2.5" rx="1" fill="#0B6B4A" opacity="0.5"/>
+<g transform="translate(200,148) scale(0.42) translate(-200,-274)"><path d="M200 300c-30-18-60-22-88-20v70c28-2 58 2 88 20 30-18 60-22 88-20v-70c-28-2-58 2-88 20z" fill="#fff" stroke="#0B6B4A" stroke-width="5" stroke-linejoin="round"/><path d="M200 300v70" stroke="#0B6B4A" stroke-width="4"/><path d="M292 210c10-26 30-40 56-44-4 20 0 36 10 48-20 2-44-2-66-4z" fill="#34D399"/></g>
+<text x="200" y="222" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#1F2937" text-anchor="middle">Urdu</text>
+<text x="200" y="244" font-family="Arial, sans-serif" font-size="9" fill="#6B7280" text-anchor="middle">SOLVED EXERCISES</text>
+</svg>

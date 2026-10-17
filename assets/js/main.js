@@ -10,6 +10,17 @@ document.addEventListener('DOMContentLoaded', ()=>{
   if(grid){ renderBooks(); ['q','f-class','f-medium','f-subject','f-status'].forEach(id=>{ const el=document.getElementById(id); if(el) el.addEventListener('input', renderBooks); }); }
   const blogSearch = document.getElementById('blog-search');
   if(blogSearch){ const cat=document.getElementById('blog-cat'); const fn=()=>{ const q=blogSearch.value.toLowerCase(); const c=cat?cat.value:''; document.querySelectorAll('#blog-grid .blog-card').forEach(card=>{ const txt=card.textContent.toLowerCase(); const okQ=!q||txt.includes(q); const okC=!c||txt.includes(c.toLowerCase()); card.style.display=(okQ&&okC)?'':'none'; }); }; blogSearch.addEventListener('input',fn); if(cat) cat.addEventListener('change',fn); }
+  // Featured class-filter pills (index featured grid + solved page)
+  document.querySelectorAll('.feat-pills').forEach(pills=>{
+    pills.addEventListener('click', e=>{
+      const btn = e.target.closest('.feat-pill'); if(!btn) return;
+      pills.querySelectorAll('.feat-pill').forEach(p=>p.classList.remove('active'));
+      btn.classList.add('active');
+      const grid = document.getElementById(pills.dataset.grid); if(!grid) return;
+      const f = btn.dataset.filter;
+      grid.querySelectorAll('.card').forEach(card=>{ card.style.display = (f==='all' || card.dataset.class===f) ? '' : 'none'; });
+    });
+  });
   // Hero search -> books page
   const heroForm = document.getElementById('hero-search-form');
   if(heroForm){ heroForm.addEventListener('submit', e=>{ e.preventDefault(); const q=document.getElementById('hero-search').value; window.location.href='/books.html?q='+encodeURIComponent(q); }); }
@@ -22,13 +33,22 @@ async function loadBooks(){
   try{ const r = await fetch('/assets/data/books.json'); BOOKS = await r.json(); }catch(e){ BOOKS = []; }
   return BOOKS;
 }
+function subjSlug(subject){
+  const map = {'Sindhi':'sindhi','Urdu':'urdu','English':'english','Arabic':'arabic','Math':'math','Science':'science','Social Studies':'social-studies','Islamiat':'islamiat','Mazhabi Taleemat':'mazhabi-taleemat','Computer':'computer','Physics':'physics','Chemistry':'chemistry','Biology':'biology','Pakistan Studies':'pakistan-studies','Mathematics':'math'};
+  return map[subject] || 'science';
+}
+function subjectCover(b){
+  if(b.cover) return b.cover;
+  return 'assets/images/covers/subjects/' + subjSlug(b.subject) + '.svg';
+}
+const BOOK_IC = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>';
 function cardHTML(b){
   const live = b.status==='live';
-  const badge = live ? '<span class="chip live">● Live — Preview Free</span>' : '<span class="chip soon">Coming Soon</span>';
-  const btn = live ? `<a class="btn small" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open</a>` : `<button class="btn small outline" onclick="openBook('${b.id}')">Notify me</button>`;
-  const cover = b.cover ? `<div class="card-cover has-img"><img src="/${b.cover}" alt="${b.title} — official book cover" loading="lazy"></div>` : `<div class="card-cover"><small>Class ${b.cls} · ${b.medium} Medium</small><b>${b.title.replace(' — Solved Exercises ('+b.medium+' Medium)','')}</b><small>${b.subject}</small></div>`;
-  const titleRow = b.cover ? `<h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p>` : '';
-  return `<article class="card" data-id="${b.id}">${cover}<div class="card-body">${badge}${titleRow}<p>${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const slug = subjSlug(b.subject);
+  const cover = subjectCover(b);
+  const badge = live ? '<span class="live-badge"><i></i>Live Preview</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
+  const btn = live ? `<a class="btn-open" href="/preview.html?id=${b.id}">${BOOK_IC} Open &rarr;</a>` : `<button class="btn-open" onclick="openBook('${b.id}')">Notify me</button>`;
+  return `<article class="card" data-id="${b.id}" data-class="${b.cls}"><div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div><div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div></article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
