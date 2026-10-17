@@ -377,7 +377,7 @@ def head(title, desc, path, keywords="", extra=""):
 <meta property="og:url" content="{BASE}{path}"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{title}"><meta name="twitter:description" content="{desc}"><meta name="twitter:image" content="{BASE}/assets/images/og.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=3">
+<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=4">
 {extra}</head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
