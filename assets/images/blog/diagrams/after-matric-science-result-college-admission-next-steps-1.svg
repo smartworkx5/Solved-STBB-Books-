@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590">
+<rect width="1000" height="590" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Which Stream Fits Which Student</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">If you are strong in</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Consider this stream</text>
+<rect x="40" y="160" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Biology and Chemistry, interest in</text>
+<text x="60" y="218" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">health and life sciences</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Pre-Medical</text>
+<rect x="40" y="242" width="920" height="82" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Mathematics and Physics, interest</text>
+<text x="60" y="300" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">in engineering and technology</text>
+<text x="540" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Pre-Engineering</text>
+<rect x="40" y="324" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="354" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Mathematics and computing,</text>
+<text x="60" y="382" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">interest in programming</text>
+<text x="540" y="354" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Computer Science</text>
+<rect x="40" y="406" width="920" height="82" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="436" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Business, accounting, and</text>
+<text x="60" y="464" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">economics</text>
+<text x="540" y="436" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Commerce</text>
+<rect x="40" y="488" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="518" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Humanities, languages, and social</text>
+<text x="60" y="546" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">sciences</text>
+<text x="540" y="518" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Arts</text>
+</svg>
