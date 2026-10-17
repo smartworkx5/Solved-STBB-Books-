@@ -360,8 +360,8 @@ async function renderBooks(){
     if(q && !(b.title+' '+b.subject+' '+b.medium+' Class '+b.cls).toLowerCase().includes(q)) return false;
     return true;
   });
-  const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' books found';
-  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No books match your filters. Try clearing the search or choose another class/medium.</p>';
+  const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
+  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
 async function openBook(id){
   const books = await loadBooks();
@@ -370,7 +370,7 @@ async function openBook(id){
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
   const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
   const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
-  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to all books</a></p>`;
+  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to solved notes</a></p>`;
   modal.classList.add('open');
 }
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }
@@ -407,13 +407,13 @@ def header(active=""):
 <a class="logo" href="/"><span class="logo-mark">S</span><span class="logo-text">Solved Sindh Textbook Board Books</span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-{a('/', 'Home')}{a('/books.html', 'Books')}{a('/solved.html', 'Solved Notes')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}
+{a('/', 'Home')}{a('/books.html', 'Solved Notes')}{a('/blog/', 'Blog')}{a('/about.html', 'About')}{a('/contact.html', 'Contact')}
 </nav></div></header>
 """
 
 FOOTER = """<footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Full PDFs Rs.100 on WhatsApp. Prepared by teachers, for students.</p></div>
-<div><h3>Explore</h3><ul><li><a href="/books.html">All Books</a></li><li><a href="/solved.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
+<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Prepared by teachers, for students.</p></div>
+<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© 2026 Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
 <script src="/assets/js/main.js"></script>
@@ -426,7 +426,7 @@ SITE_LD = json.dumps({"@context":"https://schema.org","@type":"WebSite","name":"
 
 BOOK_ICON = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>'
 HERO_ART = '<svg viewBox="0 0 520 420" width="460" height="372" role="img" aria-label="Stack of Sindh Textbook Board books">\n<path d="M448 36l4 12 12 4-12 4-4 12-4-12-12-4 12-4z" fill="#FDE047"/>\n<path d="M52 52l3 9 9 3-9 3-3 9-3-9-9-3 9-3z" fill="#ffffff" opacity="0.85"/>\n<path d="M492 250l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#FDE047" opacity="0.9"/>\n<g transform="translate(396,52) rotate(12)">\n<polygon points="0,16 48,0 96,16 48,32" fill="#0B6B4A" stroke="#ffffff" stroke-width="2"/>\n<polygon points="24,28 24,52 48,62 72,52 72,28 48,38" fill="#065F46"/>\n<line x1="72" y1="28" x2="72" y2="62" stroke="#FDE047" stroke-width="2"/><circle cx="72" cy="66" r="4" fill="#FDE047"/>\n</g>\n<text x="398" y="146" font-family="cursive" font-size="30" fill="#FDE047" text-anchor="middle" transform="rotate(4 398 146)">Learn</text>\n<text x="400" y="178" font-family="cursive" font-size="30" fill="#ffffff" text-anchor="middle" transform="rotate(4 400 178)">Grow</text>\n<text x="402" y="210" font-family="cursive" font-size="30" fill="#FDE047" text-anchor="middle" transform="rotate(4 402 210)">Succeed</text>\n<g transform="rotate(-8 150 300)">\n<rect x="58" y="122" width="54" height="238" rx="6" fill="#2563EB"/>\n<rect x="116" y="112" width="54" height="248" rx="6" fill="#F59E0B"/>\n<rect x="174" y="120" width="54" height="240" rx="6" fill="#0E7490"/>\n</g>\n<g transform="rotate(3 330 250)">\n<ellipse cx="330" cy="370" rx="152" ry="12" fill="#000000" opacity="0.18"/>\n<rect x="212" y="96" width="236" height="272" rx="10" fill="#FFF8E7" stroke="#E8A020" stroke-width="3"/>\n<rect x="212" y="96" width="26" height="272" rx="6" fill="#0E8A5F"/>\n<circle cx="330" cy="160" r="34" fill="#ffffff" stroke="#0B6B4A" stroke-width="2.5"/>\n<circle cx="330" cy="160" r="26" fill="none" stroke="#0B6B4A" stroke-width="1.5"/>\n<path d="M338 142a20 20 0 1 0 12 22 15 15 0 1 1-12-22z" fill="#0B6B4A"/>\n<path d="M348 138l1.6 4 4 1.6-4 1.6-1.6 4-1.6-4-4-1.6 4-1.6z" fill="#0B6B4A"/>\n<text x="330" y="228" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Sindh Textbook Board</text>\n<text x="330" y="280" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#1F2937" text-anchor="middle">سنده</text>\n<text x="330" y="320" font-family="Arial, sans-serif" font-size="24" fill="#4B5563" text-anchor="middle">کتاب نصاب</text>\n</g>\n<g transform="translate(26,302)"><path d="M0 20c14-8 28-10 44-8v34c-16-2-30 0-44 8z" fill="#ffffff"/><path d="M44 12c16-2 30 0 44 8v34c-14-8-28-10-44-8z" fill="#FDE047"/></g>\n</svg>'
-PDF_BANNER = '<div class="pdf-banner"><span class="pdf-banner-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span><div><h3>Need full PDF?</h3><p>Get complete solved notes for just Rs.100 via WhatsApp.</p></div><a class="btn whatsapp" href="https://wa.me/923018981055">Contact on WhatsApp &rarr;</a></div>'
+PDF_BANNER = ''
 PILLS = '<div class="feat-pills" data-grid="{grid}"><button class="feat-pill active" data-filter="all">All</button><button class="feat-pill" data-filter="6">Class 6</button><button class="feat-pill" data-filter="7">Class 7</button><button class="feat-pill" data-filter="8">Class 8</button><button class="feat-pill" data-filter="9">Class 9</button><button class="feat-pill" data-filter="10">Class 10</button></div>'
 
 def featured_cards(limit=None):
@@ -446,13 +446,13 @@ def build():
 
     # INDEX
     faq_ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Are the solved notes really free?","acceptedAnswer":{"@type":"Answer","text":"Preview is free on this website. The full PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp."}},
+        {"@type":"Question","name":"Are the solved notes really free?","acceptedAnswer":{"@type":"Answer","text":"Yes — completely free. Every solved note is free to read on this website. No download needed, no payment, no sign-up. Just open a book and start reading — come back any time to revise."}},
         {"@type":"Question","name":"Which mediums are available?","acceptedAnswer":{"@type":"Answer","text":"Solved notes are available in Sindhi, Urdu, English and Arabic medium for Classes 6–10 — 119 books are live now."}},
         {"@type":"Question","name":"Do the solved notes follow the Sindh Textbook Board textbook?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every solved exercise follows the official Sindh Textbook Board textbook chapter by chapter, in the book's own format."}},
         {"@type":"Question","name":"Can I request a book that is not listed?","acceptedAnswer":{"@type":"Answer","text":"Yes. Use the contact page to request any Sindh Textbook Board class, subject or medium. Requested books are prepared first."}},
     ]}
     index = head("Solved Sindh Textbook Board Books — Solved Exercises Sindhi, Urdu & English Medium, Free Preview | Sindh Board",
-        "Preview solved Sindh Textbook Board books & exercises free on this website. 119 solved books live for Classes 6–10 in Sindhi, Urdu, English & Arabic medium. Full PDF Rs.100 on WhatsApp.",
+        "Preview solved Sindh Textbook Board books & exercises free on this website. 119 solved books live for Classes 6–10 in Sindhi, Urdu, English & Arabic medium. Free to read, no sign-up.",
         "/", "Sindh Textbook Board solved books, Sindh Textbook Board solved exercises, Class 9 Islamiat solved Sindhi",
         f'<script type="application/ld+json">{ORG_LD}</script><script type="application/ld+json">{SITE_LD}</script><script type="application/ld+json">{json.dumps(faq_ld, ensure_ascii=False)}</script>')
     index += header("/") + f"""
@@ -461,22 +461,22 @@ def build():
 <div class="hero-copy">
 <span class="hero-badge">★ Free Preview · Sindh Textbook Board</span>
 <h1>Free Solved Sindh<br>Textbook Board Books<br><span class="hero-yellow">Sindhi, Urdu &amp; English Medium</span></h1>
-<p class="hero-lead">Preview solved exercises for Sindh Textbook Board books. Classes 6–10 solved notes are live now — free preview on this website. Full PDF Rs.100 on WhatsApp.</p>
+<p class="hero-lead">Preview solved exercises for Sindh Textbook Board books. Classes 6–10 solved notes are live now — free to read on this website, any time.</p>
 <form class="hero-search" id="hero-search-form" role="search"><svg class="search-ic" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
-<div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse All Books</a> <a class="btn amber" href="/solved.html">Solved Notes</a></div>
+<div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse Solved Notes</a> <a class="btn amber" href="/books.html">Solved Notes</a></div>
 </div>
 <div class="hero-art">{HERO_ART}</div>
 </div></section>
 <section class="trust-bar"><div class="container trust-grid">
-<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></span><div><b>100% Free Preview</b><small>See quality before you buy</small></div></div>
+<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></span><div><b>100% Free Preview</b><small>Free to read on this site</small></div></div>
 <div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span><div><b>All Classes &amp; Subjects</b><small>Classes 6–10 (Sindh Textbook Board)</small></div></div>
 <div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg></span><div><b>Fast &amp; Easy Access</b><small>No registration needed</small></div></div>
 <div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 4 5v6c0 5 3.4 9.4 8 11 4.6-1.6 8-6 8-11V5z"/><path d="m9 12 2 2 4-4"/></svg></span><div><b>Trusted &amp; Official</b><small>Sindh Textbook Board</small></div></div>
 </div></section>
-<section class="section container"><div class="feat-head"><div><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the Sindh Textbook Board textbook. Click Open to preview free on this website. Full PDF Rs.100 on WhatsApp.</p></div>{PILLS.format(grid="featured-grid")}</div><div class="grid featured-grid" id="featured-grid">{featured_cards(12)}</div>{PDF_BANNER}</section>
+<section class="section container"><div class="feat-head"><div><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the Sindh Textbook Board textbook. Click Open to preview free on this website.</p></div>{PILLS.format(grid="featured-grid")}</div><div class="grid featured-grid" id="featured-grid">{featured_cards()}</div>{PDF_BANNER}</section>
 <section class="section container"><h2>How it works</h2><div class="steps-grid">
 <div class="step"><div class="num">1</div><h3>Find your book</h3><p>Search by class, subject or medium — or browse the catalogue.</p></div>
-<div class="step"><div class="num">2</div><h3>Preview free</h3><p>Open the preview on this website. Free to preview — full PDF Rs.100 on WhatsApp.</p></div>
+<div class="step"><div class="num">2</div><h3>Preview free</h3><p>Open the preview on this website. Free to read — come back any time to revise.</p></div>
 <div class="step"><div class="num">3</div><h3>Learn &amp; write</h3><p>Study the solved answers, then write them from memory. That is how marks are made.</p></div></div></section>
 <section class="section container"><h2>Browse by subject</h2><div class="subject-strip">
 <a href="/books.html?f-subject=Islamiat">Islamiat</a><a href="/books.html?f-subject=Urdu">Urdu</a><a href="/books.html?f-subject=Sindhi">Sindhi</a><a href="/books.html?f-subject=English">English</a><a href="/books.html?f-subject=Math">Math</a><a href="/books.html?f-subject=Science">Science</a><a href="/books.html?f-subject=Physics">Physics</a><a href="/books.html?f-subject=Chemistry">Chemistry</a><a href="/books.html?f-subject=Biology">Biology</a><a href="/books.html?f-subject=Pakistan Studies">Pakistan Studies</a><a href="/books.html?f-subject=Social Studies">Social Studies</a><a href="/books.html?f-subject=Arabic">Arabic</a><a href="/books.html?f-subject=Computer">Computer</a><a href="/books.html?f-subject=Mazhabi Taleemat">Mazhabi Taleemat</a></div></section>
@@ -490,7 +490,7 @@ def build():
 <div class="testi"><p>“Sindhi medium notes milna mushkil tha. Yahan sab kuch free aur saaf likha hua mila.”</p><b>— Class 8 Student, Larkana</b></div>
 <div class="testi"><p>“Main apni class ko isi se parhata hoon. Solved exercises ka format board ke liye behtareen hai.”</p><b>— School Teacher, Sukkur</b></div></div></section>
 <section class="section container"><h2>Frequently asked questions</h2><div class="faq">
-<details open><summary>Are the solved notes really free?</summary><p>Preview is free on this website. The full PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp.</p></details>
+<details open><summary>Are the solved notes really free?</summary><p>Yes — completely free. Every solved note is free to read on this website. No download needed, no payment, no sign-up. Just open a book and start reading — come back any time to revise.</p></details>
 <details><summary>Which mediums are available?</summary><p>Sindhi, Urdu, English and Arabic. 119 solved books for Classes 6–10 are live now.</p></details>
 <details><summary>Do the solved notes follow the Sindh Textbook Board textbook?</summary><p>Yes. Every solved exercise follows the official Sindh Textbook Board textbook chapter by chapter.</p></details>
 <details><summary>Can I request a book that is not listed?</summary><p>Yes — use the <a href="/contact.html">contact page</a>. Requested books are prepared first.</p></details>
@@ -501,58 +501,42 @@ def build():
     w("index.html", index)
 
     # BOOKS
-    books_page = head("All Books — Sindh Textbook Board Solved Exercises by Class, Subject & Medium | Solved Sindh Textbook Board Books",
-        "Browse all Sindh Textbook Board solved books by class (1-12), subject and medium (Sindhi, Urdu, English). Free PDF downloads, live search and filters.",
+    books_page = head("Solved Notes — Sindh Textbook Board Solved Exercises by Class, Subject & Medium | Solved Sindh Textbook Board Books",
+        "Browse all Sindh Textbook Board solved notes by class, subject and medium (Sindhi, Urdu, English, Arabic). Free to read on this website, live search and filters.",
         "/books.html", "Sindh Textbook Board books catalogue, solved exercises by class, Sindh Board books")
     books_page += header("/books.html") + """
-<main id="main" class="container"><h1>All Books — Sindh Textbook Board Solved Exercises</h1>
-<p class="lead">Search and filter the full catalogue. Live books have a free preview; full PDF Rs.100 on WhatsApp. Coming-soon books can be requested.</p>
+<main id="main" class="container"><h1>Solved Notes — Sindh Textbook Board Solved Exercises</h1>
+<p class="lead">Search and filter the full catalogue. All live notes are free to read on this website. Coming-soon notes can be requested.</p>
 <div class="filters">
 <label>Search <input type="search" id="q" placeholder="e.g. Class 9 Islamiat Sindhi"></label>
 <label>Class <select id="f-class"><option value="">All classes</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option></select></label>
 <label>Medium <select id="f-medium"><option value="">All mediums</option><option>Sindhi</option><option>Urdu</option><option>English</option><option>Arabic</option></select></label>
 <label>Subject <select id="f-subject"><option value="">All subjects</option><option>Islamiat</option><option>Urdu</option><option>Sindhi</option><option>English</option><option>Math</option><option>Science</option><option>Social Studies</option><option>Physics</option><option>Chemistry</option><option>Biology</option><option>Pakistan Studies</option><option>Mathematics</option><option>Computer</option><option>Arabic</option><option>Mazhabi Taleemat</option></select></label>
-<label>Status <select id="f-status"><option value="">All</option><option value="live">Live — Free PDF</option><option value="coming-soon">Coming Soon</option></select></label>
+<label>Status <select id="f-status"><option value="">All</option><option value="live">Live — Free to Read</option><option value="coming-soon">Coming Soon</option></select></label>
 </div><p id="books-count"></p><div class="grid" id="books-grid"><p>Loading books…</p></div>
 <p class="notice">Tip: click <strong>Open</strong> on any card to preview it free on this website. Cannot find your book? <a href="/contact.html">Request it here</a>.</p>
 </main>
 """ + MODAL + FOOTER
     w("books.html", books_page)
 
-    # SOLVED
-    solved = head("Solved Notes — Free Preview of Sindh Textbook Board Solved Exercises",
-        "Preview solved notes free: 119 solved books for Classes 6–10 in Sindhi, Urdu, English & Arabic medium. Full PDF Rs.100 on WhatsApp.",
-        "/solved.html", "Sindh Textbook Board solved notes, solved exercises PDF, Islamiat solved notes")
-    solved += header("/solved.html") + f"""
-<main id="main" class="container"><h1>Solved Notes — Free Preview</h1>
-<p class="lead">119 solved-notes PDFs are live now — preview them free on this website. Full PDF Rs.100 on WhatsApp. More classes, subjects and mediums are being added — request yours on the contact page.</p>
-{PILLS.format(grid="solved-grid")}
-<div class="grid featured-grid" id="solved-grid">{featured_cards()}</div>
-{PDF_BANNER}
-<h2 style="margin-top:36px">How to use solved notes (so they become marks)</h2>
-<ol class="steps"><li>Read the solved answer with your Sindh Textbook Board book open.</li><li>Close the book and write the answer from memory.</li><li>Compare, fix the missing line, and revise after 2 days.</li></ol>
-<p><a class="btn" href="/books.html">Browse all books →</a></p></main>
-""" + MODAL + FOOTER
-    w("solved.html", solved)
 
     # ABOUT / CONTACT / LEGAL
     about = head("About — Solved Sindh Textbook Board Books", "About Solved Sindh Textbook Board Books: free solved Sindh Textbook Board exercises for Sindh Board students in Sindhi, Urdu and English medium, prepared by teachers.", "/about.html")
-    about += header("/about.html") + """<main id="main" class="container"><h1>About Solved Sindh Textbook Board Books</h1><p class="lead">We are teachers from Sindh. We saw students struggling to find solved exercises in their own medium — especially Sindhi medium — so we started preparing them, chapter by chapter, from the official Sindh Textbook Board textbooks.</p><h2>What we do</h2><ul><li>Solve every exercise from the Sindh Textbook Board textbook in the book's own format.</li><li>Write answers the way board examiners want: translation, explanation, example.</li><li>Publish everything for preview — free on this website; full PDFs Rs.100 on WhatsApp.</li></ul><h2>What we do not do</h2><p>We do not replace the textbook. Solved notes are for learning and revision — always study with your Sindh Textbook Board book open. Textbooks are the property of the Sindh Textbook Board; solved notes here are original explanations of those exercises.</p><p><a class="btn" href="/books.html">Browse books →</a></p></main>""" + FOOTER
+    about += header("/about.html") + """<main id="main" class="container"><h1>About Solved Sindh Textbook Board Books</h1><p class="lead">We are teachers from Sindh. We saw students struggling to find solved exercises in their own medium — especially Sindhi medium — so we started preparing them, chapter by chapter, from the official Sindh Textbook Board textbooks.</p><h2>What we do</h2><ul><li>Solve every exercise from the Sindh Textbook Board textbook in the book's own format.</li><li>Write answers the way board examiners want: translation, explanation, example.</li><li>Publish everything free to read on this website.</li></ul><h2>What we do not do</h2><p>We do not replace the textbook. Solved notes are for learning and revision — always study with your Sindh Textbook Board book open. Textbooks are the property of the Sindh Textbook Board; solved notes here are original explanations of those exercises.</p><p><a class="btn" href="/books.html">Browse solved notes →</a></p></main>""" + FOOTER
     w("about.html", about)
     contact = head("Contact — Request a Book | Solved Sindh Textbook Board Books", "Contact Solved Sindh Textbook Board Books to request a solved book, report an error, or suggest a new guide.", "/contact.html")
     contact += header("/contact.html") + """<main id="main" class="container"><h1>Contact &amp; Request a Book</h1><p class="lead">Tell us which book you need — class, subject and medium — and we will prepare it first.</p><div class="form-box"><form action="mailto:hello@stbbsolved.pk" method="post" enctype="text/plain"><label>Your name <input name="name" required></label><label>Email <input name="email" type="email" required></label><label>Request <select name="type"><option>Request a solved book</option><option>Report an error</option><option>Suggest a guide</option><option>Other</option></select></label><label>Class <input name="class" placeholder="e.g. Class 10"></label><label>Subject &amp; Medium <input name="subject" placeholder="e.g. Physics, English medium"></label><label>Message <textarea name="message" rows="5" required placeholder="Which book do you need?"></textarea></label><button class="btn" type="submit">Send request</button></form></div><p>WhatsApp: <a href="https://wa.me/923018981055">+92 301 8981055</a></p></main>""" + FOOTER
     w("contact.html", contact)
     privacy = head("Privacy Policy | Solved Sindh Textbook Board Books", "Privacy policy for Solved Sindh Textbook Board Books. No accounts, no tracking beyond basic analytics.", "/privacy.html")
-    privacy += header("") + """<main id="main" class="container"><h1>Privacy Policy</h1><p>This site does not require accounts. We do not sell personal data. If you email us, we use your message only to reply. Preview uses the on-page viewer; full PDFs are sent on WhatsApp after payment. No personal data is needed to preview.</p><p>Basic anonymous visit counts may be used to see which books students need most. No advertising profiles are built from this site.</p></main>""" + FOOTER
+    privacy += header("") + """<main id="main" class="container"><h1>Privacy Policy</h1><p>This site does not require accounts. We do not sell personal data. If you email us, we use your message only to reply. Preview uses the on-page viewer. No personal data is needed to read.</p><p>Basic anonymous visit counts may be used to see which books students need most. No advertising profiles are built from this site.</p></main>""" + FOOTER
     w("privacy.html", privacy)
     terms = head("Terms | Solved Sindh Textbook Board Books", "Terms of use for Solved Sindh Textbook Board Books. Free solved notes for study; always verify against your Sindh Textbook Board textbook.", "/terms.html")
-    terms += header("") + """<main id="main" class="container"><h1>Terms of Use</h1><p>Solved-note previews are free for study and revision. Full PDFs cost Rs.100 via WhatsApp. Always verify answers against your official Sindh Textbook Board textbook and your teacher. We aim for accuracy but accept no liability for exam outcomes. Textbooks remain the property of the Sindh Textbook Board.</p></main>""" + FOOTER
+    terms += header("") + """<main id="main" class="container"><h1>Terms of Use</h1><p>Solved notes are free to read on this website for study and revision. Always verify answers against your official Sindh Textbook Board textbook and your teacher. We aim for accuracy but accept no liability for exam outcomes. Textbooks remain the property of the Sindh Textbook Board.</p></main>""" + FOOTER
     w("terms.html", terms)
 
-    # PREVIEW — PDF viewer page. Users preview free on this website; the
-    # Download button is locked and opens the Rs.100 WhatsApp buy popup.
+    # PREVIEW — PDF viewer page. View-only: no download, no purchase.
     preview = head("Preview Solved PDF | Solved Sindh Textbook Board Books",
-        "Preview a solved Sindh Textbook Board PDF free on this website. Full PDF Rs.100 on WhatsApp.",
+        "Preview a solved Sindh Textbook Board PDF free on this website. Free to read, no download needed.",
         "/preview.html", "preview solved PDF, Sindh Textbook Board solved notes preview")
     preview += header("") + """<main id="main" class="container">
 <p id="preview-loading">Loading book…</p>
@@ -560,14 +544,13 @@ def build():
 <h1 id="preview-title"></h1>
 <div class="preview-meta" id="preview-chips"></div>
 <p class="lead" id="preview-desc"></p>
-<p>Preview free on this website. Full PDF Rs.100 — tap Download below to order on WhatsApp.</p>
+<p>Free to read on this website. No download needed — just read it here, any time.</p>
 <div oncontextmenu="return false"><iframe id="pdf-frame" class="pdf-frame" title="Solved PDF preview" src=""></iframe></div>
-<p style="margin-top:18px"><button class="btn" id="buy-btn">⬇ Download PDF</button> <a class="btn outline" href="/books.html">← Back to all books</a></p>
-<p class="muted" style="font-size:14px;color:var(--muted)">Preview is free on this website. Download is locked — the full PDF is Rs.100 on WhatsApp.</p>
+<p style="margin-top:18px"><a class="btn outline" href="/books.html">← Back to solved notes</a></p>
 </div>
-<div id="preview-notfound" style="display:none"><h1>Book not found</h1><p>This book is not live yet. Browse the catalogue or request it on the contact page.</p><p><a class="btn" href="/books.html">Browse all books →</a> <a class="btn outline" href="/contact.html">Request this book</a></p></div>
+<div id="preview-notfound" style="display:none"><h1>Book not found</h1><p>This book is not live yet. Browse the catalogue or request it on the contact page.</p><p><a class="btn" href="/books.html">Browse solved notes →</a> <a class="btn outline" href="/contact.html">Request this book</a></p></div>
 </main>
-<div class="modal-backdrop" id="buy-modal" role="dialog" aria-modal="true" aria-label="Buy this solved PDF"><div class="modal"><button class="close" onclick="closeBuy()" aria-label="Close">×</button><h2>Buy this solved PDF</h2><p><strong>Buy this solved PDF in Rs.100 only.</strong></p><p>Message us on WhatsApp with your book details and we will send you the PDF.</p><p><a class="btn whatsapp" id="wa-btn" href="https://wa.me/923018981055" target="_blank" rel="noopener">💬 Order on WhatsApp — Rs.100</a></p><p class="muted" style="font-size:14px;color:var(--muted)">Your book details are already filled in the WhatsApp message.</p></div></div>
+
 <script>
 async function initPreview(){
   const id = new URLSearchParams(location.search).get('id');
@@ -585,13 +568,7 @@ async function initPreview(){
   document.getElementById('preview-chips').innerHTML = '<span class="chip">Class ' + b.cls + '</span> <span class="chip">' + b.subject + '</span> <span class="chip">' + b.medium + ' Medium</span> <span class="chip live">Preview Free</span>';
   document.getElementById('preview-desc').textContent = b.desc || '';
   document.getElementById('pdf-frame').src = '/' + b.pdf + '#toolbar=0&navpanes=0&scrollbar=0';
-  const msg = 'Hi! I want to buy this solved PDF (Rs.100): ' + b.title + ' — Class ' + b.cls + ', ' + b.subject + ', ' + b.medium + ' Medium. Please send me the PDF.';
-  document.getElementById('wa-btn').href = 'https://wa.me/923018981055?text=' + encodeURIComponent(msg);
-  document.getElementById('buy-btn').addEventListener('click', ()=>{ document.getElementById('buy-modal').classList.add('open'); });
 }
-function closeBuy(){ document.getElementById('buy-modal')?.classList.remove('open'); }
-document.addEventListener('click', e=>{ if(e.target && e.target.id==='buy-modal') closeBuy(); });
-document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeBuy(); });
 document.addEventListener('DOMContentLoaded', initPreview);
 </script>
 """ + FOOTER
@@ -601,7 +578,7 @@ document.addEventListener('DOMContentLoaded', initPreview);
     import sys
     sys.path.insert(0, SITE)
     from build_blog import POSTS
-    urls = ["", "/books.html", "/solved.html", "/about.html", "/contact.html", "/privacy.html", "/terms.html", "/preview.html", "/blog/"]
+    urls = ["", "/books.html", "/about.html", "/contact.html", "/privacy.html", "/terms.html", "/preview.html", "/blog/"]
     urls += [f"/blog/{p['slug']}.html" for p in POSTS]
     import math as _math
     _total_pages = max(1, _math.ceil(len(POSTS) / 30))
@@ -637,7 +614,7 @@ python3 -m http.server 8000
 1. Drop the PDF into `assets/pdfs/` (e.g. `Class10-Physics-SolvedExercises-English.pdf`).
 2. Edit `assets/data/books.json` — copy a live entry, set `status: "live"`, `pdf: "assets/pdfs/<file>.pdf"`, `pages`, `desc`, `chapters`.
 3. Or: add the entry to `BOOKS` in `build_site.py` and re-run `python3 build_site.py`.
-4. The book appears automatically on Home, Books and Solved pages (JS renders from books.json).
+4. The book appears automatically on Home and Solved Notes pages (JS renders from books.json).
 
 ## Add a blog post
 Daily engine (15/day, from 2026-10-16): write a `gen/batch_XXX.py` batch file, run `python3 gen/build_batch.py batch_XXX BATCH_XXX` (validates, appends to `gen/extra_posts.json`, rebuilds blog + sitemap), then `python3 gen/push_batch.py "Day N" <files>` to push.
@@ -652,13 +629,13 @@ Manual single post: append a dict to `POSTS` in `build_blog.py` (slug, title, ca
 4. Submit `https://YOUR-DOMAIN/sitemap.xml` in Google Search Console.
 
 ## Files
-- `index.html`, `books.html`, `solved.html`, `about.html`, `contact.html`, `privacy.html`, `terms.html`
+- `index.html`, `books.html`, `about.html`, `contact.html`, `privacy.html`, `terms.html`
 - `blog/` — 50 posts + index + page-2
 - `assets/css/style.css`, `assets/js/main.js`, `assets/data/books.json`, `assets/pdfs/`
 - `sitemap.xml`, `robots.txt`, `manifest.webmanifest`, `favicon.svg`
 - `build_site.py`, `build_blog.py` — generators (source of truth for pages/blogs)
 
-## Domain suggestions (check availability before buying)
+## Domain suggestions (check availability before registering)
 1. **stbbsolved.pk** — exact-match, best for SEO in Pakistan
 2. **solvedstbb.com** — global, easy to say
 3. **stbbnotes.pk** — short, memorable, brandable

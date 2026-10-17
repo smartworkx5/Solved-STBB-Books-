@@ -170,7 +170,7 @@ def post_html(post, idx, all_posts):
             {"q": f"What is covered in {d['title'].split('—')[0].strip()}?",
              "a": f"This guide covers the full {d['title'].split('—')[0].strip()} with {d['cat'].lower()} focus: key concepts, worked answers, and exam-ready format. Use it with your Sindh Textbook Board textbook and the free solved notes on this site."},
             {"q": "Are these notes free?",
-             "a": "Yes. All blog guides on this site are free to read, and solved notes are free to preview on this website. The full solved-exercise PDF costs Rs.100 — open the preview, tap Download, and order on WhatsApp."},
+             "a": "Yes. All blog guides on this site are free to read, and solved notes are free to preview on this website. Solved notes are completely free to read on this website. No download needed, no payment, no sign-up."},
             {"q": "How should I use this guide before the exam?",
              "a": "Read it once with your textbook open, then close the book and write the key answers from memory. Re-read the parts you missed. One read + one written recall beats three passive reads."},
         ]
@@ -240,7 +240,7 @@ def post_html(post, idx, all_posts):
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#0B6B4A">
-<link rel="stylesheet" href="/assets/css/style.css?v=3">
+<link rel="stylesheet" href="/assets/css/style.css?v=4">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
 <body>
@@ -249,7 +249,7 @@ def post_html(post, idx, all_posts):
 <a class="logo" href="/" aria-label="Solved Sindh Textbook Board Books home"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-<a href="/">Home</a><a href="/books.html">Books</a><a href="/solved.html">Solved Notes</a><a href="/blog/" class="active">Blog</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/books.html" class="btn small">Browse Books</a>
+<a href="/">Home</a><a href="/books.html">Solved Notes</a><a href="/blog/" class="active">Blog</a><a href="/about.html">About</a><a href="/contact.html">Contact</a>
 </nav></div></header>
 <main id="main" class="container">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>{esc(d['cat'])}</span></nav>
@@ -265,13 +265,13 @@ def post_html(post, idx, all_posts):
 <div class="faq">
 {faq_html}</div></section>
 <section><h2>Solved notes — preview free</h2>
-<p>These guides work best with the solved exercises. Preview the solved notes free on this website — <a href="/solved.html">Class 6, 8 and 9 Islamiat solved notes</a> in Sindhi and Urdu medium. Full PDF Rs.100 on WhatsApp. Or browse the <a href="/books.html">full books catalogue</a> for your class and medium. New solved notes are added regularly — check the catalogue for coming-soon books.</p></section>
+<p>These guides work best with the solved exercises. Preview the solved notes free on this website — <a href="/books.html">119 solved notes for Classes 6–10</a> in Sindhi, Urdu, English and Arabic medium. Or browse the <a href="/books.html">full solved notes catalogue</a> for your class and medium. New solved notes are added regularly — check the catalogue for coming-soon books.</p></section>
 <aside class="related"><h2>Related guides</h2><ul>{related_links(post, all_posts)}</ul></aside>
 </article>
 </main>
 <footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Full PDFs Rs.100 on WhatsApp.</p></div>
-<div><h3>Explore</h3><ul><li><a href="/books.html">All Books</a></li><li><a href="/solved.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
+<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Prepared by teachers, for students.</p></div>
+<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© {TODAY[:4]} Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
 <script src="/assets/js/main.js"></script>
@@ -307,14 +307,14 @@ def blog_index_html(posts, page, total_pages):
 <meta property="og:description" content="{len(posts)} free guides for Sindh Board students: solved exercises, syllabus, paper patterns and study tips.">
 <meta property="og:url" content="{BASE}/blog/"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=3">
+<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=4">
 </head><body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header class="site-header"><div class="container header-inner">
 <a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-<a href="/">Home</a><a href="/books.html">Books</a><a href="/solved.html">Solved Notes</a><a href="/blog/" class="active">Blog</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/books.html" class="btn small">Browse Books</a>
+<a href="/">Home</a><a href="/books.html">Solved Notes</a><a href="/blog/" class="active">Blog</a><a href="/about.html">About</a><a href="/contact.html">Contact</a>
 </nav></div></header>
 <main id="main" class="container">
 <h1>Blog — Guides for Sindh Board Students</h1>
@@ -325,8 +325,8 @@ def blog_index_html(posts, page, total_pages):
 <nav class="pagination" aria-label="Blog pages">{prev_link}<span>Page {page} of {total_pages}</span>{next_link}</nav>
 </main>
 <footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Full PDFs Rs.100 on WhatsApp.</p></div>
-<div><h3>Explore</h3><ul><li><a href="/books.html">All Books</a></li><li><a href="/solved.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
+<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Prepared by teachers, for students.</p></div>
+<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Notes</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© {TODAY[:4]} Solved Sindh Textbook Board Books. Preview free on this website.</p></footer>
 <script src="/assets/js/main.js"></script>
