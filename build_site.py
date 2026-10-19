@@ -457,18 +457,11 @@ def build():
 <div class="hero-copy">
 <span class="hero-badge">★ Free Preview · Sindh Textbook Board</span>
 <h1>Free Solved Sindh<br>Textbook Board Books<br><span class="hero-yellow">Sindhi, Urdu &amp; English Medium</span></h1>
-<p class="hero-lead">Preview solved exercises for Sindh Textbook Board books. Classes 6–10 solved notes are live now — free to read on this website, any time.</p>
 <form class="hero-search" id="hero-search-form" role="search"><svg class="search-ic" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
 <div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse Solved Books</a> <a class="btn amber" href="/books.html">Solved Books</a></div>
 </div>
 </div></section>
-<section class="trust-bar"><div class="container trust-grid">
-<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></span><div><b>100% Free Preview</b><small>Free to read on this site</small></div></div>
-<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span><div><b>All Classes &amp; Subjects</b><small>Classes 6–10 (Sindh Textbook Board)</small></div></div>
-<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg></span><div><b>Fast &amp; Easy Access</b><small>No registration needed</small></div></div>
-<div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 4 5v6c0 5 3.4 9.4 8 11 4.6-1.6 8-6 8-11V5z"/><path d="m9 12 2 2 4-4"/></svg></span><div><b>Trusted &amp; Official</b><small>Sindh Textbook Board</small></div></div>
-</div></section>
-<section class="section container"><div class="feat-head"><div><h2>Featured solved notes — free preview</h2><p class="sub">Real solved exercises, prepared from the Sindh Textbook Board textbook. Click Open to preview free on this website.</p></div>{PILLS.format(grid="featured-grid")}</div><div class="grid featured-grid" id="featured-grid">{featured_cards()}</div>{PDF_BANNER}</section>
+<section class="section container"><div class="feat-head">{PILLS.format(grid="featured-grid")}</div><div class="grid featured-grid" id="featured-grid">{featured_cards()}</div>{PDF_BANNER}</section>
 <section class="section container"><h2>How it works</h2><div class="steps-grid">
 <div class="step"><div class="num">1</div><h3>Find your book</h3><p>Search by class, subject or medium — or browse the catalogue.</p></div>
 <div class="step"><div class="num">2</div><h3>Preview free</h3><p>Open the preview on this website. Free to read — come back any time to revise.</p></div>
