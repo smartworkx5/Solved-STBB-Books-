@@ -252,7 +252,7 @@ a{color:var(--green)}a:hover{color:var(--green2)}:focus-visible{outline:3px soli
 figure.diagram{margin:22px 0 8px;border:1px solid var(--line);border-radius:12px;padding:14px;background:#F7FAF8}figure.diagram img{width:100%;height:auto;display:block;border-radius:8px}figure.diagram figcaption{font-size:14px;color:var(--muted);text-align:center;margin-top:10px}
 .key-points li{margin-bottom:10px}.steps li{margin-bottom:12px}.related{background:#F7FAF8;border:1px solid var(--line);border-radius:12px;padding:20px;margin-top:30px}
 .crumbs{padding:18px 0 6px;color:var(--muted);font-size:14px}.crumbs a{color:var(--muted)}
-.modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.55);display:none;align-items:center;justify-content:center;z-index:100;padding:16px}.modal-backdrop.open{display:flex}.modal{background:#fff;border-radius:16px;max-width:640px;width:100%;max-height:88vh;overflow:auto;padding:26px}.modal .close{float:right;background:none;border:0;font-size:24px;cursor:pointer}
+.modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.55);display:none;align-items:center;justify-content:center;z-index:100;padding:16px}.modal-backdrop.open{display:flex}.modal{background:#fff;border-radius:16px;max-width:640px;width:100%;max-height:88vh;overflow:auto;padding:26px}.modal .close{float:right;background:none;border:0;font-size:24px;cursor:pointer}.modal.pdf-modal{max-width:960px;width:96%}.modal-pdf{width:100%;height:70vh;border:1px solid var(--line);border-radius:12px;background:#fff}
 .site-footer{background:#fff;border-top:1px solid var(--line);margin-top:50px;padding:36px 0 20px}.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:24px}.site-footer ul{list-style:none;padding:0}.site-footer li{margin-bottom:8px}.site-footer a{text-decoration:none;color:var(--muted)}.copyright{text-align:center;color:var(--muted);font-size:13.5px;border-top:1px solid var(--line);padding-top:16px}
 .pagination{display:flex;gap:12px;align-items:center;justify-content:center;margin:30px 0}.form-box{max-width:640px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px}.form-box label{display:block;font-weight:700;margin:14px 0 6px}.form-box input,.form-box textarea,.form-box select{width:100%;padding:12px;border:1px solid var(--line);border-radius:9px;font-size:15px}
 .notice{background:#FFF4DE;border:1px solid #F2D492;border-radius:10px;padding:14px 18px}
@@ -335,7 +335,6 @@ function cardHTML(b){
     ? `<div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div>${badge}</div>`
     : `<div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div>`;
   const inner = `${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div>`;
-  if(live) return `<a class="card card-link" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
 async function renderBooks(){
@@ -367,9 +366,14 @@ async function openBook(id){
   const b = books.find(x=>x.id===id); if(!b) return;
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
-  const dl = b.pdf ? `<p><a class="btn" href="/preview.html?id=${b.id}"><svg class="ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Open Preview</a></p>` : '<p><a class="btn outline" href="/contact.html">Request this book</a></p>';
   const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
-  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> ${b.status==='live'?'<span class="chip live">Live</span>':'<span class="chip soon">Coming Soon</span>'}</p><p>${b.desc}</p>${chapters}${dl}<p><a href="/books.html">← Back to solved notes</a></p>`;
+  if(b.pdf){
+    modal.querySelector('.modal').classList.add('pdf-modal');
+    body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip live">Preview Free</span></p><p>${b.desc||''}</p><iframe class="modal-pdf" src="/${b.pdf}" title="${b.title} — solved PDF preview"></iframe><p style="margin-top:14px"><a href="/books.html">← Back to solved notes</a></p>`;
+  } else {
+    modal.querySelector('.modal').classList.remove('pdf-modal');
+    body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip soon">Coming Soon</span></p><p>${b.desc}</p>${chapters}<p><a class="btn outline" href="/contact.html">Request this book</a></p><p><a href="/books.html">← Back to solved notes</a></p>`;
+  }
   modal.classList.add('open');
 }
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }
@@ -432,7 +436,7 @@ def featured_cards(limit=None):
     out = ""
     for b in (REAL[:limit] if limit else REAL):
         slug = SUBJ_SLUG[b['subject']]
-        out += f"""<a class="card card-link" data-class="{b['cls']}" href="/preview.html?id={b['id']}"><div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/{b['cover']}" alt="{b['title']} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div><span class="live-badge"><i></i>Free</span></div><div class="card-body"><span class="subj-tag {slug}">{BOOK_ICON} {b['subject']}</span><h3>{b['title']}</h3><p class="card-meta"><span class="chip">Class {b['cls']}</span> <span class="chip">{b['subject']}</span> <span class="chip">{b['medium']} Medium</span></p><p class="card-desc">{b['desc']}</p><div class="actions"><span class="btn-open">{BOOK_ICON} Open &rarr;</span></div></div></a>\n"""
+        out += f"""<article class="card" data-class="{b['cls']}" onclick="openBook('{b['id']}')"><div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/{b['cover']}" alt="{b['title']} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div><span class="live-badge"><i></i>Free</span></div><div class="card-body"><span class="subj-tag {slug}">{BOOK_ICON} {b['subject']}</span><h3>{b['title']}</h3><p class="card-meta"><span class="chip">Class {b['cls']}</span> <span class="chip">{b['subject']}</span> <span class="chip">{b['medium']} Medium</span></p><p class="card-desc">{b['desc']}</p><div class="actions"><span class="btn-open">{BOOK_ICON} Open &rarr;</span></div></div></article>\n"""
     return out
 
 # ---------------- Pages ----------------
@@ -536,7 +540,7 @@ def build():
 <div class="preview-meta" id="preview-chips"></div>
 <p class="lead" id="preview-desc"></p>
 <p>Free to read on this website. No download needed — just read it here, any time.</p>
-<div oncontextmenu="return false"><iframe id="pdf-frame" class="pdf-frame" title="Solved PDF preview" src=""></iframe></div>
+<div><iframe id="pdf-frame" class="pdf-frame" title="Solved PDF preview" src=""></iframe></div>
 <p style="margin-top:18px"><a class="btn outline" href="/books.html">← Back to solved notes</a></p>
 </div>
 <div id="preview-notfound" style="display:none"><h1>Book not found</h1><p>This book is not live yet. Browse the catalogue or request it on the contact page.</p><p><a class="btn" href="/books.html">Browse solved notes →</a> <a class="btn outline" href="/contact.html">Request this book</a></p></div>
@@ -558,7 +562,7 @@ async function initPreview(){
   document.title = 'Preview — ' + b.title + ' | Solved Sindh Textbook Board Books';
   document.getElementById('preview-chips').innerHTML = '<span class="chip">Class ' + b.cls + '</span> <span class="chip">' + b.subject + '</span> <span class="chip">' + b.medium + ' Medium</span> <span class="chip live">Preview Free</span>';
   document.getElementById('preview-desc').textContent = b.desc || '';
-  document.getElementById('pdf-frame').src = '/' + b.pdf + '#toolbar=0&navpanes=0&scrollbar=0';
+  document.getElementById('pdf-frame').src = '/' + b.pdf;
 }
 document.addEventListener('DOMContentLoaded', initPreview);
 </script>

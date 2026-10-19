@@ -28,7 +28,7 @@
 <div class="preview-meta" id="preview-chips"></div>
 <p class="lead" id="preview-desc"></p>
 <p>Free to read on this website. No download needed — just read it here, any time.</p>
-<div oncontextmenu="return false"><iframe id="pdf-frame" class="pdf-frame" title="Solved PDF preview" src=""></iframe></div>
+<div><iframe id="pdf-frame" class="pdf-frame" title="Solved PDF preview" src=""></iframe></div>
 <p style="margin-top:18px"><a class="btn outline" href="/books.html">← Back to solved notes</a></p>
 </div>
 <div id="preview-notfound" style="display:none"><h1>Book not found</h1><p>This book is not live yet. Browse the catalogue or request it on the contact page.</p><p><a class="btn" href="/books.html">Browse solved notes →</a> <a class="btn outline" href="/contact.html">Request this book</a></p></div>
@@ -50,7 +50,7 @@ async function initPreview(){
   document.title = 'Preview — ' + b.title + ' | Solved Sindh Textbook Board Books';
   document.getElementById('preview-chips').innerHTML = '<span class="chip">Class ' + b.cls + '</span> <span class="chip">' + b.subject + '</span> <span class="chip">' + b.medium + ' Medium</span> <span class="chip live">Preview Free</span>';
   document.getElementById('preview-desc').textContent = b.desc || '';
-  document.getElementById('pdf-frame').src = '/' + b.pdf + '#toolbar=0&navpanes=0&scrollbar=0';
+  document.getElementById('pdf-frame').src = '/' + b.pdf;
 }
 document.addEventListener('DOMContentLoaded', initPreview);
 </script>
