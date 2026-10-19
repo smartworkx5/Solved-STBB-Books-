@@ -207,6 +207,7 @@ a{color:var(--green)}a:hover{color:var(--green2)}:focus-visible{outline:3px soli
 .filters{display:flex;gap:12px;flex-wrap:wrap;background:#fff;border:1px solid var(--line);padding:16px;border-radius:var(--radius);margin-bottom:26px}.filters label{font-weight:700;font-size:14px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:170px}.filters input,.filters select{padding:11px 12px;border:1px solid var(--line);border-radius:9px;font-size:15px;background:#fff}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
 .card{background:var(--card);border:1px solid #E7EFEA;border-radius:20px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 2px 12px rgba(20,32,27,.06);transition:transform .25s ease,box-shadow .25s ease}
+.card-link{text-decoration:none;color:inherit;cursor:pointer}
 .card:hover{transform:translateY(-5px);box-shadow:0 20px 38px rgba(20,32,27,.14)}
 .card-cover{position:relative;background:#F1F5F2}
 .card-cover img{display:block;width:100%;height:auto;aspect-ratio:400/300;object-fit:cover}
@@ -328,12 +329,14 @@ function cardHTML(b){
   const live = b.status==='live';
   const slug = subjSlug(b.subject);
   const cover = subjectCover(b);
-  const badge = live ? '<span class="live-badge"><i></i>Live Preview</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
-  const btn = live ? `<a class="btn-open" href="/preview.html?id=${b.id}">${BOOK_IC} Open &rarr;</a>` : `<button class="btn-open" onclick="openBook('${b.id}')">Notify me</button>`;
+  const badge = live ? '<span class="live-badge"><i></i>Free</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
+  const btn = live ? `<span class="btn-open">${BOOK_IC} Open &rarr;</span>` : `<button class="btn-open">Notify me</button>`;
   const coverEl = live
     ? `<div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div>${badge}</div>`
     : `<div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div>`;
-  return `<article class="card" data-id="${b.id}" data-class="${b.cls}">${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const inner = `${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div>`;
+  if(live) return `<a class="card card-link" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
+  return `<article class="card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
@@ -429,7 +432,7 @@ def featured_cards(limit=None):
     out = ""
     for b in (REAL[:limit] if limit else REAL):
         slug = SUBJ_SLUG[b['subject']]
-        out += f"""<article class="card" data-class="{b['cls']}"><div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/{b['cover']}" alt="{b['title']} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div><span class="live-badge"><i></i>Live Preview</span></div><div class="card-body"><span class="subj-tag {slug}">{BOOK_ICON} {b['subject']}</span><h3>{b['title']}</h3><p class="card-meta"><span class="chip">Class {b['cls']}</span> <span class="chip">{b['subject']}</span> <span class="chip">{b['medium']} Medium</span></p><p class="card-desc">{b['desc']}</p><div class="actions"><a class="btn-open" href="/preview.html?id={b['id']}">{BOOK_ICON} Open &rarr;</a></div></div></article>\n"""
+        out += f"""<a class="card card-link" data-class="{b['cls']}" href="/preview.html?id={b['id']}"><div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/{b['cover']}" alt="{b['title']} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div><span class="live-badge"><i></i>Free</span></div><div class="card-body"><span class="subj-tag {slug}">{BOOK_ICON} {b['subject']}</span><h3>{b['title']}</h3><p class="card-meta"><span class="chip">Class {b['cls']}</span> <span class="chip">{b['subject']}</span> <span class="chip">{b['medium']} Medium</span></p><p class="card-desc">{b['desc']}</p><div class="actions"><span class="btn-open">{BOOK_ICON} Open &rarr;</span></div></div></a>\n"""
     return out
 
 # ---------------- Pages ----------------

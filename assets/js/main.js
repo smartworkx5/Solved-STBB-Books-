@@ -46,12 +46,14 @@ function cardHTML(b){
   const live = b.status==='live';
   const slug = subjSlug(b.subject);
   const cover = subjectCover(b);
-  const badge = live ? '<span class="live-badge"><i></i>Live Preview</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
-  const btn = live ? `<a class="btn-open" href="/preview.html?id=${b.id}">${BOOK_IC} Open &rarr;</a>` : `<button class="btn-open" onclick="openBook('${b.id}')">Notify me</button>`;
+  const badge = live ? '<span class="live-badge"><i></i>Free</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
+  const btn = live ? `<span class="btn-open">${BOOK_IC} Open &rarr;</span>` : `<button class="btn-open">Notify me</button>`;
   const coverEl = live
     ? `<div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div>${badge}</div>`
     : `<div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div>`;
-  return `<article class="card" data-id="${b.id}" data-class="${b.cls}">${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div></article>`;
+  const inner = `${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div>`;
+  if(live) return `<a class="card card-link" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
+  return `<article class="card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
 async function renderBooks(){
   const grid = document.getElementById('books-grid'); if(!grid) return;
