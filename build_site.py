@@ -575,7 +575,7 @@ def build():
 <h1 id="preview-title"></h1>
 <div class="preview-meta" id="preview-chips"></div>
 <p class="lead" id="preview-desc"></p>
-<p>Free to read on this website. No download needed — just read it here, any time.</p>
+<p class="notice"><strong>Disclaimer:</strong> These exercises were solved with the help of AI models, so mistakes are possible. Please check the answers yourself before using them.</p>
 <div class="pdf-controls"><button class="btn outline" onclick="zoomPDF('preview-pdf-viewer',-1)">− Zoom Out</button><button class="btn outline" onclick="zoomPDF('preview-pdf-viewer',1)">+ Zoom In</button><span>Scroll to read • Pinch or buttons to zoom</span></div>
 <div class="pdf-viewer" id="preview-pdf-viewer"></div>
 <p style="margin-top:18px"><a class="btn outline" href="/books.html">← Back to solved notes</a></p>
