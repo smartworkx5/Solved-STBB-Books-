@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="774" viewBox="0 0 1000 774">
+<rect width="1000" height="774" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Solving Any Ohm&#x27;s Law Question</text>
+<rect x="140" y="108" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 1: List V, I, R</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Write down what the question gives you</text>
+<polygon points="500,206 486,228 514,228" fill="#F59E0B"/>
+<rect x="140" y="236" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="268" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 2: Choose the form</text>
+<text x="500" y="302" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">V = IR, I = V/R, or R = V/I</text>
+<polygon points="500,334 486,356 514,356" fill="#F59E0B"/>
+<rect x="140" y="364" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="396" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 3: Convert units</text>
+<text x="500" y="430" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Volts, amperes, ohms</text>
+<polygon points="500,462 486,484 514,484" fill="#F59E0B"/>
+<rect x="140" y="492" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="524" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 4: Calculate</text>
+<text x="500" y="558" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">One unknown, one formula</text>
+<polygon points="500,590 486,612 514,612" fill="#F59E0B"/>
+<rect x="140" y="620" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="652" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Step 5: Check sense</text>
+<text x="500" y="686" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Bigger voltage: bigger current; bigger resistance: smaller</text>
+<text x="500" y="714" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">current</text>
+</svg>
