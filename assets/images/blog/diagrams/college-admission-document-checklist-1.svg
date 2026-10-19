@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="468" viewBox="0 0 1000 468">
+<rect width="1000" height="468" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The Admission Folder at a Glance</text>
+<circle cx="500" cy="238" r="95" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="3"/>
+<text x="500" y="232" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Admission</text>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">folder</text>
+<line x1="360" y1="182" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Identity</text>
+<text x="80" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Your identity documents and</text>
+<text x="80" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">photographs.</text>
+<line x1="640" y1="182" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Academic</text>
+<text x="660" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Marksheets, certificates, and</text>
+<text x="660" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">leaving papers.</text>
+<line x1="360" y1="332" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Forms</text>
+<text x="80" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Admission form, undertakings,</text>
+<text x="80" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">and fee proof.</text>
+<line x1="640" y1="332" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Spares</text>
+<text x="660" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Extra photocopies, extra</text>
+<text x="660" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">photos, and a pen.</text>
+</svg>
