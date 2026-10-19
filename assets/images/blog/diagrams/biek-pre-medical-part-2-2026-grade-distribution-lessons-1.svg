@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="734" viewBox="0 0 1000 734">
+<rect width="1000" height="734" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Where the 14,134 successful Pre-Medical pupils</text>
+<text x="40" y="94" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">landed</text>
+<rect x="350" y="264" width="300" height="76" rx="14" fill="#0B6B4A"/>
+<text x="500" y="300" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">14,134 successful</text>
+<line x1="180" y1="244" x2="500" y2="302" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="164" width="240" height="80" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="194" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">A-1: 2,255</text>
+<text x="180" y="222" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">The top grade band</text>
+<line x1="820" y1="244" x2="500" y2="302" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="164" width="240" height="80" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="194" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">A: 3,490</text>
+<text x="820" y="222" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Strong high-grade group</text>
+<line x1="180" y1="464" x2="500" y2="302" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="384" width="240" height="80" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="414" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">B: 3,812</text>
+<text x="180" y="442" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">The largest single group</text>
+<line x1="820" y1="464" x2="500" y2="302" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="384" width="240" height="80" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="414" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">C: 3,201</text>
+<text x="820" y="442" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Solid middle group</text>
+<line x1="180" y1="684" x2="500" y2="302" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="604" width="240" height="80" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="634" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">D: 1,323 and E: 53</text>
+<text x="180" y="662" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Lower grade bands</text>
+</svg>

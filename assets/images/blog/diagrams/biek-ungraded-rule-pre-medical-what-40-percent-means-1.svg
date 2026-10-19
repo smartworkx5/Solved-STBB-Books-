@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370">
+<rect width="1000" height="370" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Graded vs ungraded: the 40% line</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">40% or above: graded</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Below 40%: ungraded</text>
+<rect x="40" y="160" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">The paper counts as passed</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">The paper does not count as passed</text>
+<rect x="40" y="214" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">A grade is awarded for the paper</text>
+<text x="540" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">No grade is awarded for the paper</text>
+<rect x="40" y="268" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">You move on from that paper</text>
+<text x="540" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">You must reappear in that paper if</text>
+<text x="540" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">eligible</text>
+</svg>

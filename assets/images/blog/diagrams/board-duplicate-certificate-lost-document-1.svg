@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="872" viewBox="0 0 1000 872">
+<rect width="1000" height="872" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Getting a Duplicate Certificate</text>
+<rect x="140" y="108" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Search first</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Check every folder and ask family members.</text>
+<polygon points="500,206 486,228 514,228" fill="#F59E0B"/>
+<rect x="140" y="236" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="268" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Tell your school</text>
+<text x="500" y="302" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Get the board&#x27;s current duplicate process.</text>
+<polygon points="500,334 486,356 514,356" fill="#F59E0B"/>
+<rect x="140" y="364" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="396" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Prepare papers</text>
+<text x="500" y="430" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Identity, registration details, loss statement.</text>
+<polygon points="500,462 486,484 514,484" fill="#F59E0B"/>
+<rect x="140" y="492" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="524" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Submit application</text>
+<text x="500" y="558" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">File it with the prescribed fee; keep receipts.</text>
+<polygon points="500,590 486,612 514,612" fill="#F59E0B"/>
+<rect x="140" y="620" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="652" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Board verification</text>
+<text x="500" y="686" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">The board checks your record.</text>
+<polygon points="500,718 486,740 514,740" fill="#F59E0B"/>
+<rect x="140" y="748" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="780" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Collect duplicate</text>
+<text x="500" y="814" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Check the details before you leave the counter.</text>
+</svg>

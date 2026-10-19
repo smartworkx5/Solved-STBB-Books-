@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="694" viewBox="0 0 1000 694">
+<rect width="1000" height="694" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The Correction Journey</text>
+<line x1="70" y1="108" x2="70" y2="660" stroke="#0B6B4A" stroke-width="4"/>
+<circle cx="70" cy="130" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="138" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Spot the error</text>
+<text x="110" y="166" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Check every board document as soon as you receive it.</text>
+<circle cx="70" cy="222" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="230" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Tell your school</text>
+<text x="110" y="258" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Report the error and ask for the current correction process.</text>
+<circle cx="70" cy="314" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="322" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Gather proof</text>
+<text x="110" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Collect the documents that show the correct spelling or date.</text>
+<circle cx="70" cy="406" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="414" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Submit the request</text>
+<text x="110" y="442" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">File the application with the prescribed fee and keep</text>
+<text x="110" y="470" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">receipts.</text>
+<circle cx="70" cy="498" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="506" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Board verification</text>
+<text x="110" y="534" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">The board compares your evidence with its records.</text>
+<circle cx="70" cy="590" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="598" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Receive the correction</text>
+<text x="110" y="626" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Check the corrected document before you file it away.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="872" viewBox="0 0 1000 872">
+<rect width="1000" height="872" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Requesting a Migration Certificate</text>
+<rect x="140" y="108" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Confirm the need</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Ask the receiving institution whether it requires one.</text>
+<polygon points="500,206 486,228 514,228" fill="#F59E0B"/>
+<rect x="140" y="236" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="268" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Get the process</text>
+<text x="500" y="302" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Ask your school for the board&#x27;s current form or channel.</text>
+<polygon points="500,334 486,356 514,356" fill="#F59E0B"/>
+<rect x="140" y="364" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="396" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Prepare documents</text>
+<text x="500" y="430" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Gather registration details and supporting papers.</text>
+<polygon points="500,462 486,484 514,484" fill="#F59E0B"/>
+<rect x="140" y="492" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="524" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Submit and pay</text>
+<text x="500" y="558" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">File the application and keep the receipt.</text>
+<polygon points="500,590 486,612 514,612" fill="#F59E0B"/>
+<rect x="140" y="620" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="652" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Wait for verification</text>
+<text x="500" y="686" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">The board checks your record before issuing.</text>
+<polygon points="500,718 486,740 514,740" fill="#F59E0B"/>
+<rect x="140" y="748" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="780" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Collect and check</text>
+<text x="500" y="814" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Verify names, numbers, and dates on the certificate.</text>
+</svg>
