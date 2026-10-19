@@ -52,6 +52,7 @@ function cardHTML(b){
     ? `<div class="book-stage"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"><div class="book3d-pages"></div><div class="book3d-shade"></div></div>${badge}</div>`
     : `<div class="card-cover"><img src="/${cover}" alt="${b.title} — illustrated cover" loading="lazy">${badge}</div>`;
   const inner = `${coverEl}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="card-meta"><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}</div></div>`;
+  if(live) return `<a class="card card-link" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
 async function renderBooks(){
@@ -118,13 +119,12 @@ async function openBook(id){
   const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
   const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
   if(b.pdf){
-    modal.querySelector('.modal').classList.add('pdf-modal');
-    body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip live">Preview Free</span></p><p>${b.desc||''}</p><div class="pdf-controls"><button class="btn outline" onclick="zoomPDF('modal-pdf-viewer',-1)">− Zoom Out</button><button class="btn outline" onclick="zoomPDF('modal-pdf-viewer',1)">+ Zoom In</button><span>Scroll to read • Pinch or buttons to zoom</span></div><div class="pdf-viewer" id="modal-pdf-viewer"></div><p style="margin-top:14px"><a href="/books.html">← Back to solved notes</a></p>`;
-    renderPDF('/' + b.pdf, 'modal-pdf-viewer');
-  } else {
-    modal.querySelector('.modal').classList.remove('pdf-modal');
-    body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip soon">Coming Soon</span></p><p>${b.desc}</p>${chapters}<p><a class="btn outline" href="/contact.html">Request this book</a></p><p><a href="/books.html">← Back to solved notes</a></p>`;
+    // Live books open on their own preview page (full-page viewer), not in the modal.
+    location.href = '/preview.html?id=' + b.id;
+    return;
   }
+  modal.querySelector('.modal').classList.remove('pdf-modal');
+  body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip soon">Coming Soon</span></p><p>${b.desc}</p>${chapters}<p><a class="btn outline" href="/contact.html">Request this book</a></p><p><a href="/books.html">← Back to solved notes</a></p>`;
   modal.classList.add('open');
 }
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }
