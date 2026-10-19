@@ -178,10 +178,10 @@ a{color:var(--green)}a:hover{color:var(--green2)}:focus-visible{outline:3px soli
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--dark);line-height:1.15;white-space:nowrap}.logo-mark{display:inline-flex;align-items:center;justify-content:center;min-width:40px;width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,#0E8A5F,#0B6B4A);color:#fff;font-size:23px;font-weight:800;box-shadow:0 4px 10px rgba(11,107,74,.25)}.logo-text{font-weight:800;font-size:16.5px;white-space:nowrap;letter-spacing:-.2px}
 .main-nav{margin-left:auto;display:flex;align-items:center;gap:2px;flex-wrap:wrap}.main-nav a{padding:9px 14px;border-radius:999px;text-decoration:none;color:var(--dark);font-weight:600;font-size:15px}.main-nav a.active{background:var(--green);color:#fff!important}.main-nav a:hover{background:#EAF4EF;color:var(--green)}
 .btn{display:inline-block;background:linear-gradient(135deg,#0E8A5F,#0B6B4A);color:#fff!important;text-decoration:none;padding:12px 22px;border-radius:999px;font-weight:700;border:2px solid var(--green);cursor:pointer;box-shadow:0 6px 16px rgba(11,107,74,.22);transition:transform .2s ease,box-shadow .2s ease,background .2s ease}.btn:hover{background:linear-gradient(135deg,#12A06E,#0B6B4A);border-color:var(--green2);transform:translateY(-1px);box-shadow:0 10px 22px rgba(11,107,74,.28)}.btn.small{padding:9px 16px;font-size:14px}.btn .ic{vertical-align:-2px;margin-right:5px}.btn.outline{background:#fff;color:var(--green)!important}.btn.light{background:#fff;color:var(--green)!important;border-color:#fff}.btn.amber{background:var(--amber);border-color:var(--amber);color:#222!important}.btn.amber:hover{background:#FFC61A;border-color:#FFC61A}.nav-toggle{display:none;margin-left:auto;background:none;border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:18px;cursor:pointer}
-.hero{background:radial-gradient(120% 150% at 85% 0%,rgba(253,224,71,.16) 0%,transparent 52%),linear-gradient(115deg,#063E2A 0%,#0B6B4A 45%,#0E8A5F 100%);color:#fff;padding:56px 0 52px;position:relative;overflow:hidden}
-.hero::before{content:"";position:absolute;width:520px;height:520px;border-radius:50%;background:rgba(255,255,255,.07);top:-180px;right:-80px}
-.hero::after{content:"";position:absolute;width:380px;height:380px;border-radius:50%;background:rgba(245,179,1,.14);bottom:-160px;left:-100px}
-.hero-inner{position:relative;z-index:1;display:grid;grid-template-columns:1.15fr .85fr;gap:36px;align-items:center}
+.hero{position:relative;overflow:hidden;padding:0;background:#063E2A;color:#fff}
+.hero-banner{display:block;width:100%;height:auto}
+.hero-overlay{position:absolute;inset:0;display:flex;align-items:center}
+.hero-overlay .hero-copy{max-width:600px}
 .hero-badge{display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.22);padding:7px 15px;border-radius:999px;font-size:13.5px;font-weight:700}
 .hero h1{font-size:clamp(28px,3.6vw,38px);line-height:1.14;margin:18px 0 14px;font-weight:800;letter-spacing:-.3px}
 .hero-yellow{color:#FDE047}
@@ -192,8 +192,6 @@ a{color:var(--green)}a:hover{color:var(--green2)}:focus-visible{outline:3px soli
 .hero-search .btn{padding:11px 24px}
 .hero-cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
 .btn-white{background:#fff;color:var(--green)!important;border-color:#fff}
-.hero-art{display:flex;justify-content:center}
-.hero-art svg{max-width:100%;height:auto;filter:drop-shadow(0 18px 28px rgba(0,0,0,.3))}
 .trust-bar{background:#fff;border-bottom:1px solid #EEF2EF;padding:22px 0}
 .trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
 .trust-item{display:flex;gap:13px;align-items:flex-start}
@@ -260,7 +258,7 @@ figure.diagram{margin:22px 0 8px;border:1px solid var(--line);border-radius:12px
 .pagination{display:flex;gap:12px;align-items:center;justify-content:center;margin:30px 0}.form-box{max-width:640px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px}.form-box label{display:block;font-weight:700;margin:14px 0 6px}.form-box input,.form-box textarea,.form-box select{width:100%;padding:12px;border:1px solid var(--line);border-radius:9px;font-size:15px}
 .notice{background:#FFF4DE;border:1px solid #F2D492;border-radius:10px;padding:14px 18px}
 @media(max-width:1020px){.grid{grid-template-columns:repeat(3,1fr)}.trust-grid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:760px){.logo{white-space:normal}.logo-text{white-space:normal}.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.hero{padding:36px 0 30px}.section{padding:32px 0}.hero-inner{grid-template-columns:1fr}.hero-art{display:none}.grid{grid-template-columns:repeat(2,1fr)}.trust-grid{grid-template-columns:1fr 1fr}.pdf-banner{flex-direction:column;align-items:flex-start}.pdf-banner .btn.whatsapp{margin-left:0}.feat-head{flex-direction:column;align-items:flex-start}}
+@media(max-width:760px){.logo{white-space:normal}.logo-text{white-space:normal}.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.hero-overlay{position:static;background:linear-gradient(115deg,#063E2A 0%,#0B6B4A 45%,#0E8A5F 100%);padding:28px 0}.section{padding:32px 0}.grid{grid-template-columns:repeat(2,1fr)}.trust-grid{grid-template-columns:1fr 1fr}.pdf-banner{flex-direction:column;align-items:flex-start}.pdf-banner .btn.whatsapp{margin-left:0}.feat-head{flex-direction:column;align-items:flex-start}}
 @media(max-width:520px){.hero h1{font-size:22px}.grid{grid-template-columns:1fr}.hero-search{flex-direction:column;background:transparent;padding:0;box-shadow:none;gap:10px}.hero-search input{background:#fff;border-radius:999px;padding:13px 18px;width:100%}.hero-search .btn{width:100%}}
 .pdf-frame{width:100%;height:78vh;border:1px solid var(--line);border-radius:12px;background:#fff}.btn.whatsapp{background:#25D366;border-color:#25D366;color:#fff!important}.btn.whatsapp:hover{background:#1FB857;border-color:#1FB857}.preview-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 @media(max-width:760px){.pdf-frame{height:68vh}}
@@ -457,7 +455,9 @@ def build():
         f'<script type="application/ld+json">{ORG_LD}</script><script type="application/ld+json">{SITE_LD}</script><script type="application/ld+json">{json.dumps(faq_ld, ensure_ascii=False)}</script>')
     index += header("/") + f"""
 <main id="main">
-<section class="hero"><div class="container hero-inner">
+<section class="hero">
+<img class="hero-banner" src="/assets/images/covers/hero-banner.jpg" alt="Sindh Textbook Board solved books">
+<div class="hero-overlay"><div class="container">
 <div class="hero-copy">
 <span class="hero-badge">★ Free Preview · Sindh Textbook Board</span>
 <h1>Free Solved Sindh<br>Textbook Board Books<br><span class="hero-yellow">Sindhi, Urdu &amp; English Medium</span></h1>
@@ -465,8 +465,7 @@ def build():
 <form class="hero-search" id="hero-search-form" role="search"><svg class="search-ic" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><label class="sr-only" for="hero-search" style="position:absolute;left:-9999px">Search books</label><input type="search" id="hero-search" placeholder="Search by class, subject or medium… e.g. Class 9 Islamiat Sindhi"><button class="btn" type="submit">Search</button></form>
 <div class="hero-cta"><a class="btn btn-white" href="/books.html">Browse Solved Books</a> <a class="btn amber" href="/books.html">Solved Books</a></div>
 </div>
-<div class="hero-art">{HERO_ART}</div>
-</div></section>
+</div></div></section>
 <section class="trust-bar"><div class="container trust-grid">
 <div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><rect x="4" y="11" width="16" height="9" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></span><div><b>100% Free Preview</b><small>Free to read on this site</small></div></div>
 <div class="trust-item"><span class="trust-ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span><div><b>All Classes &amp; Subjects</b><small>Classes 6–10 (Sindh Textbook Board)</small></div></div>
