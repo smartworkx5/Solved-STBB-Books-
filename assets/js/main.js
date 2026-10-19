@@ -78,6 +78,39 @@ async function renderBooks(){
   const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
   grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
+// PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
+const _pdfState = {};
+async function renderPDF(url, containerId){
+  const el = document.getElementById(containerId); if(!el) return;
+  el.innerHTML = '<p>Loading PDF…</p>';
+  try{
+    pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/js/pdf.worker.min.js';
+    const pdf = await pdfjsLib.getDocument(url).promise;
+    _pdfState[containerId] = {pdf, scale: 1, container: el};
+    await _drawPDF(_pdfState[containerId]);
+  }catch(e){ el.innerHTML = '<p>Could not load this PDF. Please try again.</p>'; }
+}
+async function _drawPDF(st){
+  const el = st.container; el.innerHTML = '';
+  const n = st.pdf.numPages;
+  const first = await st.pdf.getPage(1);
+  const w = el.clientWidth || 800;
+  const base = w / first.getViewport({scale:1}).width;
+  const scale = base * st.scale;
+  for(let i=1;i<=n;i++){
+    const p = await st.pdf.getPage(i);
+    const vp = p.getViewport({scale});
+    const cv = document.createElement('canvas');
+    cv.width = Math.floor(vp.width); cv.height = Math.floor(vp.height);
+    el.appendChild(cv);
+    await p.render({canvasContext: cv.getContext('2d'), viewport: vp}).promise;
+  }
+}
+function zoomPDF(containerId, dir){
+  const st = _pdfState[containerId]; if(!st) return;
+  st.scale = Math.max(0.5, Math.min(3, st.scale + dir*0.25));
+  _drawPDF(st);
+}
 async function openBook(id){
   const books = await loadBooks();
   const b = books.find(x=>x.id===id); if(!b) return;
@@ -86,7 +119,8 @@ async function openBook(id){
   const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
   if(b.pdf){
     modal.querySelector('.modal').classList.add('pdf-modal');
-    body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip live">Preview Free</span></p><p>${b.desc||''}</p><iframe class="modal-pdf" src="/${b.pdf}" title="${b.title} — solved PDF preview"></iframe><p style="margin-top:14px"><a href="/books.html">← Back to solved notes</a></p>`;
+    body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip live">Preview Free</span></p><p>${b.desc||''}</p><div class="pdf-controls"><button class="btn outline" onclick="zoomPDF('modal-pdf-viewer',-1)">− Zoom Out</button><button class="btn outline" onclick="zoomPDF('modal-pdf-viewer',1)">+ Zoom In</button><span>Scroll to read • Pinch or buttons to zoom</span></div><div class="pdf-viewer" id="modal-pdf-viewer"></div><p style="margin-top:14px"><a href="/books.html">← Back to solved notes</a></p>`;
+    renderPDF('/' + b.pdf, 'modal-pdf-viewer');
   } else {
     modal.querySelector('.modal').classList.remove('pdf-modal');
     body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip soon">Coming Soon</span></p><p>${b.desc}</p>${chapters}<p><a class="btn outline" href="/contact.html">Request this book</a></p><p><a href="/books.html">← Back to solved notes</a></p>`;

@@ -260,6 +260,7 @@ figure.diagram{margin:22px 0 8px;border:1px solid var(--line);border-radius:12px
 @media(max-width:760px){.logo{white-space:normal}.logo-text{white-space:normal}.main-nav{display:none;width:100%;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.nav-toggle{display:block}.footer-grid{grid-template-columns:1fr}.post{padding:20px}.hero{padding:24px 0 20px}.section{padding:32px 0}.grid{grid-template-columns:repeat(2,1fr)}.trust-grid{grid-template-columns:1fr 1fr}.pdf-banner{flex-direction:column;align-items:flex-start}.pdf-banner .btn.whatsapp{margin-left:0}.feat-head{flex-direction:column;align-items:flex-start}}
 @media(max-width:520px){.hero h1{font-size:22px}.grid{grid-template-columns:1fr}.hero-search{flex-direction:column;background:transparent;padding:0;box-shadow:none;gap:10px}.hero-search input{background:#fff;border-radius:999px;padding:13px 18px;width:100%}.hero-search .btn{width:100%}}
 .pdf-frame{width:100%;height:78vh;border:1px solid var(--line);border-radius:12px;background:#fff}.btn.whatsapp{background:#25D366;border-color:#25D366;color:#fff!important}.btn.whatsapp:hover{background:#1FB857;border-color:#1FB857}.preview-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.pdf-controls{display:flex;gap:8px;align-items:center;margin:12px 0;flex-wrap:wrap}.pdf-controls .btn{padding:8px 16px;cursor:pointer}.pdf-viewer{overflow:auto;background:#F1F5F2;border:1px solid var(--line);border-radius:12px;padding:12px}.pdf-viewer canvas{display:block;margin:0 auto 12px;box-shadow:0 2px 10px rgba(0,0,0,.12);background:#fff}.modal .pdf-viewer{max-height:68vh}
 @media(max-width:760px){.pdf-frame{height:68vh}}
 
 /* ---- Responsive hardening (mobile / tablet) ---- */
@@ -361,6 +362,39 @@ async function renderBooks(){
   const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
   grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
+// PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
+const _pdfState = {};
+async function renderPDF(url, containerId){
+  const el = document.getElementById(containerId); if(!el) return;
+  el.innerHTML = '<p>Loading PDF…</p>';
+  try{
+    pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/js/pdf.worker.min.js';
+    const pdf = await pdfjsLib.getDocument(url).promise;
+    _pdfState[containerId] = {pdf, scale: 1, container: el};
+    await _drawPDF(_pdfState[containerId]);
+  }catch(e){ el.innerHTML = '<p>Could not load this PDF. Please try again.</p>'; }
+}
+async function _drawPDF(st){
+  const el = st.container; el.innerHTML = '';
+  const n = st.pdf.numPages;
+  const first = await st.pdf.getPage(1);
+  const w = el.clientWidth || 800;
+  const base = w / first.getViewport({scale:1}).width;
+  const scale = base * st.scale;
+  for(let i=1;i<=n;i++){
+    const p = await st.pdf.getPage(i);
+    const vp = p.getViewport({scale});
+    const cv = document.createElement('canvas');
+    cv.width = Math.floor(vp.width); cv.height = Math.floor(vp.height);
+    el.appendChild(cv);
+    await p.render({canvasContext: cv.getContext('2d'), viewport: vp}).promise;
+  }
+}
+function zoomPDF(containerId, dir){
+  const st = _pdfState[containerId]; if(!st) return;
+  st.scale = Math.max(0.5, Math.min(3, st.scale + dir*0.25));
+  _drawPDF(st);
+}
 async function openBook(id){
   const books = await loadBooks();
   const b = books.find(x=>x.id===id); if(!b) return;
@@ -369,7 +403,8 @@ async function openBook(id){
   const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
   if(b.pdf){
     modal.querySelector('.modal').classList.add('pdf-modal');
-    body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip live">Preview Free</span></p><p>${b.desc||''}</p><iframe class="modal-pdf" src="/${b.pdf}" title="${b.title} — solved PDF preview"></iframe><p style="margin-top:14px"><a href="/books.html">← Back to solved notes</a></p>`;
+    body.innerHTML = `<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip live">Preview Free</span></p><p>${b.desc||''}</p><div class="pdf-controls"><button class="btn outline" onclick="zoomPDF('modal-pdf-viewer',-1)">− Zoom Out</button><button class="btn outline" onclick="zoomPDF('modal-pdf-viewer',1)">+ Zoom In</button><span>Scroll to read • Pinch or buttons to zoom</span></div><div class="pdf-viewer" id="modal-pdf-viewer"></div><p style="margin-top:14px"><a href="/books.html">← Back to solved notes</a></p>`;
+    renderPDF('/' + b.pdf, 'modal-pdf-viewer');
   } else {
     modal.querySelector('.modal').classList.remove('pdf-modal');
     body.innerHTML = `${coverImg}<h2>${b.title}</h2><p><span class="chip">Class ${b.cls}</span> <span class="chip">${b.subject}</span> <span class="chip">${b.medium} Medium</span> <span class="chip soon">Coming Soon</span></p><p>${b.desc}</p>${chapters}<p><a class="btn outline" href="/contact.html">Request this book</a></p><p><a href="/books.html">← Back to solved notes</a></p>`;
@@ -419,6 +454,7 @@ FOOTER = """<footer class="site-footer"><div class="container footer-grid">
 <div><h3>Explore</h3><ul><li><a href="/books.html">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© 2026 Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
+<script src="/assets/js/pdf.min.js"></script>
 <script src="/assets/js/main.js"></script>
 </body></html>"""
 
@@ -540,7 +576,8 @@ def build():
 <div class="preview-meta" id="preview-chips"></div>
 <p class="lead" id="preview-desc"></p>
 <p>Free to read on this website. No download needed — just read it here, any time.</p>
-<div><iframe id="pdf-frame" class="pdf-frame" title="Solved PDF preview" src=""></iframe></div>
+<div class="pdf-controls"><button class="btn outline" onclick="zoomPDF('preview-pdf-viewer',-1)">− Zoom Out</button><button class="btn outline" onclick="zoomPDF('preview-pdf-viewer',1)">+ Zoom In</button><span>Scroll to read • Pinch or buttons to zoom</span></div>
+<div class="pdf-viewer" id="preview-pdf-viewer"></div>
 <p style="margin-top:18px"><a class="btn outline" href="/books.html">← Back to solved notes</a></p>
 </div>
 <div id="preview-notfound" style="display:none"><h1>Book not found</h1><p>This book is not live yet. Browse the catalogue or request it on the contact page.</p><p><a class="btn" href="/books.html">Browse solved notes →</a> <a class="btn outline" href="/contact.html">Request this book</a></p></div>
@@ -562,7 +599,7 @@ async function initPreview(){
   document.title = 'Preview — ' + b.title + ' | Solved Sindh Textbook Board Books';
   document.getElementById('preview-chips').innerHTML = '<span class="chip">Class ' + b.cls + '</span> <span class="chip">' + b.subject + '</span> <span class="chip">' + b.medium + ' Medium</span> <span class="chip live">Preview Free</span>';
   document.getElementById('preview-desc').textContent = b.desc || '';
-  document.getElementById('pdf-frame').src = '/' + b.pdf;
+  renderPDF('/' + b.pdf, 'preview-pdf-viewer');
 }
 document.addEventListener('DOMContentLoaded', initPreview);
 </script>
