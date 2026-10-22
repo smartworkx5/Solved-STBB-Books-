@@ -130,3 +130,20 @@ async function openBook(id){
 function closeModal(){ document.getElementById('book-modal')?.classList.remove('open'); }
 document.addEventListener('click', e=>{ if(e.target && e.target.id==='book-modal') closeModal(); });
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeModal(); });
+
+/* Google Analytics 4 (gtag.js) — G-6N54Z7LQTB. Loaded here because every
+   page on Solved STBB Books includes this shared script. */
+(function () {
+  if (window.__ga4Loaded) return;
+  window.__ga4Loaded = true;
+  if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  window.gtag = gtag;
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-6N54Z7LQTB';
+  document.head.appendChild(s);
+  gtag('js', new Date());
+  gtag('config', 'G-6N54Z7LQTB');
+})();
