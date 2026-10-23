@@ -2084,20 +2084,6 @@
     "cover": "assets/images/covers/subjects/sindhi.svg"
   },
   {
-    "id": "urdu-7-en",
-    "title": "Class 7 Urdu — Solved Exercises (English Medium)",
-    "cls": 7,
-    "subject": "Urdu",
-    "medium": "English",
-    "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 7 Urdu solved exercises, English medium — coming soon. Browse the 119 live solved books while this one is prepared.",
-    "chapters": [],
-    "cover": "assets/images/covers/subjects/urdu.svg"
-  },
-  {
     "id": "english-7-si",
     "title": "Class 7 English — Solved Exercises (Sindhi Medium)",
     "cls": 7,
@@ -2152,20 +2138,6 @@
     "desc": "Sindh Textbook Board Class 8 English solved exercises, Urdu medium — coming soon. Browse the 119 live solved books while this one is prepared.",
     "chapters": [],
     "cover": "assets/images/covers/subjects/english.svg"
-  },
-  {
-    "id": "social-studies-8-ur",
-    "title": "Class 8 Social Studies — Solved Exercises (Urdu Medium)",
-    "cls": 8,
-    "subject": "Social Studies",
-    "medium": "Urdu",
-    "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 8 Social Studies solved exercises, Urdu medium — coming soon. Browse the 119 live solved books while this one is prepared.",
-    "chapters": [],
-    "cover": "assets/images/covers/subjects/social-studies.svg"
   },
   {
     "id": "urdu-9-si",
@@ -2252,20 +2224,6 @@
     "cover": "assets/images/covers/portal-207.jpg"
   },
   {
-    "id": "urdu-11-en",
-    "title": "Class 11 Urdu — Solved Exercises (English Medium)",
-    "cls": 11,
-    "subject": "Urdu",
-    "medium": "English",
-    "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 11 Urdu solved exercises, English medium — coming soon.",
-    "chapters": [],
-    "cover": "assets/images/covers/subjects/urdu.svg"
-  },
-  {
     "id": "english-11-en",
     "title": "Class 11 English — Solved Exercises (English Medium)",
     "cls": 11,
@@ -2334,34 +2292,6 @@
     "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Mathematics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-225.jpg"
-  },
-  {
-    "id": "urdu-12-en",
-    "title": "Class 12 Urdu — Solved Exercises (English Medium)",
-    "cls": 12,
-    "subject": "Urdu",
-    "medium": "English",
-    "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 12 Urdu solved exercises, English medium — coming soon.",
-    "chapters": [],
-    "cover": "assets/images/covers/subjects/urdu.svg"
-  },
-  {
-    "id": "english-12-en",
-    "title": "Class 12 English — Solved Exercises (English Medium)",
-    "cls": 12,
-    "subject": "English",
-    "medium": "English",
-    "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 12 English solved exercises, English medium — coming soon.",
-    "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
   },
   {
     "id": "urdu-7-ur",
