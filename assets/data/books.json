@@ -2202,12 +2202,12 @@
     "subject": "Physics",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 11 Physics solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class11-Physics-SolvedExercises-English.pdf",
+    "pages": 191,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 11 Physics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-221.jpg"
   },
   {
     "id": "chemistry-11-en",
@@ -2216,12 +2216,12 @@
     "subject": "Chemistry",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 11 Chemistry solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class11-Chemistry-SolvedExercises-English.pdf",
+    "pages": 106,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 11 Chemistry, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-206.jpg"
   },
   {
     "id": "biology-11-en",
@@ -2230,12 +2230,12 @@
     "subject": "Biology",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 11 Biology solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class11-Biology-SolvedExercises-English.pdf",
+    "pages": 116,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 11 Biology, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-219.jpg"
   },
   {
     "id": "mathematics-11-en",
@@ -2244,12 +2244,12 @@
     "subject": "Mathematics",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 11 Mathematics solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class11-Mathematics-SolvedExercises-English.pdf",
+    "pages": 693,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 11 Mathematics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-207.jpg"
   },
   {
     "id": "urdu-11-en",
@@ -2272,12 +2272,12 @@
     "subject": "English",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 11 English solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class11-English-SolvedExercises-English.pdf",
+    "pages": 527,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 11 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/english.svg"
+    "cover": "assets/images/covers/portal-203.jpg"
   },
   {
     "id": "physics-12-en",
@@ -2300,12 +2300,12 @@
     "subject": "Chemistry",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 12 Chemistry solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class12-Chemistry-SolvedExercises-English.pdf",
+    "pages": 139,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Chemistry, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/chemistry.svg"
+    "cover": "assets/images/covers/portal-218.jpg"
   },
   {
     "id": "biology-12-en",
@@ -2314,12 +2314,12 @@
     "subject": "Biology",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 12 Biology solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class12-Biology-SolvedExercises-English.pdf",
+    "pages": 119,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Biology, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/biology.svg"
+    "cover": "assets/images/covers/portal-228.jpg"
   },
   {
     "id": "mathematics-12-en",
@@ -2328,12 +2328,12 @@
     "subject": "Mathematics",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 12 Mathematics solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class12-Mathematics-SolvedExercises-English.pdf",
+    "pages": 311,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Mathematics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/math.svg"
+    "cover": "assets/images/covers/portal-225.jpg"
   },
   {
     "id": "urdu-12-en",
@@ -2362,5 +2362,61 @@
     "desc": "Sindh Textbook Board Class 12 English solved exercises, English medium — coming soon.",
     "chapters": [],
     "cover": "assets/images/covers/subjects/english.svg"
+  },
+  {
+    "id": "urdu-7-ur",
+    "title": "Class 7 Urdu — Solved Exercises (Urdu Medium)",
+    "cls": 7,
+    "subject": "Urdu",
+    "medium": "Urdu",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/Class7-Urdu-SolvedExercises-Urdu.pdf",
+    "pages": 116,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
+    "chapters": [],
+    "cover": "assets/images/covers/portal-20.jpg"
+  },
+  {
+    "id": "social-studies-8-en",
+    "title": "Class 8 Social Studies — Solved Exercises (English Medium)",
+    "cls": 8,
+    "subject": "Social Studies",
+    "medium": "English",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/Class8-Social-SolvedExercises-English.pdf",
+    "pages": 105,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Social Studies, English medium — solved from the official textbook, exam-ready answers.",
+    "chapters": [],
+    "cover": "assets/images/covers/portal-226.jpg"
+  },
+  {
+    "id": "urdu-11-ur",
+    "title": "Class 11 Urdu — Solved Exercises (Urdu Medium)",
+    "cls": 11,
+    "subject": "Urdu",
+    "medium": "Urdu",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/Class11-Urdu-SolvedExercises-Urdu.pdf",
+    "pages": 272,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 11 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
+    "chapters": [],
+    "cover": "assets/images/covers/portal-214.jpg"
+  },
+  {
+    "id": "urdu-12-ur",
+    "title": "Class 12 Urdu — Solved Exercises (Urdu Medium)",
+    "cls": 12,
+    "subject": "Urdu",
+    "medium": "Urdu",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/Class12-Urdu-SolvedExercises-Urdu.pdf",
+    "pages": 299,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
+    "chapters": [],
+    "cover": "assets/images/covers/portal-216.jpg"
   }
 ]
