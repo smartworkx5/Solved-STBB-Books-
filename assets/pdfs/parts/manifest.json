@@ -1,478 +1,522 @@
 {
- "Class10-Biology-SolvedExercises-English.pdf": {
-  "parts": 73,
-  "size": 327258
- },
- "Class10-Biology-SolvedExercises-Sindhi.pdf": {
-  "parts": 74,
-  "size": 332086
- },
- "Class10-Biology-SolvedExercises-Urdu.pdf": {
-  "parts": 115,
-  "size": 516398
- },
- "Class10-Chemistry-SolvedExercises-English.pdf": {
-  "parts": 106,
-  "size": 475357
- },
- "Class10-Chemistry-SolvedExercises-Sindhi.pdf": {
-  "parts": 101,
-  "size": 451067
- },
- "Class10-Chemistry-SolvedExercises-Urdu.pdf": {
-  "parts": 146,
-  "size": 653571
- },
- "Class10-Computer-SolvedExercises-English.pdf": {
-  "parts": 78,
-  "size": 349724
- },
- "Class10-Computer-SolvedExercises-Sindhi.pdf": {
-  "parts": 76,
-  "size": 339995
- },
- "Class10-Computer-SolvedExercises-Urdu.pdf": {
-  "parts": 95,
-  "size": 423209
- },
- "Class10-English-SolvedExercises-English.pdf": {
-  "parts": 1189,
-  "size": 5346313
- },
- "Class10-Islamiat-SolvedExercises-English.pdf": {
-  "parts": 280,
-  "size": 1255815
- },
- "Class10-Islamiat-SolvedExercises-Sindhi.pdf": {
-  "parts": 241,
-  "size": 1080281
- },
- "Class10-Islamiat-SolvedExercises-Urdu.pdf": {
-  "parts": 304,
-  "size": 1365287
- },
- "Class10-Math-SolvedExercises-English.pdf": {
-  "parts": 312,
-  "size": 1402930
- },
- "Class10-Math-SolvedExercises-Sindhi.pdf": {
-  "parts": 301,
-  "size": 1350464
- },
- "Class10-Math-SolvedExercises-Urdu.pdf": {
-  "parts": 295,
-  "size": 1323370
- },
- "Class10-Mazhabi-SolvedExercises-English.pdf": {
-  "parts": 124,
-  "size": 557358
- },
- "Class10-Mazhabi-SolvedExercises-Sindhi.pdf": {
-  "parts": 114,
-  "size": 510805
- },
- "Class10-Mazhabi-SolvedExercises-Urdu.pdf": {
-  "parts": 166,
-  "size": 744287
- },
- "Class10-PakistanStudies-SolvedExercises-English.pdf": {
-  "parts": 123,
-  "size": 550719
- },
- "Class10-PakistanStudies-SolvedExercises-Sindhi.pdf": {
-  "parts": 107,
-  "size": 480818
- },
- "Class10-PakistanStudies-SolvedExercises-Urdu.pdf": {
-  "parts": 160,
-  "size": 716551
- },
- "Class10-Physics-SolvedExercises-English.pdf": {
-  "parts": 150,
-  "size": 672427
- },
- "Class10-Physics-SolvedExercises-Sindhi.pdf": {
-  "parts": 143,
-  "size": 641732
- },
- "Class10-Physics-SolvedExercises-Urdu.pdf": {
-  "parts": 201,
-  "size": 903910
- },
- "Class10-Sindhi-SolvedExercises-Sindhi.pdf": {
-  "parts": 247,
-  "size": 1110987
- },
- "Class10-Urdu-SolvedExercises-Urdu.pdf": {
-  "parts": 329,
-  "size": 1477211
- },
- "Class6-Arabic-SolvedExercises-Arabic.pdf": {
-  "parts": 506,
-  "size": 2276069
- },
- "Class6-Computer-SolvedExercises-English.pdf": {
-  "parts": 71,
-  "size": 316747
- },
- "Class6-Computer-SolvedExercises-Sindhi.pdf": {
-  "parts": 70,
-  "size": 313716
- },
- "Class6-Computer-SolvedExercises-Urdu.pdf": {
-  "parts": 106,
-  "size": 474245
- },
- "Class6-English-SolvedExercises-English.pdf": {
-  "parts": 162,
-  "size": 725497
- },
- "Class6-English-SolvedExercises-Sindhi.pdf": {
-  "parts": 160,
-  "size": 719334
- },
- "Class6-English-SolvedExercises-Urdu.pdf": {
-  "parts": 163,
-  "size": 732480
- },
- "Class6-Islamiat-SolvedExercises-English.pdf": {
-  "parts": 106,
-  "size": 476205
- },
- "Class6-Islamiat-SolvedExercises-Sindhi.pdf": {
-  "parts": 103,
-  "size": 461261
- },
- "Class6-Islamiat-SolvedExercises-Urdu.pdf": {
-  "parts": 147,
-  "size": 657203
- },
- "Class6-Math-SolvedExercises-English.pdf": {
-  "parts": 410,
-  "size": 1843779
- },
- "Class6-Math-SolvedExercises-Sindhi.pdf": {
-  "parts": 401,
-  "size": 1800173
- },
- "Class6-Math-SolvedExercises-Urdu.pdf": {
-  "parts": 446,
-  "size": 2003768
- },
- "Class6-Mazhabi-SolvedExercises-English.pdf": {
-  "parts": 107,
-  "size": 480159
- },
- "Class6-Mazhabi-SolvedExercises-Sindhi.pdf": {
-  "parts": 99,
-  "size": 445195
- },
- "Class6-Mazhabi-SolvedExercises-Urdu.pdf": {
-  "parts": 143,
-  "size": 640375
- },
- "Class6-Science-SolvedExercises-English.pdf": {
-  "parts": 68,
-  "size": 302883
- },
- "Class6-Science-SolvedExercises-Sindhi.pdf": {
-  "parts": 69,
-  "size": 308191
- },
- "Class6-Science-SolvedExercises-Urdu.pdf": {
-  "parts": 95,
-  "size": 423320
- },
- "Class6-Sindhi-SolvedExercises-English.pdf": {
-  "parts": 74,
-  "size": 332109
- },
- "Class6-Sindhi-SolvedExercises-Sindhi.pdf": {
-  "parts": 65,
-  "size": 289859
- },
- "Class6-Sindhi-SolvedExercises-Urdu.pdf": {
-  "parts": 93,
-  "size": 417469
- },
- "Class6-Social-SolvedExercises-English.pdf": {
-  "parts": 315,
-  "size": 1414850
- },
- "Class6-Social-SolvedExercises-Sindhi.pdf": {
-  "parts": 283,
-  "size": 1270355
- },
- "Class6-Social-SolvedExercises-Urdu.pdf": {
-  "parts": 423,
-  "size": 1903169
- },
- "Class7-Arabic-SolvedExercises-Arabic.pdf": {
-  "parts": 506,
-  "size": 2274769
- },
- "Class7-Computer-SolvedExercises-English.pdf": {
-  "parts": 66,
-  "size": 295239
- },
- "Class7-Computer-SolvedExercises-Sindhi.pdf": {
-  "parts": 68,
-  "size": 301674
- },
- "Class7-Computer-SolvedExercises-Urdu.pdf": {
-  "parts": 96,
-  "size": 430304
- },
- "Class7-English-SolvedExercises-English.pdf": {
-  "parts": 865,
-  "size": 3888098
- },
- "Class7-Islamiat-SolvedExercises-English.pdf": {
-  "parts": 97,
-  "size": 432678
- },
- "Class7-Islamiat-SolvedExercises-Sindhi.pdf": {
-  "parts": 89,
-  "size": 398126
- },
- "Class7-Islamiat-SolvedExercises-Urdu.pdf": {
-  "parts": 126,
-  "size": 563487
- },
- "Class7-Math-SolvedExercises-English.pdf": {
-  "parts": 512,
-  "size": 2300078
- },
- "Class7-Math-SolvedExercises-Sindhi.pdf": {
-  "parts": 466,
-  "size": 2094644
- },
- "Class7-Math-SolvedExercises-Urdu.pdf": {
-  "parts": 486,
-  "size": 2185071
- },
- "Class7-Mazhabi-SolvedExercises-English.pdf": {
-  "parts": 125,
-  "size": 562097
- },
- "Class7-Mazhabi-SolvedExercises-Sindhi.pdf": {
-  "parts": 114,
-  "size": 510865
- },
- "Class7-Mazhabi-SolvedExercises-Urdu.pdf": {
-  "parts": 166,
-  "size": 746430
- },
- "Class7-Science-SolvedExercises-English.pdf": {
-  "parts": 91,
-  "size": 407135
- },
- "Class7-Science-SolvedExercises-Sindhi.pdf": {
-  "parts": 89,
-  "size": 398888
- },
- "Class7-Science-SolvedExercises-Urdu.pdf": {
-  "parts": 129,
-  "size": 577319
- },
- "Class7-Sindhi-SolvedExercises-Sindhi.pdf": {
-  "parts": 239,
-  "size": 1072855
- },
- "Class7-Social-SolvedExercises-English.pdf": {
-  "parts": 182,
-  "size": 816732
- },
- "Class7-Social-SolvedExercises-Sindhi.pdf": {
-  "parts": 162,
-  "size": 726769
- },
- "Class7-Social-SolvedExercises-Urdu.pdf": {
-  "parts": 244,
-  "size": 1097221
- },
- "Class8-Arabic-SolvedExercises-Arabic.pdf": {
-  "parts": 385,
-  "size": 1729246
- },
- "Class8-Computer-SolvedExercises-English.pdf": {
-  "parts": 64,
-  "size": 285094
- },
- "Class8-Computer-SolvedExercises-Sindhi.pdf": {
-  "parts": 64,
-  "size": 286023
- },
- "Class8-Computer-SolvedExercises-Urdu.pdf": {
-  "parts": 90,
-  "size": 402583
- },
- "Class8-English-SolvedExercises-English.pdf": {
-  "parts": 521,
-  "size": 2340600
- },
- "Class8-Islamiat-SolvedExercises-English.pdf": {
-  "parts": 132,
-  "size": 589837
- },
- "Class8-Islamiat-SolvedExercises-Sindhi.pdf": {
-  "parts": 114,
-  "size": 509725
- },
- "Class8-Islamiat-SolvedExercises-Urdu.pdf": {
-  "parts": 157,
-  "size": 702942
- },
- "Class8-Math-SolvedExercises-English.pdf": {
-  "parts": 440,
-  "size": 1977575
- },
- "Class8-Math-SolvedExercises-Sindhi.pdf": {
-  "parts": 406,
-  "size": 1823188
- },
- "Class8-Math-SolvedExercises-Urdu.pdf": {
-  "parts": 389,
-  "size": 1748130
- },
- "Class8-Mazhabi-SolvedExercises-English.pdf": {
-  "parts": 140,
-  "size": 629810
- },
- "Class8-Mazhabi-SolvedExercises-Sindhi.pdf": {
-  "parts": 126,
-  "size": 566501
- },
- "Class8-Mazhabi-SolvedExercises-Urdu.pdf": {
-  "parts": 180,
-  "size": 806078
- },
- "Class8-Science-SolvedExercises-English.pdf": {
-  "parts": 96,
-  "size": 430188
- },
- "Class8-Science-SolvedExercises-Sindhi.pdf": {
-  "parts": 89,
-  "size": 398407
- },
- "Class8-Science-SolvedExercises-Urdu.pdf": {
-  "parts": 127,
-  "size": 570440
- },
- "Class8-Sindhi-SolvedExercises-Sindhi.pdf": {
-  "parts": 450,
-  "size": 2020706
- },
- "Class8-Urdu-SolvedExercises-Urdu.pdf": {
-  "parts": 334,
-  "size": 1499204
- },
- "Class9-Biology-SolvedExercises-English.pdf": {
-  "parts": 107,
-  "size": 479418
- },
- "Class9-Biology-SolvedExercises-Sindhi.pdf": {
-  "parts": 104,
-  "size": 463501
- },
- "Class9-Biology-SolvedExercises-Urdu.pdf": {
-  "parts": 150,
-  "size": 672386
- },
- "Class9-Chemistry-SolvedExercises-English.pdf": {
-  "parts": 137,
-  "size": 614335
- },
- "Class9-Chemistry-SolvedExercises-Sindhi.pdf": {
-  "parts": 128,
-  "size": 571546
- },
- "Class9-Chemistry-SolvedExercises-Urdu.pdf": {
-  "parts": 183,
-  "size": 820849
- },
- "Class9-Computer-SolvedExercises-English.pdf": {
-  "parts": 78,
-  "size": 346879
- },
- "Class9-Computer-SolvedExercises-Sindhi.pdf": {
-  "parts": 75,
-  "size": 336510
- },
- "Class9-Computer-SolvedExercises-Urdu.pdf": {
-  "parts": 109,
-  "size": 486135
- },
- "Class9-English-SolvedExercises-English.pdf": {
-  "parts": 673,
-  "size": 3027986
- },
- "Class9-Islamiat-SolvedExercises-English.pdf": {
-  "parts": 279,
-  "size": 1254814
- },
- "Class9-Islamiat-SolvedExercises-Sindhi.pdf": {
-  "parts": 237,
-  "size": 1065342
- },
- "Class9-Islamiat-SolvedExercises-Urdu.pdf": {
-  "parts": 303,
-  "size": 1362774
- },
- "Class9-Math-SolvedExercises-English.pdf": {
-  "parts": 281,
-  "size": 1261122
- },
- "Class9-Math-SolvedExercises-Sindhi.pdf": {
-  "parts": 262,
-  "size": 1175328
- },
- "Class9-Math-SolvedExercises-Urdu.pdf": {
-  "parts": 242,
-  "size": 1088149
- },
- "Class9-Mazhabi-SolvedExercises-English.pdf": {
-  "parts": 124,
-  "size": 556931
- },
- "Class9-Mazhabi-SolvedExercises-Sindhi.pdf": {
-  "parts": 114,
-  "size": 511572
- },
- "Class9-Mazhabi-SolvedExercises-Urdu.pdf": {
-  "parts": 166,
-  "size": 743723
- },
- "Class9-PakistanStudies-SolvedExercises-English.pdf": {
-  "parts": 123,
-  "size": 550385
- },
- "Class9-PakistanStudies-SolvedExercises-Sindhi.pdf": {
-  "parts": 107,
-  "size": 481263
- },
- "Class9-PakistanStudies-SolvedExercises-Urdu.pdf": {
-  "parts": 160,
-  "size": 716424
- },
- "Class9-Physics-SolvedExercises-English.pdf": {
-  "parts": 112,
-  "size": 502894
- },
- "Class9-Physics-SolvedExercises-Sindhi.pdf": {
-  "parts": 113,
-  "size": 507056
- },
- "Class9-Physics-SolvedExercises-Urdu.pdf": {
-  "parts": 140,
-  "size": 626234
- },
- "Class9-Sindhi-SolvedExercises-Sindhi.pdf": {
-  "parts": 247,
-  "size": 1110257
- },
- "Class9-Urdu-SolvedExercises-Urdu.pdf": {
-  "parts": 328,
-  "size": 1475637
- }
+  "Class10-Biology-SolvedExercises-English.pdf": {
+    "parts": 73,
+    "size": 327258
+  },
+  "Class10-Biology-SolvedExercises-Sindhi.pdf": {
+    "parts": 74,
+    "size": 332086
+  },
+  "Class10-Biology-SolvedExercises-Urdu.pdf": {
+    "parts": 115,
+    "size": 516398
+  },
+  "Class10-Chemistry-SolvedExercises-English.pdf": {
+    "parts": 106,
+    "size": 475357
+  },
+  "Class10-Chemistry-SolvedExercises-Sindhi.pdf": {
+    "parts": 101,
+    "size": 451067
+  },
+  "Class10-Chemistry-SolvedExercises-Urdu.pdf": {
+    "parts": 146,
+    "size": 653571
+  },
+  "Class10-Computer-SolvedExercises-English.pdf": {
+    "parts": 78,
+    "size": 349724
+  },
+  "Class10-Computer-SolvedExercises-Sindhi.pdf": {
+    "parts": 76,
+    "size": 339995
+  },
+  "Class10-Computer-SolvedExercises-Urdu.pdf": {
+    "parts": 95,
+    "size": 423209
+  },
+  "Class10-English-SolvedExercises-English.pdf": {
+    "parts": 1189,
+    "size": 5346313
+  },
+  "Class10-Islamiat-SolvedExercises-English.pdf": {
+    "parts": 280,
+    "size": 1255815
+  },
+  "Class10-Islamiat-SolvedExercises-Sindhi.pdf": {
+    "parts": 241,
+    "size": 1080281
+  },
+  "Class10-Islamiat-SolvedExercises-Urdu.pdf": {
+    "parts": 304,
+    "size": 1365287
+  },
+  "Class10-Math-SolvedExercises-English.pdf": {
+    "parts": 312,
+    "size": 1402930
+  },
+  "Class10-Math-SolvedExercises-Sindhi.pdf": {
+    "parts": 301,
+    "size": 1350464
+  },
+  "Class10-Math-SolvedExercises-Urdu.pdf": {
+    "parts": 295,
+    "size": 1323370
+  },
+  "Class10-Mazhabi-SolvedExercises-English.pdf": {
+    "parts": 124,
+    "size": 557358
+  },
+  "Class10-Mazhabi-SolvedExercises-Sindhi.pdf": {
+    "parts": 114,
+    "size": 510805
+  },
+  "Class10-Mazhabi-SolvedExercises-Urdu.pdf": {
+    "parts": 166,
+    "size": 744287
+  },
+  "Class10-PakistanStudies-SolvedExercises-English.pdf": {
+    "parts": 123,
+    "size": 550719
+  },
+  "Class10-PakistanStudies-SolvedExercises-Sindhi.pdf": {
+    "parts": 107,
+    "size": 480818
+  },
+  "Class10-PakistanStudies-SolvedExercises-Urdu.pdf": {
+    "parts": 160,
+    "size": 716551
+  },
+  "Class10-Physics-SolvedExercises-English.pdf": {
+    "parts": 150,
+    "size": 672427
+  },
+  "Class10-Physics-SolvedExercises-Sindhi.pdf": {
+    "parts": 143,
+    "size": 641732
+  },
+  "Class10-Physics-SolvedExercises-Urdu.pdf": {
+    "parts": 201,
+    "size": 903910
+  },
+  "Class10-Sindhi-SolvedExercises-Sindhi.pdf": {
+    "parts": 247,
+    "size": 1110987
+  },
+  "Class10-Urdu-SolvedExercises-Urdu.pdf": {
+    "parts": 329,
+    "size": 1477211
+  },
+  "Class6-Arabic-SolvedExercises-Arabic.pdf": {
+    "parts": 506,
+    "size": 2276069
+  },
+  "Class6-Computer-SolvedExercises-English.pdf": {
+    "parts": 71,
+    "size": 316747
+  },
+  "Class6-Computer-SolvedExercises-Sindhi.pdf": {
+    "parts": 70,
+    "size": 313716
+  },
+  "Class6-Computer-SolvedExercises-Urdu.pdf": {
+    "parts": 106,
+    "size": 474245
+  },
+  "Class6-English-SolvedExercises-English.pdf": {
+    "parts": 162,
+    "size": 725497
+  },
+  "Class6-English-SolvedExercises-Sindhi.pdf": {
+    "parts": 160,
+    "size": 719334
+  },
+  "Class6-English-SolvedExercises-Urdu.pdf": {
+    "parts": 163,
+    "size": 732480
+  },
+  "Class6-Islamiat-SolvedExercises-English.pdf": {
+    "parts": 106,
+    "size": 476205
+  },
+  "Class6-Islamiat-SolvedExercises-Sindhi.pdf": {
+    "parts": 103,
+    "size": 461261
+  },
+  "Class6-Islamiat-SolvedExercises-Urdu.pdf": {
+    "parts": 147,
+    "size": 657203
+  },
+  "Class6-Math-SolvedExercises-English.pdf": {
+    "parts": 410,
+    "size": 1843779
+  },
+  "Class6-Math-SolvedExercises-Sindhi.pdf": {
+    "parts": 401,
+    "size": 1800173
+  },
+  "Class6-Math-SolvedExercises-Urdu.pdf": {
+    "parts": 446,
+    "size": 2003768
+  },
+  "Class6-Mazhabi-SolvedExercises-English.pdf": {
+    "parts": 107,
+    "size": 480159
+  },
+  "Class6-Mazhabi-SolvedExercises-Sindhi.pdf": {
+    "parts": 99,
+    "size": 445195
+  },
+  "Class6-Mazhabi-SolvedExercises-Urdu.pdf": {
+    "parts": 143,
+    "size": 640375
+  },
+  "Class6-Science-SolvedExercises-English.pdf": {
+    "parts": 68,
+    "size": 302883
+  },
+  "Class6-Science-SolvedExercises-Sindhi.pdf": {
+    "parts": 69,
+    "size": 308191
+  },
+  "Class6-Science-SolvedExercises-Urdu.pdf": {
+    "parts": 95,
+    "size": 423320
+  },
+  "Class6-Sindhi-SolvedExercises-English.pdf": {
+    "parts": 74,
+    "size": 332109
+  },
+  "Class6-Sindhi-SolvedExercises-Sindhi.pdf": {
+    "parts": 65,
+    "size": 289859
+  },
+  "Class6-Sindhi-SolvedExercises-Urdu.pdf": {
+    "parts": 93,
+    "size": 417469
+  },
+  "Class6-Social-SolvedExercises-English.pdf": {
+    "parts": 315,
+    "size": 1414850
+  },
+  "Class6-Social-SolvedExercises-Sindhi.pdf": {
+    "parts": 283,
+    "size": 1270355
+  },
+  "Class6-Social-SolvedExercises-Urdu.pdf": {
+    "parts": 423,
+    "size": 1903169
+  },
+  "Class7-Arabic-SolvedExercises-Arabic.pdf": {
+    "parts": 506,
+    "size": 2274769
+  },
+  "Class7-Computer-SolvedExercises-English.pdf": {
+    "parts": 66,
+    "size": 295239
+  },
+  "Class7-Computer-SolvedExercises-Sindhi.pdf": {
+    "parts": 68,
+    "size": 301674
+  },
+  "Class7-Computer-SolvedExercises-Urdu.pdf": {
+    "parts": 96,
+    "size": 430304
+  },
+  "Class7-English-SolvedExercises-English.pdf": {
+    "parts": 865,
+    "size": 3888098
+  },
+  "Class7-Islamiat-SolvedExercises-English.pdf": {
+    "parts": 97,
+    "size": 432678
+  },
+  "Class7-Islamiat-SolvedExercises-Sindhi.pdf": {
+    "parts": 89,
+    "size": 398126
+  },
+  "Class7-Islamiat-SolvedExercises-Urdu.pdf": {
+    "parts": 126,
+    "size": 563487
+  },
+  "Class7-Math-SolvedExercises-English.pdf": {
+    "parts": 512,
+    "size": 2300078
+  },
+  "Class7-Math-SolvedExercises-Sindhi.pdf": {
+    "parts": 466,
+    "size": 2094644
+  },
+  "Class7-Math-SolvedExercises-Urdu.pdf": {
+    "parts": 486,
+    "size": 2185071
+  },
+  "Class7-Mazhabi-SolvedExercises-English.pdf": {
+    "parts": 125,
+    "size": 562097
+  },
+  "Class7-Mazhabi-SolvedExercises-Sindhi.pdf": {
+    "parts": 114,
+    "size": 510865
+  },
+  "Class7-Mazhabi-SolvedExercises-Urdu.pdf": {
+    "parts": 166,
+    "size": 746430
+  },
+  "Class7-Science-SolvedExercises-English.pdf": {
+    "parts": 91,
+    "size": 407135
+  },
+  "Class7-Science-SolvedExercises-Sindhi.pdf": {
+    "parts": 89,
+    "size": 398888
+  },
+  "Class7-Science-SolvedExercises-Urdu.pdf": {
+    "parts": 129,
+    "size": 577319
+  },
+  "Class7-Sindhi-SolvedExercises-Sindhi.pdf": {
+    "parts": 239,
+    "size": 1072855
+  },
+  "Class7-Social-SolvedExercises-English.pdf": {
+    "parts": 182,
+    "size": 816732
+  },
+  "Class7-Social-SolvedExercises-Sindhi.pdf": {
+    "parts": 162,
+    "size": 726769
+  },
+  "Class7-Social-SolvedExercises-Urdu.pdf": {
+    "parts": 244,
+    "size": 1097221
+  },
+  "Class8-Arabic-SolvedExercises-Arabic.pdf": {
+    "parts": 385,
+    "size": 1729246
+  },
+  "Class8-Computer-SolvedExercises-English.pdf": {
+    "parts": 64,
+    "size": 285094
+  },
+  "Class8-Computer-SolvedExercises-Sindhi.pdf": {
+    "parts": 64,
+    "size": 286023
+  },
+  "Class8-Computer-SolvedExercises-Urdu.pdf": {
+    "parts": 90,
+    "size": 402583
+  },
+  "Class8-English-SolvedExercises-English.pdf": {
+    "parts": 521,
+    "size": 2340600
+  },
+  "Class8-Islamiat-SolvedExercises-English.pdf": {
+    "parts": 132,
+    "size": 589837
+  },
+  "Class8-Islamiat-SolvedExercises-Sindhi.pdf": {
+    "parts": 114,
+    "size": 509725
+  },
+  "Class8-Islamiat-SolvedExercises-Urdu.pdf": {
+    "parts": 157,
+    "size": 702942
+  },
+  "Class8-Math-SolvedExercises-English.pdf": {
+    "parts": 440,
+    "size": 1977575
+  },
+  "Class8-Math-SolvedExercises-Sindhi.pdf": {
+    "parts": 406,
+    "size": 1823188
+  },
+  "Class8-Math-SolvedExercises-Urdu.pdf": {
+    "parts": 389,
+    "size": 1748130
+  },
+  "Class8-Mazhabi-SolvedExercises-English.pdf": {
+    "parts": 140,
+    "size": 629810
+  },
+  "Class8-Mazhabi-SolvedExercises-Sindhi.pdf": {
+    "parts": 126,
+    "size": 566501
+  },
+  "Class8-Mazhabi-SolvedExercises-Urdu.pdf": {
+    "parts": 180,
+    "size": 806078
+  },
+  "Class8-Science-SolvedExercises-English.pdf": {
+    "parts": 96,
+    "size": 430188
+  },
+  "Class8-Science-SolvedExercises-Sindhi.pdf": {
+    "parts": 89,
+    "size": 398407
+  },
+  "Class8-Science-SolvedExercises-Urdu.pdf": {
+    "parts": 127,
+    "size": 570440
+  },
+  "Class8-Sindhi-SolvedExercises-Sindhi.pdf": {
+    "parts": 450,
+    "size": 2020706
+  },
+  "Class8-Urdu-SolvedExercises-Urdu.pdf": {
+    "parts": 334,
+    "size": 1499204
+  },
+  "Class9-Biology-SolvedExercises-English.pdf": {
+    "parts": 107,
+    "size": 479418
+  },
+  "Class9-Biology-SolvedExercises-Sindhi.pdf": {
+    "parts": 104,
+    "size": 463501
+  },
+  "Class9-Biology-SolvedExercises-Urdu.pdf": {
+    "parts": 150,
+    "size": 672386
+  },
+  "Class9-Chemistry-SolvedExercises-English.pdf": {
+    "parts": 137,
+    "size": 614335
+  },
+  "Class9-Chemistry-SolvedExercises-Sindhi.pdf": {
+    "parts": 128,
+    "size": 571546
+  },
+  "Class9-Chemistry-SolvedExercises-Urdu.pdf": {
+    "parts": 183,
+    "size": 820849
+  },
+  "Class9-Computer-SolvedExercises-English.pdf": {
+    "parts": 78,
+    "size": 346879
+  },
+  "Class9-Computer-SolvedExercises-Sindhi.pdf": {
+    "parts": 75,
+    "size": 336510
+  },
+  "Class9-Computer-SolvedExercises-Urdu.pdf": {
+    "parts": 109,
+    "size": 486135
+  },
+  "Class9-English-SolvedExercises-English.pdf": {
+    "parts": 673,
+    "size": 3027986
+  },
+  "Class9-Islamiat-SolvedExercises-English.pdf": {
+    "parts": 279,
+    "size": 1254814
+  },
+  "Class9-Islamiat-SolvedExercises-Sindhi.pdf": {
+    "parts": 237,
+    "size": 1065342
+  },
+  "Class9-Islamiat-SolvedExercises-Urdu.pdf": {
+    "parts": 303,
+    "size": 1362774
+  },
+  "Class9-Math-SolvedExercises-English.pdf": {
+    "parts": 281,
+    "size": 1261122
+  },
+  "Class9-Math-SolvedExercises-Sindhi.pdf": {
+    "parts": 262,
+    "size": 1175328
+  },
+  "Class9-Math-SolvedExercises-Urdu.pdf": {
+    "parts": 242,
+    "size": 1088149
+  },
+  "Class9-Mazhabi-SolvedExercises-English.pdf": {
+    "parts": 124,
+    "size": 556931
+  },
+  "Class9-Mazhabi-SolvedExercises-Sindhi.pdf": {
+    "parts": 114,
+    "size": 511572
+  },
+  "Class9-Mazhabi-SolvedExercises-Urdu.pdf": {
+    "parts": 166,
+    "size": 743723
+  },
+  "Class9-PakistanStudies-SolvedExercises-English.pdf": {
+    "parts": 123,
+    "size": 550385
+  },
+  "Class9-PakistanStudies-SolvedExercises-Sindhi.pdf": {
+    "parts": 107,
+    "size": 481263
+  },
+  "Class9-PakistanStudies-SolvedExercises-Urdu.pdf": {
+    "parts": 160,
+    "size": 716424
+  },
+  "Class9-Physics-SolvedExercises-English.pdf": {
+    "parts": 112,
+    "size": 502894
+  },
+  "Class9-Physics-SolvedExercises-Sindhi.pdf": {
+    "parts": 113,
+    "size": 507056
+  },
+  "Class9-Physics-SolvedExercises-Urdu.pdf": {
+    "parts": 140,
+    "size": 626234
+  },
+  "Class9-Sindhi-SolvedExercises-Sindhi.pdf": {
+    "parts": 247,
+    "size": 1110257
+  },
+  "Class9-Urdu-SolvedExercises-Urdu.pdf": {
+    "parts": 328,
+    "size": 1475637
+  },
+  "Class7-Urdu-SolvedExercises-Urdu.pdf": {
+    "parts": 396,
+    "size": 1777676
+  },
+  "Class8-Social-SolvedExercises-English.pdf": {
+    "parts": 210,
+    "size": 941372
+  },
+  "Class11-Biology-SolvedExercises-English.pdf": {
+    "parts": 246,
+    "size": 1106663
+  },
+  "Class11-Chemistry-SolvedExercises-English.pdf": {
+    "parts": 226,
+    "size": 1012999
+  },
+  "Class11-Physics-SolvedExercises-English.pdf": {
+    "parts": 398,
+    "size": 1790373
+  },
+  "Class11-Mathematics-SolvedExercises-English.pdf": {
+    "parts": 1282,
+    "size": 5766492
+  },
+  "Class11-English-SolvedExercises-English.pdf": {
+    "parts": 1794,
+    "size": 8069638
+  },
+  "Class12-Biology-SolvedExercises-English.pdf": {
+    "parts": 252,
+    "size": 1131465
+  },
+  "Class12-Chemistry-SolvedExercises-English.pdf": {
+    "parts": 296,
+    "size": 1327642
+  },
+  "Class12-Mathematics-SolvedExercises-English.pdf": {
+    "parts": 674,
+    "size": 3030417
+  },
+  "Class12-Urdu-SolvedExercises-Urdu.pdf": {
+    "parts": 1075,
+    "size": 4833385
+  }
 }
