@@ -322,5 +322,53 @@
   "hero-banner.jpg": {
     "size": 154051,
     "parts": 34
+  },
+  "portal-20.jpg": {
+    "parts": 6,
+    "size": 23605
+  },
+  "portal-226.jpg": {
+    "parts": 12,
+    "size": 52726
+  },
+  "portal-219.jpg": {
+    "parts": 34,
+    "size": 148570
+  },
+  "portal-206.jpg": {
+    "parts": 11,
+    "size": 46687
+  },
+  "portal-221.jpg": {
+    "parts": 10,
+    "size": 42964
+  },
+  "portal-207.jpg": {
+    "parts": 11,
+    "size": 45373
+  },
+  "portal-203.jpg": {
+    "parts": 10,
+    "size": 41503
+  },
+  "portal-214.jpg": {
+    "parts": 9,
+    "size": 36718
+  },
+  "portal-228.jpg": {
+    "parts": 17,
+    "size": 75650
+  },
+  "portal-218.jpg": {
+    "parts": 14,
+    "size": 59172
+  },
+  "portal-225.jpg": {
+    "parts": 10,
+    "size": 42528
+  },
+  "portal-216.jpg": {
+    "parts": 10,
+    "size": 43553
   }
 }
