@@ -82,15 +82,22 @@ async function renderBooks(){
   grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
 // PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
-// Sharpness: every page is rendered at CSS size × devicePixelRatio (capped),
-// so text stays crisp on high-density mobile screens instead of being a 1×
-// raster upscaled by the browser. Memory: only pages near the viewport keep a
-// rendered canvas (fixed-size placeholders preserve layout/scroll), so long
-// books stay safe on phones. Zoom buttons re-render at the new scale.
+// Sharpness: every page is rendered at CSS size × an output scale derived
+// from the device's LIVE values at render time — window.devicePixelRatio
+// (full value, capped at 4) and window.visualViewport.scale (pinch-zoom) —
+// so text stays crisp on any phone size instead of being a 1× raster
+// upscaled by the browser. A floor of 2 keeps low-density screens sharp too.
+// Memory: only pages near the viewport keep a rendered canvas (fixed-size
+// placeholders preserve layout/scroll), so long books stay safe on phones.
+// Zoom buttons re-render at the new scale; browser pinch-zoom re-renders
+// visible pages once the pinch settles (a stretched bitmap is never left).
 const _pdfState = {};
-const _PDF_MAX_DPR = 3;                          // cap devicePixelRatio used for rendering
+const _PDF_MAX_DPR = 4;                          // cap devicePixelRatio used for rendering
+const _PDF_MIN_OS = 2;                           // supersample floor (low-DPR screens)
+const _PDF_MAX_VV_OS = 4.5;                      // cap DPR × visualViewport.scale
 const _PDF_MAX_CANVAS_SIDE = 4096;               // cap any single canvas dimension (px)
-const _PDF_MAX_CANVAS_AREA = 12 * 1024 * 1024;   // cap total pixels per canvas
+const _PDF_MAX_CANVAS_AREA = 6 * 1024 * 1024;    // cap total pixels per canvas (never binds at fit-width, pinch, or 1.5x zoom; only at rotation/zoom extremes — keeps several concurrent large canvases + not-yet-GC'd old ones from exhausting phone GPU memory)
+const _PDF_MAX_LIVE_PIXELS = 64 * 1024 * 1024;  // cap total pixels of all live canvases
 const _PDF_KEEP_PAGES = 14;                      // max simultaneously rendered pages
 async function renderPDF(url, containerId){
   const el = document.getElementById(containerId); if(!el) return;
@@ -98,7 +105,7 @@ async function renderPDF(url, containerId){
   try{
     pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/js/pdf.worker.min.js';
     const pdf = await pdfjsLib.getDocument(url).promise;
-    const st = {pdf, scale: 1, container: el, containerId, slots: [], seq: 0, observer: null, lastW: 0, layoutTimer: 0};
+    const st = {pdf, scale: 1, container: el, containerId, slots: [], seq: 0, observer: null, lastW: 0, layoutTimer: 0, vvTimer: 0, vvScale: (window.visualViewport && window.visualViewport.scale) || 1};
     _pdfState[containerId] = st;
     await _layoutPDF(st, false);
     _watchPDF(st);
@@ -162,7 +169,12 @@ async function _renderSlot(st, rec){
     const page = await st.pdf.getPage(rec.num);
     const cssScale = st.cssScale * st.scale;
     const wCss = rec.pw * cssScale, hCss = rec.ph * cssScale;
-    let os = Math.min(window.devicePixelRatio || 1, _PDF_MAX_DPR);
+    // Live device values only — no fixed width/DPR assumptions: full DPR
+    // (floored at 2, capped at 4) times the current pinch scale (capped),
+    // then bounded by the per-canvas pixel caps.
+    const vv = (window.visualViewport && window.visualViewport.scale) || 1;
+    let os = Math.min(Math.max(window.devicePixelRatio || 1, _PDF_MIN_OS), _PDF_MAX_DPR);
+    os = Math.min(os * vv, _PDF_MAX_VV_OS);
     os = Math.min(os, _PDF_MAX_CANVAS_SIDE / wCss, _PDF_MAX_CANVAS_SIDE / hCss, Math.sqrt(_PDF_MAX_CANVAS_AREA / (wCss * hCss)));
     if(!(os > 0) || !isFinite(os)) os = 1;
     const viewport = page.getViewport({scale: cssScale});
@@ -174,6 +186,12 @@ async function _renderSlot(st, rec){
     if(seq !== st.seq || !rec.el.isConnected){ rec.rendering = false; return; }
     rec.el.appendChild(cv);
     rec.canvas = cv; rec.rendered = true; rec.rendering = false;
+    if(rec.pinchDirty){
+      rec.pinchDirty = false;
+      rec.canvas.remove(); rec.canvas = null; rec.rendered = false;
+      _renderSlot(st, rec);
+      return;
+    }
     _trimPDF(st);
   }catch(e){ rec.rendering = false; }
 }
@@ -182,16 +200,23 @@ async function _renderSlot(st, rec){
 // layout (and scroll position) intact; pages re-render when scrolled back to.
 function _trimPDF(st){
   const rendered = st.slots.filter(s => s.rendered && s.canvas);
-  if(rendered.length <= _PDF_KEEP_PAGES) return;
+  const totalPx = rendered.reduce((a, s) => a + (s.canvas.width * s.canvas.height), 0);
+  if(rendered.length <= _PDF_KEEP_PAGES && totalPx <= _PDF_MAX_LIVE_PIXELS) return;
   const mid = window.innerHeight / 2;
   rendered.sort((a, b) => {
     const da = Math.abs(a.el.getBoundingClientRect().top + a.el.offsetHeight / 2 - mid);
     const db = Math.abs(b.el.getBoundingClientRect().top + b.el.offsetHeight / 2 - mid);
     return db - da;
   });
-  rendered.slice(0, rendered.length - _PDF_KEEP_PAGES).forEach(rec => {
+  // Drop farthest-first until BOTH the count cap and the total-pixel cap hold
+  // (a count cap alone lets 14 huge canvases exhaust phone GPU memory).
+  let over = rendered.length - _PDF_KEEP_PAGES;
+  let pxOver = totalPx - _PDF_MAX_LIVE_PIXELS;
+  rendered.slice(0).forEach(rec => {
+    if(over <= 0 && pxOver <= 0) return;
     const r = rec.el.getBoundingClientRect();
     if(r.bottom < -window.innerHeight || r.top > window.innerHeight * 2){
+      over--; pxOver -= rec.canvas.width * rec.canvas.height;
       rec.canvas.remove(); rec.canvas = null; rec.rendered = false;
     }
   });
@@ -199,6 +224,23 @@ function _trimPDF(st){
 function _scheduleLayout(st){
   clearTimeout(st.layoutTimer);
   st.layoutTimer = setTimeout(() => _layoutPDF(st, true), 150);
+}
+// After a pinch settles, re-render the pages the reader can actually see at
+// the new DPR × pinch scale. Pages far away are dropped (not re-rendered) so
+// the IntersectionObserver re-renders them lazily at the new scale on scroll.
+function _rerenderVisiblePDF(st){
+  const vh = window.innerHeight || 0;
+  st.slots.forEach(rec => {
+    if(rec.rendering){ rec.pinchDirty = true; return; } // in-flight render: re-do once it lands
+    if(!rec.rendered || !rec.canvas) return;
+    const r = rec.el.getBoundingClientRect();
+    if(r.bottom < -vh || r.top > vh * 2){
+      rec.canvas.remove(); rec.canvas = null; rec.rendered = false;
+      return;
+    }
+    rec.canvas.remove(); rec.canvas = null; rec.rendered = false;
+    _renderSlot(st, rec);
+  });
 }
 function _watchPDF(st){
   let t = 0;
@@ -211,6 +253,23 @@ function _watchPDF(st){
   };
   window.addEventListener('resize', onResize);
   window.addEventListener('orientationchange', onResize);
+  // Browser pinch-zoom scales the already-rendered canvas bitmap, which is
+  // exactly why pinched pages looked soft. visualViewport.resize fires on
+  // pinch (and on URL-bar/keyboard moves, where scale does not change, so
+  // the threshold below ignores those). Re-render once the scale settles.
+  const vv = window.visualViewport;
+  if(vv){
+    vv.addEventListener('resize', () => {
+      clearTimeout(st.vvTimer);
+      st.vvTimer = setTimeout(() => {
+        const now = vv.scale || 1;
+        if(Math.abs(now - st.vvScale) > 0.05){
+          st.vvScale = now;
+          _rerenderVisiblePDF(st);
+        }
+      }, 200);
+    });
+  }
 }
 function zoomPDF(containerId, dir){
   const st = _pdfState[containerId]; if(!st) return;
