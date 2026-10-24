@@ -132,7 +132,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class6-Sindhi-SolvedExercises-Sindhi.pdf",
-    "pages": 66,
+    "pages": 46,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-66.jpg"
@@ -216,7 +216,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class6-Arabic-SolvedExercises-Arabic.pdf",
-    "pages": 162,
+    "pages": 53,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 6 Arabic, Arabic medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-41.jpg"
@@ -454,7 +454,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class7-Sindhi-SolvedExercises-Sindhi.pdf",
-    "pages": 92,
+    "pages": 52,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-93.jpg"
@@ -468,7 +468,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class7-English-SolvedExercises-English.pdf",
-    "pages": 231,
+    "pages": 120,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-145.jpg"
@@ -482,7 +482,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class7-Arabic-SolvedExercises-Arabic.pdf",
-    "pages": 146,
+    "pages": 50,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 7 Arabic, Arabic medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-232.jpg"
@@ -748,7 +748,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class8-Sindhi-SolvedExercises-Sindhi.pdf",
-    "pages": 162,
+    "pages": 85,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-94.jpg"
@@ -762,7 +762,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class8-Urdu-SolvedExercises-Urdu.pdf",
-    "pages": 171,
+    "pages": 83,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-23.jpg"
@@ -776,7 +776,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class8-English-SolvedExercises-English.pdf",
-    "pages": 135,
+    "pages": 76,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-146.jpg"
@@ -790,7 +790,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class8-Arabic-SolvedExercises-Arabic.pdf",
-    "pages": 127,
+    "pages": 50,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Arabic, Arabic medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-233.jpg"
@@ -986,7 +986,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class9-Sindhi-SolvedExercises-Sindhi.pdf",
-    "pages": 98,
+    "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-212.jpg"
@@ -1000,7 +1000,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class9-Urdu-SolvedExercises-Urdu.pdf",
-    "pages": 115,
+    "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-13.jpg"
@@ -1014,7 +1014,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class9-English-SolvedExercises-English.pdf",
-    "pages": 196,
+    "pages": 102,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-147.jpg"
@@ -1336,7 +1336,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class10-Sindhi-SolvedExercises-Sindhi.pdf",
-    "pages": 98,
+    "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-212.jpg"
@@ -1350,7 +1350,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class10-Urdu-SolvedExercises-Urdu.pdf",
-    "pages": 115,
+    "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-13.jpg"
@@ -1364,7 +1364,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class10-English-SolvedExercises-English.pdf",
-    "pages": 369,
+    "pages": 189,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-201.jpg"
@@ -2232,7 +2232,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class11-English-SolvedExercises-English.pdf",
-    "pages": 527,
+    "pages": 297,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 11 English, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-203.jpg"
@@ -2330,7 +2330,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class11-Urdu-SolvedExercises-Urdu.pdf",
-    "pages": 272,
+    "pages": 142,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 11 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-214.jpg"
@@ -2344,7 +2344,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class12-Urdu-SolvedExercises-Urdu.pdf",
-    "pages": 299,
+    "pages": 121,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Urdu, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-216.jpg"
