@@ -45,16 +45,14 @@ const BOOK_IC = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" str
 const CAP_IC = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12.4V16c0 1.66 2.69 3 6 3s6-1.34 6-3v-3.6"/><path d="M22 10v6"/></svg>';
 const STAR_IC = '<svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.9 5.87 6.48.94-4.69 4.57 1.11 6.45L12 17.47l-5.8 2.96 1.11-6.45L2.62 9.41l6.48-.94z"/></svg>';
 const SPROUT_IC = '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-7"/><path d="M12 14c0-3.2-2.6-5.4-6.5-5.4 0 3.9 2.6 5.4 6.5 5.4z"/><path d="M12 12.5c0-3.2 2.6-5.4 6.5-5.4 0 3.9-2.6 5.4-6.5 5.4z"/></svg>';
-const DECO_BOOK = '<svg class="bk-deco" width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>';
-const STACK_SVG = '<svg class="bk-stack" width="54" height="40" viewBox="0 0 54 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="6" y="27" width="34" height="8" rx="2"/><rect x="11" y="16" width="30" height="8" rx="2"/><rect x="16" y="5" width="25" height="8" rx="2"/></svg>';
-const WAVE_SVG = '<svg class="bk-wave" viewBox="0 0 1440 100" preserveAspectRatio="none" aria-hidden="true"><path d="M0,58 C200,100 420,8 700,38 C980,68 1200,22 1440,60 L1440,100 L0,100 Z" fill="#ffffff"/></svg>';
 function cardHTML(b){
   const live = b.status==='live';
   const slug = subjSlug(b.subject);
   const cover = subjectCover(b);
-  const badge = live ? '<span class="live-badge"><i></i>Free</span>' : '<span class="live-badge soon"><i></i>Coming Soon</span>';
   const btn = live ? `<span class="btn-open">${BOOK_IC} Open &rarr;</span>` : `<button class="btn-open" type="button">Notify me</button>`;
-  const hero = `<div class="bk-hero">${badge}<p class="bk-headline" aria-hidden="true">Learn <em>Grow</em><br>Succeed<br><span class="brush">Together</span></p>${DECO_BOOK}${STACK_SVG}<div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><div class="book3d-fallback"><span>${b.title}</span></div><img class="book3d-front" src="/${cover}" alt="${b.title} — official book cover" loading="lazy" onerror="this.style.display='none'"><div class="book3d-pages"></div><div class="book3d-shade"></div></div>${WAVE_SVG}</div>`;
+  // Hero = user's thumbnail theme image (CSS background, shown in full);
+  // the book's own real cover is seated on the scene book's front face.
+  const hero = `<div class="bk-hero"><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy" onerror="this.style.display='none'"></div>`;
   const inner = `${hero}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span></p><p class="card-desc">${b.desc}</p><div class="actions">${btn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
   if(live) return `<a class="card card-link book-card" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card book-card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
