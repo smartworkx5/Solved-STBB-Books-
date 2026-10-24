@@ -82,37 +82,140 @@ async function renderBooks(){
   grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
 // PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
+// Sharpness: every page is rendered at CSS size × devicePixelRatio (capped),
+// so text stays crisp on high-density mobile screens instead of being a 1×
+// raster upscaled by the browser. Memory: only pages near the viewport keep a
+// rendered canvas (fixed-size placeholders preserve layout/scroll), so long
+// books stay safe on phones. Zoom buttons re-render at the new scale.
 const _pdfState = {};
+const _PDF_MAX_DPR = 3;                          // cap devicePixelRatio used for rendering
+const _PDF_MAX_CANVAS_SIDE = 4096;               // cap any single canvas dimension (px)
+const _PDF_MAX_CANVAS_AREA = 12 * 1024 * 1024;   // cap total pixels per canvas
+const _PDF_KEEP_PAGES = 14;                      // max simultaneously rendered pages
 async function renderPDF(url, containerId){
   const el = document.getElementById(containerId); if(!el) return;
   el.innerHTML = '<p>Loading PDF…</p>';
   try{
     pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/js/pdf.worker.min.js';
     const pdf = await pdfjsLib.getDocument(url).promise;
-    _pdfState[containerId] = {pdf, scale: 1, container: el};
-    await _drawPDF(_pdfState[containerId]);
+    const st = {pdf, scale: 1, container: el, containerId, slots: [], seq: 0, observer: null, lastW: 0, layoutTimer: 0};
+    _pdfState[containerId] = st;
+    await _layoutPDF(st, false);
+    _watchPDF(st);
   }catch(e){ el.innerHTML = '<p>Could not load this PDF. Please try again.</p>'; }
 }
-async function _drawPDF(st){
-  const el = st.container; el.innerHTML = '';
+function _pdfInnerWidth(el){
+  const cs = getComputedStyle(el);
+  const pad = (parseFloat(cs.paddingLeft) || 0) + (parseFloat(cs.paddingRight) || 0);
+  return Math.max(200, (el.clientWidth || 800) - pad);
+}
+// Remember which page is at the reading position (and how far through it),
+// so zoom/resize re-layouts can restore approximately the same spot.
+function _pdfCapturePos(st){
+  for(let i = 0; i < st.slots.length; i++){
+    const r = st.slots[i].el.getBoundingClientRect();
+    if(r.bottom > 90) return {idx: i, frac: Math.min(1, Math.max(0, (90 - r.top) / (r.height || 1)))};
+  }
+  return {idx: 0, frac: 0};
+}
+function _pdfRestorePos(st, pos){
+  const rec = st.slots[pos.idx]; if(!rec) return;
+  const r = rec.el.getBoundingClientRect();
+  const want = 90 - pos.frac * r.height;
+  const dy = r.top - want;
+  if(dy) window.scrollBy(0, dy);
+}
+async function _layoutPDF(st, preserve){
+  const el = st.container;
+  const pos = preserve ? _pdfCapturePos(st) : {idx: 0, frac: 0};
+  st.seq++;
+  if(st.observer){ st.observer.disconnect(); st.observer = null; }
+  el.innerHTML = '';
+  st.slots = [];
+  const w = _pdfInnerWidth(el);
+  st.lastW = el.clientWidth || 0;
   const n = st.pdf.numPages;
   const first = await st.pdf.getPage(1);
-  const w = el.clientWidth || 800;
-  const base = w / first.getViewport({scale:1}).width;
-  const scale = base * st.scale;
-  for(let i=1;i<=n;i++){
-    const p = await st.pdf.getPage(i);
-    const vp = p.getViewport({scale});
-    const cv = document.createElement('canvas');
-    cv.width = Math.floor(vp.width); cv.height = Math.floor(vp.height);
-    el.appendChild(cv);
-    await p.render({canvasContext: cv.getContext('2d'), viewport: vp}).promise;
+  const base1 = first.getViewport({scale: 1});
+  st.cssScale = (w / base1.width); // CSS px per PDF point at zoom 1
+  for(let i = 1; i <= n; i++){
+    const p = (i === 1) ? first : await st.pdf.getPage(i);
+    const v1 = (i === 1) ? base1 : p.getViewport({scale: 1});
+    const slot = document.createElement('div');
+    slot.className = 'pdf-page';
+    slot.style.width = Math.floor(v1.width * st.cssScale * st.scale) + 'px';
+    slot.style.height = Math.floor(v1.height * st.cssScale * st.scale) + 'px';
+    el.appendChild(slot);
+    st.slots.push({num: i, el: slot, pw: v1.width, ph: v1.height, canvas: null, rendered: false, rendering: false});
   }
+  st.observer = new IntersectionObserver(entries => {
+    entries.forEach(en => { if(en.isIntersecting){ const rec = st.slots.find(s => s.el === en.target); if(rec) _renderSlot(st, rec); } });
+  }, {root: null, rootMargin: '800px 0px 800px 0px'});
+  st.slots.forEach(s => st.observer.observe(s.el));
+  if(preserve) _pdfRestorePos(st, pos);
+}
+async function _renderSlot(st, rec){
+  if(rec.rendered || rec.rendering) return;
+  rec.rendering = true;
+  const seq = st.seq;
+  try{
+    const page = await st.pdf.getPage(rec.num);
+    const cssScale = st.cssScale * st.scale;
+    const wCss = rec.pw * cssScale, hCss = rec.ph * cssScale;
+    let os = Math.min(window.devicePixelRatio || 1, _PDF_MAX_DPR);
+    os = Math.min(os, _PDF_MAX_CANVAS_SIDE / wCss, _PDF_MAX_CANVAS_SIDE / hCss, Math.sqrt(_PDF_MAX_CANVAS_AREA / (wCss * hCss)));
+    if(!(os > 0) || !isFinite(os)) os = 1;
+    const viewport = page.getViewport({scale: cssScale});
+    const cv = document.createElement('canvas');
+    cv.width = Math.floor(wCss * os); cv.height = Math.floor(hCss * os);
+    cv.style.width = Math.floor(wCss) + 'px'; cv.style.height = Math.floor(hCss) + 'px';
+    const transform = os !== 1 ? [os, 0, 0, os, 0, 0] : null;
+    await page.render({canvasContext: cv.getContext('2d'), viewport, transform}).promise;
+    if(seq !== st.seq || !rec.el.isConnected){ rec.rendering = false; return; }
+    rec.el.appendChild(cv);
+    rec.canvas = cv; rec.rendered = true; rec.rendering = false;
+    _trimPDF(st);
+  }catch(e){ rec.rendering = false; }
+}
+// Release canvases far from the viewport once too many pages are rendered,
+// so a 600-page book cannot exhaust mobile memory. Placeholders keep the
+// layout (and scroll position) intact; pages re-render when scrolled back to.
+function _trimPDF(st){
+  const rendered = st.slots.filter(s => s.rendered && s.canvas);
+  if(rendered.length <= _PDF_KEEP_PAGES) return;
+  const mid = window.innerHeight / 2;
+  rendered.sort((a, b) => {
+    const da = Math.abs(a.el.getBoundingClientRect().top + a.el.offsetHeight / 2 - mid);
+    const db = Math.abs(b.el.getBoundingClientRect().top + b.el.offsetHeight / 2 - mid);
+    return db - da;
+  });
+  rendered.slice(0, rendered.length - _PDF_KEEP_PAGES).forEach(rec => {
+    const r = rec.el.getBoundingClientRect();
+    if(r.bottom < -window.innerHeight || r.top > window.innerHeight * 2){
+      rec.canvas.remove(); rec.canvas = null; rec.rendered = false;
+    }
+  });
+}
+function _scheduleLayout(st){
+  clearTimeout(st.layoutTimer);
+  st.layoutTimer = setTimeout(() => _layoutPDF(st, true), 150);
+}
+function _watchPDF(st){
+  let t = 0;
+  const onResize = () => {
+    clearTimeout(t);
+    t = setTimeout(() => {
+      const wNow = st.container.clientWidth || 0;
+      if(Math.abs(wNow - st.lastW) > 2) _layoutPDF(st, true);
+    }, 200);
+  };
+  window.addEventListener('resize', onResize);
+  window.addEventListener('orientationchange', onResize);
 }
 function zoomPDF(containerId, dir){
   const st = _pdfState[containerId]; if(!st) return;
-  st.scale = Math.max(0.5, Math.min(3, st.scale + dir*0.25));
-  _drawPDF(st);
+  st.scale = Math.max(0.5, Math.min(3, st.scale + dir * 0.25));
+  _scheduleLayout(st); // debounced re-render at the new scale (never a CSS stretch)
 }
 async function openBook(id){
   const books = await loadBooks();
