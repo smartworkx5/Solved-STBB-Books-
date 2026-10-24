@@ -2244,12 +2244,12 @@
     "subject": "Physics",
     "medium": "English",
     "type": "solved-notes",
-    "status": "coming-soon",
-    "pdf": null,
-    "pages": null,
-    "desc": "Sindh Textbook Board Class 12 Physics solved exercises, English medium — coming soon.",
+    "status": "live",
+    "pdf": "assets/pdfs/Class12-Physics-SolvedExercises-English.pdf",
+    "pages": 166,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 12 Physics, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
-    "cover": "assets/images/covers/subjects/physics.svg"
+    "cover": "assets/images/covers/portal-215.jpg"
   },
   {
     "id": "chemistry-12-en",
