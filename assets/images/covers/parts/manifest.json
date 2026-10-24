@@ -378,5 +378,9 @@
   "portal-215.jpg": {
     "parts": 10,
     "size": 43725
+  },
+  "thumb-theme.jpg": {
+    "parts": 56,
+    "size": 247661
   }
 }
