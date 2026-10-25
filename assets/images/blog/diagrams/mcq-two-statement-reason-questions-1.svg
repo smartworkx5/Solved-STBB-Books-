@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="452" viewBox="0 0 1000 452">
+<rect width="1000" height="452" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The Statement-Reason Decision Table</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Step</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Question to ask</text>
+<rect x="40" y="160" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Statement 1</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">True or false on its own?</text>
+<rect x="40" y="214" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Statement 2</text>
+<text x="540" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">True or false on its own?</text>
+<rect x="40" y="268" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Explanation test</text>
+<text x="540" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Does statement 2 give the cause of</text>
+<text x="540" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">statement 1?</text>
+<rect x="40" y="350" width="920" height="82" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Match options</text>
+<text x="540" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Pick the combination that fits all</text>
+<text x="540" y="408" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">three judgements</text>
+</svg>

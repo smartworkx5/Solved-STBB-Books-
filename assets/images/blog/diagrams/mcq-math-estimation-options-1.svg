@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="698" viewBox="0 0 1000 698">
+<rect width="1000" height="698" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The Estimation Workflow</text>
+<rect x="350" y="228" width="300" height="76" rx="14" fill="#0B6B4A"/>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Estimate the answer</text>
+<line x1="180" y1="264" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Round</text>
+<text x="180" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Replace awkward numbers</text>
+<text x="180" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">with nearby friendly</text>
+<text x="180" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">numbers.</text>
+<line x1="820" y1="264" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="128" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Calculate roughly</text>
+<text x="820" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Do the simplified</text>
+<text x="820" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">calculation mentally in</text>
+<text x="820" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">seconds.</text>
+<line x1="180" y1="456" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="348" width="240" height="108" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Note direction</text>
+<text x="180" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Did rounding push the</text>
+<text x="180" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">estimate up or down?</text>
+<line x1="820" y1="484" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="348" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Eliminate</text>
+<text x="820" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Cross out options far</text>
+<text x="820" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">outside the sensible</text>
+<text x="820" y="460" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">range.</text>
+<line x1="180" y1="704" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="568" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="598" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Finish</text>
+<text x="180" y="626" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Calculate exactly among</text>
+<text x="180" y="653" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">survivors, or pick the</text>
+<text x="180" y="680" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">clear match.</text>
+</svg>
