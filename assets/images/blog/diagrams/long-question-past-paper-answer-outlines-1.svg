@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="602" viewBox="0 0 1000 602">
+<rect width="1000" height="602" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The five-line outline</text>
+<line x1="70" y1="108" x2="70" y2="568" stroke="#0B6B4A" stroke-width="4"/>
+<circle cx="70" cy="130" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="138" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Line 1</text>
+<text x="110" y="166" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Introduction direction: the answer&#x27;s overall line</text>
+<circle cx="70" cy="222" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="230" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Line 2</text>
+<text x="110" y="258" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Body point one with a support hint</text>
+<circle cx="70" cy="314" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="322" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Line 3</text>
+<text x="110" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Body point two with a support hint</text>
+<circle cx="70" cy="406" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="414" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Line 4</text>
+<text x="110" y="442" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Body point three with a support hint</text>
+<circle cx="70" cy="498" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="506" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Line 5</text>
+<text x="110" y="534" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Conclusion: what the points add up to</text>
+</svg>
