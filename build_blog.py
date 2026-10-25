@@ -346,6 +346,23 @@ def main():
     for pg in range(2, total_pages + 1):
         with open(os.path.join(blog_dir, f"page-{pg}.html"), "w", encoding="utf-8") as f:
             f.write(blog_index_html(POSTS, pg, total_pages))
+    # Sitemap: same layout as the pre-existing file — static pages, then every
+    # post in POSTS order (base posts, then daily extras in append order),
+    # then the blog pagination pages. (build_blog.py's docstring promises this;
+    # the old core-pages generator used to own it before its 2026-10-25 removal.)
+    static_paths = ["", "books.html", "about.html", "contact.html",
+                    "privacy.html", "terms.html", "preview.html", "blog/"]
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for path in static_paths:
+        lines.append(f'  <url><loc>{BASE}/{path}</loc><lastmod>{TODAY}</lastmod></url>')
+    for p in POSTS:
+        lines.append(f'  <url><loc>{BASE}/blog/{p["slug"]}.html</loc><lastmod>{TODAY}</lastmod></url>')
+    for pg in range(2, total_pages + 1):
+        lines.append(f'  <url><loc>{BASE}/blog/page-{pg}.html</loc><lastmod>{TODAY}</lastmod></url>')
+    lines.append('</urlset>')
+    with open(os.path.join(SITE_DIR, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
     print(f"Wrote {len(POSTS)} blog posts + index + page-2")
 
 if __name__ == "__main__":
