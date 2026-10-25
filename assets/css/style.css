@@ -127,6 +127,8 @@ img{height:auto}
 .bk-tag.t-class{background:#D1FAE5;color:#047857}
 .bk-tag.t-subj{background:#DBEAFE;color:#2563EB}
 .bk-tag.t-med{background:#F3E8FF;color:#7C3AED}
+.bk-tag.t-board{background:#FEF3C7;color:#92400E}
+.bk-board{margin:0;font-size:13px;font-weight:700;color:#475569}
 .book-card .card-desc{font-size:15px;color:#64748B;line-height:1.7;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .book-card .actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .book-card .btn-open{background:linear-gradient(135deg,#00A878,#047857);padding:13px 28px;font-size:15.5px;border-radius:50px;box-shadow:0 12px 30px rgba(0,168,120,.25);border:0;font-family:inherit;cursor:pointer;transition:transform .2s ease,box-shadow .2s ease,background .2s ease}
