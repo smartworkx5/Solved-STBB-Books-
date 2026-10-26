@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="424" viewBox="0 0 1000 424">
+<rect width="1000" height="424" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Precautions Versus Sources of Error</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Precautions</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Sources of error</text>
+<rect x="40" y="160" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Steps taken to prevent error</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Factors that may have caused error</text>
+<rect x="40" y="214" width="920" height="82" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Written as actions you performed</text>
+<text x="540" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Written as honest limits of the</text>
+<text x="540" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">work</text>
+<rect x="40" y="296" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Specific to this experiment</text>
+<text x="540" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Linked to your own readings</text>
+<rect x="40" y="350" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Before or during the experiment</text>
+<text x="540" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Judged after seeing the results</text>
+</svg>
