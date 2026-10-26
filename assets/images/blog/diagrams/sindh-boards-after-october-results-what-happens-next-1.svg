@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="894" viewBox="0 0 1000 894">
+<rect width="1000" height="894" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">What Happens Next: Find Your Situation</text>
+<rect x="140" y="108" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Your group is announced</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Read your gazette entry, list papers passed, plan Part-II or</text>
+<text x="500" y="202" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">recovery</text>
+<polygon points="500,236 486,258 514,258" fill="#F59E0B"/>
+<rect x="140" y="266" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="298" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Your group is pending</text>
+<text x="500" y="332" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Keep studying, check biek.edu.pk twice a day, ignore</text>
+<text x="500" y="360" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">aggregator dates</text>
+<polygon points="500,394 486,416 514,416" fill="#F59E0B"/>
+<rect x="140" y="424" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="456" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">You are a matric student</text>
+<text x="500" y="490" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">BSEK handles your level, so check bsek.edu.pk and your school</text>
+<text x="500" y="518" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">notice</text>
+<polygon points="500,552 486,574 514,574" fill="#F59E0B"/>
+<rect x="140" y="582" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="614" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">You see a Punjab date</text>
+<text x="500" y="648" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Punjab&#x27;s schedule is a different province; do not apply it to</text>
+<text x="500" y="676" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Sindh</text>
+<polygon points="500,710 486,732 514,732" fill="#F59E0B"/>
+<rect x="140" y="740" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="772" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Still unsure</text>
+<text x="500" y="806" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Ask your college or school office, which receives the board&#x27;s</text>
+<text x="500" y="834" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">word directly</text>
+</svg>
