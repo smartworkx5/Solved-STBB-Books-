@@ -47,6 +47,21 @@ document.addEventListener('DOMContentLoaded', ()=>{
     const params0 = new URLSearchParams(location.search);
     BOOKS_BOARD = LOCKED_BOARD || params0.get('board') || '';
     BOOKS_CLASS = params0.get('f-class') || '';
+    BOOKS_MEDIUM = params0.get('f-medium') || '';
+    BOOKS_SUBJECT = params0.get('f-subject') || '';
+    BOOKS_STATUS = params0.get('f-status') || '';
+    // Keep the existing Board/Class/Medium/Subject/Status <select>s working:
+    // they are still present in books.html, so wire them to the same state.
+    // On a board subdomain the lock still wins over the board select.
+    const syncSel = (id, val)=>{ const el=document.getElementById(id); if(el && val){ const opt=[...el.options].find(o=>o.value===val); if(opt) el.value=val; } };
+    syncSel('f-board', BOOKS_BOARD); syncSel('f-class', BOOKS_CLASS);
+    syncSel('f-medium', BOOKS_MEDIUM); syncSel('f-subject', BOOKS_SUBJECT); syncSel('f-status', BOOKS_STATUS);
+    const bindSel = (id, setter)=>{ const el=document.getElementById(id); if(el){ const h=()=>{ setter(el.value); renderBooks(); }; el.addEventListener('input', h); el.addEventListener('change', h); } };
+    bindSel('f-board', v=>{ if(!LOCKED_BOARD) BOOKS_BOARD = v; });
+    bindSel('f-class', v=>{ BOOKS_CLASS = v; });
+    bindSel('f-medium', v=>{ BOOKS_MEDIUM = v; });
+    bindSel('f-subject', v=>{ BOOKS_SUBJECT = v; });
+    bindSel('f-status', v=>{ BOOKS_STATUS = v; });
     const qEl = document.getElementById('q');
     if(qEl){ if(!qEl.value && params0.get('q')) qEl.value = params0.get('q');
       // Legacy deep link: homepage subject links use ?f-subject=. There is no
@@ -104,6 +119,9 @@ const BOARD_HERO = {
 // Books-page filter state, set once on load (see the books-grid init above).
 let BOOKS_BOARD = '';
 let BOOKS_CLASS = '';
+let BOOKS_MEDIUM = '';
+let BOOKS_SUBJECT = '';
+let BOOKS_STATUS = '';
 async function loadBooks(){
   if(BOOKS.length) return BOOKS;
   try{ const r = await fetch('/assets/data/books.json'); BOOKS = await r.json(); }catch(e){ BOOKS = []; }
@@ -141,14 +159,20 @@ async function renderBooks(){
   const qc = document.getElementById('q'); if(qc && !qc.value && q) qc.value = q;
   const fb = BOOKS_BOARD;
   const fc = BOOKS_CLASS;
+  const fm = BOOKS_MEDIUM;
+  const fs = BOOKS_SUBJECT;
+  const fst = BOOKS_STATUS;
   const filtered = books.filter(b=>{
     if(fb && (b.board || 'Sindh Textbook Board')!==fb) return false;
     if(fc && String(b.cls)!==fc) return false;
+    if(fm && b.medium!==fm) return false;
+    if(fs && b.subject!==fs) return false;
+    if(fst && b.status!==fst) return false;
     if(q && !(b.title+' '+b.subject+' '+b.medium+' Class '+b.cls).toLowerCase().includes(q)) return false;
     return true;
   });
   const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
-  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class.</p>';
+  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
 }
 // PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
 // Sharpness: every page is rendered at CSS size × an output scale derived
