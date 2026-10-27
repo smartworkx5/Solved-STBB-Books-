@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   if(navBtn && nav){ navBtn.addEventListener('click', ()=>{ nav.classList.toggle('open'); navBtn.setAttribute('aria-expanded', nav.classList.contains('open')); }); }
   // Catalogue render
   const grid = document.getElementById('books-grid');
-  if(grid){ renderBooks(); ['q','f-class','f-medium','f-subject','f-status'].forEach(id=>{ const el=document.getElementById(id); if(el) el.addEventListener('input', renderBooks); }); }
+  if(grid){ renderBooks(); ['q','f-board','f-class','f-medium','f-subject','f-status'].forEach(id=>{ const el=document.getElementById(id); if(el) el.addEventListener('input', renderBooks); }); }
   const blogSearch = document.getElementById('blog-search');
   if(blogSearch){ const cat=document.getElementById('blog-cat'); const fn=()=>{ const q=blogSearch.value.toLowerCase(); const c=cat?cat.value:''; document.querySelectorAll('#blog-grid .blog-card').forEach(card=>{ const txt=card.textContent.toLowerCase(); const okQ=!q||txt.includes(q); const okC=!c||txt.includes(c.toLowerCase()); card.style.display=(okQ&&okC)?'':'none'; }); }; blogSearch.addEventListener('input',fn); if(cat) cat.addEventListener('change',fn); }
   // Featured class-filter pills (index featured grid + solved page)
@@ -53,7 +53,7 @@ function cardHTML(b){
   // Hero = user's thumbnail theme image (CSS background, shown in full);
   // the book's own real cover is seated on the scene book's front face.
   const hero = `<div class="bk-hero"><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy" onerror="this.style.display='none'"></div>`;
-  const inner = `${hero}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h3>${b.title}</h3><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span><span class="bk-tag t-board">${BOOK_IC} ${b.board || 'Sindh Textbook Board'}</span></p><p class="bk-board">${b.board || 'Sindh Textbook Board'}</p><p class="card-desc">${b.desc}</p><div class="actions">${btn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
+  const inner = `${hero}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h2>${b.title}</h2><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span><span class="bk-tag t-board">${BOOK_IC} ${b.board || 'Sindh Textbook Board'}</span></p><p class="bk-board">${b.board || 'Sindh Textbook Board'}</p><p class="card-desc">${b.desc}</p><div class="actions">${btn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
   if(live) return `<a class="card card-link book-card" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card book-card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
@@ -63,14 +63,17 @@ async function renderBooks(){
   const params = new URLSearchParams(location.search);
   const q = (document.getElementById('q')?.value || params.get('q') || '').toLowerCase();
   const qc = document.getElementById('q'); if(qc && !qc.value && q) qc.value = q;
+  const fbEl = document.getElementById('f-board'); if(fbEl && !fbEl.value && params.get('board')) fbEl.value = params.get('board');
   const fcEl = document.getElementById('f-class'); if(fcEl && !fcEl.value && params.get('f-class')) fcEl.value = params.get('f-class');
   const fmEl = document.getElementById('f-medium'); if(fmEl && !fmEl.value && params.get('f-medium')) fmEl.value = params.get('f-medium');
   const fsEl = document.getElementById('f-subject'); if(fsEl && !fsEl.value && params.get('f-subject')) fsEl.value = params.get('f-subject');
+  const fb = fbEl?.value || '';
   const fc = fcEl?.value || '';
   const fm = fmEl?.value || '';
   const fs = fsEl?.value || '';
   const fst = document.getElementById('f-status')?.value || '';
   const filtered = books.filter(b=>{
+    if(fb && (b.board || 'Sindh Textbook Board')!==fb) return false;
     if(fc && String(b.cls)!==fc) return false;
     if(fm && b.medium!==fm) return false;
     if(fs && b.subject!==fs) return false;
@@ -280,7 +283,7 @@ async function openBook(id){
   const books = await loadBooks();
   const b = books.find(x=>x.id===id); if(!b) return;
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
-  const chapters = (b.chapters||[]).length ? '<h3>Chapters covered</h3><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
+  const chapters = (b.chapters||[]).length ? '<h2>Chapters covered</h2><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
   const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
   if(b.pdf){
     // Live books open on their own preview page (full-page viewer), not in the modal.

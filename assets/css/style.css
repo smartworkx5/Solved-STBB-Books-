@@ -109,6 +109,7 @@ img{height:auto}
 @media(max-width:520px){.section h2{font-size:24px}.post h1{font-size:26px}.post h2{font-size:21px}.trust-grid{grid-template-columns:1fr}.newsletter{padding:24px 18px}.newsletter input{min-width:0;width:100%}.newsletter form{flex-direction:column}.newsletter .btn{width:100%}}
 
 /* ===== Premium Book Card (SchoolifyBookCard) — book cards only (.book-card) ===== */
+.book-card{content-visibility:auto;contain-intrinsic-size:auto 520px}
 .book-card{border-radius:32px;border:1px solid #E5F0EB;box-shadow:0 12px 40px rgba(0,80,60,.10);transition:transform .3s ease,box-shadow .3s ease}
 .book-card:hover{transform:translateY(-6px);box-shadow:0 24px 48px rgba(0,80,60,.16)}
 /* Hero ("thumbnail") = the user's supplied theme image, shown in full and
@@ -125,7 +126,7 @@ img{height:auto}
 .bk-tags{display:flex;gap:6px;flex-wrap:wrap;margin:0}
 .bk-tag{display:inline-flex;align-items:center;gap:5px;padding:5px 11px;border-radius:999px;font-size:12.5px;font-weight:700}
 .bk-tag.t-class{background:#D1FAE5;color:#047857}
-.bk-tag.t-subj{background:#DBEAFE;color:#2563EB}
+.bk-tag.t-subj{background:#DBEAFE;color:#1D4ED8}
 .bk-tag.t-med{background:#F3E8FF;color:#7C3AED}
 .bk-tag.t-board{background:#FEF3C7;color:#92400E}
 .bk-board{margin:0;font-size:13px;font-weight:700;color:#475569}
@@ -133,8 +134,65 @@ img{height:auto}
 .book-card .actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .book-card .btn-open{background:linear-gradient(135deg,#00A878,#047857);padding:13px 28px;font-size:15.5px;border-radius:50px;box-shadow:0 12px 30px rgba(0,168,120,.25);border:0;font-family:inherit;cursor:pointer;transition:transform .2s ease,box-shadow .2s ease,background .2s ease}
 .book-card .btn-open:hover{background:linear-gradient(135deg,#00B386,#047857);transform:scale(1.03);box-shadow:0 16px 40px rgba(0,168,120,.35)}
-.bk-better{margin-left:auto;display:inline-flex;flex-direction:column;align-items:center;gap:1px;color:#047857;font-size:11px;font-weight:700;font-style:italic;line-height:1.2;opacity:.85;text-align:center}
+.bk-better{margin-left:auto;display:inline-flex;flex-direction:column;align-items:center;gap:1px;color:#047857;font-size:11px;font-weight:700;font-style:italic;line-height:1.2;opacity:1;text-align:center}
 /* Book grids get roomier 3-column layout (blog grid untouched) */
 .featured-grid,.books-grid{grid-template-columns:repeat(3,1fr)}
 @media(max-width:900px){.featured-grid,.books-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.featured-grid,.books-grid{grid-template-columns:1fr}.book-card .card-body{padding:18px}.book-card .card-body h3{font-size:19px}.book-card .card-desc{font-size:14.5px}}
+
+/* ===== Full mobile responsiveness pass (2026-10-26) — mobile/tablet only; desktop unchanged ===== */
+/* Board chooser (index): pills in a wrapping flex row so long board names
+   never split mid-pill. */
+.board-chooser{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 24px}
+@media(max-width:900px){
+  .feat-pill{min-height:44px;display:inline-flex;align-items:center;justify-content:center}
+  .main-nav a{padding:11px 14px}
+}
+@media(max-width:760px){
+  /* Header: let the opened menu wrap onto its own full-width row instead of
+     being squeezed into a narrow column beside the logo. */
+  .header-inner{flex-wrap:wrap}
+  .main-nav.open{flex-basis:100%;margin:2px 0 12px}
+  .main-nav a{min-height:44px;display:flex;align-items:center}
+  .nav-toggle{padding:11px 14px;min-height:44px;min-width:44px}
+  .logo-mark{min-width:44px;width:44px;height:44px}
+  /* 16px form text stops iOS Safari auto-zooming on focus; taller controls reach 44px+ targets. */
+  .filters input,.filters select{padding:13px 12px;font-size:16px}
+  .hero-search input{font-size:16px}
+  .form-box input,.form-box textarea,.form-box select{font-size:16px}
+  .newsletter input{padding:14px 16px;font-size:16px}
+  .newsletter .btn{padding:13px 22px}
+  .pdf-controls .btn{padding:13px 20px}
+  .site-footer li a{display:inline-block;padding:11px 0}
+  .subject-strip a{padding:11px 16px}
+}
+@media(max-width:520px){
+  /* Stacked hero search: the lone icon would sit on its own line — hide it. */
+  .hero-search .search-ic{display:none}
+  .hero-search .btn{padding:13px 24px}
+  .container{padding:0 16px}
+  main h1{font-size:26px;line-height:1.25}
+  .modal{padding:18px}
+}
+/* Modal close: 44px hit area on every screen. */
+.modal .close{min-width:44px;min-height:44px;padding:8px;line-height:1}
+/* Tablets (761–900px) are touch devices too: same 44px+ controls as phones,
+   but the header stays in its horizontal desktop form above 760px. */
+@media(max-width:900px){
+  .hero-search{align-items:stretch}
+  .hero-search .search-ic{align-self:center}
+  .hero-search .btn{padding:13px 24px}
+  .logo-mark{min-width:44px;width:44px;height:44px}
+  .filters input,.filters select{padding:13px 12px;font-size:16px}
+  .newsletter input{padding:14px 16px;font-size:16px}
+  .newsletter .btn{padding:13px 22px}
+  .pdf-controls .btn{padding:13px 20px}
+  .site-footer li a{display:inline-block;padding:11px 0}
+  .subject-strip a{padding:11px 16px}
+}
+
+.logo-img{height:44px;width:auto;border-radius:50%;vertical-align:middle}
+@media(max-width:520px){.logo-img{height:36px}}
+
+/* Generative-AI answer-first sections (staged 2026-10-26, push-tree only) */
+.answer-first h2{margin-top:28px}.answer-first h2:first-child{margin-top:0}.table-wrap{overflow-x:auto}.board-table{width:100%;border-collapse:collapse;background:#fff}.board-table th,.board-table td{border:1px solid var(--line);padding:10px 12px;text-align:left;font-size:15px}.board-table th{background:#f4f7f5}.updated{color:var(--muted);font-size:14px}
