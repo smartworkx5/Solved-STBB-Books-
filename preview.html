@@ -16,7 +16,7 @@
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header class="site-header"><div class="container header-inner">
-<a class="logo" href="/"><img class="logo-img" src="/assets/images/logo.png" alt="SolvedBooks.pk"><span class="logo-text">Solved Sindh Textbook Board Books</span></a>
+<a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="96" height="96"><span class="logo-text">SolvedBooks.pk</span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
 <a href="/" class="">Home</a><a href="/books.html" class="">Solved Books</a><a href="/blog/" class="">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
@@ -24,18 +24,6 @@
 <main id="main" class="container">
 <p id="preview-loading">Loading book…</p>
 <div id="preview-content" style="display:none">
-<h1 id="preview-title"></h1>
-<div class="preview-meta" id="preview-chips"></div>
-<p class="lead" id="preview-desc"></p>
-<p class="notice"><strong>Disclaimer:</strong> These exercises were solved with the help of AI models, so mistakes are possible. Please check the answers yourself before using them.</p>
-<section class="answer-first">
-<h2>What this solved book covers</h2>
-<p class="lead" id="preview-summary"></p>
-<h2>Chapters covered</h2>
-<div id="preview-chapters"></div>
-<h2>How to use this preview</h2>
-<ol><li>Scroll through the solved exercises in the PDF preview below.</li><li>Use the zoom buttons, or pinch on a phone, to read small writing.</li><li>Study an answer, then write it from memory before moving on.</li></ol>
-</section>
 <div class="pdf-controls"><button class="btn outline" onclick="zoomPDF('preview-pdf-viewer',-1)">− Zoom Out</button><button class="btn outline" onclick="zoomPDF('preview-pdf-viewer',1)">+ Zoom In</button><span>Scroll to read • Pinch or buttons to zoom</span></div>
 <div class="pdf-viewer" id="preview-pdf-viewer"></div>
 <p style="margin-top:18px"><a class="btn outline" href="/books.html">← Back to solved notes</a></p>
@@ -56,21 +44,16 @@ async function initPreview(){
   }
   document.getElementById('preview-content').style.display = 'block';
   const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-  document.getElementById('preview-title').textContent = b.title;
-  document.title = 'Preview — ' + b.title + ' | Solved Sindh Textbook Board Books';
-  document.getElementById('preview-chips').innerHTML = '<span class="chip">' + esc(b.board || '') + '</span> <span class="chip">Class ' + esc(b.cls) + '</span> <span class="chip">' + esc(b.subject) + '</span> <span class="chip">' + esc(b.medium) + ' Medium</span> <span class="chip live">Preview Free</span>';
-  document.getElementById('preview-desc').textContent = b.desc || '';
-  document.getElementById('preview-summary').textContent = 'This page previews the solved exercises for ' + (b.board || '') + ' Class ' + b.cls + ' ' + b.subject + ' (' + b.medium + ' medium), free to read on this website. ' + (b.desc || '') + (b.pages ? ' The preview has ' + b.pages + ' pages.' : '');
-  document.getElementById('preview-chapters').innerHTML = (b.chapters && b.chapters.length) ? '<ul>' + b.chapters.map(c => '<li>' + esc(c) + '</li>').join('') + '</ul>' : '<p>The catalogue does not list chapter headings for this book yet. The preview below still contains its solved exercises; chapter headings will appear here when they are recorded.</p>';
+  document.title = 'Preview — ' + b.title + ' | SolvedBooks.pk';
   renderPDF('/' + b.pdf, 'preview-pdf-viewer');
 }
 document.addEventListener('DOMContentLoaded', initPreview);
 </script>
 <footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><img class="logo-img" src="/assets/images/logo.png" alt="SolvedBooks.pk"> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Prepared by teachers, for students.</p></div>
+<div><a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="96" height="96"> SolvedBooks.pk</a><p>Preview solved books and exercises free on this website — Sindhi, Urdu, English, Arabic, Punjabi and Farsi mediums. Prepared by teachers, for students.</p></div>
 <div><h3>Explore</h3><ul><li><a href="/books.html">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
-</div><p class="copyright">© 2026 Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
+</div><p class="copyright">© 2026 SolvedBooks.pk. Preview free on this website. Textbooks are the property of their respective boards.</p></footer>
 <script src="/assets/js/pdf.min.js"></script>
 <script src="/assets/js/main.js?v=3"></script>
 </body></html>
