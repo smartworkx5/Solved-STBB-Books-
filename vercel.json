@@ -1,6 +1,12 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "has": [{ "type": "host", "value": "solved-stbb-books.vercel.app" }],
+      "destination": "https://solvedbooks.pk/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "solved-stbb-books.vercel.app" }],
       "destination": "https://solvedbooks.pk/:path*",
