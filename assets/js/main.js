@@ -15,6 +15,11 @@ document.addEventListener('DOMContentLoaded', ()=>{
       const badge = document.querySelector('.hero-badge'); if(badge) badge.textContent = heroCopy.badge;
       const h1 = document.querySelector('.hero h1'); if(h1) h1.innerHTML = heroCopy.h1 + '<br><span class="hero-yellow">' + heroCopy.med + '</span>';
     }
+    // Subdomain hero banner: each board subdomain shows its own banner
+    // image; hub + Sindh keep the existing hero-banner.jpg from CSS.
+    const bannerFile = BOARD_BANNER[LOCKED_BOARD];
+    const heroEl = document.querySelector('.hero');
+    if(bannerFile && heroEl) heroEl.style.backgroundImage = "url('/assets/images/covers/" + bannerFile + "')";
     // Header/footer brand text names the locked board, not Sindh — only on
     // pages that actually list books (homepage hero / books grid); the
     // single-book preview page is left alone.
@@ -118,6 +123,13 @@ const BOARD_HERO = {
   'Punjab Curriculum and Textbook Board': {badge: '★ Free Preview · Punjab Curriculum and Textbook Board', h1: 'Free Solved Punjab<br>Curriculum and Textbook Board Books', med: 'Urdu, English, Punjabi, Arabic & Farsi Medium'},
   'Balochistan Textbook Board': {badge: '★ Free Preview · Balochistan Textbook Board', h1: 'Free Solved Balochistan<br>Textbook Board Books', med: 'English & Urdu Medium'},
   'Khyber Pakhtunkhwa Textbooks Board': {badge: '★ Free Preview · Khyber Pakhtunkhwa Textbooks Board', h1: 'Free Solved Khyber Pakhtunkhwa<br>Textbooks Board Books', med: 'English & Urdu Medium'}
+};
+// Homepage hero banner per board (see the subdomain lock above). No Sindh
+// entry: Sindh + hub keep the existing hero-banner.jpg from CSS.
+const BOARD_BANNER = {
+  'Punjab Curriculum and Textbook Board': 'hero-punjab.jpg',
+  'Balochistan Textbook Board': 'hero-balochistan.jpg',
+  'Khyber Pakhtunkhwa Textbooks Board': 'hero-kpk.jpg'
 };
 // Books-page filter state, set once on load (see the books-grid init above).
 let BOOKS_BOARD = '';
