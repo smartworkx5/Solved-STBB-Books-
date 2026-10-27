@@ -322,3 +322,77 @@ img{height:auto}
      cover behaviour, not content overflow; changing it is a design call,
      not a responsiveness fix.
    ============================================================================ */
+
+/* ==========================================================================
+   MOBILE COMPACT PASS — 2026-10-27 (user order, this turn).
+   Phone-only (<=560px). Desktop (>560px) is untouched by every rule below.
+   This SUPERSEDES the earlier >=44px-touch-target preference and the
+   2026-10-27 staged hero polish (cover hero, 44px pills kept): the user
+   explicitly wants SMALL elements, maximum data visible, the hero banner
+   shown COMPLETELY, and 3-column book grids on phones.
+   1) Hero banner shows COMPLETELY: on phones the cover background is
+      replaced by solid green + the full banner artwork as a block BELOW
+      the hero copy (aspect-ratio preserved, never cropped, never overlapped).
+   2) Hero text, search, CTAs and class/board pills shrink.
+   3) Book grids (.featured-grid, .books-grid) are 3 columns at 320-430px,
+      with scaled-down card internals. No single-column book grid on phones.
+   Layout/sizes only: no text, catalogue, PDF or cover file is changed.
+   ========================================================================== */
+@media (max-width: 560px) {
+  /* --- Hero: full banner below the copy, never cropped/overlapped --- */
+  .hero { background: #063E2A; padding: 18px 0 0; }
+  .hero::after { content: ""; display: block; width: 100%; aspect-ratio: 1600/533; background: url('/assets/images/covers/hero-banner.jpg') center/contain no-repeat, #063E2A; }
+  .hero-badge { font-size: 12px; padding: 5px 10px; }
+  .hero h1 { font-size: 20px; line-height: 1.25; margin: 12px 0 10px; }
+  .hero-yellow { font-size: 17px; }
+  .hero-lead { font-size: 13.5px; }
+  .hero-search input { padding: 10px 14px; font-size: 16px; }
+  .hero-search input::placeholder { font-size: 12px; text-overflow: ellipsis; }
+  .hero-search .btn { padding: 10px 16px; font-size: 13.5px; }
+  .hero-cta { margin-top: 12px; gap: 8px; }
+  .hero-cta .btn { padding: 9px 16px; font-size: 13.5px; }
+  /* --- Compact chrome: more data per screen --- */
+  .container { padding: 0 12px; }
+  .logo-text { font-size: 15px; }
+  .logo-img { height: 32px; }
+  .section { padding: 24px 0; }
+  .section h2 { font-size: 22px; }
+  .feat-head { margin-bottom: 14px; }
+  .board-chooser { gap: 6px; margin: 0 0 16px; }
+  .feat-pills { gap: 6px; }
+  .feat-pill { padding: 5px 10px; font-size: 12px; min-height: 0; }
+  .filters { padding: 12px; gap: 8px; }
+  .filters label { font-size: 13px; }
+  /* --- Book grids: 3 columns on phones --- */
+  .grid.featured-grid, .featured-grid, .grid.books-grid, .books-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+  .book-card { min-width: 0; border-radius: 14px; }
+  .book-card .card-body { padding: 8px; gap: 6px; }
+  .book-card .card-body h2, .book-card .card-body h3 { font-size: 12.5px; line-height: 1.3; }
+  .book-card .subj-tag { font-size: 10px; padding: 3px 6px; border-radius: 6px; min-width: 0; max-width: 100%; }
+  .subj-tag svg { width: 10px; height: 10px; }
+  .bk-tags { gap: 4px; }
+  .bk-tag { font-size: 10px; padding: 3px 6px; }
+  .bk-tag svg { display: none; }
+  .bk-board { font-size: 10.5px; }
+  .book-card .card-desc { font-size: 11px; line-height: 1.5; }
+  .book-card .actions { gap: 6px; }
+  .book-card .btn-open { padding: 7px 10px; font-size: 11.5px; }
+  .book-card .btn-open svg { width: 11px; height: 11px; }
+  .bk-better { font-size: 9px; }
+  .bk-better svg { width: 13px; height: 13px; }
+  .live-badge { top: 6px; left: 6px; font-size: 10px; padding: 3px 7px; }
+}
+@media (max-width: 400px) {
+  .hero-search input::placeholder { font-size: 11px; }
+}
+@media (max-width: 360px) {
+  .hero-search input::placeholder { font-size: 10px; }
+  .hero h1 { font-size: 19px; }
+  .hero-yellow { font-size: 16px; }
+  .book-card .card-body h2, .book-card .card-body h3 { font-size: 12px; }
+}
+
+@media (max-width: 330px) {
+  .hero-search input { padding: 10px 12px; }
+  .hero-search input::placeholder { font-size: 9px; }
+}
