@@ -5,6 +5,18 @@ document.addEventListener('DOMContentLoaded', ()=>{
   const navBtn = document.getElementById('nav-toggle');
   const nav = document.getElementById('main-nav');
   if(navBtn && nav){ navBtn.addEventListener('click', ()=>{ nav.classList.toggle('open'); navBtn.setAttribute('aria-expanded', nav.classList.contains('open')); }); }
+  // Modal close button: was onclick="closeModal()" (inline handler); moved
+  // here so a strict CSP without 'unsafe-inline' stays possible.
+  const modalClose = document.querySelector('#book-modal .close');
+  if(modalClose) modalClose.addEventListener('click', closeModal);
+  // Full stylesheet: the head carries only inlined critical CSS on
+  // index/books. Append the full file here, unless this page already
+  // links a stylesheet (preview/blog/about keep their blocking link).
+  if(!document.querySelector('link[href*="style.css"]')){
+    const css = document.createElement('link');
+    css.rel = 'stylesheet'; css.href = '/assets/css/style.css?v=9';
+    document.head.appendChild(css);
+  }
   // Subdomain board lock (see LOCKED_BOARD): fixed board, no other-board
   // selector, own-board hero. Apex is untouched by every line below.
   if(LOCKED_BOARD){
@@ -109,6 +121,27 @@ document.addEventListener('DOMContentLoaded', ()=>{
   // Newsletter (no backend — mailto fallback + success message)
   document.querySelectorAll('.newsletter form').forEach(f=>f.addEventListener('submit', e=>{ e.preventDefault(); const msg=f.parentElement.querySelector('.nl-msg'); if(msg){ msg.textContent='Thanks! You are on the list. New solved notes will be shared here first.'; } f.reset(); }));
 });
+// Card-cover thumbnails: every .jpg cover has a 320px '-t.jpg' twin
+// (see make_thumbs.py). SVGs and non-JPG covers pass through unchanged.
+function thumbCover(cover){
+  if(!cover || !/\.jpg$/i.test(cover)) return cover;
+  return cover.replace(/\.jpg$/i, '-t.jpg');
+}
+// Thumbnail fallback (capture phase: img error events do not bubble).
+// A missing thumbnail falls back to the full cover; if that also fails,
+// the image is hidden — the previous inline-onerror behaviour, now
+// CSP-compatible (no inline handlers anywhere on the card path).
+document.addEventListener('error', (e)=>{
+  const t = e.target;
+  if(!t || t.tagName !== 'IMG') return;
+  const src = t.getAttribute('src') || '';
+  if(/-t\.jpg$/i.test(src) && !t.dataset.fullTried){
+    t.dataset.fullTried = '1';
+    t.src = src.replace(/-t\.jpg$/i, '.jpg');
+  } else if(t.dataset.fullTried){
+    t.style.display = 'none';
+  }
+}, true);
 let BOOKS = [];
 // Subdomain BOARD LOCK (2026-10-27): on a board subdomain the board is
 // FIXED — it overrides ?board= and any user-picked board, on both the
@@ -159,11 +192,11 @@ function cardHTML(b){
   const live = b.status==='live';
   const board = b.board || 'Sindh Textbook Board';
   const boardShort = BOARD_SHORT[board] || board;
-  const cover = subjectCover(b);
+  const cover = thumbCover(subjectCover(b));
   const btn = live ? `<span class="btn-open">${BOOK_IC} Open &rarr;</span>` : `<button class="btn-open" type="button">Notify me</button>`;
   // Hero = user's thumbnail theme image (CSS background, shown in full);
   // the book's own real cover is seated on the scene book's front face.
-  const hero = `<div class="bk-hero"><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy" onerror="this.style.display='none'"></div>`;
+  const hero = `<div class="bk-hero"><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"></div>`;
   const inner = `${hero}<div class="card-body"><h2>${b.title}</h2><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span><span class="bk-tag t-board">${BOOK_IC} ${boardShort}</span></p><div class="actions">${btn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
   if(live) return `<a class="card card-link book-card" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card book-card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
@@ -391,7 +424,7 @@ async function openBook(id){
   const b = books.find(x=>x.id===id); if(!b) return;
   const modal = document.getElementById('book-modal'); const body = document.getElementById('modal-body');
   const chapters = (b.chapters||[]).length ? '<h2>Chapters covered</h2><ul>'+b.chapters.map(c=>'<li>'+c+'</li>').join('')+'</ul>' : '<p>This book is being prepared. Join the list below and we will share it as soon as it is ready.</p>';
-  const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${b.cover}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
+  const coverImg = b.cover ? `<div class="book-stage modal-book"><div class="book3d"><div class="book3d-back"></div><div class="book3d-spine"></div><img class="book3d-front" src="/${thumbCover(b.cover)}" alt="${b.title} — official book cover"><div class="book3d-pages"></div><div class="book3d-shade"></div></div></div>` : '';
   if(b.pdf){
     // Live books open on their own preview page (full-page viewer), not in the modal.
     location.href = '/preview.html?id=' + b.id;
