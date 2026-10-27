@@ -117,7 +117,7 @@ img{height:auto}
    wave). The ONLY dynamic part: each book's own real cover is seated on the
    scene book's front face via a tuned 3D transform. */
 .bk-hero{position:relative;aspect-ratio:1672/941;background:url('/assets/images/covers/thumb-theme.jpg') center/cover no-repeat;overflow:hidden}
-.bk-cover{position:absolute;left:40.35%;top:9.3%;width:33%;height:82.4%;object-fit:fill;transform:perspective(750px) rotateY(5deg) rotate(-1.9deg);filter:drop-shadow(4px 6px 8px rgba(0,40,20,.30));border-radius:2px}
+.bk-cover{position:absolute;left:37.90%;top:10.24%;width:35.04%;height:79.78%;object-fit:fill;transform:perspective(323px) rotateX(0.30deg) rotateY(-21.55deg) rotate(-0.38deg);filter:drop-shadow(4px 6px 8px rgba(0,40,20,.30));border-radius:2px}
 .bk-cover[src$=".svg"]{object-fit:cover}/* SVG subject placeholders (400x300) letterbox under fill; cover seats them fully */
 /* Content section */
 .book-card .card-body{padding:26px 26px 24px;gap:12px;position:relative}
@@ -196,3 +196,129 @@ img{height:auto}
 
 /* Generative-AI answer-first sections (staged 2026-10-26, push-tree only) */
 .answer-first h2{margin-top:28px}.answer-first h2:first-child{margin-top:0}.table-wrap{overflow-x:auto}.board-table{width:100%;border-collapse:collapse;background:#fff}.board-table th,.board-table td{border:1px solid var(--line);padding:10px 12px;text-align:left;font-size:15px}.board-table th{background:#f4f7f5}.updated{color:var(--muted);font-size:14px}
+/* ============================================================================
+   RESPONSIVE RE-AUDIT PATCH — 2026-10-27 (Solved STBB Books / SolvedBooks.pk)
+   AUDIT FILE ONLY. Do NOT append by hand to the live style.css — the
+   coordinator merges this into style.css (after the cover-geometry worker's
+   .bk-cover change lands) so the rules below sit AFTER all existing rules.
+   Every rule is mobile/tablet-scoped or scroll-position-only: desktop layout
+   (1280px screenshot) is unchanged. Verified with headless-Chromium
+   screenshots + element-rect probes at 320/360/390/430/768px, landscape
+   844x390 / 932x430 / 1024x768, and desktop 1280px — see probe-results.json
+   in this same audit folder (before/ vs after/).
+   Baseline note: the "before" run straddled a concurrent worker edit to
+   style.css (06:12 UTC, .bk-cover geometry). The overflow findings below
+   were identical before and after that edit; this patch touches NO
+   .bk-cover / .bk-hero geometry, so it cannot conflict with that work.
+   ============================================================================ */
+
+/* FIX 1 — Board table columns cut off at the right edge on phones.
+   WHERE: books.html + index.html (same .table-wrap > .board-table), at
+   320px (161px of table hidden), 360px (121px hidden), 390px (91px hidden)
+   and 430px (51px hidden). The wrapper already scrolls horizontally
+   (overflow-x:auto), but with no scroll hint the last two columns
+   ("Classes with live books", "Live-book mediums") simply look cropped.
+   FIX: at <=560px force fixed table layout at 100% width so all five
+   columns wrap inside the viewport instead of overflowing it. No swipe
+   needed, no column hidden. At 561px+ the table already fits natively
+   (449px wide vs >=529px wrapper), so nothing changes there. */
+@media (max-width: 560px) {
+  .board-table { table-layout: fixed; width: 100%; }
+  .board-table th,
+  .board-table td {
+    padding: 8px 6px;
+    font-size: 13px;
+    line-height: 1.45;
+    overflow-wrap: break-word;
+    vertical-align: top;
+  }
+  /* Widths tuned so the 3-digit counts NEVER break across lines
+     (a first draft at 38/11/12/15/24 rendered "194" as vertical "1/9/4"
+     in the narrowest 256px books-page wrapper — caught by the after-run
+     screenshot). Only the longest board word ("Pakhtunkhwa") may still
+     break once in that single narrowest case. */
+  .board-table th:nth-child(1),
+  .board-table td:nth-child(1) { width: 34%; }  /* Board (longest names) */
+  .board-table th:nth-child(2),
+  .board-table td:nth-child(2) { width: 15%; }  /* Live books */
+  .board-table th:nth-child(3),
+  .board-table td:nth-child(3) { width: 15%; }  /* Coming soon */
+  .board-table th:nth-child(4),
+  .board-table td:nth-child(4) { width: 14%; }  /* Classes with live books */
+  .board-table th:nth-child(5),
+  .board-table td:nth-child(5) { width: 22%; }  /* Live-book mediums */
+  /* Keep momentum scrolling for any residual overflow on odd devices. */
+  .table-wrap { -webkit-overflow-scrolling: touch; }
+}
+
+/* FIX 2 — Header logo text overflows its own link box by 5px at 768px.
+   WHERE: 768px viewport (tablet), header row: logo link box 312px vs
+   logo text 317px, because the flex item shrinks below its nowrap content
+   (visible only as text touching the nav gap; no page-level overflow).
+   FIX: stop the logo shrinking below content size — BUT ONLY at
+   761–900px. A first version of this rule scoped to <=900px REGRESSED
+   320px books/preview: the long "Solved Sindh Textbook Board Books"
+   brand stopped wrapping and the logo ran 5px past the viewport edge
+   (docW 325 at 320px, caught by the after-run probe). At <=760px the
+   existing header rules already wrap the logo correctly, so this rule
+   must not apply there. The nav already wraps internally (flex-wrap),
+   so nothing is pushed off the right edge at 761–900px either.
+   Desktop (>900px) untouched. */
+@media (min-width: 761px) and (max-width: 900px) {
+  .logo { flex-shrink: 0; }
+}
+
+/* FIX 3 — Hero badge ("Free Preview · Sindh Textbook Board") sits 2px
+   from the container edge at 320px (286px badge in a 288px column).
+   WHERE: homepage hero, 320px only. FIX: slightly smaller badge text
+   and padding at <=360px, giving comfortable side clearance. */
+@media (max-width: 360px) {
+  .hero-badge { font-size: 13px; padding: 6px 12px; }
+}
+
+/* FIX 4 — Hero search placeholder clipped mid-word on small phones.
+   WHERE: homepage hero search, stacked layout at <=520px: the placeholder
+   "Search by class, subject or medium..." (16px) is wider than the
+   252px text area at 320px, so it renders cut off ("...or mediu").
+   The input's own 16px font size is KEPT (dropping below 16px triggers
+   iOS Safari auto-zoom on focus); only the placeholder glyphs shrink,
+   and over-long placeholders end with an ellipsis instead of a mid-word
+   cut. Desktop placeholder already fits, so this only bites at <=360px. */
+@media (max-width: 520px) {
+  .hero-search input::placeholder { text-overflow: ellipsis; }
+}
+@media (max-width: 360px) {
+  .hero-search input::placeholder { font-size: 13.5px; }
+}
+
+/* FIX 5 — Sticky header covers the top of blocks jumped to on phones.
+   WHERE: any scroll-to jump (skip link to #main, scrollIntoView) — the
+   sticky header overlaps the target's top rows (seen in audit
+   screenshots: table header / "Search" label half-hidden under the header
+   after a jump). FIX: scroll margin clears the sticky header. Measured
+   header heights: 69px (desktop + index phone), 93px (768px books),
+   101px (320/360px books/preview, where the long brand wraps to two
+   lines) — so the margin is 112px (tallest header + clearance). Layout
+   is untouched; only the resting scroll position of jumps moves. */
+#main { scroll-margin-top: 112px; }
+.filters,
+.table-wrap { scroll-margin-top: 112px; }
+
+/* ============================================================================
+   DELIBERATELY NOT PATCHED (verified, reported for the record):
+   - Class pills (All + 1–12), board pills, nav menu (open state), book
+     cards, filters, footer, modal (close button 44x44, inside the modal),
+     preview controls and preview viewer at fit-width: all fit inside the
+     viewport at every audited width — probe found zero rect overflow
+     beyond the table in FIX 1 and the 5px logo nit in FIX 2.
+   - Preview "Zoom In": the re-rendered canvas (377px) is wider than the
+     326px viewer at 360px, so the page's right side needs a horizontal
+     swipe INSIDE the viewer (viewer has overflow:auto). That is the
+     viewer's designed zoom behaviour and a JS scale state — no CSS rule
+     can change the zoom level, so it is left alone. Default (fit-width)
+     rendering fits: canvas 302px in a 326px viewer at 360px.
+   - Hero banner image: the right-hand book graphic is sliced by
+     background-size:cover on narrow screens. That is decorative-image
+     cover behaviour, not content overflow; changing it is a design call,
+     not a responsiveness fix.
+   ============================================================================ */
