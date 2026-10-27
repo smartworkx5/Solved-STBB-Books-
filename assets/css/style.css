@@ -370,8 +370,8 @@ img{height:auto}
   .feat-pill { padding: 5px 10px; font-size: 12px; min-height: 0; }
   .filters { padding: 12px; gap: 8px; }
   .filters label { font-size: 13px; }
-  /* --- Book grids: 3 columns on phones --- */
-  .grid.featured-grid, .featured-grid, .grid.books-grid, .books-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+  /* --- Book grids: 2 columns on phones --- */
+  .grid.featured-grid, .featured-grid, .grid.books-grid, .books-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
   .book-card { min-width: 0; border-radius: 14px; }
   .book-card .card-body { padding: 8px; gap: 6px; }
   .book-card .card-body h2, .book-card .card-body h3 { font-size: 12.5px; line-height: 1.3; }

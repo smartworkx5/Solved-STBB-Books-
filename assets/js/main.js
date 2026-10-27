@@ -142,15 +142,17 @@ const BOOK_IC = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" str
 const CAP_IC = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12.4V16c0 1.66 2.69 3 6 3s6-1.34 6-3v-3.6"/><path d="M22 10v6"/></svg>';
 const STAR_IC = '<svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.9 5.87 6.48.94-4.69 4.57 1.11 6.45L12 17.47l-5.8 2.96 1.11-6.45L2.62 9.41l6.48-.94z"/></svg>';
 const SPROUT_IC = '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-7"/><path d="M12 14c0-3.2-2.6-5.4-6.5-5.4 0 3.9 2.6 5.4 6.5 5.4z"/><path d="M12 12.5c0-3.2 2.6-5.4 6.5-5.4 0 3.9-2.6 5.4-6.5 5.4z"/></svg>';
+const BOARD_SHORT = {'Sindh Textbook Board':'Sindh','Punjab Curriculum and Textbook Board':'Punjab','Balochistan Textbook Board':'Balochistan','Khyber Pakhtunkhwa Textbooks Board':'KPK'};
 function cardHTML(b){
   const live = b.status==='live';
-  const slug = subjSlug(b.subject);
+  const board = b.board || 'Sindh Textbook Board';
+  const boardShort = BOARD_SHORT[board] || board;
   const cover = subjectCover(b);
   const btn = live ? `<span class="btn-open">${BOOK_IC} Open &rarr;</span>` : `<button class="btn-open" type="button">Notify me</button>`;
   // Hero = user's thumbnail theme image (CSS background, shown in full);
   // the book's own real cover is seated on the scene book's front face.
   const hero = `<div class="bk-hero"><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy" onerror="this.style.display='none'"></div>`;
-  const inner = `${hero}<div class="card-body"><span class="subj-tag ${slug}">${BOOK_IC} ${b.subject}</span><h2>${b.title}</h2><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span><span class="bk-tag t-board">${BOOK_IC} ${b.board || 'Sindh Textbook Board'}</span></p><p class="bk-board">${b.board || 'Sindh Textbook Board'}</p><p class="card-desc">${b.desc}</p><div class="actions">${btn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
+  const inner = `${hero}<div class="card-body"><h2>${b.title}</h2><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span><span class="bk-tag t-board">${BOOK_IC} ${boardShort}</span></p><div class="actions">${btn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
   if(live) return `<a class="card card-link book-card" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card book-card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
