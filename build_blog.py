@@ -11,7 +11,7 @@ import json
 import os
 from datetime import date
 
-BASE = "https://solved-stbb-books.vercel.app"
+BASE = "https://solvedbooks.pk"
 SITE_DIR = os.path.dirname(os.path.abspath(__file__))
 TODAY = date.today().isoformat()
 
