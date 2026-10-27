@@ -1,4 +1,4 @@
-// Solved Sindh Textbook Board Books — search, filters, FAQ, detail modal
+// SolvedBooks.pk — search, filters, FAQ, detail modal
 // NOTE: website is English-only. No language switcher, no RTL: the whole
 // document always stays LTR so English content is always left-sided.
 document.addEventListener('DOMContentLoaded', ()=>{
@@ -45,23 +45,26 @@ document.addEventListener('DOMContentLoaded', ()=>{
     // lock wins over ?board=; on apex ?board= still applies. The board
     // filter always combines with the active class pill and search text.
     const params0 = new URLSearchParams(location.search);
-    BOOKS_BOARD = LOCKED_BOARD || params0.get('board') || '';
+    // Board param: accept a full board name or a short name (Sindh, Punjab,
+    // Balochistan, KPK / Khyber Pakhtunkhwa) — ?board=Punjab must match the
+    // 209 Punjab books, not zero. On a board subdomain the lock wins.
+    const resolveBoard = (raw)=>{
+      if(!raw) return '';
+      const full = ['Sindh Textbook Board','Punjab Curriculum and Textbook Board','Balochistan Textbook Board','Khyber Pakhtunkhwa Textbooks Board'];
+      if(full.includes(raw)) return raw;
+      const k = raw.trim().toLowerCase();
+      const short = {'sindh':'Sindh Textbook Board','punjab':'Punjab Curriculum and Textbook Board','balochistan':'Balochistan Textbook Board','kpk':'Khyber Pakhtunkhwa Textbooks Board','khyber':'Khyber Pakhtunkhwa Textbooks Board','khyber pakhtunkhwa':'Khyber Pakhtunkhwa Textbooks Board'};
+      return short[k] || raw;
+    };
+    BOOKS_BOARD = LOCKED_BOARD || resolveBoard(params0.get('board')) || '';
     BOOKS_CLASS = params0.get('f-class') || '';
+    // Medium/status survive only as URL deep links (no visible control on
+    // the page anymore); subject is NOT an exact filter anymore — see the
+    // search-box block below (?f-subject= becomes search text, so Social
+    // and Pakistan match by substring instead of matching nothing).
     BOOKS_MEDIUM = params0.get('f-medium') || '';
-    BOOKS_SUBJECT = params0.get('f-subject') || '';
+    BOOKS_SUBJECT = '';
     BOOKS_STATUS = params0.get('f-status') || '';
-    // Keep the existing Board/Class/Medium/Subject/Status <select>s working:
-    // they are still present in books.html, so wire them to the same state.
-    // On a board subdomain the lock still wins over the board select.
-    const syncSel = (id, val)=>{ const el=document.getElementById(id); if(el && val){ const opt=[...el.options].find(o=>o.value===val); if(opt) el.value=val; } };
-    syncSel('f-board', BOOKS_BOARD); syncSel('f-class', BOOKS_CLASS);
-    syncSel('f-medium', BOOKS_MEDIUM); syncSel('f-subject', BOOKS_SUBJECT); syncSel('f-status', BOOKS_STATUS);
-    const bindSel = (id, setter)=>{ const el=document.getElementById(id); if(el){ const h=()=>{ setter(el.value); renderBooks(); }; el.addEventListener('input', h); el.addEventListener('change', h); } };
-    bindSel('f-board', v=>{ if(!LOCKED_BOARD) BOOKS_BOARD = v; });
-    bindSel('f-class', v=>{ BOOKS_CLASS = v; });
-    bindSel('f-medium', v=>{ BOOKS_MEDIUM = v; });
-    bindSel('f-subject', v=>{ BOOKS_SUBJECT = v; });
-    bindSel('f-status', v=>{ BOOKS_STATUS = v; });
     const qEl = document.getElementById('q');
     if(qEl){ if(!qEl.value && params0.get('q')) qEl.value = params0.get('q');
       // Legacy deep link: homepage subject links use ?f-subject=. There is no
@@ -172,7 +175,7 @@ async function renderBooks(){
     return true;
   });
   const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
-  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
+  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class.</p>';
 }
 // PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
 // Sharpness: every page is rendered at CSS size × an output scale derived
