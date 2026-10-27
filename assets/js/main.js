@@ -5,9 +5,68 @@ document.addEventListener('DOMContentLoaded', ()=>{
   const navBtn = document.getElementById('nav-toggle');
   const nav = document.getElementById('main-nav');
   if(navBtn && nav){ navBtn.addEventListener('click', ()=>{ nav.classList.toggle('open'); navBtn.setAttribute('aria-expanded', nav.classList.contains('open')); }); }
+  // Subdomain board lock (see LOCKED_BOARD): fixed board, no other-board
+  // selector, own-board hero. Apex is untouched by every line below.
+  if(LOCKED_BOARD){
+    const chooser = document.querySelector('.board-chooser'); if(chooser) chooser.style.display = 'none';
+    const fBoard = document.getElementById('f-board'); if(fBoard && fBoard.closest('label')) fBoard.closest('label').style.display = 'none';
+    const heroCopy = BOARD_HERO[LOCKED_BOARD];
+    if(heroCopy){
+      const badge = document.querySelector('.hero-badge'); if(badge) badge.textContent = heroCopy.badge;
+      const h1 = document.querySelector('.hero h1'); if(h1) h1.innerHTML = heroCopy.h1 + '<br><span class="hero-yellow">' + heroCopy.med + '</span>';
+    }
+    // Header/footer brand text names the locked board, not Sindh — only on
+    // pages that actually list books (homepage hero / books grid); the
+    // single-book preview page is left alone.
+    if(document.querySelector('.hero, #books-grid')){
+      document.querySelectorAll('.site-header, .site-footer').forEach(el=>{
+        const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+        const nodes = []; while(walker.nextNode()) nodes.push(walker.currentNode);
+        nodes.forEach(n=>{ if(n.nodeValue.includes('Sindh Textbook Board')) n.nodeValue = n.nodeValue.split('Sindh Textbook Board').join(LOCKED_BOARD); });
+      });
+    }
+    // Subdomain homepage: the static featured cards are all Sindh books, so
+    // replace them with this board's own books (live first, up to 12).
+    const featGrid = document.getElementById('featured-grid');
+    if(featGrid){
+      loadBooks().then(books=>{
+        const mine = books.filter(b=>(b.board || 'Sindh Textbook Board') === LOCKED_BOARD);
+        const live = mine.filter(b=>b.status === 'live');
+        const pick = (live.length ? live : mine).slice(0, 12);
+        featGrid.innerHTML = pick.length ? pick.map(cardHTML).join('') : '<p>No solved notes for this board yet.</p>';
+      });
+    }
+  }
   // Catalogue render
   const grid = document.getElementById('books-grid');
-  if(grid){ renderBooks(); ['q','f-board','f-class','f-medium','f-subject','f-status'].forEach(id=>{ const el=document.getElementById(id); if(el) el.addEventListener('input', renderBooks); }); }
+  if(grid){
+    // Books page filters (books.html only): class pills + one search input.
+    // Board is NOT user-editable on the page: on a board subdomain the
+    // lock wins over ?board=; on apex ?board= still applies. The board
+    // filter always combines with the active class pill and search text.
+    const params0 = new URLSearchParams(location.search);
+    BOOKS_BOARD = LOCKED_BOARD || params0.get('board') || '';
+    BOOKS_CLASS = params0.get('f-class') || '';
+    const qEl = document.getElementById('q');
+    if(qEl){ if(!qEl.value && params0.get('q')) qEl.value = params0.get('q');
+      // Legacy deep link: homepage subject links use ?f-subject=. There is no
+      // subject dropdown anymore, so the subject becomes the search text —
+      // search matches title/subject/medium, so the landing stays filtered.
+      if(!qEl.value && params0.get('f-subject')) qEl.value = params0.get('f-subject');
+      qEl.addEventListener('input', renderBooks); }
+    const pills = document.getElementById('class-pills');
+    if(pills){
+      pills.querySelectorAll('.feat-pill').forEach(pl=>{ pl.classList.toggle('active', (pl.dataset.cls || '') === BOOKS_CLASS); });
+      pills.addEventListener('click', e=>{
+        const btn = e.target.closest('.feat-pill'); if(!btn) return;
+        e.preventDefault();
+        BOOKS_CLASS = btn.dataset.cls || '';
+        pills.querySelectorAll('.feat-pill').forEach(pl=>pl.classList.toggle('active', pl === btn));
+        renderBooks();
+      });
+    }
+    renderBooks();
+  }
   const blogSearch = document.getElementById('blog-search');
   if(blogSearch){ const cat=document.getElementById('blog-cat'); const fn=()=>{ const q=blogSearch.value.toLowerCase(); const c=cat?cat.value:''; document.querySelectorAll('#blog-grid .blog-card').forEach(card=>{ const txt=card.textContent.toLowerCase(); const okQ=!q||txt.includes(q); const okC=!c||txt.includes(c.toLowerCase()); card.style.display=(okQ&&okC)?'':'none'; }); }; blogSearch.addEventListener('input',fn); if(cat) cat.addEventListener('change',fn); }
   // Featured class-filter pills (index featured grid + solved page)
@@ -28,6 +87,23 @@ document.addEventListener('DOMContentLoaded', ()=>{
   document.querySelectorAll('.newsletter form').forEach(f=>f.addEventListener('submit', e=>{ e.preventDefault(); const msg=f.parentElement.querySelector('.nl-msg'); if(msg){ msg.textContent='Thanks! You are on the list. New solved notes will be shared here first.'; } f.reset(); }));
 });
 let BOOKS = [];
+// Subdomain BOARD LOCK (2026-10-27): on a board subdomain the board is
+// FIXED — it overrides ?board= and any user-picked board, on both the
+// homepage and the books page. Apex (solvedbooks.pk / www / any other host)
+// has no lock: ?board= and the board chooser work exactly as before.
+const SUBDOMAIN_BOARDS = {'stbb.solvedbooks.pk':'Sindh Textbook Board','pctb.solvedbooks.pk':'Punjab Curriculum and Textbook Board','btbb.solvedbooks.pk':'Balochistan Textbook Board','kptbb.solvedbooks.pk':'Khyber Pakhtunkhwa Textbooks Board'};
+const LOCKED_BOARD = SUBDOMAIN_BOARDS[location.hostname] || '';
+// Homepage hero copy per board (the subdomain hero names its own board;
+// the Sindh entry reproduces the static homepage hero exactly).
+const BOARD_HERO = {
+  'Sindh Textbook Board': {badge: '★ Free Preview · Sindh Textbook Board', h1: 'Free Solved Sindh<br>Textbook Board Books', med: 'Sindhi, Urdu & English Medium'},
+  'Punjab Curriculum and Textbook Board': {badge: '★ Free Preview · Punjab Curriculum and Textbook Board', h1: 'Free Solved Punjab<br>Curriculum and Textbook Board Books', med: 'Urdu, English, Punjabi, Arabic & Farsi Medium'},
+  'Balochistan Textbook Board': {badge: '★ Free Preview · Balochistan Textbook Board', h1: 'Free Solved Balochistan<br>Textbook Board Books', med: 'English & Urdu Medium'},
+  'Khyber Pakhtunkhwa Textbooks Board': {badge: '★ Free Preview · Khyber Pakhtunkhwa Textbooks Board', h1: 'Free Solved Khyber Pakhtunkhwa<br>Textbooks Board Books', med: 'English & Urdu Medium'}
+};
+// Books-page filter state, set once on load (see the books-grid init above).
+let BOOKS_BOARD = '';
+let BOOKS_CLASS = '';
 async function loadBooks(){
   if(BOOKS.length) return BOOKS;
   try{ const r = await fetch('/assets/data/books.json'); BOOKS = await r.json(); }catch(e){ BOOKS = []; }
@@ -63,26 +139,16 @@ async function renderBooks(){
   const params = new URLSearchParams(location.search);
   const q = (document.getElementById('q')?.value || params.get('q') || '').toLowerCase();
   const qc = document.getElementById('q'); if(qc && !qc.value && q) qc.value = q;
-  const fbEl = document.getElementById('f-board'); if(fbEl && !fbEl.value && params.get('board')) fbEl.value = params.get('board');
-  const fcEl = document.getElementById('f-class'); if(fcEl && !fcEl.value && params.get('f-class')) fcEl.value = params.get('f-class');
-  const fmEl = document.getElementById('f-medium'); if(fmEl && !fmEl.value && params.get('f-medium')) fmEl.value = params.get('f-medium');
-  const fsEl = document.getElementById('f-subject'); if(fsEl && !fsEl.value && params.get('f-subject')) fsEl.value = params.get('f-subject');
-  const fb = fbEl?.value || '';
-  const fc = fcEl?.value || '';
-  const fm = fmEl?.value || '';
-  const fs = fsEl?.value || '';
-  const fst = document.getElementById('f-status')?.value || '';
+  const fb = BOOKS_BOARD;
+  const fc = BOOKS_CLASS;
   const filtered = books.filter(b=>{
     if(fb && (b.board || 'Sindh Textbook Board')!==fb) return false;
     if(fc && String(b.cls)!==fc) return false;
-    if(fm && b.medium!==fm) return false;
-    if(fs && b.subject!==fs) return false;
-    if(fst && b.status!==fst) return false;
     if(q && !(b.title+' '+b.subject+' '+b.medium+' Class '+b.cls).toLowerCase().includes(q)) return false;
     return true;
   });
   const count = document.getElementById('books-count'); if(count) count.textContent = filtered.length + ' solved notes found';
-  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class/medium.</p>';
+  grid.innerHTML = filtered.length ? filtered.map(cardHTML).join('') : '<p>No solved notes match your filters. Try clearing the search or choose another class.</p>';
 }
 // PDF.js inline viewer — renders PDF pages as canvases (works on mobile, no browser PDF plugin).
 // Sharpness: every page is rendered at CSS size × an output scale derived
