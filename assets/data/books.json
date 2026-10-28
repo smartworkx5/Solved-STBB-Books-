@@ -9529,5 +9529,35 @@
     "status": "coming-soon",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Urdu (elective), Urdu medium — coming soon. Medium per catalogue, to be confirmed from the book PDF. Listed as Urdu Advance.",
     "chapters": []
+  },
+  {
+    "id": "social-studies-8-si",
+    "title": "Class 8 Social Studies — Solved Exercises (Sindhi Medium)",
+    "cls": 8,
+    "subject": "Social Studies",
+    "medium": "Sindhi",
+    "board": "Sindh Textbook Board",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/Class8-Social-SolvedExercises-Sindhi.pdf",
+    "pages": 79,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Social Studies, Sindhi medium — solved from the official textbook, exam-ready answers.",
+    "chapters": [],
+    "cover": "assets/images/covers/social-studies-8-si.jpg"
+  },
+  {
+    "id": "social-studies-8-ur",
+    "title": "Class 8 Social Studies — Solved Exercises (Urdu Medium)",
+    "cls": 8,
+    "subject": "Social Studies",
+    "medium": "Urdu",
+    "board": "Sindh Textbook Board",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/Class8-Social-SolvedExercises-Urdu.pdf",
+    "pages": 86,
+    "desc": "Complete solved exercises for Sindh Textbook Board Class 8 Social Studies, Urdu medium — solved from the official textbook, exam-ready answers.",
+    "chapters": [],
+    "cover": "assets/images/covers/portal-226.jpg"
   }
 ]
