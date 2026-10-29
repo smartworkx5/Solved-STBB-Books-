@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="698" viewBox="0 0 1000 698">
+<rect width="1000" height="698" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Reading the Pre-Medical Result Honestly</text>
+<rect x="350" y="228" width="300" height="76" rx="14" fill="#0B6B4A"/>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">48.75% full pass</text>
+<line x1="180" y1="236" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="240" height="108" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Registered vs appeared</text>
+<text x="180" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">25,157 registered, 24,544</text>
+<text x="180" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">appeared — 613 did not sit</text>
+<line x1="820" y1="264" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="128" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Full pass only</text>
+<text x="820" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">11,966 passed all six;</text>
+<text x="820" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">partial passes sit outside</text>
+<text x="820" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">the rate</text>
+<line x1="180" y1="484" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="348" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Paper by paper</text>
+<text x="180" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Your own mark sheet, not</text>
+<text x="180" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">the cohort rate, describes</text>
+<text x="180" y="460" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">you</text>
+<line x1="820" y1="484" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="348" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">New 40% bar</text>
+<text x="820" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Below 40% is ungraded, so</text>
+<text x="820" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">the rate is not comparable</text>
+<text x="820" y="460" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">with old years</text>
+<line x1="180" y1="704" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="568" width="240" height="136" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="598" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Marking method</text>
+<text x="180" y="626" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Science optional subjects</text>
+<text x="180" y="653" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">used E-Assessment and</text>
+<text x="180" y="680" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">E-Marking</text>
+</svg>
