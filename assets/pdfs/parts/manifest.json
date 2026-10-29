@@ -748,8 +748,8 @@
   "size": 943954
  },
  "Class6-Arabic-SolvedExercises-Arabic.pdf": {
-  "parts": 63,
-  "size": 279677
+  "parts": 186,
+  "size": 834985
  },
  "Class6-Computer-SolvedExercises-English.pdf": {
   "parts": 41,
@@ -860,8 +860,8 @@
   "size": 1305092
  },
  "Class7-Arabic-SolvedExercises-Arabic.pdf": {
-  "parts": 69,
-  "size": 308127
+  "parts": 165,
+  "size": 739876
  },
  "Class7-Computer-SolvedExercises-English.pdf": {
   "parts": 41,
@@ -964,8 +964,8 @@
   "size": 109337
  },
  "Class8-Arabic-SolvedExercises-Arabic.pdf": {
-  "parts": 59,
-  "size": 261138
+  "parts": 162,
+  "size": 727297
  },
  "Class8-Computer-SolvedExercises-English.pdf": {
   "parts": 40,
@@ -1586,5 +1586,29 @@
  "Class9-10-AsanUrdu-SolvedExercises-Urdu.pdf": {
   "parts": 147,
   "size": 658273
+ },
+ "Class6-Arabic-SolvedExercises-Sindhi.pdf": {
+  "parts": 342,
+  "size": 1537347
+ },
+ "Class6-Arabic-SolvedExercises-Urdu.pdf": {
+  "parts": 416,
+  "size": 1868845
+ },
+ "Class7-Arabic-SolvedExercises-Sindhi.pdf": {
+  "parts": 312,
+  "size": 1402379
+ },
+ "Class7-Arabic-SolvedExercises-Urdu.pdf": {
+  "parts": 378,
+  "size": 1697553
+ },
+ "Class8-Arabic-SolvedExercises-Sindhi.pdf": {
+  "parts": 272,
+  "size": 1223245
+ },
+ "Class8-Arabic-SolvedExercises-Urdu.pdf": {
+  "parts": 319,
+  "size": 1431189
  }
 }
