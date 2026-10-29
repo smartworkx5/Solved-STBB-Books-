@@ -56,6 +56,8 @@ a{color:var(--green)}a:hover{color:var(--green2)}:focus-visible{outline:3px soli
 .live-badge{position:absolute;top:12px;left:12px;background:rgba(255,255,255,.94);color:#0B6B4A;font-size:12px;font-weight:800;padding:5px 11px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;box-shadow:0 2px 8px rgba(0,0,0,.12)}
 .live-badge i{width:7px;height:7px;border-radius:50%;background:#22C55E;display:inline-block;font-style:normal}
 .live-badge.soon{color:#8A5A00}.live-badge.soon i{background:#F59E0B}
+.med-badge{position:absolute;left:2.2%;top:3%;height:17.5%;background:#fff;color:#0B6B4A;font-size:12px;font-weight:800;padding:0 12px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:2;box-sizing:border-box}
+.med-badge i{width:7px;height:7px;border-radius:50%;background:#22C55E;display:inline-block;font-style:normal;flex:none}
 .card-body{padding:18px;display:flex;flex-direction:column;gap:10px;flex:1}
 .subj-tag{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:800;padding:5px 11px;border-radius:8px;width:fit-content;background:#EAF4EF;color:#0B6B4A}
 .subj-tag.sindhi{background:#F3E8FF;color:#7C3AED}.subj-tag.urdu{background:#E9F9EC;color:#0B6B4A}.subj-tag.english{background:#FDE8EF;color:#BE185D}.subj-tag.arabic{background:#E0F2FE;color:#1D4ED8}.subj-tag.math{background:#FFF7CC;color:#92400E}.subj-tag.science{background:#E0F7FA;color:#0E7490}.subj-tag.social-studies{background:#E8EAF6;color:#4338CA}.subj-tag.islamiat{background:#DBEAFE;color:#1E40AF}.subj-tag.mazhabi-taleemat{background:#E0F2F1;color:#00695C}.subj-tag.computer{background:#EDE9FE;color:#5B21B6}.subj-tag.physics{background:#FFEDD5;color:#C2410C}.subj-tag.chemistry{background:#FCE7F3;color:#9D174D}.subj-tag.biology{background:#DCFCE7;color:#15803D}.subj-tag.pakistan-studies{background:#D1FAE5;color:#065F46}
@@ -132,7 +134,7 @@ img{height:auto}
 .bk-tag.t-board{background:#FEF3C7;color:#92400E}
 .bk-board{margin:0;font-size:13px;font-weight:700;color:#475569}
 .book-card .card-desc{font-size:15px;color:#64748B;line-height:1.7;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.book-card .actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.book-card .actions{display:flex;align-items:center;gap:10px;flex-wrap:nowrap}
 .book-card .btn-open{background:linear-gradient(135deg,#00A878,#047857);padding:13px 28px;font-size:15.5px;border-radius:50px;box-shadow:0 12px 30px rgba(0,168,120,.25);border:0;font-family:inherit;cursor:pointer;transition:transform .2s ease,box-shadow .2s ease,background .2s ease}
 .book-card .btn-open:hover{background:linear-gradient(135deg,#00B386,#047857);transform:scale(1.03);box-shadow:0 16px 40px rgba(0,168,120,.35)}
 .book-card .btn-download{padding:11px 26px;font-size:15.5px;border-radius:50px;font-family:inherit}
@@ -385,14 +387,15 @@ img{height:auto}
   .bk-tag svg { display: none; }
   .bk-board { font-size: 10.5px; }
   .book-card .card-desc { font-size: 11px; line-height: 1.5; }
-  .book-card .actions { gap: 6px; }
-  .book-card .btn-open { padding: 7px 10px; font-size: 11.5px; }
+  .book-card .actions { gap: 6px; flex-wrap: nowrap; }
+  .book-card .btn-open { flex: 1 1 0; justify-content: center; min-width: 0; padding: 7px 4px; font-size: 11.5px; white-space: nowrap; }
   .book-card .btn-open svg { width: 11px; height: 11px; }
-  .book-card .btn-download { padding: 5px 8px; font-size: 11.5px; }
+  .book-card .btn-download { flex: 1 1 0; justify-content: center; min-width: 0; padding: 5px 4px; font-size: 11.5px; white-space: nowrap; }
   .book-card .btn-download svg { width: 11px; height: 11px; }
   .bk-better { font-size: 9px; }
   .bk-better svg { width: 13px; height: 13px; }
   .live-badge { top: 6px; left: 6px; font-size: 10px; padding: 3px 7px; }
+  .med-badge { font-size: 10px; padding: 0 8px; }
 }
 @media (max-width: 400px) {
   .hero-search input::placeholder { font-size: 11px; }

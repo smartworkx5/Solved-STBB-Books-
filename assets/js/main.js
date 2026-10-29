@@ -198,8 +198,8 @@ function cardHTML(b){
   const dlbtn = live ? `<span class="btn-download" data-dl="${b.id}" data-pdf="/${b.pdf}" role="button" tabindex="0" aria-label="Download PDF">${DL_IC} Download</span>` : '';
   // Hero = user's thumbnail theme image (CSS background, shown in full);
   // the book's own real cover is seated on the scene book's front face.
-  const hero = `<div class="bk-hero"><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"></div>`;
-  const inner = `${hero}<div class="card-body"><h2>${b.title}</h2><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-med">${STAR_IC} ${b.medium} Medium</span><span class="bk-tag t-board">${BOOK_IC} ${boardShort}</span></p><div class="actions">${btn}${dlbtn}<span class="bk-better">${SPROUT_IC}<span>Better<br>Learning</span></span></div></div>`;
+  const hero = `<div class="bk-hero"><span class="med-badge"><i></i>${b.medium} Medium</span><img class="bk-cover" src="/${cover}" alt="${b.title} — official book cover" loading="lazy"></div>`;
+  const inner = `${hero}<div class="card-body"><h2>${b.title}</h2><p class="bk-tags"><span class="bk-tag t-class">${CAP_IC} Class ${b.cls}</span><span class="bk-tag t-subj">${BOOK_IC} ${b.subject}</span><span class="bk-tag t-board">${BOOK_IC} ${boardShort}</span></p><div class="actions">${btn}${dlbtn}</div></div>`;
   if(live) return `<a class="card card-link book-card" data-id="${b.id}" data-class="${b.cls}" href="/preview.html?id=${b.id}">${inner}</a>`;
   return `<article class="card book-card" data-id="${b.id}" data-class="${b.cls}" onclick="openBook('${b.id}')">${inner}</article>`;
 }
