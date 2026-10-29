@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="452" viewBox="0 0 1000 452">
+<rect width="1000" height="452" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Proverb or Plain Advice: When to Use Each</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Use a proverb when</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Use plain words when</text>
+<rect x="40" y="160" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">The lesson matches the situation</text>
+<text x="60" y="218" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">exactly</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">The situation is new or unusual</text>
+<rect x="40" y="242" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">You want a memorable, mature touch</text>
+<text x="540" y="272" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Clarity matters more than style</text>
+<rect x="40" y="296" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">The reader will recognise the</text>
+<text x="60" y="354" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">saying</text>
+<text x="540" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">The proverb might confuse the</text>
+<text x="540" y="354" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">reader</text>
+<rect x="40" y="378" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="408" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">One proverb fits the paragraph</text>
+<text x="540" y="408" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">You already used a proverb nearby</text>
+</svg>

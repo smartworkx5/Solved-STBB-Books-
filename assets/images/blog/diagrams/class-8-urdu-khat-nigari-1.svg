@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="478" viewBox="0 0 1000 478">
+<rect width="1000" height="478" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Formal Letter or Informal Letter</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Formal letter (rasmi)</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Informal letter (ghair rasmi)</text>
+<rect x="40" y="160" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">To principal, officer, or editor</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">To family, friend, or relative</text>
+<rect x="40" y="214" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Respectful, businesslike tone</text>
+<text x="540" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Warm, personal tone</text>
+<rect x="40" y="268" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Has a subject line and purpose</text>
+<text x="60" y="326" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">first</text>
+<text x="540" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Opens with health and well-being</text>
+<rect x="40" y="350" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Facts in order, polite request</text>
+<text x="540" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Personal news and feelings</text>
+<rect x="40" y="404" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="434" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Respectful sign-off with full name</text>
+<text x="540" y="434" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Warm wishes and first name</text>
+</svg>
