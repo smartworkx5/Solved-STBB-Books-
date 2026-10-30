@@ -964,7 +964,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class9-Math-SolvedExercises-Sindhi.pdf",
-    "pages": 153,
+    "pages": 207,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Math, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-275.jpg"
@@ -979,7 +979,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class9-Math-SolvedExercises-Urdu.pdf",
-    "pages": 162,
+    "pages": 211,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Math, Urdu medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-180.jpg"
@@ -994,7 +994,7 @@
     "type": "solved-notes",
     "status": "live",
     "pdf": "assets/pdfs/Class9-Math-SolvedExercises-English.pdf",
-    "pages": 188,
+    "pages": 260,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Math, English medium — solved from the official textbook, exam-ready answers.",
     "chapters": [],
     "cover": "assets/images/covers/portal-180.jpg"
@@ -9450,7 +9450,7 @@
     "board": "Sindh Textbook Board",
     "type": "solved-notes",
     "status": "live",
-    "pdf": "assets/pdfs/Class9-SindhiLazmi-SolvedExercises-Sindhi.pdf",
+    "pdf": "assets/pdfs/Class10-Sindhi-SolvedExercises-Sindhi.pdf",
     "pages": 93,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 9 Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": []
@@ -9480,7 +9480,7 @@
     "board": "Sindh Textbook Board",
     "type": "solved-notes",
     "status": "live",
-    "pdf": "assets/pdfs/Class10-AsanSindhi-SolvedExercises-Sindhi.pdf",
+    "pdf": "assets/pdfs/Class9-Sindhi-SolvedExercises-Sindhi.pdf",
     "pages": 58,
     "desc": "Complete solved exercises for Sindh Textbook Board Class 10 Asan Sindhi, Sindhi medium — solved from the official textbook, exam-ready answers.",
     "chapters": []
