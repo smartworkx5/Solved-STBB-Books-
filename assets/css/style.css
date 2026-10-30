@@ -236,7 +236,7 @@ img{height:auto}
 .book-card{content-visibility:auto;contain-intrinsic-size:auto 520px}
 .book-card{border-radius:32px;border:1px solid #e5f0eb;box-shadow:0 12px 40px rgba(0,80,60,.1);transition:transform .3s ease,box-shadow .3s ease}
 .book-card:hover{transform:translateY(-6px);box-shadow:0 24px 48px rgba(0,80,60,.16)}
-.bk-hero{position:relative;aspect-ratio:1672/941;background:url('/assets/images/covers/thumb-theme.jpg') center/cover no-repeat;overflow:hidden}
+.bk-hero{position:relative;aspect-ratio:1672/941;background:url('/assets/images/covers/thumb-theme-sm.jpg') center/cover no-repeat;overflow:hidden}
 .bk-cover{position:absolute;left:37.9%;top:10.24%;width:35.04%;height:79.78%;object-fit:cover;transform:perspective(323px) rotateX(.3deg) rotateY(-21.55deg) rotate(-.38deg);filter:drop-shadow(4px 6px 8px rgba(0,40,20,.3));border-radius:2px}
 .bk-cover[src$=".svg"]{object-fit:cover}
 .book-card .card-body{padding:26px 26px 24px;gap:12px;position:relative}
@@ -342,7 +342,7 @@ main h1{font-size:26px;line-height:1.25}
 #main{scroll-margin-top:112px}
 .filters,.table-wrap{scroll-margin-top:112px}
 @media (max-width:560px){
-.hero{background:url('/assets/images/covers/hero-banner.jpg') center/cover no-repeat,#063e2a;padding:18px 0 22px}
+.hero{background:url('/assets/images/covers/hero-banner-mobile.jpg') center/cover no-repeat,#063e2a;padding:18px 0 22px}
 .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(6,62,42,.88) 0,rgba(6,62,42,.7) 55%,rgba(6,62,42,.3) 100%);pointer-events:none}
 .hero .container{position:relative;z-index:1}
 .hero-cta .btn,.hero-search .btn{min-height:44px}
