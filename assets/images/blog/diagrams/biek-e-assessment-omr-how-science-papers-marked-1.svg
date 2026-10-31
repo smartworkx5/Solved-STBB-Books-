@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="676" viewBox="0 0 1000 676">
+<rect width="1000" height="676" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">How an E-Assessed Science Paper Travels</text>
+<rect x="140" y="108" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Student Writes</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Answers written in the hall, including OMR responses where</text>
+<text x="500" y="202" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">used</text>
+<polygon points="500,236 486,258 514,258" fill="#F59E0B"/>
+<rect x="140" y="266" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="298" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Capture</text>
+<text x="500" y="332" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Sheets or scripts are captured electronically for processing</text>
+<polygon points="500,364 486,386 514,386" fill="#F59E0B"/>
+<rect x="140" y="394" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="426" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">E-Marking</text>
+<text x="500" y="460" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Marks are recorded through the electronic marking system</text>
+<polygon points="500,492 486,514 514,514" fill="#F59E0B"/>
+<rect x="140" y="522" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="554" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Result Compiled</text>
+<text x="500" y="588" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Marks are totalled and published through the board&#x27;s result</text>
+<text x="500" y="616" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">channels</text>
+</svg>
