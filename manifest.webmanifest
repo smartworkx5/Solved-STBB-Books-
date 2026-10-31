@@ -1,11 +1,16 @@
 {
-  "name": "Solved Sindh Textbook Board Books",
-  "short_name": "Sindh Textbook Board Solved",
+  "name": "SolvedBooks.pk",
+  "short_name": "SolvedBooks.pk",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0B6B4A",
   "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
     {
       "src": "/favicon.png",
       "sizes": "512x512",
