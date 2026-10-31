@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="698" viewBox="0 0 1000 698">
+<rect width="1000" height="698" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Pakistan and Its Neighbours</text>
+<rect x="350" y="228" width="300" height="76" rx="14" fill="#0B6B4A"/>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Pakistan</text>
+<line x1="180" y1="292" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="240" height="164" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">China</text>
+<text x="180" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">North-east neighbour,</text>
+<text x="180" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">linked by the Karakoram</text>
+<text x="180" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Highway and major trade</text>
+<text x="180" y="267" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">and investment.</text>
+<line x1="820" y1="292" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="128" width="240" height="164" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Afghanistan</text>
+<text x="820" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">North-west neighbour, with</text>
+<text x="820" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">shared languages, trade,</text>
+<text x="820" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">and long human and refugee</text>
+<text x="820" y="267" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">links.</text>
+<line x1="180" y1="512" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="348" width="240" height="164" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="180" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Iran</text>
+<text x="180" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Western neighbour in</text>
+<text x="180" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Balochistan, with historic</text>
+<text x="180" y="460" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">cultural ties and border</text>
+<text x="180" y="487" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">trade.</text>
+<line x1="820" y1="540" x2="500" y2="266" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="700" y="348" width="240" height="192" rx="12" fill="#E7F4EC" stroke="#0B6B4A"/>
+<text x="820" y="378" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0B6B4A" text-anchor="middle">India</text>
+<text x="820" y="406" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">Eastern neighbour, with</text>
+<text x="820" y="433" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">shared history and</text>
+<text x="820" y="460" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">unresolved disputes</text>
+<text x="820" y="487" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">needing peaceful</text>
+<text x="820" y="514" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="middle">settlement.</text>
+</svg>
