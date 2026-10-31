@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510">
+<rect width="1000" height="510" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">The 40 Percent Rule Rolls Forward</text>
+<line x1="70" y1="108" x2="70" y2="476" stroke="#0B6B4A" stroke-width="4"/>
+<circle cx="70" cy="130" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="138" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Before 2026</text>
+<text x="110" y="166" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Pass threshold of 33 percent applied to secondary papers.</text>
+<circle cx="70" cy="222" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="230" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">2026 Annual Exams</text>
+<text x="110" y="258" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Threshold raised to 40 percent; under 40 percent in a paper</text>
+<text x="110" y="286" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">means ungraded.</text>
+<circle cx="70" cy="314" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="322" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Class 9 in 2026</text>
+<text x="110" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">First cohort to sit annual examinations under the 40 percent</text>
+<text x="110" y="378" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">rule.</text>
+<circle cx="70" cy="406" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="414" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Class 10 from 2027</text>
+<text x="110" y="442" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">The same 40 percent rule applies to Class 10 examinations.</text>
+</svg>
