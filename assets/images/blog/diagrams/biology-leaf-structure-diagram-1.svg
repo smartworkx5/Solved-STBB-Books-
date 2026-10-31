@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618">
+<rect width="1000" height="618" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Leaf Cross-Section</text>
+<circle cx="500" cy="238" r="95" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="3"/>
+<text x="500" y="232" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Leaf Cross-</text>
+<text x="500" y="264" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Section</text>
+<line x1="360" y1="182" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Cuticle</text>
+<text x="80" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Waxy waterproof layer that</text>
+<text x="80" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">reduces water loss.</text>
+<line x1="640" y1="182" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Upper Epidermis</text>
+<text x="660" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Transparent protective layer</text>
+<text x="660" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">that lets light through.</text>
+<line x1="360" y1="346" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="278" width="300" height="136" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Palisade Mesophyll</text>
+<text x="80" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Packed cells with many</text>
+<text x="80" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">chloroplasts; main site of</text>
+<text x="80" y="390" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">photosynthesis.</text>
+<line x1="640" y1="332" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Spongy Mesophyll</text>
+<text x="660" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Loose cells with air spaces</text>
+<text x="660" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">for gas diffusion.</text>
+<line x1="360" y1="482" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="428" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="458" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Stoma and Guard Cells</text>
+<text x="80" y="486" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Pore that controls gas</text>
+<text x="80" y="513" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">exchange and water loss.</text>
+<line x1="640" y1="482" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="428" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="458" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Vein</text>
+<text x="660" y="486" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Xylem brings water in; phloem</text>
+<text x="660" y="513" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">carries glucose away.</text>
+</svg>

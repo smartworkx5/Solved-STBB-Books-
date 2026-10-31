@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618">
+<rect width="1000" height="618" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Parts of a Flower</text>
+<circle cx="500" cy="238" r="95" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="3"/>
+<text x="500" y="232" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Flower</text>
+<line x1="360" y1="182" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Sepal</text>
+<text x="80" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Green leaf-like part that</text>
+<text x="80" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">protects the bud.</text>
+<line x1="640" y1="182" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="128" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="158" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Petal</text>
+<text x="660" y="186" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Bright part that attracts</text>
+<text x="660" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">pollinators.</text>
+<line x1="360" y1="332" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Anther</text>
+<text x="80" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Produces pollen grains, the</text>
+<text x="80" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">male cells.</text>
+<line x1="640" y1="332" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="278" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="308" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Filament</text>
+<text x="660" y="336" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Stalk that holds the anther in</text>
+<text x="660" y="363" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">position.</text>
+<line x1="360" y1="482" x2="405" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="60" y="428" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="80" y="458" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Stigma</text>
+<text x="80" y="486" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Sticky surface that catches</text>
+<text x="80" y="513" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">pollen.</text>
+<line x1="640" y1="482" x2="595" y2="238" stroke="#D1D5DB" stroke-width="2"/>
+<rect x="640" y="428" width="300" height="108" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+<text x="660" y="458" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="start">Ovary</text>
+<text x="660" y="486" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">Chamber containing ovules with</text>
+<text x="660" y="513" font-family="Arial, sans-serif" font-size="19" font-weight="normal" fill="#6B7280" text-anchor="start">egg cells.</text>
+</svg>
