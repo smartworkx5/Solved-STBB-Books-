@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="396" viewBox="0 0 1000 396">
+<rect width="1000" height="396" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Temperature Scales at a Glance</text>
+<rect x="40" y="108" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="108" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Celsius</text>
+<text x="740" y="142" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Fahrenheit</text>
+<rect x="40" y="160" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Water freezes: 0</text>
+<text x="540" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Water freezes: 32</text>
+<rect x="40" y="214" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Water boils: 100</text>
+<text x="540" y="244" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Water boils: 212</text>
+<rect x="40" y="268" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">100 degrees in range</text>
+<text x="540" y="298" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">180 degrees in range</text>
+<rect x="40" y="322" width="920" height="54" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="352" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Body temperature: 37</text>
+<text x="540" y="352" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Body temperature: 98.6</text>
+</svg>
