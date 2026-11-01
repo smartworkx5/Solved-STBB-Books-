@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Sign in</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+         margin: 0; background: #f4f6f8; color: #17202a; }
+  main { max-width: 420px; margin: 0 auto; padding: 28px 18px; }
+  .card { background: #fff; border-radius: 12px; padding: 22px 18px;
+          box-shadow: 0 1px 3px rgba(0,0,0,.08); text-align: center; }
+  button { font: inherit; border: 0; border-radius: 10px; cursor: pointer;
+           width: 100%; padding: 14px; margin-top: 14px;
+           background: #fff; color: #3c4043; font-size: 16px;
+           font-weight: 600; border: 1px solid #dadce0; }
+  button:active { opacity: .85; }
+  .hint { color: #5d6d7e; font-size: 14px; line-height: 1.5; }
+  .error { color: #8b1a10; background: #fdecea; border-radius: 8px;
+           padding: 10px 12px; display: none; font-size: 14px;
+           margin-top: 12px; text-align: left; }
+</style>
+</head>
+<body>
+<main>
+  <div class="card">
+    <p class="hint" id="msg">Sign in with your Google account to continue.</p>
+    <div class="error" id="errBox"></div>
+    <button id="btnLogin" style="display:none">Sign in with Google</button>
+  </div>
+</main>
+
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script>
+/*
+ * Sign-in trampoline for the Android app. This page does nothing
+ * except: sign the user in with Google (popup, in the real browser
+ * where Firebase Auth works), then hand the session to the app via
+ * the omrchecker://auth deep link (tokens in the URL fragment).
+ * No user data and no allowlist logic live on this page.
+ */
+(function () {
+  var FIREBASE_CONFIG = {
+    "apiKey": "AIzaSyCghcwbIzXhFPkmguW7oA_j0EoLm41p9Q8",
+    "authDomain": "omr-sheet-checker-91ed6.firebaseapp.com",
+    "projectId": "omr-sheet-checker-91ed6",
+    "storageBucket": "omr-sheet-checker-91ed6.firebasestorage.app",
+    "messagingSenderId": "1028690752294",
+    "appId": "1:1028690752294:android:54d0d48e8f73a5e05387e7"
+  };
+  var msg = document.getElementById("msg");
+  var errBox = document.getElementById("errBox");
+  var btn = document.getElementById("btnLogin");
+  function fail(text) {
+    errBox.style.display = "block";
+    errBox.textContent = text;
+  }
+
+  firebase.initializeApp(FIREBASE_CONFIG);
+  var auth = firebase.auth();
+
+  var handedOff = false;
+  function handOff(user) {
+    if (handedOff || !user) return;
+    handedOff = true;
+    btn.style.display = "none";
+    msg.textContent = "Signing you in…";
+    user.getIdToken().then(function (idToken) {
+      var url = "omrchecker://auth#id_token=" +
+          encodeURIComponent(idToken) +
+          "&refresh_token=" +
+          encodeURIComponent(user.refreshToken || "") +
+          "&uid=" + encodeURIComponent(user.uid) +
+          "&email=" + encodeURIComponent(user.email || "");
+      // If the app does not take over (e.g. this page was opened on
+      // a desktop), this message is what remains on screen.
+      msg.textContent = "You can return to the app now.";
+      window.location.href = url;
+    }).catch(function (e) {
+      handedOff = false;
+      fail("Sign-in failed: " + e.message + " Please try again.");
+      btn.style.display = "block";
+    });
+  }
+
+  auth.onAuthStateChanged(function (user) {
+    if (user) {
+      handOff(user);
+    } else {
+      btn.style.display = "block";
+    }
+  });
+
+  btn.addEventListener("click", function () {
+    errBox.style.display = "none";
+    var provider = new firebase.auth.GoogleAuthProvider();
+    auth.signInWithPopup(provider).then(function (result) {
+      if (result && result.user) handOff(result.user);
+    }).catch(function (e) {
+      if (e && e.code === "auth/popup-closed-by-user") {
+        fail("The sign-in window was closed before finishing. " +
+             "Please try again.");
+      } else {
+        fail("Sign-in failed: " + (e ? e.message : "unknown error"));
+      }
+    });
+  });
+})();
+</script>
+</body>
+</html>
