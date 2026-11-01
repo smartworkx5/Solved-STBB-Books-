@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="434" viewBox="0 0 1000 434">
+<rect width="1000" height="434" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Parallelogram, Rectangle, Rhombus and Square</text>
+<text x="40" y="94" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Compared</text>
+<rect x="40" y="144" width="440" height="52" rx="8" fill="#0B6B4A"/>
+<rect x="520" y="144" width="440" height="52" rx="8" fill="#F59E0B"/>
+<text x="260" y="178" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Parallelogram</text>
+<text x="740" y="178" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1F2937" text-anchor="middle">Square</text>
+<rect x="40" y="196" width="920" height="82" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="226" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Opposite sides parallel and equal</text>
+<text x="540" y="226" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">All sides equal and all angles 90</text>
+<text x="540" y="254" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">degrees</text>
+<rect x="40" y="278" width="920" height="82" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="60" y="308" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Diagonals bisect each other</text>
+<text x="540" y="308" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Diagonals equal, bisect each other</text>
+<text x="540" y="336" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">at 90 degrees</text>
+<rect x="40" y="360" width="920" height="54" fill="#F7FAF8" stroke="#D1D5DB"/>
+<text x="60" y="390" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Opposite angles equal</text>
+<text x="540" y="390" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#1F2937" text-anchor="start">Diagonals bisect the vertex angles</text>
+</svg>
