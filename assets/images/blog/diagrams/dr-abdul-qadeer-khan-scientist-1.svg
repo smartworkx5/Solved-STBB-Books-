@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="602" viewBox="0 0 1000 602">
+<rect width="1000" height="602" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">Dr A. Q. Khan: From Student to Scientist</text>
+<line x1="70" y1="108" x2="70" y2="568" stroke="#0B6B4A" stroke-width="4"/>
+<circle cx="70" cy="130" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="138" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">1936</text>
+<text x="110" y="166" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Born in Bhopal and migrates to Pakistan as a young man.</text>
+<circle cx="70" cy="222" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="230" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">Student years</text>
+<text x="110" y="258" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Studies physics and metallurgy and earns advanced degrees in</text>
+<text x="110" y="286" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Europe.</text>
+<circle cx="70" cy="314" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="322" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">1970s</text>
+<text x="110" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Returns to Pakistan and leads scientific work at Kahuta.</text>
+<circle cx="70" cy="406" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="414" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">1998</text>
+<text x="110" y="442" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Pakistan conducts nuclear tests and he becomes a national</text>
+<text x="110" y="470" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">hero.</text>
+<circle cx="70" cy="498" r="11" fill="#F59E0B" stroke="#0B6B4A" stroke-width="2"/>
+<text x="110" y="506" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1F2937" text-anchor="start">2021</text>
+<text x="110" y="534" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="start">Passes away, remembered as a scientist and patriot.</text>
+</svg>
