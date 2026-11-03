@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="774" viewBox="0 0 1000 774">
+<rect width="1000" height="774" rx="16" fill="#FFFFFF" stroke="#D1D5DB"/>
+<text x="40" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0B6B4A" text-anchor="start">From Slide to Finished Biology Page</text>
+<rect x="140" y="108" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Aim and materials</text>
+<text x="500" y="174" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">One aim sentence and the slide, specimen, or apparatus used</text>
+<polygon points="500,206 486,228 514,228" fill="#F59E0B"/>
+<rect x="140" y="236" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="268" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Prepare and focus</text>
+<text x="500" y="302" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Place the slide, start low power, focus, then increase power</text>
+<polygon points="500,334 486,356 514,356" fill="#F59E0B"/>
+<rect x="140" y="364" width="720" height="124" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="396" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Observe in stages</text>
+<text x="500" y="430" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">General appearance first, then finer structures, in your own</text>
+<text x="500" y="458" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">words</text>
+<polygon points="500,492 486,514 514,514" fill="#F59E0B"/>
+<rect x="140" y="522" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="554" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Draw what you saw</text>
+<text x="500" y="588" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Pencil diagram at a sensible size, roughly true to proportion</text>
+<polygon points="500,620 486,642 514,642" fill="#F59E0B"/>
+<rect x="140" y="650" width="720" height="94" rx="12" fill="#E7F4EC" stroke="#0B6B4A" stroke-width="2"/>
+<text x="500" y="682" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0B6B4A" text-anchor="middle">Label and conclude</text>
+<text x="500" y="716" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#6B7280" text-anchor="middle">Horizontal labels with leader lines, then a clear conclusion</text>
+</svg>
