@@ -5,6 +5,94 @@
       "has": [
         {
           "type": "host",
+          "value": "stbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "stbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "pctb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "pctb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "btbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "btbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "kptbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "kptbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
           "value": "solved-stbb-books.vercel.app"
         }
       ],
