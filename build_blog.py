@@ -240,16 +240,16 @@ def post_html(post, idx, all_posts):
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#0B6B4A">
-<link rel="stylesheet" href="/assets/css/style.css?v=4">
+<link rel="stylesheet" href="/assets/css/style.css?v=13">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header class="site-header"><div class="container header-inner">
-<a class="logo" href="/" aria-label="Solved Sindh Textbook Board Books home"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a>
+<a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="52" height="52" fetchpriority="high"><span class="logo-text">SolvedBooks<em>.pk</em></span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-<a href="/">Home</a><a href="/books.html">Solved Books</a><a href="/blog/" class="active">Blog</a><a href="/about.html">About</a><a href="/contact.html">Contact</a>
+<a href="/" class="">Home</a><a href="/blog/" class="active">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
 </nav></div></header>
 <main id="main" class="container">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>{esc(d['cat'])}</span></nav>
@@ -270,11 +270,11 @@ def post_html(post, idx, all_posts):
 </article>
 </main>
 <footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><span class="logo-mark">S</span> Solved Sindh Textbook Board Books</a><p>Preview solved Sindh Textbook Board books and exercises free on this website — Sindhi, Urdu and English medium. Prepared by teachers, for students.</p></div>
-<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
+<div><a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="52" height="52"> SolvedBooks<em>.pk</em></a><p>Preview solved exercises from all four boards free on this website — Sindhi, Urdu, English, Arabic, Punjabi and Farsi medium. Prepared by teachers, for students.</p></div>
+<div><h3>Explore</h3><ul><li><a href="/#catalogue">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© {TODAY[:4]} Solved Sindh Textbook Board Books. Preview free on this website. Textbooks are the property of the Sindh Textbook Board.</p></footer>
-<script src="/assets/js/main.js"></script>
+<script src="/assets/js/main.js?v=10" defer></script>
 </body></html>
 """
 
@@ -307,14 +307,14 @@ def blog_index_html(posts, page, total_pages):
 <meta property="og:description" content="{len(posts)} free guides for students of all 4 boards: solved exercises, syllabus, paper patterns and study tips.">
 <meta property="og:url" content="{BASE}/blog/"><meta property="og:image" content="{BASE}/assets/images/og.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=4">
+<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=13">
 </head><body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header class="site-header"><div class="container header-inner">
-<a class="logo" href="/"><span class="logo-mark">S</span> SolvedBooks.pk</a>
+<a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="52" height="52" fetchpriority="high"><span class="logo-text">SolvedBooks<em>.pk</em></span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-<a href="/">Home</a><a href="/books.html">Solved Books</a><a href="/blog/" class="active">Blog</a><a href="/about.html">About</a><a href="/contact.html">Contact</a>
+<a href="/" class="">Home</a><a href="/blog/" class="active">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
 </nav></div></header>
 <main id="main" class="container">
 <h1>Blog — Guides for Students of All 4 Boards</h1>
@@ -325,11 +325,11 @@ def blog_index_html(posts, page, total_pages):
 <nav class="pagination" aria-label="Blog pages">{prev_link}<span>Page {page} of {total_pages}</span>{next_link}</nav>
 </main>
 <footer class="site-footer"><div class="container footer-grid">
-<div><a class="logo" href="/"><span class="logo-mark">S</span> SolvedBooks.pk</a><p>Preview solved exercises from all four boards free on this website — Sindhi, Urdu, English, Arabic, Punjabi and Farsi medium. Prepared by teachers, for students.</p></div>
-<div><h3>Explore</h3><ul><li><a href="/books.html">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
+<div><a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="52" height="52"> SolvedBooks<em>.pk</em></a><p>Preview solved exercises from all four boards free on this website — Sindhi, Urdu, English, Arabic, Punjabi and Farsi medium. Prepared by teachers, for students.</p></div>
+<div><h3>Explore</h3><ul><li><a href="/#catalogue">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© {TODAY[:4]} SolvedBooks.pk. Preview free on this website. Textbooks are the property of their respective boards.</p></footer>
-<script src="/assets/js/main.js"></script>
+<script src="/assets/js/main.js?v=10" defer></script>
 </body></html>
 """
 

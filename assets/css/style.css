@@ -306,9 +306,9 @@ main h1{font-size:26px;line-height:1.25}
 .site-footer li a{display:inline-block;padding:11px 0}
 .subject-strip a{padding:11px 16px}
 }
-.logo-img{height:40px;width:40px;object-fit:cover;border-radius:50%;vertical-align:middle}
+.logo-img{height:52px;width:52px;object-fit:cover;border-radius:50%;vertical-align:middle}
 @media(max-width:520px){
-.logo-img{height:36px}
+.logo-img{height:46px;width:46px}
 }
 .answer-first h2{margin-top:28px}
 .answer-first h2:first-child{margin-top:0}
@@ -357,7 +357,7 @@ main h1{font-size:26px;line-height:1.25}
 .hero-cta .btn{padding:9px 16px;font-size:13.5px}
 .container{padding:0 12px}
 .logo-text{font-size:15px}
-.logo-img{height:32px}
+.logo-img{height:42px;width:42px}
 .section{padding:24px 0}
 .section h2{font-size:22px}
 .feat-head{margin-bottom:14px}
@@ -451,7 +451,7 @@ h1{font-family:var(--font-display)}
 .grid.books-grid,.grid.featured-grid{grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:14px}
 .class-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}
 .logo-text{font-size:1.15rem}
-.logo-img{height:36px;width:36px}
+.logo-img{height:46px;width:46px}
 .pv-head{gap:16px;padding:16px}
 .pv-head img{width:88px}
 }
