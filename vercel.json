@@ -12,6 +12,17 @@
       "permanent": true
     },
     {
+      "source": "/blog/",
+      "has": [
+        {
+          "type": "host",
+          "value": "stbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/blog/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
@@ -34,6 +45,17 @@
       "permanent": true
     },
     {
+      "source": "/blog/",
+      "has": [
+        {
+          "type": "host",
+          "value": "pctb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/blog/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
@@ -56,6 +78,17 @@
       "permanent": true
     },
     {
+      "source": "/blog/",
+      "has": [
+        {
+          "type": "host",
+          "value": "btbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/blog/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
@@ -75,6 +108,17 @@
         }
       ],
       "destination": "https://solvedbooks.pk/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
+      "has": [
+        {
+          "type": "host",
+          "value": "kptbb.solvedbooks.pk"
+        }
+      ],
+      "destination": "https://solvedbooks.pk/blog/",
       "permanent": true
     },
     {
