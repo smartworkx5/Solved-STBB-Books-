@@ -7,13 +7,11 @@ Usage:
 Batch files (gen/batch_XXX.py) hold BATCH_XXX = [post dicts]. Required keys:
   slug, title, cat, desc, kw, intro, sections, points, faqs
   sections: 5+ entries {h2, paras:[...], bullets?[...], diagram_spec?{...}}
-  The LAST section must be "AI Help: Muse AI" (standing rule).
   faqs: 4+ {q, a}. points: 4+ key-point strings.
   1-2 sections total carry a diagram_spec (rendered to SVG by diagram_gen).
 
-Validation is strict: word count 700+, FAQs 4+, diagrams 1-2, Muse section
-with exact invite + disclosure lines, internal links only to pages that exist,
-no duplicate slugs. NEVER push if validation fails.
+Validation is strict: word count 700+, FAQs 4+, diagrams 1-2, internal links
+only to pages that exist, no duplicate slugs. NEVER push if validation fails.
 """
 import importlib
 import html as htmlmod
@@ -36,9 +34,6 @@ from diagram_gen import render_diagram  # noqa: E402
 CATS = {"Solved Notes", "Study Tips", "Board & Syllabus", "Subject Guides"}
 STATIC_PAGES = {"/", "/books.html", "/solved.html", "/about.html", "/contact.html",
                 "/privacy.html", "/terms.html", "/blog/"}
-INVITE_LINE = ("Join Muse with invite code LTGSWD — in the Muse app, go to "
-               "Settings > Redeem token and enter the code.")
-DISCLOSURE_LINE = "Disclosure: LTGSWD is the author's Muse invite code."
 
 
 def _texts(p):
@@ -51,6 +46,26 @@ def _texts(p):
     for f in p.get("faqs", []):
         out += [f.get("q", ""), f.get("a", "")]
     return out
+
+
+def _strip_boilerplate(post):
+    """Engine guard (2026-11-04): silently remove any section that carries the
+    Muse invite-code boilerplate (LTGSWD / 'AI Help: Muse AI') from an
+    incoming post before it can reach extra_posts.json. Returns count removed."""
+    secs = post.get("sections", [])
+    if not secs:
+        return 0
+    kept = []
+    removed = 0
+    for s in secs:
+        blob = json.dumps(s, ensure_ascii=False)
+        if "LTGSWD" in blob or "AI Help: Muse AI" in blob:
+            removed += 1
+            continue
+        kept.append(s)
+    if removed:
+        post["sections"] = kept
+    return removed
 
 
 def validate(posts):
@@ -93,18 +108,6 @@ def validate(posts):
         for s in secs:
             if not s.get("h2") or not (s.get("paras") or s.get("bullets")):
                 errors.append(f"{tag}: section needs h2 + paras/bullets: {s.get('h2')!r}")
-        if secs and secs[-1].get("h2") != "AI Help: Muse AI":
-            errors.append(f"{tag}: last section must be 'AI Help: Muse AI'")
-        if secs:
-            muse_text = " ".join(secs[-1].get("paras", []))
-            if INVITE_LINE not in muse_text:
-                errors.append(f"{tag}: Muse section missing exact invite line")
-            if DISCLOSURE_LINE not in muse_text:
-                errors.append(f"{tag}: Muse section missing disclosure line")
-            if "verify against" not in muse_text or "Sindh Textbook Board" not in muse_text:
-                errors.append(f"{tag}: Muse section must tell students to verify against their Sindh Textbook Board book")
-            if "Muse gives official Sindh Textbook Board answers" in muse_text or "Muse provides official Sindh Textbook Board answers" in muse_text:
-                errors.append(f"{tag}: Muse section must not claim official Sindh Textbook Board answers")
         if len(p.get("points", [])) < 4:
             errors.append(f"{tag}: need 4+ key points")
         if len(p.get("faqs", [])) < 4:
@@ -139,6 +142,9 @@ def build(posts):
             print(f"SKIP {p['slug']}: already in extra_posts.json")
             continue
         p = dict(p)
+        _removed = _strip_boilerplate(p)
+        if _removed:
+            print(f"WARNING {p['slug']}: stripped {_removed} boilerplate section(s) containing LTGSWD/AI Help: Muse AI (engine guard)")
         p["thumb"] = save_thumbnail(p)
         di = 0
         for s in p["sections"]:
@@ -154,7 +160,7 @@ def build(posts):
         with open(EXTRA_PATH, "w", encoding="utf-8") as f:
             json.dump(existing, f, ensure_ascii=False, indent=2)
         print(f"Appended {len(new_posts)} posts to extra_posts.json")
-    for script in ("build_blog.py", "build_site.py"):
+    for script in ("build_blog.py",):
         r = subprocess.run([sys.executable, script], cwd=SITE_DIR,
                            capture_output=True, text=True)
         print(r.stdout.strip())
@@ -166,7 +172,7 @@ def build(posts):
 
 def verify(slugs):
     ok = True
-    with open(os.path.join(SITE_DIR, "sitemap.xml"), encoding="utf-8") as f:
+    with open(os.path.join(SITE_DIR, "sitemap-blog.xml"), encoding="utf-8") as f:
         sitemap = f.read()
     with open(os.path.join(SITE_DIR, "blog", "index.html"), encoding="utf-8") as f:
         listing = f.read()
@@ -179,8 +185,6 @@ def verify(slugs):
         checks = [
             (f"/blog/{slug}.html" in sitemap, "sitemap"),
             (".svg" in html, "thumbnail/diagram refs"),
-            ("AI Help: Muse AI" in html, "Muse section"),
-            (htmlmod.escape(INVITE_LINE) in html, "invite line"),
         ]
         for passed, name in checks:
             print(f"{'PASS' if passed else 'FAIL'} {slug}: {name}")

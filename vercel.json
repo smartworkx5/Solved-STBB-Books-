@@ -21,6 +21,1476 @@
       ],
       "destination": "https://solvedbooks.pk/:path*",
       "permanent": true
+    },
+    {
+      "source": "/blog/stbb-class-8-islamiat-solved-exercises-sindhi-medium.html",
+      "destination": "/blog/stbb-class-9-islamiat-solved-exercises-sindhi-medium.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stbb-class-6-islamiat-solved-exercises-sindhi-medium.html",
+      "destination": "/blog/stbb-class-9-islamiat-solved-exercises-sindhi-medium.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stbb-class-8-islamiat-solved-exercises-urdu-medium.html",
+      "destination": "/blog/stbb-class-9-islamiat-solved-exercises-urdu-medium.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stbb-class-6-islamiat-solved-exercises-urdu-medium.html",
+      "destination": "/blog/stbb-class-9-islamiat-solved-exercises-urdu-medium.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-islamiat-important-questions.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-1-2-reading-routine-sindh-textbooks.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-3-4-urdu-sindhi-letter-formation.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/primary-maths-tables-through-play.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/primary-english-vocabulary-daily-words.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-1-4-homework-without-stress.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/primary-science-observation-nature-walk.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-3-4-islamiat-duas-manners.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/primary-storytelling-comprehension.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-4-paragraph-writing-first-steps.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/primary-class-test-confidence-routine.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-math-terms-explained.html",
+      "destination": "/blog/urdu-medium-math-terminology-bridge.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-science-concepts-mother-tongue.html",
+      "destination": "/blog/urdu-medium-science-definitions-writing.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-islamiat-tashreeh-reading.html",
+      "destination": "/blog/urdu-medium-islamiat-arabic-terms-glossary.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-english-vocabulary-bridge.html",
+      "destination": "/blog/urdu-medium-english-translation-practice.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-social-studies-local-examples.html",
+      "destination": "/blog/urdu-medium-social-studies-map-reading.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-answer-writing-structure.html",
+      "destination": "/blog/urdu-medium-exam-answer-presentation.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-urdu-second-language-support.html",
+      "destination": "/blog/urdu-medium-urdu-grammar-tarkeeb.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-biology-terms-glossary.html",
+      "destination": "/blog/urdu-medium-science-definitions-writing.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-medium-exam-urdu-english-word-bank.html",
+      "destination": "/blog/urdu-medium-dictation-spelling-drills.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-science-vocabulary-roots.html",
+      "destination": "/blog/urdu-medium-science-definitions-writing.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-math-word-problem-language.html",
+      "destination": "/blog/urdu-medium-math-terminology-bridge.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-essay-vocabulary-academic.html",
+      "destination": "/blog/urdu-medium-english-translation-practice.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-comprehension-inference-skills.html",
+      "destination": "/blog/urdu-medium-english-translation-practice.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-pakistan-studies-english-terms.html",
+      "destination": "/blog/urdu-medium-social-studies-map-reading.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-islamiat-english-explanations.html",
+      "destination": "/blog/urdu-medium-islamiat-arabic-terms-glossary.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-lab-report-writing.html",
+      "destination": "/blog/urdu-medium-science-definitions-writing.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-presentation-speaking-class.html",
+      "destination": "/blog/urdu-medium-english-translation-practice.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-grammar-tenses-timeline.html",
+      "destination": "/blog/urdu-medium-urdu-grammar-tarkeeb.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-medium-note-taking-cornell.html",
+      "destination": "/blog/urdu-medium-exam-answer-presentation.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-first-year-pre-medical-result-2026-expected.html",
+      "destination": "/blog/biek-part-1-pre-medical-result-2026-waiting-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bise-larkana-class-9-result-2026-next-steps.html",
+      "destination": "/blog/larkana-board-class-9-result-2026-districts-covered.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bise-larkana-11th-class-result-2026-reported.html",
+      "destination": "/blog/bise-larkana-9th-11th-class-result-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hindu-religious-textbooks-grades-3-5-sindh-2026-27.html",
+      "destination": "/blog/sindh-hindu-religious-textbooks-grades-3-5.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-answer-planning-five-minute.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-keyword-underlining-question.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-partial-marks-attempt-every-question.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-answer-layout-headings-margins.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-rough-work-box-method.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-stuck-question-move-on.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-last-ten-minutes-checklist.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-sleep-food-focus-week.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-past-paper-simulation-home.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exam-post-paper-review-learning.html",
+      "destination": "/blog/how-to-avoid-common-exam-mistakes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-ungraded-rule-pre-medical-what-40-percent-means.html",
+      "destination": "/blog/biek-new-grading-system-ungraded-40-percent.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-first-day-class-routines.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-questioning-techniques-participation.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-large-class-management-50-plus.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-feedback-that-improves-work.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-low-cost-teaching-aids.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/parent-helping-child-reading-home.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/parent-teacher-meeting-questions-ask.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/parent-screen-time-study-balance.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-inclusive-classroom-different-learners.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teacher-oral-assessment-speaking-confidence.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/solved-notes-answer-drafting-workflow.html",
+      "destination": "/blog/how-to-make-notes-from-stbb-books.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-solve-islamiat-exercises-stepwise.html",
+      "destination": "/blog/stbb-class-9-islamiat-solved-exercises-sindhi-medium.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-write-answers-urdu-exercises.html",
+      "destination": "/blog/stbb-class-10-urdu-solved-exercises.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-solve-sindhi-exercises-method.html",
+      "destination": "/blog/stbb-class-8-sindhi-solved-exercises.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-solve-english-exercises-comprehension.html",
+      "destination": "/blog/stbb-class-10-english-solved-exercises.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-check-answers-against-textbook.html",
+      "destination": "/blog/how-to-make-notes-from-stbb-books.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-turn-exercises-into-flashcards.html",
+      "destination": "/blog/how-to-make-notes-from-stbb-books.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-solve-math-exercises-showing-steps.html",
+      "destination": "/blog/stbb-class-9-math-solved-exercises-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-solve-science-exercises-diagrams.html",
+      "destination": "/blog/stbb-class-9-science-solved-exercises.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-organise-solved-notes-folder.html",
+      "destination": "/blog/how-to-make-notes-from-stbb-books.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-elimination-technique-wrong-options.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-stem-reading-traps-negatives.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-science-diagram-questions.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-math-estimation-options.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-english-vocabulary-context-clues.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-islamiat-key-term-questions.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-two-statement-reason-questions.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-time-per-question-pacing.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-guessing-vs-skipping-strategy.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mcq-error-log-repeated-mistakes.html",
+      "destination": "/blog/how-to-prepare-mcqs-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-introduction-body-conclusion.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-compare-contrast-structure.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-cause-effect-chains.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-islamiat-evidence-references.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-science-explanation-diagram-combo.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-urdu-mazmoon-expansion.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-quotation-use-sparingly.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-word-limit-planning.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-past-paper-answer-outlines.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-question-conclusion-synthesis.html",
+      "destination": "/blog/how-to-write-perfect-answer-sindh-board.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-pre-engineering-result-lessons-ungraded-40-percent-rule.html",
+      "destination": "/blog/biek-new-grading-system-ungraded-40-percent.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stbb-195-textbooks-2026-27-benazir-bhutto-series.html",
+      "destination": "/blog/stbb-195-titles-benazir-bhutto-textbook-series.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-curriculum-revision-next-academic-year.html",
+      "destination": "/blog/sindh-curriculum-reform-next-academic-year.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-tauheed-risalat-study.html",
+      "destination": "/blog/class-9-islamiat-tawheed-attributes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-aakhirat-accountability.html",
+      "destination": "/blog/class-9-islamiat-akhirah-accountability.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-longer-quran-passages.html",
+      "destination": "/blog/class-9-islamiat-quran-revelation-stages.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-hadith-answers-method.html",
+      "destination": "/blog/class-9-islamiat-hadith-compilation.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-seerat-hijrat-ghazwat.html",
+      "destination": "/blog/class-9-islamiat-seerat-madani-period.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-huqooq-ul-ibad-society.html",
+      "destination": "/blog/class-9-islamiat-islami-akhlaq-society.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-sabr-ikhlas-adl-revision.html",
+      "destination": "/blog/class-9-islamiat-islami-akhlaq-society.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-roza-hajj-worship.html",
+      "destination": "/blog/class-9-islamiat-roza-zakat-rules.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-amr-bil-maroof-community.html",
+      "destination": "/blog/class-9-islamiat-islami-akhlaq-society.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/senior-islamiat-essay-answers-structuring.html",
+      "destination": "/blog/how-to-score-full-marks-islamiat.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-two-subjects-daily.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-weekend-catch-up.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-homework-first-rule.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-exam-countdown-weeks.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-timetable-template-subjects.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-morning-evening-blocks.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-breaks-pomodoro-school.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-tracking-progress-chart.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/study-planner-adjusting-when-behind.html",
+      "destination": "/blog/weekly-study-planner-school-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-pre-engineering-gazette-how-to-read-roll-number.html",
+      "destination": "/blog/biek-pre-engineering-gazette-how-to-read-2026.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-result-announcement-rumour-check-verify.html",
+      "destination": "/blog/biek-karachi-inter-result-2026-how-to-check.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-less-book-burden-creative-study-habits.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-pre-medical-part-1-waiting-study-plan.html",
+      "destination": "/blog/biek-part-1-pre-medical-result-2026-waiting-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-linking-new-facts-known-ideas.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-chunking-long-answers.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-teach-back-method-study.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-mnemonics-science-formulas.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-visual-maps-mind-maps.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-sleep-revision-connection.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-mixed-practice-interleaving.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/memory-weekly-review-ritual.html",
+      "destination": "/blog/spaced-repetition-school-revision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-6-maths-word-problems-daily.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-7-active-passive-voice.html",
+      "destination": "/blog/english-active-passive-voice-method.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-7-direct-indirect-speech.html",
+      "destination": "/blog/english-direct-indirect-speech-rules.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-7-story-writing-structure.html",
+      "destination": "/blog/english-story-writing-plot-structure.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-8-urdu-nazam-tafheem.html",
+      "destination": "/blog/urdu-nazm-theme-imagery-analysis.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-8-urdu-ghazal-introduction.html",
+      "destination": "/blog/urdu-ghazal-sher-meaning-method.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-8-urdu-kahani-tafheem.html",
+      "destination": "/blog/urdu-afsana-story-elements.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-8-urdu-khat-nigari.html",
+      "destination": "/blog/urdu-khat-letter-writing-formats.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-8-urdu-tashreeh-ashaar.html",
+      "destination": "/blog/urdu-tashreeh-ashaar-method.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-8-urdu-imla-durustgi.html",
+      "destination": "/blog/urdu-darust-khat-imsala.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bsek-9th-science-result-2026-partial-papers-next-steps.html",
+      "destination": "/blog/bsek-karachi-class9-science-result-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bsek-9th-science-result-2026-pass-rate-69-percent-explained.html",
+      "destination": "/blog/bsek-karachi-class9-science-result-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-part-1-ungraded-students-next-steps.html",
+      "destination": "/blog/biek-new-grading-system-ungraded-40-percent.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-roll-number-slip-centre-guide.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-urdu-ghazal-tafheem.html",
+      "destination": "/blog/urdu-ghazal-sher-meaning-method.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-urdu-nazam-tashreeh.html",
+      "destination": "/blog/urdu-nazm-theme-imagery-analysis.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-urdu-afsana-khulasa.html",
+      "destination": "/blog/urdu-afsana-story-elements.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-urdu-khutut-nigari.html",
+      "destination": "/blog/urdu-khat-letter-writing-formats.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-urdu-rozmarra-muhavare.html",
+      "destination": "/blog/urdu-muhavare-idioms-daily-use.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/class-10-urdu-imla-qawaid.html",
+      "destination": "/blog/urdu-darust-khat-imsala.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-grammar-harf-tarkeeb.html",
+      "destination": "/blog/urdu-medium-urdu-grammar-tarkeeb.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-ungraded-papers-scrutiny-or-supplementary.html",
+      "destination": "/blog/biek-new-grading-system-ungraded-40-percent.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-four-days-checklist.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hyderabad-inquiry-30-day-report-what-students-should-do.html",
+      "destination": "/blog/bise-hyderabad-result-inquiry-2026-students-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-boards-november-2026-calendar.html",
+      "destination": "/blog/sindh-boards-november-2026-calendar-what-to-watch.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/computer-ms-word-documents-students.html",
+      "destination": "/blog/computer-ms-word-formatting-school.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/computer-powerpoint-class-presentation.html",
+      "destination": "/blog/computer-presentation-design-slides.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/computer-internet-safety-students.html",
+      "destination": "/blog/computer-internet-safety-pupils.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/computer-parts-input-output.html",
+      "destination": "/blog/computer-hardware-input-output-basics.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biology-cell-diagram-labels.html",
+      "destination": "/blog/biology-cell-structure-functions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biology-photosynthesis-diagram.html",
+      "destination": "/blog/biology-photosynthesis-process-steps.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biology-digestive-system-diagram.html",
+      "destination": "/blog/biology-human-digestive-system-journey.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biology-respiratory-system-diagram.html",
+      "destination": "/blog/biology-respiratory-system-breathing.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biology-food-chain-diagram.html",
+      "destination": "/blog/biology-ecosystem-energy-flow.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-supplementary-exams-running-guide-2026.html",
+      "destination": "/blog/biek-supplementary-exams-november-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-supplementary-admit-card-exam-day-rules.html",
+      "destination": "/blog/biek-supplementary-exams-november-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-supplementary-after-last-paper-what-next.html",
+      "destination": "/blog/biek-supplementary-exams-november-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-final-72-hours-plan.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-november-2026-boards-calendar.html",
+      "destination": "/blog/sindh-boards-november-2026-calendar-what-to-watch.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-hindu-religious-books-grades-3-5.html",
+      "destination": "/blog/sindh-hindu-religious-textbooks-grades-3-5.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-speed-velocity-numericals.html",
+      "destination": "/blog/physics-motion-speed-velocity.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-force-mass-acceleration.html",
+      "destination": "/blog/physics-force-newton-laws.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-work-energy-power-numericals.html",
+      "destination": "/blog/physics-work-energy-power.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-pressure-numericals.html",
+      "destination": "/blog/physics-pressure-liquids-gases.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-ohm-law-electricity.html",
+      "destination": "/blog/physics-electricity-current-voltage.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-light-reflection-numericals.html",
+      "destination": "/blog/physics-light-reflection-refraction.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/physics-heat-temperature-conversion.html",
+      "destination": "/blog/physics-heat-temperature-transfer.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chemistry-balancing-equations.html",
+      "destination": "/blog/chemistry-balancing-equations-method.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chemistry-acids-bases-ph.html",
+      "destination": "/blog/chemistry-acids-bases-ph-scale.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chemistry-solutions-concentration.html",
+      "destination": "/blog/chemistry-solutions-concentration-basics.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chemistry-periodic-table-trends.html",
+      "destination": "/blog/chemistry-periodic-table-groups-periods.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chemistry-ionic-covalent-bonding.html",
+      "destination": "/blog/chemistry-chemical-bonding-ionic-covalent.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chemistry-reactions-types-class9.html",
+      "destination": "/blog/chemistry-chemical-reactions-types.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-trigonometry-ratios-intro.html",
+      "destination": "/blog/math-trigonometry-ratios-triangles.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/shaheed-benazirabad-9th-result-after-announcement-guide.html",
+      "destination": "/blog/shaheed-benazirabad-board-9th-class-result-2026-announced.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/benazirabad-9th-science-79-percent-explained.html",
+      "destination": "/blog/shaheed-benazirabad-board-9th-class-result-2026-announced.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-part1-all-groups-stats-explained.html",
+      "destination": "/blog/biek-part-1-all-groups-result-2026-complete-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-40-percent-ungraded-rule-student-guide.html",
+      "destination": "/blog/biek-new-grading-system-ungraded-40-percent.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hyderabad-inquiry-week-two-what-students-should-know.html",
+      "destination": "/blog/bise-hyderabad-result-inquiry-2026-students-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hyderabad-board-delays-certificates-and-results-explained.html",
+      "destination": "/blog/bise-hyderabad-result-inquiry-2026-students-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-exam-day-guide-november-2026.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-boards-result-season-november-2026-roundup.html",
+      "destination": "/blog/sindh-boards-november-2026-calendar-what-to-watch.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-my-school.html",
+      "destination": "/blog/english-essay-my-school.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-importance-education.html",
+      "destination": "/blog/english-essay-importance-education.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-favourite-personality.html",
+      "destination": "/blog/english-essay-quaid-e-azam.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-cleanliness.html",
+      "destination": "/blog/english-essay-pollution.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-science-daily-life.html",
+      "destination": "/blog/english-essay-science-daily-life.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-my-village-city.html",
+      "destination": "/blog/english-essay-my-school.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-sports-health.html",
+      "destination": "/blog/english-essay-sports-health.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-discipline.html",
+      "destination": "/blog/english-essay-discipline.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-aim-in-life.html",
+      "destination": "/blog/english-essay-aim-in-life.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-mazmoon-sindh-culture.html",
+      "destination": "/blog/english-essay-role-of-media.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-mera-school.html",
+      "destination": "/blog/english-essay-my-school.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-taleem-ki-ahmiyat.html",
+      "destination": "/blog/english-essay-importance-education.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-pasandida-shakhs.html",
+      "destination": "/blog/english-essay-quaid-e-azam.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-safai.html",
+      "destination": "/blog/english-essay-pollution.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-science-rozmarra.html",
+      "destination": "/blog/english-essay-science-daily-life.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-mera-sheher.html",
+      "destination": "/blog/english-essay-my-school.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-khel-sehat.html",
+      "destination": "/blog/english-essay-sports-health.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-nazm-o-zabt.html",
+      "destination": "/blog/english-essay-discipline.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-maqsad-zindagi.html",
+      "destination": "/blog/english-essay-aim-in-life.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-mazmoon-qaumi-yakjehti.html",
+      "destination": "/blog/english-essay-role-of-media.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-papers-class10-science.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-papers-class8-practice.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-marking-scheme.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-time-management.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-repeated-questions.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-solved-answers.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-mcq-practice.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-long-questions.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/past-paper-self-assessment.html",
+      "destination": "/blog/past-papers-how-to-use-class9.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class9-physics.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class9-chemistry.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class10-maths.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class10-english.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class9-islamiat.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class8-science.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class10-computer.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class9-biology.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class10-pakistan-studies.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/important-questions-class8-social-studies.html",
+      "destination": "/blog/class-9-islamiat-important-questions.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-exams-begin-tomorrow-guide.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-supplementary-second-week-study-plan.html",
+      "destination": "/blog/biek-supplementary-exams-november-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-supplementary-centres-reporting-rules.html",
+      "destination": "/blog/biek-supplementary-exams-november-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/benazirabad-9th-general-group-guide.html",
+      "destination": "/blog/shaheed-benazirabad-board-9th-class-result-2026-announced.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/benazirabad-9th-result-check-steps.html",
+      "destination": "/blog/shaheed-benazirabad-board-9th-class-result-2026-announced.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-part1-private-candidates-next-steps.html",
+      "destination": "/blog/biek-part-1-all-groups-result-2026-complete-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-part1-small-groups-guide.html",
+      "destination": "/blog/biek-part-1-all-groups-result-2026-complete-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hyderabad-inquiry-what-stays-unchanged.html",
+      "destination": "/blog/bise-hyderabad-result-inquiry-2026-students-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-boards-november-2-roundup.html",
+      "destination": "/blog/sindh-boards-november-2026-calendar-what-to-watch.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stbb-195-titles-how-to-use-books.html",
+      "destination": "/blog/stbb-195-titles-benazir-bhutto-textbook-series.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-physics-class10.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-chemistry-class10.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-biology-class9.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-computer-class9.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-viva-physics-questions.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-viva-chemistry-questions.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-viva-biology-questions.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-diagrams-neat.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-precautions.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/practical-copy-index-format.html",
+      "destination": "/blog/practical-notebook-format-first-page.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/quaid-e-azam-leadership-lessons.html",
+      "destination": "/blog/pakistan-studies-quaid-e-azam-leadership.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/allama-iqbal-vision-students.html",
+      "destination": "/blog/pakistan-studies-allama-iqbal-vision.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-farming-examples.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-weather-examples.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-health-examples.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-transport-examples.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-mobile-phone.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-electricity-home.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-water-purification.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-plants-garden.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/science-in-sports-examples.html",
+      "destination": "/blog/science-in-kitchen-examples.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-exams-begin-today-guide-november-3.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-first-week-papers-plan.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-supplementary-mid-series-revision-plan.html",
+      "destination": "/blog/biek-supplementary-exams-november-2026-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-part1-results-week-one-next-steps.html",
+      "destination": "/blog/biek-part-1-all-groups-result-2026-complete-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/biek-part1-commerce-arts-pass-rates-explained.html",
+      "destination": "/blog/biek-commerce-arts-part1-result-guide-2026.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/benazirabad-9th-result-next-steps-class-10.html",
+      "destination": "/blog/shaheed-benazirabad-board-9th-class-result-2026-announced.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hyderabad-inquiry-report-window-students-guide.html",
+      "destination": "/blog/bise-hyderabad-result-inquiry-2026-students-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-boards-november-3-roundup.html",
+      "destination": "/blog/sindh-boards-november-2026-calendar-what-to-watch.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stbb-curriculum-review-creativity-tolerance-guide.html",
+      "destination": "/blog/sindh-curriculum-reform-next-academic-year.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-money-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-ratio-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-percentage-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-area-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-age-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-speed-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-fraction-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maths-average-word-problems.html",
+      "destination": "/blog/how-to-solve-math-word-problems.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-vocabulary-class6-list.html",
+      "destination": "/blog/english-vocabulary-class9-list.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-vocabulary-class7-list.html",
+      "destination": "/blog/english-vocabulary-class9-list.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-vocabulary-class8-list.html",
+      "destination": "/blog/english-vocabulary-class9-list.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/english-vocabulary-class10-list.html",
+      "destination": "/blog/english-vocabulary-class9-list.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-poetry-shah-latif-intro.html",
+      "destination": "/blog/sindhi-shah-latif-poetry-themes.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-poetry-class8-lessons.html",
+      "destination": "/blog/sindhi-poetry-nazam-tafheem.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindhi-poetry-class9-lessons.html",
+      "destination": "/blog/sindhi-poetry-nazam-tafheem.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-poetry-class9-lessons.html",
+      "destination": "/blog/urdu-poetry-nazam-tafheem.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urdu-poetry-class10-lessons.html",
+      "destination": "/blog/urdu-poetry-nazam-tafheem.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hyderabad-board-inquiry-students-guide-november-2026.html",
+      "destination": "/blog/bise-hyderabad-result-inquiry-2026-students-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sindh-boards-november-2026-roundup.html",
+      "destination": "/blog/sindh-boards-november-2026-calendar-what-to-watch.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/punjab-second-annual-exams-between-papers-routine.html",
+      "destination": "/blog/punjab-second-annual-exams-3-november-2026-final-checklist.html",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-17.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-18.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-19.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-20.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-21.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-22.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-23.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-24.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-25.html",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page-26.html",
+      "destination": "/blog/",
+      "permanent": true
     }
   ],
   "headers": [
