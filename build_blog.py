@@ -217,21 +217,21 @@ def post_html(post, idx, all_posts):
 """
     ld = {"@context": "https://schema.org", "@type": "Article",
           "headline": d["title"], "description": d["desc"], "inLanguage": "en",
-          "author": {"@type": "Organization", "name": "Solved Sindh Textbook Board Books"},
-          "publisher": {"@type": "Organization", "name": "Solved Sindh Textbook Board Books"},
+          "author": {"@type": "Organization", "name": "SolvedBooks.pk"},
+          "publisher": {"@type": "Organization", "name": "SolvedBooks.pk"},
           "datePublished": TODAY, "dateModified": TODAY,
           "mainEntityOfPage": {"@type": "WebPage", "@id": f"{BASE}/blog/{d['slug']}.html"},
           "mainEntity": {"@type": "FAQPage", "mainEntity": faq_json}}
     return f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{esc(d['title'])} | Solved Sindh Textbook Board Books</title>
+<title>{esc(d['title'])} | SolvedBooks.pk</title>
 <meta name="description" content="{esc(d['desc'])}">
 <link rel="canonical" href="{BASE}/blog/{esc(d['slug'])}.html">
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="{esc(d['kw'])}">
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="Solved Sindh Textbook Board Books">
+<meta property="og:site_name" content="SolvedBooks.pk">
 <meta property="og:title" content="{esc(d['title'])}">
 <meta property="og:description" content="{esc(d['desc'])}">
 <meta property="og:url" content="{BASE}/blog/{esc(d['slug'])}.html">
@@ -243,7 +243,7 @@ def post_html(post, idx, all_posts):
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#0B6B4A">
-<link rel="stylesheet" href="/assets/css/style.css?v=13">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="/assets/css/style.css?v=15">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
 <body>
@@ -275,7 +275,7 @@ def post_html(post, idx, all_posts):
 <div><h3>Explore</h3><ul><li><a href="/#catalogue">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© {TODAY[:4]} SolvedBooks.pk. Preview free on this website. Textbooks are the property of their respective boards (STBB, PCTB, BTBB, KPTBB).</p></footer>
-<script src="/assets/js/main.js?v=10" defer></script>
+<script src="/assets/js/main.js?v=11" defer></script>
 </body></html>
 """
 
@@ -288,7 +288,7 @@ def blog_index_html(posts, page, total_pages):
     cards = ""
     for k, p in enumerate(chunk):
         i = len(posts) - (start + k)
-        cards += f"""<article class="card blog-card"><div class="card-cover"><span>{i:02d}</span><small>{esc(p['cat'])}</small></div><div class="card-body"><h3><a href="/blog/{esc(p['slug'])}.html">{esc(p['title'])}</a></h3><p>{esc(p['desc'])}</p><a class="btn small outline" href="/blog/{esc(p['slug'])}.html">Read guide →</a></div></article>\n"""
+        cards += f"""<article class="card blog-card"><div class="card-cover"><span>{i:02d}</span><small>{esc(p['cat'])}</small></div><div class="card-body"><h2><a href="/blog/{esc(p['slug'])}.html">{esc(p['title'])}</a></h2><p>{esc(p['desc'])}</p><a class="btn small outline" href="/blog/{esc(p['slug'])}.html">Read guide →</a></div></article>\n"""
     prev_link = ""
     next_link = ""
     if page > 1:
@@ -296,6 +296,32 @@ def blog_index_html(posts, page, total_pages):
         prev_link = f'<a class="btn outline" href="{prev_href}">← Previous</a>'
     if page < total_pages:
         next_link = f'<a class="btn outline" href="/blog/page-{page+1}.html">Next →</a>'
+    # Index JSON-LD: Organization + WebSite mirror the home page's blocks;
+    # Blog + ItemList describe this listing from the posts' own data only.
+    index_ld = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {"@type": "Organization", "name": "SolvedBooks.pk",
+             "url": f"{BASE}", "logo": f"{BASE}/assets/images/logo.png",
+             "description": "Free solved exercises for Classes 1–12 — Sindh, Punjab, KPK & Balochistan boards, 389 books live in Sindhi, Urdu, English, Arabic, Punjabi & Farsi. Free PDF, no sign-up."},
+            {"@type": "WebSite", "name": "SolvedBooks.pk", "url": f"{BASE}",
+             "inLanguage": ["en", "sd", "ur"],
+             "publisher": {"@type": "Organization", "name": "SolvedBooks.pk"},
+             "potentialAction": {"@type": "SearchAction",
+                                 "target": f"{BASE}/books.html?q={{search_term_string}}",
+                                 "query-input": "required name=search_term_string"}},
+            {"@type": "Blog", "name": "SolvedBooks.pk Blog", "url": f"{BASE}/blog/",
+             "inLanguage": "en",
+             "publisher": {"@type": "Organization", "name": "SolvedBooks.pk"},
+             "mainEntity": {"@type": "ItemList",
+                            "itemListElement": [
+                                {"@type": "ListItem", "position": start + k + 1,
+                                 "url": f"{BASE}/blog/{p['slug']}.html",
+                                 "name": p["title"]}
+                                for k, p in enumerate(chunk)]}},
+        ],
+    }
+    index_ld_json = json.dumps(index_ld, ensure_ascii=False)
     return f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -307,8 +333,13 @@ def blog_index_html(posts, page, total_pages):
 <meta property="og:title" content="Blog — Solved Notes & Exam Guides for All 4 Boards">
 <meta property="og:description" content="{len(posts)} free guides for students of all 4 boards: solved exercises, syllabus, paper patterns and study tips.">
 <meta property="og:url" content="{BASE}/blog/"><meta property="og:image" content="{BASE}/assets/images/og.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Blog — Solved Notes & Exam Guides for All 4 Boards">
+<meta name="twitter:description" content="{len(posts)} free guides for students of all 4 boards: solved exercises, syllabus, paper patterns and study tips.">
+<meta name="twitter:image" content="{BASE}/assets/images/og.svg">
+<script type="application/ld+json">{index_ld_json}</script>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#0B6B4A"><link rel="stylesheet" href="/assets/css/style.css?v=13">
+<meta name="theme-color" content="#0B6B4A"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="/assets/css/style.css?v=15">
 </head><body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header class="site-header"><div class="container header-inner">
@@ -330,7 +361,7 @@ def blog_index_html(posts, page, total_pages):
 <div><h3>Explore</h3><ul><li><a href="/#catalogue">Solved Books</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><h3>Help</h3><ul><li><a href="/contact.html">Contact</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/terms.html">Terms</a></li></ul></div>
 </div><p class="copyright">© {TODAY[:4]} SolvedBooks.pk. Preview free on this website. Textbooks are the property of their respective boards.</p></footer>
-<script src="/assets/js/main.js?v=10" defer></script>
+<script src="/assets/js/main.js?v=11" defer></script>
 </body></html>
 """
 
