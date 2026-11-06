@@ -233,9 +233,6 @@ img{height:auto}
 .newsletter form{flex-direction:column}
 .newsletter .btn{width:100%}
 }
-.book-card{content-visibility:auto;contain-intrinsic-size:auto 520px}
-.book-card{border-radius:32px;border:1px solid #e5f0eb;box-shadow:0 12px 40px rgba(0,80,60,.1);transition:transform .3s ease,box-shadow .3s ease}
-.book-card:hover{transform:translateY(-6px);box-shadow:0 24px 48px rgba(0,80,60,.16)}
 .bk-hero{position:relative;aspect-ratio:1672/941;background:url('/assets/images/covers/thumb-theme-sm.jpg') center/cover no-repeat;overflow:hidden}
 .bk-cover{position:absolute;left:37.9%;top:10.24%;width:35.04%;height:79.78%;object-fit:cover;transform:perspective(323px) rotateX(.3deg) rotateY(-21.55deg) rotate(-.38deg);filter:drop-shadow(4px 6px 8px rgba(0,40,20,.3));border-radius:2px}
 .bk-cover[src$=".svg"]{object-fit:cover}
@@ -469,3 +466,16 @@ h1{font-family:var(--font-display)}
 .btn-success:hover{background:#047857!important;border-color:#047857!important}
 .crumbs{font-size:13px;color:var(--muted);margin:0 0 14px}
 .crumbs a{color:var(--primary);text-decoration:none;font-weight:600}
+
+/* ═══ SB-1 2026-11-06: Arabic-script webfonts (Noto Nastaliq Urdu / Noto Naskh Arabic) + RTL title hardening ═══ */
+.f-ur{font-family:'Noto Nastaliq Urdu','Noto Naskh Arabic',serif}
+.f-ar{font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',serif}
+.f-ur,.f-ar{line-height:2.1}
+[dir="rtl"] .book-title,[dir="rtl"].book-title{text-align:right}
+.book-info{min-width:0}
+.book-title{min-width:0;overflow-wrap:anywhere}
+.book-card .card-body{min-width:0}
+.book-card .card-body h2,.book-card .card-body h3{min-width:0;overflow-wrap:anywhere}
+.pv-head h1{overflow-wrap:anywhere}
+.rtl-ch{line-height:2.1;overflow-wrap:anywhere}
+.home-browse-all{text-align:center;margin:20px 0 4px}
