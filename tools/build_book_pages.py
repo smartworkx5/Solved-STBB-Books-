@@ -28,8 +28,9 @@ from books.json.
 import html
 import json
 import re
+import struct
 import sys
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 SITE = "https://solvedbooks.pk"
@@ -130,7 +131,112 @@ PAGE_STYLE = """<style>
 .link-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px 18px;margin:10px 0 22px;padding:0;list-style:none}
 .link-grid li{font-size:15px}
 .print-note{font-size:13px;color:#666;margin-top:26px}
+main h1{overflow-wrap:anywhere}
 </style>"""
+
+# SB-1 (2026-11-06): medium -> ISO language code for Book JSON-LD / lang attrs.
+LANG_CODE = {
+    "English": "en", "Urdu": "ur", "Sindhi": "sd", "Arabic": "ar",
+    "Pashto": "ps", "Punjabi": "pa", "Farsi": "fa", "Persian": "fa",
+    "Dari": "prs", "Hindko": "hno", "Khowar": "khw", "Seraiki": "skr",
+}
+# Mediums written in Arabic-based scripts -> webfont utility class (style.css).
+RTL_FONT_CLASS = {
+    "Urdu": "f-ur", "Sindhi": "f-ur", "Pashto": "f-ur", "Dari": "f-ur",
+    "Hindko": "f-ur", "Seraiki": "f-ur", "Khowar": "f-ur",
+    "Arabic": "f-ar", "Farsi": "f-ar", "Persian": "f-ar",
+}
+ARABIC_SCRIPT = re.compile(r"[\u0600-\u06FF]")
+
+
+def _image_size(path):
+    """(width, height) of a JPEG/PNG/GIF/SVG read from its header bytes,
+    with no external dependencies; None when unreadable or unknown."""
+    try:
+        with open(path, "rb") as fh:
+            head = fh.read(256 * 1024)
+    except OSError:
+        return None
+    if head[:8] == b"\x89PNG\r\n\x1a\n" and len(head) >= 24:
+        return struct.unpack(">II", head[16:24])
+    if head[:6] in (b"GIF87a", b"GIF89a") and len(head) >= 10:
+        return struct.unpack("<HH", head[6:10])
+    if head[:2] == b"\xff\xd8":  # JPEG: walk segments to a SOF marker
+        i = 2
+        while i + 9 < len(head):
+            if head[i] != 0xFF:
+                i += 1
+                continue
+            marker = head[i + 1]
+            if marker in (0xC0, 0xC1, 0xC2):
+                h, w = struct.unpack(">HH", head[i + 5:i + 9])
+                return (w, h)
+            if marker in (0xD8, 0xD9) or 0xD0 <= marker <= 0xD7:
+                i += 2
+                continue
+            i += 2 + struct.unpack(">H", head[i + 2:i + 4])[0]
+        return None
+    if head[:4] == b"<svg" or head[:5] == b"<?xml":
+        text = head.decode("utf-8", "ignore")
+        m = re.search(r'viewBox="[\d.]+ [\d.]+ ([\d.]+) ([\d.]+)"', text)
+        if m:
+            return (int(float(m.group(1))), int(float(m.group(2))))
+        m = re.search(r'<svg[^>]*\bwidth="(\d+)"[^>]*\bheight="(\d+)"', text)
+        if m:
+            return (int(m.group(1)), int(m.group(2)))
+    return None
+
+
+_COVER_DIM_CACHE = {}
+
+
+def cover_dims(root, cover, dominant):
+    """Actual cover dimensions when the file is readable locally, else the
+    catalogue's dominant cover size (77 covers live only in the repo)."""
+    key = str(cover)
+    if key not in _COVER_DIM_CACHE:
+        size = _image_size(root / str(cover).lstrip("/"))
+        _COVER_DIM_CACHE[key] = size or dominant
+    return _COVER_DIM_CACHE[key]
+
+
+def dominant_cover_size(root, books):
+    counts = Counter()
+    for b in books:
+        if b.get("cover"):
+            size = _image_size(root / str(b["cover"]).lstrip("/"))
+            if size:
+                counts[size] += 1
+    return counts.most_common(1)[0][0] if counts else (935, 1210)
+
+
+def class_label(book):
+    """Class text for titles: combined-class books carry 'Class 9–10' /
+    'Class 11–12' in their entry title while cls holds only the first
+    class — the entry title's own label is the truthful one."""
+    m = re.match(r"Class ([\d]+(?:[–\-][\d]+)?)", str(book.get("title", "")))
+    if m:
+        return m.group(1).replace("-", "–")
+    return str(book["cls"])
+
+
+def title_base_for(book):
+    return (f"Class {class_label(book)} {book['subject']} Solved Exercises "
+            f"— {book['medium']} Medium")
+
+
+def title_attrs(book):
+    """lang/dir/font attributes for title elements. dir="rtl" + the script
+    font class are added when the title text itself is Arabic-script; the
+    lang attribute is set for every RTL-medium book either way (current
+    catalogue titles are Latin transliterations, where dir=rtl would
+    misplace punctuation)."""
+    medium = book.get("medium")
+    lang = LANG_CODE.get(medium)
+    attrs = f' lang="{lang}"' if lang else ""
+    if medium in RTL_FONT_CLASS and ARABIC_SCRIPT.search(str(book.get("title", ""))):
+        attrs += f' dir="rtl" class="{RTL_FONT_CLASS[medium]}"'
+    return attrs
 
 
 def slugify(text):
@@ -279,6 +385,26 @@ def breadcrumb_jsonld(items):
             + json.dumps(data, ensure_ascii=False) + "</script>")
 
 
+def book_jsonld(book, url):
+    """schema.org Book for this entry — only facts present in books.json."""
+    data = {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": book["title"],
+        "author": {"@type": "Organization", "name": book["board"]},
+        "url": SITE + url,
+    }
+    if book.get("cover"):
+        data["image"] = SITE + "/" + str(book["cover"]).lstrip("/")
+    lang = LANG_CODE.get(book.get("medium"))
+    if lang:
+        data["inLanguage"] = lang
+    if book.get("pages"):
+        data["numberOfPages"] = book["pages"]
+    return ('<script type="application/ld+json">'
+            + json.dumps(data, ensure_ascii=False) + "</script>")
+
+
 def build_book_page(book, url, ctx):
     header, footer, head_bits, main_js = ctx["header"], ctx["footer"], ctx["head_bits"], ctx["main_js"]
     board = book["board"]
@@ -286,7 +412,12 @@ def build_book_page(book, url, ctx):
     cls = book["cls"]
     board_hub = f"/boards/{bslug}.html"
     class_hub = f"/boards/{bslug}/class-{cls}.html"
-    title_tag = f"{book['title']} — Free Solved Notes PDF | SolvedBooks.pk"
+    # SB-1: short, field-built title; board short name appended only where
+    # the (class, subject, medium) triple collides across boards.
+    title_base = title_base_for(book)
+    title_tag = f"{title_base} | SolvedBooks.pk"
+    if ctx["title_counts"].get(title_base, 0) > 1:
+        title_tag = f"{title_base} ({BOARD_SHORT[board]}) | SolvedBooks.pk"
     description = meta_description(book["desc"])
     pages = book.get("pages")
     chapters = [c for c in (book.get("chapters") or []) if str(c).strip()]
@@ -313,8 +444,21 @@ def build_book_page(book, url, ctx):
 
     chapters_html = ""
     if chapters:
-        items = "".join(f"<li>{esc(c)}</li>" for c in chapters)
-        chapters_html = f"<h2>Chapters covered</h2>\n<ul>{items}</ul>\n"
+        font_cls = RTL_FONT_CLASS.get(book.get("medium"), "f-ur")
+
+        def chapter_item(c):
+            if ARABIC_SCRIPT.search(str(c)):
+                return (f'<li dir="rtl" class="{font_cls} rtl-ch">'
+                        f'{esc(c)}</li>')
+            return f"<li>{esc(c)}</li>"
+
+        items = "".join(chapter_item(c) for c in chapters)
+        # dir=rtl on the list itself keeps ::marker boxes inside the padded
+        # inline-start side; RTL items in an LTR list overflow the page.
+        ul_attrs = (' dir="rtl"' if any(ARABIC_SCRIPT.search(str(c))
+                                        for c in chapters) else "")
+        chapters_html = (f"<h2>Chapters covered</h2>\n"
+                         f"<ul{ul_attrs}>{items}</ul>\n")
 
     # Per-book FAQ — every answer is built from this book's own data.
     faq = [
@@ -381,20 +525,23 @@ def build_book_page(book, url, ctx):
         '<p class="crumbs"><a href="/">Home</a> &rsaquo; '
         f'<a href="{board_hub}">{esc(board)}</a> &rsaquo; '
         f'<a href="{class_hub}">Class {cls}</a> &rsaquo; '
-        f'<span>{esc(book["title"])}</span></p>')
+        f'<span{title_attrs(book)}>{esc(book["title"])}</span></p>')
     jsonld = breadcrumb_jsonld([
         ("Home", "/"),
         (board, board_hub),
         (f"Class {cls}", class_hub),
         (book["title"], url),
     ])
+    jsonld_book = book_jsonld(book, url)
+    cover_w, cover_h = cover_dims(ctx["root"], book.get("cover"),
+                                  ctx["dominant_cover"])
 
     body = f"""{header}
 <main id="main" class="container">
 {crumbs}
-<h1>{esc(book['title'])}</h1>
+<h1{title_attrs(book)}>{esc(book['title'])}</h1>
 <div class="book-facts">{facts_html}</div>
-<p><img class="book-cover" src="/{esc(str(book['cover']).lstrip('/'))}" alt="{esc(book['title'])} — {esc(board)} Class {cls} {esc(book['subject'])} solved exercises, {esc(book['medium'])} medium book cover"></p>
+<p><img class="book-cover" src="/{esc(str(book['cover']).lstrip('/'))}" width="{cover_w}" height="{cover_h}" fetchpriority="high" alt="{esc(book['title'])} — {esc(board)} Class {cls} {esc(book['subject'])} solved exercises, {esc(book['medium'])} medium book cover"></p>
 <p>{esc(book['desc'])}</p>
 <div class="book-actions"><a class="btn" href="/preview.html?id={esc(book['id'])}">Read online</a><a class="btn secondary" href="/{esc(str(book['pdf']).lstrip('/'))}" download>Download PDF</a></div>
 {chapters_html}<h2>What's inside</h2>
@@ -405,6 +552,7 @@ def build_book_page(book, url, ctx):
 {footer}
 {main_js}
 {jsonld}
+{jsonld_book}
 </body></html>
 """
     return page_head(title_tag, description, url, head_bits,
@@ -609,11 +757,16 @@ def main():
     assert "SolvedBooks.pk" in footer
     assert "Textbooks are the property of their respective boards." in footer
 
+    title_counts = Counter(title_base_for(b) for b in live)
+
     ctx = {
         "all": books, "live": live, "urls": urls,
         "by_board_class": by_board_class,
         "header": header, "footer": footer,
         "head_bits": head_bits, "main_js": main_js,
+        "root": root,
+        "dominant_cover": dominant_cover_size(root, books),
+        "title_counts": title_counts,
     }
 
     # 1) Book pages
