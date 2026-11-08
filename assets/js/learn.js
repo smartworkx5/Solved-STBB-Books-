@@ -72,47 +72,94 @@
     });
   }
 
-  /* ---------- book view: chapters + notes / mcq practice ---------- */
-  var quiz = null;
-  function chapterButtons(book, learn, activeIdx) {
-    var chapters = (learn && learn.chapters && learn.chapters.length) ? learn.chapters : (book.chapters || []).map(function (t) { return { title: t, notes_html: "", mcqs: [] }; });
-    if (!chapters.length) return { html: '<p class="empty-note">Chapters for this book are coming soon.</p>', chapters: [] };
-    var html = '<div class="chapter-list">' + chapters.map(function (ch, i) {
-      var has = MODE === "notes" ? !!ch.notes_html : (ch.mcqs && ch.mcqs.length > 0);
-      return '<button type="button" class="chapter-btn' + (i === activeIdx ? " active" : "") + '" data-ch="' + i + '"><span class="chapter-num">' + (i + 1) + '</span><span class="chapter-name">' + esc(ch.title) + '</span>' + (has ? '' : '<span class="chapter-soon">Coming soon</span>') + '</button>';
-    }).join("") + '</div>';
-    return { html: html, chapters: chapters };
+  /* ---------- book view: units -> lessons -> notes / mcq practice ---------- */
+  var BOOK = null, UNITS = [], quiz = null;
+  function unitsOf(book, learn) {
+    if (learn && learn.chapters && learn.chapters.length) return learn.chapters;
+    return (book.chapters || []).map(function (t) { return { title: t, notes_html: "", mcqs: [] }; });
   }
-  function openChapter(book, chapters, idx) {
-    var ch = chapters[idx]; if (!ch) return;
-    Array.prototype.forEach.call(document.querySelectorAll(".chapter-btn"), function (b) {
-      b.classList.toggle("active", Number(b.getAttribute("data-ch")) === idx);
-    });
-    var url = new URL(location.href); url.searchParams.set("ch", idx + 1);
+  function lessonsOf(unit) {
+    if (unit.lessons && unit.lessons.length) return unit.lessons;
+    if (unit.notes_html || (unit.mcqs && unit.mcqs.length)) return [{ title: unit.title, notes_html: unit.notes_html || "", mcqs: unit.mcqs || [] }];
+    return [];
+  }
+  function lessonHas(lesson) { return MODE === "notes" ? !!lesson.notes_html : !!(lesson.mcqs && lesson.mcqs.length); }
+  function setParam(k, v) {
+    var url = new URL(location.href);
+    if (v == null) url.searchParams.delete(k); else url.searchParams.set(k, v);
     history.replaceState(null, "", url);
-    var box = $("#learn-content");
-    if (MODE === "notes") {
-      box.innerHTML = ch.notes_html
-        ? '<article class="easy-notes" dir="auto">' + ch.notes_html + '</article>'
-        : '<p class="empty-note">Easy Notes for this chapter are coming soon.</p>';
-    } else {
-      if (ch.mcqs && ch.mcqs.length) { startQuiz(ch); }
-      else { quiz = null; box.innerHTML = '<p class="empty-note">MCQs for this chapter are coming soon.</p>'; }
+  }
+  function showUnits() {
+    setParam("u", null); setParam("l", null); setParam("ch", null);
+    var box = $("#chapter-list"), content = $("#learn-content");
+    content.innerHTML = "";
+    if (!UNITS.length) { box.innerHTML = '<p class="empty-note">Chapters for this book are coming soon.</p>'; return; }
+    box.innerHTML = '<h2 class="learn-sec-title">' + (MODE === "notes" ? "Units — select a unit" : "Units — select a unit") + '</h2><div class="chapter-list">' + UNITS.map(function (u, i) {
+      var ls = lessonsOf(u);
+      var ready = ls.filter(lessonHas).length;
+      return '<button type="button" class="chapter-btn" data-unit="' + i + '"><span class="chapter-num">' + (i + 1) + '</span><span class="chapter-name">' + esc(u.title) + '</span><span class="chapter-lessons">' + ls.length + (ls.length === 1 ? ' lesson' : ' lessons') + (ready && ready < ls.length ? ' · ' + ready + ' ready' : '') + '</span>' + (ls.length && !ready ? '<span class="chapter-soon">Coming soon</span>' : '') + '</button>';
+    }).join("") + '</div>';
+    Array.prototype.forEach.call(box.querySelectorAll(".chapter-btn"), function (b) {
+      b.addEventListener("click", function () { showLessons(Number(b.getAttribute("data-unit"))); });
+    });
+  }
+  function showLessons(ui) {
+    setParam("u", ui + 1); setParam("l", null);
+    var unit = UNITS[ui], lessons = lessonsOf(unit);
+    var box = $("#chapter-list"), content = $("#learn-content");
+    content.innerHTML = "";
+    var back = '<button type="button" class="learn-back" id="back-units">&larr; All Units</button>';
+    if (!lessons.length) { box.innerHTML = back + '<p class="empty-note">Lessons for this unit are coming soon.</p>'; }
+    else {
+      box.innerHTML = back + '<h2 class="learn-sec-title">' + esc(unit.title) + '</h2><div class="chapter-list">' + lessons.map(function (l, i) {
+        return '<button type="button" class="chapter-btn" data-lesson="' + i + '"><span class="chapter-num">' + (i + 1) + '</span><span class="chapter-name">' + esc(l.title) + '</span>' + (lessonHas(l) ? '' : '<span class="chapter-soon">Coming soon</span>') + '</button>';
+      }).join("") + '</div>';
+      Array.prototype.forEach.call(box.querySelectorAll(".chapter-btn"), function (b) {
+        b.addEventListener("click", function () { openLesson(ui, Number(b.getAttribute("data-lesson"))); });
+      });
     }
-    box.scrollIntoView({ behavior: "smooth", block: "start" });
+    var bk = document.getElementById("back-units");
+    if (bk) bk.addEventListener("click", showUnits);
   }
-  function startQuiz(ch) {
-    quiz = { list: ch.mcqs, i: 0, score: 0, locked: false, title: ch.title };
-    renderQuestion();
+  function openLesson(ui, li) {
+    setParam("u", ui + 1); setParam("l", li + 1);
+    var unit = UNITS[ui], lessons = lessonsOf(unit), lesson = lessons[li];
+    var box = $("#chapter-list"), content = $("#learn-content");
+    box.innerHTML = '<button type="button" class="learn-back" id="back-lessons">&larr; Lessons of this unit</button>' +
+      '<h2 class="learn-sec-title">' + esc(lesson.title) + '</h2>';
+    document.getElementById("back-lessons").addEventListener("click", function () { showLessons(ui); });
+    if (MODE === "notes") {
+      var nav = '<div class="lesson-nav">' +
+        (li > 0 ? '<button type="button" class="btn btn-ghost2" id="prev-lesson">&larr; Previous Lesson</button>' : '<span></span>') +
+        (li < lessons.length - 1 ? '<button type="button" class="btn btn-primary" id="next-lesson">Next Lesson &rarr;</button>' : '') + '</div>';
+      content.innerHTML = lesson.notes_html
+        ? '<article class="easy-notes" dir="auto">' + lesson.notes_html + '</article>' + nav
+        : '<p class="empty-note">Easy Notes for this lesson are coming soon.</p>';
+      var pv = document.getElementById("prev-lesson"), nx = document.getElementById("next-lesson");
+      if (pv) pv.addEventListener("click", function () { openLesson(ui, li - 1); });
+      if (nx) nx.addEventListener("click", function () { openLesson(ui, li + 1); });
+    } else {
+      if (lesson.mcqs && lesson.mcqs.length) { quiz = { list: lesson.mcqs, i: 0, score: 0, locked: false }; renderQuestion(); }
+      else { quiz = null; content.innerHTML = '<p class="empty-note">MCQs for this lesson are coming soon.</p>'; }
+    }
+    content.scrollIntoView({ behavior: "smooth", block: "start" });
   }
+
+  /* ---------- MCQ practice (app style) ---------- */
+  var LETTERS = ["A", "B", "C", "D"];
   function renderQuestion() {
     var box = $("#learn-content");
     var q = quiz.list[quiz.i]; quiz.locked = false;
-    var html = '<div class="mcq-head"><span>Question ' + (quiz.i + 1) + ' of ' + quiz.list.length + '</span><span>Score: ' + quiz.score + '</span></div>' +
-      '<div class="mcq-q" dir="auto">' + esc(q.q) + '</div><div class="mcq-opts">' +
-      q.options.map(function (o, i) { return '<button type="button" class="mcq-opt" data-opt="' + i + '" dir="auto">' + esc(o) + '</button>'; }).join("") +
-      '</div><div class="mcq-why" style="display:none" dir="auto"></div><div class="mcq-nav"></div>';
-    box.innerHTML = html;
+    var pct = Math.round((quiz.i / quiz.list.length) * 100);
+    box.innerHTML = '<div class="mcq-card">' +
+      '<div class="mcq-top"><span class="mcq-count">Question ' + (quiz.i + 1) + ' of ' + quiz.list.length + '</span><span class="mcq-score-chip">Score: ' + quiz.score + '</span></div>' +
+      '<div class="mcq-progress"><i style="width:' + pct + '%"></i></div>' +
+      '<div class="mcq-q" dir="auto">' + esc(q.q) + '</div>' +
+      '<div class="mcq-opts">' + q.options.map(function (o, i) {
+        return '<button type="button" class="mcq-opt" data-opt="' + i + '"><span class="opt-letter">' + LETTERS[i] + '</span><span class="opt-text" dir="auto">' + esc(o) + '</span></button>';
+      }).join("") + '</div>' +
+      '<div class="mcq-explain" style="display:none"></div>' +
+      '<div class="mcq-nav"></div></div>';
     Array.prototype.forEach.call(box.querySelectorAll(".mcq-opt"), function (btn) {
       btn.addEventListener("click", function () { answerQuestion(btn, q); });
     });
@@ -122,18 +169,22 @@
     quiz.locked = true;
     var picked = Number(btn.getAttribute("data-opt"));
     var box = $("#learn-content");
+    var correct = picked === q.answer;
+    if (correct) quiz.score++;
     Array.prototype.forEach.call(box.querySelectorAll(".mcq-opt"), function (b) {
       var i = Number(b.getAttribute("data-opt"));
       if (i === q.answer) b.classList.add("correct");
       else if (i === picked) b.classList.add("wrong");
       b.disabled = true;
     });
-    if (picked === q.answer) quiz.score++;
-    var sc = box.querySelector(".mcq-head span:last-child");
-    if (sc) sc.textContent = "Score: " + quiz.score;
-    var why = box.querySelector(".mcq-why");
-    why.style.display = "";
-    why.innerHTML = (picked === q.answer ? '<strong>Correct.</strong> ' : '<strong>Not correct.</strong> ') + esc(q.why || "");
+    var chip = box.querySelector(".mcq-score-chip");
+    if (chip) chip.textContent = "Score: " + quiz.score;
+    var bar = box.querySelector(".mcq-progress i");
+    if (bar) bar.style.width = Math.round(((quiz.i + 1) / quiz.list.length) * 100) + "%";
+    var ex = box.querySelector(".mcq-explain");
+    ex.style.display = "";
+    ex.innerHTML = '<div class="mcq-verdict ' + (correct ? "ok" : "bad") + '">' + (correct ? "✓ Correct" : "✗ Not correct") + ' — Correct answer: <b>' + LETTERS[q.answer] + '. <span dir="auto">' + esc(q.options[q.answer]) + '</span></b></div>' +
+      (q.why ? '<div class="mcq-why-text" dir="auto">' + esc(q.why) + '</div>' : '');
     var nav = box.querySelector(".mcq-nav");
     var last = quiz.i === quiz.list.length - 1;
     nav.innerHTML = '<button type="button" class="btn btn-primary" id="mcq-next">' + (last ? "See Result" : "Next Question") + '</button>';
@@ -144,13 +195,16 @@
   }
   function renderResult() {
     var box = $("#learn-content");
-    box.innerHTML = '<div class="mcq-result"><div class="mcq-score">' + quiz.score + ' / ' + quiz.list.length + '</div>' +
-      '<p>Practice finished for this chapter. Practice again to remember it better.</p>' +
-      '<button type="button" class="btn btn-primary" id="mcq-again">Practice Again</button></div>';
+    var pct = Math.round((quiz.score / quiz.list.length) * 100);
+    var msg = pct >= 80 ? "Excellent — you remember this lesson very well." : pct >= 50 ? "Good — practice once more to make it perfect." : "Keep practicing — read the Easy Notes of this lesson, then try again.";
+    box.innerHTML = '<div class="mcq-card mcq-result"><div class="mcq-score">' + quiz.score + ' / ' + quiz.list.length + '</div>' +
+      '<div class="mcq-pct">' + pct + '%</div><p>' + msg + '</p>' +
+      '<div class="mcq-result-btns"><button type="button" class="btn btn-primary" id="mcq-again">Practice Again</button></div></div>';
     document.getElementById("mcq-again").addEventListener("click", function () {
       quiz.i = 0; quiz.score = 0; renderQuestion();
     });
   }
+
   function initBook(bookId) {
     var cat = $("#catalogue-sec"); if (cat) cat.style.display = "none";
     var view = $("#learn-view"); if (view) view.style.display = "";
@@ -159,25 +213,26 @@
       fetch("/assets/data/books.json").then(function (r) { return r.json(); }),
       fetch("/assets/data/learn/" + encodeURIComponent(bookId) + ".json").then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; })
     ]).then(function (res) {
-      var book = (res[0] || []).filter(function (b) { return b.id === bookId; })[0];
-      var learn = res[1];
-      var head = $("#learn-head"), listBox = $("#chapter-list"), content = $("#learn-content");
-      if (!book) { head.innerHTML = '<p class="empty-note">Book not found.</p>'; return; }
-      document.title = book.title + (MODE === "notes" ? " — Easy Notes" : " — MCQs Practice") + " | SolvedBooks.pk";
-      head.innerHTML = '<nav class="crumbs"><a href="/">Home</a> › <a href="/' + MODE + '.html">' + (MODE === "notes" ? "Easy Notes" : "MCQs") + '</a> › <span>' + esc(book.subject) + '</span></nav>' +
-        '<div class="learn-head"><img class="learn-cover" src="/' + esc(book.cover) + '" alt="' + esc(book.title) + ' — official book cover">' +
-        '<div><h1 class="learn-book-title">' + esc(book.title) + '</h1>' +
-        '<div class="learn-chips"><span class="chip">' + esc(book.board) + '</span><span class="chip">Class ' + (ROMAN[book.cls] || book.cls) + '</span><span class="chip">' + esc(book.medium) + ' Medium</span></div>' +
-        '<p class="learn-sub">' + (MODE === "notes" ? "Select a chapter to read its Easy Notes." : "Select a chapter to practice its MCQs.") + '</p></div></div>';
-      var built = chapterButtons(book, learn, -1);
-      listBox.innerHTML = built.html;
-      listBox.addEventListener("click", function (e) {
-        var btn = e.target.closest(".chapter-btn"); if (!btn) return;
-        openChapter(book, built.chapters, Number(btn.getAttribute("data-ch")));
-      });
-      var chParam = Number(new URLSearchParams(location.search).get("ch"));
-      if (chParam >= 1 && chParam <= built.chapters.length) openChapter(book, built.chapters, chParam - 1);
-      else if (content) content.innerHTML = "";
+      BOOK = (res[0] || []).filter(function (b) { return b.id === bookId; })[0];
+      var head = $("#learn-head");
+      if (!BOOK) { head.innerHTML = '<p class="empty-note">Book not found.</p>'; return; }
+      UNITS = unitsOf(BOOK, res[1]);
+      if (BOOK.medium === "Sindhi") view.classList.add("lang-sd");
+      else if (BOOK.medium === "Urdu") view.classList.add("lang-ur");
+      else if (BOOK.medium === "Arabic") view.classList.add("lang-naskh");
+      document.title = BOOK.title + (MODE === "notes" ? " — Easy Notes" : " — MCQs Practice") + " | SolvedBooks.pk";
+      head.innerHTML = '<nav class="crumbs"><a href="/">Home</a> › <a href="/' + MODE + '.html">' + (MODE === "notes" ? "Easy Notes" : "MCQs") + '</a> › <span>' + esc(BOOK.subject) + '</span></nav>' +
+        '<div class="learn-head"><img class="learn-cover" src="/' + esc(BOOK.cover) + '" alt="' + esc(BOOK.title) + ' — official book cover">' +
+        '<div class="learn-head-text"><h1 class="learn-book-title">' + esc(BOOK.title) + '</h1>' +
+        '<div class="learn-chips"><span class="chip">' + esc(BOOK.board) + '</span><span class="chip">Class ' + (ROMAN[BOOK.cls] || BOOK.cls) + '</span><span class="chip">' + esc(BOOK.medium) + ' Medium</span></div>' +
+        '<p class="learn-sub">' + (MODE === "notes" ? "Select a unit, then a lesson, to read its Easy Notes." : "Select a unit, then a lesson, to practice its MCQs.") + '</p></div></div>';
+      var qs = new URLSearchParams(location.search);
+      var u = Number(qs.get("u") || qs.get("ch"));
+      var l = Number(qs.get("l"));
+      if (u >= 1 && u <= UNITS.length) {
+        if (l >= 1 && l <= lessonsOf(UNITS[u - 1]).length) openLesson(u - 1, l - 1);
+        else showLessons(u - 1);
+      } else showUnits();
     });
   }
 
