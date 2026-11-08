@@ -252,7 +252,7 @@ def post_html(post, idx, all_posts):
 <a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="52" height="52" fetchpriority="high"><span class="logo-text">SolvedBooks<em>.pk</em></span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-<a href="/" class="">Home</a><a href="/blog/" class="active">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
+<a href="/" class="">Home</a><a href="/notes.html" class="">Notes</a><a href="/mcqs.html" class="">MCQs</a><a href="/blog/" class="active">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
 </nav></div></header>
 <main id="main" class="container">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>{esc(d['cat'])}</span></nav>
@@ -346,7 +346,7 @@ def blog_index_html(posts, page, total_pages):
 <a class="logo" href="/"><img class="logo-img" src="/assets/images/logo-sm.png" alt="SolvedBooks.pk" width="52" height="52" fetchpriority="high"><span class="logo-text">SolvedBooks<em>.pk</em></span></a>
 <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
 <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-<a href="/" class="">Home</a><a href="/blog/" class="active">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
+<a href="/" class="">Home</a><a href="/notes.html" class="">Notes</a><a href="/mcqs.html" class="">MCQs</a><a href="/blog/" class="active">Blog</a><a href="/about.html" class="">About</a><a href="/contact.html" class="">Contact</a>
 </nav></div></header>
 <main id="main" class="container">
 <h1>Blog — Guides for Students of All 4 Boards</h1>
