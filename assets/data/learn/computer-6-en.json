@@ -1,0 +1,3747 @@
+{
+ "book": "computer-6-en",
+ "chapters": [
+  {
+   "title": "Introduction to Computer",
+   "lessons": [
+    {
+     "title": "Computer Basics: Input, Processing and Output",
+     "notes_html": "<h4>What is a Computer?</h4>\n<p>A computer is an <b>electronic data processing machine</b>. It accepts data (<b>input</b>), processes it, and gives information (<b>output</b>).</p>\n<p><b>Example:</b> We type 2 + 4 on the keyboard (input). The computer processes it and shows 6 on the screen (output).</p>\n<h4>Hardware and Software</h4>\n<table>\n<tr><th>Hardware</th><th>Software</th></tr>\n<tr><td>The physical parts of the computer that we can touch, e.g. keyboard, mouse and display unit.</td><td>Programs — a set of instructions that tell the computer what to do, e.g. MS Windows, Linux and Paint.</td></tr>\n</table>\n<h4>Input and Output Devices</h4>\n<table>\n<tr><th>Input Devices</th><th>Output Devices</th></tr>\n<tr><td>Send data to the computer for processing, e.g. keyboard, mouse and scanner.</td><td>Deliver the processed information to the user, e.g. monitor, printer and speaker.</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "What is a computer?",
+       "options": [
+        "A machine that only prints pictures",
+        "An electronic data processing machine",
+        "A box used only for playing games",
+        "A machine that stores electricity"
+       ],
+       "answer": 1,
+       "why": "The book defines a computer as an electronic data processing machine. It accepts data (input), processes it, and gives information (output)."
+      },
+      {
+       "q": "In the book's example, 2 + 4 is typed on the keyboard and the computer shows:",
+       "options": [
+        "8",
+        "24",
+        "6",
+        "42"
+       ],
+       "answer": 2,
+       "why": "2 + 4 is the input, the computer processes it, and the output shown is 6. This small example shows input, processing and output."
+      },
+      {
+       "q": "The data we give to a computer is called:",
+       "options": [
+        "Input",
+        "Output",
+        "Storage",
+        "Display"
+       ],
+       "answer": 0,
+       "why": "Data given to the computer is input. After processing, the result the computer gives back is output (information)."
+      },
+      {
+       "q": "The information a computer gives after processing is called:",
+       "options": [
+        "Input",
+        "Hardware",
+        "A program",
+        "Output"
+       ],
+       "answer": 3,
+       "why": "The processed result is called output. Input is the data we give, hardware is the physical parts, and a program is a set of instructions."
+      },
+      {
+       "q": "Which of these is hardware?",
+       "options": [
+        "MS Windows",
+        "Paint",
+        "Keyboard",
+        "Linux"
+       ],
+       "answer": 2,
+       "why": "The keyboard is a physical part we can touch, so it is hardware. Windows, Paint and Linux are programs, so they are software."
+      },
+      {
+       "q": "Software is:",
+       "options": [
+        "A set of instructions (programs) that tell the computer what to do",
+        "The parts of the computer we can touch",
+        "Only the computer screen",
+        "The power cable of the computer"
+       ],
+       "answer": 0,
+       "why": "Software consists of programs — sets of instructions — that tell the computer what to do, such as MS Windows, Linux and Paint."
+      },
+      {
+       "q": "Which device sends data INTO the computer?",
+       "options": [
+        "Monitor",
+        "Scanner",
+        "Printer",
+        "Speaker"
+       ],
+       "answer": 1,
+       "why": "A scanner sends data into the computer, so it is an input device. The monitor, printer and speaker give information out, so they are output devices."
+      },
+      {
+       "q": "Which device shows the processed information to the user?",
+       "options": [
+        "Keyboard",
+        "Mouse",
+        "Scanner",
+        "Monitor"
+       ],
+       "answer": 3,
+       "why": "The monitor is an output device that shows text, pictures and video information to the user. The keyboard, mouse and scanner are input devices."
+      },
+      {
+       "q": "Which pair contains only input devices?",
+       "options": [
+        "Keyboard and mouse",
+        "Monitor and printer",
+        "Speaker and monitor",
+        "Printer and speaker"
+       ],
+       "answer": 0,
+       "why": "The keyboard and mouse both send data into the computer. The monitor, printer and speaker are all output devices."
+      },
+      {
+       "q": "MS Windows and Linux are examples of:",
+       "options": [
+        "Hardware",
+        "Input devices",
+        "Storage devices",
+        "Software"
+       ],
+       "answer": 3,
+       "why": "Windows and Linux are programs that tell the computer what to do, so they are software, not physical parts or devices."
+      }
+     ]
+    },
+    {
+     "title": "Storage and Processing Devices",
+     "notes_html": "<h4>Storage Devices</h4>\n<p>Storage devices keep data and information safe so we can use them later. Five storage devices are:</p>\n<ul>\n<li>Hard Disk Drive</li>\n<li>CD</li>\n<li>DVD</li>\n<li>Blu-ray Disc</li>\n<li>USB flash drive</li>\n</ul>\n<h4>How Much Data Can They Store?</h4>\n<table>\n<tr><th>Device</th><th>Storage Capacity</th></tr>\n<tr><td>CD</td><td>700 MB</td></tr>\n<tr><td>DVD</td><td>4.7 GB</td></tr>\n<tr><td>Blu-ray Disc</td><td>25 GB</td></tr>\n</table>\n<p>A <b>memory card</b> is also used to store data and information. A <b>USB flash drive</b> is small and portable, so files can easily be carried from one place to another.</p>\n<h4>Processing Devices</h4>\n<p>Processing devices process data, turn it into information, and help store it in memory. They include the <b>microprocessor (CPU)</b>, <b>ROM</b>, <b>RAM</b> and the <b>motherboard</b>.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the items below is used for storing information?",
+       "options": [
+        "Microprocessor",
+        "Router",
+        "Memory card",
+        "Motherboard"
+       ],
+       "answer": 2,
+       "why": "A memory card is used to store data and information. The microprocessor does processing, the router handles communication, and the motherboard connects all the parts."
+      },
+      {
+       "q": "Which of the devices below can store the most data?",
+       "options": [
+        "CD",
+        "Blu-ray Disc",
+        "Floppy Disk",
+        "DVD"
+       ],
+       "answer": 1,
+       "why": "According to the book, a CD stores 700 MB, a DVD stores 4.7 GB and a Blu-ray Disc stores 25 GB, so the Blu-ray Disc stores the most."
+      },
+      {
+       "q": "According to the book, how much data can a CD store?",
+       "options": [
+        "4.7 GB",
+        "25 GB",
+        "100 MB",
+        "700 MB"
+       ],
+       "answer": 3,
+       "why": "The book gives the CD's capacity as 700 MB. A DVD stores 4.7 GB and a Blu-ray Disc stores 25 GB."
+      },
+      {
+       "q": "According to the book, how much data can a DVD store?",
+       "options": [
+        "700 MB",
+        "4.7 GB",
+        "25 GB",
+        "1 GB"
+       ],
+       "answer": 1,
+       "why": "The book gives the DVD's capacity as 4.7 GB — more than a CD (700 MB) but less than a Blu-ray Disc (25 GB)."
+      },
+      {
+       "q": "Which of these is a storage device?",
+       "options": [
+        "Monitor",
+        "Keyboard",
+        "Hard Disk Drive",
+        "Speaker"
+       ],
+       "answer": 2,
+       "why": "The hard disk drive stores data and programs. The monitor and speaker are output devices and the keyboard is an input device."
+      },
+      {
+       "q": "A USB flash drive is used to:",
+       "options": [
+        "Store digital information and carry files easily from one place to another",
+        "Print pictures on paper",
+        "Show videos on a big screen",
+        "Type letters into the computer"
+       ],
+       "answer": 0,
+       "why": "A USB flash drive stores digital information. It is small and portable, so files can easily be transferred from one place to another."
+      },
+      {
+       "q": "Processing devices turn data into:",
+       "options": [
+        "Paper",
+        "Information",
+        "Sound only",
+        "Light only"
+       ],
+       "answer": 1,
+       "why": "Processing devices are the part of the computer that processes data and turns it into information, and helps store it in memory."
+      },
+      {
+       "q": "Which of these is a processing device?",
+       "options": [
+        "Printer",
+        "CD",
+        "Microprocessor (CPU)",
+        "Flash drive"
+       ],
+       "answer": 2,
+       "why": "The microprocessor (CPU) processes data. The printer is an output device, and the CD and flash drive are storage devices."
+      },
+      {
+       "q": "ROM, RAM and the motherboard belong to which group in the book?",
+       "options": [
+        "Processing devices",
+        "Output devices",
+        "Input devices",
+        "Communication devices"
+       ],
+       "answer": 0,
+       "why": "The book lists the microprocessor (CPU), ROM, RAM and the motherboard as the processing devices of the computer."
+      },
+      {
+       "q": "The motherboard is:",
+       "options": [
+        "A disc used for storing songs",
+        "An input device for typing",
+        "A type of software",
+        "The main board on which all the hardware parts of the computer are connected"
+       ],
+       "answer": 3,
+       "why": "The motherboard is the main board of the computer. The power supply, microprocessor, RAM, ROM and storage devices are all connected on it."
+      }
+     ]
+    },
+    {
+     "title": "Generations of Computers",
+     "notes_html": "<h4>The Five Generations</h4>\n<table>\n<tr><th>Generation</th><th>Years</th><th>Key Features</th></tr>\n<tr><td>First</td><td>1940–1950</td><td>Vacuum tubes; very large and expensive; produced much heat and used much electricity</td></tr>\n<tr><td>Second</td><td>1950–1960</td><td>Transistors; smaller, faster and more reliable</td></tr>\n<tr><td>Third</td><td>1960–1970</td><td>Integrated circuits; small size, low cost and more speed</td></tr>\n<tr><td>Fourth</td><td>1970 to now</td><td>Microprocessor; personal computers, graphical interface, Windows and internet</td></tr>\n<tr><td>Fifth</td><td>Present and future</td><td>Artificial intelligence, quantum computing and Internet of Things</td></tr>\n</table>\n<p>Each new generation made computers smaller, faster, cheaper and more useful than before.</p>",
+     "mcqs": [
+      {
+       "q": "Computers of which era used the most electricity?",
+       "options": [
+        "Second era",
+        "Third era",
+        "First era",
+        "Fourth era"
+       ],
+       "answer": 2,
+       "why": "First-era computers used vacuum tubes. They were very large, produced a lot of heat and used a great deal of electricity."
+      },
+      {
+       "q": "Computers of which era are more powerful and useful?",
+       "options": [
+        "Fourth era",
+        "First era",
+        "Second era",
+        "Third era"
+       ],
+       "answer": 0,
+       "why": "In the fourth era the microprocessor arrived, which produced personal computers, graphical interfaces and Windows, making computers user-friendly and more useful."
+      },
+      {
+       "q": "First generation computers used:",
+       "options": [
+        "Transistors",
+        "Vacuum tubes",
+        "Integrated circuits",
+        "Microprocessors"
+       ],
+       "answer": 1,
+       "why": "The first generation (1940–1950) used vacuum tubes. Transistors came in the second, integrated circuits in the third and the microprocessor in the fourth generation."
+      },
+      {
+       "q": "Second generation computers used:",
+       "options": [
+        "Vacuum tubes",
+        "Integrated circuits",
+        "Microprocessors",
+        "Transistors"
+       ],
+       "answer": 3,
+       "why": "The second generation (1950–1960) used transistors, which made computers smaller, faster and more reliable than the first generation."
+      },
+      {
+       "q": "Third generation computers were built with:",
+       "options": [
+        "Integrated circuits",
+        "Vacuum tubes",
+        "Transistors",
+        "Microprocessors"
+       ],
+       "answer": 0,
+       "why": "The third generation (1960–1970) used integrated circuits, giving small size, low cost and more speed."
+      },
+      {
+       "q": "The microprocessor arrived in the:",
+       "options": [
+        "First generation",
+        "Second generation",
+        "Third generation",
+        "Fourth generation"
+       ],
+       "answer": 3,
+       "why": "The fourth generation (1970 to now) brought the microprocessor, and with it personal computers, the graphical interface, Windows and the internet."
+      },
+      {
+       "q": "Personal computers (PCs) appeared in the:",
+       "options": [
+        "First generation",
+        "Second generation",
+        "Fourth generation",
+        "Fifth generation"
+       ],
+       "answer": 2,
+       "why": "Personal computers came with the microprocessor in the fourth generation. The fifth generation is about artificial intelligence and quantum computing."
+      },
+      {
+       "q": "Artificial intelligence, quantum computing and the Internet of Things belong to the:",
+       "options": [
+        "Second generation",
+        "Fifth generation",
+        "Third generation",
+        "Fourth generation"
+       ],
+       "answer": 1,
+       "why": "The book places artificial intelligence, quantum computing and the Internet of Things in the fifth generation — the present and the future."
+      },
+      {
+       "q": "First generation computers were:",
+       "options": [
+        "Very small and cheap",
+        "Like today's mobile phones",
+        "Faster than today's computers",
+        "Very large, expensive, and produced much heat"
+       ],
+       "answer": 3,
+       "why": "First generation computers used vacuum tubes, so they were very large and expensive, and they produced much heat and used much electricity."
+      },
+      {
+       "q": "With each new generation, computers became:",
+       "options": [
+        "Bigger and slower",
+        "Smaller, faster and more useful",
+        "More expensive and weaker",
+        "Harder to use"
+       ],
+       "answer": 1,
+       "why": "From vacuum tubes to transistors, integrated circuits and the microprocessor, every generation made computers smaller, faster, more reliable and more useful."
+      }
+     ]
+    },
+    {
+     "title": "Uses of ICT",
+     "notes_html": "<h4>ICT in Education</h4>\n<ul>\n<li>Educational games help students learn new concepts.</li>\n<li>Through online learning (such as Khan Academy and Virtual University) students can study different subjects.</li>\n<li>The interactive whiteboard helps the teacher teach with videos and pictures.</li>\n<li>Computers are also used for research, simulation and collaborative work.</li>\n</ul>\n<h4>ICT in Industry</h4>\n<ul>\n<li>Robots help make and assemble things in factories.</li>\n<li>Computer-controlled machines make work accurate and fast.</li>\n<li>Computers manage the record and supply of goods in the warehouse.</li>\n</ul>\n<h4>Benefits of ICT for Students</h4>\n<ul>\n<li>Wide access to educational resources</li>\n<li>Learning through interactive games and video-sharing apps</li>\n<li>Learning from platforms such as Khan Academy and Duolingo</li>\n<li>Communication through email and social media</li>\n<li>Cooperation in joint projects</li>\n<li>Creative work with tools such as Paint and Canva</li>\n</ul>\n<h4>Disadvantages of ICT for Beginners</h4>\n<ul>\n<li><b>Distraction</b> — wrong use or lack of supervision affects students' performance.</li>\n<li><b>Health problems</b> — eye strain, lack of sleep and physical health problems.</li>\n<li><b>Cyber security risks</b> — virus, malware, hacking and phishing attacks.</li>\n<li><b>Dependence</b> — overuse of devices makes a person dependent on them.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which online learning platforms are named in the book for education?",
+       "options": [
+        "Only video games",
+        "Only television channels",
+        "Khan Academy and Virtual University",
+        "Only radio programmes"
+       ],
+       "answer": 2,
+       "why": "The book says that through online learning, such as Khan Academy and Virtual University, students can study different subjects."
+      },
+      {
+       "q": "The interactive whiteboard helps the teacher to:",
+       "options": [
+        "Teach with videos and pictures",
+        "Cook food for students",
+        "Print the whole book",
+        "Repair broken computers"
+       ],
+       "answer": 0,
+       "why": "The interactive whiteboard helps the teacher teach with videos and pictures, which makes lessons easier to understand."
+      },
+      {
+       "q": "In factories, robots help to:",
+       "options": [
+        "Teach students in class",
+        "Make and assemble things",
+        "Play games with workers",
+        "Write letters to customers"
+       ],
+       "answer": 1,
+       "why": "The book says robots help make and assemble things in factories, and computer-controlled machines make work accurate and fast."
+      },
+      {
+       "q": "In a warehouse, computers are used to:",
+       "options": [
+        "Wash the goods",
+        "Cook the goods",
+        "Manage the record and supply of goods",
+        "Hide the goods"
+       ],
+       "answer": 2,
+       "why": "In industry, the computer is used to manage the record and supply of goods in the warehouse."
+      },
+      {
+       "q": "Which of these is a benefit of ICT for students?",
+       "options": [
+        "Learning through interactive games and video-sharing apps",
+        "Eye strain",
+        "Hacking attacks",
+        "Lack of sleep"
+       ],
+       "answer": 0,
+       "why": "Learning through interactive games and video-sharing apps is a benefit. Eye strain, hacking and lack of sleep are disadvantages listed in the book."
+      },
+      {
+       "q": "Students can do creative work with tools such as:",
+       "options": [
+        "Only a notebook",
+        "Only a pencil",
+        "Only a television",
+        "Paint and Canva"
+       ],
+       "answer": 3,
+       "why": "The book lists creative work with tools such as Paint and Canva among the benefits of ICT for students."
+      },
+      {
+       "q": "Which of these is a disadvantage of ICT for beginners?",
+       "options": [
+        "Wide access to educational resources",
+        "Cooperation in joint projects",
+        "Distraction",
+        "Online learning"
+       ],
+       "answer": 2,
+       "why": "Distraction is a disadvantage — wrong use of ICT or lack of supervision affects students' performance. The other options are benefits."
+      },
+      {
+       "q": "Eye strain and lack of sleep are:",
+       "options": [
+        "Health problems caused by ICT overuse",
+        "Benefits of ICT",
+        "Types of software",
+        "Input devices"
+       ],
+       "answer": 0,
+       "why": "The book lists eye strain, lack of sleep and physical health problems among the disadvantages of ICT for beginners."
+      },
+      {
+       "q": "Virus, malware, hacking and phishing are:",
+       "options": [
+        "Educational games",
+        "Cyber security risks",
+        "Storage devices",
+        "Output devices"
+       ],
+       "answer": 1,
+       "why": "The book groups virus, malware, hacking and phishing attacks under cyber security risks, one of the disadvantages of ICT."
+      },
+      {
+       "q": "Overuse of devices makes a person:",
+       "options": [
+        "Free of all homework",
+        "Better at sports",
+        "Independent of technology",
+        "Dependent on them"
+       ],
+       "answer": 3,
+       "why": "Dependence is a disadvantage of ICT: overuse of devices makes a person dependent on them."
+      }
+     ]
+    },
+    {
+     "title": "Devices and Their Functions — Part 1",
+     "notes_html": "<h4>Router</h4>\n<p>A router connects two or more networks together. For example, a home router connects the home network to the internet service provider (ISP). Routers are used for exchanging data between networks.</p>\n<h4>Network Switch</h4>\n<p>A network switch is a <b>communication device</b>. It is used to connect computers together in a network.</p>\n<h4>LAN Card</h4>\n<p>A LAN card (Network Interface Card) connects the computer to a Local Area Network, through which the computer connects to other computers and communication devices.</p>\n<h4>QR Code Scanner</h4>\n<p>A QR code scanner reads the data of a barcode or QR code and sends it to the computer for processing.</p>\n<h4>Touch Pad</h4>\n<p>On a touch pad, the cursor on the screen is moved simply by the movement of a finger or stylus (pen). A drawing pad helps in drawing, and a game pad helps in playing games.</p>\n<h4>Headphone</h4>\n<p>A headphone is an audio output device that works like a speaker — it delivers the sound of the computer's information directly to the listener's ears.</p>",
+     "mcqs": [
+      {
+       "q": "A network switch is a:",
+       "options": [
+        "Communication device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+       ],
+       "answer": 0,
+       "why": "A network switch is a communication device — it is used to connect computers together in a network."
+      },
+      {
+       "q": "A router connects:",
+       "options": [
+        "A printer to its paper",
+        "A mouse to the screen",
+        "Files to their folders",
+        "Two or more networks together"
+       ],
+       "answer": 3,
+       "why": "A router connects two or more networks together. For example, a home router connects the home network to the internet service provider (ISP)."
+      },
+      {
+       "q": "A home router connects the home network to:",
+       "options": [
+        "The printer",
+        "The monitor",
+        "The internet service provider (ISP)",
+        "The keyboard"
+       ],
+       "answer": 2,
+       "why": "The book's example: a home router connects the home network to the internet service provider, so the home can use the internet."
+      },
+      {
+       "q": "A LAN card connects the computer to:",
+       "options": [
+        "A printer only",
+        "A Local Area Network",
+        "A storage disc",
+        "A speaker only"
+       ],
+       "answer": 1,
+       "why": "A LAN card (Network Interface Card) connects the computer to a Local Area Network, through which it connects to other computers and communication devices."
+      },
+      {
+       "q": "A LAN card is also called:",
+       "options": [
+        "Memory card",
+        "Motherboard",
+        "Flash drive",
+        "Network Interface Card"
+       ],
+       "answer": 3,
+       "why": "The book gives the full name of the LAN card as the Network Interface Card. A memory card stores data and the motherboard is the main board."
+      },
+      {
+       "q": "A QR code scanner reads:",
+       "options": [
+        "Printed story books",
+        "The data of a barcode or QR code",
+        "Only handwriting",
+        "Sounds and songs"
+       ],
+       "answer": 1,
+       "why": "A QR code scanner reads the data of a barcode or QR code and sends it to the computer for processing."
+      },
+      {
+       "q": "On a touch pad, the cursor on the screen is moved by:",
+       "options": [
+        "Pressing the keyboard keys",
+        "Speaking into a microphone",
+        "The movement of a finger or stylus (pen)",
+        "Shaking the computer"
+       ],
+       "answer": 2,
+       "why": "The book says that on a touch pad, the cursor is moved simply by the movement of a finger or a stylus (pen)."
+      },
+      {
+       "q": "A drawing pad helps in:",
+       "options": [
+        "Drawing",
+        "Printing",
+        "Storing files",
+        "Connecting networks"
+       ],
+       "answer": 0,
+       "why": "A drawing pad helps in drawing, and a game pad helps in playing games — both work with the touch pad idea of moving and controlling by touch."
+      },
+      {
+       "q": "A headphone is an:",
+       "options": [
+        "Input device",
+        "Audio output device",
+        "Storage device",
+        "Processing device"
+       ],
+       "answer": 1,
+       "why": "A headphone is an audio output device. It works like a speaker and delivers sound directly to the listener's ears."
+      },
+      {
+       "q": "A headphone delivers the sound of the computer's information directly to:",
+       "options": [
+        "The screen",
+        "The printer",
+        "The listener's ears",
+        "The keyboard"
+       ],
+       "answer": 2,
+       "why": "Unlike a speaker that plays sound for everyone nearby, a headphone delivers the sound directly to the listener's ears."
+      }
+     ]
+    },
+    {
+     "title": "Devices and Their Functions — Part 2",
+     "notes_html": "<h4>Projector</h4>\n<p>A projector connects the computer to a screen and shows text, graphics and video information on a large screen.</p>\n<h4>Microprocessor</h4>\n<p>The microprocessor is the <b>processing brain</b> of the computer — it processes data. It equals thousands of integrated circuits on a single chip, gives fast performance, is small in size, and produces little heat.</p>\n<h4>Motherboard</h4>\n<p>The motherboard is the main board of the computer, on which all the hardware parts of the computer are connected, such as the power supply, microprocessor, RAM, ROM and storage devices.</p>\n<h4>Flash Drive</h4>\n<p>A USB flash drive is used to store digital information. It is small and portable, so files can easily be transferred from one place to another.</p>\n<h4>Remember: Output Devices</h4>\n<p>Output devices are the devices used for getting information from the computer — for example the monitor, printer and speaker.</p>",
+     "mcqs": [
+      {
+       "q": "A projector shows text, graphics and video information on:",
+       "options": [
+        "A large screen",
+        "A sheet of paper",
+        "A storage disc",
+        "The listener's ears"
+       ],
+       "answer": 0,
+       "why": "A projector connects the computer to a screen and shows text, graphics and video information on a large screen."
+      },
+      {
+       "q": "The processing brain of the computer is the:",
+       "options": [
+        "Monitor",
+        "Keyboard",
+        "Printer",
+        "Microprocessor"
+       ],
+       "answer": 3,
+       "why": "The microprocessor is the processing brain of the computer — it processes data. The monitor, keyboard and printer do not process data."
+      },
+      {
+       "q": "The microprocessor equals thousands of integrated circuits on:",
+       "options": [
+        "A big wooden board",
+        "A storage disc",
+        "A single chip",
+        "A long cable"
+       ],
+       "answer": 2,
+       "why": "The book says the microprocessor equals thousands of integrated circuits on a single chip, which gives fast performance in a small size."
+      },
+      {
+       "q": "The microprocessor produces:",
+       "options": [
+        "Little heat",
+        "A lot of heat",
+        "Loud sound",
+        "Bright light"
+       ],
+       "answer": 0,
+       "why": "Unlike the vacuum tubes of the first generation, the microprocessor is small in size and produces little heat."
+      },
+      {
+       "q": "All the hardware parts of the computer are connected on the:",
+       "options": [
+        "Flash drive",
+        "Motherboard",
+        "Monitor",
+        "Headphone"
+       ],
+       "answer": 1,
+       "why": "The motherboard is the main board of the computer, on which all the hardware parts are connected."
+      },
+      {
+       "q": "Which parts are connected on the motherboard?",
+       "options": [
+        "Only the mouse and keyboard",
+        "Only the printer and speaker",
+        "Only the monitor",
+        "Power supply, microprocessor, RAM, ROM and storage devices"
+       ],
+       "answer": 3,
+       "why": "The book lists the power supply, microprocessor, RAM, ROM and storage devices as the parts connected on the motherboard."
+      },
+      {
+       "q": "A USB flash drive is easy to carry because it is:",
+       "options": [
+        "Small and portable",
+        "Very heavy",
+        "Fixed inside the computer",
+        "Made of paper"
+       ],
+       "answer": 0,
+       "why": "A USB flash drive is small and portable, so files can easily be transferred from one place to another."
+      },
+      {
+       "q": "Files can easily be transferred from one place to another with a:",
+       "options": [
+        "Projector",
+        "Headphone",
+        "Touch pad",
+        "Flash drive"
+       ],
+       "answer": 3,
+       "why": "Because a flash drive stores digital information and is portable, it is used to carry files from one place to another."
+      },
+      {
+       "q": "Which group contains only output devices?",
+       "options": [
+        "Keyboard, mouse and scanner",
+        "CD, DVD and Blu-ray Disc",
+        "Monitor, printer and speaker",
+        "Router, switch and LAN card"
+       ],
+       "answer": 2,
+       "why": "Output devices are used for getting information from the computer — for example the monitor, printer and speaker."
+      },
+      {
+       "q": "Output devices are used for:",
+       "options": [
+        "Sending data into the computer",
+        "Getting information from the computer",
+        "Connecting networks together",
+        "Storing data for a long time"
+       ],
+       "answer": 1,
+       "why": "Output devices deliver the processed information to the user. Sending data in is the work of input devices."
+      }
+     ]
+    },
+    {
+     "title": "Identify the Devices",
+     "notes_html": "<h4>Devices Shown in the Book's Pictures</h4>\n<ul>\n<li><b>Bluetooth adapter</b> — a small USB device labelled Bluetooth with a small cable attached. It is a communication device that enables the computer to exchange data wirelessly with nearby devices.</li>\n<li><b>Network Interface Card (LAN card)</b> — a card with an antenna attached, which fits inside the computer. It connects the computer to a network.</li>\n<li><b>Plotter</b> — a large printing device printing a map or drawing on large paper. It prints maps and large pictures on large paper, plastic or flex.</li>\n<li><b>Motherboard</b> — a green circuit board with many parts and slots fitted on it. It is the main board of the computer.</li>\n<li><b>Monitor</b> — a square screen standing on a stand. It is the basic output device, which shows the computer's text, picture and video information.</li>\n<li><b>Printer</b> — a device printing a coloured picture on paper. It prints text and graphics information on paper.</li>\n<li><b>Scanner</b> — a device fitted above an open book, capturing the image of the book's pages. It converts the picture of paper or a book into digital data and sends it to the computer.</li>\n<li><b>Game pad (game controller)</b> — a hand-held controller with buttons and joysticks on it. It is an input device used for playing games.</li>\n<li><b>Router</b> — a black box with three antennas fitted on it. It connects two or more networks together.</li>\n</ul>\n<h4>One Special Device</h4>\n<p>An <b>interactive (smart) board</b> can be used both for sending data in and for getting the result out, because we can write and touch on it, and it also shows information.</p>",
+     "mcqs": [
+      {
+       "q": "A small USB device labelled Bluetooth, with a small cable attached, is a:",
+       "options": [
+        "Printer",
+        "Scanner",
+        "Plotter",
+        "Bluetooth adapter"
+       ],
+       "answer": 3,
+       "why": "The device in the picture is a Bluetooth adapter — a communication device that enables the computer to exchange data wirelessly with nearby devices."
+      },
+      {
+       "q": "A Bluetooth adapter enables the computer to:",
+       "options": [
+        "Print maps on large paper",
+        "Exchange data wirelessly with nearby devices",
+        "Store 25 GB of data",
+        "Type letters on the screen"
+       ],
+       "answer": 1,
+       "why": "The Bluetooth adapter is a communication device. It lets the computer exchange data wirelessly with nearby devices."
+      },
+      {
+       "q": "A card with an antenna attached, which fits inside the computer, is a:",
+       "options": [
+        "Memory card",
+        "Motherboard",
+        "Network Interface Card (LAN card)",
+        "Flash drive"
+       ],
+       "answer": 2,
+       "why": "The card with an antenna is the Network Interface Card (LAN card) — it connects the computer to a network."
+      },
+      {
+       "q": "A large printing device printing a map or drawing on large paper is a:",
+       "options": [
+        "Plotter",
+        "Printer",
+        "Scanner",
+        "Monitor"
+       ],
+       "answer": 0,
+       "why": "A plotter is an output device that prints maps and large pictures on large paper, plastic or flex."
+      },
+      {
+       "q": "A green circuit board with many parts and slots fitted on it is the:",
+       "options": [
+        "Monitor",
+        "Motherboard",
+        "LAN card",
+        "Game pad"
+       ],
+       "answer": 1,
+       "why": "The green circuit board is the motherboard — the main board of the computer, on which all the hardware parts are connected."
+      },
+      {
+       "q": "A square screen standing on a stand is a:",
+       "options": [
+        "Scanner",
+        "Plotter",
+        "Monitor",
+        "Router"
+       ],
+       "answer": 2,
+       "why": "The monitor is the basic output device, which shows the computer's text, picture and video information."
+      },
+      {
+       "q": "A device fitted above an open book, capturing the image of the book's pages, is a:",
+       "options": [
+        "Scanner",
+        "Printer",
+        "Projector",
+        "Speaker"
+       ],
+       "answer": 0,
+       "why": "A scanner is an input device that converts the picture of paper or a book into digital data and sends it to the computer."
+      },
+      {
+       "q": "A hand-held controller with buttons and joysticks on it is a:",
+       "options": [
+        "Track ball",
+        "Touch pad",
+        "Keyboard",
+        "Game pad (game controller)"
+       ],
+       "answer": 3,
+       "why": "The game pad (game controller) is an input device used for playing games."
+      },
+      {
+       "q": "A black box with three antennas fitted on it is a:",
+       "options": [
+        "Plotter",
+        "Scanner",
+        "Router",
+        "Printer"
+       ],
+       "answer": 2,
+       "why": "The black box with three antennas is a router — a communication device that connects two or more networks together."
+      },
+      {
+       "q": "Which device can be used BOTH for sending data in and for getting the result out?",
+       "options": [
+        "Interactive board",
+        "Plotter",
+        "Monitor",
+        "Track ball"
+       ],
+       "answer": 0,
+       "why": "On an interactive (smart) board you can write and touch, so it both sends data in and shows information. The plotter and monitor are only output devices and the track ball is only an input device."
+      }
+     ]
+    },
+    {
+     "title": "Types of Devices",
+     "notes_html": "<h4>The Five Types of Devices</h4>\n<table>\n<tr><th>Type</th><th>Work</th><th>Examples from the Book</th></tr>\n<tr><td>Input devices</td><td>Send data into the computer</td><td>Track ball mouse, barcode scanner</td></tr>\n<tr><td>Output devices</td><td>Give information out to the user</td><td>Printer</td></tr>\n<tr><td>Storage devices</td><td>Store data and programs</td><td>Memory card, hard disk drive, SSD</td></tr>\n<tr><td>Processing devices</td><td>Process data and hold it during processing</td><td>ROM, microprocessor, RAM</td></tr>\n<tr><td>Communication devices</td><td>Connect computers together</td><td>Network switch</td></tr>\n</table>\n<ul>\n<li><b>ROM</b> chips hold the instructions for starting the computer.</li>\n<li><b>RAM</b> is temporary memory, in which running programs and data stay during processing.</li>\n<li>The <b>hard disk drive</b> and <b>SSD</b> store data and programs permanently.</li>\n</ul>\n<h4>Two Types of Software</h4>\n<ul>\n<li><b>System software</b> — the type of software used to manage and control the computer, e.g. Windows, macOS and Linux.</li>\n<li><b>Application software</b> — the type of software used to help the user in everyday tasks, e.g. word processing, MS Paint, games and Chrome.</li>\n</ul>\n<h4>Group Activities in the Book</h4>\n<ul>\n<li>Draw some parts of the computer hardware on a drawing sheet: keyboard (typing data), mouse (moving the cursor), monitor (showing information), system unit (processing) and printer (printing on paper).</li>\n<li>Prepare a poster presentation on any ICT topic, e.g. \"ICT in education\", with a title, 3–4 short points, matching pictures and a short conclusion.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A printer is which type of device?",
+       "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+       ],
+       "answer": 1,
+       "why": "A printer prints text and graphics information on paper, so it is an output device — it gives information out to the user."
+      },
+      {
+       "q": "A small memory card (microSD, 8 GB) is which type of device?",
+       "options": [
+        "Input device",
+        "Output device",
+        "Communication device",
+        "Storage device"
+       ],
+       "answer": 3,
+       "why": "A memory card is used to store data and information, so it is a storage device."
+      },
+      {
+       "q": "ROM chips are which type of device?",
+       "options": [
+        "Processing device",
+        "Storage device",
+        "Output device",
+        "Input device"
+       ],
+       "answer": 0,
+       "why": "ROM chips hold the instructions for starting the computer and belong to the processing part of the computer."
+      },
+      {
+       "q": "A mouse with a red ball (track ball) on top is which type of device?",
+       "options": [
+        "Output device",
+        "Storage device",
+        "Processing device",
+        "Input device"
+       ],
+       "answer": 3,
+       "why": "Moving the ball of the track ball mouse moves the cursor, so it is an input device — a device for sending data in."
+      },
+      {
+       "q": "A hard disk drive and an SSD are which type of device?",
+       "options": [
+        "Input devices",
+        "Output devices",
+        "Storage devices",
+        "Communication devices"
+       ],
+       "answer": 2,
+       "why": "Both the hard disk and the SSD are used to store data and programs permanently, so they are storage devices."
+      },
+      {
+       "q": "A hand-held barcode scanner is which type of device?",
+       "options": [
+        "Output device",
+        "Input device",
+        "Storage device",
+        "Processing device"
+       ],
+       "answer": 1,
+       "why": "A barcode scanner reads the barcode data and sends it to the computer, so it is an input device."
+      },
+      {
+       "q": "A network switch (D-Link) is which type of device?",
+       "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Communication device"
+       ],
+       "answer": 3,
+       "why": "A network switch is a communication device — it is used to connect computers together in a network."
+      },
+      {
+       "q": "A microprocessor chip (Intel Pentium 4) is which type of device?",
+       "options": [
+        "Input device",
+        "Processing device",
+        "Output device",
+        "Storage device"
+       ],
+       "answer": 1,
+       "why": "The microprocessor is the processing brain of the computer, which processes data, so it is a processing device."
+      },
+      {
+       "q": "System software is the type of software used to:",
+       "options": [
+        "Help the user in everyday tasks only",
+        "Draw pictures in Paint",
+        "Manage and control the computer",
+        "Play games and music"
+       ],
+       "answer": 2,
+       "why": "System software manages and controls the computer — for example Windows, macOS and Linux. Helping the user in everyday tasks is the work of application software."
+      },
+      {
+       "q": "Application software is the type of software used to:",
+       "options": [
+        "Help the user in everyday tasks",
+        "Manage and control the computer",
+        "Start the computer's hardware",
+        "Connect networks together"
+       ],
+       "answer": 0,
+       "why": "Application software helps the user in everyday tasks — for example word processing, MS Paint, games and Chrome."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Skills / Use of Computer",
+   "lessons": [
+    {
+     "title": "Operating System and the Taskbar",
+     "notes_html": "<h4>Operating System</h4>\n<p>An operating system is a program that controls and manages all the parts and programs of the computer, so that using the computer becomes simple and easy for a person. Its main functions are:</p>\n<ul>\n<li>Managing resources</li>\n<li>Providing an environment to the user</li>\n<li>Running programs</li>\n<li>Managing files</li>\n<li>Security</li>\n</ul>\n<h4>The Taskbar in Windows 10</h4>\n<p>The taskbar is a horizontal strip at the bottom of the desktop. It organises the different Windows features and gives quick access to them, such as: opening applications, searching, viewing the date and time, changing settings, and so on.</p>\n<h4>Search Box</h4>\n<p>The \"Type here to search\" box is used to search for files, folders, applications, settings and things on the web; as soon as a word is typed in it, the matching results appear.</p>\n<h4>System Tray (Notification Area)</h4>\n<p>This is the right-hand part of the taskbar, which shows system states such as the battery level, sound, network connection, date and time, and gives access to their settings.</p>\n<h4>Notepad</h4>\n<p>Notepad is a simple writing program present in Windows, which is included in every edition of Windows.</p>\n<h4>Matching Icons from the Book</h4>\n<table>\n<tr><th>Picture</th><th>Name</th></tr>\n<tr><td>Paint brush icon</td><td>Brush</td></tr>\n<tr><td>Edge icon</td><td>Web browser</td></tr>\n<tr><td>Windows logo</td><td>Windows 10 Start menu / Start button</td></tr>\n<tr><td>The three window control buttons</td><td>Window controls</td></tr>\n<tr><td>Recycle Bin icon</td><td>Recycle Bin</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "An operating system is a program that:",
+       "options": [
+        "Only plays games and songs",
+        "Controls and manages all the parts and programs of the computer",
+        "Only draws pictures",
+        "Prints documents on paper"
+       ],
+       "answer": 1,
+       "why": "An operating system controls and manages all the parts and programs of the computer, so that using the computer becomes simple and easy for a person."
+      },
+      {
+       "q": "Which of these is a main function of the operating system?",
+       "options": [
+        "Cooking food",
+        "Printing posters",
+        "Managing files",
+        "Repairing broken hardware"
+       ],
+       "answer": 2,
+       "why": "The book lists the operating system's main functions as: managing resources, providing an environment to the user, running programs, managing files, and security."
+      },
+      {
+       "q": "The taskbar in Windows 10 is:",
+       "options": [
+        "A horizontal strip at the bottom of the desktop",
+        "A folder for deleted files",
+        "A program for drawing",
+        "A storage device"
+       ],
+       "answer": 0,
+       "why": "The taskbar is a horizontal strip at the bottom of the desktop. It organises the different Windows features and gives quick access to them."
+      },
+      {
+       "q": "What is the main role of the taskbar in Windows 10?",
+       "options": [
+        "Managing the machine's resources",
+        "Providing an environment for the user for files and folders",
+        "Protecting the machine from viruses",
+        "Organising the different Windows features and giving quick access to them"
+       ],
+       "answer": 3,
+       "why": "The taskbar's main role is organising the different Windows features and giving quick access to them — such as opening applications, searching, and viewing the date and time."
+      },
+      {
+       "q": "The taskbar gives quick access to things such as:",
+       "options": [
+        "Storing deleted files",
+        "Filling colours in a drawing",
+        "Opening applications, searching, and viewing the date and time",
+        "Writing computer programs"
+       ],
+       "answer": 2,
+       "why": "From the taskbar we can open applications, search, view the date and time, and change settings."
+      },
+      {
+       "q": "The \"Type here to search\" box is called the:",
+       "options": [
+        "Search box",
+        "Recycle Bin",
+        "System tray",
+        "Folder"
+       ],
+       "answer": 0,
+       "why": "The box with \"Type here to search\" written on it is the Search box of Windows 10, found on the taskbar."
+      },
+      {
+       "q": "The Search box is used to search for:",
+       "options": [
+        "Only songs and videos",
+        "Files, folders, applications, settings and things on the web",
+        "Only games",
+        "Only pictures"
+       ],
+       "answer": 1,
+       "why": "The Search box searches for files, folders, applications, settings and things on the web; as soon as a word is typed, the matching results appear."
+      },
+      {
+       "q": "The right-hand part of the taskbar, where the time, date, battery, sound and network symbols appear, is called the:",
+       "options": [
+        "Search box",
+        "Start menu",
+        "Recycle Bin",
+        "System tray or notification area"
+       ],
+       "answer": 3,
+       "why": "The system tray (notification area) is the right-hand part of the taskbar. It shows the battery level, sound, network connection, date and time."
+      },
+      {
+       "q": "Notepad is:",
+       "options": [
+        "A simple writing program included in every edition of Windows",
+        "A drawing program",
+        "A web browser",
+        "A search engine"
+       ],
+       "answer": 0,
+       "why": "Notepad is a simple writing program present in Windows, and it is included in every edition of Windows."
+      },
+      {
+       "q": "In the book's matching exercise, the Windows logo matches with:",
+       "options": [
+        "Brush",
+        "Web browser",
+        "Recycle Bin",
+        "Windows 10 Start menu / Start button"
+       ],
+       "answer": 3,
+       "why": "In the matching exercise: the Windows logo matches the Windows 10 Start menu / Start button, the Edge icon matches Web browser, and the Paint brush icon matches Brush."
+      }
+     ]
+    },
+    {
+     "title": "Files, Folders and the Recycle Bin",
+     "notes_html": "<h4>File Explorer</h4>\n<p>File Explorer in Windows 10 is used for viewing and organising files and folders.</p>\n<h4>Folder</h4>\n<p>A folder is a box or container for organising and storing files; different kinds of files can be kept in separate folders. Its icon is a yellow folder.</p>\n<h4>Recycle Bin</h4>\n<p>The Recycle Bin is a special folder in Windows in which deleted files and folders stay safely stored for some time, so that they can be brought back if needed. Its icon shows a basket-like picture.</p>\n<h4>Making a Shortcut</h4>\n<p>In Windows 10, by right-clicking on a selected file or folder, one can make its shortcut by choosing <b>Create Shortcut</b> from the menu that appears.</p>",
+     "mcqs": [
+      {
+       "q": "What is File Explorer used for in Windows 10?",
+       "options": [
+        "Managing the machine's resources",
+        "Organising the Windows features and giving quick access to them",
+        "Viewing and organising files and folders",
+        "Protecting the machine from viruses"
+       ],
+       "answer": 2,
+       "why": "File Explorer is used for viewing and organising files and folders in Windows 10."
+      },
+      {
+       "q": "Where do deleted files stay stored for some time?",
+       "options": [
+        "Windows taskbar",
+        "Recycle Bin",
+        "System tray",
+        "Windows desktop"
+       ],
+       "answer": 1,
+       "why": "Deleted files stay in the Recycle Bin for some time, so they can be brought back if needed."
+      },
+      {
+       "q": "The Recycle Bin is:",
+       "options": [
+        "A drawing program",
+        "A storage device",
+        "A website",
+        "A special folder in Windows"
+       ],
+       "answer": 3,
+       "why": "The Recycle Bin is a special folder in Windows in which deleted files and folders stay safely stored for some time."
+      },
+      {
+       "q": "Files kept in the Recycle Bin can be:",
+       "options": [
+        "Never seen again",
+        "Brought back if needed",
+        "Printed automatically",
+        "Sent to the internet"
+       ],
+       "answer": 1,
+       "why": "Deleted files stay safely in the Recycle Bin for some time, so that they can be brought back (restored) if needed."
+      },
+      {
+       "q": "A folder is used to:",
+       "options": [
+        "Play music",
+        "Connect to networks",
+        "Organise and store files",
+        "Draw pictures"
+       ],
+       "answer": 2,
+       "why": "A folder is a box or container for organising and storing files; different kinds of files can be kept in separate folders."
+      },
+      {
+       "q": "Different kinds of files can be kept in:",
+       "options": [
+        "Separate folders",
+        "One dustbin",
+        "The taskbar",
+        "The monitor"
+       ],
+       "answer": 0,
+       "why": "The book says different kinds of files can be kept in separate folders, which keeps our work organised."
+      },
+      {
+       "q": "To make a shortcut of a selected file or folder, right-click it and choose:",
+       "options": [
+        "Recycle Bin",
+        "Create Shortcut",
+        "Fill with color",
+        "Search box"
+       ],
+       "answer": 1,
+       "why": "In Windows 10, by right-clicking on a selected file or folder, one can make its shortcut by choosing Create Shortcut from the menu that appears."
+      },
+      {
+       "q": "The Recycle Bin icon shows a picture like a:",
+       "options": [
+        "Yellow folder",
+        "Colourful circle",
+        "Basket",
+        "Paint brush"
+       ],
+       "answer": 2,
+       "why": "The Recycle Bin icon shows a basket-like picture. The yellow folder is the Folder icon, and the colourful circle is Google Chrome."
+      },
+      {
+       "q": "The yellow folder icon is the:",
+       "options": [
+        "Folder",
+        "Recycle Bin",
+        "Google Chrome",
+        "Search box"
+       ],
+       "answer": 0,
+       "why": "The yellow folder icon is the Folder — a container for organising and storing files."
+      },
+      {
+       "q": "If you delete a file by mistake, you can get it back from the:",
+       "options": [
+        "System tray",
+        "Notepad",
+        "MS Paint",
+        "Recycle Bin"
+       ],
+       "answer": 3,
+       "why": "Deleted files stay in the Recycle Bin for some time, so a file deleted by mistake can be brought back from there."
+      }
+     ]
+    },
+    {
+     "title": "Drawing in MS Paint",
+     "notes_html": "<h4>Quick Access Toolbar</h4>\n<p>The benefit of the Quick Access Toolbar in MS Paint is getting access to everyday features such as <b>Save</b> and <b>Undo</b>.</p>\n<h4>Making an Outline and Filling Colour</h4>\n<ul>\n<li>First choose a shape from the Tools box and draw the outline of the drawing with the mouse.</li>\n<li>Then choose the \"Fill with color\" tool from the Tools box.</li>\n<li>Pick the required colour from the colour palette and click inside the shape, so the inside gets filled with colour.</li>\n<li>To change the outline or the inside colour, select the Colour 1 or Colour 2 box and choose a new colour.</li>\n</ul>\n<h4>Colour Palette</h4>\n<p>The Colour palette holds many colours to choose from for filling colour in a drawing.</p>\n<h4>Undo Shortcut</h4>\n<p>In MS Paint, the <b>CTRL+Z</b> keyboard shortcut is pressed to take back (undo) the last action performed.</p>",
+     "mcqs": [
+      {
+       "q": "What is the benefit of the Quick Access Toolbar in MS Paint?",
+       "options": [
+        "Making a picture or drawing",
+        "Inserting shapes such as circles and rectangles",
+        "Getting access to everyday features such as Save and Undo",
+        "Making a picture with the freehand tool"
+       ],
+       "answer": 2,
+       "why": "The Quick Access Toolbar gives quick access to everyday features such as Save and Undo in MS Paint."
+      },
+      {
+       "q": "To draw the outline of a drawing in Paint, first we choose:",
+       "options": [
+        "A shape from the Tools box",
+        "A colour from the Recycle Bin",
+        "A file from a folder",
+        "An icon from the taskbar"
+       ],
+       "answer": 0,
+       "why": "First choose a shape from the Tools box and draw the outline of the drawing with the mouse."
+      },
+      {
+       "q": "The outline of the drawing is drawn with the:",
+       "options": [
+        "Keyboard",
+        "Mouse",
+        "Printer",
+        "Scanner"
+       ],
+       "answer": 1,
+       "why": "The book's method says: choose a shape from the Tools box and draw the outline of the drawing with the mouse."
+      },
+      {
+       "q": "The tool used to fill colour inside a shape is:",
+       "options": [
+        "Create Shortcut",
+        "Search box",
+        "System tray",
+        "Fill with color"
+       ],
+       "answer": 3,
+       "why": "After drawing the outline, choose the \"Fill with color\" tool from the Tools box to fill colour inside the shape."
+      },
+      {
+       "q": "After choosing the Fill with color tool and a colour, we click:",
+       "options": [
+        "Inside the shape",
+        "On the taskbar",
+        "In the Recycle Bin",
+        "On the desktop"
+       ],
+       "answer": 0,
+       "why": "Pick the required colour from the colour palette and click inside the shape, so the inside gets filled with colour."
+      },
+      {
+       "q": "Colours for filling a drawing are picked from the:",
+       "options": [
+        "Taskbar",
+        "Folder",
+        "Desktop",
+        "Colour palette"
+       ],
+       "answer": 3,
+       "why": "The Colour palette holds many colours to choose from for filling colour in a drawing."
+      },
+      {
+       "q": "The ______ palette holds many colours to choose from.",
+       "options": [
+        "Tools",
+        "File",
+        "Colour",
+        "View"
+       ],
+       "answer": 2,
+       "why": "The Colour palette holds many colours to choose from for filling colour in a drawing."
+      },
+      {
+       "q": "To change the outline or the inside colour, we select:",
+       "options": [
+        "The Recycle Bin",
+        "The Colour 1 or Colour 2 box",
+        "The Start menu",
+        "The system tray"
+       ],
+       "answer": 1,
+       "why": "To change the outline or the inside colour, select the Colour 1 or Colour 2 box and choose a new colour."
+      },
+      {
+       "q": "In MS Paint, the keyboard shortcut to take back the last action performed is:",
+       "options": [
+        "CTRL+X",
+        "CTRL+P",
+        "CTRL+A",
+        "CTRL+Z"
+       ],
+       "answer": 3,
+       "why": "In MS Paint, CTRL+Z is pressed to take back (undo) the last action performed."
+      },
+      {
+       "q": "In the book's matching exercise, the Paint brush icon stands for:",
+       "options": [
+        "Web browser",
+        "Brush",
+        "Window controls",
+        "Start menu"
+       ],
+       "answer": 1,
+       "why": "In the matching exercise, the Paint brush icon matches Brush, the Edge icon matches Web browser, and the three window control buttons match Window controls."
+      }
+     ]
+    },
+    {
+     "title": "Search Engines and Safe Internet Use",
+     "notes_html": "<h4>What is a Search Engine?</h4>\n<p>Search engines are websites that help find information on the internet quickly and easily. The user types a <b>keyword</b> or a simple sentence in the search bar, and the search engine shows a list of links to matching websites.</p>\n<p><b>Examples:</b> Google, Bing, Yahoo, Ask and DuckDuckGo.</p>\n<p>The main purpose of a search engine is helping users find information about a particular topic.</p>\n<h4>Google Chrome</h4>\n<p>The colourful circle icon is Google Chrome — a web browser through which websites on the internet are opened and viewed. It is one of the most widely used browsers in the world.</p>\n<h4>Safety Points While Using the Internet</h4>\n<ul>\n<li>Do not generally share your personal information such as your name, phone number, bank account, card details, address and password with anyone.</li>\n<li>Before clicking any web link, confirm that it is genuine, so that you can stay safe from a harmful file or fraud.</li>\n<li>Always behave online with respect and kindness towards others.</li>\n<li>If anything online feels strange or wrong, tell your parents or teacher at once.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the main purpose of a search engine on the internet?",
+       "options": [
+        "Helping users create a particular web page",
+        "Helping users download films",
+        "Helping users find information about a particular topic",
+        "Helping users play online games"
+       ],
+       "answer": 2,
+       "why": "The main purpose of a search engine is helping users find information about a particular topic quickly and easily."
+      },
+      {
+       "q": "After we type a keyword, a search engine shows:",
+       "options": [
+        "A list of links to matching websites",
+        "Only video games",
+        "Only films to download",
+        "Printed pages"
+       ],
+       "answer": 0,
+       "why": "The user types a keyword or a simple sentence in the search bar, and the search engine shows a list of links to matching websites."
+      },
+      {
+       "q": "In the search bar, the user types:",
+       "options": [
+        "His password",
+        "A keyword or a simple sentence",
+        "A picture of himself",
+        "A song"
+       ],
+       "answer": 1,
+       "why": "Search engines work on keywords: the user types a keyword or a simple sentence, and gets links to matching websites."
+      },
+      {
+       "q": "Which of these is a search engine?",
+       "options": [
+        "MS Paint",
+        "Notepad",
+        "Google",
+        "Recycle Bin"
+       ],
+       "answer": 2,
+       "why": "Google is a search engine. The book also names Bing, Yahoo, Ask and DuckDuckGo. Paint and Notepad are Windows programs, and the Recycle Bin is a folder."
+      },
+      {
+       "q": "A search engine helps the user find the required information on the basis of given ______ or sentences.",
+       "options": [
+        "Keywords",
+        "Passwords",
+        "Pictures",
+        "Icons"
+       ],
+       "answer": 0,
+       "why": "A search engine helps the user find the required information or data on the basis of given keywords or sentences."
+      },
+      {
+       "q": "The colourful circle icon is:",
+       "options": [
+        "A folder",
+        "The Recycle Bin",
+        "The Search box",
+        "Google Chrome, a web browser"
+       ],
+       "answer": 3,
+       "why": "The colourful circle icon is Google Chrome. It is a web browser through which websites on the internet are opened and viewed."
+      },
+      {
+       "q": "A web browser is used to:",
+       "options": [
+        "Delete files permanently",
+        "Draw pictures",
+        "Open and view websites on the internet",
+        "Store data on a disc"
+       ],
+       "answer": 2,
+       "why": "Google Chrome is a web browser — through it, websites on the internet are opened and viewed. It is one of the most widely used browsers in the world."
+      },
+      {
+       "q": "Which personal information should NOT be shared with anyone online?",
+       "options": [
+        "Password and bank account details",
+        "Your favourite colour",
+        "The name of a story book",
+        "The name of a game"
+       ],
+       "answer": 0,
+       "why": "The book says: do not generally share your personal information such as your name, phone number, bank account, card details, address and password with anyone."
+      },
+      {
+       "q": "Before clicking any web link, you should:",
+       "options": [
+        "Click it as quickly as possible",
+        "Confirm that it is genuine",
+        "Share it with strangers",
+        "Always ignore every link"
+       ],
+       "answer": 1,
+       "why": "Before clicking any web link, confirm that it is genuine, so that you can stay safe from a harmful file or fraud."
+      },
+      {
+       "q": "If anything online feels strange or wrong, you should:",
+       "options": [
+        "Keep it secret from everyone",
+        "Reply to the stranger",
+        "Share your home address",
+        "Tell your parents or teacher at once"
+       ],
+       "answer": 3,
+       "why": "The book's safety rule: if anything online feels strange or wrong, tell your parents or teacher at once."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Algorithmic Thinking and Problem Solving",
+   "lessons": [
+    {
+     "title": "Simple and Complex Problems",
+     "notes_html": "<h4>What is a Problem?</h4>\n<p>Here, the word \"problem\" means <b>a challenge waiting for a solution</b>.</p>\n<h4>Simple Problems</h4>\n<p>A simple problem is one solved just by joining steps in order, needing no expert. Simple problems are ones with <b>small</b> requirements.</p>\n<ul>\n<li>Making a cake</li>\n<li>Putting on your shoes</li>\n<li>Making noodles — pour water, boil it, add the noodles, mix in the seasoning and serve</li>\n</ul>\n<h4>Complex Problems</h4>\n<p>A complex problem is one needing many stages, thinking and different methods.</p>\n<ul>\n<li>Finding the LCM of three numbers</li>\n<li>Checking whether a number is prime</li>\n<li>Making a robot or a video game</li>\n</ul>\n<h4>Planning a Solution</h4>\n<p>To make a plan for solving a problem we need <b>facts, input and output</b> (instructions come after them).</p>",
+     "mcqs": [
+      {
+       "q": "What is meant here by the word \"problem\"?",
+       "options": [
+        "A challenge waiting for a solution",
+        "A game",
+        "A story book",
+        "A film"
+       ],
+       "answer": 0,
+       "why": "In this chapter, a problem is a challenge waiting for a solution — a thing or situation that needs to be solved."
+      },
+      {
+       "q": "Which of the following tasks can be given as an example of a simple problem?",
+       "options": [
+        "Making a robot",
+        "Making a video game",
+        "Finding the LCM of three numbers",
+        "Making a cake"
+       ],
+       "answer": 3,
+       "why": "The book gives cake-making as an example of a simple problem, solved by joining steps in order. Making a robot, a video game or finding an LCM needs many stages and methods."
+      },
+      {
+       "q": "A simple problem is solved by:",
+       "options": [
+        "Using many different methods",
+        "Working in many stages",
+        "Joining steps in order, needing no expert",
+        "Calling an expert every time"
+       ],
+       "answer": 2,
+       "why": "A simple problem is one solved just by joining steps in order, needing no expert — like making a cake or making noodles."
+      },
+      {
+       "q": "Finding the LCM of three numbers is a:",
+       "options": [
+        "Simple problem",
+        "Complex problem",
+        "Game",
+        "Story"
+       ],
+       "answer": 1,
+       "why": "Finding the LCM of three numbers needs many stages, thinking and different methods, so the book calls it a complex problem."
+      },
+      {
+       "q": "A complex problem needs:",
+       "options": [
+        "No thinking at all",
+        "Only one small step",
+        "Nothing but a pencil",
+        "Many stages, thinking and different methods"
+       ],
+       "answer": 3,
+       "why": "A complex problem is one needing many stages, thinking and different methods — for example checking whether a number is prime."
+      },
+      {
+       "q": "What things do we need to make a plan for solving a problem?",
+       "options": [
+        "Only procedures",
+        "Facts, input, output",
+        "Only tools",
+        "Only detail"
+       ],
+       "answer": 1,
+       "why": "To make a plan we need facts, input and output; instructions come after them. Together these are the parts used in breaking a problem down."
+      },
+      {
+       "q": "Simple problems are ones with ______ requirements.",
+       "options": [
+        "Huge",
+        "No",
+        "Small",
+        "Secret"
+       ],
+       "answer": 2,
+       "why": "Simple problems are ones with small requirements — they are solved by joining steps in order."
+      },
+      {
+       "q": "Making noodles is a simple problem because:",
+       "options": [
+        "It is solved just by joining steps in order",
+        "It needs a robot",
+        "It has many difficult stages",
+        "It needs an expert cook"
+       ],
+       "answer": 0,
+       "why": "Making noodles — pour water, boil it, add the noodles, mix in the seasoning and serve — is solved just by joining steps in order and needs no expert."
+      },
+      {
+       "q": "Checking whether a number is prime is a:",
+       "options": [
+        "Simple problem",
+        "Complex problem",
+        "Game",
+        "Plan"
+       ],
+       "answer": 1,
+       "why": "The book gives checking whether a number is prime as an example of a complex problem, because it needs thinking and a proper method."
+      },
+      {
+       "q": "Putting on your shoes is a:",
+       "options": [
+        "Complex problem",
+        "Challenge needing an expert",
+        "Simple problem",
+        "Problem with many stages"
+       ],
+       "answer": 2,
+       "why": "Putting on shoes is done by joining a few steps in order and needs no expert, so it is a simple problem."
+      }
+     ]
+    },
+    {
+     "title": "Steps of Problem Solving",
+     "notes_html": "<h4>The Six Problem-Solving Stages</h4>\n<ul>\n<li><b>1. Identify the problem</b> — know exactly what the problem is.</li>\n<li><b>2. Gather information</b> — collect facts about it.</li>\n<li><b>3. Review possible solutions</b> — think of the different ways.</li>\n<li><b>4. Choose the best solution</b> — pick the best way.</li>\n<li><b>5. Carry out the solution</b> — act on the chosen way.</li>\n<li><b>6. Evaluate the result</b> — check whether the solution worked.</li>\n</ul>\n<h4>Example: A Birthday Gift for a Friend</h4>\n<ul>\n<li>1. Identify — which gift to give the friend.</li>\n<li>2. Gather information — think about the friend's likes, the budget and the shops.</li>\n<li>3. Review solutions — a book, a game, a gift voucher or a photo album.</li>\n<li>4. Choose the best — a special photo album of the friend's memories.</li>\n<li>5. Carry out — collect photos and make the album.</li>\n<li>6. Evaluate — if the friend is happy the solution worked, otherwise change the plan.</li>\n</ul>\n<h4>Example: Ali Has a Severe Headache</h4>\n<ul>\n<li>Identify — Ali has a severe headache and needs treatment.</li>\n<li>Gather information — how long the pain has lasted, whether there is fever or other symptoms.</li>\n<li>Review solutions — rest, water, medicine or going to the doctor.</li>\n<li>Choose the best — consult the doctor.</li>\n<li>Act — go to the doctor and follow the advice.</li>\n<li>Evaluate — if the pain eases the solution worked, otherwise contact the doctor again.</li>\n</ul>\n<h4>Benefits of the Step-by-Step Way</h4>\n<p>The step-by-step way is clear and organised; no step is forgotten, each step can be tested separately, a mistake shows up quickly, the work can be repeated, and everyone can easily understand the instructions. It also reduces the risk of failure: every step is fixed in advance, the order does not get mixed up, and if the result is not good you can go back to step 2 and change the plan.</p>",
+     "mcqs": [
+      {
+       "q": "How many stages are there in the problem-solving method of this chapter?",
+       "options": [
+        "Six",
+        "Three",
+        "Four",
+        "Ten"
+       ],
+       "answer": 0,
+       "why": "The chapter uses six problem-solving stages: identify the problem, gather information, review possible solutions, choose the best solution, carry out the solution, and evaluate the result."
+      },
+      {
+       "q": "The first stage of problem solving is:",
+       "options": [
+        "Choose the best solution",
+        "Evaluate the result",
+        "Carry out the solution",
+        "Identify the problem"
+       ],
+       "answer": 3,
+       "why": "First we identify the problem — we must know exactly what the problem is before gathering information about it."
+      },
+      {
+       "q": "In the birthday-gift example, thinking about the friend's likes, the budget and the shops is which stage?",
+       "options": [
+        "Identify the problem",
+        "Carry out the solution",
+        "Gather information",
+        "Evaluate the result"
+       ],
+       "answer": 2,
+       "why": "Thinking about the friend's likes, the budget and the shops means collecting facts about the problem — the Gather information stage."
+      },
+      {
+       "q": "In the birthday-gift example, choosing the photo album is which stage?",
+       "options": [
+        "Choose the best solution",
+        "Gather information",
+        "Identify the problem",
+        "Evaluate the result"
+       ],
+       "answer": 0,
+       "why": "After reviewing a book, a game, a gift voucher and a photo album, choosing the photo album is the Choose the best solution stage."
+      },
+      {
+       "q": "The last stage of problem solving is:",
+       "options": [
+        "Identify the problem",
+        "Evaluate the result",
+        "Gather information",
+        "Review possible solutions"
+       ],
+       "answer": 1,
+       "why": "The sixth and last stage is Evaluate the result — checking whether the solution worked, and changing the plan if it did not."
+      },
+      {
+       "q": "In Ali's headache problem, the best solution chosen was:",
+       "options": [
+        "Only rest and do nothing",
+        "Ignore the headache",
+        "Play games all day",
+        "Consult the doctor"
+       ],
+       "answer": 3,
+       "why": "Ali reviewed rest, water, medicine and going to the doctor, and chose the best solution — consult the doctor — then followed the advice."
+      },
+      {
+       "q": "The step-by-step way of solving a problem is helpful because:",
+       "options": [
+        "No step is forgotten and each step can be tested separately",
+        "It hides every mistake",
+        "It needs no plan at all",
+        "It makes the work secret"
+       ],
+       "answer": 0,
+       "why": "The step-by-step way is clear and organised; no step is forgotten, each step can be tested separately, and a mistake shows up quickly."
+      },
+      {
+       "q": "In the step-by-step way, a mistake:",
+       "options": [
+        "Can never be found",
+        "Ends the whole work",
+        "Is hidden forever",
+        "Shows up quickly"
+       ],
+       "answer": 3,
+       "why": "Because each step can be tested separately, a mistake shows up quickly and can be corrected early."
+      },
+      {
+       "q": "If the result of a solution is not good, the step-by-step way lets you:",
+       "options": [
+        "Throw everything away",
+        "Stop solving problems forever",
+        "Go back to step 2 and change the plan",
+        "Blame other people"
+       ],
+       "answer": 2,
+       "why": "A step-by-step plan reduces the risk of failure: if the result is not good you can go back to step 2 and change the plan."
+      },
+      {
+       "q": "Collecting photos and making the album, in the gift example, is which stage?",
+       "options": [
+        "Identify the problem",
+        "Carry out the solution",
+        "Gather information",
+        "Evaluate the result"
+       ],
+       "answer": 1,
+       "why": "Collecting the photos and making the album is acting on the chosen solution — the Carry out the solution stage."
+      }
+     ]
+    },
+    {
+     "title": "Breaking a Problem into Parts",
+     "notes_html": "<h4>What is Breaking a Problem Down?</h4>\n<p>Breaking a problem down means <b>dividing it into small parts</b>. Dividing a problem helps us understand each <b>part</b> of the problem better.</p>\n<h4>Example: Building a Lego Castle</h4>\n<ul>\n<li>Split the castle into parts — base, walls, towers, doors and roof.</li>\n<li>Separate the pieces and colours needed for each part.</li>\n<li>Build one part at a time.</li>\n<li>Finally join all the parts to complete the castle.</li>\n</ul>\n<p>Dividing makes the big task easy and understandable.</p>\n<h4>Why Divide a Big Problem?</h4>\n<p>A big problem looks difficult all at once. Small parts are easier to understand, solve and test; the facts, input, output and instructions of each part become clear, and then all the parts together give the full solution.</p>\n<h4>Example: Buying Household Items</h4>\n<ul>\n<li>1. Make a list of which items are needed.</li>\n<li>2. Check the money and budget.</li>\n<li>3. Decide the route to the shop.</li>\n<li>4. Choose the items in the shop and compare prices.</li>\n<li>5. Pay and buy the items.</li>\n<li>6. Bring the items home and put them away.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is meant by breaking a problem down?",
+       "options": [
+        "Making it more difficult",
+        "Solving it quickly without thinking",
+        "Ignoring it",
+        "Dividing it into small parts"
+       ],
+       "answer": 3,
+       "why": "Breaking a problem down means dividing it into small parts, which makes it easier to understand and solve."
+      },
+      {
+       "q": "In the Lego castle example, the castle is split into:",
+       "options": [
+        "Only two halves",
+        "Base, walls, towers, doors and roof",
+        "Only the colours",
+        "Only the roof"
+       ],
+       "answer": 1,
+       "why": "The castle is split into parts — base, walls, towers, doors and roof — and the pieces and colours for each part are separated."
+      },
+      {
+       "q": "After building each part of the castle separately, we:",
+       "options": [
+        "Throw the parts away",
+        "Paint the parts and stop",
+        "Join all the parts to complete the castle",
+        "Count the parts only"
+       ],
+       "answer": 2,
+       "why": "We build one part at a time and finally join all the parts to complete the castle. Dividing makes the big task easy and understandable."
+      },
+      {
+       "q": "A big problem, taken all at once, looks:",
+       "options": [
+        "Difficult",
+        "Very easy",
+        "Already finished",
+        "Very small"
+       ],
+       "answer": 0,
+       "why": "A big problem looks difficult all at once; that is why we divide it into small parts that are easier to understand, solve and test."
+      },
+      {
+       "q": "Small parts of a problem are easier to:",
+       "options": [
+        "Ignore completely",
+        "Understand, solve and test",
+        "Hide from others",
+        "Forget quickly"
+       ],
+       "answer": 1,
+       "why": "Small parts are easier to understand, solve and test, and the facts, input, output and instructions of each part become clear."
+      },
+      {
+       "q": "Dividing a problem helps us understand each ______ of the problem better.",
+       "options": [
+        "Game",
+        "Picture",
+        "Part",
+        "Story"
+       ],
+       "answer": 2,
+       "why": "Dividing a problem helps us understand each part of the problem better — this is the book's fill-in-the-blank answer."
+      },
+      {
+       "q": "In the shopping example, the first small problem is:",
+       "options": [
+        "Make a list of which items are needed",
+        "Pay for the items",
+        "Bring the items home",
+        "Put the items away"
+       ],
+       "answer": 0,
+       "why": "The shopping task is divided into small problems, and the first one is making a list of which items are needed."
+      },
+      {
+       "q": "In the shopping example, in the shop we should:",
+       "options": [
+        "Buy without looking",
+        "Hide the list",
+        "Leave without paying",
+        "Choose the items and compare prices"
+       ],
+       "answer": 3,
+       "why": "One of the small problems in the shopping example is: choose the items in the shop and compare prices, after checking the money and budget."
+      },
+      {
+       "q": "When all the small parts of a problem are solved, together they give:",
+       "options": [
+        "A new problem",
+        "Nothing at all",
+        "The full solution",
+        "A game to play"
+       ],
+       "answer": 2,
+       "why": "All the parts together give the full solution — that is the benefit of breaking a problem down."
+      },
+      {
+       "q": "Dividing a big problem into parts makes the big task:",
+       "options": [
+        "Easy and understandable",
+        "More difficult",
+        "Impossible to finish",
+        "A secret"
+       ],
+       "answer": 0,
+       "why": "Dividing makes the big task easy and understandable, as shown by the Lego castle example."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms in Daily Life",
+     "notes_html": "<h4>What is an Algorithm?</h4>\n<p>An algorithm is a <b>step-by-step plan</b> for solving a problem. Every algorithm starts with <b>Start</b> and ends with <b>Stop</b>.</p>\n<h4>Algorithm: Getting Ready for School</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Wake up</li>\n<li>3. Brush your teeth and bathe</li>\n<li>4. Put on the school uniform</li>\n<li>5. Eat breakfast</li>\n<li>6. Pack the school bag</li>\n<li>7. Go to school</li>\n<li>8. Stop</li>\n</ul>\n<h4>Algorithm: Planting Flowers</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Choose a place for planting</li>\n<li>3. Dig the soil</li>\n<li>4. Put in the seed</li>\n<li>5. Give water</li>\n<li>6. Cover with soil and look after it</li>\n<li>7. Stop</li>\n</ul>\n<h4>Algorithm: Making Tea</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Boil water</li>\n<li>3. Put a tea bag or leaves in the cup</li>\n<li>4. Pour the boiled water into the cup</li>\n<li>5. Leave it for 3 to 5 minutes</li>\n<li>6. Serve with lemon, honey or milk</li>\n<li>7. Stop</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "An algorithm is a step-by-step ______ for solving a problem.",
+       "options": [
+        "Language",
+        "Plan",
+        "Part",
+        "Game"
+       ],
+       "answer": 1,
+       "why": "An algorithm is a step-by-step plan for solving a problem — this is the book's fill-in-the-blank answer."
+      },
+      {
+       "q": "In the getting-ready-for-school algorithm, the step right after Start is:",
+       "options": [
+        "Eat breakfast",
+        "Pack the school bag",
+        "Go to school",
+        "Wake up"
+       ],
+       "answer": 3,
+       "why": "The algorithm is: Start; Wake up; Brush your teeth and bathe; Put on the school uniform; Eat breakfast; Pack the school bag; Go to school; Stop."
+      },
+      {
+       "q": "In the school algorithm, eating breakfast comes:",
+       "options": [
+        "After putting on the school uniform",
+        "Before waking up",
+        "After going to school",
+        "After Stop"
+       ],
+       "answer": 0,
+       "why": "The order in the book is: wake up, brush teeth and bathe, put on the school uniform, then eat breakfast, then pack the bag and go to school."
+      },
+      {
+       "q": "In the planting-flowers algorithm, after digging the soil we:",
+       "options": [
+        "Give water first",
+        "Cover with soil",
+        "Stop the algorithm",
+        "Put in the seed"
+       ],
+       "answer": 3,
+       "why": "The flowers algorithm is: choose a place, dig the soil, put in the seed, give water, cover with soil and look after it."
+      },
+      {
+       "q": "In the planting-flowers algorithm, after putting in the seed we:",
+       "options": [
+        "Dig the soil again",
+        "Choose a place",
+        "Give water",
+        "Stop at once"
+       ],
+       "answer": 2,
+       "why": "After the seed is put in, we give water, and then cover with soil and look after the plant."
+      },
+      {
+       "q": "Every algorithm begins with:",
+       "options": [
+        "Stop",
+        "Start",
+        "Print",
+        "Enter"
+       ],
+       "answer": 1,
+       "why": "Every algorithm in this chapter begins with Start and ends with Stop."
+      },
+      {
+       "q": "Every algorithm ends with:",
+       "options": [
+        "Start",
+        "Wake up",
+        "Print",
+        "Stop"
+       ],
+       "answer": 3,
+       "why": "Stop is the last step of every algorithm — it shows that the plan is finished."
+      },
+      {
+       "q": "In the tea-making algorithm, the tea bag or leaves are put in the cup:",
+       "options": [
+        "Before boiling the water",
+        "After boiling the water",
+        "At the very end, after serving",
+        "Instead of boiling water"
+       ],
+       "answer": 1,
+       "why": "The tea algorithm is: boil water; put a tea bag or leaves in the cup; pour the boiled water into the cup; leave it for 3 to 5 minutes; serve."
+      },
+      {
+       "q": "In the tea-making algorithm, the tea is left for ______ before serving.",
+       "options": [
+        "About 1 hour",
+        "Only 10 seconds",
+        "3 to 5 minutes",
+        "The whole day"
+       ],
+       "answer": 2,
+       "why": "The book's tea algorithm says: leave it for 3 to 5 minutes, then serve with lemon, honey or milk."
+      },
+      {
+       "q": "In the tea-making algorithm, the tea can be served with:",
+       "options": [
+        "Lemon, honey or milk",
+        "Chilli and salt",
+        "Oil and vinegar",
+        "Rice and curry"
+       ],
+       "answer": 0,
+       "why": "The last step before Stop says: serve with lemon, honey or milk."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms with Numbers",
+     "notes_html": "<h4>Algorithm: Even or Odd</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Enter the number</li>\n<li>3. If dividing the number by 2 leaves a remainder of zero, print Even, otherwise print Odd</li>\n<li>4. Stop</li>\n</ul>\n<h4>Algorithm: Sum and Average of Three Numbers</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Enter three numbers A, B, C</li>\n<li>3. Find Sum = A + B + C</li>\n<li>4. Find Average = Sum ÷ 3</li>\n<li>5. Print the sum and the average</li>\n<li>6. Stop</li>\n</ul>\n<h4>Algorithm: Product of Two Numbers</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Enter two numbers A and B</li>\n<li>3. Find Product = A × B</li>\n<li>4. Print the product</li>\n<li>5. Stop</li>\n</ul>\n<h4>Algorithm: Print Only When the Number is 1</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Enter the number</li>\n<li>3. If the number is 1, print it, otherwise do nothing</li>\n<li>4. Stop</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "To test whether a number is even or odd, we divide the number by:",
+       "options": [
+        "3",
+        "2",
+        "5",
+        "10"
+       ],
+       "answer": 1,
+       "why": "The even/odd algorithm divides the number by 2. If the remainder is zero the number is Even, otherwise it is Odd."
+      },
+      {
+       "q": "If dividing a number by 2 leaves a remainder of zero, the number is:",
+       "options": [
+        "Odd",
+        "Prime",
+        "Even",
+        "Zero"
+       ],
+       "answer": 2,
+       "why": "Remainder zero after dividing by 2 means the number is Even — this is the rule in the book's algorithm."
+      },
+      {
+       "q": "If dividing a number by 2 leaves a remainder that is not zero, the number is:",
+       "options": [
+        "Odd",
+        "Even",
+        "Zero",
+        "Negative"
+       ],
+       "answer": 0,
+       "why": "If the remainder is not zero, the algorithm prints Odd."
+      },
+      {
+       "q": "In the sum-and-average algorithm, Sum is found by:",
+       "options": [
+        "Sum = A × B × C",
+        "Sum = A − B − C",
+        "Sum = A ÷ B ÷ C",
+        "Sum = A + B + C"
+       ],
+       "answer": 3,
+       "why": "The algorithm enters three numbers A, B, C and finds Sum = A + B + C, then Average = Sum ÷ 3."
+      },
+      {
+       "q": "The average of three numbers is found by:",
+       "options": [
+        "Average = Sum × 3",
+        "Average = Sum − 3",
+        "Average = Sum ÷ 3",
+        "Average = Sum + 3"
+       ],
+       "answer": 2,
+       "why": "Average = Sum ÷ 3, because there are three numbers. The algorithm then prints the sum and the average."
+      },
+      {
+       "q": "The product of two numbers A and B is found by:",
+       "options": [
+        "Product = A × B",
+        "Product = A + B",
+        "Product = A − B",
+        "Product = A ÷ B"
+       ],
+       "answer": 0,
+       "why": "The product algorithm enters two numbers A and B, finds Product = A × B, and prints the product."
+      },
+      {
+       "q": "In the \"print only when the number is 1\" algorithm, if we enter 5, the algorithm:",
+       "options": [
+        "Prints 5",
+        "Does nothing",
+        "Prints 1",
+        "Prints 0"
+       ],
+       "answer": 1,
+       "why": "The rule is: if the number is 1, print it, otherwise do nothing. So entering 5 prints nothing."
+      },
+      {
+       "q": "In the even/odd algorithm, the number is taken in which step?",
+       "options": [
+        "Step 1 — Start",
+        "Step 4 — Stop",
+        "It is never entered",
+        "Step 2 — Enter the number"
+       ],
+       "answer": 3,
+       "why": "Step 1 is Start, step 2 is Enter the number, step 3 checks the remainder, and step 4 is Stop."
+      },
+      {
+       "q": "An algorithm that chooses between two actions uses:",
+       "options": [
+        "An If condition",
+        "Only printing",
+        "Only adding",
+        "No steps at all"
+       ],
+       "answer": 0,
+       "why": "Decisions in algorithms use If: if the condition is true, do one action; otherwise, do another action or nothing."
+      },
+      {
+       "q": "In the product algorithm, the result is printed in:",
+       "options": [
+        "Step 1",
+        "Step 2",
+        "Step 5",
+        "Step 4"
+       ],
+       "answer": 3,
+       "why": "The product algorithm is: 1. Start; 2. Enter two numbers A and B; 3. Find Product = A × B; 4. Print the product; 5. Stop."
+      }
+     ]
+    },
+    {
+     "title": "Loops, Pseudocode and Flowcharts",
+     "notes_html": "<h4>Algorithm: Multiplication Table of a Number</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Enter the number N</li>\n<li>3. Set Count = 1</li>\n<li>4. Print N × Count</li>\n<li>5. Set Count = Count + 1</li>\n<li>6. While Count is not more than 10, go back to step 4</li>\n<li>7. Stop</li>\n</ul>\n<p>Repeating steps like this is called a <b>loop</b>.</p>\n<h4>Algorithm: Has the Student Passed?</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Enter the marks of four subjects</li>\n<li>3. Find Total = sum of the four marks</li>\n<li>4. Find Percentage = Total ÷ 400 × 100 (each subject is out of 100)</li>\n<li>5. If the percentage is more than 60, print Pass, otherwise print Fail</li>\n<li>6. Stop</li>\n</ul>\n<h4>Algorithm: Add the First Five Numbers</h4>\n<ul>\n<li>1. Start</li>\n<li>2. Set Sum = 0 and Count = 1</li>\n<li>3. Set Sum = Sum + Count</li>\n<li>4. Set Count = Count + 1</li>\n<li>5. While Count is not more than 5, go back to step 3</li>\n<li>6. Print Sum (answer 15)</li>\n<li>7. Stop</li>\n</ul>\n<h4>Pseudocode and Flowcharts</h4>\n<p><b>Pseudocode</b> is an easy way of writing an algorithm using everyday <b>language</b>. In a <b>flowchart</b>, the shapes and arrows guide us during the working-through (process) of the instructions or plan.</p>\n<h4>Algorithmic Thinking</h4>\n<p>Algorithmic thinking means solving a problem step by step in an organised way — like a detective who finds the solution to a secret.</p>",
+     "mcqs": [
+      {
+       "q": "In the multiplication-table algorithm, Count starts at:",
+       "options": [
+        "0",
+        "10",
+        "1",
+        "5"
+       ],
+       "answer": 2,
+       "why": "The algorithm sets Count = 1, prints N × Count, increases Count by 1, and repeats while Count is not more than 10."
+      },
+      {
+       "q": "The multiplication table is printed up to:",
+       "options": [
+        "5",
+        "10",
+        "100",
+        "4"
+       ],
+       "answer": 1,
+       "why": "The loop goes back while Count is not more than 10, so the table is printed up to 10."
+      },
+      {
+       "q": "After printing N × Count, Count becomes:",
+       "options": [
+        "Count − 1",
+        "Count × 2",
+        "0",
+        "Count + 1"
+       ],
+       "answer": 3,
+       "why": "Step 5 sets Count = Count + 1, so the next line of the table is printed in the next round of the loop."
+      },
+      {
+       "q": "The table loop continues while Count is:",
+       "options": [
+        "More than 10",
+        "Not more than 10",
+        "Equal to 100",
+        "Less than zero"
+       ],
+       "answer": 1,
+       "why": "Step 6 says: while Count is not more than 10, go back to step 4. When Count passes 10, the algorithm stops."
+      },
+      {
+       "q": "In the pass/fail algorithm, the marks of how many subjects are entered?",
+       "options": [
+        "Three subjects",
+        "Five subjects",
+        "Four subjects",
+        "Two subjects"
+       ],
+       "answer": 2,
+       "why": "The algorithm takes the marks of four subjects as input and finds the percentage of the marks obtained."
+      },
+      {
+       "q": "In the pass/fail algorithm, the percentage is found by:",
+       "options": [
+        "Percentage = Total ÷ 400 × 100",
+        "Percentage = Total ÷ 4",
+        "Percentage = Total × 400",
+        "Percentage = Total − 60"
+       ],
+       "answer": 0,
+       "why": "Each subject is out of 100, so four subjects make 400. Percentage = Total ÷ 400 × 100."
+      },
+      {
+       "q": "If a student's percentage is more than 60, the algorithm shows the student as:",
+       "options": [
+        "Failed",
+        "Passed",
+        "Absent",
+        "Detained without result"
+       ],
+       "answer": 1,
+       "why": "The rule in the algorithm: if the marks obtained are more than 60 percent, show the student as passed, otherwise failed."
+      },
+      {
+       "q": "The sum of the first five numbers (1 + 2 + 3 + 4 + 5) is:",
+       "options": [
+        "10",
+        "20",
+        "15",
+        "12"
+       ],
+       "answer": 2,
+       "why": "The loop adds 1, 2, 3, 4 and 5 one by one: Sum becomes 1, 3, 6, 10 and finally 15, which the algorithm prints."
+      },
+      {
+       "q": "Pseudocode is an easy way of writing an algorithm using everyday ______.",
+       "options": [
+        "Language",
+        "Pictures",
+        "Numbers only",
+        "Secret codes"
+       ],
+       "answer": 0,
+       "why": "Pseudocode is an easy way of writing an algorithm using everyday language — this is the book's fill-in-the-blank answer."
+      },
+      {
+       "q": "What is meant by algorithmic thinking?",
+       "options": [
+        "Getting lost in thoughts",
+        "Watching TV",
+        "Playing video games",
+        "Solving a problem step by step in an organised way, like a detective finding the solution to a secret"
+       ],
+       "answer": 3,
+       "why": "The book explains algorithmic thinking as working like a detective who finds the solution to a secret — that is, solving a problem step by step in an organised way."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Programming / Scratch",
+   "lessons": [
+    {
+     "title": "Programming and Scratch Basics",
+     "notes_html": "<h4>What is Programming?</h4>\n<p>Programming is the process of writing an ordered set of instructions that make a computer do some task. The instructions are in a language the computer can understand and follow to give the wanted result.</p>\n<h4>Scratch and VPL</h4>\n<p>Scratch is a <b>VPL — Visual Programming Language</b>. Making a program in Scratch means making a combined set of blocks with instructions, used for some task.</p>\n<h4>Algorithm and Program</h4>\n<table>\n<tr><th>Algorithm</th><th>Program</th></tr>\n<tr><td>A high-level plan or step-by-step idea for solving a problem, expressed in plain human language or a diagram.</td><td>The practical form of that plan, written with the rules of a particular programming language, which the computer can translate and run.</td></tr>\n</table>\n<h4>Sprite, Script and Stage</h4>\n<ul>\n<li><b>Sprite</b> — the character or object in a project that is programmed, such as the cat.</li>\n<li><b>Script</b> — the set of code-block instructions given to that sprite.</li>\n<li><b>Stage</b> — the field or background area where the sprite shows its work.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What does the abbreviation VPL fully stand for?",
+       "options": [
+        "Graphical Programming Language",
+        "A set of instructions",
+        "Visual Programming Language",
+        "A backdrop"
+       ],
+       "answer": 2,
+       "why": "VPL stands for Visual Programming Language. Scratch is a visual programming language because programs are made by joining blocks."
+      },
+      {
+       "q": "What is meant by making a program in Scratch?",
+       "options": [
+        "A combined set of blocks with instructions, used for some task",
+        "A list of sprites",
+        "A list of backdrops",
+        "None of these"
+       ],
+       "answer": 0,
+       "why": "A Scratch program is a combined set of blocks with instructions, used for some task."
+      },
+      {
+       "q": "Programming is the process of:",
+       "options": [
+        "Drawing pictures on paper",
+        "Writing an ordered set of instructions that make a computer do some task",
+        "Playing games on a computer",
+        "Typing letters only"
+       ],
+       "answer": 1,
+       "why": "Programming is writing an ordered set of instructions in a language the computer can understand and follow to give the wanted result."
+      },
+      {
+       "q": "The instructions of a program are written in a language that:",
+       "options": [
+        "Only teachers can understand",
+        "Nobody can understand",
+        "Is spoken at home",
+        "The computer can understand"
+       ],
+       "answer": 3,
+       "why": "A program's instructions are in a language the computer can understand and follow to give the wanted result."
+      },
+      {
+       "q": "An algorithm is:",
+       "options": [
+        "A high-level plan or step-by-step idea in plain human language or a diagram",
+        "A computer chip",
+        "A Scratch block",
+        "The Scratch stage"
+       ],
+       "answer": 0,
+       "why": "An algorithm is a plan for solving a problem in plain human language or a diagram. A program is that plan written in a programming language."
+      },
+      {
+       "q": "A program is:",
+       "options": [
+        "Only an idea in our mind",
+        "A drawing on paper",
+        "A song we sing",
+        "The practical form of the plan, written with the rules of a programming language"
+       ],
+       "answer": 3,
+       "why": "A program is the practical form of an algorithm, written with the rules of a particular programming language, which the computer can translate and run."
+      },
+      {
+       "q": "The character or object in a Scratch project, such as the cat, is called the:",
+       "options": [
+        "Script",
+        "Stage",
+        "Sprite",
+        "Backdrop"
+       ],
+       "answer": 2,
+       "why": "A sprite is the character or object in a project that is programmed, such as the cat in Scratch."
+      },
+      {
+       "q": "The set of code-block instructions given to a sprite is called its:",
+       "options": [
+        "Stage",
+        "Script",
+        "Costume",
+        "Sound"
+       ],
+       "answer": 1,
+       "why": "A script is the set of code-block instructions given to a sprite. The sprite follows its script on the stage."
+      },
+      {
+       "q": "The field or background area where the sprite shows its work is the:",
+       "options": [
+        "Script",
+        "Block palette",
+        "Sprite list",
+        "Stage"
+       ],
+       "answer": 3,
+       "why": "The stage is the field or background area where the sprite shows its work."
+      },
+      {
+       "q": "The computer can translate and run:",
+       "options": [
+        "An idea in our mind",
+        "A program",
+        "A drawing on paper",
+        "A spoken story"
+       ],
+       "answer": 1,
+       "why": "Only a program — the plan written with the rules of a programming language — can be translated and run by the computer."
+      }
+     ]
+    },
+    {
+     "title": "Blocks in Scratch",
+     "notes_html": "<h4>Nine Types of Blocks</h4>\n<p>There are <b>9 types</b> of code blocks in Scratch. Code blocks are dragged to the <b>script area</b> to give instructions.</p>\n<table>\n<tr><th>Block Type</th><th>Work</th></tr>\n<tr><td>Motion</td><td>Moves the sprite</td></tr>\n<tr><td>Looks</td><td>Changes the sprite's colour, size and costume</td></tr>\n<tr><td>Sound</td><td>Adds sounds</td></tr>\n<tr><td>Events</td><td>Starts code on an event</td></tr>\n<tr><td>Control</td><td>Handles waiting, repetition and decisions</td></tr>\n<tr><td>Sensing</td><td>Gathers information about the surroundings</td></tr>\n<tr><td>Operators</td><td>Do maths, comparison and word work</td></tr>\n<tr><td>Variables</td><td>Store values</td></tr>\n<tr><td>My Blocks</td><td>Lets the user make new blocks of their own</td></tr>\n</table>\n<h4>Starting a Program</h4>\n<p>A simple program is started with an <b>Event block</b>, such as the green flag block.</p>",
+     "mcqs": [
+      {
+       "q": "How many types of code blocks are there in Scratch?",
+       "options": [
+        "3",
+        "5",
+        "9",
+        "7"
+       ],
+       "answer": 2,
+       "why": "There are 9 types of code blocks in Scratch: Motion, Looks, Sound, Events, Control, Sensing, Operators, Variables and My Blocks."
+      },
+      {
+       "q": "Which block is used to start a simple program?",
+       "options": [
+        "Event block",
+        "Control block",
+        "Motion block",
+        "Looks block"
+       ],
+       "answer": 0,
+       "why": "A simple program is started with an Event block, such as the green flag block. Events start code when something happens."
+      },
+      {
+       "q": "Where can code blocks be dragged to give instructions?",
+       "options": [
+        "Block palette",
+        "Script area",
+        "Backdrop",
+        "Stage"
+       ],
+       "answer": 1,
+       "why": "Code blocks are dragged from the block palette to the script area, where they are joined to give instructions to the sprite."
+      },
+      {
+       "q": "Motion blocks are used to:",
+       "options": [
+        "Change the sprite's colour",
+        "Add sounds",
+        "Move the sprite",
+        "Store values"
+       ],
+       "answer": 2,
+       "why": "Motion moves the sprite. Looks changes colour, size and costume; Sound adds sounds; Variables store values."
+      },
+      {
+       "q": "Looks blocks change the sprite's:",
+       "options": [
+        "Colour, size and costume",
+        "Internet speed",
+        "Password",
+        "Files and folders"
+       ],
+       "answer": 0,
+       "why": "Looks changes the sprite's colour, size and costume — that is, how the sprite looks on the stage."
+      },
+      {
+       "q": "Sound blocks are used to:",
+       "options": [
+        "Move the sprite",
+        "Store values",
+        "Start events",
+        "Add sounds"
+       ],
+       "answer": 3,
+       "why": "Sound adds sounds to the project. Moving the sprite is Motion's work, and starting code on an event is Events' work."
+      },
+      {
+       "q": "Sensing blocks are used to:",
+       "options": [
+        "Do maths only",
+        "Make new blocks",
+        "Gather information about the surroundings",
+        "Change the backdrop"
+       ],
+       "answer": 2,
+       "why": "Sensing gathers information about the surroundings — for example, whether the sprite is touching something."
+      },
+      {
+       "q": "Operators blocks do:",
+       "options": [
+        "Maths, comparison and word work",
+        "Only sounds",
+        "Only motion",
+        "Only waiting"
+       ],
+       "answer": 0,
+       "why": "Operators do maths, comparison and word work in a Scratch program."
+      },
+      {
+       "q": "Variables blocks are used to:",
+       "options": [
+        "Delete sprites",
+        "Store values",
+        "Print pages",
+        "Connect networks"
+       ],
+       "answer": 1,
+       "why": "Variables store values, such as a score or a count, which the program can use and change."
+      },
+      {
+       "q": "My Blocks lets the user:",
+       "options": [
+        "Borrow blocks from others",
+        "Hide all the blocks",
+        "Add sounds",
+        "Make new blocks of their own"
+       ],
+       "answer": 3,
+       "why": "My Blocks lets the user make new blocks of their own, built from the blocks already in Scratch."
+      }
+     ]
+    },
+    {
+     "title": "Control Blocks: Repeat, Wait and Decisions",
+     "notes_html": "<h4>The Control Block</h4>\n<p>The control block manages the flow of the script. With it, the program can be paused, a task repeated, and conditional decision instructions given.</p>\n<h4>Repeat</h4>\n<p>The block used for repetition in Scratch is <b>Repeat</b> — it repeats the instructions inside it as many times as the given number.</p>\n<h4>Wait</h4>\n<p><b>Wait</b> is the construct used for waiting a short time — it pauses the program for the given number of seconds.</p>\n<h4>If Block</h4>\n<p>We check whether a particular condition is true with the <b>If block</b> — if the condition is true, the instructions inside it run.</p>\n<h4>If-Else</h4>\n<p><b>If-else</b> is the construct used for making a decision — if the condition is true one set of instructions runs, and if it is false the other set runs.</p>\n<h4>Move Block</h4>\n<p>We use the <b>Move block</b> to move the sprite forward by the given number of steps.</p>\n<h4>When is a Conditional Statement Used?</h4>\n<p>A conditional statement is used when what happens next depends on whether a condition is true or false. If the condition is true, one action happens; if it is false, another action happens or nothing happens — as in the body-temperature example or the key-press example.</p>",
+     "mcqs": [
+      {
+       "q": "The block used for repetition in Scratch is:",
+       "options": [
+        "Repeat",
+        "Wait",
+        "Move block",
+        "If block"
+       ],
+       "answer": 0,
+       "why": "The Repeat block repeats the instructions inside it as many times as the given number."
+      },
+      {
+       "q": "The Repeat block repeats the instructions inside it:",
+       "options": [
+        "Only once",
+        "Forever, with no number",
+        "Never",
+        "As many times as the given number"
+       ],
+       "answer": 3,
+       "why": "Repeat runs the instructions inside it again and again, exactly as many times as the number given in the block."
+      },
+      {
+       "q": "The construct used for waiting a short time in Scratch is:",
+       "options": [
+        "Repeat",
+        "Move block",
+        "Wait",
+        "Sensing"
+       ],
+       "answer": 2,
+       "why": "Wait pauses the program for the given number of seconds — it is the construct used for waiting a short time."
+      },
+      {
+       "q": "In Scratch, we check whether a particular condition is true with the:",
+       "options": [
+        "Move block",
+        "If block",
+        "Sound block",
+        "Looks block"
+       ],
+       "answer": 1,
+       "why": "With the If block we check a condition: if the condition is true, the instructions inside it run."
+      },
+      {
+       "q": "In Scratch, the construct used for making a decision is:",
+       "options": [
+        "Wait",
+        "Repeat",
+        "Motion",
+        "If-else"
+       ],
+       "answer": 3,
+       "why": "If-else is used for making a decision: if the condition is true one set of instructions runs, and if it is false the other set runs."
+      },
+      {
+       "q": "To move the sprite forward, we use the:",
+       "options": [
+        "Wait block",
+        "Move block",
+        "If block",
+        "Repeat block"
+       ],
+       "answer": 1,
+       "why": "The Move block moves the sprite forward by the given number of steps."
+      },
+      {
+       "q": "The purpose of the control block is to:",
+       "options": [
+        "Change the sprite's colours",
+        "Add sounds to the project",
+        "Manage the flow of the script — pause, repeat and give decision instructions",
+        "Change the backdrop"
+       ],
+       "answer": 2,
+       "why": "The control block manages the flow of the script; with it the program can be paused, a task repeated, and conditional decision instructions given."
+      },
+      {
+       "q": "A conditional statement is used when:",
+       "options": [
+        "What happens next depends on whether a condition is true or false",
+        "The sprite must only move forward",
+        "The program is ending",
+        "We want to add a sound"
+       ],
+       "answer": 0,
+       "why": "Conditional statements are used when the next action depends on a condition — if true, one action happens; if false, another action happens or nothing happens."
+      },
+      {
+       "q": "In an If-else block, if the condition is false:",
+       "options": [
+        "The same set runs again",
+        "The other set of instructions runs",
+        "The computer stops forever",
+        "The sprite disappears"
+       ],
+       "answer": 1,
+       "why": "If-else makes a decision: true runs one set of instructions, and false runs the other set."
+      },
+      {
+       "q": "To pause a program for the given number of seconds, we use the:",
+       "options": [
+        "Event block",
+        "Variable block",
+        "Wait block",
+        "Operator block"
+       ],
+       "answer": 2,
+       "why": "The Wait block pauses the program for the given number of seconds. In the book's debugging example, Wait blocks make each turn of the sprite visible."
+      }
+     ]
+    },
+    {
+     "title": "Working in Scratch: Backdrops and Installing",
+     "notes_html": "<h4>Changing the Backdrop</h4>\n<ul>\n<li>Click the backdrop-choosing option beside the sprite-choosing button.</li>\n<li>Pick a backdrop from the library.</li>\n<li>Bring a random backdrop with <b>Surprise</b>.</li>\n<li>Make your own backdrop with the <b>Paint editor</b>.</li>\n<li>Or upload a picture from your computer.</li>\n</ul>\n<h4>Downloading and Installing Scratch</h4>\n<ul>\n<li>Open a browser and go to the download page.</li>\n<li>Choose Direct download or the store option.</li>\n<li>Run the downloaded file and complete the installation instructions.</li>\n<li>Double-click the desktop icon to open Scratch.</li>\n<li>For online work, go to the editor address — an account is needed to save your work.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "To change the backdrop in Scratch, click the backdrop-choosing option beside the:",
+       "options": [
+        "Sprite-choosing button",
+        "Start menu",
+        "Recycle Bin",
+        "Taskbar"
+       ],
+       "answer": 0,
+       "why": "The backdrop is changed by clicking the backdrop-choosing option beside the sprite-choosing button."
+      },
+      {
+       "q": "A ready-made backdrop for the stage can be picked from the:",
+       "options": [
+        "Recycle Bin",
+        "Folder",
+        "Search box",
+        "Library"
+       ],
+       "answer": 3,
+       "why": "You can pick a backdrop from the library, bring a random one with Surprise, make your own with the Paint editor, or upload a picture."
+      },
+      {
+       "q": "The Surprise option for backdrops brings:",
+       "options": [
+        "A new sprite",
+        "A new sound",
+        "A random backdrop",
+        "A saved file"
+       ],
+       "answer": 2,
+       "why": "Surprise brings a random backdrop from the library — you do not choose which one appears."
+      },
+      {
+       "q": "You can make your own backdrop with the:",
+       "options": [
+        "Paint editor",
+        "Notepad",
+        "File Explorer",
+        "Web browser"
+       ],
+       "answer": 0,
+       "why": "The Paint editor in Scratch lets you draw and make your own backdrop."
+      },
+      {
+       "q": "A backdrop can also be added by:",
+       "options": [
+        "Printing a picture",
+        "Uploading a picture from your computer",
+        "Deleting a picture",
+        "Emailing a picture only"
+       ],
+       "answer": 1,
+       "why": "Besides the library, Surprise and the Paint editor, a picture can be uploaded from your computer to use as a backdrop."
+      },
+      {
+       "q": "To download Scratch on your computer, first:",
+       "options": [
+        "Open MS Paint",
+        "Open a game",
+        "Open the Recycle Bin",
+        "Open a browser and go to the download page"
+       ],
+       "answer": 3,
+       "why": "The book's method: open a browser and go to the download page, then choose Direct download or the store option."
+      },
+      {
+       "q": "After the Scratch file is downloaded, you should:",
+       "options": [
+        "Run the file and complete the installation instructions",
+        "Delete the file at once",
+        "Rename the file and stop",
+        "Upload the file to a website"
+       ],
+       "answer": 0,
+       "why": "Run the downloaded file and complete the installation instructions to install Scratch on the computer."
+      },
+      {
+       "q": "After installing, Scratch is opened by:",
+       "options": [
+        "Pressing CTRL+Z",
+        "Right-clicking any file",
+        "Opening the Recycle Bin",
+        "Double-clicking the desktop icon"
+       ],
+       "answer": 3,
+       "why": "When installation is complete, double-click the desktop icon to open Scratch."
+      },
+      {
+       "q": "For working in Scratch online, you go to:",
+       "options": [
+        "The Recycle Bin",
+        "A computer shop",
+        "The editor address in the browser",
+        "The stage only"
+       ],
+       "answer": 2,
+       "why": "For online work, go to the editor address in a browser — no installation is needed for the online editor."
+      },
+      {
+       "q": "To save your work in online Scratch, you need:",
+       "options": [
+        "A printer",
+        "An account",
+        "A scanner",
+        "A flash drive"
+       ],
+       "answer": 1,
+       "why": "The book says an account is needed to save work in the online Scratch editor."
+      }
+     ]
+    },
+    {
+     "title": "Making Programs and Fixing Bugs",
+     "notes_html": "<h4>Code: Move 10 Steps, Repeat 10 Times</h4>\n<p>To move the sprite only 10 steps and repeat that action 10 times, we need:</p>\n<ul>\n<li>The green-flag <b>event</b> block,</li>\n<li>inside it the <b>control</b> block that repeats 10 times,</li>\n<li>and inside that the <b>motion</b> block that moves 10 steps.</li>\n</ul>\n<p>With this, the sprite moves 100 steps in total.</p>\n<h4>Making a Round Design</h4>\n<p>Under the space-key-pressed event block, put four motion blocks that turn 90 degrees each, so the sprite completes a full circle (4 × 90 = 360 degrees). For back-and-forth movement, add the move block and the bounce-on-edge block, and put a wait block between turns so the movement is clearly visible.</p>\n<h4>Debugging: Fixing Bugs</h4>\n<p>The teacher should guide students through the six-step debugging cycle:</p>\n<ul>\n<li>1. Plan the program</li>\n<li>2. Write the code</li>\n<li>3. Run the program</li>\n<li>4. Find the errors</li>\n<li>5. Find the cause of the errors</li>\n<li>6. Correct the errors and test the program again</li>\n</ul>\n<h4>Example Bug: The Invisible Turns</h4>\n<p>The sprite turns 90 degrees four times on the space key, but the turning is not visible. The bug is that all four turns happen at once with no pause. Fix: put a control <b>Wait 1 seconds</b> block after each turn, then run the program again and check that each turn is seen separately.</p>\n<h4>How Many Times Will the Loop Blocks Run?</h4>\n<ul>\n<li>The <b>repeat-10</b> block runs ten times.</li>\n<li>The <b>repeat-until</b> block keeps running until the given condition is met, such as pressing the space key.</li>\n<li>The <b>forever</b> block never stops and keeps repeating the instructions inside it.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "To move the sprite 10 steps and repeat that action 10 times, the program starts with:",
+       "options": [
+        "A sound block",
+        "A looks block",
+        "A variable block",
+        "The green-flag event block"
+       ],
+       "answer": 3,
+       "why": "The code needs the green-flag event block first, then the control block that repeats 10 times, with the motion block that moves 10 steps inside it."
+      },
+      {
+       "q": "In that code, the block that repeats 10 times is a:",
+       "options": [
+        "Motion block",
+        "Control block",
+        "Event block",
+        "Sensing block"
+       ],
+       "answer": 1,
+       "why": "Repetition is handled by Control blocks. The repeat-10 block is a control block placed inside the green-flag event block."
+      },
+      {
+       "q": "In that code, the move-10-steps block is a:",
+       "options": [
+        "Control block",
+        "Event block",
+        "Motion block",
+        "Sound block"
+       ],
+       "answer": 2,
+       "why": "Moving the sprite is the work of Motion blocks. The move block sits inside the repeat block."
+      },
+      {
+       "q": "With \"repeat 10\" and \"move 10 steps\", the sprite moves in total:",
+       "options": [
+        "100 steps",
+        "10 steps",
+        "20 steps",
+        "1000 steps"
+       ],
+       "answer": 0,
+       "why": "The move-10-steps block runs 10 times: 10 × 10 = 100 steps in total."
+      },
+      {
+       "q": "Four turns of 90 degrees each make the sprite complete:",
+       "options": [
+        "A half circle",
+        "A full circle",
+        "A straight line",
+        "Only a corner"
+       ],
+       "answer": 1,
+       "why": "4 × 90 degrees = 360 degrees, which is a full circle. This is how the round design is made on the stage."
+      },
+      {
+       "q": "The sprite's turns are not visible because they happen all at once. The fix is to add a:",
+       "options": [
+        "Sound block",
+        "Delete block",
+        "Wait block after each turn",
+        "New backdrop"
+       ],
+       "answer": 2,
+       "why": "Put a control Wait 1 seconds block after each turn, then run the program again and check that each turn is seen separately."
+      },
+      {
+       "q": "Debugging means:",
+       "options": [
+        "Finding and fixing errors (bugs) in the code",
+        "Deleting the whole program",
+        "Writing a story about the code",
+        "Changing the backdrop"
+       ],
+       "answer": 0,
+       "why": "The debugging process fixes bugs: plan the program, write the code, run it, find the errors, find their cause, correct them and test again."
+      },
+      {
+       "q": "In the six-step debugging cycle, after running the program we:",
+       "options": [
+        "Save and close the file",
+        "Print the code",
+        "Change the backdrop",
+        "Find the errors"
+       ],
+       "answer": 3,
+       "why": "The cycle is: plan, write the code, run the program, find the errors, find the cause of the errors, then correct the errors and test again."
+      },
+      {
+       "q": "The forever block:",
+       "options": [
+        "Runs only once",
+        "Runs exactly 10 times",
+        "Never stops and keeps repeating the instructions inside it",
+        "Runs until a key is pressed"
+       ],
+       "answer": 2,
+       "why": "The forever block never stops. The repeat-until block is the one that keeps running until the given condition is met."
+      },
+      {
+       "q": "The repeat-until block keeps running until:",
+       "options": [
+        "The given condition is met, such as pressing the space key",
+        "Ten rounds are finished",
+        "The computer is switched off",
+        "The sprite changes colour"
+       ],
+       "answer": 0,
+       "why": "The repeat-until block keeps running until the given condition is met — for example, until the space key is pressed."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Citizenship",
+   "lessons": [
+    {
+     "title": "Strong Passwords and Online Safety",
+     "notes_html": "<h4>Why Digital Citizenship?</h4>\n<p>Digital citizenship teaches us to use the internet and ICT in a safe, responsible and ethical way.</p>\n<h4>Making a Strong Password (Class Work)</h4>\n<ul>\n<li>The password should be at least <b>8 characters</b> long.</li>\n<li>Start with the first letters of your favourite film's name.</li>\n<li>Then add a favourite digit.</li>\n<li>Then add a special symbol.</li>\n<li>Finally combine the last three letters of your father's name, the first three letters of your mother's name and the first three letters of your own name.</li>\n<li>Keep a <b>different password for each account</b>, not one for all.</li>\n</ul>\n<h4>Do's and Don'ts of a Good Digital Citizen</h4>\n<table>\n<tr><th>Do</th><th>Don't</th></tr>\n<tr><td>Use a strong password</td><td>Share personal information</td></tr>\n<tr><td>Take permission from parents or teachers</td><td>Talk to strangers</td></tr>\n<tr><td>Stay kind and polite online</td><td>Use a weak password like your name or birth date</td></tr>\n<tr><td>Tell an adult about anything wrong</td><td>Bully anyone or post hurtful comments</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "A strong password should be at least how long?",
+       "options": [
+        "2 characters",
+        "8 characters",
+        "4 characters",
+        "20 characters"
+       ],
+       "answer": 1,
+       "why": "The book's class work says the password should be at least 8 characters long, with letters, a number and a special symbol."
+      },
+      {
+       "q": "A strong password should include:",
+       "options": [
+        "Only letters",
+        "Only numbers",
+        "Only your own name",
+        "Letters, a number and a special symbol"
+       ],
+       "answer": 3,
+       "why": "A strong password mixes letters, a number and a special symbol, so it is hard for others to guess."
+      },
+      {
+       "q": "In the book's method, a strong password starts with:",
+       "options": [
+        "The first letters of your favourite film's name",
+        "Your birth date",
+        "Your school name",
+        "Your home address"
+       ],
+       "answer": 0,
+       "why": "The book's method: start with the first letters of your favourite film's name, then add a favourite digit, then a special symbol."
+      },
+      {
+       "q": "In the book's method, after the film's letters we add:",
+       "options": [
+        "Only spaces",
+        "Our full name",
+        "Our phone number",
+        "A favourite digit and then a special symbol"
+       ],
+       "answer": 3,
+       "why": "After the film-name letters come a favourite digit and a special symbol, followed by letters taken from family names."
+      },
+      {
+       "q": "We should keep:",
+       "options": [
+        "One password for all accounts",
+        "The same password as our friends",
+        "A different password for each account",
+        "No password at all"
+       ],
+       "answer": 2,
+       "why": "The book says: keep a different password for each account, not one for all — so if one is found out, the others stay safe."
+      },
+      {
+       "q": "Which of these is a DO for keeping safe online?",
+       "options": [
+        "Share personal information",
+        "Use a strong password",
+        "Talk to strangers",
+        "Use your name as your password"
+       ],
+       "answer": 1,
+       "why": "Do: use a strong password, take permission from parents or teachers, stay kind and polite online, and tell an adult about anything wrong."
+      },
+      {
+       "q": "Before doing things online, a good digital citizen should:",
+       "options": [
+        "Hide everything from adults",
+        "Tell strangers first",
+        "Post everything publicly",
+        "Take permission from parents or teachers"
+       ],
+       "answer": 3,
+       "why": "Taking permission from parents or teachers is one of the do's in the book's list for keeping safe online."
+      },
+      {
+       "q": "Which of these is a DON'T for online safety?",
+       "options": [
+        "Stay kind and polite online",
+        "Share personal information",
+        "Tell an adult about anything wrong",
+        "Use a strong password"
+       ],
+       "answer": 1,
+       "why": "Don't share personal information, don't talk to strangers, don't use a weak password, and don't bully anyone or post hurtful comments."
+      },
+      {
+       "q": "If anything wrong happens online, you should:",
+       "options": [
+        "Keep it secret",
+        "Reply to the stranger",
+        "Tell an adult",
+        "Share your photo"
+       ],
+       "answer": 2,
+       "why": "One of the book's do's: tell an adult about anything wrong that happens online."
+      },
+      {
+       "q": "Which of these is a weak password?",
+       "options": [
+        "Your name or birth date",
+        "Film letters mixed with a digit and a symbol",
+        "A long mix of letters and numbers",
+        "A different password for every account"
+       ],
+       "answer": 0,
+       "why": "A weak password is one that is easy to guess, like your name or birth date. Strong passwords mix letters, a number and a special symbol."
+      }
+     ]
+    },
+    {
+     "title": "Copyright, Piracy and Cybercrime",
+     "notes_html": "<h4>Important Terms</h4>\n<table>\n<tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>Digital footprint</td><td>The record of what you do on the internet or social media, including things said about different topics and details shared.</td></tr>\n<tr><td>Cybercrime</td><td>An illegal activity carried out using ICT devices and the internet, such as hacking, fraud, theft of personal information, or online harassment.</td></tr>\n<tr><td>Copyright law</td><td>A law made by the government that protects a creator's new works from being used without permission.</td></tr>\n<tr><td>Citizenship</td><td>A person's belonging to a country or nation. A citizen is a person who belongs to a country or nation.</td></tr>\n<tr><td>Cyberbullying</td><td>Repeatedly bothering someone online, harming them, or sharing embarrassing photos or videos.</td></tr>\n<tr><td>Piracy</td><td>Copying or sharing copyrighted material or software without permission.</td></tr>\n<tr><td>Plagiarism</td><td>Copying someone else's work and calling it your own.</td></tr>\n</table>\n<h4>Remember</h4>\n<p><b>Copyright</b> is the law that stops you from using other people's work without their permission. An illegal act committed using ICT devices and the internet is called <b>cybercrime</b>.</p>",
+     "mcqs": [
+      {
+       "q": "What is the name for copying or sharing copyrighted material or software without permission?",
+       "options": [
+        "Plagiarism",
+        "Piracy",
+        "Copyright",
+        "Eye strain"
+       ],
+       "answer": 1,
+       "why": "Copying or sharing copyrighted material or software without permission is called piracy."
+      },
+      {
+       "q": "What is an illegal act committed using ICT devices and the internet called?",
+       "options": [
+        "Internet crime (ordinary crime)",
+        "Internet law",
+        "Cybercrime",
+        "Cyber law"
+       ],
+       "answer": 2,
+       "why": "An illegal activity carried out using ICT devices and the internet — such as hacking, fraud or theft of personal information — is called cybercrime."
+      },
+      {
+       "q": "______ is the law that stops you from using other people's work without their permission.",
+       "options": [
+        "Copyright",
+        "Cybercrime",
+        "Citizenship",
+        "Piracy"
+       ],
+       "answer": 0,
+       "why": "Copyright is the law that stops you from using other people's work without their permission. Copyright law protects a creator's new works."
+      },
+      {
+       "q": "A ______ is a person who belongs to a country or nation.",
+       "options": [
+        "Program",
+        "Password",
+        "Footprint",
+        "Citizen"
+       ],
+       "answer": 3,
+       "why": "A citizen is a person who belongs to a country or nation, and citizenship is that belonging."
+      },
+      {
+       "q": "The record of what you do on the internet or social media is called your:",
+       "options": [
+        "Password",
+        "Cybercrime",
+        "Digital footprint",
+        "Copyright"
+       ],
+       "answer": 2,
+       "why": "Your digital footprint is the record of what you do on the internet or social media, including things said and details shared."
+      },
+      {
+       "q": "Hacking, fraud and theft of personal information are examples of:",
+       "options": [
+        "Cybercrime",
+        "Digital literacy",
+        "Citizenship",
+        "Eye strain"
+       ],
+       "answer": 0,
+       "why": "The book defines cybercrime as an illegal activity carried out using ICT devices and the internet, such as hacking, fraud, theft of personal information, or online harassment."
+      },
+      {
+       "q": "Copyright law protects:",
+       "options": [
+        "Only printed books",
+        "A creator's new works from being used without permission",
+        "Only songs and films",
+        "Computer games from viruses"
+       ],
+       "answer": 1,
+       "why": "Copyright law is made by the government and protects a creator's new works from being used without permission."
+      },
+      {
+       "q": "Repeatedly bothering someone online, or sharing embarrassing photos or videos of them, is:",
+       "options": [
+        "Citizenship",
+        "Digital footprint",
+        "Plagiarism",
+        "Cyberbullying"
+       ],
+       "answer": 3,
+       "why": "Cyberbullying means repeatedly bothering someone online, harming them, or sharing embarrassing photos or videos."
+      },
+      {
+       "q": "Copying someone else's work and calling it your own is called:",
+       "options": [
+        "Plagiarism",
+        "Copyright",
+        "Citizenship",
+        "Digital literacy"
+       ],
+       "answer": 0,
+       "why": "In the book's class activity, copying someone else's work and calling it their own is plagiarism — different from piracy, which is copying or sharing protected material without permission."
+      },
+      {
+       "q": "Downloading material without paying for it is an example of:",
+       "options": [
+        "Plagiarism",
+        "Copyright permission",
+        "Digital literacy",
+        "Piracy"
+       ],
+       "answer": 3,
+       "why": "The class activity explains piracy practically as downloading material without paying — using protected material without the owner's permission or payment."
+      }
+     ]
+    },
+    {
+     "title": "Behaving Well Online",
+     "notes_html": "<h4>Importance of Digital Citizenship</h4>\n<p>Digital citizenship teaches us to use the internet and ICT in a safe, responsible and ethical way. It helps us protect our personal information and other people's rights, avoid harmful material and illegal acts, and be good citizens in the online world.</p>\n<h4>Digital Literacy</h4>\n<p>Digital literacy means the skill of evaluating, accessing and using <b>online</b> material. A good digital citizen has the <b>knowledge</b> needed to use information properly.</p>\n<h4>How to Behave Towards People Online</h4>\n<p>Online you should always be kind, polite and respectful. You should not use abusive language or hurtful comments for anyone, bully anyone, or look down on anyone's post with rudeness.</p>\n<h4>Ethical Issues Linked to ICT Use</h4>\n<ul>\n<li><b>1. Misuse of personal information</b> — a name, photo, birth date or home address can fall into wrong hands.</li>\n<li><b>2. Spreading false information</b> — unverified news misleads others.</li>\n<li><b>3. Hate material</b> — harsh comments and posts based on race, religion or gender.</li>\n<li><b>4. Addiction to social media and games</b> — wasting a lot of time and losing focus on studies.</li>\n<li><b>5. Online harassment</b> — repeatedly bothering someone, harming them, or sharing embarrassing material.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Digital citizenship teaches us to use the internet and ICT in a:",
+       "options": [
+        "Fast way only",
+        "Secret way only",
+        "Safe, responsible and ethical way",
+        "Careless way"
+       ],
+       "answer": 2,
+       "why": "Digital citizenship teaches us to use the internet and ICT in a safe, responsible and ethical way, and to be good citizens in the online world."
+      },
+      {
+       "q": "Digital literacy means the skill of evaluating, accessing and using which kind of material?",
+       "options": [
+        "On a copy (notebook)",
+        "Online",
+        "On paper",
+        "On a sketch book"
+       ],
+       "answer": 1,
+       "why": "Digital literacy means the skill of evaluating, accessing and using online material."
+      },
+      {
+       "q": "A good digital citizen has the ______ needed to use information properly.",
+       "options": [
+        "Password",
+        "Footprint",
+        "Permission slip",
+        "Knowledge"
+       ],
+       "answer": 3,
+       "why": "A good digital citizen has the knowledge needed to use information properly — this is the book's fill-in-the-blank answer."
+      },
+      {
+       "q": "Towards people online, we should always be:",
+       "options": [
+        "Rude and harsh",
+        "Kind, polite and respectful",
+        "Silent forever",
+        "Angry and loud"
+       ],
+       "answer": 1,
+       "why": "Online you should always be kind, polite and respectful; you should not use abusive language or hurtful comments for anyone, or bully anyone."
+      },
+      {
+       "q": "Which behaviour is WRONG online?",
+       "options": [
+        "Being respectful to others",
+        "Protecting other people's rights",
+        "Using abusive language or hurtful comments",
+        "Avoiding harmful material"
+       ],
+       "answer": 2,
+       "why": "A good digital citizen does not use abusive language or hurtful comments, does not bully anyone, and is not rude about anyone's post."
+      },
+      {
+       "q": "Sharing unverified news that misleads others is the ethical issue of:",
+       "options": [
+        "Spreading false information",
+        "Addiction",
+        "Online harassment",
+        "Eye strain"
+       ],
+       "answer": 0,
+       "why": "Spreading false information is one of the five ethical issues: unverified news misleads others."
+      },
+      {
+       "q": "Harsh comments and posts based on race, religion or gender are called:",
+       "options": [
+        "Digital literacy",
+        "Hate material",
+        "Copyright",
+        "Digital footprint"
+       ],
+       "answer": 1,
+       "why": "Hate material — harsh comments and posts based on race, religion or gender — is one of the ethical issues linked to ICT use."
+      },
+      {
+       "q": "Wasting a lot of time and losing focus on studies is caused by:",
+       "options": [
+        "Strong passwords",
+        "Copyright law",
+        "Addiction to social media and games",
+        "The 20-20-20 rule"
+       ],
+       "answer": 2,
+       "why": "Addiction to social media and games wastes a lot of time and makes a person lose focus on studies."
+      },
+      {
+       "q": "A name, photo, birth date or home address falling into wrong hands is:",
+       "options": [
+        "Misuse of personal information",
+        "Digital literacy",
+        "Citizenship",
+        "Plagiarism"
+       ],
+       "answer": 0,
+       "why": "Misuse of personal information is the first ethical issue in the book: personal details can fall into wrong hands and be misused."
+      },
+      {
+       "q": "Digital citizenship helps us protect:",
+       "options": [
+        "Only our games",
+        "Only our photos",
+        "Our files from being saved",
+        "Our personal information and other people's rights"
+       ],
+       "answer": 3,
+       "why": "Digital citizenship helps us protect our personal information and other people's rights, and avoid harmful material and illegal acts."
+      }
+     ]
+    },
+    {
+     "title": "Health Problems from ICT Use",
+     "notes_html": "<h4>Six Health Problems Linked to ICT Devices</h4>\n<ul>\n<li><b>1. Eye strain</b> — staring at a screen too long tires the eyes, so follow the <b>20-20-20 rule</b>.</li>\n<li><b>2. Poor body posture</b> — sitting wrongly causes pain and physical harm.</li>\n<li><b>3. Inactive lifestyle and obesity</b> — sitting too long makes the body inactive and increases weight.</li>\n<li><b>4. Disturbed sleep</b> — using devices before bedtime disturbs sleep.</li>\n<li><b>5. Effects of radiating rays</b> — using devices for too long can cause harm, so screen time should be limited.</li>\n<li><b>6. Mental health problems</b> — overuse can cause disappointment, helplessness and depression. Spending too much time on screens can leave us feeling <b>tired</b> and depressed.</li>\n</ul>\n<h4>Sitting Correctly</h4>\n<ul>\n<li>The top of the computer monitor should be at eye level or slightly below it.</li>\n<li>The screen should be 18 to 25 inches away from the eyes.</li>\n<li>Your hands should be kept <b>parallel</b> to the floor.</li>\n</ul>\n<h4>Group Activity</h4>\n<p>Each group prepares a presentation on one health problem caused by overuse of ICT — such as eye strain, poor posture, obesity, disturbed sleep, effects of rays, or mental health — and suggests ways to reduce its risk, such as the 20-20-20 rule, sitting correctly, limiting screen time, play and exercise, and switching devices off before bed.</p>",
+     "mcqs": [
+      {
+       "q": "Staring at a screen too long tires the eyes. This problem is called:",
+       "options": [
+        "Obesity",
+        "Cybercrime",
+        "Eye strain",
+        "Poor posture"
+       ],
+       "answer": 2,
+       "why": "Eye strain is the first health problem in the book: staring at a screen too long tires the eyes, so we should follow the 20-20-20 rule."
+      },
+      {
+       "q": "To rest and protect the eyes while using a screen, we follow the:",
+       "options": [
+        "20-20-20 rule",
+        "10-10-10 rule",
+        "5-5-5 rule",
+        "No rule at all"
+       ],
+       "answer": 0,
+       "why": "The book advises the 20-20-20 rule for eye strain, along with limiting screen time."
+      },
+      {
+       "q": "Sitting wrongly while using a computer causes:",
+       "options": [
+        "Better fitness",
+        "Poor body posture and pain",
+        "Good health",
+        "Faster typing"
+       ],
+       "answer": 1,
+       "why": "Poor body posture — sitting wrongly causes pain and physical harm. That is why the book teaches the correct sitting position."
+      },
+      {
+       "q": "Sitting too long makes the body inactive and increases weight. This problem is:",
+       "options": [
+        "Eye strain",
+        "Cybercrime",
+        "Digital literacy",
+        "Obesity"
+       ],
+       "answer": 3,
+       "why": "An inactive lifestyle and obesity come from sitting too long; play and exercise help reduce this risk."
+      },
+      {
+       "q": "Using devices before bedtime disturbs:",
+       "options": [
+        "Sleep",
+        "Only the eyes",
+        "Only hearing",
+        "Only appetite"
+       ],
+       "answer": 0,
+       "why": "Disturbed sleep is one of the six health problems: using devices before bedtime disturbs sleep, so devices should be switched off before bed."
+      },
+      {
+       "q": "Where should the top of the computer monitor be?",
+       "options": [
+        "Slightly above eye level",
+        "Perpendicular to eye level",
+        "None of the above",
+        "Slightly below eye level"
+       ],
+       "answer": 3,
+       "why": "According to the chapter, the top of the monitor should be at eye level or slightly below it, and the screen should be 18 to 25 inches away."
+      },
+      {
+       "q": "The screen should be kept ______ away from the eyes.",
+       "options": [
+        "2 to 3 inches",
+        "5 to 6 inches",
+        "18 to 25 inches",
+        "40 to 50 inches"
+       ],
+       "answer": 2,
+       "why": "The book says the screen should be 18 to 25 inches away, with the top of the monitor at eye level or slightly below it."
+      },
+      {
+       "q": "While using a computer, your hands should be kept ______ to the floor.",
+       "options": [
+        "Above your head",
+        "Parallel",
+        "Crossed over each other",
+        "On the screen"
+       ],
+       "answer": 1,
+       "why": "Your hands should be kept parallel to the floor, so the arms stay relaxed while working."
+      },
+      {
+       "q": "Spending too much time on screens can leave us feeling ______ and depressed.",
+       "options": [
+        "Fresh",
+        "Strong",
+        "Hungry",
+        "Tired"
+       ],
+       "answer": 3,
+       "why": "Too much screen time can harm health, and we may feel tired and depressed — this is the book's fill-in-the-blank answer."
+      },
+      {
+       "q": "Overuse of devices can cause mental health problems such as:",
+       "options": [
+        "Happiness and confidence only",
+        "Disappointment, helplessness and depression",
+        "Better memory",
+        "Stronger eyes"
+       ],
+       "answer": 1,
+       "why": "Mental health problems are the sixth health problem in the book: overuse can cause disappointment, helplessness and depression."
+      }
+     ]
+    },
+    {
+     "title": "Screen Time and Computer Lab Rules",
+     "notes_html": "<h4>Tracking Your Daily ICT Use (Class Work)</h4>\n<p>Make a table and write the time (in minutes) next to each activity:</p>\n<ul>\n<li>Online surfing</li>\n<li>Watching online films</li>\n<li>Listening to music</li>\n<li>Online games</li>\n<li>Online study</li>\n<li>Social media use</li>\n</ul>\n<p>Then add them all up to get your <b>total screen time</b> — and try to keep it limited.</p>\n<h4>Before Leaving the Laboratory</h4>\n<p>Students should do all of these before leaving the laboratory:</p>\n<ul>\n<li>Close their accounts</li>\n<li>Save their files</li>\n<li>Shut down the computers properly</li>\n</ul>\n<h4>Class Activity: Plagiarism, Piracy and Copyright</h4>\n<p>The teacher writes these terms on a chart and arranges an activity. Students act out the different terms — such as copying someone else's work and calling it their own (plagiarism), downloading material without paying (piracy), and taking permission from the owner (copyright) — which makes the correct use of each term clear.</p>",
+     "mcqs": [
+      {
+       "q": "In the ICT-use table, we write next to each activity:",
+       "options": [
+        "Our exam marks",
+        "Our password",
+        "The time in minutes",
+        "Only the date"
+       ],
+       "answer": 2,
+       "why": "Write the time (in minutes) next to each activity: online surfing, watching films, music, games, online study and social media use."
+      },
+      {
+       "q": "Which activities are tracked in the ICT-use table?",
+       "options": [
+        "Online surfing, films, music, games, online study and social media use",
+        "Only online games",
+        "Only watching films",
+        "Only listening to music"
+       ],
+       "answer": 0,
+       "why": "The table tracks all daily ICT activities — surfing, films, music, games, study and social media — each with its time in minutes."
+      },
+      {
+       "q": "After writing the time for all activities, we:",
+       "options": [
+        "Delete the table",
+        "Add them all up to get the total screen time",
+        "Hide the table",
+        "Send it to strangers"
+       ],
+       "answer": 1,
+       "why": "Add up all the activities to get the total screen time, and try to keep it limited."
+      },
+      {
+       "q": "Our total screen time should be kept:",
+       "options": [
+        "Unlimited",
+        "As long as possible",
+        "Limited",
+        "Secret from everyone"
+       ],
+       "answer": 2,
+       "why": "The class work ends with this advice: get your total screen time and try to keep it limited, to protect your health."
+      },
+      {
+       "q": "What should students do before leaving the laboratory?",
+       "options": [
+        "All of the above — close accounts, save files and shut down the computers properly",
+        "Only close their accounts",
+        "Only save their files",
+        "Only shut down the computers properly"
+       ],
+       "answer": 0,
+       "why": "All of these are required before leaving the laboratory: close their accounts, save their files, and shut down the computers properly."
+      },
+      {
+       "q": "In the class activity on plagiarism, piracy and copyright, the teacher writes the terms on a:",
+       "options": [
+        "Notebook cover",
+        "Wall clock",
+        "Computer screen only",
+        "Chart"
+       ],
+       "answer": 3,
+       "why": "The teacher writes these terms on a chart and arranges an activity in which students act out the different terms."
+      },
+      {
+       "q": "In the activity, a student who copies someone's work and calls it their own is acting out:",
+       "options": [
+        "Piracy",
+        "Copyright",
+        "Plagiarism",
+        "Citizenship"
+       ],
+       "answer": 2,
+       "why": "Copying someone else's work and calling it your own is plagiarism — one of the terms acted out in the class activity."
+      },
+      {
+       "q": "In the activity, downloading material without paying shows:",
+       "options": [
+        "Piracy",
+        "Plagiarism",
+        "Copyright permission",
+        "Digital literacy"
+       ],
+       "answer": 0,
+       "why": "Downloading material without paying is piracy — using protected material without permission or payment."
+      },
+      {
+       "q": "Taking permission from the owner before using their work shows:",
+       "options": [
+        "Piracy",
+        "Copyright law being followed",
+        "Plagiarism",
+        "Cyberbullying"
+       ],
+       "answer": 1,
+       "why": "Taking permission from the owner is the correct behaviour under copyright law, which protects a creator's works."
+      },
+      {
+       "q": "Tracking our daily ICT use helps us to:",
+       "options": [
+        "Use more social media",
+        "Play more games",
+        "Watch more films",
+        "Keep our screen time limited"
+       ],
+       "answer": 3,
+       "why": "Tracking shows us our total screen time, so we can keep it limited and avoid the health problems of overuse."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Business in the Digital Age",
+   "lessons": [
+    {
+     "title": "What is Business?",
+     "notes_html": "<h4>Business and Businessperson</h4>\n<p>A <b>businessperson</b> is someone who opens and runs their own business to earn a profit or bear a loss. Every trade started to earn <b>profit</b> is called a business.</p>\n<h4>Innovation</h4>\n<p>A new idea or innovation means <b>thinking of new and better ideas</b>. An innovative businessperson always brings forward new ideas and concepts. People who want to start a business should work on new and different ideas — finding a new idea and working on it is the first step in starting a business.</p>\n<h4>Facing Failure</h4>\n<p>When faced with failure, a successful businessperson <b>tries again and learns from mistakes</b>. A successful businessperson treats failure as a lesson and tries again with hard work.</p>\n<h4>Businesspeople and the Country</h4>\n<p><b>Businesspeople</b> create new markets and expand existing markets, increasing the country's growth. The business process is a <b>continuous</b> (never-ending) process, which helps the business grow.</p>\n<h4>Technology in Business</h4>\n<p><b>Technology</b> helps businesspeople use tools and gadgets to run their business better, such as digital marketing, mobile apps, artificial intelligence and collaboration tools.</p>",
+     "mcqs": [
+      {
+       "q": "What is the main work of a businessperson?",
+       "options": [
+        "Opening and running one's own business",
+        "Taking part in games",
+        "Working as an employee for other people",
+        "Trying to make something new"
+       ],
+       "answer": 0,
+       "why": "A businessperson is someone who starts and runs their own business to earn a profit or bear a loss."
+      },
+      {
+       "q": "A businessperson starts a business to earn:",
+       "options": [
+        "Only fame",
+        "Only fun",
+        "Nothing at all",
+        "A profit (or bear a loss)"
+       ],
+       "answer": 3,
+       "why": "A businessperson starts their own business to earn a profit or bear a loss — that is the meaning of doing business."
+      },
+      {
+       "q": "Every trade started to earn ______ is called a business.",
+       "options": [
+        "Fame",
+        "Prizes",
+        "Profit",
+        "Marks"
+       ],
+       "answer": 2,
+       "why": "Business is the activity in which people sell goods or services to earn a profit."
+      },
+      {
+       "q": "What is meant by a new idea or innovation?",
+       "options": [
+        "Doing the same work every day",
+        "Thinking of new and better ideas",
+        "Watching TV all day",
+        "Ignoring problems"
+       ],
+       "answer": 1,
+       "why": "Innovation means thinking of new and better ideas — an innovative businessperson always brings forward new ideas and concepts."
+      },
+      {
+       "q": "What does a businessperson do when faced with failure?",
+       "options": [
+        "Gives up working",
+        "Blames other people",
+        "Never tries anything new again",
+        "Tries again and learns from mistakes"
+       ],
+       "answer": 3,
+       "why": "A successful businessperson treats failure as a lesson and tries again with hard work, learning from mistakes."
+      },
+      {
+       "q": "What should people who want to start a business do?",
+       "options": [
+        "Wait for someone else to work",
+        "Work on new and different ideas",
+        "Watch TV all day",
+        "Tell others to work for them"
+       ],
+       "answer": 1,
+       "why": "Finding a new idea and working on it is the first step in starting a business."
+      },
+      {
+       "q": "______ create new markets and expand existing markets, increasing the country's growth.",
+       "options": [
+        "Students",
+        "Teachers",
+        "Businesspeople",
+        "Customers only"
+       ],
+       "answer": 2,
+       "why": "Businesspeople create new markets and expand existing markets, which grows the country's economy."
+      },
+      {
+       "q": "New and expanding markets increase:",
+       "options": [
+        "The country's growth",
+        "Only the prices",
+        "Only the losses",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "When businesspeople create new markets and expand existing ones, the country's growth and economy increase."
+      },
+      {
+       "q": "The business process is a ______ process, which helps the business grow.",
+       "options": [
+        "One-day",
+        "Continuous",
+        "Secret",
+        "Finished"
+       ],
+       "answer": 1,
+       "why": "The business process is a continuous — never-ending — process that helps the business grow."
+      },
+      {
+       "q": "______ helps businesspeople use tools and gadgets to run their business better.",
+       "options": [
+        "Luck",
+        "Guessing",
+        "Technology",
+        "Waiting"
+       ],
+       "answer": 2,
+       "why": "Technology helps businesspeople use tools and gadgets to run their business better, such as digital marketing, mobile apps, artificial intelligence and collaboration tools."
+      }
+     ]
+    },
+    {
+     "title": "Business Plan and Finding Opportunity",
+     "notes_html": "<h4>What is a Business Plan?</h4>\n<p>A business plan is <b>written guidance for starting a business</b> — a detailed written plan made before starting a business. It covers:</p>\n<ul>\n<li>The idea</li>\n<li>The aim</li>\n<li>Market research</li>\n<li>Marketing strategy</li>\n<li>Operations</li>\n<li>Funds needed</li>\n<li>A summary of the plan</li>\n</ul>\n<p>It guides the business to run in an organised way.</p>\n<h4>Identifying an Opportunity — The First Stage</h4>\n<p>Identifying an opportunity is the <b>first stage</b> of the business process. In it, the businessperson looks for a new business opportunity or idea, and gathers information about it and analyses it. The <b>finding an opportunity</b> stage needs the ability to research and analyse, and creative thinking, to create something new. It needs a creative mind.</p>\n<h4>The Greatest Quality of a Successful Businessperson</h4>\n<p>The greatest quality is <b>hard work and never giving up</b>. A hard-working person overcomes failures and disappointments, seizes opportunities, learns from mistakes and tries again. A good idea alone, without hard work, cannot make any business succeed.</p>",
+     "mcqs": [
+      {
+       "q": "What is meant by a business plan?",
+       "options": [
+        "Written guidance for starting a business",
+        "A recipe for making a cake",
+        "A list of favourite toys",
+        "A type of riddle"
+       ],
+       "answer": 0,
+       "why": "A business plan is a detailed written plan of the business, covering the idea, aim, market research, marketing strategy, operations and funds needed."
+      },
+      {
+       "q": "A business plan is made:",
+       "options": [
+        "After closing the business",
+        "Only after a loss",
+        "Never — it is not needed",
+        "Before starting a business"
+       ],
+       "answer": 3,
+       "why": "A business plan is a detailed written plan made before starting a business, and it guides the business to run in an organised way."
+      },
+      {
+       "q": "Which of these is covered in a business plan?",
+       "options": [
+        "Only the shop's colour",
+        "Only the business name",
+        "Market research and funds needed",
+        "Only holidays"
+       ],
+       "answer": 2,
+       "why": "A business plan covers the idea, aim, market research, marketing strategy, operations, funds needed and a summary of the plan."
+      },
+      {
+       "q": "A business plan guides the business to run in a(n):",
+       "options": [
+        "Organised way",
+        "Careless way",
+        "Secret way",
+        "Random way"
+       ],
+       "answer": 0,
+       "why": "The plan guides the business to run in an organised way, because everything is written down in advance."
+      },
+      {
+       "q": "The first stage of the business process is:",
+       "options": [
+        "Selling the goods",
+        "Identifying (finding) an opportunity",
+        "Making a poster",
+        "Closing the business"
+       ],
+       "answer": 1,
+       "why": "Identifying an opportunity is the first stage of the business process, in which the businessperson looks for a new business opportunity or idea."
+      },
+      {
+       "q": "In the first stage, the businessperson:",
+       "options": [
+        "Only spends money",
+        "Only hires workers",
+        "Only waits for customers",
+        "Looks for a new opportunity and gathers and analyses information about it"
+       ],
+       "answer": 3,
+       "why": "In the first stage the businessperson looks for a new opportunity or idea, and gathers information about it and analyses it."
+      },
+      {
+       "q": "Finding an opportunity needs:",
+       "options": [
+        "A creative mind and the ability to research and analyse",
+        "Only a lot of money",
+        "Only a big shop",
+        "Only luck"
+       ],
+       "answer": 0,
+       "why": "The finding-an-opportunity stage needs the ability to research and analyse and creative thinking to create something new."
+      },
+      {
+       "q": "In the ______ stage, the ability to research and analyse and creative thinking are needed to create something new.",
+       "options": [
+        "Selling",
+        "Closing",
+        "Counting profit",
+        "Finding an opportunity"
+       ],
+       "answer": 3,
+       "why": "The first stage of the business process is finding an opportunity, which needs research, analysis and creative thinking."
+      },
+      {
+       "q": "According to the chapter, the greatest quality of a successful businessperson is:",
+       "options": [
+        "Having a good idea only",
+        "Being very rich",
+        "Hard work and never giving up",
+        "Having a big shop"
+       ],
+       "answer": 2,
+       "why": "The chapter explains that a hard-working person overcomes failures, seizes opportunities, learns from mistakes and tries again; a good idea alone, without hard work, cannot make any business succeed."
+      },
+      {
+       "q": "A hard-working businessperson, when failure comes:",
+       "options": [
+        "Gives up at once",
+        "Learns from mistakes and tries again",
+        "Blames other people",
+        "Stops working forever"
+       ],
+       "answer": 1,
+       "why": "Hard work and never giving up is the greatest quality: the person overcomes failures and disappointments and tries again."
+      }
+     ]
+    },
+    {
+     "title": "Selling Goods: Traditional and Digital Ways",
+     "notes_html": "<h4>How Do Businesspeople Sell Their Goods or Services?</h4>\n<p><b>Traditional way:</b> They sell face-to-face through a shop or stall, or through distributors, and publicise their goods with posters, newspaper, radio and TV adverts.</p>\n<p><b>Digital way:</b> They sell through websites, online shops, social media, email marketing, search engine optimisation and online adverts.</p>\n<h4>Digital and Traditional Business — The Difference</h4>\n<table>\n<tr><th>Point</th><th>Traditional Business</th><th>Digital Business</th></tr>\n<tr><td>Place</td><td>A physical shop</td><td>Online, across the whole world</td></tr>\n<tr><td>Example</td><td>A shop or market</td><td>An online shop or app</td></tr>\n<tr><td>Customer contact</td><td>Face-to-face conversation</td><td>Through online chat and email</td></tr>\n<tr><td>Publicity</td><td>Posters, radio, TV</td><td>Social media, email, search engine optimisation and online adverts</td></tr>\n<tr><td>Selling</td><td>Directly or through distributors</td><td>Through e-commerce or subscription</td></tr>\n<tr><td>Market</td><td>Local</td><td>Global</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "In the traditional way, goods are sold:",
+       "options": [
+        "Only through websites",
+        "Only through email",
+        "Only through mobile apps",
+        "Face-to-face through a shop or stall, or through distributors"
+       ],
+       "answer": 3,
+       "why": "Traditional selling is face-to-face through a shop or stall, or through distributors."
+      },
+      {
+       "q": "Traditional publicity of goods is done with:",
+       "options": [
+        "Only social media",
+        "Posters, newspaper, radio and TV adverts",
+        "Only email marketing",
+        "Only online adverts"
+       ],
+       "answer": 1,
+       "why": "In the traditional way, goods are publicised with posters, newspaper, radio and TV adverts."
+      },
+      {
+       "q": "In the digital way, goods are sold through:",
+       "options": [
+        "Only a shop or stall",
+        "Only distributors",
+        "Websites, online shops and social media",
+        "Only a market place"
+       ],
+       "answer": 2,
+       "why": "Digital selling uses websites, online shops, social media, email marketing, search engine optimisation and online adverts."
+      },
+      {
+       "q": "Digital publicity includes:",
+       "options": [
+        "Social media, email marketing and online adverts",
+        "Only radio adverts",
+        "Only posters",
+        "Only newspapers"
+       ],
+       "answer": 0,
+       "why": "Social media, email, search engine optimisation and online adverts are the digital ways of publicising goods."
+      },
+      {
+       "q": "Traditional business happens in:",
+       "options": [
+        "The whole world online",
+        "A physical shop",
+        "Only mobile apps",
+        "Only websites"
+       ],
+       "answer": 1,
+       "why": "Place: traditional business happens in a physical shop, while digital business happens online across the whole world."
+      },
+      {
+       "q": "The market of a digital business is:",
+       "options": [
+        "Only one street",
+        "Only one city",
+        "Global — the whole world",
+        "Only one village"
+       ],
+       "answer": 2,
+       "why": "Market: traditional business is local, but digital business is global — it reaches the whole world."
+      },
+      {
+       "q": "Customer contact in traditional business is:",
+       "options": [
+        "Face-to-face conversation",
+        "Online chat",
+        "Email only",
+        "Video call only"
+       ],
+       "answer": 0,
+       "why": "In traditional business, the customer contact is a face-to-face conversation; in digital business it is through online chat and email."
+      },
+      {
+       "q": "Customer contact in digital business is through:",
+       "options": [
+        "Standing in a shop",
+        "Posters",
+        "Radio adverts",
+        "Online chat and email"
+       ],
+       "answer": 3,
+       "why": "Digital business talks to customers through online chat and email, not face-to-face."
+      },
+      {
+       "q": "Selling through distributors belongs to:",
+       "options": [
+        "Digital business",
+        "Online shops",
+        "Traditional business",
+        "E-commerce"
+       ],
+       "answer": 2,
+       "why": "Selling directly or through distributors is the traditional way of selling."
+      },
+      {
+       "q": "Selling through e-commerce or subscription belongs to:",
+       "options": [
+        "Digital business",
+        "Traditional business",
+        "Only a shop",
+        "Only a stall"
+       ],
+       "answer": 0,
+       "why": "In digital business, selling is done through e-commerce or subscription, and the market is global."
+      }
+     ]
+    },
+    {
+     "title": "Business Activities with Digital Marketing",
+     "notes_html": "<h4>Activity: Setting Up a Food Stall</h4>\n<p>Each class group sets up a food stall (such as samosas, chaat or salad) in the school ground with a budget of <b>1000 rupees</b>, writing all expenses in a table.</p>\n<ul>\n<li>Make an expense table (ingredients, utensils, etc.).</li>\n<li>Add up all expenses to get the total cost.</li>\n<li>Subtract total cost from total sales income.</li>\n<li>If income is higher, there is a <b>profit</b>; if lower, there is a <b>loss</b>.</li>\n</ul>\n<p>This activity gives students real experience of running a business.</p>\n<h4>Digital Marketing for the Stall</h4>\n<p>Design a poster for the stall (stall name, items, prices and an attractive picture), then post it on the school's Facebook page or WhatsApp group. This develops students' creative skills and shows them that advertising plays a key role in promoting a business.</p>\n<h4>Telling the World About Your City's Famous Product</h4>\n<p>Each student chooses their city's famous product — for example, Hyderabad's bangles or Nawabshah's Sindhi parat — and uses creativity and social media platforms such as Facebook, Instagram and WhatsApp to introduce that product to the world, and helps local people sell it.</p>\n<h4>Success Stories: Two Groups</h4>\n<ul>\n<li>One group presents the success story of a famous <b>traditional</b> Pakistani businessperson, such as Hakim Muhammad Saeed (Hamdard).</li>\n<li>The other group presents a famous <b>digital</b> Pakistani businessperson, such as Salim Ghauri (NetSol) or Monis Rahman (Rozee).</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The budget for the food stall activity is:",
+       "options": [
+        "100 rupees",
+        "1000 rupees",
+        "500 rupees",
+        "5000 rupees"
+       ],
+       "answer": 1,
+       "why": "Each class group gets the task of setting up a food stall in the school ground with a budget of 1000 rupees."
+      },
+      {
+       "q": "The food stall in the activity can sell items such as:",
+       "options": [
+        "Books and copies",
+        "Clothes and shoes",
+        "Mobile phones",
+        "Samosas, chaat or salad"
+       ],
+       "answer": 3,
+       "why": "The stall sells food items such as samosas, chaat or salad, and all expenses are written in a table."
+      },
+      {
+       "q": "All the expenses of the stall are written in:",
+       "options": [
+        "An expense table",
+        "The poster",
+        "A letter",
+        "A story book"
+       ],
+       "answer": 0,
+       "why": "Make an expense table (ingredients, utensils, etc.) and add up all expenses to get the total cost."
+      },
+      {
+       "q": "If the sales income is higher than the total cost, there is a:",
+       "options": [
+        "Loss",
+        "Fine",
+        "Gift",
+        "Profit"
+       ],
+       "answer": 3,
+       "why": "Subtract total cost from total sales income: if income is higher there is a profit; if lower, there is a loss."
+      },
+      {
+       "q": "If the sales income is lower than the total cost, there is a:",
+       "options": [
+        "Profit",
+        "Prize",
+        "Loss",
+        "Bonus"
+       ],
+       "answer": 2,
+       "why": "If income is lower than the total cost, the stall makes a loss — this gives students real experience of running a business."
+      },
+      {
+       "q": "The poster for the stall should show:",
+       "options": [
+        "Only the stall name",
+        "The stall name, items, prices and an attractive picture",
+        "Only the prices",
+        "Only a picture"
+       ],
+       "answer": 1,
+       "why": "Design a poster for the stall with the stall name, items, prices and an attractive picture — advertising plays a key role in promoting a business."
+      },
+      {
+       "q": "The stall poster is posted on:",
+       "options": [
+        "Television",
+        "Radio",
+        "Newspaper only",
+        "The school's Facebook page or WhatsApp group"
+       ],
+       "answer": 3,
+       "why": "Students use digital marketing: they post the poster on the school's Facebook page or WhatsApp group."
+      },
+      {
+       "q": "Hyderabad's famous product, given as an example in the book, is:",
+       "options": [
+        "Sindhi parat",
+        "Bangles",
+        "Carpets",
+        "Dates"
+       ],
+       "answer": 1,
+       "why": "The book's examples: Hyderabad's bangles and Nawabshah's Sindhi parat. Students introduce their city's famous product to the world through social media."
+      },
+      {
+       "q": "Hakim Muhammad Saeed (Hamdard) is an example of a:",
+       "options": [
+        "Digital Pakistani businessperson",
+        "Student group leader",
+        "Traditional Pakistani businessperson",
+        "Computer programmer"
+       ],
+       "answer": 2,
+       "why": "One group presents a traditional Pakistani businessperson such as Hakim Muhammad Saeed (Hamdard); the other presents a digital one."
+      },
+      {
+       "q": "Salim Ghauri (NetSol) and Monis Rahman (Rozee) are examples of:",
+       "options": [
+        "Digital Pakistani businesspeople",
+        "Traditional Pakistani businesspeople",
+        "Famous teachers",
+        "Stall owners"
+       ],
+       "answer": 0,
+       "why": "Salim Ghauri (NetSol) and Monis Rahman (Rozee) are the book's examples of famous digital Pakistani businesspeople."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
