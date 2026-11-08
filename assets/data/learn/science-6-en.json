@@ -1,0 +1,3086 @@
+{
+ "book": "science-6-en",
+ "chapters": [
+  {
+   "title": "Organization of Plant and Animal Cells",
+   "lessons": [
+    {
+     "title": "The Cell — Building Block of Life",
+     "notes_html": "<h4>Cells Are Very Small</h4>\n<p>All living things are made of tiny units called <b>cells</b>. Cells are so small that they cannot be seen with the naked eye. That is why scientists use a <b>microscope</b> to see them.</p>\n<h4>The Microscope</h4>\n<ul>\n<li>The <b>objective lens</b> (the lens on the side of the object) makes the object look bigger.</li>\n<li>Focusing is NOT the work of the objective lens. Focusing is done by the <b>adjustment knobs</b>, which focus the microscope with the help of the objective lens.</li>\n</ul>\n<h4>Building Blocks of Life</h4>\n<p>Cells are called the <b>building blocks or units of life</b> because:</p>\n<ul>\n<li>All living things are made of cells.</li>\n<li>The cell is the basic unit of living things.</li>\n<li>All the processes of life take place inside cells.</li>\n</ul>\n<h4>Chromosomes</h4>\n<p><b>Chromosomes</b> are present inside cells. They contain the instructions which are transferred from parents to their offspring (children).</p>",
+     "mcqs": [
+      {
+       "q": "Why do scientists use a microscope to see cells?",
+       "options": [
+        "Cells are so small they cannot be seen with the naked eye",
+        "Cells are coloured",
+        "Cells move very fast",
+        "Cells are found only in water"
+       ],
+       "answer": 0,
+       "why": "The correct answer is that cells are too small for the naked eye. The lesson explains that cells can only be seen with the help of a microscope, which makes tiny things look bigger."
+      },
+      {
+       "q": "Which part of the microscope makes the object look bigger?",
+       "options": [
+        "Objective lens",
+        "Adjustment knob",
+        "Mirror",
+        "Stage"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the objective lens. Magnifying the object is the work of the objective lens, the lens on the side of the object being observed."
+      },
+      {
+       "q": "What is the work of the adjustment knobs of a microscope?",
+       "options": [
+        "To focus the microscope",
+        "To hold the slide",
+        "To give light",
+        "To colour the object"
+       ],
+       "answer": 0,
+       "why": "The correct answer is focusing. The lesson clearly separates the two jobs: the objective lens magnifies, while the adjustment knobs focus the microscope."
+      },
+      {
+       "q": "Cells are called the building blocks of life because:",
+       "options": [
+        "All living things are made of cells",
+        "They are square like blocks",
+        "They are found in buildings",
+        "They are very hard"
+       ],
+       "answer": 0,
+       "why": "The correct answer is that all living things are made of cells. The cell is the basic unit of living things, and all processes of life take place in cells."
+      },
+      {
+       "q": "Where do all the processes of life take place?",
+       "options": [
+        "In cells",
+        "In the air",
+        "In water only",
+        "In the soil"
+       ],
+       "answer": 0,
+       "why": "The correct answer is in cells. This is one of the reasons cells are called the units of life — every life process happens inside them."
+      },
+      {
+       "q": "What do chromosomes contain?",
+       "options": [
+        "Instructions transferred from parents to offspring",
+        "Food for the cell",
+        "Water and salts",
+        "Energy for movement"
+       ],
+       "answer": 0,
+       "why": "The correct answer is instructions passed from parents to offspring. The lesson states that chromosomes contain these instructions and are transferred from parents to children."
+      },
+      {
+       "q": "Which statement is TRUE?",
+       "options": [
+        "Chromosomes are transferred from parents to offspring",
+        "Chromosomes are found only in plants",
+        "Chromosomes make food",
+        "Chromosomes help in seeing"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the first statement. It is true that chromosomes are transferred from parents to offspring; the other statements are not given in the lesson."
+      },
+      {
+       "q": "The cell is the ______ unit of living things.",
+       "options": [
+        "Basic",
+        "Largest",
+        "Heaviest",
+        "Outer"
+       ],
+       "answer": 0,
+       "why": "The correct answer is 'basic'. The lesson calls the cell the basic unit of living things because everything alive is built from cells."
+      },
+      {
+       "q": "A microscope is needed to see cells because cells are:",
+       "options": [
+        "Too small",
+        "Too far away",
+        "Too bright",
+        "Too heavy"
+       ],
+       "answer": 0,
+       "why": "The correct answer is too small. Cells cannot be seen with the naked eye, so scientists observe them with a microscope."
+      },
+      {
+       "q": "Which pair of jobs is correct?",
+       "options": [
+        "Objective lens — magnifying; knobs — focusing",
+        "Objective lens — focusing; knobs — magnifying",
+        "Both lens and knobs — focusing",
+        "Knobs — magnifying only"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: objective lens magnifies and knobs focus. Mixing up these two jobs is exactly the false statement corrected in this lesson."
+      }
+     ]
+    },
+    {
+     "title": "Plant and Animal Cells",
+     "notes_html": "<h4>Chlorophyll</h4>\n<p><b>Chlorophyll</b> is the green-coloured substance present in the leaf. It is found inside the <b>chloroplast</b>, and its work is to absorb the light of the sun.</p>\n<h4>Plant Cell and Animal Cell — Differences</h4>\n<table>\n<tr><th>Feature</th><th>Animal Cell</th><th>Plant Cell</th></tr>\n<tr><td>Chloroplast</td><td>It has no chloroplast</td><td>It has chloroplast</td></tr>\n<tr><td>Vacuoles (empty spaces)</td><td>It has many vacuoles</td><td>It has one very large vacuole</td></tr>\n<tr><td>Cytoplasm</td><td>Its space is filled with cytoplasm</td><td>The large vacuole pushes the cytoplasm to the edge of the cell as a thin layer</td></tr>\n<tr><td>Outer covering</td><td>Only one layer — the cell membrane</td><td>Two layers — a hard outer cell wall and a thin cell membrane inside it</td></tr>\n</table>\n<p>Remember: the large vacuole of the plant cell pushes its cytoplasm to the side. So in a plant cell the cytoplasm forms a <b>thin layer</b>, while the animal cell is <b>filled</b> with cytoplasm.</p>",
+     "mcqs": [
+      {
+       "q": "Which substance absorbs the light of the sun in a leaf?",
+       "options": [
+        "Chlorophyll",
+        "Cellulose",
+        "Cytoplasm",
+        "Sap"
+       ],
+       "answer": 0,
+       "why": "The correct answer is chlorophyll. It is the green-coloured substance which absorbs sunlight, and it is present inside the chloroplast."
+      },
+      {
+       "q": "Chlorophyll is present inside the:",
+       "options": [
+        "Chloroplast",
+        "Nucleus",
+        "Vacuole",
+        "Cell wall"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the chloroplast. The lesson states that chlorophyll, the green substance, is present in the chloroplast of the leaf."
+      },
+      {
+       "q": "Which difference between plant and animal cells is WRONG?",
+       "options": [
+        "Animal cell has a thin layer of cytoplasm; plant cell is filled with cytoplasm",
+        "Animal cell has no chloroplast; plant cell has chloroplast",
+        "Animal cell has many vacuoles; plant cell has one very large vacuole",
+        "Animal cell has only a cell membrane; plant cell has a cell wall and a cell membrane"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the third row — it is reversed. In reality the plant cell has the thin layer of cytoplasm (pushed by its large vacuole), and the animal cell is filled with cytoplasm."
+      },
+      {
+       "q": "A plant cell has how many vacuoles of large size?",
+       "options": [
+        "One very large vacuole",
+        "Many large vacuoles",
+        "No vacuole",
+        "Two vacuoles"
+       ],
+       "answer": 0,
+       "why": "The correct answer is one very large vacuole. Animal cells have many vacuoles, but the plant cell has a single very large one."
+      },
+      {
+       "q": "Why is the cytoplasm a thin layer in a plant cell?",
+       "options": [
+        "The large vacuole pushes it to the edge of the cell",
+        "The cell wall presses it",
+        "The nucleus absorbs it",
+        "Sunlight dries it"
+       ],
+       "answer": 0,
+       "why": "The correct answer is that the large vacuole pushes the cytoplasm to the edge. That is why plant-cell cytoplasm appears as a thin layer along the side."
+      },
+      {
+       "q": "An animal cell has which outer covering?",
+       "options": [
+        "Only the cell membrane",
+        "Cell wall only",
+        "Cell wall and cell membrane",
+        "No covering"
+       ],
+       "answer": 0,
+       "why": "The correct answer is only the cell membrane. A plant cell has two layers outside — a hard cell wall and a thin cell membrane inside it — but an animal cell has just one."
+      },
+      {
+       "q": "The hard outer layer of a plant cell is called the:",
+       "options": [
+        "Cell wall",
+        "Cell membrane",
+        "Cytoplasm",
+        "Chloroplast"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the cell wall. It is the hard outer wall of the plant cell, with a thin cell membrane just inside it."
+      },
+      {
+       "q": "Which cell has chloroplasts?",
+       "options": [
+        "Plant cell",
+        "Animal cell",
+        "Both cells",
+        "Neither cell"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the plant cell. The animal cell has no chloroplast; the plant cell has chloroplasts containing chlorophyll."
+      },
+      {
+       "q": "The green colour of a leaf is due to:",
+       "options": [
+        "Chlorophyll",
+        "Cellulose",
+        "Water",
+        "Sap cell"
+       ],
+       "answer": 0,
+       "why": "The correct answer is chlorophyll. The lesson identifies chlorophyll as the green-coloured substance present in the leaf."
+      },
+      {
+       "q": "In an animal cell, the inside space is:",
+       "options": [
+        "Filled with cytoplasm",
+        "Empty",
+        "Filled with one large vacuole",
+        "Covered by a cell wall"
+       ],
+       "answer": 0,
+       "why": "The correct answer is filled with cytoplasm. Unlike the plant cell, no single large vacuole pushes the cytoplasm to the side in an animal cell."
+      }
+     ]
+    },
+    {
+     "title": "From Cells to Organisms",
+     "notes_html": "<h4>Unicellular and Multicellular Organisms</h4>\n<ul>\n<li><b>Multicellular organisms</b> are organisms whose body is made of more than one cell — for example humans, plants, eagles and <b>Hydra</b>. So Hydra is a multicellular animal, not unicellular.</li>\n</ul>\n<h4>Tissue, Organ and System</h4>\n<ul>\n<li>A group of tissues doing the same kind of work forms an <b>organ</b>.</li>\n<li><b>Organs</b> are groups of different tissues which together do a particular job — for example the heart, liver, stomach, brain, leaf and flower.</li>\n<li>A <b>system</b> is a group of different organs which together do a particular job.</li>\n<li>Waste materials and useless things are removed from an animal's body through the <b>excretory system</b>, not through the nervous system.</li>\n</ul>\n<h4>The Ladder of Organization</h4>\n<table>\n<tr><th>Level</th><th>Meaning (human digestive system example)</th></tr>\n<tr><td>Cell</td><td>Cells together form tissue</td></tr>\n<tr><td>Tissue</td><td>Tissues together form an organ</td></tr>\n<tr><td>Organ</td><td>Stomach or intestines; organs like mouth, tongue, stomach, liver and intestines</td></tr>\n<tr><td>System</td><td>Different organs together form the digestive system</td></tr>\n<tr><td>Organism</td><td>All systems together form the complete organism (human)</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "Hydra is a:",
+       "options": [
+        "Multicellular animal",
+        "Unicellular animal",
+        "Plant",
+        "Non-living thing"
+       ],
+       "answer": 0,
+       "why": "The correct answer is a multicellular animal. The statement 'Hydra is unicellular' is false; Hydra's body is made of many cells."
+      },
+      {
+       "q": "Waste materials are removed from an animal's body through the:",
+       "options": [
+        "Excretory system",
+        "Nervous system",
+        "Digestive system",
+        "Blood"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the excretory system. The lesson corrects the false idea that wastes leave the body through the nervous system."
+      },
+      {
+       "q": "A group of tissues doing the same kind of work forms a/an:",
+       "options": [
+        "Organ",
+        "System",
+        "Cell",
+        "Organism"
+       ],
+       "answer": 0,
+       "why": "The correct answer is an organ. A system is different — it is a group of different organs working together for a particular job."
+      },
+      {
+       "q": "A system is:",
+       "options": [
+        "A group of different organs doing a particular job together",
+        "A single cell",
+        "A group of tissues",
+        "A part of the nucleus"
+       ],
+       "answer": 0,
+       "why": "The correct answer is a group of different organs. For example, the mouth, stomach, liver and intestines together form the digestive system."
+      },
+      {
+       "q": "Which of these is an example of a multicellular organism?",
+       "options": [
+        "Human",
+        "Only bacteria",
+        "A single cell",
+        "None of these"
+       ],
+       "answer": 0,
+       "why": "The correct answer is human. Humans, plants, eagles and Hydra are all multicellular — their bodies are made of more than one cell."
+      },
+      {
+       "q": "Which of the following is an organ?",
+       "options": [
+        "Heart",
+        "Cell",
+        "Chromosome",
+        "Tissue"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the heart. The lesson lists the heart, liver, stomach, brain, leaf and flower as organs."
+      },
+      {
+       "q": "What is the correct order of organization in the body?",
+       "options": [
+        "Cell → Tissue → Organ → System → Organism",
+        "Organ → Cell → Tissue → System",
+        "Tissue → Cell → System → Organ",
+        "System → Organ → Tissue → Cell"
+       ],
+       "answer": 0,
+       "why": "The correct answer is Cell → Tissue → Organ → System → Organism. Each level joins together to build the next, as shown in the hierarchy chart of the lesson."
+      },
+      {
+       "q": "In the human digestive system example, the stomach is a/an:",
+       "options": [
+        "Organ",
+        "Cell",
+        "Tissue",
+        "System"
+       ],
+       "answer": 0,
+       "why": "The correct answer is an organ. Tissues join to form organs such as the stomach and intestines, and organs join to form the digestive system."
+      },
+      {
+       "q": "The digestive system is formed by:",
+       "options": [
+        "Different organs working together",
+        "Only cells",
+        "Only tissues",
+        "Chromosomes"
+       ],
+       "answer": 0,
+       "why": "The correct answer is different organs working together — mouth, tongue, stomach, liver and intestines together make the digestive system."
+      },
+      {
+       "q": "'Multicellular' means an organism whose body is made of:",
+       "options": [
+        "More than one cell",
+        "One cell only",
+        "No cells",
+        "Only two cells"
+       ],
+       "answer": 0,
+       "why": "The correct answer is more than one cell. That is the definition given in the lesson, with humans, plants, eagles and Hydra as examples."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sense Organs",
+   "lessons": [
+    {
+     "title": "Sense, Stimulus and Receptors",
+     "notes_html": "<h4>Sense, Stimulus and Receptors</h4>\n<ul>\n<li><b>Sense</b> — the ability of living things to detect any stimulus.</li>\n<li><b>Stimulus</b> — a change felt in the environment of an organism.</li>\n<li><b>Receptors</b> — the special cells which sense a particular kind of stimulus.</li>\n</ul>\n<h4>How Every Sense Organ Works</h4>\n<p>A stimulus from the environment (light, sound, smell, taste, touch, heat or pain) reaches the receptors in a sense organ. The receptors sense it and make <b>electrical signals</b>. The signals travel through a nerve to the <b>brain</b>, and the brain understands them and produces the sensation — seeing, hearing, smelling, tasting or touching.</p>\n<h4>Tastes of the Tongue</h4>\n<p>The human tongue can sense four kinds of tastes: <b>sweet, sour, bitter and salty</b>. Taste receptors are present on the tongue — and also on the upper part inside the mouth.</p>\n<h4>True or False?</h4>\n<ul>\n<li>Light-sensing receptors are on the <b>retina</b> of the eye, NOT in the cornea. (So that statement is false.)</li>\n<li>The part of the brain where smell is felt is called the <b>olfactory bulb</b>. (True.)</li>\n<li>The eye is only for seeing. Keeping the body's balance is the work of the <b>semicircular canals</b> in the inner ear. (So 'the eye keeps balance' is false.)</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The ability to detect any stimulus is called:",
+       "options": [
+        "Sense",
+        "Receptor",
+        "Stimulus",
+        "Signal"
+       ],
+       "answer": 0,
+       "why": "The correct answer is sense. By definition in this lesson, the ability of living things to detect a stimulus is called sense."
+      },
+      {
+       "q": "The cells which sense a particular kind of stimulus are called:",
+       "options": [
+        "Receptors",
+        "Nerves",
+        "Signals",
+        "Organs"
+       ],
+       "answer": 0,
+       "why": "The correct answer is receptors. Receptors are the special cells present in sense organs that detect one particular kind of stimulus."
+      },
+      {
+       "q": "A change felt in the environment of an organism is called a:",
+       "options": [
+        "Stimulus",
+        "Sense",
+        "Receptor",
+        "Taste"
+       ],
+       "answer": 0,
+       "why": "The correct answer is a stimulus. Light, sound, smell, heat and pain are all examples of stimuli coming from the environment."
+      },
+      {
+       "q": "How many kinds of tastes can the human tongue sense?",
+       "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+       ],
+       "answer": 0,
+       "why": "The correct answer is four: sweet, sour, bitter and salty, as stated in the lesson."
+      },
+      {
+       "q": "Which of these is NOT one of the four tastes of the tongue?",
+       "options": [
+        "Sweet",
+        "Sour",
+        "Spicy heat of chillies is a basic taste",
+        "Salty"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the third option. The lesson lists only four tastes — sweet, sour, bitter and salty — sensed by the tongue."
+      },
+      {
+       "q": "Taste receptors are present:",
+       "options": [
+        "On the tongue and the upper part inside the mouth",
+        "Only on the tongue",
+        "Only in the nose",
+        "In the skin"
+       ],
+       "answer": 0,
+       "why": "The correct answer is on the tongue and also on the upper side inside the mouth. The statement that they are there besides the tongue is true."
+      },
+      {
+       "q": "The light-sensing receptors (photo receptors) are present on the:",
+       "options": [
+        "Retina",
+        "Cornea",
+        "Lens",
+        "Iris"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the retina. The statement placing them in the cornea is false; the cornea only lets light enter the eye."
+      },
+      {
+       "q": "The part of the brain in which smell is felt is called the:",
+       "options": [
+        "Olfactory bulb",
+        "Cochlea",
+        "Optic nerve",
+        "Dermis"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the olfactory bulb. It receives electrical signals from the smell receptors and produces the sensation of smell."
+      },
+      {
+       "q": "Maintaining the balance of the body is the work of:",
+       "options": [
+        "The semicircular canals in the inner ear",
+        "The eye",
+        "The tongue",
+        "The skin"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the semicircular canals of the inner ear. The eye is only the sense of sight, so the statement giving balance to the eye is false."
+      },
+      {
+       "q": "After receptors sense a stimulus, what do they make?",
+       "options": [
+        "Electrical signals",
+        "Heat",
+        "Sound",
+        "Light"
+       ],
+       "answer": 0,
+       "why": "The correct answer is electrical signals. The receptors turn the stimulus into electrical signals, which reach the brain through a nerve."
+      }
+     ]
+    },
+    {
+     "title": "The Eye and the Ear",
+     "notes_html": "<h4>Structure and Working of the Eye</h4>\n<ul>\n<li><b>Cornea</b> — the outer part of the eye which lets light enter.</li>\n<li><b>Iris and pupil</b> — the iris and its central hole (the pupil) control the amount of light entering.</li>\n<li><b>Lens</b> — focuses the light and forms an image on the retina.</li>\n<li><b>Retina</b> — the screen of the eye; it has the light-sensitive receptors (photo receptors) which sense light and make electrical signals.</li>\n<li><b>Optic nerve</b> — carries the signals to the brain; the brain produces the sensation of seeing.</li>\n</ul>\n<h4>Journey of Sound — From Air to Brain</h4>\n<table>\n<tr><th>Step</th><th>What happens</th></tr>\n<tr><td>1. Sound waves in the air</td><td>Sound travels through the air</td></tr>\n<tr><td>2. Outer ear (pinna)</td><td>Collects the sound</td></tr>\n<tr><td>3. Ear canal</td><td>Carries the sound inside</td></tr>\n<tr><td>4. Eardrum</td><td>Vibrates with the sound</td></tr>\n<tr><td>5. Malleus → Incus → Stapes</td><td>The three small bones pass the vibration onwards</td></tr>\n<tr><td>6. Cochlea</td><td>The vibration moves the fluid; hair-like structures vibrate</td></tr>\n<tr><td>7. Cochlear nerve</td><td>Carries electrical signals onward</td></tr>\n<tr><td>8. Brain</td><td>Understands the signals — we feel the sound</td></tr>\n</table>\n<h4>Parts of the Ear</h4>\n<ul>\n<li><b>Outer ear:</b> pinna and ear canal.</li>\n<li><b>Middle ear:</b> eardrum and three small bones — malleus, incus, stapes.</li>\n<li><b>Inner ear:</b> cochlea, cochlear nerve and the semicircular canals (for balance).</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which part of the eye lets light enter the eye?",
+       "options": [
+        "Cornea",
+        "Retina",
+        "Lens",
+        "Optic nerve"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the cornea. It is the outer part of the eye and light passes into the eye through it."
+      },
+      {
+       "q": "The amount of light entering the eye is controlled by:",
+       "options": [
+        "The iris and pupil",
+        "The lens",
+        "The retina",
+        "The optic nerve"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the iris and its central hole, the pupil. Together they control how much light goes inside the eye."
+      },
+      {
+       "q": "The work of the lens of the eye is to:",
+       "options": [
+        "Focus light and form an image on the retina",
+        "Make electrical signals",
+        "Carry signals to the brain",
+        "Control the amount of light"
+       ],
+       "answer": 0,
+       "why": "The correct answer is focusing light to form an image on the retina. Making signals is the work of the receptors on the retina."
+      },
+      {
+       "q": "The optic nerve carries electrical signals from the eye to the:",
+       "options": [
+        "Brain",
+        "Ear",
+        "Skin",
+        "Tongue"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the brain. The brain understands the signals from the optic nerve and produces the sensation of seeing."
+      },
+      {
+       "q": "Which part of the ear collects the sound?",
+       "options": [
+        "Pinna",
+        "Cochlea",
+        "Eardrum",
+        "Stapes"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the pinna, the outer part of the ear. It collects sound waves from the air and sends them into the ear canal."
+      },
+      {
+       "q": "The three small bones of the middle ear are:",
+       "options": [
+        "Malleus, incus, stapes",
+        "Pinna, canal, drum",
+        "Cochlea, nerve, canal",
+        "Lens, iris, pupil"
+       ],
+       "answer": 0,
+       "why": "The correct answer is malleus, incus and stapes. They pass the vibration of the eardrum onwards to the cochlea."
+      },
+      {
+       "q": "What vibrates when sound reaches the middle ear?",
+       "options": [
+        "The eardrum",
+        "The pinna",
+        "The cochlea",
+        "The nerve"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the eardrum. Sound waves coming through the ear canal make the eardrum vibrate, starting the chain of hearing."
+      },
+      {
+       "q": "In the cochlea, the vibration causes movement in its:",
+       "options": [
+        "Fluid",
+        "Bones",
+        "Air",
+        "Skin"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the fluid of the cochlea. The movement makes the hair-like structures vibrate, which produces electrical signals."
+      },
+      {
+       "q": "Electrical signals from the cochlea reach the brain through the:",
+       "options": [
+        "Cochlear nerve",
+        "Optic nerve",
+        "Ear canal",
+        "Eardrum"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the cochlear nerve. The optic nerve belongs to the eye; the ear's signals travel by the cochlear nerve."
+      },
+      {
+       "q": "The correct order of the journey of sound is:",
+       "options": [
+        "Pinna → ear canal → eardrum → small bones → cochlea → brain",
+        "Pinna → cochlea → eardrum → brain",
+        "Eardrum → pinna → cochlea → brain",
+        "Brain → cochlea → eardrum → pinna"
+       ],
+       "answer": 0,
+       "why": "The correct answer follows the flow chart of the lesson: pinna collects, canal carries, eardrum vibrates, the three bones pass it on, the cochlea senses it, and the brain understands it."
+      }
+     ]
+    },
+    {
+     "title": "Skin, Nose and Tongue",
+     "notes_html": "<h4>Matching Stimuli to Sense Organs</h4>\n<table>\n<tr><th>Stimulus</th><th>Example</th><th>Sensed by</th><th>Receptors present in</th></tr>\n<tr><td>Pain</td><td>Prick of a needle</td><td>Skin</td><td>Skin (pain receptors)</td></tr>\n<tr><td>Temperature</td><td>Hot gust of wind</td><td>Skin</td><td>Skin (thermo receptors for heat and cold)</td></tr>\n<tr><td>Smell</td><td>Fragrance of perfume</td><td>Nose</td><td>Nose (smell receptors)</td></tr>\n<tr><td>Sound</td><td>Teacher's voice</td><td>Ear</td><td>Ear (sound receptors)</td></tr>\n<tr><td>Touch</td><td>Handshake</td><td>Skin</td><td>Skin (touch receptors)</td></tr>\n</table>\n<h4>Which Structure Belongs Where?</h4>\n<ul>\n<li><b>Cochlea</b> — ear (part of the inner ear).</li>\n<li><b>Retina</b> — eye.</li>\n<li><b>Lens</b> — eye; focuses light and forms an image on the retina.</li>\n<li><b>Malleus</b> — ear (one of the three small bones of the middle ear).</li>\n<li><b>Smell</b> — nose.</li>\n<li><b>Tactile corpuscle</b> — skin (touch-sensing receptor).</li>\n<li><b>Dermis</b> — skin (the middle layer of the skin, where the sensitive receptors are present).</li>\n<li><b>Eardrum</b> — middle ear; vibrates with sound waves.</li>\n<li><b>Smell receptors</b> — in the nasal cavity of the nose; they sense chemical substances/smell in the air.</li>\n<li><b>Taste buds</b> — on the tongue; they sense the tastes of chemical substances in food.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The prick of a needle is a pain stimulus. Which organ senses it?",
+       "options": [
+        "Skin",
+        "Ear",
+        "Nose",
+        "Tongue"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the skin. Pain-sensing receptors are present in the skin, so it feels the prick of the needle."
+      },
+      {
+       "q": "A hot gust of wind is a temperature stimulus sensed by:",
+       "options": [
+        "The skin, through thermo receptors",
+        "The eye",
+        "The nose",
+        "The ear"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the skin through its thermo receptors. These receptors in the skin sense heat and cold."
+      },
+      {
+       "q": "The fragrance of perfume is sensed by the nose because the nose has:",
+       "options": [
+        "Smell receptors",
+        "Taste buds",
+        "Photo receptors",
+        "Thermo receptors"
+       ],
+       "answer": 0,
+       "why": "The correct answer is smell receptors. They are present in the nasal cavity of the nose and sense smells in the air."
+      },
+      {
+       "q": "Your teacher's voice is a sound stimulus. Sound receptors are present in the:",
+       "options": [
+        "Ear",
+        "Skin",
+        "Tongue",
+        "Eye"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the ear. The ear contains the receptors that sense sound stimuli such as a voice."
+      },
+      {
+       "q": "A handshake is a touch stimulus sensed by receptors in the:",
+       "options": [
+        "Skin",
+        "Nose",
+        "Inner ear",
+        "Retina"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the skin. Touch/contact-sensing receptors in the skin feel a handshake."
+      },
+      {
+       "q": "The cochlea belongs to which sense organ?",
+       "options": [
+        "Ear",
+        "Eye",
+        "Nose",
+        "Skin"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the ear. The cochlea is a part of the inner ear where sound vibrations are sensed."
+      },
+      {
+       "q": "The tactile corpuscle is a touch receptor present in the:",
+       "options": [
+        "Skin",
+        "Eye",
+        "Tongue",
+        "Nose"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the skin. The tactile corpuscle is the skin's touch-sensing receptor listed in this lesson."
+      },
+      {
+       "q": "The dermis is:",
+       "options": [
+        "The middle layer of the skin",
+        "A bone of the ear",
+        "A part of the eye",
+        "A taste bud"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the middle layer of the skin. The sensitive receptors of the skin are present in the dermis."
+      },
+      {
+       "q": "Taste buds are present on the tongue and they sense:",
+       "options": [
+        "Tastes of chemical substances in food",
+        "Smells in the air",
+        "Light",
+        "Sounds"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the tastes of substances in food. Smell is sensed separately by the smell receptors of the nose."
+      },
+      {
+       "q": "The malleus is:",
+       "options": [
+        "One of the three small bones of the middle ear",
+        "A part of the eye",
+        "A layer of the skin",
+        "A taste receptor"
+       ],
+       "answer": 0,
+       "why": "The correct answer is one of the three small ear bones, together with the incus and stapes, which pass vibrations to the cochlea."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Photosynthesis and Respiration in Plants",
+   "lessons": [
+    {
+     "title": "Photosynthesis — How Plants Make Food",
+     "notes_html": "<h4>What Is Photosynthesis?</h4>\n<p><b>Photosynthesis</b> is the chemical process in which plants, with the help of sunlight and chlorophyll, prepare their food (glucose) from water and carbon dioxide, and release oxygen.</p>\n<p><b>Equation:</b> 6CO₂ + 6H₂O — with the help of sunlight and chlorophyll → C₆H₁₂O₆ (glucose) + 6O₂</p>\n<h4>Things Needed for Photosynthesis</h4>\n<ul>\n<li><b>Water</b> and <b>carbon dioxide</b> — the raw materials used.</li>\n<li><b>Sunlight</b> — photosynthesis happens in the daytime because it depends on sunlight.</li>\n<li><b>Chlorophyll</b> — the green substance in the chloroplast; its work is to absorb sunlight. Without chlorophyll, photosynthesis is not possible. Chlorophyll also gives the leaf its green colour.</li>\n</ul>\n<h4>Where Does Food Preparation Happen?</h4>\n<p>The <b>leaf</b> is the part of the plant involved in preparing food. The chloroplasts in the cells of the leaf (and the chlorophyll in them) prepare food (glucose) with the help of sunlight.</p>\n<h4>Why Photosynthesis Is Useful for All Living Things</h4>\n<ul>\n<li>Plants prepare <b>food</b> through photosynthesis.</li>\n<li>Plants release <b>oxygen</b> in this process.</li>\n<li>All living things depend on plants for food and for oxygen to breathe. Without plants, living things could get neither food nor oxygen.</li>\n<li>The gas used (taken in) is carbon dioxide; the gas produced (released) is oxygen.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Photosynthesis is the process in which plants prepare food from:",
+       "options": [
+        "Water and carbon dioxide",
+        "Water and oxygen",
+        "Glucose and oxygen",
+        "Soil and air"
+       ],
+       "answer": 0,
+       "why": "The correct answer is water and carbon dioxide. With the help of sunlight and chlorophyll, plants turn these into glucose and release oxygen."
+      },
+      {
+       "q": "Which things are necessary for photosynthesis besides water and carbon dioxide?",
+       "options": [
+        "Sunlight and chlorophyll",
+        "Only soil",
+        "Moonlight",
+        "Wind"
+       ],
+       "answer": 0,
+       "why": "The correct answer is sunlight and chlorophyll. The lesson lists four needs: water, carbon dioxide, sunlight and chlorophyll."
+      },
+      {
+       "q": "Photosynthesis takes place in the daytime because it depends on:",
+       "options": [
+        "Sunlight",
+        "Rain",
+        "Cold",
+        "Wind"
+       ],
+       "answer": 0,
+       "why": "The correct answer is sunlight. The process lasts till daytime because it depends on sunlight, so it stops at night."
+      },
+      {
+       "q": "The work of chlorophyll is to:",
+       "options": [
+        "Absorb sunlight",
+        "Absorb water",
+        "Release oxygen",
+        "Make roots grow"
+       ],
+       "answer": 0,
+       "why": "The correct answer is to absorb sunlight. Without chlorophyll photosynthesis is not possible, and chlorophyll also gives the leaf its green colour."
+      },
+      {
+       "q": "Which part of the plant prepares food?",
+       "options": [
+        "Leaf",
+        "Root",
+        "Stem",
+        "Flower"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the leaf. The chloroplasts in the cells of the leaf prepare food (glucose) with the help of sunlight."
+      },
+      {
+       "q": "The gas produced and released in photosynthesis is:",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+       ],
+       "answer": 0,
+       "why": "The correct answer is oxygen. Carbon dioxide is the gas taken in; oxygen is the gas produced in the process."
+      },
+      {
+       "q": "The food prepared by plants in photosynthesis is:",
+       "options": [
+        "Starch only",
+        "Glucose",
+        "Protein",
+        "Fat"
+       ],
+       "answer": 1,
+       "why": "The correct answer is glucose. The equation of the lesson shows water and carbon dioxide forming glucose (C₆H₁₂O₆) and oxygen."
+      },
+      {
+       "q": "Why is photosynthesis useful for all living things?",
+       "options": [
+        "It makes the soil rich",
+        "It gives all living things food and oxygen",
+        "It produces rain",
+        "It cools the air"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that it provides food and oxygen. All living things depend on plants for food and for oxygen for breathing."
+      },
+      {
+       "q": "Chlorophyll is present in the leaf inside the:",
+       "options": [
+        "Nucleus",
+        "Chloroplast",
+        "Vacuole",
+        "Cell wall"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the chloroplast. Chlorophyll is the green-coloured substance present in the chloroplast."
+      },
+      {
+       "q": "If photosynthesis stopped in plants, what would happen?",
+       "options": [
+        "Nothing would change",
+        "Food and oxygen would run out and life would end",
+        "Only plants would grow faster",
+        "Animals would make their own food"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that food and oxygen would run out. The lesson's project answer says life would end, because all living things depend on plants for both."
+      }
+     ]
+    },
+    {
+     "title": "Stomata, Leaf Parts and Respiration",
+     "notes_html": "<h4>Stomata — The Tiny Pores of the Leaf</h4>\n<ul>\n<li>The <b>stomata</b> are tiny pores in the leaf.</li>\n<li>Their function is the <b>exchange of gases</b>: carbon dioxide enters the leaf through them, and oxygen along with water vapour goes out.</li>\n<li>The broad structure of the leaf has these tiny pores (stomata) in it.</li>\n</ul>\n<h4>Matching Leaf Parts With Their Work</h4>\n<table>\n<tr><th>Part</th><th>Work</th></tr>\n<tr><td>Broad structure of the leaf</td><td>It has tiny pores, that is, stomata</td></tr>\n<tr><td>Tiny pores (stomata)</td><td>Taking in carbon dioxide and releasing oxygen</td></tr>\n<tr><td>Root hairs</td><td>Absorb mineral salts and water from the soil</td></tr>\n<tr><td>Leaf cells</td><td>They contain solar panels (chloroplasts)</td></tr>\n<tr><td>Chlorophyll</td><td>Absorbs solar energy</td></tr>\n</table>\n<h4>Respiration in Plants</h4>\n<p><b>Respiration:</b> glucose + oxygen → carbon dioxide + water + energy.</p>\n<ul>\n<li>At night, photosynthesis stops, but respiration continues.</li>\n<li>That is why plants <b>release carbon dioxide at night</b>.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the work of the stomata (tiny pores) in a leaf?",
+       "options": [
+        "For absorption of water",
+        "For transpiration and exchange of gases",
+        "For transport of food",
+        "For making seeds"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the exchange of gases (the exercise answer names transpiration, through which gas exchange happens): carbon dioxide enters, and oxygen with water vapour goes out."
+      },
+      {
+       "q": "Through the stomata, which gas enters the leaf?",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+       ],
+       "answer": 1,
+       "why": "The correct answer is carbon dioxide. It enters the leaf for photosynthesis, while oxygen and water vapour go out through the same pores."
+      },
+      {
+       "q": "What do plants release at night?",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Water only",
+        "Nothing"
+       ],
+       "answer": 1,
+       "why": "The correct answer is carbon dioxide. At night photosynthesis stops but respiration continues, and respiration releases carbon dioxide."
+      },
+      {
+       "q": "Why does respiration continue at night while photosynthesis stops?",
+       "options": [
+        "Plants sleep at night",
+        "Respiration does not need sunlight; photosynthesis does",
+        "Roots stop working",
+        "Leaves close forever"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that respiration does not depend on sunlight. Photosynthesis depends on sunlight, so it stops at night, but respiration keeps going."
+      },
+      {
+       "q": "Root hairs absorb which things from the soil?",
+       "options": [
+        "Only oxygen",
+        "Mineral salts and water",
+        "Glucose",
+        "Sunlight"
+       ],
+       "answer": 1,
+       "why": "The correct answer is mineral salts and water. This is the matching given in the lesson for the work of root hairs."
+      },
+      {
+       "q": "Which part of the leaf contains the 'solar panels' (chloroplasts)?",
+       "options": [
+        "Root hairs",
+        "Leaf cells",
+        "Stomata",
+        "Leaf veins only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the leaf cells. The lesson's matching says leaf cells contain the solar panels that catch sunlight."
+      },
+      {
+       "q": "In respiration, glucose and oxygen change into:",
+       "options": [
+        "Only glucose",
+        "Carbon dioxide, water and energy",
+        "Chlorophyll",
+        "Mineral salts"
+       ],
+       "answer": 1,
+       "why": "The correct answer is carbon dioxide, water and energy. This is the respiration equation shown on the lesson's poster: glucose + oxygen → carbon dioxide + water + energy."
+      },
+      {
+       "q": "The broad structure of the leaf has in it:",
+       "options": [
+        "Root hairs",
+        "Tiny pores called stomata",
+        "Seeds",
+        "Chlorophyll grains only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is tiny pores, the stomata. The matching exercise links the broad structure of the leaf with its tiny pores."
+      },
+      {
+       "q": "Chlorophyll absorbs:",
+       "options": [
+        "Water",
+        "Solar energy",
+        "Carbon dioxide",
+        "Mineral salts"
+       ],
+       "answer": 1,
+       "why": "The correct answer is solar energy. Absorbing the sun's energy is the work matched with chlorophyll in this lesson."
+      },
+      {
+       "q": "Which gas goes OUT of the leaf through the stomata along with water vapour?",
+       "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+       ],
+       "answer": 1,
+       "why": "The correct answer is oxygen. Through the stomata carbon dioxide enters, and oxygen along with water vapour goes out."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Environment and Interaction With It",
+   "lessons": [
+    {
+     "title": "Living and Non-Living Parts of the Ecosystem",
+     "notes_html": "<h4>Living (Biotic) and Non-Living (Abiotic) Parts</h4>\n<p>An <b>ecosystem</b> has two kinds of parts:</p>\n<ul>\n<li><b>Biotic parts</b> — the living parts, for example bacteria, fungus and plants.</li>\n<li><b>Abiotic parts</b> — the non-living parts, for example minerals, water and temperature.</li>\n</ul>\n<table>\n<tr><th>Example</th><th>Biotic or Abiotic?</th><th>Why</th></tr>\n<tr><td>Mineral components</td><td>Abiotic</td><td>Minerals are non-living</td></tr>\n<tr><td>Bacteria on your skin</td><td>Biotic</td><td>Bacteria are living things</td></tr>\n<tr><td>Water</td><td>Abiotic</td><td>Water is non-living</td></tr>\n<tr><td>Temperature</td><td>Abiotic</td><td>Temperature is non-living</td></tr>\n<tr><td>Plants and fungus</td><td>Biotic</td><td>They are living things</td></tr>\n</table>\n<h4>A Gas That Is an Abiotic Part</h4>\n<p><b>Carbon dioxide</b> is a non-living (abiotic) component of the environment, yet plants absorb it from the air for photosynthesis. Remember: <b>chlorophyll is not a gas</b> — it is the green substance present in leaves.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is a non-living (abiotic) part of the ecosystem?",
+       "options": [
+        "Bacteria",
+        "Mineral components",
+        "Fungus",
+        "Plants"
+       ],
+       "answer": 1,
+       "why": "The correct answer is mineral components. Bacteria, fungus and plants are all living, so they are biotic parts; minerals are non-living."
+      },
+      {
+       "q": "Which of the following is a living (biotic) part of the ecosystem?",
+       "options": [
+        "Minerals",
+        "Bacteria present on your skin",
+        "Water",
+        "Temperature"
+       ],
+       "answer": 1,
+       "why": "The correct answer is bacteria. Bacteria are living things, while minerals, water and temperature are abiotic (non-living) parts."
+      },
+      {
+       "q": "Plants are which part of the ecosystem?",
+       "options": [
+        "Abiotic",
+        "Biotic",
+        "Neither",
+        "Mineral"
+       ],
+       "answer": 1,
+       "why": "The correct answer is biotic. The lesson lists plants among the living parts of the ecosystem, along with bacteria and fungus."
+      },
+      {
+       "q": "Water and temperature are examples of:",
+       "options": [
+        "Biotic parts",
+        "Abiotic parts",
+        "Producers",
+        "Consumers"
+       ],
+       "answer": 1,
+       "why": "The correct answer is abiotic parts. They are non-living components of the environment, unlike bacteria or plants."
+      },
+      {
+       "q": "Which gas needed for photosynthesis is also an abiotic component?",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Chlorophyll"
+       ],
+       "answer": 1,
+       "why": "The correct answer is carbon dioxide. Plants absorb it from the air, and it is a non-living part of the environment."
+      },
+      {
+       "q": "Why is 'chlorophyll' a wrong answer for 'a gas of the environment'?",
+       "options": [
+        "Chlorophyll is a liquid",
+        "Chlorophyll is not a gas; it is the green substance in leaves",
+        "Chlorophyll is a mineral",
+        "Chlorophyll is an animal"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that chlorophyll is not a gas at all. The lesson notes the book's printed option is wrong because chlorophyll is the green substance present in leaves."
+      },
+      {
+       "q": "Fungus is a ______ part of the ecosystem.",
+       "options": [
+        "Abiotic",
+        "Biotic",
+        "Mineral",
+        "Chemical"
+       ],
+       "answer": 1,
+       "why": "The correct answer is biotic. Fungus is a living thing, grouped with bacteria and plants as living parts."
+      },
+      {
+       "q": "An ecosystem is made up of:",
+       "options": [
+        "Only living things",
+        "Living (biotic) and non-living (abiotic) parts",
+        "Only non-living things",
+        "Only plants"
+       ],
+       "answer": 1,
+       "why": "The correct answer is both kinds of parts together. Every example in the lesson is sorted into the biotic or the abiotic group."
+      },
+      {
+       "q": "Which pair is correctly matched?",
+       "options": [
+        "Minerals — biotic",
+        "Bacteria — biotic",
+        "Temperature — biotic",
+        "Water — biotic"
+       ],
+       "answer": 1,
+       "why": "The correct answer is bacteria — biotic, because bacteria are living. Minerals, temperature and water are all abiotic."
+      },
+      {
+       "q": "Mineral components are abiotic because they are:",
+       "options": [
+        "Living",
+        "Non-living",
+        "Producers",
+        "Animals"
+       ],
+       "answer": 1,
+       "why": "The correct answer is non-living. 'Abiotic' means the non-living parts of the ecosystem, and minerals are non-living."
+      }
+     ]
+    },
+    {
+     "title": "How Living Things Depend on Each Other",
+     "notes_html": "<h4>Producers and Consumers</h4>\n<ul>\n<li><b>Producers</b> (plants) make food and provide food for consumers.</li>\n<li><b>Consumers</b> eat other organisms for food.</li>\n<li>An <b>omnivore</b> eats all plants and animals — it makes both producers and other consumers its food.</li>\n</ul>\n<h4>Parasitic Relationship</h4>\n<p>In <b>parasitism</b>, one organism lives in or on the body of another organism and lives on its food, which harms the host organism. Example: a <b>tapeworm</b> living inside the body of an organism and living on that organism's food is a parasitic relationship.</p>\n<h4>Carbon Keeps Circulating</h4>\n<p>Carbon is an essential part of the ecosystem. It keeps circulating through the whole ecosystem by being used and reused, and it is absolutely necessary to sustain life. Carbon dioxide is used in the process of <b>photosynthesis</b>, in which plants prepare food from water and carbon dioxide with the help of sunlight.</p>\n<h4>Our Transport and the Environment (class activity)</h4>\n<ul>\n<li>Walking — waste produced: 0. Cycling — waste produced: 0. Travelling by car — waste: 200 (per trip in the book's chart).</li>\n<li>Example: if the car is used three times in a week, total waste gas = 3 × 200 = 600.</li>\n<li>Conclusion: walking and cycling produce no waste gas, while travelling by car produces waste gas — so walking and cycling are better for the environment.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A tapeworm living inside an organism's body and living on its food is an example of:",
+       "options": [
+        "Friendship",
+        "A parasitic relationship",
+        "Photosynthesis",
+        "A producer"
+       ],
+       "answer": 1,
+       "why": "The correct answer is a parasitic relationship. In parasitism one organism lives on another's food and harms the host, exactly what the tapeworm does."
+      },
+      {
+       "q": "An organism which eats both plants (producers) and other animals (consumers) is called a/an:",
+       "options": [
+        "Producer",
+        "Omnivore",
+        "Parasite",
+        "Decomposer only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is an omnivore. It eats all plants and animals, so it makes both producers and other consumers its food."
+      },
+      {
+       "q": "In an ecosystem, producers provide ______ for consumers.",
+       "options": [
+        "Shelter",
+        "Food",
+        "Water",
+        "Heat"
+       ],
+       "answer": 1,
+       "why": "The correct answer is food. Producers make food, and consumers depend on them for it — this is the relation described in the lesson."
+      },
+      {
+       "q": "Carbon dioxide is used in which process?",
+       "options": [
+        "Respiration only",
+        "Photosynthesis",
+        "Burning",
+        "Evaporation"
+       ],
+       "answer": 1,
+       "why": "The correct answer is photosynthesis. In it, plants use water and carbon dioxide to prepare food with the help of sunlight, keeping carbon circulating."
+      },
+      {
+       "q": "In parasitism, the organism living on the host's food:",
+       "options": [
+        "Helps the host",
+        "Harms the host",
+        "Becomes a producer",
+        "Makes food for the host"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that it harms the host. The lesson defines parasitism as living in or on another organism and living on its food, which harms the host organism."
+      },
+      {
+       "q": "Which way of travelling produces NO waste gas?",
+       "options": [
+        "Travelling by car",
+        "Walking and cycling",
+        "Travelling by bus only",
+        "All travel produces waste"
+       ],
+       "answer": 1,
+       "why": "The correct answer is walking and cycling. In the book's chart both are counted as 0 waste, while a car trip is counted as 200."
+      },
+      {
+       "q": "If a car is used three times in one week, the total waste gas (by the book's chart) is:",
+       "options": [
+        "200",
+        "600",
+        "400",
+        "100"
+       ],
+       "answer": 1,
+       "why": "The correct answer is 600. Each car trip counts 200, so 3 × 200 = 600, exactly as worked out in the lesson's activity."
+      },
+      {
+       "q": "Carbon keeps circulating through the ecosystem by being:",
+       "options": [
+        "Destroyed",
+        "Used and reused",
+        "Changed into stone",
+        "Sent to space"
+       ],
+       "answer": 1,
+       "why": "The correct answer is used and reused. The lesson says carbon circulates through the whole ecosystem in this way and is necessary to sustain life."
+      },
+      {
+       "q": "Plants are called producers because they:",
+       "options": [
+        "Eat animals",
+        "Prepare food",
+        "Live on hosts",
+        "Produce waste"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that they prepare food. Producers provide food for consumers, who cannot make their own food."
+      },
+      {
+       "q": "The host in a parasitic relationship is the organism:",
+       "options": [
+        "That eats the parasite",
+        "In or on whose body the parasite lives and whose food it uses",
+        "That makes food",
+        "That lives in water only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the organism whose body and food the parasite uses. The tapeworm's host is harmed because the worm lives on its food."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Atoms, Molecules, Mixtures and Compounds",
+   "lessons": [
+    {
+     "title": "Inside the Atom",
+     "notes_html": "<h4>Particles of an Atom</h4>\n<p>An atom is made of smaller particles. The lesson names three of them and their electric charges:</p>\n<table>\n<tr><th>Particle</th><th>Electric charge</th></tr>\n<tr><td>Proton</td><td>Positive charge</td></tr>\n<tr><td>Electron</td><td>Negative charge</td></tr>\n<tr><td>Neutron</td><td>No charge</td></tr>\n</table>\n<p>Remember it this way: <b>P</b>roton = <b>P</b>ositive; electron is negative; neutron is neutral (no charge at all).</p>",
+     "mcqs": [
+      {
+       "q": "Which particle carries a positive electric charge?",
+       "options": [
+        "Electron",
+        "Proton",
+        "Neutron",
+        "Molecule"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the proton. The lesson's charge table is: proton positive, electron negative, neutron with no charge."
+      },
+      {
+       "q": "An electron carries which charge?",
+       "options": [
+        "Positive",
+        "Negative",
+        "No charge",
+        "Double charge"
+       ],
+       "answer": 1,
+       "why": "The correct answer is a negative charge. Only the proton is positive among the three particles named in the lesson."
+      },
+      {
+       "q": "Which particle carries NO electric charge?",
+       "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "All of them"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the neutron. Its name fits its behaviour — it is neutral, carrying neither positive nor negative charge."
+      },
+      {
+       "q": "How many kinds of particles of the atom are named in this lesson?",
+       "options": [
+        "One",
+        "Three",
+        "Two",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "The correct answer is three: the proton, the electron and the neutron, each identified by its electric charge."
+      },
+      {
+       "q": "If a particle has a positive charge, it must be a:",
+       "options": [
+        "Neutron",
+        "Proton",
+        "Electron",
+        "Compound"
+       ],
+       "answer": 1,
+       "why": "The correct answer is a proton. Positive charge is the identifying mark of the proton in this lesson."
+      },
+      {
+       "q": "Which statement is correct?",
+       "options": [
+        "Proton — negative; electron — positive",
+        "Proton — positive; neutron — no charge",
+        "Neutron — positive; electron — no charge",
+        "All three carry charges"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the second statement. It matches the lesson exactly: proton positive, electron negative, neutron no charge."
+      },
+      {
+       "q": "The charge of a neutron is:",
+       "options": [
+        "Positive",
+        "Zero (no charge)",
+        "Negative",
+        "Changing"
+       ],
+       "answer": 1,
+       "why": "The correct answer is zero — the neutron carries no charge, unlike the positive proton and the negative electron."
+      },
+      {
+       "q": "Which particle's name starts with the same letter as its charge word 'positive'?",
+       "options": [
+        "Electron",
+        "Proton",
+        "Neutron",
+        "Atom"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the proton — P for Proton and P for Positive, the memory trick given in the lesson notes."
+      },
+      {
+       "q": "An electron and a proton differ in:",
+       "options": [
+        "Size only",
+        "Their electric charges — negative and positive",
+        "Colour",
+        "Weight only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is their charges. The lesson distinguishes the particles by charge: electron negative, proton positive."
+      },
+      {
+       "q": "Which of these is NOT a particle of the atom named in the lesson?",
+       "options": [
+        "Proton",
+        "Molecule",
+        "Electron",
+        "Neutron"
+       ],
+       "answer": 1,
+       "why": "The correct answer is molecule. A molecule is a bigger combination; the atom's own particles named here are proton, electron and neutron."
+      }
+     ]
+    },
+    {
+     "title": "Elements and Their Symbols",
+     "notes_html": "<h4>Elements and Chemical Symbols</h4>\n<p>Every element has a short <b>chemical symbol</b>. Some symbols are one letter and some are two letters — and two-letter symbols must be learned carefully, because similar symbols mean different elements.</p>\n<table>\n<tr><th>Symbol</th><th>Element</th></tr>\n<tr><td>Na</td><td>Sodium</td></tr>\n<tr><td>Al</td><td>Aluminium</td></tr>\n<tr><td>C</td><td>Carbon</td></tr>\n<tr><td>Cl</td><td>Chlorine</td></tr>\n<tr><td>O</td><td>Oxygen</td></tr>\n<tr><td>H</td><td>Hydrogen</td></tr>\n<tr><td>Ne</td><td>Neon</td></tr>\n<tr><td>F</td><td>Fluorine</td></tr>\n<tr><td>Ca</td><td>Calcium</td></tr>\n<tr><td>N</td><td>Nitrogen</td></tr>\n</table>\n<h4>Watch Out — Similar Symbols</h4>\n<ul>\n<li><b>Mn</b> = Manganese.</li>\n<li><b>Mo</b> = Molybdenum (not manganese!).</li>\n<li><b>Mg</b> = Magnesium (not manganese!).</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the chemical symbol for Manganese?",
+       "options": [
+        "Mg",
+        "Mn",
+        "Mo",
+        "Ma"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Mn. The lesson warns that Mo is molybdenum and Mg is magnesium, so only Mn stands for manganese."
+      },
+      {
+       "q": "The symbol 'Na' stands for which element?",
+       "options": [
+        "Nitrogen",
+        "Sodium",
+        "Neon",
+        "Nickel"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Sodium. Na appears in the lesson's symbol table with the name Sodium."
+      },
+      {
+       "q": "What does the symbol 'Cl' mean?",
+       "options": [
+        "Carbon",
+        "Chlorine",
+        "Calcium",
+        "Cobalt"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Chlorine. In the table, C alone is carbon and Ca is calcium, so Cl must be read as chlorine."
+      },
+      {
+       "q": "The symbol for Oxygen is:",
+       "options": [
+        "Ox",
+        "O",
+        "On",
+        "Og"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the single letter O, as listed in the lesson's table of symbols and elements."
+      },
+      {
+       "q": "Which symbol stands for Calcium?",
+       "options": [
+        "C",
+        "Ca",
+        "Cl",
+        "Co"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Ca. The table gives C for carbon and Cl for chlorine, so calcium is written Ca."
+      },
+      {
+       "q": "The element Neon has the symbol:",
+       "options": [
+        "N",
+        "Ne",
+        "No",
+        "Na"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Ne. N alone is nitrogen and Na is sodium, so neon needs the two-letter symbol Ne."
+      },
+      {
+       "q": "Mg is the symbol of:",
+       "options": [
+        "Manganese",
+        "Magnesium",
+        "Molybdenum",
+        "Mercury"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Magnesium. The lesson specifically separates Mg (magnesium) from Mn (manganese) and Mo (molybdenum)."
+      },
+      {
+       "q": "Which symbol in the table stands for Aluminium?",
+       "options": [
+        "Am",
+        "Al",
+        "Au",
+        "Ar"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Al, the symbol paired with Aluminium in the lesson's table."
+      },
+      {
+       "q": "The symbol 'F' stands for:",
+       "options": [
+        "Iron",
+        "Fluorine",
+        "Francium",
+        "Phosphorus"
+       ],
+       "answer": 1,
+       "why": "The correct answer is Fluorine, as given in the lesson's table of names and symbols."
+      },
+      {
+       "q": "Hydrogen is written with the symbol:",
+       "options": [
+        "Hy",
+        "H",
+        "Hg",
+        "He"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the single letter H, listed in the lesson's table for the element Hydrogen."
+      }
+     ]
+    },
+    {
+     "title": "Metals, Non-Metals and Separating Mixtures",
+     "notes_html": "<h4>Mixtures and Compounds — Separating a Mixture</h4>\n<p>A <b>mixture</b> has different components mixed together. To get them back, we choose a method that suits the mixture.</p>\n<h4>Filtration — Separating Sand and Water</h4>\n<ul>\n<li>Pass the mixture of sand and water through <b>filter paper</b>.</li>\n<li>The <b>sand stays on the filter paper</b>.</li>\n<li>The <b>water passes through</b> and collects below.</li>\n<li>In this way the two components are separated.</li>\n</ul>\n<p><i>Note: this chapter's exercise also asks for two differences between metals and non-metals, but the printed answer to that part is not given in the book's solved material — so here we practise only what the chapter's solved answers actually give: the particles, the symbols, and the filtration method above.</i></p>",
+     "mcqs": [
+      {
+       "q": "Which method separates a mixture of sand and water?",
+       "options": [
+        "Burning",
+        "Filtration",
+        "Freezing",
+        "Magnet only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is filtration. Passing the mixture through filter paper separates the sand from the water, as described in the lesson."
+      },
+      {
+       "q": "In filtration of sand and water, the sand:",
+       "options": [
+        "Passes through the paper",
+        "Stays on the filter paper",
+        "Dissolves in water",
+        "Turns into vapour"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that the sand stays on the filter paper. Only the water passes through to collect below."
+      },
+      {
+       "q": "What collects below the filter paper in this method?",
+       "options": [
+        "Sand",
+        "Water",
+        "Both mixed",
+        "Nothing"
+       ],
+       "answer": 1,
+       "why": "The correct answer is water. Filtration lets the liquid pass through while the solid (sand) is held back on the paper."
+      },
+      {
+       "q": "Filtration is used to separate a mixture into its:",
+       "options": [
+        "Atoms",
+        "Separate components",
+        "Elements only",
+        "Charges"
+       ],
+       "answer": 1,
+       "why": "The correct answer is its separate components. The exercise asks which method separates mixtures into their components, and filtration does this for sand and water."
+      },
+      {
+       "q": "Sand and water together form a:",
+       "options": [
+        "Single element",
+        "Mixture",
+        "Symbol",
+        "Atom"
+       ],
+       "answer": 1,
+       "why": "The correct answer is a mixture. Its two components — sand and water — can be separated again by filtration."
+      },
+      {
+       "q": "Why does sand not pass through the filter paper?",
+       "options": [
+        "It is too heavy to move",
+        "The paper holds back the solid while the liquid passes through",
+        "It dissolves slowly",
+        "It sticks to water"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that the filter paper holds back the solid. That is how filtration works in the method described in the lesson."
+      },
+      {
+       "q": "Manganese, molybdenum and magnesium are all:",
+       "options": [
+        "Mixtures",
+        "Metals named with similar symbols Mn, Mo, Mg",
+        "Gases of the air",
+        "Non-living parts"
+       ],
+       "answer": 1,
+       "why": "The correct answer is that they are elements with easily confused symbols. This chapter groups metals and non-metals among the elements whose symbols we learn."
+      },
+      {
+       "q": "Which of these is a component of the sand-and-water mixture?",
+       "options": [
+        "Chlorine",
+        "Sand",
+        "Sodium",
+        "Oxygen gas"
+       ],
+       "answer": 1,
+       "why": "The correct answer is sand (with water as the other component). The filtration answer in the lesson separates exactly these two."
+      },
+      {
+       "q": "After filtration, the two components obtained are:",
+       "options": [
+        "Salt and water",
+        "Sand (on paper) and water (below)",
+        "Only water",
+        "Only sand"
+       ],
+       "answer": 1,
+       "why": "The correct answer is sand on the filter paper and water collected below — the two components separated, as the lesson describes."
+      },
+      {
+       "q": "To separate components of a mixture, we must choose:",
+       "options": [
+        "Any method at random",
+        "Only heating",
+        "A method that suits that mixture, like filtration for sand and water",
+        "Only cooling"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a method suited to the mixture. The exercise asks which methods separate particular mixtures, and gives filtration for sand and water."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Air",
+   "lessons": [
+    {
+     "title": "What Is Air Made Of?",
+     "notes_html": "<h4>Air Is a Mixture of Gases</h4>\n<p>Many gases are present in the air. Their amounts are:</p>\n<table>\n<tr><th>Gas</th><th>Amount in air</th></tr>\n<tr><td>Nitrogen</td><td>78% — the largest amount</td></tr>\n<tr><td>Oxygen</td><td>21%</td></tr>\n<tr><td>Other gases</td><td>1%</td></tr>\n</table>\n<ul>\n<li>The gas present in the <b>largest amount</b> in air is <b>nitrogen (78%)</b>.</li>\n<li>The amount of <b>oxygen</b> in air is <b>21%</b>.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which gas is present in the largest amount in air?",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Ozone"
+       ],
+       "answer": 2,
+       "why": "The correct answer is nitrogen. Air contains 78% nitrogen, which is more than oxygen (21%) and all other gases (1%) together."
+      },
+      {
+       "q": "What percentage of oxygen is present in air?",
+       "options": [
+        "78%",
+        "1%",
+        "21%",
+        "50%"
+       ],
+       "answer": 2,
+       "why": "The correct answer is 21%. The lesson's table gives nitrogen 78%, oxygen 21% and other gases 1%."
+      },
+      {
+       "q": "The 'other gases' in air make up about:",
+       "options": [
+        "21%",
+        "78%",
+        "1%",
+        "10%"
+       ],
+       "answer": 2,
+       "why": "The correct answer is 1%. After nitrogen (78%) and oxygen (21%), only 1% is left for all the other gases."
+      },
+      {
+       "q": "Which gas makes up more than three-fourths of the air?",
+       "options": [
+        "Oxygen",
+        "Ozone",
+        "Nitrogen",
+        "Carbon dioxide"
+       ],
+       "answer": 2,
+       "why": "The correct answer is nitrogen at 78%. Three-fourths is 75%, and nitrogen's share is even more than that."
+      },
+      {
+       "q": "If air is 78% nitrogen and 21% oxygen, the remaining part is:",
+       "options": [
+        "Water — 21%",
+        "Dust — 50%",
+        "Other gases — 1%",
+        "Nothing"
+       ],
+       "answer": 2,
+       "why": "The correct answer is other gases, 1%. The three parts of the lesson's table add up to the whole air: 78 + 21 + 1 = 100%."
+      },
+      {
+       "q": "Which statement about air is correct?",
+       "options": [
+        "Air has more oxygen than nitrogen",
+        "Air has 78% nitrogen and 21% oxygen",
+        "Air is a single gas",
+        "Air has no nitrogen"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the second statement. Air is a mixture in which nitrogen, not oxygen, is the biggest part."
+      },
+      {
+       "q": "Oxygen's share of air is about:",
+       "options": [
+        "Half (50%)",
+        "Three-fourths (78%)",
+        "One-fifth (21%)",
+        "Almost all (99%)"
+       ],
+       "answer": 2,
+       "why": "The correct answer is about one-fifth, 21%. Nitrogen holds the biggest share at 78%."
+      },
+      {
+       "q": "Air contains all of these EXCEPT:",
+       "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Other gases",
+        "Only one single gas and nothing else"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the last option. Air is a mixture of many gases — mainly nitrogen and oxygen — not one single gas."
+      },
+      {
+       "q": "The largest component of air is:",
+       "options": [
+        "Oxygen",
+        "Ozone",
+        "Nitrogen",
+        "Carbon dioxide"
+       ],
+       "answer": 2,
+       "why": "The correct answer is nitrogen. 'Largest amount' points to the 78% share given in the lesson."
+      },
+      {
+       "q": "Together, nitrogen and oxygen make up what percentage of air?",
+       "options": [
+        "79%",
+        "21%",
+        "99%",
+        "100% exactly with nothing else"
+       ],
+       "answer": 2,
+       "why": "The correct answer is 99% (78% + 21%). The lesson leaves 1% for the other gases, so together they are 99%, not the whole."
+      }
+     ]
+    },
+    {
+     "title": "Useful Gases, the Ozone Layer and Burning",
+     "notes_html": "<h4>The Ozone Layer Protects Us</h4>\n<p>The layer of <b>ozone</b> gas present in the atmosphere stops the intense heat and ultraviolet rays coming from the Sun from reaching us. So ozone is the gas that stops the excess heat coming from the Sun.</p>\n<h4>Burning (Combustion)</h4>\n<ul>\n<li>When a fuel such as oil burns, it reacts chemically with the <b>oxygen</b> of the air.</li>\n<li>Burning produces <b>carbon dioxide, water and energy</b>.</li>\n<li>So when oil burns: carbon dioxide and energy are released.</li>\n</ul>\n<p><i>Note: this chapter's exercise also asks for two functions of each gas in air, but that answer is not printed in the book's solved material. The points above are the ones the chapter's solved answers actually give: the ozone layer's protection and what burning produces.</i></p>",
+     "mcqs": [
+      {
+       "q": "Which gas stops the excess heat coming from the Sun?",
+       "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Ozone",
+        "Carbon dioxide"
+       ],
+       "answer": 2,
+       "why": "The correct answer is ozone. Its layer in the atmosphere stops the Sun's intense heat and ultraviolet rays from reaching us."
+      },
+      {
+       "q": "The ozone layer protects us from the Sun's:",
+       "options": [
+        "Light only",
+        "Wind",
+        "Intense heat and ultraviolet rays",
+        "Rain"
+       ],
+       "answer": 2,
+       "why": "The correct answer is intense heat and ultraviolet rays. That protection is the function of ozone given in the lesson."
+      },
+      {
+       "q": "When oil burns, what is released?",
+       "options": [
+        "Oxygen and water",
+        "Nitrogen",
+        "Carbon dioxide and energy",
+        "Ozone"
+       ],
+       "answer": 2,
+       "why": "The correct answer is carbon dioxide and energy. Burning is a chemical reaction of the fuel with oxygen, and it also produces water."
+      },
+      {
+       "q": "In burning (combustion), the fuel reacts chemically with which gas of the air?",
+       "options": [
+        "Nitrogen",
+        "Ozone",
+        "Oxygen",
+        "Carbon dioxide"
+       ],
+       "answer": 2,
+       "why": "The correct answer is oxygen. The lesson explains that in combustion the fuel reacts with the oxygen in the air."
+      },
+      {
+       "q": "Which of these is produced when a fuel burns?",
+       "options": [
+        "Ozone",
+        "Nitrogen gas",
+        "Carbon dioxide",
+        "Chlorophyll"
+       ],
+       "answer": 2,
+       "why": "The correct answer is carbon dioxide. The products of burning named in the lesson are carbon dioxide, water and energy."
+      },
+      {
+       "q": "Energy is released when oil burns. Burning is therefore a ______ change involving oxygen.",
+       "options": [
+        "Physical only",
+        "Change of place",
+        "Chemical reaction",
+        "No change"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a chemical reaction. The lesson calls burning a chemical reaction of fuel with oxygen, producing new substances and energy."
+      },
+      {
+       "q": "Ozone is present as a layer in the:",
+       "options": [
+        "Soil",
+        "Ocean",
+        "Atmosphere",
+        "Leaf"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the atmosphere. The lesson speaks of the layer of ozone gas present in the atmosphere around the Earth."
+      },
+      {
+       "q": "Which gas of air is used up when things burn?",
+       "options": [
+        "Nitrogen",
+        "Ozone layer gas only",
+        "Oxygen",
+        "None"
+       ],
+       "answer": 2,
+       "why": "The correct answer is oxygen. Combustion is the fuel reacting with oxygen, so oxygen is the air gas that burning needs."
+      },
+      {
+       "q": "Water is also produced when fuel burns, along with:",
+       "options": [
+        "Only smoke",
+        "Nitrogen and ozone",
+        "Carbon dioxide and energy",
+        "Nothing else"
+       ],
+       "answer": 2,
+       "why": "The correct answer is carbon dioxide and energy. The lesson lists all three results of burning: carbon dioxide, water and energy."
+      },
+      {
+       "q": "The Sun's ultraviolet rays are stopped from reaching us by:",
+       "options": [
+        "Clouds only",
+        "Nitrogen",
+        "The ozone layer",
+        "Dust"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the ozone layer. Stopping the ultraviolet rays and excess heat is exactly the work of ozone described in the lesson."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Slurry and Suspension",
+   "lessons": [
+    {
+     "title": "Slurry and Suspension",
+     "notes_html": "",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Types of Energy",
+   "lessons": [
+    {
+     "title": "Kinetic and Potential Energy",
+     "notes_html": "<h4>Kinetic Energy — Energy of Motion</h4>\n<ul>\n<li><b>Kinetic energy</b> is the energy of a moving body. Example: a moving motor car.</li>\n<li>It depends on the <b>mass</b> of the body and the <b>speed</b> of its motion.</li>\n<li>In kinetic energy, the body is <b>in motion</b>.</li>\n</ul>\n<h4>Potential Energy — Stored Energy</h4>\n<ul>\n<li><b>Potential energy</b> is energy collected (stored) in a body. Example: a <b>compressed spring</b> holds stored (potential) energy.</li>\n<li>It depends on the <b>mass</b> of the body and its <b>height (position)</b> above the ground.</li>\n<li>In potential energy, the body is <b>completely at rest</b>.</li>\n</ul>\n<table>\n<tr><th>Kinetic Energy</th><th>Potential Energy</th></tr>\n<tr><td>Obtained from motion</td><td>Energy collected (stored) in a body</td></tr>\n<tr><td>Depends on mass and speed of motion</td><td>Depends on mass and height (position) above the ground</td></tr>\n<tr><td>The body is in motion</td><td>The body is completely at rest</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "Which of the following is an example of kinetic energy?",
+       "options": [
+        "A compressed spring",
+        "A book being read",
+        "A moving motor car",
+        "A stone on a shelf"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a moving motor car. Kinetic energy is the energy of a moving body, and the chapter gives the moving motor car as its example."
+      },
+      {
+       "q": "Which of the following is an example of potential energy?",
+       "options": [
+        "A moving motor car",
+        "A running fan",
+        "A compressed spring",
+        "A flying bird"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a compressed spring. It holds stored (potential) energy even though it is not moving."
+      },
+      {
+       "q": "Kinetic energy depends on:",
+       "options": [
+        "Mass and height only",
+        "Colour and shape",
+        "Mass and speed of motion",
+        "Temperature"
+       ],
+       "answer": 2,
+       "why": "The correct answer is mass and speed of motion. That is the dependence stated in the lesson's comparison table."
+      },
+      {
+       "q": "Potential energy depends on:",
+       "options": [
+        "Mass and speed",
+        "Speed and direction",
+        "Mass and height (position) above the ground",
+        "Sound and light"
+       ],
+       "answer": 2,
+       "why": "The correct answer is mass and height above the ground. Height/position is what makes stored energy different from kinetic energy."
+      },
+      {
+       "q": "In potential energy, the body is:",
+       "options": [
+        "In fast motion",
+        "Vibrating",
+        "Completely at rest",
+        "Burning"
+       ],
+       "answer": 2,
+       "why": "The correct answer is completely at rest. Its energy is stored, not shown as movement — like the compressed spring."
+      },
+      {
+       "q": "In kinetic energy, the body is:",
+       "options": [
+        "At rest",
+        "Stored",
+        "In motion",
+        "Invisible"
+       ],
+       "answer": 2,
+       "why": "The correct answer is in motion. Kinetic energy is obtained from motion, so a resting body does not have it."
+      },
+      {
+       "q": "A compressed spring holds which kind of energy?",
+       "options": [
+        "Kinetic energy",
+        "Sound energy",
+        "Potential (stored) energy",
+        "Light energy"
+       ],
+       "answer": 2,
+       "why": "The correct answer is potential energy. The chapter counts a compressed spring among things holding stored hidden energy."
+      },
+      {
+       "q": "Which statement is correct?",
+       "options": [
+        "Kinetic energy is stored energy",
+        "Potential energy is the energy of motion",
+        "Kinetic energy comes from motion; potential energy is stored",
+        "Both are the same"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the third statement. It matches the lesson's table: kinetic from motion, potential stored in a body."
+      },
+      {
+       "q": "A moving motor car has energy because it:",
+       "options": [
+        "Is at a height",
+        "Is compressed",
+        "Is in motion",
+        "Is charged"
+       ],
+       "answer": 2,
+       "why": "The correct answer is that it is in motion. Motion is the source of kinetic energy, as in the chapter's own example."
+      },
+      {
+       "q": "Stored energy collected in a body is called:",
+       "options": [
+        "Kinetic energy",
+        "Friction",
+        "Potential energy",
+        "Speed"
+       ],
+       "answer": 2,
+       "why": "The correct answer is potential energy. The lesson defines it as energy collected (stored) in a body."
+      }
+     ]
+    },
+    {
+     "title": "Energy in Everyday Life",
+     "notes_html": "<h4>Chemical Energy in Batteries</h4>\n<p>A battery or cell stores <b>chemical energy</b>, just as fuel stores chemical energy. A toy motor car moves, makes a sound and runs on a battery: when the car runs, the battery's chemical energy changes into <b>kinetic energy, sound energy and heat energy</b>.</p>\n<h4>Energy at Work — Hammering a Nail</h4>\n<p>When Imran hammers a nail into wood:</p>\n<ul>\n<li>The moving hammer and hand use <b>kinetic energy</b>.</li>\n<li>The hit produces <b>sound energy</b>.</li>\n<li><b>Electrical energy is NOT used</b> in this work.</li>\n</ul>\n<h4>Renewable Sources of Energy — Advantages</h4>\n<ul>\n<li>They never run out — the sun, wind and water are always present.</li>\n<li>They do not pollute the environment and are harmless.</li>\n<li>A large amount of energy is obtained from them.</li>\n<li>Using them keeps the earth and the environment safe and reduces dependence on fossil fuels.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What kind of energy is stored in a battery or cell?",
+       "options": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Chemical energy",
+        "Light energy"
+       ],
+       "answer": 2,
+       "why": "The correct answer is chemical energy. A battery or cell stores chemical energy, just as fuel stores chemical energy."
+      },
+      {
+       "q": "When a toy car runs on its battery, the chemical energy changes into:",
+       "options": [
+        "Only light",
+        "Only potential energy",
+        "Kinetic, sound and heat energy",
+        "Nothing"
+       ],
+       "answer": 2,
+       "why": "The correct answer is kinetic, sound and heat energy. The car moves (kinetic), makes a sound, and heat is also produced."
+      },
+      {
+       "q": "Fuel stores which kind of energy?",
+       "options": [
+        "Kinetic energy",
+        "Sound energy",
+        "Chemical energy",
+        "Electrical energy only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is chemical energy. The lesson compares a battery with fuel: both store chemical energy."
+      },
+      {
+       "q": "Imran hammers a nail into wood. Which kind of energy is NOT used in this work?",
+       "options": [
+        "Kinetic energy",
+        "Sound energy",
+        "Electrical energy",
+        "Energy of the moving hand"
+       ],
+       "answer": 2,
+       "why": "The correct answer is electrical energy. Hammering uses kinetic energy and produces sound, but no electricity is involved."
+      },
+      {
+       "q": "The moving hammer has which energy while striking the nail?",
+       "options": [
+        "Potential energy only",
+        "Chemical energy",
+        "Kinetic energy",
+        "Stored energy"
+       ],
+       "answer": 2,
+       "why": "The correct answer is kinetic energy, because the hammer is in motion — and motion is the source of kinetic energy."
+      },
+      {
+       "q": "Which is an advantage of renewable sources of energy?",
+       "options": [
+        "They run out quickly",
+        "They pollute a lot",
+        "They never run out — sun, wind and water are always present",
+        "They increase fossil fuel use"
+       ],
+       "answer": 2,
+       "why": "The correct answer is that they never run out. The sun, wind and water are always present, which heads the lesson's list of advantages."
+      },
+      {
+       "q": "Renewable sources keep the environment:",
+       "options": [
+        "Polluted",
+        "Unchanged but smoky",
+        "Safe, because they do not pollute and are harmless",
+        "Dependent on fossil fuels"
+       ],
+       "answer": 2,
+       "why": "The correct answer is safe. The lesson says these sources do not pollute the environment and are harmless."
+      },
+      {
+       "q": "Using renewable energy reduces our dependence on:",
+       "options": [
+        "Sunlight",
+        "Wind",
+        "Fossil fuels",
+        "Water"
+       ],
+       "answer": 2,
+       "why": "The correct answer is fossil fuels. That reduction is one of the advantages listed in the lesson."
+      },
+      {
+       "q": "A large amount of energy can be obtained from renewable sources. This is:",
+       "options": [
+        "A disadvantage",
+        "Not mentioned",
+        "An advantage listed in the lesson",
+        "Impossible"
+       ],
+       "answer": 2,
+       "why": "The correct answer is an advantage listed in the lesson, along with never running out and not polluting."
+      },
+      {
+       "q": "The sound made when the hammer hits the nail is an example of:",
+       "options": [
+        "Chemical energy stored",
+        "Potential energy",
+        "Sound energy produced during the work",
+        "Electrical energy"
+       ],
+       "answer": 2,
+       "why": "The correct answer is sound energy produced during the work. The lesson counts the hit's sound among the energies in hammering, unlike electricity which is absent."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Force and Machines",
+   "lessons": [
+    {
+     "title": "Pulleys",
+     "notes_html": "<h4>What a Pulley Does</h4>\n<p>A <b>pulley</b> is a simple machine used for lifting a load upward, changing the direction of force, and increasing force. Examples: drawing water from a well, raising a flag, lifting heavy goods in a crane.</p>\n<h4>Fixed Pulley and Movable Pulley</h4>\n<table>\n<tr><th>Fixed Pulley</th><th>Movable Pulley</th></tr>\n<tr><td>Stays fixed at one place; does not move with the load</td><td>Moves up/down along with the load</td></tr>\n<tr><td>Does not change the amount of force; only changes the direction of force (pull down, load goes up)</td><td>Increases the applied force, so a large load can be lifted with less force than the weight of the load</td></tr>\n<tr><td>Used for flags and on wells</td><td>Used in cranes (with fixed pulleys as block and tackle)</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "What can a movable pulley do?",
+       "options": [
+        "It decreases the applied force",
+        "It changes only the speed",
+        "It increases the applied force",
+        "It stops the force"
+       ],
+       "answer": 2,
+       "why": "The correct answer is that it increases the applied force. A movable pulley multiplies the effort, so a small effort can lift a heavy load."
+      },
+      {
+       "q": "A movable pulley is used in:",
+       "options": [
+        "Flags",
+        "Wells",
+        "Cranes",
+        "Bicycles"
+       ],
+       "answer": 2,
+       "why": "The correct answer is cranes. Cranes use fixed and movable pulleys together (block and tackle) to lift very heavy loads; flags and wells use a fixed pulley."
+      },
+      {
+       "q": "A fixed pulley changes:",
+       "options": [
+        "The amount of force",
+        "The weight of the load",
+        "Only the direction of force",
+        "The speed only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is only the direction of force. Pulling downward with a fixed pulley lifts the load upward, but the force needed stays the same."
+      },
+      {
+       "q": "A movable pulley moves:",
+       "options": [
+        "Never",
+        "Only sideways",
+        "Up and down along with the load",
+        "In a circle"
+       ],
+       "answer": 2,
+       "why": "The correct answer is that it moves with the load. This is the first difference between movable and fixed pulleys in the lesson."
+      },
+      {
+       "q": "With a movable pulley, the effort needed is:",
+       "options": [
+        "More than the load's weight",
+        "Equal to the load's weight",
+        "Much less than the weight of the load",
+        "Zero always"
+       ],
+       "answer": 2,
+       "why": "The correct answer is much less than the weight of the load, because the movable pulley increases the applied force."
+      },
+      {
+       "q": "Drawing water from a well and raising a flag use which pulley?",
+       "options": [
+        "Movable pulley",
+        "No pulley",
+        "Fixed pulley",
+        "Gear pulley"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a fixed pulley. It stays in one place and simply changes the direction of the force."
+      },
+      {
+       "q": "The work of a pulley includes all of these EXCEPT:",
+       "options": [
+        "Lifting a load upward",
+        "Changing the direction of force",
+        "Producing light",
+        "Increasing force"
+       ],
+       "answer": 2,
+       "why": "The correct answer is producing light. The lesson lists lifting, changing direction and increasing force as the pulley's work."
+      },
+      {
+       "q": "A system of fixed and movable pulleys in a crane is called:",
+       "options": [
+        "Wheel and axle",
+        "Lever",
+        "Block and tackle",
+        "Screw"
+       ],
+       "answer": 2,
+       "why": "The correct answer is block and tackle. The lesson names cranes' combined pulley system by this term."
+      },
+      {
+       "q": "Which statement about the fixed pulley is TRUE?",
+       "options": [
+        "It moves with the load",
+        "It doubles the force",
+        "It stays fixed at one place",
+        "It is used in cranes only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is that it stays fixed at one place and does not move with the load — the fixed pulley's defining point."
+      },
+      {
+       "q": "Why is a movable pulley helpful for heavy loads?",
+       "options": [
+        "It changes colour of force",
+        "It removes the load's weight fully",
+        "It increases the applied force, so less effort lifts a large load",
+        "It works without a rope"
+       ],
+       "answer": 2,
+       "why": "The correct answer is that it multiplies the applied force. That is why a large load can be lifted with force much less than its weight."
+      }
+     ]
+    },
+    {
+     "title": "Gears, Wheel and Axle",
+     "notes_html": "<h4>Wheel and Axle</h4>\n<ul>\n<li>The <b>steering of a motor car</b> is a wheel and axle: the steering wheel turns around its central rod (axle), and turning the wheel also turns the axle.</li>\n<li>A red wagon runs on wheels that turn around their axles — also wheel and axle.</li>\n<li>Wheel and axle is a special type of <b>lever</b>: the wheel acts like the arm of the lever, and the centre of the wheel works as the <b>fulcrum</b>. Turning the wheel turns the axle, and a load can be moved or lifted easily.</li>\n<li>Work of wheel and axle: turning a weight easily and covering a long distance — examples: wheels of vehicles, bicycle, fan, water pump.</li>\n</ul>\n<h4>Gears</h4>\n<ul>\n<li>Gears can change <b>speed</b>, change <b>direction</b>, and change the <b>amount of force</b>.</li>\n<li>Gears do NOT change the fulcrum — the fulcrum belongs to a lever.</li>\n<li>Meshed gears always turn in <b>opposite directions</b>: if gear A turns clockwise, the gear touching it turns anticlockwise, the next clockwise, and so on.</li>\n<li>Work of gears: changing the amount of force, speed and direction — examples: bicycle, motor car, clock.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which of the following is a wheel and axle?",
+       "options": [
+        "A knife",
+        "A swing",
+        "The steering of a motor car",
+        "A bottle opener"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the steering of a motor car. The steering wheel turns around its central rod (axle), and turning the wheel turns the axle."
+      },
+      {
+       "q": "Gears do all of the following EXCEPT:",
+       "options": [
+        "Changing speed",
+        "Changing direction",
+        "Changing the fulcrum",
+        "Changing the amount of force"
+       ],
+       "answer": 2,
+       "why": "The correct answer is changing the fulcrum. The fulcrum is part of a lever, not a function of gears; gears change speed, direction and force."
+      },
+      {
+       "q": "The red wagon in the picture shows which simple machine?",
+       "options": [
+        "A screw",
+        "A pulley",
+        "Wheel and axle",
+        "An inclined plane"
+       ],
+       "answer": 2,
+       "why": "The correct answer is wheel and axle. The wagon runs on wheels that turn around their axles."
+      },
+      {
+       "q": "Wheel and axle is a special type of which machine?",
+       "options": [
+        "Pulley",
+        "Screw",
+        "Lever",
+        "Gear"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a lever. The wheel acts like the arm of the lever and the centre of the wheel works as the fulcrum."
+      },
+      {
+       "q": "In a wheel and axle, the centre of the wheel works as the:",
+       "options": [
+        "Load",
+        "Rope",
+        "Fulcrum",
+        "Gear"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the fulcrum. Turning the wheel also turns the axle, so a load can be moved or lifted easily."
+      },
+      {
+       "q": "Meshed gears always turn in:",
+       "options": [
+        "The same direction",
+        "Circles only",
+        "Opposite directions",
+        "No direction"
+       ],
+       "answer": 2,
+       "why": "The correct answer is opposite directions. If one gear turns clockwise, the gear meshed with it turns anticlockwise."
+      },
+      {
+       "q": "Gear A turns clockwise. The gear meshed directly with A turns:",
+       "options": [
+        "Clockwise",
+        "Stops",
+        "Anticlockwise",
+        "Faster only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is anticlockwise. The lesson's gear diagram works on this rule: each meshed gear reverses the direction."
+      },
+      {
+       "q": "Which of these uses gears?",
+       "options": [
+        "A flag pole",
+        "A well",
+        "A bicycle",
+        "A knife"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a bicycle. The lesson lists bicycle, motor car and clock as examples where gears change force, speed and direction."
+      },
+      {
+       "q": "The work of the wheel and axle is to:",
+       "options": [
+        "Cut things",
+        "Hold water",
+        "Turn a weight easily and cover a long distance",
+        "Make sound"
+       ],
+       "answer": 2,
+       "why": "The correct answer is turning a weight easily and covering distance. Examples are wheels of vehicles, bicycle, fan and water pump."
+      },
+      {
+       "q": "Turning the steering wheel also turns the:",
+       "options": [
+        "Gear box only",
+        "Tyre air",
+        "Axle (central rod)",
+        "Brake"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the axle — the central rod of the steering. This wheel-turning-axle action is what makes it a wheel and axle machine."
+      }
+     ]
+    },
+    {
+     "title": "Machines at Work — The Bicycle and Simple Machines at Home",
+     "notes_html": "<h4>Machines That Work in a Bicycle</h4>\n<ul>\n<li>Gears</li>\n<li>Wheel and axle (the wheels)</li>\n<li>Pulley system (the chain)</li>\n<li>Lever — the pedals</li>\n<li>Lever — the brake/handlebar</li>\n</ul>\n<h4>How a Bicycle Works</h4>\n<p>The rider pushes the <b>pedals</b>; the pedals drive the <b>chain</b>; the chain turns the <b>gear of the back wheel</b>; the gear turns the wheel and the bicycle moves forward. The handlebar (lever) changes the direction, and the brake slows or stops the bicycle. Changing gears controls the force and the speed.</p>\n<h4>Simple Machines at Home</h4>\n<ul>\n<li><b>Pulley</b> — the pulley of a well, a curtain pulley or a flag pulley; used for drawing water or raising a curtain by changing the direction of force.</li>\n<li><b>Wheel and axle</b> — a door handle, a tap, a fan or a bicycle wheel; used for making work easy by turning.</li>\n<li><b>Gears</b> — the gears of a clock or of a bicycle; used for controlling speed and force.</li>\n<li>They are called <b>simple machines</b> because they have few parts and they make work easier — they increase force, change the direction of force, or change speed.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which machines work in a bicycle?",
+       "options": [
+        "Only a screw",
+        "Only a pulley",
+        "Gears, wheel and axle, pulley system (chain) and levers",
+        "Only an inclined plane"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the full set listed in the lesson: gears, wheel and axle, the chain as a pulley system, and levers (pedals and brake/handlebar)."
+      },
+      {
+       "q": "In a bicycle, the pedals work as a:",
+       "options": [
+        "Gear",
+        "Pulley",
+        "Lever",
+        "Axle"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a lever. The lesson names the pedals — and also the brake/handlebar — as the bicycle's levers."
+      },
+      {
+       "q": "The chain of a bicycle works as which system?",
+       "options": [
+        "Lever system",
+        "Screw system",
+        "Pulley system",
+        "Mirror system"
+       ],
+       "answer": 2,
+       "why": "The correct answer is a pulley system. The lesson lists 'pulley system (the chain)' among the bicycle's machines."
+      },
+      {
+       "q": "How does a bicycle move forward?",
+       "options": [
+        "Wheel → pedals → chain",
+        "Chain → pedals → handlebar",
+        "Pedals → chain → gear of back wheel → wheel turns",
+        "Brake → gear → wheel"
+       ],
+       "answer": 2,
+       "why": "The correct answer is the first chain of steps. The rider pushes the pedals, the chain turns the back wheel's gear, and the wheel moves the bicycle forward."
+      },
+      {
+       "q": "Changing gears in a bicycle controls:",
+       "options": [
+        "Colour and size",
+        "Direction only",
+        "Force and speed",
+        "The brake"
+       ],
+       "answer": 2,
+       "why": "The correct answer is force and speed. Direction is changed by the handlebar, and the brake slows or stops the bicycle."
+      },
+      {
+       "q": "The handlebar of the bicycle is a lever used to:",
+       "options": [
+        "Increase speed",
+        "Lift the load",
+        "Store energy",
+        "Change the direction"
+       ],
+       "answer": 3,
+       "why": "The correct answer is to change the direction, as stated in the lesson's account of how a bicycle works."
+      },
+      {
+       "q": "A door handle and a tap are home examples of:",
+       "options": [
+        "Gears",
+        "Pulley",
+        "Screw only",
+        "Wheel and axle"
+       ],
+       "answer": 3,
+       "why": "The correct answer is wheel and axle. The lesson gives a door handle, a tap, a fan and a bicycle wheel as wheel-and-axle examples at home."
+      },
+      {
+       "q": "A curtain pulley at home is used to:",
+       "options": [
+        "Cut the curtain",
+        "Make light",
+        "Measure length",
+        "Raise the curtain by changing the direction of force"
+       ],
+       "answer": 3,
+       "why": "The correct answer is raising the curtain by changing the force's direction — the pulley's home use given in the lesson."
+      },
+      {
+       "q": "Why are these called SIMPLE machines?",
+       "options": [
+        "They are very small",
+        "They use electricity",
+        "They are made of wood",
+        "They have few parts and make work easier"
+       ],
+       "answer": 3,
+       "why": "The correct answer is that they have few parts and make work easier — increasing force, changing its direction, or changing speed."
+      },
+      {
+       "q": "The gears of a clock are used for:",
+       "options": [
+        "Lifting water",
+        "Seeing the time in a mirror",
+        "Cutting",
+        "Controlling speed and force"
+       ],
+       "answer": 3,
+       "why": "The correct answer is controlling speed and force, the home use of gears given in the lesson (clock or bicycle gears)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Properties of Light",
+   "lessons": [
+    {
+     "title": "Light, Sources and Reflection",
+     "notes_html": "<h4>Light Travels in a Straight Line</h4>\n<p>Light travels in a straight line. When it strikes another medium (a surface), it returns back — this is <b>reflection</b>.</p>\n<h4>Absorption and Reflection of Light</h4>\n<ul>\n<li><b>Absorption of light</b> — when light falls on an object, part of it is absorbed into the object; the absorbed light is converted into heat, so the object becomes warm.</li>\n<li><b>Reflection of light</b> — when light strikes a shiny or smooth surface, it turns back from its original path; it returns from the surface.</li>\n</ul>\n<h4>Regular and Irregular Reflection</h4>\n<table>\n<tr><th>Regular reflection</th><th>Irregular reflection</th></tr>\n<tr><td>Smooth and shiny surfaces: a mirror, still water, polished metal</td><td>Rough and uneven surfaces: paper, cloth, a wall, wood</td></tr>\n</table>\n<h4>Sources of Light</h4>\n<ul>\n<li><b>Light-giving sources</b> produce their own light: stars, Sun, torch, table lamp, burner light, a running television.</li>\n<li><b>Non-light-giving sources</b> only reflect the light of others: Moon (it reflects the Sun's light), mirror, diamond, chalk, table.</li>\n</ul>\n<h4>The Law of Reflection</h4>\n<p>When light reflects from a plane mirror, the angle of the ray coming towards the mirror (<b>angle of incidence, i</b>) is equal to the angle of the ray returning from the mirror (<b>angle of reflection, r</b>): <b>i = r</b>.</p>",
+     "mcqs": [
+      {
+       "q": "Light travels in which path?",
+       "options": [
+        "A curved line",
+        "A zigzag",
+        "A circle",
+        "A straight line"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a straight line. And when it strikes another medium, it returns back — that returning is reflection."
+      },
+      {
+       "q": "The reflection of light is:",
+       "options": [
+        "Light being absorbed as heat",
+        "Light stopping completely",
+        "Light changing colour",
+        "Light turning back from a shiny or smooth surface"
+       ],
+       "answer": 3,
+       "why": "The correct answer is light returning from a surface. When light strikes a shiny or smooth surface, it turns back from its original path."
+      },
+      {
+       "q": "In the absorption of light, the absorbed light is converted into:",
+       "options": [
+        "Sound",
+        "Electricity",
+        "Water",
+        "Heat"
+       ],
+       "answer": 3,
+       "why": "The correct answer is heat. That is why an object on which light falls becomes warm."
+      },
+      {
+       "q": "Which surface gives REGULAR reflection?",
+       "options": [
+        "Paper",
+        "Cloth",
+        "Wood",
+        "A mirror"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a mirror. Smooth and shiny surfaces — mirror, still water, polished metal — give regular reflection; rough surfaces do not."
+      },
+      {
+       "q": "Which surface gives IRREGULAR reflection?",
+       "options": [
+        "Polished metal",
+        "Still water",
+        "A mirror",
+        "A wall"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a wall. Rough and uneven surfaces like paper, cloth, wall and wood scatter light irregularly."
+      },
+      {
+       "q": "Which of these is a light-giving source?",
+       "options": [
+        "Moon",
+        "Mirror",
+        "Diamond",
+        "Sun"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the Sun. Light-giving sources produce their own light, while the Moon, mirror and diamond only reflect others' light."
+      },
+      {
+       "q": "The Moon is a non-light-giving source because it:",
+       "options": [
+        "Makes its own light",
+        "Absorbs all light",
+        "Produces heat",
+        "Reflects the Sun's light"
+       ],
+       "answer": 3,
+       "why": "The correct answer is that it reflects the Sun's light. The lesson explains non-light-giving sources only reflect the light of others, like the Moon and a mirror."
+      },
+      {
+       "q": "According to the law of reflection, angle of incidence (i) and angle of reflection (r) are:",
+       "options": [
+        "i is bigger",
+        "r is bigger",
+        "Unrelated",
+        "Equal — i = r"
+       ],
+       "answer": 3,
+       "why": "The correct answer is that they are equal, i = r. This is the important point about a ray reflecting from a plane mirror."
+      },
+      {
+       "q": "A torch and a running television are grouped as:",
+       "options": [
+        "Non-light-giving sources",
+        "Mirrors",
+        "Absorbers only",
+        "Light-giving sources"
+       ],
+       "answer": 3,
+       "why": "The correct answer is light-giving sources. The lesson's grouping puts torch and switched-on television with the Sun and stars."
+      },
+      {
+       "q": "When light strikes another medium while travelling straight, it:",
+       "options": [
+        "Disappears",
+        "Bends into a circle",
+        "Stops forever",
+        "Returns back"
+       ],
+       "answer": 3,
+       "why": "The correct answer is that it returns back. This fill-in fact from the lesson is the basis of reflection."
+      }
+     ]
+    },
+    {
+     "title": "Mirrors and Their Images",
+     "notes_html": "<h4>Image Formed by a Plane Mirror</h4>\n<ul>\n<li>The image is <b>virtual</b> — it appears behind the mirror but is not actually present there.</li>\n<li>The image is <b>upright</b>.</li>\n<li>The image is the <b>same size</b> as the object.</li>\n<li>The image is <b>as far behind the mirror</b> as the object is in front of it.</li>\n<li>Right and left sides appear <b>reversed</b> in the image. That is why the word AMBULANCE is written reversed on an ambulance — a driver ahead sees it straight in his mirror.</li>\n</ul>\n<h4>Concave and Convex Mirrors</h4>\n<table>\n<tr><th>Concave Mirror</th><th>Convex Mirror</th></tr>\n<tr><td>Used in vehicle headlights, dentist's mirror, telescopes, and shaving and make-up mirrors</td><td>Used in motor cars for the rear view, and as safety mirrors in shops, commercial centres and on roads</td></tr>\n<tr><td>Gives a large, upright and virtual image of a nearby object</td><td>Shows a wide view of a large area</td></tr>\n<tr><td>For a far object its image is real, inverted and much smaller, and its field of view is narrow — so it is NOT used for the rear view</td><td>Objects behind appear smaller, but a larger area is visible in the same mirror</td></tr>\n</table>\n<h4>Periscope</h4>\n<p>In submarines, a <b>periscope</b> is used to see things on the surface of the sea.</p>",
+     "mcqs": [
+      {
+       "q": "The image formed by a plane mirror is ______ the object.",
+       "options": [
+        "Bigger than",
+        "Smaller than",
+        "Upside down from",
+        "Equal in size to"
+       ],
+       "answer": 3,
+       "why": "The correct answer is equal in size to the object. This is one of the listed properties of a plane-mirror image."
+      },
+      {
+       "q": "Which type of mirror is used for shaving and make-up?",
+       "options": [
+        "Convex",
+        "Plane only",
+        "No mirror",
+        "Concave"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the concave mirror. It gives a large, upright and virtual image of a nearby object, which suits shaving and make-up."
+      },
+      {
+       "q": "In submarines, ______ is used to see things on the surface of the sea.",
+       "options": [
+        "A telescope",
+        "A convex mirror",
+        "A torch",
+        "A periscope"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a periscope, as given in the lesson's fill-in facts."
+      },
+      {
+       "q": "Safety mirrors in commercial and business centres are:",
+       "options": [
+        "Concave mirrors",
+        "Plane mirrors",
+        "Dark mirrors",
+        "Convex mirrors"
+       ],
+       "answer": 3,
+       "why": "The correct answer is convex mirrors. They are used as safety mirrors because they show a wide view."
+      },
+      {
+       "q": "The image in a plane mirror appears behind the mirror but is not really there. Such an image is called:",
+       "options": [
+        "Real",
+        "Inverted",
+        "Enlarged",
+        "Virtual"
+       ],
+       "answer": 3,
+       "why": "The correct answer is virtual. The lesson lists the plane-mirror image as virtual, upright and the same size as the object."
+      },
+      {
+       "q": "In a plane mirror image, the right and left sides appear:",
+       "options": [
+        "The same",
+        "Doubled",
+        "Removed",
+        "Reversed"
+       ],
+       "answer": 3,
+       "why": "The correct answer is reversed. That is why AMBULANCE is written reversed on an ambulance, so drivers ahead read it straight in their mirrors."
+      },
+      {
+       "q": "Why is a concave mirror NOT used for the rear view in a motor car?",
+       "options": [
+        "It is too big",
+        "It gives no image",
+        "It is too costly",
+        "For far objects its image is real, inverted and much smaller, and its field of view is narrow"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the image problem stated in the lesson: far objects appear real, inverted and much smaller, with a narrow view — a convex mirror shows a wide view instead."
+      },
+      {
+       "q": "A convex rear-view mirror differs from a plane mirror because in it:",
+       "options": [
+        "Nothing is visible",
+        "Objects appear bigger",
+        "The image is inverted",
+        "A larger area is visible and objects appear smaller"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the wider view with smaller-looking objects. The lesson compares the two: plane mirror keeps size, convex mirror covers a larger area."
+      },
+      {
+       "q": "Concave mirrors are used in vehicle headlights and in the dentist's mirror because a nearby object gives:",
+       "options": [
+        "A small inverted image",
+        "No image",
+        "A coloured image",
+        "A large, upright and virtual image"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a large, upright and virtual image. This property is the reason for those uses listed in the lesson."
+      },
+      {
+       "q": "The image formed by a plane mirror is as far ______ the mirror as the object is in front of it.",
+       "options": [
+        "In front of",
+        "Beside",
+        "Above",
+        "Behind"
+       ],
+       "answer": 3,
+       "why": "The correct answer is behind. Distance is equal on both sides: object distance in front equals image distance behind the plane mirror."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Information About Sound",
+   "lessons": [
+    {
+     "title": "How Sound Is Made and Travels",
+     "notes_html": "<h4>What Is Sound?</h4>\n<p>Sound is also a form of <b>energy</b>. Sound is produced when a body <b>vibrates</b> — that is, moves forwards and backwards. The very fast forward and backward movement of a thing is called <b>vibration</b>.</p>\n<h4>Compressions and Rarefactions</h4>\n<ul>\n<li>When the source of sound (such as the diaphragm of a speaker) moves <b>forwards</b>, it pushes the air particles in front of it together — this crowded place is a <b>compression</b>.</li>\n<li>When the source moves <b>backwards</b>, the air particles move away from each other — this spread-out place is a <b>rarefaction</b>.</li>\n<li>With continuous vibration, a series of compressions and rarefactions is produced one after another. These are the <b>longitudinal waves</b> of sound, which travel through the air and reach our ears.</li>\n<li>When sound passes through air, the particles of air <b>vibrate together with the moving waves of sound</b>.</li>\n</ul>\n<h4>Where Is Vibration Produced?</h4>\n<table>\n<tr><th>Instrument</th><th>Part that vibrates</th></tr>\n<tr><td>Drum</td><td>Its skin membrane (cover)</td></tr>\n<tr><td>Speaker</td><td>Its diaphragm (cone)</td></tr>\n<tr><td>Guitar</td><td>Its strings</td></tr>\n</table>\n<h4>Can Sound Make a Spot of Light Dance?</h4>\n<p>Yes! In the class activity, speaking loudly into a box vibrates its balloon layer and the small mirror stuck on it. Because of the mirror's vibration, the reflected ray of light also moves, so the spot of light on the wall dances. This proves sound is produced by vibration and that sound waves can make other things vibrate too.</p>",
+     "mcqs": [
+      {
+       "q": "Sound is produced when a body:",
+       "options": [
+        "Rests",
+        "Burns",
+        "Shines",
+        "Vibrates (moves forwards and backwards)"
+       ],
+       "answer": 3,
+       "why": "The correct answer is when it vibrates. The lesson defines sound as a form of energy produced by a vibrating body."
+      },
+      {
+       "q": "The very fast forward and backward movement of a thing is called:",
+       "options": [
+        "Compression",
+        "Rarefaction",
+        "Reflection",
+        "Vibration"
+       ],
+       "answer": 3,
+       "why": "The correct answer is vibration. This is the one-word answer given in the lesson for that movement."
+      },
+      {
+       "q": "In a sound wave, the place where air particles are very close together is called a:",
+       "options": [
+        "Rarefaction",
+        "Vacuum",
+        "Crest only",
+        "Compression"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a compression. It forms when the vibrating source moves forwards and pushes the air particles together."
+      },
+      {
+       "q": "A rarefaction is the place in a sound wave where air particles are:",
+       "options": [
+        "Very close together",
+        "Frozen",
+        "Absent",
+        "Very far from each other"
+       ],
+       "answer": 3,
+       "why": "The correct answer is very far from each other. Rarefactions form when the source moves backwards, opposite to compressions."
+      },
+      {
+       "q": "Sound waves in air are longitudinal waves made of a series of:",
+       "options": [
+        "Only compressions",
+        "Only rarefactions",
+        "Light rays",
+        "Compressions and rarefactions one after another"
+       ],
+       "answer": 3,
+       "why": "The correct answer is compressions and rarefactions in turn. Continuous vibration of the source keeps producing them, and they travel to our ears."
+      },
+      {
+       "q": "When sound passes through air, the particles of air:",
+       "options": [
+        "Do not vibrate in any fixed direction",
+        "Move in straight lines forever",
+        "Turn perpendicular only",
+        "Vibrate together with the moving waves of sound"
+       ],
+       "answer": 3,
+       "why": "The correct answer is that they vibrate together with the moving sound waves, as marked correct in the chapter's own MCQs."
+      },
+      {
+       "q": "In a drum, vibration is produced in its:",
+       "options": [
+        "Wooden sides",
+        "Sticks",
+        "Stand",
+        "Skin membrane (cover)"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the skin membrane. The lesson asks this for three instruments: drum — skin, speaker — diaphragm, guitar — strings."
+      },
+      {
+       "q": "In a guitar, sound is produced by the vibration of its:",
+       "options": [
+        "Box",
+        "Pins",
+        "Hole",
+        "Strings"
+       ],
+       "answer": 3,
+       "why": "The correct answer is its strings. When the strings are plucked, they vibrate and a melodious sound is produced."
+      },
+      {
+       "q": "In the light-spot activity, the spot of light on the wall dances because:",
+       "options": [
+        "The wall vibrates",
+        "The bulb moves",
+        "Air pushes the light",
+        "Sound vibrates the balloon layer and the mirror on it, moving the reflected ray"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the mirror's vibration moving the reflected ray. The activity proves sound is produced by vibration and can vibrate other things."
+      },
+      {
+       "q": "The diaphragm (cone) that vibrates belongs to a:",
+       "options": [
+        "Drum",
+        "Guitar",
+        "Flute",
+        "Speaker"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the speaker. Its diaphragm moving forwards and backwards creates the compressions and rarefactions of sound."
+      }
+     ]
+    },
+    {
+     "title": "Sound and the Ear",
+     "notes_html": "<h4>Speed of Sound in Different Media</h4>\n<table>\n<tr><th>Medium</th><th>Speed of sound</th></tr>\n<tr><td>Gold (solid)</td><td>3240 metres per second</td></tr>\n<tr><td>Sea water</td><td>1530 metres per second</td></tr>\n<tr><td>Air</td><td>332 metres per second</td></tr>\n<tr><td>Space (vacuum)</td><td>Sound cannot pass through space at all</td></tr>\n</table>\n<p>So sound travels <b>fastest through gold</b> among these, and slowest through air. Sound waves first enter the <b>long canal of the ear (ear canal)</b>.</p>\n<h4>Path of Sound From Ear Canal to Brain</h4>\n<p>Ear canal → eardrum → three small bones → cochlea → hearing nerve → brain.</p>\n<ul>\n<li>Sound waves pass through the ear canal and vibrate the <b>eardrum</b>.</li>\n<li>The vibration reaches the fluid of the cochlea through the <b>three small bones</b>; the last of the three small bones is the <b>stirrup</b>.</li>\n<li>When sound waves reach the eardrum, they send the vibration of the small bones behind the eardrum towards the fluid of the inner ear.</li>\n<li>The fine hairs of the cochlea feel the vibration and send it through the <b>hearing nerve</b> to the brain — and then we hear the sound.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Through which of these can sound pass fastest?",
+       "options": [
+        "Sea water",
+        "Air",
+        "Space",
+        "Gold"
+       ],
+       "answer": 3,
+       "why": "The correct answer is gold. The chapter's table gives gold 3240 m/s, more than sea water (1530) and air (332), and sound cannot pass through space at all."
+      },
+      {
+       "q": "What is the speed of sound in air?",
+       "options": [
+        "345 metres per second",
+        "333 metres per second",
+        "354 metres per second",
+        "332 metres per second"
+       ],
+       "answer": 3,
+       "why": "The correct answer is 332 metres per second, the value marked correct in the chapter and shown in this lesson's table."
+      },
+      {
+       "q": "Sound cannot travel through:",
+       "options": [
+        "Water",
+        "Air",
+        "Gold",
+        "Space (vacuum)"
+       ],
+       "answer": 3,
+       "why": "The correct answer is space. Sound needs a medium; the lesson notes it cannot pass through space at all."
+      },
+      {
+       "q": "Sound waves first enter into what?",
+       "options": [
+        "The eardrum",
+        "The cochlea",
+        "The stirrup",
+        "The long canal of the ear (ear canal)"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the ear canal. Only after passing through it do the waves reach and vibrate the eardrum."
+      },
+      {
+       "q": "When sound waves reach the eardrum, they:",
+       "options": [
+        "Are felt by the brain at once",
+        "Send the vibration of the small bones behind the eardrum towards the fluid of the inner ear",
+        "Stop there",
+        "Turn into light"
+       ],
+       "answer": 1,
+       "why": "The correct answer is the second statement. The eardrum's vibration passes through the small bones to the cochlea's fluid, as the lesson's path shows."
+      },
+      {
+       "q": "The correct path of sound from ear canal to brain is:",
+       "options": [
+        "Ear canal → cochlea → eardrum → brain",
+        "Ear canal → brain → cochlea",
+        "Ear canal → hearing nerve → eardrum → brain",
+        "Ear canal → eardrum → three small bones → cochlea → hearing nerve → brain"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the second path. It is the exact order the lesson asks us to complete in the diagram chart."
+      },
+      {
+       "q": "The last of the three small bones inside the ear is called the:",
+       "options": [
+        "Cochlea",
+        "Eardrum",
+        "Pinna",
+        "Stirrup"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the stirrup. It is the one-word answer given in the lesson for the last small bone."
+      },
+      {
+       "q": "The speed of sound in sea water is:",
+       "options": [
+        "332 m/s",
+        "3240 m/s",
+        "0 m/s",
+        "1530 m/s"
+       ],
+       "answer": 3,
+       "why": "The correct answer is 1530 metres per second, from the chapter's table quoted in the lesson — faster than air, slower than gold."
+      },
+      {
+       "q": "The fine hairs of the cochlea send the vibration to the brain through the:",
+       "options": [
+        "Optic nerve",
+        "Ear canal",
+        "Eardrum",
+        "Hearing nerve"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the hearing nerve. The cochlea feels the vibration in its fluid and the hearing nerve carries it to the brain."
+      },
+      {
+       "q": "Sound travels slowest through which of these?",
+       "options": [
+        "Gold",
+        "Sea water",
+        "All equal",
+        "Air"
+       ],
+       "answer": 3,
+       "why": "The correct answer is air at 332 m/s. Comparing the lesson's table values (3240, 1530, 332) shows air is the slowest of the three."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Space and Satellites",
+   "lessons": [
+    {
+     "title": "Satellites — Natural and Artificial",
+     "notes_html": "<h4>What Is a Satellite?</h4>\n<p>A <b>satellite</b> is a celestial body which revolves around another bigger celestial body — that is, a planet or a star.</p>\n<h4>Two Types of Satellites</h4>\n<table>\n<tr><th>Type</th><th>Meaning</th><th>Example</th></tr>\n<tr><td>Natural satellite</td><td>Exists naturally</td><td>The Moon — the natural satellite of the Earth</td></tr>\n<tr><td>Artificial satellite</td><td>Made by man and sent into space</td><td>Sputnik-1 (sent by Russia, the first artificial satellite)</td></tr>\n</table>\n<ul>\n<li>Artificial satellites are man-made. (True.)</li>\n<li>It is FALSE that only the Moon is a natural satellite — 173 natural satellites have been discovered in space so far.</li>\n<li>Natural satellites ARE celestial bodies. (So the statement denying this is false.)</li>\n<li>The natural satellites (planets) of the Sun named in the chapter are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto (a minor planet).</li>\n<li>A <b>geostationary</b> satellite has a revolving time of 24 hours.</li>\n</ul>\n<h4>Five Types of Artificial Satellites (by their work)</h4>\n<ul>\n<li>Weather satellites</li>\n<li>Communication satellites — broadcasting T.V. signals is THEIR work (not navigation satellites')</li>\n<li>Earth observation satellites — used for preparing maps and taking photographs of the Earth for observing it</li>\n<li>Navigation and marine travel satellites — used to find the location of ships, aeroplanes and motor vehicles</li>\n<li>Scientific satellites</li>\n</ul>\n<h4>GPS — Finding Locations</h4>\n<p>Signals are sent from a group of artificial satellites (the GPS system). A receiver on the Earth receives those signals, calculates, and tells the exact location of any thing or person. In the word GPS, <b>G is used for Global</b>.</p>",
+     "mcqs": [
+      {
+       "q": "The Moon is the ______ satellite of the Earth.",
+       "options": [
+        "Artificial",
+        "Communication",
+        "Weather",
+        "Natural"
+       ],
+       "answer": 3,
+       "why": "The correct answer is natural. The Moon exists naturally, while artificial satellites are made by man and sent into space."
+      },
+      {
+       "q": "A satellite is a body which revolves around:",
+       "options": [
+        "Itself only",
+        "The Moon only",
+        "Nothing",
+        "Another bigger celestial body (a planet or a star)"
+       ],
+       "answer": 3,
+       "why": "The correct answer is another bigger celestial body. That is the meaning of a satellite given in the lesson."
+      },
+      {
+       "q": "Which of these is NOT a natural satellite?",
+       "options": [
+        "Moon",
+        "Saturn",
+        "Comet is not a satellite in this list's sense",
+        "Sputnik (Sputnik-1)"
+       ],
+       "answer": 3,
+       "why": "The correct answer is Sputnik-1. It is a man-made artificial satellite — in fact the first one, sent into space by Russia."
+      },
+      {
+       "q": "How many types of satellites are there by origin?",
+       "options": [
+        "One",
+        "Five",
+        "Ten",
+        "Two — natural and artificial"
+       ],
+       "answer": 3,
+       "why": "The correct answer is two: natural satellites, which exist naturally, and artificial satellites, which man makes and sends into space."
+      },
+      {
+       "q": "Broadcasting T.V. signals is the work of which satellites?",
+       "options": [
+        "Navigation satellites",
+        "Weather satellites",
+        "Scientific satellites",
+        "Communication satellites"
+       ],
+       "answer": 3,
+       "why": "The correct answer is communication satellites. The lesson marks 'navigation satellites broadcast T.V.' as false."
+      },
+      {
+       "q": "Earth observation satellites are used for:",
+       "options": [
+        "Broadcasting signals",
+        "Communication",
+        "Weather only",
+        "Preparing maps"
+       ],
+       "answer": 3,
+       "why": "The correct answer is preparing maps. Satellites also take photographs of the Earth for observing it."
+      },
+      {
+       "q": "The Global Positioning System (GPS) is used for:",
+       "options": [
+        "Sending satellites into space",
+        "Forecasting the weather",
+        "Studying the Sun only",
+        "Finding the location of things on the Earth"
+       ],
+       "answer": 3,
+       "why": "The correct answer is finding locations on Earth. Receivers calculate from satellite signals and tell the exact location of a thing or person."
+      },
+      {
+       "q": "In the word GPS, G is used for:",
+       "options": [
+        "Geo",
+        "Ground",
+        "General",
+        "Global"
+       ],
+       "answer": 3,
+       "why": "The correct answer is Global — Global Positioning System, as filled in the lesson's exercise."
+      },
+      {
+       "q": "Navigation satellites are used to find the location of:",
+       "options": [
+        "Only stars",
+        "Plants",
+        "Rivers only",
+        "Ships, aeroplanes and motor vehicles"
+       ],
+       "answer": 3,
+       "why": "The correct answer is ships, aeroplanes and motor vehicles, as stated in the lesson's word-fill exercise."
+      },
+      {
+       "q": "A geostationary satellite has a revolving time of:",
+       "options": [
+        "1 hour",
+        "12 hours",
+        "7 days",
+        "24 hours"
+       ],
+       "answer": 3,
+       "why": "The correct answer is 24 hours. That is why such a satellite appears fixed over one place on the Earth."
+      }
+     ]
+    },
+    {
+     "title": "Asteroids, Comets and Meteors",
+     "notes_html": "<h4>Asteroids, Comets and Meteors — How They Differ</h4>\n<table>\n<tr><th>Property</th><th>Asteroids</th><th>Comets</th><th>Meteors</th></tr>\n<tr><td>Seen in the sky like a streak of light</td><td>—</td><td>✓</td><td>✓</td></tr>\n<tr><td>Ball of ice mixed with dust</td><td>—</td><td>✓</td><td>—</td></tr>\n<tr><td>Seen without any instrument</td><td>—</td><td>✓</td><td>✓</td></tr>\n<tr><td>Made of a rocky body</td><td>✓</td><td>—</td><td>✓</td></tr>\n<tr><td>Looks like a hairy star</td><td>—</td><td>✓</td><td>—</td></tr>\n<tr><td>Keeps revolving around the Sun</td><td>✓</td><td>✓</td><td>—</td></tr>\n<tr><td>Halley's is an example</td><td>—</td><td>✓</td><td>—</td></tr>\n<tr><td>Leftover tiny particles of planets</td><td>—</td><td>—</td><td>✓</td></tr>\n<tr><td>Generally called a shooting star</td><td>—</td><td>—</td><td>✓</td></tr>\n<tr><td>Mostly destroyed on entering Earth's atmosphere</td><td>—</td><td>—</td><td>✓</td></tr>\n<tr><td>Tail seen on coming near the Sun</td><td>—</td><td>✓</td><td>—</td></tr>\n<tr><td>Mostly in the orbits of Mars and Jupiter</td><td>✓</td><td>—</td><td>—</td></tr>\n<tr><td>Many years to complete one revolution around the Sun</td><td>—</td><td>✓</td><td>—</td></tr>\n</table>\n<h4>Key Meanings</h4>\n<ul>\n<li><b>Comet</b> — actually a ball of ice made of mixed particles of ice, dust and gases. When it comes near the Sun, its coma and tail become visible, and it revolves around the Sun in an elliptical orbit. A comet is seen when it passes near the Sun.</li>\n<li><b>Asteroid (small asteroid)</b> — an irregularly shaped body made of rock and metal, with no tail. Asteroids mostly revolve between Mars and Jupiter. Small asteroids are also called <b>minor planets</b>.</li>\n<li><b>Meteor</b> — a shooting star. In the chapter's own words, the rock in space, the burning rock in the atmosphere and the rock that has reached the Earth are all called meteors. Meteors are small asteroids made of stones (true).</li>\n<li>The satellite named Landsat is a satellite of the <b>USA</b>, not Pakistan.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A shooting star is called a:",
+       "options": [
+        "Comet",
+        "Asteroid",
+        "Satellite",
+        "Meteor"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a meteor. The lesson's property table marks 'generally called a shooting star' for meteors."
+      },
+      {
+       "q": "A comet is actually a ball of:",
+       "options": [
+        "Rock and metal",
+        "Pure water",
+        "Iron only",
+        "Ice mixed with dust and gases"
+       ],
+       "answer": 3,
+       "why": "The correct answer is ice mixed with dust and gases. When a comet comes near the Sun, its coma and tail become visible."
+      },
+      {
+       "q": "Asteroids mostly revolve between the orbits of:",
+       "options": [
+        "Earth and Mars",
+        "Venus and Earth",
+        "Jupiter and Saturn",
+        "Mars and Jupiter"
+       ],
+       "answer": 3,
+       "why": "The correct answer is Mars and Jupiter. The lesson places the asteroids in the orbits of Mars and Jupiter."
+      },
+      {
+       "q": "Small asteroids are also called:",
+       "options": [
+        "Comets",
+        "Meteorites only",
+        "Stars",
+        "Minor planets"
+       ],
+       "answer": 3,
+       "why": "The correct answer is minor planets. The lesson marks the statement 'small asteroids are called minor planets' as true."
+      },
+      {
+       "q": "When is a comet seen?",
+       "options": [
+        "When it enters the sea",
+        "Every night",
+        "When it burns in the air",
+        "When it passes near the Sun"
+       ],
+       "answer": 3,
+       "why": "The correct answer is when it passes near the Sun. Near the Sun its coma and tail become visible, and its tail is seen."
+      },
+      {
+       "q": "Halley's is a famous example of a:",
+       "options": [
+        "Asteroid",
+        "Meteor",
+        "Satellite",
+        "Comet"
+       ],
+       "answer": 3,
+       "why": "The correct answer is a comet. The property table marks Halley's as an example of comets."
+      },
+      {
+       "q": "Which of these is mostly destroyed on entering the Earth's atmosphere?",
+       "options": [
+        "Comets",
+        "Asteroids",
+        "Planets",
+        "Meteors"
+       ],
+       "answer": 3,
+       "why": "The correct answer is meteors. Burning up in the atmosphere is one of the meteor properties ticked in the lesson's table."
+      },
+      {
+       "q": "An asteroid differs from a comet because an asteroid:",
+       "options": [
+        "Has a long tail",
+        "Is made of ice",
+        "Is man-made",
+        "Is an irregular rocky and metal body with no tail"
+       ],
+       "answer": 3,
+       "why": "The correct answer is that it is a rocky, metal body with no tail. The lesson contrasts this with the comet's icy ball and visible tail."
+      },
+      {
+       "q": "The satellite named Landsat was sent by:",
+       "options": [
+        "Pakistan",
+        "Russia",
+        "China",
+        "The USA"
+       ],
+       "answer": 3,
+       "why": "The correct answer is the USA. The lesson marks 'Landsat was sent by Pakistan' as false."
+      },
+      {
+       "q": "Meteors are small asteroids made of:",
+       "options": [
+        "Ice",
+        "Gas",
+        "Water",
+        "Stones"
+       ],
+       "answer": 3,
+       "why": "The correct answer is stones. The statement 'meteors are small asteroids made of stones' is marked true in the lesson."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
