@@ -129,6 +129,8 @@
       b.disabled = true;
     });
     if (picked === q.answer) quiz.score++;
+    var sc = box.querySelector(".mcq-head span:last-child");
+    if (sc) sc.textContent = "Score: " + quiz.score;
     var why = box.querySelector(".mcq-why");
     why.style.display = "";
     why.innerHTML = (picked === q.answer ? '<strong>Correct.</strong> ' : '<strong>Not correct.</strong> ') + esc(q.why || "");
@@ -152,6 +154,7 @@
   function initBook(bookId) {
     var cat = $("#catalogue-sec"); if (cat) cat.style.display = "none";
     var view = $("#learn-view"); if (view) view.style.display = "";
+    var headPre = $("#learn-head"); if (headPre) headPre.innerHTML = '<p class="empty-note">Loading…</p>';
     Promise.all([
       fetch("/assets/data/books.json").then(function (r) { return r.json(); }),
       fetch("/assets/data/learn/" + encodeURIComponent(bookId) + ".json").then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; })
