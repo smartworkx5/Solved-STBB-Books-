@@ -149,17 +149,39 @@
   googleBtn.addEventListener("click", function () {
     googleBtn.classList.add("hidden");
     setStatus("Opening Google…");
-    try {
-      var p = auth.signInWithRedirect(
-        new firebase.auth.GoogleAuthProvider());
-      if (p && p.catch) {
-        p.catch(function (e) {
+    var provider = new firebase.auth.GoogleAuthProvider();
+    // Popup first: the result comes straight back to this page in
+    // memory. The redirect flow depends on browser storage surviving
+    // the round trip, which some browsers/profiles drop — when that
+    // happens getRedirectResult() returns null and no session is
+    // restored, even though Google sign-in itself succeeded.
+    auth.signInWithPopup(provider).then(async function (result) {
+      if (result && result.user) {
+        try {
+          await handoff(result.user);
+        } catch (e) {
           showError(e && e.message ? e.message : String(e));
-        });
+        }
+      } else {
+        showError("Google sign-in finished without a user. Try again.");
       }
-    } catch (e) {
-      showError(e && e.message ? e.message : String(e));
-    }
+    }).catch(function (e) {
+      var code = e && e.code ? e.code : "";
+      if (code === "auth/popup-blocked" ||
+          code === "auth/operation-not-supported-in-this-environment") {
+        // This browser cannot do popups — full-page redirect instead.
+        setStatus("Opening Google…");
+        auth.signInWithRedirect(provider).catch(function (e2) {
+          showError(e2 && e2.message ? e2.message : String(e2));
+        });
+      } else if (code === "auth/popup-closed-by-user" ||
+                 code === "auth/cancelled-popup-request") {
+        setStatus("Sign in with your Google account to continue to the app.");
+        googleBtn.classList.remove("hidden");
+      } else {
+        showError(e && e.message ? e.message : String(e));
+      }
+    });
   });
 
   // ---- on load ------------------------------------------------------
