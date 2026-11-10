@@ -1,0 +1,3952 @@
+{
+ "book": "science-8-en",
+ "chapters": [
+  {
+   "title": "Unit 1: Human Organ System",
+   "lessons": [
+    {
+     "title": "The Nervous System and the Brain",
+     "notes_html": "<h4>The Nervous System</h4>\n<p>The nervous system controls the work of all the systems and organs of the body and creates coordination among them. It is made of a network of <b>neurons</b>.</p>\n<ul>\n<li><b>Sensory nerves</b> carry messages from the different parts of the body to the brain and the spinal cord.</li>\n<li>The <b>brain</b> decides on these messages.</li>\n<li><b>Motor nerves</b> carry the brain's orders to the organs.</li>\n</ul>\n<h4>Parts of the Nervous System</h4>\n<table>\n<tr><th>Part</th><th>Work</th></tr>\n<tr><td>Brain</td><td>Thinking, understanding, deciding and controlling all actions</td></tr>\n<tr><td>Spinal cord</td><td>Path for messages between the brain and the body; centre of automatic (reflex) actions</td></tr>\n<tr><td>Nerves</td><td>Carry messages to the brain and orders to the organs</td></tr>\n</table>\n<p>According to the book, the <b>central nervous system</b> consists of the brain and the spinal cord, with the nerves connected to them.</p>\n<h4>The Brain</h4>\n<ul>\n<li>The brain stays protected inside the <b>cranium</b> (skull) — the upper part of the bone.</li>\n<li>The <b>fore-brain (cerebrum)</b> is the largest part of the brain. It consists of two hemispheres.</li>\n<li>The <b>hind-brain</b> has three parts: the medulla oblongata, the pons and the cerebellum.</li>\n<li><b>Cerebellum</b> means \"little brain\". It controls the balance and movement of the body.</li>\n<li>The <b>spinal cord</b> is the extension of the brain up to the backbone.</li>\n</ul>\n<h4>Why the Brain is the Ruler of the Body</h4>\n<p>The brain controls the work of all the organs and systems, receives messages from the senses, decides on them and gives orders. It works all the time — even during sleep, breathing, the beating of the heart and the control of body temperature continue, so the brain never stops.</p>\n<p><i>Think:</i> Like a computer, the brain receives information, stores it and acts on it. The difference is that the brain can itself think and decide, whereas a computer only acts on the instructions given to it.</p>",
+     "mcqs": [
+      {
+       "q": "The nervous system is a net or network of ___.",
+       "options": [
+        "Neurons",
+        "Lobes",
+        "Bones",
+        "Muscles"
+       ],
+       "answer": 0,
+       "why": "The nervous system consists of a network of neurons. These neurons carry messages between the brain and the body, so the whole system works like a net of nerve cells."
+      },
+      {
+       "q": "The upper part of the bone, which protects the brain, is called the ___.",
+       "options": [
+        "Cerebrum",
+        "Cranium",
+        "Cerebellum",
+        "Pons"
+       ],
+       "answer": 1,
+       "why": "The cranium (skull) is the upper part of the bone. The brain stays protected inside the cranium, safe from injury."
+      },
+      {
+       "q": "The largest part of the brain is the ___.",
+       "options": [
+        "Cerebellum",
+        "Medulla oblongata",
+        "Fore-brain (cerebrum)",
+        "Pons"
+       ],
+       "answer": 2,
+       "why": "The fore-brain, called the cerebrum, is the largest part of the brain. It consists of two hemispheres and is the upper part of the brain."
+      },
+      {
+       "q": "Cerebellum means ___.",
+       "options": [
+        "Big brain",
+        "Middle brain",
+        "Front brain",
+        "Little brain"
+       ],
+       "answer": 3,
+       "why": "Cerebellum means 'little brain'. It is a part of the hind-brain and controls the balance and movement of the body."
+      },
+      {
+       "q": "The hind-brain consists of the pons and the ___.",
+       "options": [
+        "Cerebrum and thalamus",
+        "Spinal cord and nerves",
+        "Medulla oblongata and cerebellum",
+        "Frontal and parietal lobes"
+       ],
+       "answer": 2,
+       "why": "The hind-brain has three parts: the medulla oblongata, the pons and the cerebellum. Breathing and the beating of the heart are controlled from here."
+      },
+      {
+       "q": "The extension of the brain up to the backbone is called the ___.",
+       "options": [
+        "Spinal cord",
+        "Neuron",
+        "Nerve",
+        "Lobe"
+       ],
+       "answer": 0,
+       "why": "The spinal cord extends from the brain downwards through the backbone. It is the path for messages between the brain and the body."
+      },
+      {
+       "q": "Which of these carries messages from the body parts to the brain?",
+       "options": [
+        "Motor nerves",
+        "Blood vessels",
+        "Muscles",
+        "Sensory nerves"
+       ],
+       "answer": 3,
+       "why": "Sensory nerves carry messages from the different parts of the body to the brain and the spinal cord. After the brain decides, motor nerves carry its orders to the organs."
+      },
+      {
+       "q": "According to the book, the central nervous system is made of ___.",
+       "options": [
+        "Only the cerebrum",
+        "The brain, spinal cord and nerves",
+        "Only the nerves",
+        "The heart and lungs"
+       ],
+       "answer": 1,
+       "why": "According to the book, the central nervous system consists of the brain and the spinal cord, with the nerves connected to them."
+      },
+      {
+       "q": "The work of the spinal cord in the nervous system is to ___.",
+       "options": [
+        "Carry messages between the brain and the body",
+        "Make blood for the body",
+        "Digest the food",
+        "Pump blood to the organs"
+       ],
+       "answer": 0,
+       "why": "The spinal cord is the path for messages between the brain and the body. It is also the centre of automatic actions, that is, reflex actions."
+      },
+      {
+       "q": "Why does the brain work all the time, even during sleep?",
+       "options": [
+        "Because it stores dreams",
+        "Because breathing, heartbeat and temperature control must continue",
+        "Because the nerves rest in the day",
+        "Because the spinal cord stops working"
+       ],
+       "answer": 1,
+       "why": "Even during sleep the necessary actions of the body continue, like breathing, the beating of the heart and the control of the body's temperature. If the brain stopped working, these actions would stop too."
+      },
+      {
+       "q": "Thinking and emotions are controlled by the ___.",
+       "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Fore-brain (cerebrum)",
+        "Spinal cord"
+       ],
+       "answer": 2,
+       "why": "Thinking and emotions are the work of the fore-brain (cerebrum). The medulla oblongata controls breathing and heartbeat, while the hypothalamus controls temperature, hunger and thirst."
+      },
+      {
+       "q": "Breathing and the beating of the heart are controlled by the ___.",
+       "options": [
+        "Cerebrum",
+        "Frontal lobe",
+        "Hypothalamus",
+        "Medulla oblongata"
+       ],
+       "answer": 3,
+       "why": "Breathing and the beating of the heart are controlled by the medulla oblongata, which is a part of the hind-brain. These actions continue automatically without our will."
+      },
+      {
+       "q": "The control of the body's temperature, hunger and thirst is the work of the ___.",
+       "options": [
+        "Cerebellum",
+        "Pons",
+        "Hypothalamus",
+        "Occipital lobe"
+       ],
+       "answer": 2,
+       "why": "The hypothalamus controls the body's temperature, hunger and thirst. It keeps the inside conditions of the body balanced."
+      },
+      {
+       "q": "Which list shows actions controlled by the nervous system?",
+       "options": [
+        "Thinking, remembering, seeing, hearing, speaking, breathing and digestion",
+        "Only walking and running",
+        "Only the beating of the heart",
+        "Growing of hair and nails only"
+       ],
+       "answer": 0,
+       "why": "The nervous system controls thinking, remembering, seeing, hearing, speaking, walking, breathing, the beating of the heart, the digestion of food and the control of temperature — almost every action of the body."
+      },
+      {
+       "q": "How is the brain different from a computer?",
+       "options": [
+        "The brain cannot store information",
+        "A computer can think by itself",
+        "There is no difference",
+        "The brain can itself think and decide; a computer only follows given instructions"
+       ],
+       "answer": 3,
+       "why": "Like a computer, the brain receives information, stores it and acts on it. The difference is that the brain can itself think and decide, whereas a computer only acts on the instructions given to it."
+      }
+     ]
+    },
+    {
+     "title": "Lobes of the Brain, Voluntary Actions and Reflex Actions",
+     "notes_html": "<h4>The Four Lobes of the Brain</h4>\n<table>\n<tr><th>Lobe</th><th>Work</th></tr>\n<tr><td>Frontal lobe</td><td>Producing movement, intelligence, skill, speaking, reasoning, deciding and personality</td></tr>\n<tr><td>Parietal lobe</td><td>Translating the stages of the senses, language, mathematics, help in reading and writing</td></tr>\n<tr><td>Temporal lobe</td><td>Distinguishing hearing- and memory-related information and storing it as memory</td></tr>\n<tr><td>Occipital lobe</td><td>Seeing and recognising the things seen</td></tr>\n</table>\n<h4>Voluntary and Involuntary Actions</h4>\n<table>\n<tr><th>Voluntary action</th><th>Involuntary action</th></tr>\n<tr><td>Done by a person's own will</td><td>Happens automatically, without a person's will</td></tr>\n<tr><td>Examples: walking, eating, speaking</td><td>Examples: beating of the heart, breathing, digestion of food</td></tr>\n<tr><td>Centre: fore-brain</td><td>Centre: hind-brain</td></tr>\n</table>\n<h4>Reflex Actions</h4>\n<p>A reflex action is a quick, automatic action. Its centre is the spinal cord. Examples from daily life:</p>\n<ul>\n<li>The hand pulling back at once when it touches a hot thing.</li>\n<li>The eye blinking when something falls into it.</li>\n<li>Sneezing when there is irritation or dust in the nose.</li>\n<li>Coughing when food gets stuck in the throat.</li>\n<li>The leg moving forward automatically when there is a light tap below the knee.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Speaking, reasoning, deciding and personality are the work of the ___.",
+       "options": [
+        "Parietal lobe",
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe"
+       ],
+       "answer": 1,
+       "why": "The frontal lobe produces movement, intelligence, skill, speaking, reasoning, deciding and personality. It is the front part of the cerebrum."
+      },
+      {
+       "q": "The lobe that helps in reading, writing, language and mathematics is the ___.",
+       "options": [
+        "Parietal lobe",
+        "Occipital lobe",
+        "Temporal lobe",
+        "Frontal lobe"
+       ],
+       "answer": 0,
+       "why": "The parietal lobe translates the stages of the senses and deals with language and mathematics. It also helps in reading and writing."
+      },
+      {
+       "q": "Hearing and memory are looked after by the ___.",
+       "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe",
+        "Parietal lobe"
+       ],
+       "answer": 1,
+       "why": "The temporal lobe distinguishes hearing- and memory-related information and stores it as memory. That is why we remember sounds and voices."
+      },
+      {
+       "q": "Seeing and recognising the things seen is the work of the ___.",
+       "options": [
+        "Frontal lobe",
+        "Parietal lobe",
+        "Occipital lobe",
+        "Temporal lobe"
+       ],
+       "answer": 2,
+       "why": "The occipital lobe does the work of seeing and recognising the things seen. It is present at the back of the brain."
+      },
+      {
+       "q": "Walking, eating and speaking are examples of ___.",
+       "options": [
+        "Reflex actions",
+        "Involuntary actions",
+        "Automatic actions",
+        "Voluntary actions"
+       ],
+       "answer": 3,
+       "why": "These actions are done by a person's own will, so they are voluntary actions. Their centre is the fore-brain."
+      },
+      {
+       "q": "The beating of the heart and the digestion of food are ___.",
+       "options": [
+        "Voluntary actions",
+        "Reflex actions",
+        "Involuntary actions",
+        "Learned actions"
+       ],
+       "answer": 2,
+       "why": "These actions happen automatically without a person's will, so they are involuntary actions. Their centre is the hind-brain."
+      },
+      {
+       "q": "The centre of voluntary actions is the ___.",
+       "options": [
+        "Fore-brain",
+        "Hind-brain",
+        "Spinal cord",
+        "Cerebellum"
+       ],
+       "answer": 0,
+       "why": "Voluntary actions are done by our own will and their centre is the fore-brain. Involuntary actions, on the other hand, are centred in the hind-brain."
+      },
+      {
+       "q": "When a hand touches a hot thing and pulls back at once, this is a ___.",
+       "options": [
+        "Voluntary action",
+        "Learned action",
+        "Slow action",
+        "Reflex action"
+       ],
+       "answer": 3,
+       "why": "Pulling the hand back at once from a hot thing is a reflex action. Sneezing, coughing and blinking of the eye are also reflex actions of daily life."
+      },
+      {
+       "q": "The centre of reflex (automatic) actions is the ___.",
+       "options": [
+        "Cerebrum",
+        "Spinal cord",
+        "Frontal lobe",
+        "Hypothalamus"
+       ],
+       "answer": 1,
+       "why": "The spinal cord is the centre of automatic actions (reflex actions). Because the message does not need to travel to the brain first, the action is very quick."
+      },
+      {
+       "q": "Which of these is NOT a reflex action?",
+       "options": [
+        "Writing a letter to a friend",
+        "Sneezing when dust enters the nose",
+        "Blinking when something falls in the eye",
+        "Coughing when food sticks in the throat"
+       ],
+       "answer": 0,
+       "why": "Writing a letter is a voluntary action done by our own will and thinking. Sneezing, blinking and coughing happen automatically, so they are reflex actions."
+      }
+     ]
+    },
+    {
+     "title": "The Excretory System and the Kidney",
+     "notes_html": "<h4>Why the Body Needs an Excretory System</h4>\n<p>During the processes of eating and breathing, waste materials are produced in the body: <b>urea, carbon dioxide, extra water and salts</b>. If these do not leave the body, they become poisonous and harm the body. The excretory system throws them out.</p>\n<ul>\n<li>The waste obtained during the breathing process of the cell is <b>carbon dioxide</b>.</li>\n<li>Through <b>sweat</b>, extra water, salts and other waste materials also leave the body — so the skin also helps in excretion, and sweating keeps the body cool during exercise.</li>\n</ul>\n<h4>The Kidney — the Main Organ</h4>\n<ul>\n<li>The kidney cleans the blood, separates waste materials like urea, extra water and salts from it and makes <b>urine</b>.</li>\n<li>It keeps the quantity of water in the body in balance. Without the kidney, waste materials would collect in the blood and make the body poisonous.</li>\n<li>Parts of the excretory system (for the diagram): two kidneys, arteries and veins of the kidneys, ureters, bladder and urethra.</li>\n</ul>\n<h4>When a Kidney Fails</h4>\n<ul>\n<li><b>Dialysis machine</b> — the artificial kidney machine. When a kidney fails, it removes waste materials from the blood.</li>\n<li><b>Kidney transplant</b> — a completely failed kidney is managed by removing the damaged kidney and fitting a healthy kidney in its place.</li>\n<li>Common kidney diseases: kidney stones, infection, and kidney failure caused by diabetes and high blood pressure.</li>\n<li>The liver also helps in separating waste materials from the blood, and its work is connected with the kidney — so a doctor may also advise a liver function check.</li>\n<li>A person born with one kidney can live normally, but should drink plenty of water, avoid excessive salt and medicines, keep blood pressure and sugar under control, and get checked by a doctor from time to time.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The main organ of the excretory process is the ___.",
+       "options": [
+        "Liver",
+        "Kidney",
+        "Lung",
+        "Heart"
+       ],
+       "answer": 1,
+       "why": "The kidney is the main organ of the excretory system. It cleans the blood and removes waste materials in the form of urine."
+      },
+      {
+       "q": "The waste thing obtained during the breathing process of the cell is ___.",
+       "options": [
+        "Oxygen",
+        "Urea",
+        "Carbon dioxide",
+        "Salt"
+       ],
+       "answer": 2,
+       "why": "Carbon dioxide is the waste material produced during the breathing process of the cell. It is removed from the body through the lungs."
+      },
+      {
+       "q": "The artificial kidney machine is called the ___.",
+       "options": [
+        "X-ray machine",
+        "MRI machine",
+        "Ventilator",
+        "Dialysis machine"
+       ],
+       "answer": 3,
+       "why": "The dialysis machine is called the artificial kidney. When a kidney fails, this machine does the work of removing waste materials from the blood."
+      },
+      {
+       "q": "A completely failed kidney can be managed through ___.",
+       "options": [
+        "Dialysis only",
+        "More medicines",
+        "Kidney transplant",
+        "Rest only"
+       ],
+       "answer": 2,
+       "why": "A completely failed kidney is managed through kidney transplant: the damaged kidney is removed and a healthy kidney is fitted in its place."
+      },
+      {
+       "q": "Changing a damaged kidney into a healthy kidney is called ___.",
+       "options": [
+        "Transplantation",
+        "Transformation",
+        "Transpiration",
+        "Translocation"
+       ],
+       "answer": 0,
+       "why": "Fitting a healthy kidney in place of a damaged kidney is called transplantation. It is different from transpiration, which is a process in plants."
+      },
+      {
+       "q": "Which is the main organ of the urine excretion process?",
+       "options": [
+        "Liver",
+        "Skin",
+        "Lung",
+        "Kidney"
+       ],
+       "answer": 3,
+       "why": "The kidney is the main organ of urine excretion. It separates urea, extra water and salts from the blood and makes urine."
+      },
+      {
+       "q": "Why does the body need the excretory system?",
+       "options": [
+        "To make new blood",
+        "To throw out waste materials that would otherwise poison the body",
+        "To digest food quickly",
+        "To grow taller"
+       ],
+       "answer": 1,
+       "why": "During eating and breathing, waste materials (urea, carbon dioxide, extra water and salts) are produced. If these do not leave the body, they become poisonous, so the excretory system must throw them out."
+      },
+      {
+       "q": "The kidney keeps which of these in balance in the body?",
+       "options": [
+        "The quantity of water",
+        "The colour of blood",
+        "The size of the heart",
+        "The length of bones"
+       ],
+       "answer": 0,
+       "why": "The kidney cleans the blood, makes urine and keeps the quantity of water in the body in balance. Without it, waste would collect in the blood and poison the body."
+      },
+      {
+       "q": "Which parts are shown in a labelled diagram of the human excretory system?",
+       "options": [
+        "Heart, lungs and liver",
+        "Two kidneys, ureters, bladder and urethra",
+        "Brain, spinal cord and nerves",
+        "Stomach, intestine and liver"
+       ],
+       "answer": 1,
+       "why": "The excretory system diagram shows the two kidneys, the arteries and veins of the kidneys, the ureters, the bladder and the urethra, each with its label."
+      },
+      {
+       "q": "During exercise people sweat a lot. Besides keeping the body cool, sweating also ___.",
+       "options": [
+        "Makes the body heavier",
+        "Stops breathing",
+        "Removes extra water, salts and waste materials from the body",
+        "Makes the bones stronger"
+       ],
+       "answer": 2,
+       "why": "Through sweat, extra water and salts and other waste materials also leave the body. In this way the skin also helps in the excretory process."
+      },
+      {
+       "q": "A person born with one kidney should take which precaution?",
+       "options": [
+        "Eat more salt",
+        "Avoid drinking water",
+        "Take medicines without advice",
+        "Drink plenty of water and keep blood pressure and sugar under control"
+       ],
+       "answer": 3,
+       "why": "Such a person should protect the one kidney: drink plenty of water, avoid excessive use of salt and medicines, keep blood pressure and sugar under control, and get checked by a doctor from time to time."
+      },
+      {
+       "q": "Common diseases of the kidney include ___.",
+       "options": [
+        "Fracture and fever",
+        "Cough and cold",
+        "Kidney stones, infection and failure from diabetes and high blood pressure",
+        "Weak eyesight"
+       ],
+       "answer": 2,
+       "why": "The common diseases of the kidney are kidney stones, infection, and kidney failure caused by diabetes and high blood pressure. This is why sugar and blood pressure must be controlled."
+      },
+      {
+       "q": "Why does a doctor often advise a liver function check for kidney-problem patients?",
+       "options": [
+        "The liver also separates waste from the blood and its work is connected with the kidney",
+        "The liver makes urine",
+        "The liver controls breathing",
+        "The liver is a part of the kidney"
+       ],
+       "answer": 0,
+       "why": "The liver also plays an important role in separating waste materials from the blood and cleaning the body. A fault in the liver can produce symptoms like those of kidney problems."
+      },
+      {
+       "q": "In the dialysis process, the machine removes ___ from the blood.",
+       "options": [
+        "Oxygen",
+        "Food",
+        "Blood cells",
+        "Waste materials"
+       ],
+       "answer": 3,
+       "why": "The dialysis machine removes waste materials from the blood of a kidney patient, doing the work of the failed kidney outside the body."
+      },
+      {
+       "q": "Urea, extra water and salts are separated from the blood by the ___.",
+       "options": [
+        "Lungs",
+        "Kidneys",
+        "Skin only",
+        "Stomach"
+       ],
+       "answer": 1,
+       "why": "The kidneys separate waste materials like urea, extra water and salts from the blood and make urine from them. This keeps the blood clean."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Heredity in Organisms",
+   "lessons": [
+    {
+     "title": "Cell Division — Mitosis and Meiosis",
+     "notes_html": "<h4>Cell Division</h4>\n<p>Cell division is the general process in which both the nucleus and the cytoplasm divide. There are two ways of cell division:</p>\n<table>\n<tr><th></th><th>Mitosis</th><th>Meiosis</th></tr>\n<tr><td>Takes place in</td><td>Body cells</td><td>Sex cells</td></tr>\n<tr><td>Number of divisions</td><td>One division</td><td>Two divisions (I and II)</td></tr>\n<tr><td>Cells formed</td><td>Two cells</td><td>Four cells</td></tr>\n<tr><td>Chromosomes</td><td>Number stays the same</td><td>Number becomes half</td></tr>\n<tr><td>New cells</td><td>Like the parent cell</td><td>Different from the parent cell</td></tr>\n<tr><td>Purpose</td><td>Growth and repair of the body</td><td>Making sex cells (gametes); keeping the chromosome number maintained</td></tr>\n</table>\n<h4>Important Terms</h4>\n<ul>\n<li><b>Mitosis</b> — division of the nucleus in which two identical nuclei are formed from one nucleus; after that, in cytokinesis, the cytoplasm divides and two new cells are formed.</li>\n<li><b>Meiosis</b> — reduction division; the number of chromosomes becomes half and four cells are formed from one cell.</li>\n<li><b>Interphase</b> — the stage in which the cell prepares for division: the DNA is copied (replication), the cell grows, and the materials needed for division are prepared.</li>\n<li><b>Cytokinesis</b> — the division of the cytoplasm in cell division, by which two separate cells are formed.</li>\n<li><b>Prophase</b> — the first stage of mitosis, in which the chromosomes appear.</li>\n<li><b>Haploid (n)</b> — one set of chromosomes, as in the sex cells (gametes). <b>Diploid (2n)</b> — two sets of chromosomes, as in the ordinary body cells.</li>\n</ul>\n<p><i>Project in the book:</i> make a Mitosis Flip Book — draw the stages in order (interphase, prophase, metaphase, anaphase, telophase, cytokinesis) on cards; flipping the pages quickly shows the cell dividing.</p>",
+     "mcqs": [
+      {
+       "q": "The two ways of cell division are ___.",
+       "options": [
+        "Mitosis and meiosis",
+        "Replication and cytokinesis",
+        "Interphase and prophase",
+        "Haploid and diploid"
+       ],
+       "answer": 0,
+       "why": "There are two ways of cell division: mitosis, which takes place in body cells for growth and repair, and meiosis, which takes place in sex cells to make gametes."
+      },
+      {
+       "q": "Meiosis is called reduction division because ___.",
+       "options": [
+        "The cell becomes smaller",
+        "The number of chromosomes becomes half",
+        "The cytoplasm divides twice",
+        "The nucleus disappears"
+       ],
+       "answer": 1,
+       "why": "In meiosis the number of chromosomes becomes half, so it is called reduction division. Four cells are formed from one cell by two divisions."
+      },
+      {
+       "q": "In mitosis, the number of cells formed from one cell is ___.",
+       "options": [
+        "Four",
+        "One",
+        "Two",
+        "Eight"
+       ],
+       "answer": 2,
+       "why": "In mitosis there is one division and two cells are formed. The new cells are like the parent cell and the chromosome number stays the same."
+      },
+      {
+       "q": "The purpose of interphase is that ___.",
+       "options": [
+        "The cell dies",
+        "The chromosomes become half",
+        "The cytoplasm divides",
+        "The cell prepares for division — DNA is copied and the cell grows"
+       ],
+       "answer": 3,
+       "why": "In interphase the cell prepares for division: the DNA is copied (replication), the cell grows, and the materials needed for division are prepared."
+      },
+      {
+       "q": "The division of the cytoplasm in cell division is called ___.",
+       "options": [
+        "Interphase",
+        "Prophase",
+        "Cytokinesis",
+        "Replication"
+       ],
+       "answer": 2,
+       "why": "Cytokinesis is the division of the cytoplasm, by which two separate cells are formed. It happens after the nucleus has divided in mitosis."
+      },
+      {
+       "q": "Haploid (n) means ___.",
+       "options": [
+        "One set of chromosomes",
+        "Two sets of chromosomes",
+        "No chromosomes",
+        "Four sets of chromosomes"
+       ],
+       "answer": 0,
+       "why": "Haploid (n) means one set of chromosomes, as in the sex cells (gametes). Diploid (2n) means two sets of chromosomes, as in the ordinary body cells."
+      },
+      {
+       "q": "Meiosis takes place in ___.",
+       "options": [
+        "Body cells",
+        "Skin cells",
+        "Blood cells",
+        "Sex cells"
+       ],
+       "answer": 3,
+       "why": "Meiosis takes place in sex cells and makes gametes. Mitosis, in contrast, takes place in body cells for growth and repair."
+      },
+      {
+       "q": "Prophase is ___.",
+       "options": [
+        "The last stage of mitosis",
+        "The first stage of mitosis, in which the chromosomes appear",
+        "The resting stage",
+        "The division of cytoplasm"
+       ],
+       "answer": 1,
+       "why": "Prophase is the first stage of mitosis, in which the chromosomes appear. The stages continue as metaphase, anaphase and telophase, followed by cytokinesis."
+      },
+      {
+       "q": "In meiosis, the number of divisions and cells formed is ___.",
+       "options": [
+        "Two divisions, four cells",
+        "One division, two cells",
+        "Three divisions, six cells",
+        "One division, four cells"
+       ],
+       "answer": 0,
+       "why": "In meiosis there are two divisions (meiosis I and II) and four cells are formed from one cell. In mitosis there is only one division and two cells are formed."
+      },
+      {
+       "q": "The purpose of mitosis is ___.",
+       "options": [
+        "Making gametes",
+        "Growth and repair of the body",
+        "Halving the chromosomes",
+        "Making new species"
+       ],
+       "answer": 1,
+       "why": "Mitosis divides the body cells; its purpose is the growth and repair of the body. The cells formed are like the parent cell."
+      },
+      {
+       "q": "Cell division is different from mitosis because ___.",
+       "options": [
+        "Cell division happens only in plants",
+        "Mitosis happens only in animals",
+        "Cell division is the general process of nucleus and cytoplasm dividing; mitosis is the division of the nucleus only",
+        "They are exactly the same"
+       ],
+       "answer": 2,
+       "why": "Cell division is the general process in which both the nucleus and the cytoplasm divide. Mitosis is the division of the nucleus in which two identical nuclei are formed; cytokinesis then divides the cytoplasm."
+      },
+      {
+       "q": "In a Mitosis Flip Book, the stages are drawn in which order?",
+       "options": [
+        "Prophase, interphase, metaphase, cytokinesis",
+        "Cytokinesis, telophase, prophase, interphase",
+        "Metaphase, prophase, anaphase, interphase",
+        "Interphase, prophase, metaphase, anaphase, telophase, cytokinesis"
+       ],
+       "answer": 3,
+       "why": "The stages of mitosis in order are: interphase, prophase, metaphase, anaphase, telophase and cytokinesis. Flipping the cards quickly makes the division of the cell appear to move."
+      },
+      {
+       "q": "The cells formed by meiosis are ___ the parent cell.",
+       "options": [
+        "Different from",
+        "Double in size than",
+        "Exactly like",
+        "Without chromosomes, unlike"
+       ],
+       "answer": 2,
+       "why": "The cells formed by meiosis are different from the parent cell and have half the number of chromosomes. The cells formed by mitosis are like the parent cell."
+      },
+      {
+       "q": "Replication of DNA takes place during ___.",
+       "options": [
+        "Interphase",
+        "Cytokinesis",
+        "Prophase",
+        "Telophase"
+       ],
+       "answer": 0,
+       "why": "In interphase the cell prepares for division and the DNA is copied — this copying is called replication. The cell also grows in this stage."
+      },
+      {
+       "q": "Diploid (2n) cells are found in ___.",
+       "options": [
+        "Gametes only",
+        "Sex cells",
+        "Bacteria",
+        "Ordinary body cells"
+       ],
+       "answer": 3,
+       "why": "Diploid (2n) means two sets of chromosomes, as in the ordinary body cells. The sex cells (gametes) are haploid, with one set."
+      }
+     ]
+    },
+    {
+     "title": "Heredity, Chromosomes and DNA",
+     "notes_html": "<h4>Heredity</h4>\n<p><b>Heredity</b> is the transfer of characteristics or traits from parents to offspring — the way by which the characteristics of the parents are transferred to the children.</p>\n<p>Examples of hereditary characteristics: the colour of the eyes, the colour and texture of the hair, height, the ability to roll the tongue, and whether the ear lobe is attached or free. Such characteristics are received from the parents <b>through the genes</b> in inheritance.</p>\n<h4>Chromosomes, Genes and DNA</h4>\n<ul>\n<li><b>Chromosomes</b> contain <b>DNA</b>; they are made of DNA and protein.</li>\n<li><b>Homologous chromosomes</b> — the pair of chromosomes in which one chromosome comes from the father and one from the mother, and both are alike in shape, size and genes.</li>\n<li><b>Gene</b> — the part of the DNA which carries the information of one hereditary characteristic.</li>\n<li><b>DNA</b> (deoxyribonucleic acid) — the material which carries hereditary information. It is present in the chromosomes in the nucleus, is like a two-stranded ladder (double helix), and is made of nucleotides; each nucleotide contains sugar, phosphate and a nitrogen base (adenine, thymine, guanine or cytosine).</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The transfer of characteristics from parents to offspring is called ___.",
+       "options": [
+        "Replication",
+        "Heredity",
+        "Cytokinesis",
+        "Mutation"
+       ],
+       "answer": 1,
+       "why": "Heredity is the way by which the characteristics of the parents are transferred to the offspring, for example eye colour, hair colour and height."
+      },
+      {
+       "q": "Chromosomes contain ___.",
+       "options": [
+        "DNA",
+        "Only protein",
+        "Only sugar",
+        "Only water"
+       ],
+       "answer": 0,
+       "why": "Chromosomes contain DNA. They are made of DNA and protein, and the DNA carries the hereditary information."
+      },
+      {
+       "q": "Characteristics like rolling the tongue and the ear lobe are received from the parents ___.",
+       "options": [
+        "Through food",
+        "Through the genes in inheritance",
+        "Through the blood only",
+        "Through learning"
+       ],
+       "answer": 1,
+       "why": "These characteristics are transferred from parents to offspring through the information present in the genes. They are hereditary characteristics."
+      },
+      {
+       "q": "A gene is ___.",
+       "options": [
+        "A whole chromosome",
+        "A type of cell",
+        "The part of DNA carrying information of one hereditary characteristic",
+        "A kind of protein in food"
+       ],
+       "answer": 2,
+       "why": "A gene is the part of the DNA which carries the information of one hereditary characteristic, such as the colour of the eyes."
+      },
+      {
+       "q": "Homologous chromosomes are ___.",
+       "options": [
+        "Chromosomes of different shapes",
+        "Chromosomes without genes",
+        "Chromosomes found only in plants",
+        "A pair in which one comes from the father and one from the mother, alike in shape, size and genes"
+       ],
+       "answer": 3,
+       "why": "Homologous chromosomes are the pair in which one chromosome comes from the father and one from the mother. Both are alike in shape, size and genes."
+      },
+      {
+       "q": "DNA is present in the ___ of the cell.",
+       "options": [
+        "Cell wall",
+        "Cytoplasm only",
+        "Nucleus, inside the chromosomes",
+        "Vacuole"
+       ],
+       "answer": 2,
+       "why": "DNA (deoxyribonucleic acid) is the material which carries hereditary information. It is present in the chromosomes in the nucleus of the cell."
+      },
+      {
+       "q": "The shape of DNA is like a ___.",
+       "options": [
+        "Two-stranded ladder (double helix)",
+        "Single straight line",
+        "Round ball",
+        "Flat sheet"
+       ],
+       "answer": 0,
+       "why": "DNA is like a two-stranded ladder, called the double helix. It is made of nucleotides joined in two twisted strands."
+      },
+      {
+       "q": "Each nucleotide of DNA contains ___.",
+       "options": [
+        "Only sugar",
+        "Only protein",
+        "Sugar and fat only",
+        "Sugar, phosphate and a nitrogen base"
+       ],
+       "answer": 3,
+       "why": "Each nucleotide contains sugar, phosphate and a nitrogen base. The nitrogen bases are adenine, thymine, guanine and cytosine."
+      },
+      {
+       "q": "Which of these is a hereditary characteristic?",
+       "options": [
+        "A scar from an accident",
+        "The colour of the eyes",
+        "A learned language",
+        "A haircut style"
+       ],
+       "answer": 1,
+       "why": "The colour of the eyes is a hereditary characteristic received from the parents through genes. Hair colour and texture, height, tongue rolling and ear lobe type are also hereditary."
+      },
+      {
+       "q": "Whether the ear lobe is attached or free is decided by ___.",
+       "options": [
+        "Genes received from parents",
+        "Food habits",
+        "Exercise",
+        "Climate"
+       ],
+       "answer": 0,
+       "why": "Ear lobe type is a hereditary characteristic. Like tongue rolling, it is transferred from parents to offspring through the information present in the genes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Biotechnology",
+   "lessons": [
+    {
+     "title": "What is Biotechnology?",
+     "notes_html": "<h4>What is Biotechnology?</h4>\n<p><b>Biotechnology</b> is the scientific knowledge in which living organisms or their materials are used with technology in an ethical way to produce useful things or solutions to problems.</p>\n<h4>Role of Bacteria</h4>\n<p>Bacteria are used in genetic engineering: a foreign gene is inserted into their <b>plasmid</b>, and the bacteria produce human insulin, proteins and other things from that gene in large quantity.</p>\n<h4>Products and Uses in Daily Life</h4>\n<ul>\n<li>Insulin for diabetes.</li>\n<li>Vaccines for protection from diseases (BCG, measles, polio, hepatitis).</li>\n<li>Growth hormone for the treatment of dwarfism.</li>\n<li>Preparation of cheese, yoghurt and bread made with yeast.</li>\n<li>Genetically changed crops (maize, wheat, rice, cotton, soybean) and crops with more nutrition, like rice with vitamin A.</li>\n<li>Bananas prepared through tissue culture.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Biotechnology is the use of ___ to produce useful things.",
+       "options": [
+        "Only machines",
+        "Living organisms or their materials with technology",
+        "Only chemicals",
+        "Only electricity"
+       ],
+       "answer": 1,
+       "why": "Biotechnology is the scientific knowledge in which living organisms or their materials are used with technology in an ethical way to produce useful things or solutions to problems."
+      },
+      {
+       "q": "In genetic engineering, a foreign gene is inserted into the ___ of bacteria.",
+       "options": [
+        "Nucleus",
+        "Cell wall",
+        "Plasmid",
+        "Ribosome"
+       ],
+       "answer": 2,
+       "why": "A foreign gene is inserted into the plasmid of bacteria. The bacteria then produce human insulin, proteins and other things from that gene in large quantity."
+      },
+      {
+       "q": "Human insulin for diabetes patients is prepared on a commercial scale using ___.",
+       "options": [
+        "Virus",
+        "Algae",
+        "Fungus",
+        "Bacteria"
+       ],
+       "answer": 3,
+       "why": "The gene of human insulin is inserted into the plasmid of bacteria, and insulin is prepared in large quantity through the bacteria."
+      },
+      {
+       "q": "Which of these is a product of biotechnology in food?",
+       "options": [
+        "Plastic chairs",
+        "Iron tools",
+        "Cheese and yoghurt made with microbes and yeast",
+        "Glass bottles"
+       ],
+       "answer": 2,
+       "why": "Cheese, yoghurt and bread made with yeast are food products of biotechnology. Genetically changed crops and tissue-culture bananas are its agriculture products."
+      },
+      {
+       "q": "Bananas are prepared in large numbers through ___.",
+       "options": [
+        "Tissue culture",
+        "Seeds only",
+        "Cutting of stems",
+        "Grafting"
+       ],
+       "answer": 0,
+       "why": "Bananas are prepared through tissue culture, a biotechnology method. Many identical plants are produced quickly by this method."
+      },
+      {
+       "q": "Vaccines prepared by biotechnology protect us from diseases like ___.",
+       "options": [
+        "Diabetes",
+        "Dwarfism",
+        "Fractures",
+        "BCG, measles, polio and hepatitis"
+       ],
+       "answer": 3,
+       "why": "Vaccines for protection from diseases — BCG, measles, polio, hepatitis — are an important daily-life use of biotechnology."
+      },
+      {
+       "q": "Genetically changed crops mentioned in the book include ___.",
+       "options": [
+        "Only rice",
+        "Maize, wheat, rice, cotton and soybean",
+        "Only cotton",
+        "Only wheat"
+       ],
+       "answer": 1,
+       "why": "Examples of products prepared in food and agriculture with biotechnology are genetically changed crops: maize, wheat, rice, cotton and soybean."
+      },
+      {
+       "q": "Rice rich in vitamin A is prepared by ___.",
+       "options": [
+        "Inserting the gene of vitamin A into the rice plant",
+        "Painting the rice yellow",
+        "Growing rice in sunlight",
+        "Mixing vitamins in water"
+       ],
+       "answer": 0,
+       "why": "The gene of vitamin A is inserted into the rice plant to make it rich in vitamin A. Such crops with more nutrition are a product of biotechnology."
+      },
+      {
+       "q": "The human growth hormone product is used for the treatment of ___.",
+       "options": [
+        "Night blindness",
+        "Dwarfism",
+        "Measles",
+        "Diabetes"
+       ],
+       "answer": 1,
+       "why": "The product of the human growth hormone is used for the treatment of dwarfism. Insulin, in contrast, is used for diabetes."
+      },
+      {
+       "q": "Biotechnology uses living organisms in which way?",
+       "options": [
+        "In any way possible",
+        "Only for experiments",
+        "In an ethical way",
+        "Only in factories"
+       ],
+       "answer": 2,
+       "why": "By definition, biotechnology uses living organisms or their materials with technology in an ethical way to produce useful things or solutions to problems."
+      }
+     ]
+    },
+    {
+     "title": "DNA, Genes and Biotechnology Products",
+     "notes_html": "<h4>DNA — the Coded Information</h4>\n<ul>\n<li>In DNA, information is kept in the form of coded writing. It has <b>4 organic bases</b>: adenine, thymine, guanine and cytosine.</li>\n<li><b>Uracil</b> is NOT a base of DNA — it is a base of RNA.</li>\n<li><b>Watson and Crick</b> proposed the model of DNA in <b>1953</b> — the double-helix structure.</li>\n<li><b>Replication</b> — the stage of the copying of DNA is called replication.</li>\n<li><b>Plasmid</b> — the small pieces (small circular pieces) of DNA present in bacteria, which can be copied.</li>\n</ul>\n<h4>Vaccines and Antibodies</h4>\n<ul>\n<li>A <b>vaccine</b> contains weak or dead microbes (pathogens); it weakens the disease-spreading organisms' effect by making <b>antibodies</b> in the body, and protects from disease.</li>\n<li>Measles is a disease that can be treated/protected against through the use of a vaccine.</li>\n</ul>\n<h4>Matching (from the book)</h4>\n<table>\n<tr><th>Column A</th><th>Column B</th></tr>\n<tr><td>DNA</td><td>Double-helix structure</td></tr>\n<tr><td>Replication</td><td>Copies</td></tr>\n<tr><td>Separation of insulin</td><td>Human pancreas</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "The stage of the copying of DNA is called ___.",
+       "options": [
+        "Lengthening",
+        "Regeneration",
+        "Reproduction",
+        "Replication"
+       ],
+       "answer": 3,
+       "why": "The stage of the copying of DNA is called replication. Copies of DNA are formed by replication before the cell divides."
+      },
+      {
+       "q": "DNA has how many organic bases?",
+       "options": [
+        "5",
+        "6",
+        "4",
+        "2"
+       ],
+       "answer": 2,
+       "why": "DNA has four organic bases: adenine, thymine, guanine and cytosine. In DNA, information is kept in the form of this coded writing."
+      },
+      {
+       "q": "Which of the following is NOT an organic base of DNA?",
+       "options": [
+        "Uracil",
+        "Guanine",
+        "Thymine",
+        "Adenine"
+       ],
+       "answer": 0,
+       "why": "Uracil is a base of RNA, not of DNA. The bases of DNA are adenine, thymine, guanine and cytosine."
+      },
+      {
+       "q": "The small circular pieces of DNA in bacteria are called ___.",
+       "options": [
+        "Replica",
+        "Template",
+        "Clone",
+        "Plasmid"
+       ],
+       "answer": 3,
+       "why": "A plasmid is a small circular piece of DNA present in bacteria which can be copied. Foreign genes are inserted into plasmids in genetic engineering."
+      },
+      {
+       "q": "The model of DNA was proposed in 1953 by ___.",
+       "options": [
+        "Haber and Bosch",
+        "Watson and Crick",
+        "Schleiden and Schwann",
+        "Darwin and Crick"
+       ],
+       "answer": 1,
+       "why": "Watson and Crick presented the double-helix model of DNA in 1953. The model is like a ladder of two twisted strands."
+      },
+      {
+       "q": "Which disease can be treated through the use of a vaccine?",
+       "options": [
+        "Measles",
+        "Diabetes",
+        "AIDS",
+        "Cancer"
+       ],
+       "answer": 0,
+       "why": "A vaccine is given for protection from measles. A vaccine contains weak or dead microbes which make antibodies in the body."
+      },
+      {
+       "q": "A vaccine protects the body because it ___.",
+       "options": [
+        "Kills all bacteria in food",
+        "Contains weak or dead microbes which make antibodies in the body",
+        "Increases body temperature",
+        "Adds vitamins to the blood"
+       ],
+       "answer": 1,
+       "why": "A vaccine contains weak or dead microbes (pathogens) which make antibodies in the body and protect from disease. It weakens the effect of the disease-spreading organisms."
+      },
+      {
+       "q": "In the book's matching, DNA matches with ___.",
+       "options": [
+        "Copies",
+        "Human pancreas",
+        "Double-helix structure",
+        "Banana yield"
+       ],
+       "answer": 2,
+       "why": "DNA matches with the double-helix structure — the model of DNA is like a ladder of two twisted strands. Replication matches with copies, and separation of insulin with the human pancreas."
+      },
+      {
+       "q": "Insulin is naturally separated (produced) in the body by the ___.",
+       "options": [
+        "Liver",
+        "Kidney",
+        "Heart",
+        "Human pancreas"
+       ],
+       "answer": 3,
+       "why": "Insulin comes out of the human pancreas. In biotechnology, its gene is inserted into bacteria to prepare it in large quantity."
+      },
+      {
+       "q": "Vitamin A gene is inserted into which plant to make it rich in vitamin A?",
+       "options": [
+        "Wheat",
+        "Cotton",
+        "Rice",
+        "Maize"
+       ],
+       "answer": 2,
+       "why": "The rice plant is genetically changed with the gene of vitamin A to obtain rice rich in vitamin A. This is an example of a crop with more nutrition."
+      },
+      {
+       "q": "Which of these weakens the disease-spreading organisms (pathogens), as asked in the book's exercise?",
+       "options": [
+        "Vaccine",
+        "Antibody",
+        "Plasmid",
+        "Antibiotics"
+       ],
+       "answer": 0,
+       "why": "According to the book's exercise, the vaccine weakens the disease-spreading organisms (pathogens) — it contains weak or dead microbes that train the body to make antibodies."
+      },
+      {
+       "q": "The structure of DNA includes ___.",
+       "options": [
+        "Only protein",
+        "Only fat",
+        "Water and salts only",
+        "Sugar, phosphate and organic bases"
+       ],
+       "answer": 3,
+       "why": "The structure of DNA includes sugar and organic bases (with phosphate), arranged in two twisted strands — the double helix."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Pollution and Its Effects on the Environment",
+   "lessons": [
+    {
+     "title": "Pollution and Air Pollutants",
+     "notes_html": "<h4>What is Pollution?</h4>\n<p><b>Pollution</b> is such an unnatural change in the physical, chemical or biological characteristics of air, water and land which harms the environment and the life of living things.</p>\n<p>According to the book, <b>air pollution</b> is an extremely delicate and dangerous type of environmental pollution.</p>\n<h4>Main Air Pollutants</h4>\n<table>\n<tr><th>Pollutant</th><th>Causes / Sources</th><th>Effects</th></tr>\n<tr><td>Sulphur dioxide</td><td>Smoke of factories and vehicles (poisonous gas with a biting smell)</td><td>Difficulty in breathing</td></tr>\n<tr><td>Carbon monoxide</td><td>Burning of fuel</td><td>Harmful poisonous gas</td></tr>\n<tr><td>Carbon dioxide</td><td>Comes out from the burning of fuel</td><td>Greenhouse effect</td></tr>\n<tr><td>Nitrogen dioxide</td><td>Smoke and burning of fuel</td><td>Breathing diseases</td></tr>\n<tr><td>Chlorofluorocarbon (CFC)</td><td>Use of refrigerators</td><td>Destroys the ozone layer</td></tr>\n</table>\n<p>Effects of air pollution on the human body: breathing diseases, cough, cold, headache, heart diseases, damage to the nervous system and spoiling of the lungs.</p>\n<h4>Other Points from the Book</h4>\n<ul>\n<li><b>Acid rain</b> harms (destroys) historical buildings and statues.</li>\n<li>The <b>panda</b> is included among the animals of rare species, which need to be saved.</li>\n<li>Excessive use of chemical fertiliser produces pollution in land and water; the cutting of trees is deforestation.</li>\n</ul>\n<h4>Ways to Reduce Pollution</h4>\n<ul>\n<li>Planting more trees.</li>\n<li>Reducing the use of fuel.</li>\n<li>Fitting filters on the chimneys of factories.</li>\n<li>Reusing and recycling things — this also saves the natural resources of the earth.</li>\n<li>Reducing the use of chemical fertilisers and insect-killing medicines.</li>\n<li>Not wasting water.</li>\n<li>Creating awareness among people and acting on the law.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Pollution is ___.",
+       "options": [
+        "A natural change that helps life",
+        "An unnatural change in air, water and land which harms the environment and life",
+        "Only the smoke of factories",
+        "Only dirty water"
+       ],
+       "answer": 1,
+       "why": "Pollution is such an unnatural change in the physical, chemical or biological characteristics of air, water and land which harms the environment and the life of living things."
+      },
+      {
+       "q": "According to the book, the extremely delicate and dangerous type of pollution is ___.",
+       "options": [
+        "Air pollution",
+        "Water pollution",
+        "Noise pollution",
+        "Land pollution"
+       ],
+       "answer": 0,
+       "why": "According to the book, air pollution is an extremely dangerous type of environmental pollution, because polluted air spreads everywhere and enters the body with every breath."
+      },
+      {
+       "q": "The main air pollutants are ___.",
+       "options": [
+        "Oxygen and nitrogen",
+        "Sulphur dioxide, carbon monoxide, nitrogen dioxide and chlorofluorocarbon",
+        "Only carbon dioxide",
+        "Water vapour and dust only"
+       ],
+       "answer": 1,
+       "why": "The main air pollutants are sulphur dioxide, carbon monoxide, nitrogen dioxide and chlorofluorocarbon. Their causes are smoke from factories and vehicles, the burning of fuel, and the use of refrigerators."
+      },
+      {
+       "q": "Air pollution causes which effects on the human body?",
+       "options": [
+        "Only headache",
+        "Only cough",
+        "Breathing diseases, cough, cold, headache, heart diseases and damage to the lungs",
+        "No effect at all"
+       ],
+       "answer": 2,
+       "why": "Air pollution causes breathing diseases, cough, cold, headache, heart diseases, damage to the nervous system and spoiling of the lungs."
+      },
+      {
+       "q": "Which gas comes out because of the burning of fuel?",
+       "options": [
+        "Carbon monoxide",
+        "Chlorofluorocarbon",
+        "Oxygen",
+        "Carbon dioxide"
+       ],
+       "answer": 3,
+       "why": "Carbon dioxide gas comes out from the burning of fuel. It is also the main gas responsible for the greenhouse effect."
+      },
+      {
+       "q": "The poisonous gas with a biting smell in the smoke of motor vehicles is ___.",
+       "options": [
+        "Oxygen",
+        "Ammonia",
+        "Sulphur dioxide",
+        "Nitrogen"
+       ],
+       "answer": 2,
+       "why": "Sulphur dioxide is a poisonous gas which is present in the smoke of vehicles and has a biting smell. It creates difficulty in breathing."
+      },
+      {
+       "q": "What is included in the destruction of historical buildings?",
+       "options": [
+        "Acid rain",
+        "Flood",
+        "Tsunami",
+        "Greenhouse effect"
+       ],
+       "answer": 0,
+       "why": "Acid rain harms historical buildings and statues. It is formed when pollutant gases mix with rain water."
+      },
+      {
+       "q": "Which process can save the natural resources of the earth?",
+       "options": [
+        "Wasting water",
+        "Cutting of forests",
+        "Burning more fuel",
+        "Reusing and recycling things"
+       ],
+       "answer": 3,
+       "why": "By reusing and recycling things, natural resources are saved. Planting trees, reducing fuel use and not wasting water also reduce pollution."
+      },
+      {
+       "q": "___ is included among the animals of rare species.",
+       "options": [
+        "Deer",
+        "Panda",
+        "Donkey",
+        "Cat"
+       ],
+       "answer": 1,
+       "why": "The panda is an animal of a rare species which needs to be saved. Pollution and destruction of forests put such rare animals in danger."
+      },
+      {
+       "q": "Effects like drowsiness and unclear speech occur from the effect of ___.",
+       "options": [
+        "Chlorofluorocarbon (CFC)",
+        "Oxygen",
+        "Acid rain",
+        "Recycling"
+       ],
+       "answer": 0,
+       "why": "In the book's matching exercise, drowsiness and unclear speech are given as effects of chlorofluorocarbon. CFC also destroys the ozone layer."
+      }
+     ]
+    },
+    {
+     "title": "The Ozone Layer and the Greenhouse Effect",
+     "notes_html": "<h4>The Ozone Layer</h4>\n<ul>\n<li>The <b>ozone layer</b> is the layer which protects the earth. It protects the earth from the harmful <b>ultraviolet rays</b> of the sun.</li>\n<li>If this layer were not there, these rays would produce skin cancer and other diseases in living things.</li>\n<li>The ozone layer is present in the atmosphere at a height of about <b>12 to 50 kilometres</b> above the land surface.</li>\n<li>The special cause of the <b>hole in the ozone layer</b> is <b>chlorofluorocarbon (CFC)</b>, which destroys the ozone layer. CFC is used in refrigerators.</li>\n</ul>\n<h4>The Greenhouse Effect</h4>\n<p>The greenhouse effect is the process in which gases like <b>carbon dioxide, methane and chlorofluorocarbon</b> hold the sun's heat on the earth, by which the earth becomes warm and the global temperature rises.</p>\n<ul>\n<li><b>Carbon dioxide</b> is the gas especially responsible for the greenhouse effect.</li>\n<li>Carbon dioxide comes out from the burning of fuel — so reducing fuel use also reduces the greenhouse effect.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The role of the ozone layer is to ___.",
+       "options": [
+        "Give rain to the earth",
+        "Protect the earth from the harmful ultraviolet rays of the sun",
+        "Make oxygen for plants",
+        "Warm the earth"
+       ],
+       "answer": 1,
+       "why": "The ozone layer protects the earth from the harmful ultraviolet rays of the sun. If it were not there, these rays would produce skin cancer and other diseases in living things."
+      },
+      {
+       "q": "The special cause of the hole in the ozone layer is ___.",
+       "options": [
+        "Carbon dioxide",
+        "Sulphur dioxide",
+        "Chlorofluorocarbon",
+        "Oxygen"
+       ],
+       "answer": 2,
+       "why": "Chlorofluorocarbon (CFC) destroys the ozone layer and creates a hole in it. CFCs are used in refrigerators."
+      },
+      {
+       "q": "The layer which protects the earth is called ___.",
+       "options": [
+        "Layer of oxygen",
+        "Layer of CFC",
+        "Greenhouse",
+        "Ozone"
+       ],
+       "answer": 3,
+       "why": "The ozone layer protects the earth from the harmful rays of the sun. It is the earth's protective layer in the atmosphere."
+      },
+      {
+       "q": "The ozone layer is present at a height of about ___ above the land surface.",
+       "options": [
+        "5 to 10 kilometres",
+        "16 to 20 kilometres",
+        "12 to 50 kilometres",
+        "100 to 200 kilometres"
+       ],
+       "answer": 2,
+       "why": "The ozone layer is at a height of 12 to 50 kilometres above the earth. It absorbs the sun's harmful ultraviolet rays in this region of the atmosphere."
+      },
+      {
+       "q": "The greenhouse effect is the process in which ___.",
+       "options": [
+        "Gases like carbon dioxide and methane hold the sun's heat on the earth",
+        "Plants make food",
+        "The ozone layer is destroyed",
+        "Rain becomes acidic"
+       ],
+       "answer": 0,
+       "why": "In the greenhouse effect, gases like carbon dioxide, methane and chlorofluorocarbon hold the sun's heat on the earth, by which the earth becomes warm and the global temperature rises."
+      },
+      {
+       "q": "Which gas is especially responsible for the greenhouse effect?",
+       "options": [
+        "Nitrogen dioxide",
+        "Methane",
+        "Sulphur dioxide",
+        "Carbon dioxide"
+       ],
+       "answer": 3,
+       "why": "Carbon dioxide is the main gas of the greenhouse effect. It comes out from the burning of fuel and holds the sun's heat on the earth."
+      },
+      {
+       "q": "If the ozone layer were not there, the ultraviolet rays would cause ___.",
+       "options": [
+        "More rain",
+        "Skin cancer and other diseases",
+        "Faster plant growth",
+        "Colder weather"
+       ],
+       "answer": 1,
+       "why": "Without the ozone layer, the harmful ultraviolet rays of the sun would reach the earth and produce skin cancer and other diseases in living things."
+      },
+      {
+       "q": "Chlorofluorocarbon (CFC) is used in ___.",
+       "options": [
+        "Refrigerators",
+        "Cars only",
+        "Fertilisers",
+        "Cement factories"
+       ],
+       "answer": 0,
+       "why": "The use of refrigerators is one of the causes of CFC release. CFC destroys the ozone layer and also takes part in the greenhouse effect."
+      },
+      {
+       "q": "Which of these gases is a greenhouse gas?",
+       "options": [
+        "Oxygen",
+        "Methane",
+        "Nitrogen",
+        "Argon"
+       ],
+       "answer": 1,
+       "why": "Methane is a greenhouse gas, along with carbon dioxide and chlorofluorocarbon. These gases hold the sun's heat on the earth."
+      },
+      {
+       "q": "Cutting of trees for ever (deforestation) increases pollution because ___.",
+       "options": [
+        "Trees produce smoke",
+        "Trees block the wind",
+        "Trees clean the air and take in carbon dioxide",
+        "Trees use more water"
+       ],
+       "answer": 2,
+       "why": "Trees take in carbon dioxide and clean the air. Cutting forests (deforestation) therefore increases pollution, while planting more trees is a way to reduce it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Chemical Reactions",
+   "lessons": [
+    {
+     "title": "Chemical Reactions and Their Signs",
+     "notes_html": "<h4>What is a Chemical Reaction?</h4>\n<p>A <b>chemical reaction</b> is the process in which one or more things (<b>reactants</b>) change and make new things (<b>products</b>) with new characteristics, and the original thing is not got back.</p>\n<p>Examples from daily life: the digestion of food, milk turning sour, rusting of iron, the burning of a matchstick, and photosynthesis.</p>\n<h4>Four Signs of a Chemical Reaction</h4>\n<ul>\n<li>Formation of a new thing with new characteristics.</li>\n<li>Absorption or release of energy (heat or light).</li>\n<li>Change in colour.</li>\n<li>Production of gas or bubbles, or the coming of a smell.</li>\n</ul>\n<p>The best sign of a chemical reaction taking place is, for example, <b>bubbles forming</b> when a metal is put in acidic water — the formation of gas is a clear sign.</p>\n<h4>A Reaction in an Equation</h4>\n<p>Burning of methane: CH<sub>4</sub> + 2O<sub>2</sub> → CO<sub>2</sub> + 2H<sub>2</sub>O — the products obtained are <b>carbon dioxide and water</b>.</p>\n<p>Leaves changing colour in autumn is a chemical reaction, because new materials are formed in the leaves.</p>",
+     "mcqs": [
+      {
+       "q": "A chemical reaction is a process in which ___.",
+       "options": [
+        "Only the shape of a thing changes",
+        "A thing melts and comes back",
+        "Things mix and separate easily",
+        "Reactants change and make new products with new characteristics"
+       ],
+       "answer": 3,
+       "why": "In a chemical reaction, one or more reactants change and make new products with new characteristics, and the original thing is not got back — like rusting of iron or digestion of food."
+      },
+      {
+       "q": "Which of these is an example of a chemical reaction?",
+       "options": [
+        "Melting of ice",
+        "Grinding a stone",
+        "Digestion of food",
+        "Mixing sugar in water"
+       ],
+       "answer": 2,
+       "why": "In digestion, food breaks and makes new materials which are absorbed in the body, so it is a chemical reaction. Melting, grinding and dissolving are physical changes."
+      },
+      {
+       "q": "The four signs that show a chemical reaction are ___.",
+       "options": [
+        "New thing formed, energy absorbed or released, colour change, gas or smell produced",
+        "Only size and shape change",
+        "Only temperature change",
+        "Only change of state"
+       ],
+       "answer": 0,
+       "why": "A chemical reaction is shown by: (1) formation of a new thing with new characteristics, (2) absorption or release of energy, (3) change in colour, (4) production of gas or bubbles, or the coming of a smell."
+      },
+      {
+       "q": "What is the best sign of a chemical reaction taking place?",
+       "options": [
+        "Blue colour changing water to blue",
+        "A white thing dissolving in water",
+        "Ice melting in a glass",
+        "Bubbles forming when a metal is put in acidic water"
+       ],
+       "answer": 3,
+       "why": "The formation of gas or bubbles is a clear sign of a chemical reaction. Bubbles forming when a metal is put in acidic water show that a new gas is being produced."
+      },
+      {
+       "q": "In the reaction CH4 + 2O2 → CO2 + 2H2O, the products obtained are ___.",
+       "options": [
+        "Carbon monoxide and hydroxide",
+        "Carbon dioxide and water",
+        "Salt and vinegar",
+        "Oxygen and hydrogen"
+       ],
+       "answer": 1,
+       "why": "By the burning of methane, carbon dioxide and water are obtained. The things on the right side of the arrow are the products of the reaction."
+      },
+      {
+       "q": "Leaves changing colour in autumn is a chemical reaction because ___.",
+       "options": [
+        "New materials are formed in the leaves",
+        "The leaves fall down",
+        "The weather becomes cold",
+        "The leaves become dry"
+       ],
+       "answer": 0,
+       "why": "In the changing of the colour of leaves, new materials are formed, so this is a chemical reaction — not just a change of shape or state."
+      },
+      {
+       "q": "In a chemical reaction, the starting things are called ___ and the new things made are called ___.",
+       "options": [
+        "Products; reactants",
+        "Reactants; products",
+        "Mixtures; solutions",
+        "Elements; compounds"
+       ],
+       "answer": 1,
+       "why": "The things that take part in the reaction are the reactants, and the new things formed with new characteristics are the products."
+      },
+      {
+       "q": "Which of these is NOT a sign of a chemical reaction?",
+       "options": [
+        "Production of gas or bubbles",
+        "Change in colour",
+        "Change only in size and shape",
+        "Release of heat or light"
+       ],
+       "answer": 2,
+       "why": "A change only in size and shape is a physical change. A chemical reaction shows a new thing formed, energy absorbed or released, colour change, or gas/smell produced."
+      },
+      {
+       "q": "Photosynthesis is a chemical reaction because ___.",
+       "options": [
+        "Leaves only change colour",
+        "Water evaporates from leaves",
+        "The plant grows taller",
+        "Glucose (a new material) is formed from carbon dioxide and water"
+       ],
+       "answer": 3,
+       "why": "In photosynthesis, carbon dioxide and water change into glucose and oxygen — new materials are formed, so it is a chemical reaction: 6CO2 + 6H2O + sunlight → C6H12O6 + 6O2."
+      },
+      {
+       "q": "Rusting of iron is a chemical change because ___.",
+       "options": [
+        "Iron becomes heavy",
+        "Iron changes its place",
+        "Rust is a new material formed by the combination of iron and oxygen",
+        "Iron becomes shiny"
+       ],
+       "answer": 2,
+       "why": "Rust is a new material which is formed by the combination of iron and oxygen. Once rusted, the original iron is not got back, so it is a chemical change."
+      }
+     ]
+    },
+    {
+     "title": "Physical and Chemical Changes",
+     "notes_html": "<h4>Physical Change and Chemical Change</h4>\n<p>In a <b>physical change</b>, only the size, shape or state of a thing changes; its chemical characteristics stay the same and no new material is formed. In a <b>chemical change</b>, new materials are formed and the thing does not come back to its original state.</p>\n<table>\n<tr><th>Example</th><th>Physical (P) or Chemical (C)?</th><th>Reason</th></tr>\n<tr><td>A lock rusting</td><td>C</td><td>Rust is a new material (iron + oxygen)</td></tr>\n<tr><td>Melting of ice</td><td>P</td><td>Ice becomes water; the chemical characteristic of water stays the same</td></tr>\n<tr><td>Milk turning sour</td><td>C</td><td>New materials are formed; milk does not come back</td></tr>\n<tr><td>Digestion of food</td><td>C</td><td>Food breaks and makes new materials</td></tr>\n<tr><td>Meat rotting in sunlight</td><td>C</td><td>New smelly materials are formed</td></tr>\n<tr><td>Making a design on copper</td><td>P</td><td>Only the shape of the copper changes</td></tr>\n<tr><td>Mixing sugar in water</td><td>P</td><td>Sugar dissolves; no new material is formed</td></tr>\n<tr><td>Grinding a stone into powder</td><td>P</td><td>Only size and shape change</td></tr>\n<tr><td>Burning of a matchstick</td><td>C</td><td>New materials (ash, gases) are formed; the matchstick is not got back</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "Melting of ice is a ___ change.",
+       "options": [
+        "Physical",
+        "Chemical",
+        "Biological",
+        "Nuclear"
+       ],
+       "answer": 0,
+       "why": "Melting of ice is a physical change. Ice melts and becomes water, but the chemical characteristic of water stays the same."
+      },
+      {
+       "q": "Milk turning sour is a ___ change.",
+       "options": [
+        "Physical",
+        "Reversible",
+        "State",
+        "Chemical"
+       ],
+       "answer": 3,
+       "why": "Milk turning sour is a chemical change. New materials are formed in the milk and the milk does not come back to its original state."
+      },
+      {
+       "q": "Making a design on a piece of copper is a ___ change.",
+       "options": [
+        "Chemical",
+        "Physical",
+        "Permanent chemical",
+        "Reaction"
+       ],
+       "answer": 1,
+       "why": "By making a design, the shape of the copper changes but its chemical characteristic stays the same, so it is a physical change."
+      },
+      {
+       "q": "Grinding a stone into powder is a physical change because ___.",
+       "options": [
+        "Only its size and shape change",
+        "A new material is formed",
+        "Gas is produced",
+        "Its colour changes forever"
+       ],
+       "answer": 0,
+       "why": "By grinding a stone into powder, only its size and shape change. No new material is formed, so it is a physical change."
+      },
+      {
+       "q": "Burning of a matchstick is a chemical change because ___.",
+       "options": [
+        "It gives light only",
+        "New materials (ash, gases) are formed and the matchstick is not got back",
+        "It becomes smaller",
+        "It changes colour only"
+       ],
+       "answer": 1,
+       "why": "By burning, new materials (ash, gases) are formed and the matchstick is not got back. This is the mark of a chemical change."
+      },
+      {
+       "q": "Mixing sugar in water is a ___ change.",
+       "options": [
+        "Chemical",
+        "Exothermic reaction",
+        "Physical",
+        "Decomposition"
+       ],
+       "answer": 2,
+       "why": "Sugar dissolves in water but no new material is formed, so mixing sugar in water is a physical change."
+      },
+      {
+       "q": "Meat kept in sunlight rotting is a chemical change because ___.",
+       "options": [
+        "It becomes cold",
+        "It changes place",
+        "It loses water only",
+        "New smelly materials are formed and it does not come back to its original state"
+       ],
+       "answer": 3,
+       "why": "When meat rots, new smelly materials are formed in it and the meat does not come back to its original state — a chemical change."
+      },
+      {
+       "q": "Digestion of food is a chemical change because ___.",
+       "options": [
+        "Food is chewed into small pieces",
+        "Food reaches the stomach",
+        "Food breaks and makes new materials which are absorbed in the body",
+        "Food changes colour"
+       ],
+       "answer": 2,
+       "why": "In digestion, food breaks and makes new materials which are absorbed in the body. The formation of new materials makes it a chemical change."
+      },
+      {
+       "q": "A lock rusting is a ___ change.",
+       "options": [
+        "Chemical",
+        "Physical",
+        "Temporary",
+        "State"
+       ],
+       "answer": 0,
+       "why": "Rusting is a chemical change. Rust is a new material which is formed by the combination of iron and oxygen."
+      },
+      {
+       "q": "In a physical change, the ___ of a thing stays the same.",
+       "options": [
+        "Shape",
+        "Size",
+        "State",
+        "Chemical characteristics"
+       ],
+       "answer": 3,
+       "why": "In a physical change only size, shape or state may change, but the chemical characteristics of the thing stay the same and no new material is formed."
+      }
+     ]
+    },
+    {
+     "title": "Balancing Chemical Equations",
+     "notes_html": "<h4>Balancing Chemical Equations</h4>\n<p>An equation is balanced when the number of atoms of every element is the same on both sides. The book's balanced equations:</p>\n<table>\n<tr><th>Unbalanced</th><th>Balanced</th></tr>\n<tr><td>S<sub>8</sub> + O<sub>2</sub> → SO<sub>2</sub></td><td>S<sub>8</sub> + 8O<sub>2</sub> → 8SO<sub>2</sub></td></tr>\n<tr><td>C<sub>2</sub>H<sub>6</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O</td><td>2C<sub>2</sub>H<sub>6</sub> + 7O<sub>2</sub> → 4CO<sub>2</sub> + 6H<sub>2</sub>O</td></tr>\n<tr><td>P<sub>4</sub> + O<sub>2</sub> → P<sub>2</sub>O<sub>5</sub></td><td>P<sub>4</sub> + 5O<sub>2</sub> → 2P<sub>2</sub>O<sub>5</sub></td></tr>\n<tr><td>Ag + S<sub>8</sub> → Ag<sub>2</sub>S</td><td>16Ag + S<sub>8</sub> → 8Ag<sub>2</sub>S</td></tr>\n<tr><td>Al + Br<sub>2</sub> → AlBr<sub>3</sub></td><td>2Al + 3Br<sub>2</sub> → 2AlBr<sub>3</sub></td></tr>\n<tr><td>Cr + O<sub>2</sub> → Cr<sub>2</sub>O<sub>3</sub></td><td>4Cr + 3O<sub>2</sub> → 2Cr<sub>2</sub>O<sub>3</sub></td></tr>\n<tr><td>NaClO<sub>3</sub> → NaCl + O<sub>2</sub></td><td>2NaClO<sub>3</sub> → 2NaCl + 3O<sub>2</sub></td></tr>\n<tr><td>AlBr<sub>3</sub> + Cl<sub>2</sub> → AlCl<sub>3</sub> + Br<sub>2</sub></td><td>2AlBr<sub>3</sub> + 3Cl<sub>2</sub> → 2AlCl<sub>3</sub> + 3Br<sub>2</sub></td></tr>\n</table>\n<h4>Word Equations Written as Balanced Equations</h4>\n<ul>\n<li>Photosynthesis: 6CO<sub>2</sub> + 6H<sub>2</sub>O + sunlight → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub></li>\n<li>Carbon monoxide and oxygen: 2CO + O<sub>2</sub> → 2CO<sub>2</sub></li>\n<li>Zinc and hydrochloric acid: Zn + 2HCl → ZnCl<sub>2</sub> + H<sub>2</sub></li>\n<li>HCl and sodium hydroxide: HCl + NaOH → NaCl + H<sub>2</sub>O</li>\n<li>Decomposition of potassium chlorate: 2KClO<sub>3</sub> → 2KCl + 3O<sub>2</sub></li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The balanced equation for S8 + O2 → SO2 is ___.",
+       "options": [
+        "S8 + O2 → 8SO2",
+        "S8 + 8O2 → 8SO2",
+        "2S8 + O2 → SO2",
+        "S8 + 4O2 → 4SO2"
+       ],
+       "answer": 1,
+       "why": "S8 + 8O2 → 8SO2. There are 8 sulphur atoms on the left, so 8 molecules of SO2 are needed on the right, which need 16 oxygen atoms = 8O2."
+      },
+      {
+       "q": "The balanced equation for P4 + O2 → P2O5 is ___.",
+       "options": [
+        "P4 + 5O2 → 2P2O5",
+        "P4 + 2O2 → P2O5",
+        "2P4 + O2 → P2O5",
+        "P4 + 3O2 → 2P2O5"
+       ],
+       "answer": 0,
+       "why": "P4 + 5O2 → 2P2O5. Two molecules of P2O5 contain 4 phosphorus and 10 oxygen atoms, so 5O2 is needed on the left."
+      },
+      {
+       "q": "The balanced equation for Al + Br2 → AlBr3 is ___.",
+       "options": [
+        "Al + Br2 → AlBr3",
+        "2Al + 3Br2 → 2AlBr3",
+        "2Al + Br2 → 2AlBr3",
+        "Al + 3Br2 → AlBr3"
+       ],
+       "answer": 1,
+       "why": "2Al + 3Br2 → 2AlBr3. Two AlBr3 need 2 aluminium and 6 bromine atoms, which come from 2Al and 3Br2."
+      },
+      {
+       "q": "The balanced equation for the decomposition of NaClO3 is ___.",
+       "options": [
+        "NaClO3 → NaCl + O2",
+        "2NaClO3 → NaCl + 3O2",
+        "2NaClO3 → 2NaCl + 3O2",
+        "NaClO3 → 2NaCl + O2"
+       ],
+       "answer": 2,
+       "why": "2NaClO3 → 2NaCl + 3O2. Two formula units of NaClO3 give 6 oxygen atoms, which make 3O2 on the right side."
+      },
+      {
+       "q": "Zinc and hydrochloric acid react as ___.",
+       "options": [
+        "Zn + HCl → ZnCl + H",
+        "Zn + 2HCl → ZnCl2 + H2O",
+        "2Zn + HCl → ZnCl2 + H2",
+        "Zn + 2HCl → ZnCl2 + H2"
+       ],
+       "answer": 3,
+       "why": "Zn + 2HCl → ZnCl2 + H2. Zinc chloride and hydrogen gas are formed; the bubbles of hydrogen are a sign of the reaction."
+      },
+      {
+       "q": "Hydrochloric acid and sodium hydroxide react as ___.",
+       "options": [
+        "HCl + NaOH → NaCl + H2",
+        "2HCl + NaOH → NaCl + O2",
+        "HCl + NaOH → NaCl + H2O",
+        "HCl + NaOH → NaOH + Cl2"
+       ],
+       "answer": 2,
+       "why": "HCl + NaOH → NaCl + H2O. An acid and a base make a salt and water; the equation is already balanced."
+      },
+      {
+       "q": "The balanced equation of photosynthesis is ___.",
+       "options": [
+        "6CO2 + 6H2O + sunlight → C6H12O6 + 6O2",
+        "CO2 + H2O → C6H12O6 + O2",
+        "6CO2 + H2O → C6H12O6 + O2",
+        "CO2 + 6H2O → C6H12O6 + 6O2"
+       ],
+       "answer": 0,
+       "why": "6CO2 + 6H2O + sunlight → C6H12O6 + 6O2. Six molecules each of carbon dioxide and water make one glucose molecule and six oxygen molecules."
+      },
+      {
+       "q": "Carbon monoxide and oxygen react as ___.",
+       "options": [
+        "CO + O2 → CO2",
+        "CO + 2O2 → 2CO2",
+        "2CO + 2O2 → CO2",
+        "2CO + O2 → 2CO2"
+       ],
+       "answer": 3,
+       "why": "2CO + O2 → 2CO2. Two molecules of carbon monoxide take one molecule of oxygen to make two molecules of carbon dioxide."
+      },
+      {
+       "q": "The balanced equation for Ag + S8 → Ag2S is ___.",
+       "options": [
+        "Ag + S8 → Ag2S",
+        "16Ag + S8 → 8Ag2S",
+        "8Ag + S8 → Ag2S",
+        "2Ag + S8 → 8Ag2S"
+       ],
+       "answer": 1,
+       "why": "16Ag + S8 → 8Ag2S. Eight molecules of Ag2S need 16 silver atoms and 8 sulphur atoms, and S8 already has 8 sulphur atoms."
+      },
+      {
+       "q": "The balanced equation for Cr + O2 → Cr2O3 is ___.",
+       "options": [
+        "4Cr + 3O2 → 2Cr2O3",
+        "Cr + O2 → Cr2O3",
+        "2Cr + 3O2 → Cr2O3",
+        "4Cr + O2 → 2Cr2O3"
+       ],
+       "answer": 0,
+       "why": "4Cr + 3O2 → 2Cr2O3. Two molecules of Cr2O3 contain 4 chromium and 6 oxygen atoms, so 4Cr and 3O2 are needed."
+      },
+      {
+       "q": "The decomposition of potassium chlorate is written as ___.",
+       "options": [
+        "KClO3 → KCl + O2",
+        "2KClO3 → 2KCl + 3O2",
+        "KClO3 → 2KCl + 3O2",
+        "2KClO3 → KCl + 3O2"
+       ],
+       "answer": 1,
+       "why": "2KClO3 → 2KCl + 3O2. On heating, potassium chlorate decomposes into potassium chloride and oxygen gas."
+      },
+      {
+       "q": "The balanced equation for C2H6 + O2 → CO2 + H2O is ___.",
+       "options": [
+        "C2H6 + O2 → 2CO2 + 3H2O",
+        "C2H6 + 7O2 → 4CO2 + 6H2O",
+        "2C2H6 + 7O2 → 4CO2 + 6H2O",
+        "2C2H6 + 5O2 → 4CO2 + 6H2O"
+       ],
+       "answer": 2,
+       "why": "2C2H6 + 7O2 → 4CO2 + 6H2O. Two molecules of ethane give 4 carbon and 12 hydrogen atoms, needing 14 oxygen atoms = 7O2."
+      },
+      {
+       "q": "The balanced equation for AlBr3 + Cl2 → AlCl3 + Br2 is ___.",
+       "options": [
+        "AlBr3 + Cl2 → AlCl3 + Br2",
+        "2AlBr3 + 2Cl2 → 2AlCl3 + Br2",
+        "AlBr3 + 3Cl2 → AlCl3 + 3Br2",
+        "2AlBr3 + 3Cl2 → 2AlCl3 + 3Br2"
+       ],
+       "answer": 3,
+       "why": "2AlBr3 + 3Cl2 → 2AlCl3 + 3Br2. The 6 bromine atoms on the left make 3Br2, and the 6 chlorine atoms from 3Cl2 make 2AlCl3."
+      },
+      {
+       "q": "An equation is balanced when ___.",
+       "options": [
+        "Both sides look equal in length",
+        "There is only one product",
+        "The number of atoms of every element is the same on both sides",
+        "No gas is formed"
+       ],
+       "answer": 2,
+       "why": "An equation is balanced when the number of atoms of every element is equal on the left side (reactants) and the right side (products). We change only the big numbers (coefficients), never the small numbers in the formulas."
+      },
+      {
+       "q": "In the balanced equation 2H2 + O2 → 2H2O, the products are ___.",
+       "options": [
+        "Water",
+        "Hydrogen and oxygen",
+        "Only oxygen",
+        "Hydrogen peroxide"
+       ],
+       "answer": 0,
+       "why": "The product is water (2H2O). Hydrogen and oxygen are the reactants on the left side of the arrow."
+      }
+     ]
+    },
+    {
+     "title": "Types of Chemical Reactions — Exothermic, Endothermic, Addition and Decomposition",
+     "notes_html": "<h4>Exothermic and Endothermic Processes</h4>\n<table>\n<tr><th>Exothermic process</th><th>Endothermic process</th></tr>\n<tr><td>Heat comes out (is released)</td><td>Heat is absorbed</td></tr>\n<tr><td>Examples: burning of fuel, breathing (respiration)</td><td>Examples: decomposition of mercury oxide, photosynthesis</td></tr>\n<tr><td>2H<sub>2</sub> + O<sub>2</sub> → 2H<sub>2</sub>O + heat</td><td>2HgO + heat → 2Hg + O<sub>2</sub></td></tr>\n</table>\n<p><b>Importance of exothermic processes:</b> they give us heat and energy — the burning of fuel gives heat for cooking food, warming houses and running engines; from breathing (respiration) the body gets energy with which we can work.</p>\n<h4>Addition and Decomposition Reactions</h4>\n<table>\n<tr><th>Addition (synthesis) reaction</th><th>Decomposition reaction</th></tr>\n<tr><td>Two or more things join and make one compound</td><td>One compound breaks and makes two or more things</td></tr>\n<tr><td>2Na + Cl<sub>2</sub> → 2NaCl</td><td>2H<sub>2</sub>O → 2H<sub>2</sub> + O<sub>2</sub></td></tr>\n<tr><td>C + O<sub>2</sub> → CO<sub>2</sub></td><td>2KClO<sub>3</sub> → 2KCl + 3O<sub>2</sub></td></tr>\n<tr><td>Hydrogen and oxygen joining to make water: 2H<sub>2</sub> + O<sub>2</sub> → 2H<sub>2</sub>O</td><td>Carbon dioxide breaking into carbon and oxygen is decomposition, not synthesis</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "An exothermic process is one in which ___.",
+       "options": [
+        "Heat is absorbed",
+        "No energy change happens",
+        "Only light is absorbed",
+        "Heat comes out"
+       ],
+       "answer": 3,
+       "why": "In an exothermic process heat comes out, like the burning of fuel and breathing: 2H2 + O2 → 2H2O + heat."
+      },
+      {
+       "q": "An endothermic process is one in which ___.",
+       "options": [
+        "Heat is released",
+        "Heat is absorbed",
+        "Gas is always formed",
+        "Colour always changes"
+       ],
+       "answer": 1,
+       "why": "In an endothermic process heat is absorbed, like the decomposition of mercury oxide: 2HgO + heat → 2Hg + O2, and photosynthesis."
+      },
+      {
+       "q": "Photosynthesis is an example of an ___ process.",
+       "options": [
+        "Endothermic",
+        "Exothermic",
+        "Physical",
+        "Neutral"
+       ],
+       "answer": 0,
+       "why": "Photosynthesis absorbs energy (sunlight/heat) to make glucose, so it is an endothermic process."
+      },
+      {
+       "q": "A synthesis (addition) reaction is an example of ___.",
+       "options": [
+        "Carbon dioxide breaking into carbon and oxygen",
+        "Hydrogen and oxygen joining to make water",
+        "Zn + 2HCl → ZnCl2 + H2",
+        "Water breaking into hydrogen and oxygen"
+       ],
+       "answer": 1,
+       "why": "In a synthesis reaction, two or more things join and make one new compound: 2H2 + O2 → 2H2O. Hydrogen and oxygen joining to make water is the example."
+      },
+      {
+       "q": "2KClO3 → 2KCl + 3O2 is an example of a ___ reaction.",
+       "options": [
+        "Addition",
+        "Synthesis",
+        "Decomposition",
+        "Physical"
+       ],
+       "answer": 2,
+       "why": "One compound (potassium chlorate) breaks and makes two things (potassium chloride and oxygen), so it is a decomposition reaction."
+      },
+      {
+       "q": "C + O2 → CO2 is an example of a ___ reaction.",
+       "options": [
+        "Decomposition",
+        "Displacement",
+        "Neutralisation",
+        "Addition"
+       ],
+       "answer": 3,
+       "why": "Two things (carbon and oxygen) join and make one compound (carbon dioxide), so it is an addition reaction."
+      },
+      {
+       "q": "The importance of exothermic processes is that they ___.",
+       "options": [
+        "Cool our houses",
+        "Make plants grow",
+        "Give us heat and energy for cooking, warming houses, running engines and body work",
+        "Produce oxygen only"
+       ],
+       "answer": 2,
+       "why": "Exothermic processes give us heat and energy: burning of fuel gives heat for cooking food, warming houses and running engines, and from respiration the body gets energy to work."
+      },
+      {
+       "q": "Breathing (respiration) is an ___ process.",
+       "options": [
+        "Exothermic",
+        "Endothermic",
+        "Physical",
+        "Decomposition"
+       ],
+       "answer": 0,
+       "why": "Breathing (respiration) is exothermic: it releases energy, and from this energy the body can work — like the burning of fuel releases heat."
+      },
+      {
+       "q": "In a decomposition reaction, ___.",
+       "options": [
+        "Two things join into one",
+        "Nothing changes",
+        "Only the state changes",
+        "One compound breaks into two or more things"
+       ],
+       "answer": 3,
+       "why": "In a decomposition reaction one compound breaks and makes two or more things, like 2H2O → 2H2 + O2."
+      },
+      {
+       "q": "The decomposition of mercury oxide is written as ___.",
+       "options": [
+        "HgO → Hg + O",
+        "2HgO + heat → 2Hg + O2",
+        "Hg + O2 → HgO",
+        "2HgO → Hg + H2O"
+       ],
+       "answer": 1,
+       "why": "2HgO + heat → 2Hg + O2. Heat is written on the left side because this decomposition absorbs heat — it is endothermic."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Acids, Bases and Salts",
+   "lessons": [
+    {
+     "title": "Indicators and the pH Scale",
+     "notes_html": "<h4>Indicators — Testing Acids and Bases</h4>\n<p><b>Indicators</b> are substances that change colour in acids and bases, so we can identify them. <b>Litmus paper</b> is the most useful for testing an acidic or basic thing: it turns <b>red in acid</b> and <b>blue in base</b>.</p>\n<table>\n<tr><th>Indicator</th><th>In acid (HCl)</th><th>In base (NaOH)</th><th>In salt (NaCl)</th></tr>\n<tr><td>Phenolphthalein</td><td>Stays colourless</td><td>Turns pink</td><td>Stays colourless</td></tr>\n<tr><td>Methyl orange</td><td>Orange</td><td>Yellow</td><td>—</td></tr>\n<tr><td>Litmus</td><td>Red</td><td>Blue</td><td>No change (neutral)</td></tr>\n</table>\n<p><i>Activity from the book:</i> three unlabelled beakers contain HCl, NaOH and NaCl. The beaker in which phenolphthalein turns pink is NaOH; the one in which methyl orange turns orange is HCl; the remaining neutral salt is NaCl.</p>\n<h4>The pH of Some Things</h4>\n<table>\n<tr><th>Thing</th><th>pH</th><th>Nature</th></tr>\n<tr><td>Orange juice</td><td>4</td><td>Acidic (most acidic of the four)</td></tr>\n<tr><td>Milk</td><td>6.5</td><td>Slightly acidic (a little less than 7)</td></tr>\n<tr><td>Blood</td><td>7.3</td><td>Near neutral (nearest to 7)</td></tr>\n<tr><td>Ammonia</td><td>11</td><td>Most basic (highest pH)</td></tr>\n</table>\n<p>Order from <b>less to more acidic</b> (pH from large to small): ammonia (11), blood (7.3), milk (6.5), orange juice (4).</p>",
+     "mcqs": [
+      {
+       "q": "Phenolphthalein turns pink in ___.",
+       "options": [
+        "Base (NaOH)",
+        "Acid (HCl)",
+        "Salt (NaCl)",
+        "Distilled water"
+       ],
+       "answer": 0,
+       "why": "Phenolphthalein stays colourless in acid and in salt, but turns pink in a base. So the beaker in which it turns pink contains NaOH."
+      },
+      {
+       "q": "Litmus paper turns ___ in an acid and ___ in a base.",
+       "options": [
+        "Blue; red",
+        "Red; blue",
+        "Pink; yellow",
+        "Orange; yellow"
+       ],
+       "answer": 1,
+       "why": "Litmus turns red in acid and blue in base. That is why litmus paper is most useful for testing whether a thing is acidic or basic."
+      },
+      {
+       "q": "Methyl orange is ___ in acid and ___ in base.",
+       "options": [
+        "Yellow; orange",
+        "Red; blue",
+        "Orange; yellow",
+        "Colourless; pink"
+       ],
+       "answer": 2,
+       "why": "Methyl orange is orange in acid and yellow in base. Together with phenolphthalein, it helps identify the unlabelled beakers of HCl, NaOH and NaCl."
+      },
+      {
+       "q": "The pH of milk is 6.5, so milk is ___.",
+       "options": [
+        "Slightly basic",
+        "Strongly basic",
+        "Strongly acidic",
+        "Slightly acidic"
+       ],
+       "answer": 3,
+       "why": "The pH of milk is 6.5, which is a little less than 7 (neutral), so milk is slightly acidic."
+      },
+      {
+       "q": "Which list is in order from less to more acidic?",
+       "options": [
+        "Orange juice, milk, blood, ammonia",
+        "Ammonia, milk, blood, orange juice",
+        "Ammonia, blood, milk, orange juice",
+        "Blood, ammonia, milk, orange juice"
+       ],
+       "answer": 2,
+       "why": "From less to more acidic, the pH goes from large to small: ammonia 11, blood 7.3, milk 6.5, orange juice 4. Orange juice is the most acidic of the four."
+      },
+      {
+       "q": "Which thing is the most basic?",
+       "options": [
+        "Ammonia",
+        "Blood",
+        "Orange juice",
+        "Milk"
+       ],
+       "answer": 0,
+       "why": "The pH of ammonia is 11, which is the highest of the four, so ammonia is the most basic."
+      },
+      {
+       "q": "Which thing's pH is near neutral?",
+       "options": [
+        "Milk",
+        "Ammonia",
+        "Orange juice",
+        "Blood"
+       ],
+       "answer": 3,
+       "why": "The pH of blood is 7.3, which is nearest to the neutral value 7. Milk (6.5) is slightly acidic and ammonia (11) is basic."
+      },
+      {
+       "q": "Which can be most useful for testing an acidic or basic thing?",
+       "options": [
+        "Filter paper",
+        "Litmus paper",
+        "Thermometer",
+        "Electric balance"
+       ],
+       "answer": 1,
+       "why": "Litmus paper turns red in acid and blue in base, so an acidic or basic thing can be tested with it. A thermometer measures temperature, not acidity."
+      },
+      {
+       "q": "In the book's activity, the beaker in which phenolphthalein turns pink contains ___.",
+       "options": [
+        "NaOH",
+        "HCl",
+        "NaCl",
+        "Water"
+       ],
+       "answer": 0,
+       "why": "Phenolphthalein turns pink only in a base, so that beaker contains NaOH. The beaker where methyl orange turns orange is HCl, and the remaining neutral salt is NaCl."
+      },
+      {
+       "q": "Orange juice has pH 4. This shows that orange juice is ___.",
+       "options": [
+        "Neutral",
+        "Acidic — the most acidic of blood, milk, ammonia and orange juice",
+        "Basic",
+        "Slightly basic"
+       ],
+       "answer": 1,
+       "why": "A pH of 4 is well below 7, so orange juice is acidic. Among blood (7.3), milk (6.5), ammonia (11) and orange juice (4), it is the most acidic."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Force and Pressure",
+   "lessons": [
+    {
+     "title": "Force and Pressure",
+     "notes_html": "<h4>Force</h4>\n<p>A force has both <b>magnitude and direction</b>.</p>\n<h4>Pressure</h4>\n<p><b>Pressure = force ÷ area</b>. The international (SI) unit of pressure is the <b>pascal (Pa)</b>, also written as newtons per square metre (N/m²).</p>\n<ul>\n<li>Pressure increases when the area of the surface <b>decreases</b> (with the same force).</li>\n<li>Example from the book: a rectangular piece of wood placed in three ways — the pressure is greatest when the side touching the table is the smallest.</li>\n</ul>\n<h4>Worked Examples (from the book)</h4>\n<ul>\n<li>Aquarium: weight of water = 10000 N, bottom area = 1.6 m². Pressure = 10000 ÷ 1.6 = <b>6250 Pa</b>.</li>\n<li>Palm: pressure 101200 Pa, area 0.006 m². Force = pressure × area = 101200 × 0.006 = <b>607 N</b>.</li>\n<li>A force of 300 N produces a pressure of 4 N/m². Area = force ÷ pressure = 300 ÷ 4 = <b>75 m²</b>.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Force has ___.",
+       "options": [
+        "Magnitude only",
+        "Direction only",
+        "Magnitude and direction",
+        "Neither"
+       ],
+       "answer": 2,
+       "why": "Force has both magnitude and direction. Both are needed to describe a force completely."
+      },
+      {
+       "q": "The unit of pressure in the international standard is the ___.",
+       "options": [
+        "Joule",
+        "Kilogram per square metre",
+        "Newton",
+        "Pascal"
+       ],
+       "answer": 3,
+       "why": "The international unit of pressure is the pascal (Pa). Pressure is force divided by area, so it is also written as newtons per square metre."
+      },
+      {
+       "q": "Pressure increases when ___.",
+       "options": [
+        "The area of the surface increases",
+        "The magnitude of the force decreases",
+        "The area of the surface decreases",
+        "The area stays the same and force decreases"
+       ],
+       "answer": 2,
+       "why": "Pressure = force ÷ area, so when the area decreases, the pressure increases. A piece of wood presses most where its smallest side touches the table."
+      },
+      {
+       "q": "A large aquarium has water weighing 10000 N and a bottom area of 1.6 m². The pressure on the bottom is ___.",
+       "options": [
+        "6250 Pa",
+        "16000 Pa",
+        "625 Pa",
+        "10000 Pa"
+       ],
+       "answer": 0,
+       "why": "Pressure = force ÷ area = 10000 ÷ 1.6 = 6250 pascals."
+      },
+      {
+       "q": "If the pressure is 101200 Pa and the area of your palm is 0.006 m², the force on your hand is about ___.",
+       "options": [
+        "60.7 N",
+        "6072 N",
+        "6.07 N",
+        "607 N"
+       ],
+       "answer": 3,
+       "why": "Force = pressure × area = 101200 × 0.006 = 607.2 ≈ 607 newtons. The air presses on our hand with this large force all the time."
+      },
+      {
+       "q": "A force of 300 N produces a pressure of 4 N/m². The area is ___.",
+       "options": [
+        "1200 m²",
+        "75 m²",
+        "304 m²",
+        "0.013 m²"
+       ],
+       "answer": 1,
+       "why": "Area = force ÷ pressure = 300 ÷ 4 = 75 square metres."
+      },
+      {
+       "q": "A force of 46 N is applied on a piston of area 0.5 m². The pressure inside the cylinder is ___.",
+       "options": [
+        "92 N/m²",
+        "23 N/m²",
+        "46 N/m²",
+        "0.011 N/m²"
+       ],
+       "answer": 0,
+       "why": "Pressure = force ÷ area = 46 ÷ 0.5 = 92 newtons per square metre."
+      },
+      {
+       "q": "The formula for pressure is ___.",
+       "options": [
+        "Pressure = force × area",
+        "Pressure = force ÷ area",
+        "Pressure = area ÷ force",
+        "Pressure = force + area"
+       ],
+       "answer": 1,
+       "why": "Pressure = force ÷ area. That is why the same force on a smaller area produces greater pressure."
+      },
+      {
+       "q": "A rectangular piece of wood is placed on a table in three ways. Its pressure on the table is greatest when ___.",
+       "options": [
+        "The largest side touches the table",
+        "It stands on its longest edge only",
+        "The side touching the table is the smallest",
+        "The pressure stays the same in all three ways"
+       ],
+       "answer": 2,
+       "why": "At the position where the side of the piece of wood touching the table is the smallest, the area is least, so with the same weight the pressure becomes the greatest."
+      },
+      {
+       "q": "Pressure is measured in pascals, which is the same as ___.",
+       "options": [
+        "Kilograms per metre",
+        "Joules per second",
+        "Metres per second",
+        "Newtons per square metre"
+       ],
+       "answer": 3,
+       "why": "One pascal is one newton per square metre (N/m²), because pressure is force (newtons) divided by area (square metres)."
+      }
+     ]
+    },
+    {
+     "title": "Pressure in Liquids and Pascal's Law",
+     "notes_html": "<h4>Pressure in Liquids</h4>\n<ul>\n<li>The pressure in water <b>increases with depth</b> — the deeper we go, the more the pressure.</li>\n<li><b>Pascal's law:</b> the pressure applied on a closed liquid is transferred equally to every part of the liquid and to the walls of the container. That is why we say pressure in water is transferred equally.</li>\n<li>In a hydraulic power system, <b>any incompressible liquid</b> is used — a liquid which does not compress on being pressed; generally oil.</li>\n</ul>\n<h4>Use of Pascal's Law</h4>\n<p>Example: the <b>braking system of a car</b> and the <b>hydraulic jack</b> — the small force applied on the brake pedal changes through the liquid into a large force which can stop the car or lift a heavy thing up.</p>",
+     "mcqs": [
+      {
+       "q": "Pressure in water is transferred equally. This rule is called ___.",
+       "options": [
+        "Archimedes' principle",
+        "Bernoulli's principle",
+        "Pascal's law",
+        "Le Chatelier's principle"
+       ],
+       "answer": 2,
+       "why": "According to Pascal's law, the pressure applied on a liquid is transferred equally in all directions to every part of the liquid and the walls of the container."
+      },
+      {
+       "q": "The quantity of pressure in water increases because of ___.",
+       "options": [
+        "Depth",
+        "Volume",
+        "Base area",
+        "Mass"
+       ],
+       "answer": 0,
+       "why": "The deeper we go in water, the more the pressure increases — that is, pressure in a liquid increases with depth."
+      },
+      {
+       "q": "Which liquid is used in a hydraulic power system?",
+       "options": [
+        "Water only",
+        "Oil only",
+        "Mercury only",
+        "Any incompressible liquid"
+       ],
+       "answer": 3,
+       "why": "In a hydraulic system, a liquid is used which does not compress on being pressed — generally oil. Any incompressible liquid can be used."
+      },
+      {
+       "q": "Pascal's law states that pressure applied on a closed liquid is ___.",
+       "options": [
+        "Lost at the walls",
+        "Transferred equally to every part of the liquid and the walls of the container",
+        "Doubled at the bottom",
+        "Changed into heat"
+       ],
+       "answer": 1,
+       "why": "Pascal's law: the pressure applied on a closed liquid is transferred equally to every part of the liquid and to the walls of the container. This is the working rule of hydraulic machines."
+      },
+      {
+       "q": "An example of the use of Pascal's law is ___.",
+       "options": [
+        "The braking system of a car and the hydraulic jack",
+        "A mercury thermometer",
+        "A balloon in hot water",
+        "A bimetallic strip"
+       ],
+       "answer": 0,
+       "why": "In a car's brakes and a hydraulic jack, a small force applied on the pedal or handle changes through the liquid into a large force which stops the car or lifts a heavy thing."
+      },
+      {
+       "q": "In a hydraulic jack, a small force can lift a heavy load because ___.",
+       "options": [
+        "The liquid becomes lighter",
+        "The pressure is transferred equally through the liquid to a larger area",
+        "Oil is slippery",
+        "The handle is long only"
+       ],
+       "answer": 1,
+       "why": "The pressure applied on the closed liquid is transferred equally; acting on a larger piston area it produces a larger force, which lifts the heavy load."
+      },
+      {
+       "q": "As we go deeper in a swimming pool, the pressure on our body ___.",
+       "options": [
+        "Decreases",
+        "Stays the same",
+        "Increases",
+        "Becomes zero"
+       ],
+       "answer": 2,
+       "why": "Pressure in water increases with depth. The deeper we go, the more water is above us pressing down, so the pressure increases."
+      },
+      {
+       "q": "Why is oil generally used in hydraulic systems?",
+       "options": [
+        "It is colourful",
+        "It is the cheapest liquid",
+        "It evaporates quickly",
+        "It does not compress on being pressed"
+       ],
+       "answer": 3,
+       "why": "A hydraulic system needs a liquid which does not compress on being pressed, so that the pressure is transferred fully. Generally oil is used for this."
+      },
+      {
+       "q": "Pressure in a closed liquid is transferred ___.",
+       "options": [
+        "Only downwards",
+        "Only upwards",
+        "Equally in all directions",
+        "Only to the bottom"
+       ],
+       "answer": 2,
+       "why": "Pascal's law says the pressure is transferred equally in all directions — to every part of the liquid and to the walls of the container."
+      },
+      {
+       "q": "If pressure is applied at one point of a closed liquid, the walls of the container ___.",
+       "options": [
+        "Feel the same pressure as every other part",
+        "Feel no pressure",
+        "Feel double pressure",
+        "Break at once"
+       ],
+       "answer": 0,
+       "why": "The pressure applied on a closed liquid reaches the walls of the container equally, just as it reaches every part of the liquid. This is Pascal's law."
+      }
+     ]
+    },
+    {
+     "title": "Atmospheric Pressure, Gas Pressure and Aerosols",
+     "notes_html": "<h4>Atmospheric Pressure</h4>\n<ul>\n<li>Atmospheric pressure is measured by the <b>height of the mercury column in a mercury barometer</b>.</li>\n<li>In the book's barometer picture, the mercury column is 75 cm high, so the atmospheric pressure is equal to <b>75 cm of mercury</b>.</li>\n<li>At a height above or below sea level, inner discomfort is felt because the <b>pressure of our body adjusts slowly</b> to a sudden change of outside pressure.</li>\n</ul>\n<h4>Pressure in a Gas</h4>\n<p>Pressure in a gas is produced by its <b>molecules colliding with the walls of the closed container</b>.</p>\n<h4>Aerosols</h4>\n<p><b>Aerosols</b> are very small particles (liquid or solid) floating in air or gas, like the spray coming out of a spray can.</p>\n<ul>\n<li>Working: in an aerosol can, liquid and gas under pressure are closed. When the valve is pressed, the gas pushes the liquid out of the nozzle, and the liquid comes out in the form of very small particles (spray).</li>\n<li>Examples: hair spray, perfume spray, insect-killing spray, paint spray, the breathing inhaler (medicine for asthma), and the spray that spreads fragrance in a room.</li>\n</ul>\n<h4>Project — a Simple Barometer</h4>\n<p>Fill a glass bottle with water; fix a straight tube on the mouth with tape so its lower end dips in the water. Fix a paper scale in front of the tube. When the pressure of the air increases, the level of the water in the tube goes down; when the pressure decreases, the level goes up.</p>",
+     "mcqs": [
+      {
+       "q": "Atmospheric pressure can be measured by ___.",
+       "options": [
+        "The height of the water column in a barometer",
+        "The height of the lime water in a barometer",
+        "The height of oil in a barometer",
+        "The height of the mercury column in a barometer"
+       ],
+       "answer": 3,
+       "why": "Atmospheric pressure is measured by the height of the mercury column in a mercury barometer, because mercury is a very heavy liquid."
+      },
+      {
+       "q": "In the book's barometer picture, the mercury column is 75 cm high. The atmospheric pressure is ___.",
+       "options": [
+        "25 cm of mercury",
+        "75 cm of mercury",
+        "80 cm of mercury",
+        "100 cm of mercury"
+       ],
+       "answer": 1,
+       "why": "The height of the mercury column is 75 cm, so the atmospheric pressure is equal to 75 cm of mercury. The column height shows the pressure directly."
+      },
+      {
+       "q": "At a height above or below sea level, inner discomfort is felt because ___.",
+       "options": [
+        "The pressure of our body adjusts slowly",
+        "The pressure of our body stays the same",
+        "The pressure of our body adjusts quickly",
+        "Our body makes no pressure"
+       ],
+       "answer": 0,
+       "why": "On a sudden change of outside pressure, the pressure of the body adjusts slowly, so discomfort is felt — for example in the ears during a fast climb."
+      },
+      {
+       "q": "Pressure in a gas is because of ___.",
+       "options": [
+        "Atmosphere (air)",
+        "Molecules colliding with the walls of the closed container",
+        "Molecules colliding at the bottom only",
+        "Molecules colliding with each other only"
+       ],
+       "answer": 1,
+       "why": "The molecules of a gas keep moving and collide with the walls of the container. Pressure is produced by these collisions."
+      },
+      {
+       "q": "Aerosols are ___.",
+       "options": [
+        "Large drops of water",
+        "A type of fuel",
+        "Very small particles (liquid or solid) floating in air or gas",
+        "Solid pieces of metal"
+       ],
+       "answer": 2,
+       "why": "Aerosols are very small particles (liquid or solid) floating in air or gas, like the spray coming out of a spray can."
+      },
+      {
+       "q": "In an aerosol can, when the valve is pressed, ___.",
+       "options": [
+        "The liquid freezes",
+        "The can becomes empty of gas first",
+        "The liquid turns into a solid",
+        "The gas under pressure pushes the liquid out of the nozzle as a fine spray"
+       ],
+       "answer": 3,
+       "why": "In an aerosol can, liquid and gas under pressure are closed. When the valve is pressed, the gas pushes the liquid out of the nozzle, and the liquid comes out in the form of very small particles (spray)."
+      },
+      {
+       "q": "Which of these is an example of an aerosol?",
+       "options": [
+        "A glass of water",
+        "A piece of ice",
+        "Hair spray",
+        "A metal rod"
+       ],
+       "answer": 2,
+       "why": "Hair spray is an aerosol. Other examples: perfume spray, insect-killing spray, paint spray, the breathing inhaler for asthma, and room fragrance spray."
+      },
+      {
+       "q": "The breathing inhaler used by asthma patients works as an aerosol because ___.",
+       "options": [
+        "It sends the medicine out as very small particles floating in gas",
+        "It burns the medicine",
+        "It dissolves the medicine in water",
+        "It cools the medicine"
+       ],
+       "answer": 0,
+       "why": "The inhaler is an aerosol: the medicine comes out of the pressurised can as very small particles (spray) which the patient breathes in."
+      },
+      {
+       "q": "In the simple barometer project, when the air pressure increases, the water level in the tube ___.",
+       "options": [
+        "Goes up",
+        "Stays the same",
+        "Disappears",
+        "Goes down"
+       ],
+       "answer": 3,
+       "why": "When the pressure of the air increases, it presses the water more and the level of the water in the tube goes down; when the pressure decreases, the level goes up."
+      },
+      {
+       "q": "A barometer is an instrument used to find ___.",
+       "options": [
+        "Temperature",
+        "Atmospheric pressure",
+        "Humidity only",
+        "Wind speed"
+       ],
+       "answer": 1,
+       "why": "A barometer finds atmospheric pressure. The mercury barometer shows it by the height of the mercury column."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 8: Measurement of Physical Quantities",
+   "lessons": [
+    {
+     "title": "Physical Quantities and SI Units",
+     "notes_html": "<h4>Physical Quantities</h4>\n<ul>\n<li>A quantity which can be measured is called a <b>physical quantity</b>, like length, mass and time.</li>\n<li>A physical quantity is made of two parts: (1) the <b>numerical value</b> (example: 3) and (2) the <b>unit</b> (example: metre). In a length of 3 metres, 3 is the numerical value and metre is the unit.</li>\n<li>When a standard is fixed for a quantity, that standard quantity is called a <b>unit</b>.</li>\n</ul>\n<h4>The Seven Base Units (SI)</h4>\n<table>\n<tr><th>Base physical quantity</th><th>Name of unit</th><th>Symbol</th></tr>\n<tr><td>Length</td><td>metre</td><td>m</td></tr>\n<tr><td>Mass</td><td>kilogram</td><td>kg</td></tr>\n<tr><td>Time</td><td>second</td><td>s</td></tr>\n<tr><td>Electric current</td><td>ampere</td><td>A</td></tr>\n<tr><td>Temperature</td><td>kelvin</td><td>K</td></tr>\n<tr><td>Amount of substance</td><td>mole</td><td>mol</td></tr>\n<tr><td>Luminous intensity</td><td>candela</td><td>cd</td></tr>\n</table>\n<p>Newton, watt and joule are <b>derived units</b>, not base units. The cubic metre (m³) is the unit of <b>volume</b>.</p>\n<h4>What is a Prefix?</h4>\n<p>A <b>prefix</b> is the word or symbol placed before a unit which shows a large or small part of the unit, like kilo (1000) and milli (1/1000). A prefix can be changed back by multiplying or dividing by its numerical value: 1 kilometre = 1000 metres; 1 millimetre = 1/1000 metre.</p>",
+     "mcqs": [
+      {
+       "q": "A quantity which can be measured is called a ___ quantity.",
+       "options": [
+        "Physical",
+        "Standard",
+        "Chemical",
+        "Imaginary"
+       ],
+       "answer": 0,
+       "why": "A quantity which can be measured is called a physical quantity, like length, mass and time. It always has a numerical value and a unit."
+      },
+      {
+       "q": "Which of the following is a base unit?",
+       "options": [
+        "Newton",
+        "Second",
+        "Watt",
+        "Joule"
+       ],
+       "answer": 1,
+       "why": "The second is the base unit of time. Newton, watt and joule are derived units, made from the base units."
+      },
+      {
+       "q": "When a standard is fixed for a quantity, that standard quantity is called a ___.",
+       "options": [
+        "Price",
+        "Rate",
+        "Unit",
+        "Prefix"
+       ],
+       "answer": 2,
+       "why": "The standard quantity fixed for measurement is called a unit — for example the metre is the unit of length."
+      },
+      {
+       "q": "A physical quantity is made of which two parts?",
+       "options": [
+        "Name and symbol",
+        "Prefix and suffix",
+        "Length and width",
+        "Numerical value and unit"
+       ],
+       "answer": 3,
+       "why": "A physical quantity is made of (1) the numerical value and (2) the unit. In '3 metres', 3 is the numerical value and metre is the unit."
+      },
+      {
+       "q": "How many base units are there in the international system?",
+       "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Ten"
+       ],
+       "answer": 2,
+       "why": "There are seven base units: metre, kilogram, second, ampere, kelvin, mole and candela."
+      },
+      {
+       "q": "The unit of electric current in the international system is the ___.",
+       "options": [
+        "Ampere",
+        "Kelvin",
+        "Second",
+        "Coulomb"
+       ],
+       "answer": 0,
+       "why": "In the international system (SI), the unit of electric current is the ampere (A). It is one of the seven base units."
+      },
+      {
+       "q": "The cubic metre (m³) is the unit of ___.",
+       "options": [
+        "Length",
+        "Area",
+        "Mass",
+        "Volume"
+       ],
+       "answer": 3,
+       "why": "The cubic metre (m³) is the unit of volume. Length is measured in metres and area in square metres."
+      },
+      {
+       "q": "The base unit of temperature is the ___.",
+       "options": [
+        "Degree Celsius",
+        "Kelvin",
+        "Calorie",
+        "Joule"
+       ],
+       "answer": 1,
+       "why": "The base unit of temperature in SI is the kelvin (K). The other base units are metre, kilogram, second, ampere, mole and candela."
+      },
+      {
+       "q": "The symbol of the unit of luminous intensity (candela) is ___.",
+       "options": [
+        "cd",
+        "lm",
+        "K",
+        "mol"
+       ],
+       "answer": 0,
+       "why": "Luminous intensity is measured in candela, symbol cd. The mole (mol) measures the amount of substance."
+      },
+      {
+       "q": "A prefix is ___.",
+       "options": [
+        "A unit of length",
+        "The word or symbol placed before a unit showing a large or small part of it",
+        "A measuring instrument",
+        "The end part of a scale"
+       ],
+       "answer": 1,
+       "why": "A prefix is placed before a unit and shows a large or small part of the unit, like kilo (1000) and milli (1/1000)."
+      },
+      {
+       "q": "1 kilometre is equal to ___.",
+       "options": [
+        "100 metres",
+        "10 metres",
+        "1000 metres",
+        "10000 metres"
+       ],
+       "answer": 2,
+       "why": "The prefix kilo means 1000, so 1 kilometre = 1000 metres. Prefixes are changed back by multiplying or dividing by their numerical value."
+      },
+      {
+       "q": "Which pair is correct?",
+       "options": [
+        "Mass — second — s",
+        "Time — kilogram — kg",
+        "Temperature — ampere — A",
+        "Length — metre — m"
+       ],
+       "answer": 3,
+       "why": "Length is measured in metres (m). Mass is measured in kilograms (kg), time in seconds (s) and temperature in kelvins (K)."
+      },
+      {
+       "q": "The unit of amount of substance is the ___.",
+       "options": [
+        "Candela",
+        "Newton",
+        "Mole",
+        "Watt"
+       ],
+       "answer": 2,
+       "why": "The amount of substance is measured in moles (mol). It is one of the seven base quantities of the SI system."
+      },
+      {
+       "q": "Which of these is a derived unit?",
+       "options": [
+        "Newton",
+        "Metre",
+        "Kilogram",
+        "Second"
+       ],
+       "answer": 0,
+       "why": "The newton is a derived unit, made from the base units. Metre, kilogram and second are base units."
+      },
+      {
+       "q": "In 'a mass of 5 kilograms', the unit is ___ and the numerical value is ___.",
+       "options": [
+        "5; kilogram",
+        "Mass; 5",
+        "Kilogram; mass",
+        "Kilogram; 5"
+       ],
+       "answer": 3,
+       "why": "In every measurement, the number is the numerical value and the standard quantity is the unit. Here the numerical value is 5 and the unit is kilogram."
+      }
+     ]
+    },
+    {
+     "title": "Prefixes, Conversions and Measuring Instruments",
+     "notes_html": "<h4>Prefixes and Conversions</h4>\n<ul>\n<li>Increasing order for length: <b>millimetre, centimetre, metre</b> (and kilometre is larger still).</li>\n<li>1 kilogram = 1000 grams, so 4 kilograms = <b>4000 grams</b>.</li>\n<li>1 kilometre = 1000 metres, so 0.05 kilometres = 0.05 × 1000 = <b>50 metres</b>.</li>\n<li>10<sup>−3</sup> seconds is called a <b>millisecond</b> (10<sup>−3</sup> = milli). A microsecond is 10<sup>−6</sup> s and a nanosecond is 10<sup>−9</sup> s.</li>\n</ul>\n<h4>Measuring the Volume of a Liquid</h4>\n<p>A <b>measuring cylinder</b> (graduated cylinder) is used in the laboratory for the measurement of a liquid (its volume). The measurement is correct when:</p>\n<ul>\n<li>The cylinder is kept on a level surface.</li>\n<li>The reading is taken with the eye level with the surface (meniscus) of the liquid.</li>\n<li>The <b>lower meniscus</b> (lower curve) is read.</li>\n<li>The correct scale and correct mark of the cylinder are used.</li>\n</ul>\n<h4>Measuring Small Lengths</h4>\n<p>From the book: five spheres placed on a measuring strip spread from 4 cm to 16 cm, so the total length of the five spheres = 16 − 4 = 12 cm. The diameter of one sphere = 12 ÷ 5 = <b>2.4 cm</b>. Measuring several objects together and dividing is an accurate way to measure one small object.</p>",
+     "mcqs": [
+      {
+       "q": "What is the correct increasing order for measuring length?",
+       "options": [
+        "Kilometre, centimetre, metre",
+        "Millimetre, centimetre, metre",
+        "Metre, centimetre, millimetre",
+        "Millimetre, metre, centimetre"
+       ],
+       "answer": 1,
+       "why": "Increasing order: millimetre (the smallest), centimetre, metre (the largest of the three). A kilometre is even larger than a metre."
+      },
+      {
+       "q": "A mass of 4 kilograms is equal to ___.",
+       "options": [
+        "4000 grams",
+        "4000 milligrams",
+        "400 grams",
+        "40 grams"
+       ],
+       "answer": 0,
+       "why": "1 kilogram = 1000 grams, so 4 kilograms = 4 × 1000 = 4000 grams."
+      },
+      {
+       "q": "A distance of 0.05 kilometres is equal to ___.",
+       "options": [
+        "50 centimetres",
+        "50 metres",
+        "5000 metres",
+        "15 metres"
+       ],
+       "answer": 1,
+       "why": "1 kilometre = 1000 metres, so 0.05 kilometres = 0.05 × 1000 = 50 metres."
+      },
+      {
+       "q": "10⁻³ seconds is called a ___.",
+       "options": [
+        "Microsecond",
+        "Nanosecond",
+        "Millisecond",
+        "Macrosecond"
+       ],
+       "answer": 2,
+       "why": "10⁻³ = milli, so 10⁻³ seconds = 1 millisecond. A microsecond is 10⁻⁶ seconds and a nanosecond is 10⁻⁹ seconds."
+      },
+      {
+       "q": "A measuring cylinder is used in the laboratory for ___.",
+       "options": [
+        "Measurement of weight",
+        "Measurement of coldness",
+        "Measurement of time",
+        "Measurement of a liquid"
+       ],
+       "answer": 3,
+       "why": "A measuring cylinder is used in the laboratory to measure a liquid — that is, the volume of a liquid."
+      },
+      {
+       "q": "To read a graduated cylinder correctly, the eye should be ___.",
+       "options": [
+        "Above the liquid surface",
+        "Below the liquid surface",
+        "Level with the surface (meniscus) of the liquid",
+        "At any position"
+       ],
+       "answer": 2,
+       "why": "The measurement is correct when the cylinder is on a level surface and the eye is level with the meniscus of the liquid, reading the lower meniscus on the correct scale."
+      },
+      {
+       "q": "Which meniscus is read in a measuring cylinder?",
+       "options": [
+        "The lower meniscus (lower curve)",
+        "The upper curve",
+        "The middle line",
+        "The top edge"
+       ],
+       "answer": 0,
+       "why": "The lower meniscus (lower curve) of the liquid is read. The cylinder must be on a level surface and the eye level with the liquid surface."
+      },
+      {
+       "q": "Five spheres spread from 4 cm to 16 cm on a strip. The diameter of one sphere is ___.",
+       "options": [
+        "12 cm",
+        "4 cm",
+        "3.2 cm",
+        "2.4 cm"
+       ],
+       "answer": 3,
+       "why": "The total length of the five spheres = 16 − 4 = 12 cm. The diameter of one sphere = 12 ÷ 5 = 2.4 cm."
+      },
+      {
+       "q": "1 millimetre is equal to ___ of a metre.",
+       "options": [
+        "1/10",
+        "1/1000",
+        "1/100",
+        "1/1000000"
+       ],
+       "answer": 1,
+       "why": "The prefix milli means 1/1000, so 1 millimetre = 1/1000 metre. Prefixes can be changed back by multiplying or dividing by their numerical value."
+      },
+      {
+       "q": "Why are five spheres measured together instead of one?",
+       "options": [
+        "To measure one small diameter more accurately by dividing the total",
+        "To save time only",
+        "Because one sphere cannot be measured at all in any way",
+        "To make the strip longer"
+       ],
+       "answer": 0,
+       "why": "Measuring several spheres together and dividing the total length by their number gives the diameter of one sphere more accurately than measuring a single small sphere."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 9: Sources and Effects of Heat Energy",
+   "lessons": [
+    {
+     "title": "Thermal Expansion of Solids, Liquids and Gases",
+     "notes_html": "<h4>Thermal Expansion</h4>\n<p><b>Thermal expansion</b> is the process in which a thing expands (becomes bigger) on being heated. On cooling, things contract (shrink).</p>\n<ul>\n<li><b>Solids:</b> heat a metal ball — it expands and does not pass through the ring; on cooling it shrinks and passes through again. A heated metal wire also becomes longer.</li>\n<li><b>Liquids:</b> mercury in a thermometer expands uniformly on heating and rises — that is how temperature is measured.</li>\n<li><b>Gases expand the most</b> on the same increase of temperature: gases (air) expand more than liquids, and liquids more than solids.</li>\n</ul>\n<h4>Experiment — Gases Expand on Heating</h4>\n<p>Fix a balloon on the mouth of an empty bottle and keep the bottle in hot water — the air inside becomes hot, expands and inflates the balloon. Keep the bottle in cold water and the air contracts and the balloon sits down. This proves gases expand on heating and contract on cooling.</p>\n<h4>Why Mercury is Used in a Thermometer</h4>\n<ul>\n<li>It expands uniformly with heat.</li>\n<li>It does not stick to glass.</li>\n<li>It takes the temperature quickly.</li>\n<li>It is clearly visible because it is shiny.</li>\n</ul>\n<h4>Where Expansion and Contraction are Used</h4>\n<ul>\n<li><b>Bimetallic strip</b> — two different metals joined together; used in the electric iron as a thermostat.</li>\n<li><b>Riveting</b> — used to join a hard thing with a hard thing (two hard metal plates) firmly.</li>\n<li>Expansion and contraction are NOT used in an electric fan.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Thermal expansion is ___.",
+       "options": [
+        "The shrinking of a thing on heating",
+        "The process in which a thing expands on being heated",
+        "The melting of a solid",
+        "The boiling of a liquid"
+       ],
+       "answer": 1,
+       "why": "Thermal expansion is the process in which a thing expands (becomes bigger) on being heated. On cooling, the same thing contracts (shrinks) back."
+      },
+      {
+       "q": "After heating, an iron ball does not pass through the ring because ___.",
+       "options": [
+        "The ring becomes smaller",
+        "The ball becomes heavier",
+        "The ball expands and becomes bigger on heating",
+        "The ball melts"
+       ],
+       "answer": 2,
+       "why": "On heating, the iron ball expands and becomes bigger, so it does not pass through the hole of the ring. On cooling, it shrinks and passes through again — this shows the expansion of solids."
+      },
+      {
+       "q": "The balloon on a bottle kept in hot water inflates because ___.",
+       "options": [
+        "Water enters the bottle",
+        "The bottle expands",
+        "The balloon is made of rubber",
+        "The air inside the bottle heats and expands"
+       ],
+       "answer": 3,
+       "why": "The air inside the bottle becomes hot and expands, and its extra volume inflates the balloon. In cold water the air contracts and the balloon sits down — gases expand on heating and contract on cooling."
+      },
+      {
+       "q": "Which of the following expands the most on the same increase of temperature?",
+       "options": [
+        "Water",
+        "Copper",
+        "Air",
+        "Glass"
+       ],
+       "answer": 2,
+       "why": "On the same increase of temperature, gases (air) expand the most, after that liquids, and then solids expand the least."
+      },
+      {
+       "q": "Which liquid is used in a thermometer?",
+       "options": [
+        "Mercury",
+        "Water",
+        "Oil",
+        "Vinegar"
+       ],
+       "answer": 0,
+       "why": "Mercury is used in a thermometer because it expands uniformly on heating and is clearly visible."
+      },
+      {
+       "q": "Mercury is used in a thermometer because it ___.",
+       "options": [
+        "Is cheap and colourful",
+        "Boils at a low temperature",
+        "Freezes quickly",
+        "Expands uniformly, does not stick to glass, takes temperature quickly and is shiny and visible"
+       ],
+       "answer": 3,
+       "why": "Mercury expands uniformly with heat, does not stick to glass, takes the temperature quickly, and is clearly visible because it is shiny."
+      },
+      {
+       "q": "A bimetallic strip is used in a/an ___.",
+       "options": [
+        "Electric fan",
+        "Electric iron",
+        "Tape recorder",
+        "Computer"
+       ],
+       "answer": 1,
+       "why": "In an electric iron, a bimetallic strip is used as a thermostat which keeps the temperature under control by bending and breaking the circuit."
+      },
+      {
+       "q": "Riveting is used to join ___.",
+       "options": [
+        "A hard thing with a hard thing",
+        "A soft thing with a hard thing",
+        "A soft thing with a soft thing",
+        "Plastic with a soft thing"
+       ],
+       "answer": 0,
+       "why": "By riveting, two hard metal plates are joined firmly — a hard thing with a hard thing. The hot rivet expands and then contracts to hold the plates tightly."
+      },
+      {
+       "q": "In which of the following is expansion and contraction NOT used?",
+       "options": [
+        "Electric iron",
+        "Electric fan",
+        "Railway track",
+        "Thermometer"
+       ],
+       "answer": 1,
+       "why": "Expansion and contraction are not used in an electric fan. In the iron a thermostat (bimetallic strip), in the railway track expansion gaps, and in the thermometer the expansion of mercury are used."
+      },
+      {
+       "q": "A bimetallic strip bends on heating because ___.",
+       "options": [
+        "Both metals expand equally",
+        "One metal melts",
+        "The two metals expand by different amounts",
+        "It is made of plastic"
+       ],
+       "answer": 2,
+       "why": "A bimetallic strip is made of strips of two different metals which expand by different amounts on heating. The strip bends because one side expands more than the other."
+      },
+      {
+       "q": "On cooling, a heated metal wire ___.",
+       "options": [
+        "Becomes longer",
+        "Stays the same",
+        "Breaks at once",
+        "Contracts and becomes shorter"
+       ],
+       "answer": 3,
+       "why": "Metals expand on heating and contract on cooling. The heated wire becomes longer in heat and shrinks back on cooling."
+      },
+      {
+       "q": "The two-walled thermometer of the book uses which liquid?",
+       "options": [
+        "Water",
+        "Oil",
+        "Mercury",
+        "Vinegar"
+       ],
+       "answer": 2,
+       "why": "Mercury is the liquid used in the thermometer described in the book, because it expands uniformly and is clearly visible."
+      },
+      {
+       "q": "The expansion of a gas can be shown by ___.",
+       "options": [
+        "A balloon on a bottle in hot water",
+        "A ball and ring",
+        "A bimetallic strip",
+        "Rivets in a plate"
+       ],
+       "answer": 0,
+       "why": "Fix a balloon on the mouth of an empty bottle in hot water: the air expands and inflates the balloon. In cold water it contracts and the balloon sits down."
+      },
+      {
+       "q": "A thermostat in an electric iron works with the help of ___.",
+       "options": [
+        "A magnet",
+        "Mercury",
+        "A spring only",
+        "A bimetallic strip"
+       ],
+       "answer": 3,
+       "why": "The bimetallic strip in electric parts bends on heating because its two metals expand differently, so the electric circuit is automatically closed or opened — the work of a thermostat."
+      },
+      {
+       "q": "Liquids expand ___ solids on the same increase of temperature.",
+       "options": [
+        "Less than",
+        "More than",
+        "Exactly like",
+        "Not at all compared to"
+       ],
+       "answer": 1,
+       "why": "On the same increase of temperature, gases expand the most, liquids expand more than solids, and solids expand the least."
+      }
+     ]
+    },
+    {
+     "title": "Effects of Expansion and the Anomalous Expansion of Water",
+     "notes_html": "<h4>Harmful Effects of Expansion and Contraction — and How to Reduce Them</h4>\n<ul>\n<li>In heat, railway tracks expand and can bend — a danger of a railway accident. <b>Gaps are left in railway tracks</b> to give room for expansion.</li>\n<li>The parts of bridges expand and increase pressure, and the bridge can be harmed. <b>Expansion joints</b> are fitted in bridges.</li>\n<li>Crack control joints are made in roads.</li>\n<li>Telephone wires expand in the heat of summer, become longer, and so <b>hang down</b> between the poles.</li>\n</ul>\n<h4>The Anomalous (Strange) Expansion of Water</h4>\n<ul>\n<li>The strange characteristic of water is that on cooling <b>below 4 degrees</b>, water expands instead of shrinking, and it expands even more on becoming ice.</li>\n<li>Ice, being lighter than water, <b>floats on top</b>. So in winter the water under the surface of a pond stays liquid and aquatic life stays alive.</li>\n<li>Because water expands on freezing, the volume of ice is more than that of water — the pressure on the walls of a pipe increases and <b>pipes burst</b> in the cold.</li>\n</ul>\n<h4>How a Bimetallic Strip Works</h4>\n<p>A bimetallic strip is made of strips of two different metals. On heating, one metal expands more and the strip bends; this bending drives the measurement of temperature or works an electric switch (thermostat) — for example in an electric iron.</p>",
+     "mcqs": [
+      {
+       "q": "Why is a gap left in railway tracks?",
+       "options": [
+        "Because the tracks expand in the heat of summer and need room",
+        "To save iron",
+        "For the sound of the train",
+        "To join the tracks loosely"
+       ],
+       "answer": 0,
+       "why": "In the heat of summer, railway tracks expand. If a gap were not left, the tracks would bend and an accident could happen; the gap gives room for expansion."
+      },
+      {
+       "q": "Telephone wires hang down during summer days because ___.",
+       "options": [
+        "The poles bend",
+        "The metal wires expand in heat and become longer",
+        "The wires become heavy with rain",
+        "Birds sit on them"
+       ],
+       "answer": 1,
+       "why": "In heat, the metal wires expand and become longer, so they hang down between two poles. In winter they contract and become tight."
+      },
+      {
+       "q": "What problems occur in bridges because of thermal expansion?",
+       "options": [
+        "The bridge becomes shorter",
+        "The bridge changes colour",
+        "The parts expand, pressure increases and the bridge can be harmed — so expansion joints are left",
+        "No problem occurs"
+       ],
+       "answer": 2,
+       "why": "The parts of bridges expand in heat and increase pressure, and the bridge can be harmed. For this, gaps and expansion joints are left in bridges, as in railway tracks."
+      },
+      {
+       "q": "The strange characteristic of water on freezing is that it ___.",
+       "options": [
+        "Shrinks like other things",
+        "Disappears",
+        "Becomes heavier than water",
+        "Expands instead of shrinking"
+       ],
+       "answer": 3,
+       "why": "Unlike ordinary things, water expands on freezing, and it starts expanding even on cooling below 4 degrees. So ice, being lighter, floats on top of water."
+      },
+      {
+       "q": "Because of the anomalous expansion of water, in winter ___.",
+       "options": [
+        "Ponds freeze completely",
+        "All fish die at once",
+        "Ice floats on top and the water below stays liquid, so aquatic life stays alive",
+        "Water becomes warm"
+       ],
+       "answer": 2,
+       "why": "Ice, being lighter than water, floats on top, so in winter the water under the surface of a pond stays liquid and aquatic life stays alive under the ice."
+      },
+      {
+       "q": "When water freezes in pipes, the pipes burst because ___.",
+       "options": [
+        "Water expands on freezing and the pressure on the pipe walls increases",
+        "Ice is heavier than water",
+        "The pipes become soft",
+        "Ice melts quickly"
+       ],
+       "answer": 0,
+       "why": "Water expands on freezing and the volume of ice becomes more than that of water, so the pressure on the walls of the pipe increases and the pipe bursts."
+      },
+      {
+       "q": "Water starts expanding on cooling below ___ degrees.",
+       "options": [
+        "0",
+        "10",
+        "100",
+        "4"
+       ],
+       "answer": 3,
+       "why": "Water, on cooling below 4 degrees, expands instead of shrinking — this is its anomalous (strange) expansion. It expands even more on becoming ice."
+      },
+      {
+       "q": "The harmful effects of expansion in metals can be reduced by ___.",
+       "options": [
+        "Painting the tracks",
+        "Leaving gaps in tracks, fitting expansion joints in bridges and making crack control joints in roads",
+        "Using thinner rails",
+        "Watering the tracks"
+       ],
+       "answer": 1,
+       "why": "Metals expand in heat and contract in cold, which can bend tracks and break bridges and roads. Leaving gaps, fitting expansion joints and making crack control joints reduce these harmful effects."
+      },
+      {
+       "q": "How does a bimetallic strip work in a thermometer or thermostat?",
+       "options": [
+        "Its two metals expand by different amounts, so it bends and drives the measurement or switch",
+        "It melts at a fixed temperature",
+        "It produces electricity",
+        "It changes colour"
+       ],
+       "answer": 0,
+       "why": "A bimetallic strip is made of two different metals which expand by different amounts on heating. On heating, the strip bends; this bending drives the measurement of temperature or an electric switch (thermostat)."
+      },
+      {
+       "q": "Railway tracks can bend in heat, which creates a danger of ___.",
+       "options": [
+        "Flooding",
+        "A railway accident",
+        "Fire in the train",
+        "Noise pollution"
+       ],
+       "answer": 1,
+       "why": "In heat, railway tracks expand and bend, and there is a danger of a railway accident. Gaps left between the rails give room for this expansion."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 10: Lens",
+   "lessons": [
+    {
+     "title": "Lenses — Parts and Types",
+     "notes_html": "<h4>Parts of a Lens</h4>\n<ul>\n<li><b>Principal axis</b> — the horizontal straight line passing through the middle of a lens.</li>\n<li><b>Optical centre (O)</b> — the point through which a ray of light passes without changing its path.</li>\n<li><b>Focal point (F)</b> — the point where rays meet (or appear to meet) after passing through the lens.</li>\n<li><b>Focal length</b> — the distance between the optical centre of the lens and the focal point.</li>\n</ul>\n<h4>Convex and Concave Lenses</h4>\n<table>\n<tr><th>Convex lens</th><th>Concave lens</th></tr>\n<tr><td>Thick in the middle, thin at the edges</td><td>Thin in the middle, thick at the edges</td></tr>\n<tr><td>Converges (joins) rays</td><td>Spreads (diverges) rays</td></tr>\n<tr><td>Forms both real and virtual images</td><td>Always forms a virtual, erect and diminished image</td></tr>\n<tr><td>Used in a magnifying glass and a camera</td><td>Used in spectacles for short sightedness and in a door peep hole</td></tr>\n</table>\n<p><b>Similarities:</b> both are lenses, both are transparent, both bend light (refraction), and both have an optical centre, a principal axis and a focal point.</p>\n<h4>Thickness and Focal Length</h4>\n<p>The thicker (more curved) the lens is, the more it bends the rays and the <b>shorter</b> its focal length becomes. The thinner the lens, the <b>longer</b> its focal length.</p>\n<h4>Parallel Rays from Infinity</h4>\n<p>When the object is at infinity, the rays are parallel and, passing through a <b>convex</b> lens, they meet at the focal point.</p>",
+     "mcqs": [
+      {
+       "q": "A horizontal line which passes through a lens is called the ___.",
+       "options": [
+        "Vertical axis",
+        "Optical centre",
+        "Principal axis",
+        "Focal point"
+       ],
+       "answer": 2,
+       "why": "The straight line passing through the middle of a lens is called the principal axis. The optical centre is a point on this line."
+      },
+      {
+       "q": "The point through which a ray of light passes without changing its path is the ___.",
+       "options": [
+        "Centre of curvature",
+        "Focal point",
+        "Midpoint of F and O",
+        "Optical centre of the lens"
+       ],
+       "answer": 3,
+       "why": "A ray passing through the optical centre of the lens goes straight without changing its path. This is one of the three standard rays used in ray diagrams."
+      },
+      {
+       "q": "The distance between the optical centre of the lens and the focal point is called the ___.",
+       "options": [
+        "Principal axis",
+        "Vertical axis",
+        "Focal length",
+        "Optical centre"
+       ],
+       "answer": 2,
+       "why": "The distance between the optical centre and the focal point is called the focal length. A thicker lens has a shorter focal length."
+      },
+      {
+       "q": "When the object is at infinity, parallel rays pass through a ___ lens and meet at the focal point.",
+       "options": [
+        "Convex",
+        "Concave",
+        "Plane",
+        "Cylindrical"
+       ],
+       "answer": 0,
+       "why": "The parallel rays coming from infinity pass through a convex lens and meet at the focal point (F), because a convex lens converges rays."
+      },
+      {
+       "q": "A convex lens is ___.",
+       "options": [
+        "Thin in the middle and thick at the edges",
+        "Flat on both sides",
+        "Thick everywhere equally",
+        "Thick in the middle and thin at the edges"
+       ],
+       "answer": 3,
+       "why": "A convex lens is thick in the middle and thin at the edges, and it converges rays. A concave lens is thin in the middle and thick at the edges, and it spreads rays."
+      },
+      {
+       "q": "How does the thickness of a lens affect its focal length?",
+       "options": [
+        "A thicker lens has a longer focal length",
+        "A thicker lens bends rays more and its focal length becomes shorter",
+        "Thickness has no effect",
+        "A thinner lens has a shorter focal length"
+       ],
+       "answer": 1,
+       "why": "The thicker (more curved) the lens is, the more it bends the rays and the shorter its focal length becomes. The thinner the lens, the longer its focal length."
+      },
+      {
+       "q": "Which of these is a similarity between convex and concave lenses?",
+       "options": [
+        "Both are transparent and bend light (refraction)",
+        "Both spread the rays",
+        "Both are thick in the middle",
+        "Both always form diminished images"
+       ],
+       "answer": 0,
+       "why": "Both lenses are transparent, both bend light (refraction), and both have an optical centre, a principal axis and a focal point. They differ in shape and in the images they form."
+      },
+      {
+       "q": "A concave lens is used in ___.",
+       "options": [
+        "A magnifying glass",
+        "Spectacles for short sightedness and a door peep hole",
+        "A camera",
+        "A telescope mirror"
+       ],
+       "answer": 1,
+       "why": "A concave lens is used in spectacles for short sightedness and in a door peep hole. A convex lens is used in a magnifying glass and a camera."
+      },
+      {
+       "q": "A ray parallel to the principal axis, after passing through a convex lens, ___.",
+       "options": [
+        "Goes straight without bending",
+        "Spreads away and never meets",
+        "Passes through the focal point",
+        "Turns back"
+       ],
+       "answer": 2,
+       "why": "In a convex lens, a ray parallel to the principal axis passes through the lens and goes through the focal point (F). This is the first rule of the ray diagram."
+      },
+      {
+       "q": "The optical centre of a lens is marked by the letter ___.",
+       "options": [
+        "F",
+        "C",
+        "P",
+        "O"
+       ],
+       "answer": 3,
+       "why": "The optical centre is marked O and the focal point is marked F. The distance OF is the focal length of the lens."
+      }
+     ]
+    },
+    {
+     "title": "Images Formed by Lenses",
+     "notes_html": "<h4>Image Formation by a Convex Lens</h4>\n<p>The three rules of the ray diagram:</p>\n<ul>\n<li>A ray parallel to the principal axis passes through the lens and goes through the <b>focal point (F)</b>.</li>\n<li>A ray passing through the <b>optical centre (O)</b> goes straight.</li>\n<li>A ray passing through the focal point becomes <b>parallel to the axis</b> after the lens.</li>\n</ul>\n<p>The image is formed where these rays meet.</p>\n<h4>Image Formation by a Concave Lens</h4>\n<p>Through a concave lens, the rays spread out and meet on being extended backwards. So the image is always <b>virtual, erect and smaller</b> than the original object, and it is formed on the same side of the lens on which the object is. An erect, diminished image is formed when the object is placed at <b>any distance</b> in front of a concave lens.</p>\n<h4>Uses</h4>\n<ul>\n<li>A <b>convex</b> lens is used as a <b>magnifying glass</b> to show things enlarged.</li>\n<li>In a <b>camera</b>, to obtain a clear image, the <b>lens is moved forward and backward</b> to correct the focus.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A ___ lens is used as a magnifying glass to show things enlarged.",
+       "options": [
+        "Concave",
+        "Plane",
+        "Convex",
+        "Mirror"
+       ],
+       "answer": 2,
+       "why": "A convex lens shows things enlarged, so it is used as a magnifying glass. It converges the rays coming from a near object."
+      },
+      {
+       "q": "The image formed by a concave lens is always ___.",
+       "options": [
+        "Virtual, erect and diminished",
+        "Real, inverted and enlarged",
+        "Real and erect",
+        "Inverted and of the same size"
+       ],
+       "answer": 0,
+       "why": "A concave lens always forms a virtual, erect and diminished (smaller) image, wherever the object is placed. The rays spread out and only appear to meet."
+      },
+      {
+       "q": "An erect, diminished image is formed when the object is placed at ___ in front of a concave lens.",
+       "options": [
+        "The focal point only",
+        "2F only",
+        "Infinity only",
+        "Any distance"
+       ],
+       "answer": 3,
+       "why": "At any distance — a concave lens always forms an erect, virtual and diminished image, at whatever distance the object is placed in front of it."
+      },
+      {
+       "q": "In a ray diagram of a convex lens, a ray passing through the optical centre ___.",
+       "options": [
+        "Bends towards the axis",
+        "Goes straight",
+        "Becomes parallel",
+        "Stops at the centre"
+       ],
+       "answer": 1,
+       "why": "A ray passing through the optical centre (O) goes straight without changing its path. Together with the parallel ray and the focal ray, it locates the image."
+      },
+      {
+       "q": "A ray passing through the focal point of a convex lens becomes ___ after the lens.",
+       "options": [
+        "Parallel to the principal axis",
+        "Perpendicular to the axis",
+        "Diverging",
+        "Curved"
+       ],
+       "answer": 0,
+       "why": "A ray passing through the focal point becomes parallel to the axis after passing through a convex lens. This is the third rule of the ray diagram."
+      },
+      {
+       "q": "To obtain a clear image in a camera, ___.",
+       "options": [
+        "The film is moved forward and backward",
+        "The lens is moved forward and backward",
+        "Both lens and film are moved",
+        "Neither is moved"
+       ],
+       "answer": 1,
+       "why": "In a camera, the lens is moved forward and backward to correct the focus so that a clear image is obtained on the film."
+      },
+      {
+       "q": "Through a concave lens, the image is formed ___.",
+       "options": [
+        "Behind the lens",
+        "At infinity",
+        "On the same side of the lens as the object",
+        "On the screen"
+       ],
+       "answer": 2,
+       "why": "Through a concave lens the rays spread out and meet on being extended backwards, so the virtual image is formed on the same side of the lens on which the object is."
+      },
+      {
+       "q": "The image in a convex lens is formed where ___.",
+       "options": [
+        "The lens is thickest",
+        "The axis ends",
+        "The light stops",
+        "The refracted rays meet"
+       ],
+       "answer": 3,
+       "why": "The image is formed where the rays meet after passing through the lens — the parallel ray through F, the central ray straight, and the focal ray becoming parallel locate that point."
+      },
+      {
+       "q": "A magnifying glass enlarges things because it uses a ___ lens.",
+       "options": [
+        "Concave",
+        "Plane glass",
+        "Convex",
+        "Coloured"
+       ],
+       "answer": 2,
+       "why": "A convex lens is used as a magnifying glass to show things enlarged. Placed near an object, it forms an erect, enlarged, virtual image."
+      },
+      {
+       "q": "Which image can be obtained on a screen?",
+       "options": [
+        "A real image formed by a convex lens",
+        "The virtual image of a concave lens",
+        "The image in a peep hole",
+        "No image at all"
+       ],
+       "answer": 0,
+       "why": "A real image, formed where rays actually meet through a convex lens, can be obtained on a screen. A concave lens forms only virtual images, which cannot be caught on a screen."
+      }
+     ]
+    },
+    {
+     "title": "The Human Eye and Its Defects",
+     "notes_html": "<h4>The Eye and the Camera</h4>\n<table>\n<tr><th>Part of the camera</th><th>Same part of the eye</th><th>Same work</th></tr>\n<tr><td>Aperture</td><td>Pupil / iris</td><td>Controlling the quantity of light</td></tr>\n<tr><td>Lens</td><td>Lens of the eye</td><td>Focusing the light and making the image</td></tr>\n<tr><td>Film</td><td>Retina</td><td>Obtaining and sensing the image</td></tr>\n</table>\n<ul>\n<li>A <b>convex lens</b> is present in the human eye; it focuses the light and makes an image on the retina.</li>\n<li>The <b>ciliary muscles</b> change the shape (form) of the lens of the eye and correct the focus.</li>\n</ul>\n<h4>Defects of the Eye</h4>\n<table>\n<tr><th>Short sightedness (myopia)</th><th>Long sightedness (hypermetropia)</th></tr>\n<tr><td>Distant things are not seen clearly</td><td>Near things are not seen clearly</td></tr>\n<tr><td>Light focuses in front of the retina</td><td>Light focuses behind the retina; the near point moves far away</td></tr>\n<tr><td>Treatment: spectacles with concave lenses</td><td>Treatment: spectacles with convex lenses</td></tr>\n</table>\n<p>In the ray diagram of short sightedness, parallel rays from a distant object focus in front of the retina, so a blurred image is formed on the retina. A concave lens spreads the rays so that they focus on the retina.</p>",
+     "mcqs": [
+      {
+       "q": "Which part helps in changing the shape of the lens in the eye?",
+       "options": [
+        "Cornea",
+        "Retina",
+        "Iris",
+        "Ciliary muscles"
+       ],
+       "answer": 3,
+       "why": "The ciliary muscles change the shape and form of the lens of the eye and correct the focus, so we can see near and distant things."
+      },
+      {
+       "q": "The type of lens present in the human eye is a ___.",
+       "options": [
+        "Concave lens",
+        "Convex lens",
+        "Plane lens",
+        "Cylindrical lens"
+       ],
+       "answer": 1,
+       "why": "A convex lens is present in the eye, which focuses the light and makes an image on the retina of the eye."
+      },
+      {
+       "q": "In short sightedness, the light of distant things focuses ___.",
+       "options": [
+        "In front of the retina",
+        "On the retina",
+        "Behind the retina",
+        "Outside the eye"
+       ],
+       "answer": 0,
+       "why": "In short sightedness (myopia), the light of distant things focuses in front of the retina and distant things are not seen clearly. A concave lens in spectacles corrects it."
+      },
+      {
+       "q": "In long sightedness (hypermetropia), ___.",
+       "options": [
+        "Distant things are not seen clearly",
+        "The near point moves very far away and light from a near object focuses behind the retina",
+        "The eye has no lens",
+        "Light focuses in front of the retina"
+       ],
+       "answer": 1,
+       "why": "In long sightedness, the near point of the eye moves far away, so near things are not seen clearly and the light focuses behind the retina. Spectacles with convex lenses are used for treatment."
+      },
+      {
+       "q": "Short sightedness is corrected by spectacles with ___ lenses.",
+       "options": [
+        "Convex",
+        "Plane",
+        "Concave",
+        "Coloured"
+       ],
+       "answer": 2,
+       "why": "In short sightedness, spectacles with concave lenses are used: the concave lens spreads the rays so that they focus on the retina instead of in front of it."
+      },
+      {
+       "q": "Long sightedness is corrected by spectacles with ___ lenses.",
+       "options": [
+        "Concave",
+        "Plane",
+        "Dark",
+        "Convex"
+       ],
+       "answer": 3,
+       "why": "In long sightedness, spectacles with convex lenses are used, which converge the light more so it focuses on the retina instead of behind it."
+      },
+      {
+       "q": "The part of the eye that corresponds to the film of a camera is the ___.",
+       "options": [
+        "Pupil",
+        "Lens",
+        "Retina",
+        "Iris"
+       ],
+       "answer": 2,
+       "why": "Film — retina of the eye — obtaining and sensing the image. The aperture corresponds to the pupil/iris, and the camera lens to the lens of the eye."
+      },
+      {
+       "q": "The aperture of the camera and the pupil of the eye both do the work of ___.",
+       "options": [
+        "Controlling the quantity of light",
+        "Focusing the light",
+        "Obtaining the image",
+        "Changing the shape of the lens"
+       ],
+       "answer": 0,
+       "why": "Aperture of the camera — pupil/iris of the eye — controlling the quantity of light. Both widen or narrow to let more or less light in."
+      },
+      {
+       "q": "The lens of the eye makes the image on the ___.",
+       "options": [
+        "Cornea",
+        "Pupil",
+        "Iris",
+        "Retina"
+       ],
+       "answer": 3,
+       "why": "The convex lens of the eye focuses the light and makes an image on the retina of the eye, just as the camera lens makes the image on the film."
+      },
+      {
+       "q": "A person who cannot see near things clearly has ___.",
+       "options": [
+        "Short sightedness",
+        "Long sightedness (hypermetropia)",
+        "No defect",
+        "Colour blindness"
+       ],
+       "answer": 1,
+       "why": "In long sightedness (hypermetropia), near things are not seen clearly because the near point moves far away and light focuses behind the retina."
+      },
+      {
+       "q": "A person who cannot see distant things clearly has ___ and it is treated with ___.",
+       "options": [
+        "Short sightedness; concave lens",
+        "Long sightedness; convex lens",
+        "Short sightedness; convex lens",
+        "Long sightedness; concave lens"
+       ],
+       "answer": 0,
+       "why": "In short sightedness (myopia), distant things are not seen clearly and light focuses in front of the retina. Spectacles with concave lenses spread the rays onto the retina."
+      },
+      {
+       "q": "In the ray diagram for short sightedness, a blurred image is formed on the retina because the rays focus ___.",
+       "options": [
+        "Behind the retina",
+        "In front of the retina",
+        "Exactly on the pupil",
+        "Outside the eye"
+       ],
+       "answer": 1,
+       "why": "The parallel rays coming from a distant object pass through the lens of the eye and focus in front of the retina, so a blurred image is formed on the retina. A concave lens corrects this."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 11: Electricity",
+   "lessons": [
+    {
+     "title": "Electric Current — AC and DC",
+     "notes_html": "<h4>Electric Current</h4>\n<ul>\n<li>The <b>flow of electrons</b> is called <b>electric current</b>.</li>\n<li>In a bicycle generator (dynamo), the <b>magnet</b> rotates to produce electricity in the coil of wire.</li>\n</ul>\n<h4>Direct Current and Alternating Current</h4>\n<table>\n<tr><th>Direct current (DC)</th><th>Alternating current (AC)</th></tr>\n<tr><td>Flows in one direction only</td><td>Its direction changes again and again</td></tr>\n<tr><td>Obtained from a cell and a battery</td><td>Obtained from a generator; the mains electricity of homes and schools</td></tr>\n<tr><td>Voltage cannot be changed easily</td><td>Voltage can be increased or decreased with a transformer</td></tr>\n</table>\n<h4>Basic Components of an Electric Circuit</h4>\n<ul>\n<li>The source of electricity (cell or battery).</li>\n<li>Connecting wires.</li>\n<li>A switch.</li>\n<li>A bulb or another load (like a motor).</li>\n<li>A resistor.</li>\n</ul>\n<p>With these, the circuit is completed and electricity flows.</p>",
+     "mcqs": [
+      {
+       "q": "The flow of electrons is called ___.",
+       "options": [
+        "Electrode",
+        "Resistance",
+        "Electric current",
+        "Electro light"
+       ],
+       "answer": 2,
+       "why": "The flow of electrons is called electric current. It flows in a circuit when the circuit is completed."
+      },
+      {
+       "q": "The electricity obtained from a cell is called ___.",
+       "options": [
+        "Indirect current",
+        "Alternating current",
+        "High current",
+        "Direct current"
+       ],
+       "answer": 3,
+       "why": "Direct current is obtained from a cell, and it flows in one direction only. A battery also gives direct current."
+      },
+      {
+       "q": "The electricity used in our homes and schools is ___.",
+       "options": [
+        "Low current",
+        "Indirect current",
+        "Alternating current",
+        "Direct current"
+       ],
+       "answer": 2,
+       "why": "Alternating current is used in homes and schools; its direction keeps changing. It is obtained from generators."
+      },
+      {
+       "q": "Which part of a bicycle generator rotates to produce electricity?",
+       "options": [
+        "Magnet",
+        "Coil of wire",
+        "Galvanometer",
+        "Bulb"
+       ],
+       "answer": 0,
+       "why": "In a bicycle generator, the magnet rotates, by which electricity is produced in the coil of wire."
+      },
+      {
+       "q": "The difference between AC and DC is that ___.",
+       "options": [
+        "AC flows in one direction; DC changes direction",
+        "Both are the same",
+        "DC is used in homes; AC in torches",
+        "DC flows in one direction only; AC changes direction again and again"
+       ],
+       "answer": 3,
+       "why": "Direct current flows in one direction only and is obtained from a cell and battery. Alternating current changes direction again and again and is the mains electricity of homes, whose voltage can be changed with a transformer."
+      },
+      {
+       "q": "The voltage of AC can be increased or decreased with a ___.",
+       "options": [
+        "Switch",
+        "Transformer",
+        "Resistor",
+        "Cell"
+       ],
+       "answer": 1,
+       "why": "The voltage of alternating current can be increased or decreased with a transformer. This is a big advantage of AC over DC, whose voltage cannot be changed easily."
+      },
+      {
+       "q": "The basic components of an electric circuit are ___.",
+       "options": [
+        "Source of electricity, connecting wires, switch, load (bulb/motor) and resistor",
+        "Only a bulb and wires",
+        "Only a cell and a switch",
+        "Magnet and coil only"
+       ],
+       "answer": 0,
+       "why": "The basic components are: the source of electricity (cell or battery), connecting wires, a switch, a bulb or another load like a motor, and a resistor. With these the circuit is completed and electricity flows."
+      },
+      {
+       "q": "A cell and a battery are examples of ___.",
+       "options": [
+        "Loads",
+        "Sources of electricity",
+        "Switches",
+        "Resistors"
+       ],
+       "answer": 1,
+       "why": "The cell or battery is the source of electricity in a circuit. It gives direct current (DC)."
+      },
+      {
+       "q": "Which of these is a load in a circuit?",
+       "options": [
+        "Cell",
+        "Wire",
+        "Bulb or motor",
+        "Switch"
+       ],
+       "answer": 2,
+       "why": "A bulb or a motor is a load — it uses the electricity. The cell is the source, wires connect the parts, and the switch opens or closes the circuit."
+      },
+      {
+       "q": "Electricity is produced in a generator when ___.",
+       "options": [
+        "A bulb is connected",
+        "A switch is closed",
+        "A battery is charged",
+        "A magnet rotates near a coil of wire"
+       ],
+       "answer": 3,
+       "why": "In a bicycle generator the magnet rotates and electricity is produced in the coil of wire. Big generators in power stations work on the same idea."
+      }
+     ]
+    },
+    {
+     "title": "Producing Electricity and Energy Sources",
+     "notes_html": "<h4>How Electricity is Produced in a Power Station</h4>\n<p>The stages in correct order:</p>\n<ul>\n<li>1. Fuel burns and heats the water tank.</li>\n<li>2. Water changes into steam under pressure.</li>\n<li>3. Steam rotates the turbines.</li>\n<li>4. Turbines turn the generators.</li>\n<li>5. Electricity is produced and is included in the national grid.</li>\n</ul>\n<p>Through windmills: wind energy → wind pushes and rotates the blades → energy of the motion of the rotating blades → the blades rotate the generator and produce electricity → energy obtained from the turbine (output).</p>\n<h4>Renewable and Non-Renewable Sources</h4>\n<ul>\n<li>Renewable: wind energy, geothermal energy, wave energy, solar energy, bio-fuels.</li>\n<li>Not renewable: <b>natural gas</b> — a finishing fossil fuel.</li>\n<li><b>Biogas</b> — the gas formed when the waste of animals and plants, buried in the ground in the absence of air, rots.</li>\n<li><b>Bio-fuels are a cheap source of energy</b> because they are made from the waste and dirt of animals and plants, which are free and found everywhere, and they are renewable — they can be obtained again and again.</li>\n</ul>\n<h4>Advantages of Solar Electricity</h4>\n<ul>\n<li>Sunlight is free and found everywhere.</li>\n<li>It is renewable and does not finish.</li>\n<li>No pollution comes from it.</li>\n<li>The maintenance of solar panels is little.</li>\n<li>Electricity can be reached even to far-off areas.</li>\n</ul>\n<h4>Problems of Power Production</h4>\n<ul>\n<li><b>Nuclear power generator:</b> the radioactive waste is dangerous and difficult to keep safe, there is a danger of accident, and setting up the plant is expensive.</li>\n<li><b>Thermal power generator:</b> the burning of fuel produces pollution in the air and carbon dioxide, the fuel (coal, gas) is finishing, and fuel is expensive.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In a power station, the correct order of stages is ___.",
+       "options": [
+        "Steam first, then fuel burns, then turbines",
+        "Generators turn first, then fuel burns",
+        "Fuel burns and heats water → water changes into steam → steam rotates turbines → turbines turn generators → electricity joins the national grid",
+        "Water rotates turbines → fuel burns → steam forms"
+       ],
+       "answer": 2,
+       "why": "First the fuel burns and heats the water tank; the water changes into steam under pressure; the steam rotates the turbines; the turbines turn the generators; and the electricity produced is included in the national grid."
+      },
+      {
+       "q": "In a windmill, the energy changes are: wind energy → ___ → electricity.",
+       "options": [
+        "Energy of motion of the rotating blades",
+        "Heat energy",
+        "Chemical energy",
+        "Light energy"
+       ],
+       "answer": 0,
+       "why": "Wind pushes and rotates the blades, giving the energy of motion of the rotating blades; the blades rotate the generator and produce electricity, which is the energy obtained from the turbine."
+      },
+      {
+       "q": "Which of the following is NOT a source of renewable energy?",
+       "options": [
+        "Wind energy",
+        "Geothermal energy",
+        "Wave energy",
+        "Natural gas"
+       ],
+       "answer": 3,
+       "why": "Natural gas is not a renewable source; it is a finishing fossil fuel. Wind, geothermal heat and waves are renewable sources."
+      },
+      {
+       "q": "The gas formed from the waste of animals and plants buried without air is called ___.",
+       "options": [
+        "Oxygen",
+        "Biogas",
+        "Carbon dioxide",
+        "Nitrogen"
+       ],
+       "answer": 1,
+       "why": "The gas formed from the waste of animals and plants in the absence of air is called biogas. It can be used as a fuel."
+      },
+      {
+       "q": "Bio-fuels are called a cheap source of energy because ___.",
+       "options": [
+        "They are made from free waste of animals and plants, found everywhere, and are renewable",
+        "They are imported cheaply",
+        "They need no container",
+        "They burn without air"
+       ],
+       "answer": 0,
+       "why": "Bio-fuels are made from the waste and dirt of animals and plants, which are free and found everywhere, and they are renewable sources which can be obtained again and again."
+      },
+      {
+       "q": "An advantage of solar electricity is that ___.",
+       "options": [
+        "It works only in cities",
+        "Sunlight is free, it is renewable, it makes no pollution and can reach far-off areas",
+        "It needs a lot of maintenance",
+        "It finishes quickly"
+       ],
+       "answer": 1,
+       "why": "Sunlight is free and found everywhere; solar electricity is renewable and does not finish; no pollution comes from it; the maintenance of solar panels is little; and electricity can be reached even to far-off areas."
+      },
+      {
+       "q": "A problem of a nuclear power generator is that ___.",
+       "options": [
+        "It makes too little electricity",
+        "It needs sunlight",
+        "Its radioactive waste is dangerous and difficult to keep safe",
+        "Its fuel is free"
+       ],
+       "answer": 2,
+       "why": "In nuclear power, the radioactive waste is dangerous and difficult to keep safe, there is a danger of accident, and setting up the plant is expensive."
+      },
+      {
+       "q": "A problem of a thermal power generator is that ___.",
+       "options": [
+        "It uses water",
+        "It works at night only",
+        "It has no turbines",
+        "Burning fuel produces air pollution and carbon dioxide, and the fuel is finishing and expensive"
+       ],
+       "answer": 3,
+       "why": "In a thermal power generator, the burning of fuel produces pollution in the air and carbon dioxide; the fuel (coal, gas) is finishing, and fuel is expensive."
+      },
+      {
+       "q": "Wind energy, geothermal energy and wave energy are all ___.",
+       "options": [
+        "Fossil fuels",
+        "Non-renewable sources",
+        "Renewable sources of energy",
+        "Chemical fuels"
+       ],
+       "answer": 2,
+       "why": "These are renewable sources — they do not finish. Natural gas, in contrast, is a finishing fossil fuel and is not renewable."
+      },
+      {
+       "q": "Steam under pressure in a power station rotates the ___.",
+       "options": [
+        "Turbines",
+        "Generators directly",
+        "Boilers",
+        "Wires"
+       ],
+       "answer": 0,
+       "why": "The steam rotates the turbines, and the turbines turn the generators, which produce the electricity."
+      },
+      {
+       "q": "Biogas is formed when plant and animal waste rots ___.",
+       "options": [
+        "In open air",
+        "In sunlight",
+        "In water only",
+        "In the absence of air"
+       ],
+       "answer": 3,
+       "why": "Biogas is formed from the waste of animals and plants buried in the ground in the absence of air."
+      },
+      {
+       "q": "Solar panels need ___ maintenance.",
+       "options": [
+        "Very high",
+        "Little",
+        "Daily",
+        "Monthly replacement"
+       ],
+       "answer": 1,
+       "why": "The maintenance of solar panels is little — one of the advantages of solar electricity, along with free sunlight and no pollution."
+      }
+     ]
+    },
+    {
+     "title": "Electronic Devices — Input and Output",
+     "notes_html": "<h4>Electronic Parts</h4>\n<ul>\n<li><b>Transistor</b> — the electronic part which can be used as a <b>switch</b> or as a <b>voltage amplifier</b>.</li>\n<li><b>IC</b> — abbreviation of <b>Integrated Circuit</b>, in which many electronic parts are in one chip.</li>\n<li><b>Silicon</b> is an example of a <b>semiconductor</b>, so it is used in making transistors and chips.</li>\n</ul>\n<h4>Input and Output Parts (Devices)</h4>\n<table>\n<tr><th>Input parts — enter information or orders into a computer</th><th>Output parts — show the result outside</th></tr>\n<tr><td>Keyboard</td><td>Monitor</td></tr>\n<tr><td>Mouse</td><td>Printer</td></tr>\n<tr><td>Barcode reader</td><td>Speaker</td></tr>\n<tr><td>Scanner</td><td></td></tr>\n<tr><td>Microphone</td><td></td></tr>\n</table>\n<p>A <b>barcode</b> is read by an <b>input device</b> (barcode reader), which enters information into a computer.</p>",
+     "mcqs": [
+      {
+       "q": "The electronic part which can be used as a switch or as a voltage amplifier is the ___.",
+       "options": [
+        "Transistor",
+        "Thermometer",
+        "Transformer",
+        "Resistor"
+       ],
+       "answer": 0,
+       "why": "A transistor can be used as a switch and as a voltage amplifier. It is a basic part of electronic circuits and chips."
+      },
+      {
+       "q": "IC is the abbreviation of ___.",
+       "options": [
+        "Inner Chip",
+        "Integrated Circuit",
+        "Integrated Chip",
+        "Input Circuit"
+       ],
+       "answer": 1,
+       "why": "IC means Integrated Circuit, in which many electronic parts are in one chip."
+      },
+      {
+       "q": "Silicon is an example of a ___.",
+       "options": [
+        "Insulator",
+        "Conductor",
+        "Semiconductor",
+        "Semi-insulator"
+       ],
+       "answer": 2,
+       "why": "Silicon is a semiconductor, so it is used in making transistors and chips."
+      },
+      {
+       "q": "A barcode is read by a/an ___.",
+       "options": [
+        "Output device",
+        "Amplifier",
+        "Insulator",
+        "Input device"
+       ],
+       "answer": 3,
+       "why": "A barcode reader is an input device which enters information into a computer."
+      },
+      {
+       "q": "Input parts are those which ___.",
+       "options": [
+        "Show the result outside",
+        "Produce electricity",
+        "Enter information or orders into a computer",
+        "Store electricity"
+       ],
+       "answer": 2,
+       "why": "Input parts enter information or orders into a computer, like the keyboard, mouse, barcode reader, scanner and microphone. Output parts, like the monitor, printer and speaker, show the result outside."
+      },
+      {
+       "q": "Which of these is an output device?",
+       "options": [
+        "Monitor",
+        "Keyboard",
+        "Mouse",
+        "Scanner"
+       ],
+       "answer": 0,
+       "why": "The monitor is an output device — it shows the result of the computer outside. Keyboard, mouse and scanner are input devices."
+      },
+      {
+       "q": "A microphone is an ___ device.",
+       "options": [
+        "Output",
+        "Storage",
+        "Power",
+        "Input"
+       ],
+       "answer": 3,
+       "why": "A microphone enters sound (information) into a computer, so it is an input device. A speaker, which brings sound out, is an output device."
+      },
+      {
+       "q": "In an integrated circuit (IC), ___.",
+       "options": [
+        "Only one wire is present",
+        "Many electronic parts are in one chip",
+        "No transistor is used",
+        "Electricity is stored"
+       ],
+       "answer": 1,
+       "why": "An IC (Integrated Circuit) has many electronic parts — like transistors and resistors — made in one small chip."
+      },
+      {
+       "q": "Silicon is used in making transistors and chips because it is a ___.",
+       "options": [
+        "Semiconductor",
+        "Good conductor",
+        "Insulator",
+        "Magnet"
+       ],
+       "answer": 0,
+       "why": "Silicon is a semiconductor: its conduction can be controlled, which is exactly what transistors and chips need to work as switches and amplifiers."
+      },
+      {
+       "q": "Which list contains only output parts?",
+       "options": [
+        "Keyboard, monitor, mouse",
+        "Monitor, printer, speaker",
+        "Scanner, printer, microphone",
+        "Mouse, speaker, barcode reader"
+       ],
+       "answer": 1,
+       "why": "Monitor, printer and speaker all show the result of the computer outside, so they are output parts. Keyboard, mouse, scanner, microphone and barcode reader are input parts."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 12: Exploring Space",
+   "lessons": [
+    {
+     "title": "Telescopes and the Spectroscope",
+     "notes_html": "<h4>Important Terms</h4>\n<ul>\n<li><b>Telescope</b> — the instrument which shows far-away things close. The word telescope is a combination of <b>two Greek words</b>: \"tele\" (far) and \"scope\" (to see).</li>\n<li><b>Reflecting telescope</b> — the telescope which uses <b>mirrors</b> to reflect light; it has primary and secondary mirrors.</li>\n<li><b>Refracting telescope</b> — the telescope which uses <b>lenses</b> to bend light; it has two lenses.</li>\n<li><b>Spectroscope</b> — the instrument which divides light into a spectrum and identifies the chemical elements present in a star.</li>\n<li><b>Space exploration</b> — the process of searching space and using it.</li>\n<li><b>Space debris</b> — the rubbish of useless and damaged things in space, like old satellites and pieces of rockets.</li>\n</ul>\n<h4>The Spectroscope</h4>\n<ul>\n<li>Structure — three main parts: (1) an opaque barrier with a <b>slit</b> which makes a thin ray of light, (2) a <b>prism</b> which divides the light into its seven colours, (3) a <b>screen or detector</b> which records the light obtained.</li>\n<li>Working: light passes through the slit and falls on the prism; the prism divides it into a spectrum of seven colours; from that spectrum the chemical elements present in a star are identified.</li>\n<li>In the spectrum of white light, the wavelength of <b>violet</b> colour is the shortest.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A spectroscope is used for ___.",
+       "options": [
+        "Discovering the sound waves coming out of a star",
+        "Bending the light of a star to one point",
+        "Identifying the chemical elements present in a star",
+        "Marking the location of a star"
+       ],
+       "answer": 2,
+       "why": "A spectroscope divides a star's light into a spectrum and from it identifies the chemical elements present in the star."
+      },
+      {
+       "q": "A reflecting telescope consists of ___.",
+       "options": [
+        "Only one mirror",
+        "Many lenses",
+        "A prism for the division of light",
+        "Primary and secondary mirrors"
+       ],
+       "answer": 3,
+       "why": "A reflecting telescope has primary and secondary mirrors which reflect the light and focus it. A refracting telescope, in contrast, uses lenses."
+      },
+      {
+       "q": "The word 'telescope' is a combination of ___ words.",
+       "options": [
+        "Two Latin words",
+        "Three Greek words",
+        "Two Greek words",
+        "Two English words"
+       ],
+       "answer": 2,
+       "why": "Telescope is made of two Greek words: 'tele' (far) and 'scope' (to see) — the instrument which shows far-away things close."
+      },
+      {
+       "q": "In a reflecting telescope, ___ are used.",
+       "options": [
+        "Mirrors",
+        "Lenses",
+        "Prisms only",
+        "Magnets"
+       ],
+       "answer": 0,
+       "why": "In a reflecting telescope, mirrors are used to reflect the light. In a refracting telescope, lenses are used to bend the light."
+      },
+      {
+       "q": "The wavelength of ___ colour is the shortest in the spectrum of white light.",
+       "options": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Violet"
+       ],
+       "answer": 3,
+       "why": "In the spectrum (strip) of white light, the wavelength of violet colour is the shortest, and red is the longest."
+      },
+      {
+       "q": "A telescope is an instrument which ___.",
+       "options": [
+        "Measures temperature",
+        "Shows far-away things close",
+        "Produces electricity",
+        "Records sound"
+       ],
+       "answer": 1,
+       "why": "A telescope shows far-away things close, which is why it is used to study the Moon, planets and stars."
+      },
+      {
+       "q": "A refracting telescope works by using ___.",
+       "options": [
+        "Lenses to bend light",
+        "Mirrors to reflect light",
+        "A prism only",
+        "A magnet"
+       ],
+       "answer": 0,
+       "why": "A refracting telescope uses lenses to bend light and has two lenses. A reflecting telescope uses mirrors to reflect light."
+      },
+      {
+       "q": "The three main parts of a spectroscope are ___.",
+       "options": [
+        "Mirror, lens and screen",
+        "A slit barrier, a prism and a screen or detector",
+        "Two mirrors and a lens",
+        "A bulb, a prism and a mirror"
+       ],
+       "answer": 1,
+       "why": "A spectroscope has: (1) an opaque barrier with a slit which makes a thin ray of light, (2) a prism which divides the light into seven colours, (3) a screen or detector which records the light obtained."
+      },
+      {
+       "q": "In a spectroscope, the prism divides the light into ___.",
+       "options": [
+        "Three colours",
+        "Two colours",
+        "A spectrum of seven colours",
+        "Shades of grey"
+       ],
+       "answer": 2,
+       "why": "Light passes through the slit and falls on the prism; the prism divides it into a spectrum of seven colours, and from that spectrum the chemical elements in a star are identified."
+      },
+      {
+       "q": "How is a reflecting telescope different from a refracting telescope?",
+       "options": [
+        "Both use mirrors",
+        "The refracting uses mirrors",
+        "There is no difference",
+        "The reflecting uses mirrors to reflect light; the refracting uses lenses to bend light"
+       ],
+       "answer": 3,
+       "why": "A reflecting telescope uses mirrors (primary and secondary) to reflect light, whereas a refracting telescope uses two lenses to bend light."
+      },
+      {
+       "q": "From the spectrum of a star's light, a spectroscope tells us ___.",
+       "options": [
+        "The age of the star only",
+        "The distance of the star only",
+        "The chemical elements present in the star",
+        "The size of the star only"
+       ],
+       "answer": 2,
+       "why": "Each element gives its own pattern in the spectrum, so the spectroscope identifies the chemical elements present in a star from the spectrum of its light."
+      }
+     ]
+    },
+    {
+     "title": "Spacecraft, Satellites and GPS",
+     "notes_html": "<h4>Spacecraft and Satellites</h4>\n<ul>\n<li>A spacecraft can be <b>with humans (manned)</b> or <b>without humans (unmanned)</b>.</li>\n<li>According to the book, the <b>Apollo 17</b> command module is the spacecraft which took humans to the Moon.</li>\n<li>Technological instruments used in space exploration: telescopes, spectroscopes, spacecraft, artificial satellites, robots, telecommunication instruments, solar cells, GPS receivers and cameras.</li>\n</ul>\n<h4>Parts of an Artificial Satellite / Spacecraft</h4>\n<table>\n<tr><th>Part</th><th>Work</th></tr>\n<tr><td>Solar panels</td><td>Producing electricity from sunlight</td></tr>\n<tr><td>Cameras and other devices</td><td>Making scientific measurements and taking pictures</td></tr>\n<tr><td>Antennas</td><td>Sending and receiving signals for contact with the earth</td></tr>\n<tr><td>Micro thrusters</td><td>Changing the direction and speed of the spacecraft and keeping it in the correct orbit</td></tr>\n<tr><td>GPS receiver</td><td>Finding the place of the spacecraft</td></tr>\n</table>\n<h4>The Global Positioning System (GPS)</h4>\n<ul>\n<li>GPS is a system of artificial satellites which tells the correct <b>location, route and time</b> of any place on the earth.</li>\n<li>It consists of <b>more than 30</b> artificial satellites (30 or more).</li>\n<li>Every GPS satellite completes <b>two orbits in 24 hours</b> (one full orbit in half a day).</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "According to the book, which Moon command module took humans to the Moon?",
+       "options": [
+        "Apollo 17",
+        "Apollo 13",
+        "Apollo 15",
+        "Apollo 16"
+       ],
+       "answer": 0,
+       "why": "According to the book, the Apollo 17 command module is the spacecraft which took humans to the Moon."
+      },
+      {
+       "q": "The Global Positioning System (GPS) consists of how many artificial satellites?",
+       "options": [
+        "More than 15",
+        "More than 20",
+        "Less than 10",
+        "More than 30"
+       ],
+       "answer": 3,
+       "why": "According to the book, in GPS there are 30 or more artificial satellites in orbit around the earth — more than 30."
+      },
+      {
+       "q": "Every satellite of GPS completes ___ orbits in 24 hours.",
+       "options": [
+        "One",
+        "Two",
+        "Four",
+        "Twelve"
+       ],
+       "answer": 1,
+       "why": "Every GPS satellite completes one full orbit in half a day, so it completes two orbits in 24 hours."
+      },
+      {
+       "q": "A spacecraft can be ___.",
+       "options": [
+        "With humans or without humans",
+        "Only manned",
+        "Only unmanned",
+        "Only robotic"
+       ],
+       "answer": 0,
+       "why": "Spacecraft are of both kinds — manned (with humans) and unmanned (without humans). Both are used in space exploration."
+      },
+      {
+       "q": "Solar panels on a satellite do the work of ___.",
+       "options": [
+        "Taking pictures",
+        "Producing electricity from sunlight",
+        "Sending signals",
+        "Changing the orbit"
+       ],
+       "answer": 1,
+       "why": "Solar panels produce electricity from sunlight, which runs all the instruments of the satellite."
+      },
+      {
+       "q": "Antennas on a spacecraft are used for ___.",
+       "options": [
+        "Making measurements",
+        "Producing electricity",
+        "Sending and receiving signals for contact with the earth",
+        "Finding the place"
+       ],
+       "answer": 2,
+       "why": "Antennas send and receive signals for contact with the earth. Cameras take pictures and make measurements, and micro thrusters keep the craft in the correct orbit."
+      },
+      {
+       "q": "Micro thrusters on a spacecraft are used to ___.",
+       "options": [
+        "Take pictures of the earth",
+        "Make electricity",
+        "Receive GPS signals",
+        "Change the direction and speed and keep the craft in the correct orbit"
+       ],
+       "answer": 3,
+       "why": "Micro thrusters change the direction and speed of the spacecraft and keep it in the correct orbit. The GPS receiver finds the place of the spacecraft."
+      },
+      {
+       "q": "GPS tells us ___ of any place on the earth.",
+       "options": [
+        "The weather only",
+        "The population",
+        "The correct location, route and time",
+        "The temperature"
+       ],
+       "answer": 2,
+       "why": "The Global Positioning System is a system of artificial satellites which tells the correct location, route and time of any place on the earth."
+      },
+      {
+       "q": "Which instruments are used in space exploration?",
+       "options": [
+        "Telescopes, spectroscopes, spacecraft, satellites, robots, solar cells, GPS receivers and cameras",
+        "Only rockets",
+        "Only telescopes",
+        "Only computers"
+       ],
+       "answer": 0,
+       "why": "Instruments used in space exploration include telescopes, spectroscopes, spacecraft, artificial satellites, robots, telecommunication instruments, solar cells, GPS receivers, cameras and other instruments."
+      },
+      {
+       "q": "Cameras and devices on a satellite are used for ___.",
+       "options": [
+        "Producing electricity",
+        "Contact with the earth",
+        "Changing direction",
+        "Making scientific measurements and taking pictures"
+       ],
+       "answer": 3,
+       "why": "Cameras and other devices make scientific measurements and take pictures — for example, pictures of the earth from a weather or observation satellite."
+      }
+     ]
+    },
+    {
+     "title": "Benefits and Problems of Space Exploration",
+     "notes_html": "<h4>Benefits of Space Exploration in Health and Treatment</h4>\n<ul>\n<li>Imaging technologies like <b>MRI</b> and <b>CT</b> came from space research — according to the book, they were obtained as a result of understanding the images of the <b>Moon</b>.</li>\n<li><b>MRI</b> is the abbreviation of <b>Magnetic Resonance Imaging</b>.</li>\n<li>The heart pump for heart patients was made from space technology.</li>\n<li>The cooling suit is used to keep the body temperature of patients under control.</li>\n<li>With robot technology, treatment (telemedicine) in far-off areas became possible.</li>\n<li>From space research, new knowledge about medicines and the human body was obtained.</li>\n</ul>\n<h4>Life of an Astronaut and Problems of Space Exploration</h4>\n<ul>\n<li>The astronaut wears a special suit, lives in a space station, eats special food and works in weightlessness.</li>\n<li>Problems: <b>space debris</b> (old satellites and pieces of rockets) is increasing, which is a danger for new satellites and spacecraft; and space missions are expensive.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "MRI and CT were obtained as a result of understanding the images of ___.",
+       "options": [
+        "Saturn",
+        "The Moon",
+        "Jupiter",
+        "The Sun"
+       ],
+       "answer": 1,
+       "why": "As a result of the technology for understanding the images of the Moon, medical imaging technologies like MRI and CT were obtained."
+      },
+      {
+       "q": "MRI is the abbreviation of ___.",
+       "options": [
+        "Magnetic Resonance Imaging",
+        "Moon Research Instrument",
+        "Magnetic Radio Imaging",
+        "Medical Resonance Instrument"
+       ],
+       "answer": 0,
+       "why": "MRI means Magnetic Resonance Imaging. It is one of the health benefits that came from space research."
+      },
+      {
+       "q": "Five benefits of space exploration in health include ___.",
+       "options": [
+        "Only MRI",
+        "MRI and CT imaging, heart pump, cooling suit, telemedicine by robots, and new knowledge of medicines and the body",
+        "Only new medicines",
+        "Only the cooling suit"
+       ],
+       "answer": 1,
+       "why": "Space research gave health: imaging technologies like MRI and CT, the heart pump for heart patients, the cooling suit for controlling body temperature, robot telemedicine for far-off areas, and new knowledge about medicines and the human body."
+      },
+      {
+       "q": "The heart pump for heart patients was made from ___.",
+       "options": [
+        "Car technology",
+        "Ship technology",
+        "Space technology",
+        "Railway technology"
+       ],
+       "answer": 2,
+       "why": "The heart pump for heart patients was made from space technology — an example of space research helping treatment on earth."
+      },
+      {
+       "q": "Space debris means ___.",
+       "options": [
+        "Dust on the Moon",
+        "Fallen stars",
+        "Clouds in space",
+        "The rubbish of useless and damaged things in space, like old satellites and pieces of rockets"
+       ],
+       "answer": 3,
+       "why": "Space debris is the rubbish of useless and damaged things in space, like old satellites and pieces of rockets. It is increasing and is a danger for new satellites and spacecraft."
+      },
+      {
+       "q": "A problem arising because of space exploration is ___.",
+       "options": [
+        "Too many astronauts",
+        "The Moon becoming dirty",
+        "Space debris increasing and space missions being expensive",
+        "Satellites becoming cheap"
+       ],
+       "answer": 2,
+       "why": "Space debris is increasing, which is a danger for new satellites and spacecraft, and space missions are expensive — these are the problems of space exploration given in the book."
+      },
+      {
+       "q": "The life of an astronaut in space is such that he ___.",
+       "options": [
+        "Wears a special suit, lives in a space station, eats special food and works in weightlessness",
+        "Lives without any suit",
+        "Eats ordinary food in a house",
+        "Walks freely without oxygen"
+       ],
+       "answer": 0,
+       "why": "The astronaut wears a special suit, lives in a space station, eats special food and works in weightlessness, because there is no air and almost no gravity effect in space."
+      },
+      {
+       "q": "With robot technology from space research, what became possible?",
+       "options": [
+        "Cooking food at home",
+        "Building roads",
+        "Farming",
+        "Treatment (telemedicine) in far-off areas"
+       ],
+       "answer": 3,
+       "why": "With robot technology, treatment (telemedicine) in far-off areas became possible — doctors can guide treatment from a distance."
+      },
+      {
+       "q": "The cooling suit obtained from space technology is used to ___.",
+       "options": [
+        "Cool a room",
+        "Keep the body temperature of patients under control",
+        "Cool the spacecraft only",
+        "Store medicines"
+       ],
+       "answer": 1,
+       "why": "The cooling suit is used to keep the body temperature of patients under control. It came from the suits developed for astronauts."
+      },
+      {
+       "q": "Space exploration is the process of ___.",
+       "options": [
+        "Searching space and using it",
+        "Only watching stars",
+        "Only sending rockets",
+        "Only making satellites"
+       ],
+       "answer": 0,
+       "why": "Space exploration is the process of searching space and using it — with telescopes, spacecraft, satellites and robots — and its benefits reach health, communication and daily life on earth."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
