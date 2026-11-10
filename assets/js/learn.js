@@ -6,14 +6,15 @@
   var state = { board: "Sindh Textbook Board", medium: "", cls: "", q: "" };
   function $(s) { return document.querySelector(s); }
   function esc(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
+  function dispTitle(t) { return MODE === "notes" ? String(t == null ? "" : t).replace("Solved Exercises", "Notes") : t; }
 
   /* ---------- catalogue (same design as Solved Books) ---------- */
   function cardHTML(b) {
     var live = b.status === "live";
     var pub = (ROMAN[b.cls] || ("Class " + b.cls)) + (live ? (b.pages ? " • " + b.pages + " pages" : "") : " • Coming Soon");
     var label = MODE === "notes" ? "Read Notes &rarr;" : "Practice MCQs &rarr;";
-    var inner = '<div class="book-cover-wrap"><img class="book-img" src="/' + esc(b.cover) + '" alt="' + esc(b.title) + ' — official book cover" loading="lazy"><span class="book-medium-badge">' + esc(b.medium) + '</span></div>' +
-      '<div class="book-info"><div class="book-title">' + esc(b.title) + '</div><div class="book-pub">' + pub + '</div>' +
+    var inner = '<div class="book-cover-wrap"><img class="book-img" src="/' + esc(b.cover) + '" alt="' + esc(dispTitle(b.title)) + ' — official book cover" loading="lazy"><span class="book-medium-badge">' + esc(b.medium) + '</span></div>' +
+      '<div class="book-info"><div class="book-title">' + esc(dispTitle(b.title)) + '</div><div class="book-pub">' + pub + '</div>' +
       '<div class="book-actions"><span class="ba-open">' + label + '</span></div></div>';
     return '<a class="card card-link book-card" data-id="' + b.id + '" data-class="' + b.cls + '" href="/' + MODE + '.html?book=' + encodeURIComponent(b.id) + '">' + inner + '</a>';
   }
@@ -220,10 +221,10 @@
       if (BOOK.medium === "Sindhi") view.classList.add("lang-sd");
       else if (BOOK.medium === "Urdu") view.classList.add("lang-ur");
       else if (BOOK.medium === "Arabic") view.classList.add("lang-naskh");
-      document.title = BOOK.title + (MODE === "notes" ? " — Easy Notes" : " — MCQs Practice") + " | SolvedBooks.pk";
+      document.title = dispTitle(BOOK.title) + (MODE === "notes" ? " — Easy Notes" : " — MCQs Practice") + " | SolvedBooks.pk";
       head.innerHTML = '<nav class="crumbs"><a href="/">Home</a> › <a href="/' + MODE + '.html">' + (MODE === "notes" ? "Easy Notes" : "MCQs") + '</a> › <span>' + esc(BOOK.subject) + '</span></nav>' +
-        '<div class="learn-head"><img class="learn-cover" src="/' + esc(BOOK.cover) + '" alt="' + esc(BOOK.title) + ' — official book cover">' +
-        '<div class="learn-head-text"><h1 class="learn-book-title">' + esc(BOOK.title) + '</h1>' +
+        '<div class="learn-head"><img class="learn-cover" src="/' + esc(BOOK.cover) + '" alt="' + esc(dispTitle(BOOK.title)) + ' — official book cover">' +
+        '<div class="learn-head-text"><h1 class="learn-book-title">' + esc(dispTitle(BOOK.title)) + '</h1>' +
         '<div class="learn-chips"><span class="chip">' + esc(BOOK.board) + '</span><span class="chip">Class ' + (ROMAN[BOOK.cls] || BOOK.cls) + '</span><span class="chip">' + esc(BOOK.medium) + ' Medium</span></div>' +
         '<p class="learn-sub">' + (MODE === "notes" ? "Select a unit, then a lesson, to read its Easy Notes." : "Select a unit, then a lesson, to practice its MCQs.") + '</p></div></div>';
       var qs = new URLSearchParams(location.search);
