@@ -172,12 +172,19 @@
       }
       return;
     }
-    // No redirect result. If a web session lingers from an earlier
-    // partial attempt, sign it out first so the button always starts
-    // a clean Google pick.
+    // No redirect result object. The sign-in may still have succeeded:
+    // when the browser partitions storage, the redirect record can be
+    // lost while the session itself is established. A live session on
+    // this page IS a completed sign-in (the page has no other purpose),
+    // so hand it off the same way. Never sign it out.
     var u = await firstUser();
     if (u) {
-      try { await auth.signOut(); } catch (e) { /* ignore */ }
+      try {
+        await handoff(u);
+      } catch (e) {
+        showError(e && e.message ? e.message : String(e));
+      }
+      return;
     }
     setStatus("Sign in with your Google account to continue to the app.");
     googleBtn.classList.remove("hidden");
