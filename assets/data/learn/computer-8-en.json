@@ -1,0 +1,3259 @@
+{
+ "book": "computer-8-en",
+ "chapters": [
+  {
+   "title": "Fundamentals of ICT",
+   "lessons": [
+    {
+     "title": "5G and Modern Connectivity",
+     "notes_html": "<h4>What is 5G?</h4>\n<p><b>5G</b> is the modern mobile network technology that makes high-speed connectivity possible for many different devices and gives better connectivity than older networks.</p>\n<h4>How 5G Improves Connectivity</h4>\n<ul>\n<li>It gives <b>fast speed</b> and <b>low latency</b> (very little delay).</li>\n<li>It supports <b>many devices at the same time</b>.</li>\n<li>It improves connectivity for uses that need a strong, quick connection, such as <b>self-driving cars</b> and <b>smart cities</b>.</li>\n</ul>\n<h4>How 5G Helps IoT</h4>\n<p>5G helps the Internet of Things (IoT) <b>by connecting more devices</b>. It supports connecting many IoT devices and controlling them in an organised way.</p>\n<h4>Which Industries Benefit Most?</h4>\n<p>The greatest benefit of 5G goes to fields that need quick responses and many connected devices: <b>self-driving cars, smart cities, health and industry</b>.</p>\n<h4>Risks that Come with 5G</h4>\n<table><tr><th>Risk</th><th>How to reduce it</th></tr>\n<tr><td>Greater risk of unauthorised access, because more devices are connected</td><td>Use a firewall and follow network security rules</td></tr>\n<tr><td>Worries about data protection</td><td>Use strong passwords, two-factor authentication and up-to-date security software</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "How does 5G technology improve network connectivity?",
+       "options": [
+        "With fast speed and low latency",
+        "With less bandwidth",
+        "With slow speed",
+        "With fewer connected devices"
+       ],
+       "answer": 0,
+       "why": "Correct answer: With fast speed and low latency. 5G gives better connectivity, faster speed, low latency, and support for many devices at the same time — that is why it improves connectivity."
+      },
+      {
+       "q": "Which of these makes high-speed connectivity possible for different devices and gives better connectivity?",
+       "options": [
+        "Edge computing",
+        "5G",
+        "A firewall",
+        "A switch"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 5G. The 5G network provides high-speed connectivity and better connectivity for different devices, as this lesson explains."
+      },
+      {
+       "q": "How does 5G help IoT?",
+       "options": [
+        "By separating networks",
+        "By reducing speed",
+        "By connecting more devices",
+        "By moving devices"
+       ],
+       "answer": 2,
+       "why": "Correct answer: By connecting more devices. 5G supports connecting more IoT devices and controlling them in an organised way."
+      },
+      {
+       "q": "Which technology improves connectivity for more devices, so that self-driving cars and smart cities get a strong connection?",
+       "options": [
+        "IoT",
+        "A router",
+        "A sensor",
+        "5G"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 5G. 5G connects more devices and supports uses such as self-driving cars and smart cities that need a strong connection."
+      },
+      {
+       "q": "What does 'low latency' mean for a 5G connection?",
+       "options": [
+        "There is very little delay in the response",
+        "The connection is very cheap",
+        "Few devices can join",
+        "Data is never stored"
+       ],
+       "answer": 0,
+       "why": "Correct answer: There is very little delay in the response. Latency is the delay before data is transferred; 5G keeps this delay very low."
+      },
+      {
+       "q": "Which of these fields benefits most from 5G?",
+       "options": [
+        "Hand-written letters",
+        "Self-driving cars and smart cities",
+        "Paper printing",
+        "Board games"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Self-driving cars and smart cities. Fields that need quick responses and many connected devices — self-driving cars, smart cities, health and industry — benefit most from 5G."
+      },
+      {
+       "q": "What is one possible risk that comes with the arrival of 5G?",
+       "options": [
+        "Devices become too slow to use",
+        "The internet stops working",
+        "A greater risk of unauthorised access as more devices connect",
+        "Passwords are no longer needed"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A greater risk of unauthorised access as more devices connect. More connected devices mean more chances for attackers, along with worries about data protection."
+      },
+      {
+       "q": "How can the risks of 5G be reduced?",
+       "options": [
+        "By switching off all security software",
+        "By sharing passwords with friends",
+        "By connecting fewer safety rules",
+        "By using a firewall, strong passwords and two-factor authentication"
+       ],
+       "answer": 3,
+       "why": "Correct answer: By using a firewall, strong passwords and two-factor authentication. These measures, together with up-to-date security software and network security rules, reduce the risks."
+      },
+      {
+       "q": "Besides fast speed, what else does 5G support?",
+       "options": [
+        "Many devices at the same time",
+        "Only one device at a time",
+        "Printing on paper",
+        "Working without any network"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Many devices at the same time. Along with better connectivity, faster speed and low latency, 5G supports many devices connected at once."
+      },
+      {
+       "q": "Why do self-driving cars need a technology like 5G?",
+       "options": [
+        "They need colourful screens",
+        "They need quick responses and a strong connection",
+        "They need to print maps",
+        "They need louder sound"
+       ],
+       "answer": 1,
+       "why": "Correct answer: They need quick responses and a strong connection. Self-driving cars must react instantly, so they need the fast speed and low latency that 5G provides."
+      }
+     ]
+    },
+    {
+     "title": "IoT, Sensors and Embedded Systems",
+     "notes_html": "<h4>What is IoT?</h4>\n<p><b>IoT (Internet of Things)</b> is the technology that connects physical things to the internet, so that they can send and receive data and stay connected for better communication. In IoT, everyday things are connected to the internet and can communicate with each other and be controlled.</p>\n<h4>Feature of IoT Devices</h4>\n<ul>\n<li>IoT devices <b>stay connected with other devices and share data</b>.</li>\n<li>They communicate with each other and <b>work together</b>.</li>\n</ul>\n<h4>Role of Sensors</h4>\n<p><b>Sensors</b> are devices that collect data from their surroundings — such as temperature or movement — and pass it to the IoT system. On the basis of that data, devices work automatically, or the user can control them from far away through a phone, for example setting the home temperature from a phone. Sensors enable automatic processes in smart homes and other industries.</p>\n<h4>What is an Embedded System?</h4>\n<p>An <b>embedded system</b> is a small computer fitted inside a bigger device that performs a particular job. Embedded systems complete tasks automatically and make sure devices run <b>without human intervention</b>.</p>\n<table><tr><th>Device</th><th>What its embedded system does</th></tr>\n<tr><td>Washing machine</td><td>Sets the washing time, controls the temperature and runs the wash cycle automatically</td></tr>\n<tr><td>Car</td><td>Controls systems such as the engine and airbags</td></tr>\n<tr><td>Refrigerator</td><td>Sets temperature and works automatically</td></tr>\n<tr><td>MRI machine (medical)</td><td>Makes sure the machine works correctly</td></tr>\n</table>\n<h4>IoT in Daily Life and Health</h4>\n<p>IoT makes life easier by connecting things to the internet, with automatic control and better convenience. In health, medical devices such as MRI machines rely on embedded systems to work correctly, and connected health devices help in monitoring patients.</p>",
+     "mcqs": [
+      {
+       "q": "What does IoT (Internet of Things) enable devices to do?",
+       "options": [
+        "Work separately",
+        "Work only on their own",
+        "Connect with other devices and share data",
+        "Run without the internet"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Connect with other devices and share data. In IoT, everyday things are connected to the internet and can communicate with each other and be controlled."
+      },
+      {
+       "q": "What is a feature of IoT devices in a network?",
+       "options": [
+        "They stay isolated from other devices",
+        "They need no operating system",
+        "They run without the internet",
+        "They stay connected with other devices and share data"
+       ],
+       "answer": 3,
+       "why": "Correct answer: They stay connected with other devices and share data. IoT devices communicate with each other and work together in the network."
+      },
+      {
+       "q": "Which technology connects physical things to the internet so they can send and receive data?",
+       "options": [
+        "IoT (Internet of Things)",
+        "Edge computing",
+        "A firewall",
+        "5G only"
+       ],
+       "answer": 0,
+       "why": "Correct answer: IoT (Internet of Things). In IoT, physical things connect to the internet and send and receive data so they stay connected for better communication."
+      },
+      {
+       "q": "What do sensors do in IoT?",
+       "options": [
+        "They block network traffic",
+        "They collect data from their surroundings and pass it to the IoT system",
+        "They print documents",
+        "They store passwords"
+       ],
+       "answer": 1,
+       "why": "Correct answer: They collect data from their surroundings and pass it to the IoT system. Sensors gather data such as temperature or movement, which enables automatic processes in smart homes and industries."
+      },
+      {
+       "q": "How do sensors make remote control possible?",
+       "options": [
+        "They switch the device off",
+        "They remove the need for internet",
+        "Their data lets a user control a device from far away, e.g. setting home temperature by phone",
+        "They slow the network down"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Their data lets a user control a device from far away. On the basis of sensor data, devices work automatically or the user controls them through a phone."
+      },
+      {
+       "q": "What is an embedded system?",
+       "options": [
+        "A large server room",
+        "A type of internet cable",
+        "A social media app",
+        "A small computer fitted inside a bigger device that performs a particular job"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A small computer fitted inside a bigger device that performs a particular job. It completes tasks automatically so the device runs without human intervention."
+      },
+      {
+       "q": "How does an embedded system make a washing machine automatic?",
+       "options": [
+        "It sets the washing time, controls temperature and runs the wash cycle automatically",
+        "It washes clothes by hand",
+        "It connects the machine to a printer",
+        "It deletes the wash cycle"
+       ],
+       "answer": 0,
+       "why": "Correct answer: It sets the washing time, controls temperature and runs the wash cycle automatically. The machine then works without human intervention."
+      },
+      {
+       "q": "Which of these devices uses an embedded system to control the engine and airbags?",
+       "options": [
+        "A bicycle",
+        "A car",
+        "A notebook",
+        "A ceiling fan with no electronics"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A car. In a car, an embedded system controls systems such as the engine and airbags."
+      },
+      {
+       "q": "How does IoT help in health?",
+       "options": [
+        "By replacing all doctors",
+        "By closing hospitals",
+        "Connected health devices help in monitoring patients, and MRI machines rely on embedded systems",
+        "By printing medicines"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Connected health devices help in monitoring patients. Medical devices such as MRI machines rely on embedded systems to work correctly."
+      },
+      {
+       "q": "Embedded systems are fitted inside devices such as machines so that they can:",
+       "options": [
+        "Store music files",
+        "Only connect to printers",
+        "Work only when a person watches them",
+        "Complete tasks automatically and run without human intervention"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Complete tasks automatically and run without human intervention. That is the main purpose of an embedded system inside a device."
+      }
+     ]
+    },
+    {
+     "title": "Edge Computing",
+     "notes_html": "<h4>What is Edge Computing?</h4>\n<p><b>Edge computing</b> is the process in which data is processed <b>near the place where it is produced</b> — at the device or sensor itself — instead of being sent to a faraway central server.</p>\n<h4>How Edge Computing Reduces Delay</h4>\n<ul>\n<li>Data does not need to travel to a faraway server, so <b>travel time is reduced</b>.</li>\n<li>The response comes quickly, so <b>latency is reduced</b>.</li>\n<li>It also reduces <b>bandwidth use</b>, because less data travels across the network.</li>\n</ul>\n<h4>Example: Traffic Management</h4>\n<p>In a traffic system, edge computing processes data from road sensors <b>on the spot</b> — for example changing signal timings by watching traffic flow, or telling drivers a better route — so that decisions are made quickly and at the right time.</p>",
+     "mcqs": [
+      {
+       "q": "What is the main purpose of edge computing?",
+       "options": [
+        "Processing data where it is produced",
+        "Sending data to a faraway server",
+        "Slowing down the network",
+        "Not storing data"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Processing data where it is produced. In edge computing, data is processed near the device or sensor itself, which reduces delay."
+      },
+      {
+       "q": "What does edge computing help to reduce in a network?",
+       "options": [
+        "Device connectivity",
+        "Latency",
+        "Bandwidth use only",
+        "Internet access"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Latency. Because data is processed nearby, the response comes quickly, so the delay (latency) is reduced."
+      },
+      {
+       "q": "Edge computing is the process in which data is processed:",
+       "options": [
+        "Only in a faraway country",
+        "After one week",
+        "Near the place where it is produced",
+        "On paper"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Near the place where it is produced. This reduces both latency and bandwidth use, because data does not travel far."
+      },
+      {
+       "q": "How does edge computing reduce delay in data processing?",
+       "options": [
+        "Data travels to a central server first",
+        "More devices are switched off",
+        "Data is deleted quickly",
+        "Data is processed at the device or sensor itself, so travel time is reduced"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Data is processed at the device or sensor itself, so travel time is reduced. The data does not need to go to a faraway server, so the response comes quickly."
+      },
+      {
+       "q": "In a traffic management system, edge computing can:",
+       "options": [
+        "Process road sensor data on the spot and change signal timings by watching traffic flow",
+        "Close all roads",
+        "Remove traffic signals",
+        "Print traffic reports"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Process road sensor data on the spot and change signal timings by watching traffic flow. Decisions are made quickly and at the right time, or drivers are told a better route."
+      },
+      {
+       "q": "Where is data processed in edge computing?",
+       "options": [
+        "In a faraway central server only",
+        "Near the device or sensor that produced it",
+        "Inside a printer",
+        "Nowhere — it is thrown away"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Near the device or sensor that produced it. That is the key idea of edge computing — processing happens at the 'edge', close to the data source."
+      },
+      {
+       "q": "Besides latency, what else does processing data near its source reduce?",
+       "options": [
+        "Battery colour",
+        "Device screens",
+        "Bandwidth use",
+        "Number of sensors"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Bandwidth use. Because less data has to travel across the network to a faraway server, bandwidth use falls as well."
+      },
+      {
+       "q": "Why does a traffic system need decisions 'on the spot'?",
+       "options": [
+        "Drivers prefer slow decisions",
+        "Traffic never changes",
+        "Signals work only at night",
+        "Traffic conditions change quickly, so quick decisions are needed"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Traffic conditions change quickly, so quick decisions are needed. Edge computing lets the system react at the right time, for example by changing signal timings."
+      },
+      {
+       "q": "Which statement about edge computing is TRUE?",
+       "options": [
+        "It processes data close to where it is produced",
+        "It increases delay",
+        "It sends all data to a faraway server",
+        "It stops data from being stored anywhere"
+       ],
+       "answer": 0,
+       "why": "Correct answer: It processes data close to where it is produced. This is the opposite of sending everything to a faraway server, and it reduces delay."
+      },
+      {
+       "q": "A road sensor detects heavy traffic. With edge computing, what happens first?",
+       "options": [
+        "The data is mailed to another city",
+        "The data is processed nearby, so signal timings can change quickly",
+        "The sensor is switched off",
+        "The data waits for a week"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The data is processed nearby, so signal timings can change quickly. Edge computing handles sensor data on the spot instead of sending it far away."
+      }
+     ]
+    },
+    {
+     "title": "Network Devices and Components",
+     "notes_html": "<h4>Main Components of a Computer Network</h4>\n<table><tr><th>Component</th><th>Its job</th></tr>\n<tr><td>Sender</td><td>Sends the message</td></tr>\n<tr><td>Message</td><td>The information being sent</td></tr>\n<tr><td>Medium</td><td>Carries the message</td></tr>\n<tr><td>Receiver</td><td>Gets the message</td></tr>\n<tr><td>Protocol</td><td>The set of rules that lets both sides connect properly</td></tr>\n</table>\n<p>Hardware such as the <b>NIC, modem, hub, switch, router, gateway and access point</b> lets devices join the network.</p>\n<h4>Router</h4>\n<p>A <b>router</b> is a device that <b>connects different networks</b> and makes sure data reaches the correct destination. It decides the path for data. In a wide area network (WAN), a router organises communication between devices and joins LANs over long distances.</p>\n<h4>Switch</h4>\n<p>A <b>switch</b> guides data between connected devices in a local area network (LAN). It sends data <b>only to the device it is meant for</b>, while a hub sends data to all connected devices — so devices communicate most effectively through a switch.</p>",
+     "mcqs": [
+      {
+       "q": "What does a router do in a network?",
+       "options": [
+        "Connect devices inside a local network only",
+        "Increase internet speed",
+        "Connect different networks and deliver data to the correct destination",
+        "Connect wireless devices to the network"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Connect different networks and deliver data to the correct destination. A router joins different networks, decides the path for data, and makes sure information reaches the right place."
+      },
+      {
+       "q": "Through what do devices in a network communicate with each other most effectively?",
+       "options": [
+        "Hub",
+        "Router",
+        "Modem",
+        "Switch"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Switch. A switch sends data only to the device it is meant for, while a hub sends data to all connected devices."
+      },
+      {
+       "q": "A ______ is a device that connects different networks and makes sure data reaches the correct destination.",
+       "options": [
+        "Router",
+        "Switch",
+        "Sensor",
+        "Firewall"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Router. A router connects different networks and decides the path for data."
+      },
+      {
+       "q": "In a network, a ______ guides data between connected devices, which makes communication in a LAN effective.",
+       "options": [
+        "Printer",
+        "Switch",
+        "Monitor",
+        "Speaker"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Switch. A switch sends data to the correct device, which makes communication in a local area network (LAN) effective."
+      },
+      {
+       "q": "Which device organises communication between devices in a WAN and joins LANs over long distances?",
+       "options": [
+        "Hub",
+        "Sensor",
+        "Router",
+        "Keyboard"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Router. In a WAN, a router organises communication between different LANs and delivers data to its destination."
+      },
+      {
+       "q": "Which of these is the set of rules that lets both sides in a network connect properly?",
+       "options": [
+        "Message",
+        "Medium",
+        "Sender",
+        "Protocol"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Protocol. The protocol is the set of rules for communication; the sender sends the message, the medium carries it, and the receiver gets it."
+      },
+      {
+       "q": "In the components of a network, the 'medium' is:",
+       "options": [
+        "What carries the message",
+        "The person sending data",
+        "The rules of communication",
+        "The final device"
+       ],
+       "answer": 0,
+       "why": "Correct answer: What carries the message. The medium is the path or channel through which the message travels from sender to receiver."
+      },
+      {
+       "q": "Which list contains only network hardware devices?",
+       "options": [
+        "Keyboard, mouse, monitor, printer only",
+        "NIC, modem, hub, switch, router, gateway, access point",
+        "Word, Excel, Paint, Notepad",
+        "Table, chair, desk, shelf"
+       ],
+       "answer": 1,
+       "why": "Correct answer: NIC, modem, hub, switch, router, gateway, access point. These hardware devices let other devices join the network."
+      },
+      {
+       "q": "How is a switch better than a hub for communication?",
+       "options": [
+        "A switch sends data to all devices",
+        "A switch needs no electricity",
+        "A switch sends data only to the device it is meant for",
+        "A switch prints the data"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A switch sends data only to the device it is meant for. A hub sends data to all connected devices, which is less effective."
+      },
+      {
+       "q": "What does a router decide for data travelling in a network?",
+       "options": [
+        "The colour of the data",
+        "The name of the user",
+        "The size of the screen",
+        "The path for the data"
+       ],
+       "answer": 3,
+       "why": "Correct answer: The path for the data. A router decides the route so that information reaches the right place."
+      }
+     ]
+    },
+    {
+     "title": "Network Security and Faults",
+     "notes_html": "<h4>What a Firewall Does</h4>\n<p>In network security, the main job of a <b>firewall</b> is to <b>monitor and control incoming and outgoing network traffic</b>. A firewall checks traffic against pre-set rules and blocks unauthorised access.</p>\n<h4>Challenges of Network Security</h4>\n<ul>\n<li><b>Unauthorised access</b> — strangers getting into the network.</li>\n<li><b>Faults</b> — a network fault can cause data to be <b>lost or damaged</b> and make access difficult.</li>\n<li><b>Viruses and malware</b> — harmful programs that can spread through the network.</li>\n</ul>\n<h4>How to Protect Information</h4>\n<table><tr><th>Measure</th><th>How it helps</th></tr>\n<tr><td>Firewall</td><td>Checks traffic against rules and blocks unauthorised access</td></tr>\n<tr><td>Strong passwords</td><td>Make accounts hard to break into</td></tr>\n<tr><td>Two-factor authentication (2FA)</td><td>Adds a second check besides the password</td></tr>\n<tr><td>Up-to-date antivirus software</td><td>Catches viruses and malware</td></tr>\n<tr><td>Secure communications</td><td>Keep information safe while it travels</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "What is the main job of a firewall in network security?",
+       "options": [
+        "Monitoring and controlling incoming and outgoing network traffic",
+        "Blocking access to the internet",
+        "Stopping data from being shared",
+        "Improving device speed"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Monitoring and controlling incoming and outgoing network traffic. A firewall checks traffic against pre-set rules and blocks unauthorised access."
+      },
+      {
+       "q": "In a network, the main job of a ______ is to monitor and control incoming and outgoing traffic, so unauthorised access can be prevented.",
+       "options": [
+        "Sensor",
+        "Firewall",
+        "Switch",
+        "Modem"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Firewall. A firewall checks traffic against rules and blocks unauthorised access."
+      },
+      {
+       "q": "What happens as a result of faults in a network?",
+       "options": [
+        "Speed increases",
+        "Better communication between devices",
+        "Data is lost or damaged",
+        "Easier access to resources"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Data is lost or damaged. A network fault can cause data loss or damage and make access difficult."
+      },
+      {
+       "q": "Which of these is a challenge for network security?",
+       "options": [
+        "Too many holidays",
+        "Faster typing",
+        "Bigger screens",
+        "Unauthorised access"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Unauthorised access. The challenges are unauthorised access, faults that can lose or damage data, and viruses and malware spreading through the network."
+      },
+      {
+       "q": "How does a firewall check network traffic?",
+       "options": [
+        "Against pre-set rules",
+        "By asking every user",
+        "By switching the network off",
+        "By printing a report"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Against pre-set rules. Traffic that breaks the rules is blocked, which stops unauthorised access."
+      },
+      {
+       "q": "Which measure adds a second check besides a password?",
+       "options": [
+        "Strong wallpaper",
+        "Two-factor authentication",
+        "A bigger monitor",
+        "More cables"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Two-factor authentication. It is one of the protection measures, along with a firewall, strong passwords, up-to-date antivirus software and secure communications."
+      },
+      {
+       "q": "Viruses and malware are a network security challenge because they can:",
+       "options": [
+        "Speed up every device",
+        "Clean the network",
+        "Spread through the network",
+        "Protect passwords"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Spread through the network. Harmful programs move from device to device through the network and damage data."
+      },
+      {
+       "q": "Which combination best protects information in a network?",
+       "options": [
+        "Weak passwords and old software",
+        "No rules at all",
+        "Sharing passwords and open access",
+        "Firewall, strong passwords, 2FA and up-to-date antivirus"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Firewall, strong passwords, 2FA and up-to-date antivirus. Secure communications also help keep information safe."
+      },
+      {
+       "q": "What can a network fault make difficult?",
+       "options": [
+        "Access to resources",
+        "Sitting on a chair",
+        "Reading a book",
+        "Charging a phone"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Access to resources. A fault can lose or damage data and make access difficult."
+      },
+      {
+       "q": "Why should antivirus software be kept up to date?",
+       "options": [
+        "To change its colour",
+        "So it can catch new viruses and malware spreading through the network",
+        "To make the screen brighter",
+        "To reduce the number of devices"
+       ],
+       "answer": 1,
+       "why": "Correct answer: So it can catch new viruses and malware spreading through the network. Updated protection is one of the measures for protecting information."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Skills",
+   "lessons": [
+    {
+     "title": "Getting Started with Microsoft Excel",
+     "notes_html": "<h4>What is Microsoft Excel?</h4>\n<p><b>Microsoft Excel</b> is a <b>spreadsheet</b> program, part of Microsoft Office, used to organise data in table form.</p>\n<h4>Workbook and Worksheet</h4>\n<table><tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>Workbook</td><td>A complete Excel file, like a binder, containing one or more worksheets; saved in <b>.xlsx</b> format</td></tr>\n<tr><td>Worksheet</td><td>A single page made of a grid of rows and columns, where data is entered and organised</td></tr>\n<tr><td>Cell</td><td>The intersection (meeting point) of a column and a row; it has an address such as <b>A1</b> or <b>B2</b></td></tr>\n</table>\n<h4>Formulas and the Formula Bar</h4>\n<ul>\n<li>Every Excel formula begins with the <b>equals sign (=)</b>, followed by cell references, numbers and operators.</li>\n<li>The <b>formula bar</b> shows the content or formula of the active cell and lets you type or change it. For example, when cell H6 is selected, the formula bar shows <b>=C6+D6+E6+F6+G6</b>.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is Microsoft Excel?",
+       "options": [
+        "Presentation",
+        "Database management",
+        "Spreadsheet",
+        "Workbook"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Spreadsheet. Excel is a spreadsheet program, part of Microsoft Office, used to organise data in table form."
+      },
+      {
+       "q": "What is the intersection of a column and a row in a worksheet called?",
+       "options": [
+        "Column",
+        "Value",
+        "Address",
+        "Cell"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Cell. The meeting of a column and a row forms a cell, which has an address such as A1 or B2."
+      },
+      {
+       "q": "With what do Excel formulas begin?",
+       "options": [
+        "=",
+        "[]",
+        "/",
+        "&"
+       ],
+       "answer": 0,
+       "why": "Correct answer: =. Every formula begins with the equals sign (=), followed by cell references, numbers, and operators."
+      },
+      {
+       "q": "What is a workbook in Excel?",
+       "options": [
+        "A single page of rows and columns",
+        "A complete file containing one or more worksheets, saved in .xlsx format",
+        "A type of chart",
+        "A printing machine"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A complete file containing one or more worksheets, saved in .xlsx format. A workbook is like a binder that holds worksheets."
+      },
+      {
+       "q": "What is a worksheet?",
+       "options": [
+        "A formula",
+        "The whole Excel file",
+        "A single page made of a grid of rows and columns",
+        "A password"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A single page made of a grid of rows and columns. Data is entered and organised on a worksheet, and one or more worksheets make a workbook."
+      },
+      {
+       "q": "What is the purpose of the formula bar?",
+       "options": [
+        "It prints the worksheet",
+        "It changes the screen colour",
+        "It deletes cells",
+        "It shows the content or formula of the active cell and lets you type or change it"
+       ],
+       "answer": 3,
+       "why": "Correct answer: It shows the content or formula of the active cell and lets you type or change it. For example, when H6 is selected it shows =C6+D6+E6+F6+G6."
+      },
+      {
+       "q": "Cell H6 is selected and contains the total of C6 to G6. What does the formula bar show?",
+       "options": [
+        "=C6+D6+E6+F6+G6",
+        "H6",
+        "SUM only",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "Correct answer: =C6+D6+E6+F6+G6. The formula bar displays the formula stored in the active cell, not just the result."
+      },
+      {
+       "q": "B2 is an example of a cell's:",
+       "options": [
+        "Value",
+        "Address",
+        "Formula",
+        "Chart"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Address. A cell formed by column B and row 2 has the address B2."
+      },
+      {
+       "q": "In which format is an Excel workbook saved?",
+       "options": [
+        ".docx",
+        ".pptx",
+        ".xlsx",
+        ".txt"
+       ],
+       "answer": 2,
+       "why": "Correct answer: .xlsx. A workbook — the complete file containing one or more worksheets — is saved in .xlsx format."
+      },
+      {
+       "q": "After typing = in a cell, what usually follows in a formula?",
+       "options": [
+        "Only pictures",
+        "Nothing at all",
+        "Only the file name",
+        "Cell references, numbers and operators"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Cell references, numbers and operators. A formula begins with = and then uses references like C6, numbers and operators like +."
+      }
+     ]
+    },
+    {
+     "title": "Formulas, Functions and Formatting",
+     "notes_html": "<h4>Useful Functions</h4>\n<table><tr><th>Function</th><th>What it does</th></tr>\n<tr><td>SUM()</td><td>Adds values, e.g. =SUM(D2:D8) gives a total</td></tr>\n<tr><td>SUMIF()</td><td>Adds values that meet a condition, e.g. total of one category</td></tr>\n<tr><td>AVERAGE()</td><td>Gives the average of values</td></tr>\n<tr><td>MAX() / MIN()</td><td>Give the highest / lowest value</td></tr>\n<tr><td>IF()</td><td>Checks whether a condition is true; gives one result if true and another if false</td></tr>\n</table>\n<h4>Filtering</h4>\n<p><b>Filtering</b> shows only the data (rows) that meets a particular condition. It is different from sorting, which only changes the order of the data.</p>\n<h4>Conditional Formatting</h4>\n<p><b>Conditional formatting</b> is found on the <b>Home tab</b>, in the Styles group. It highlights cells on the basis of set rules — for example, colouring all marks above 80.</p>\n<h4>Sorting</h4>\n<p>To sort: select the data, use <b>Sort</b> from the <b>Data tab</b>, choose the column in 'Sort by', and choose the order, such as Largest to Smallest.</p>",
+     "mcqs": [
+      {
+       "q": "Which Excel function checks whether a condition is true?",
+       "options": [
+        "IF()",
+        "SUM()",
+        "MIN()",
+        "AVERAGE()"
+       ],
+       "answer": 0,
+       "why": "Correct answer: IF(). The IF function tests a condition; if the condition is true it gives one result, otherwise it gives another result."
+      },
+      {
+       "q": "Which Excel feature shows only the data that meets a particular condition?",
+       "options": [
+        "Sorting",
+        "Filtering",
+        "Formula",
+        "Pivot"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Filtering. A filter shows only the rows that meet the chosen condition, hiding the rest."
+      },
+      {
+       "q": "Where is conditional formatting in Excel?",
+       "options": [
+        "Insert tab",
+        "Page Layout tab",
+        "Home tab",
+        "Data tab"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Home tab. Conditional formatting sits in the Styles group of the Home tab and highlights cells on the basis of set rules."
+      },
+      {
+       "q": "Which function adds up a range of values, such as =SUM(D2:D8)?",
+       "options": [
+        "MIN()",
+        "IF()",
+        "MAX()",
+        "SUM()"
+       ],
+       "answer": 3,
+       "why": "Correct answer: SUM(). In the book's expenses activity, =SUM(D2:D8) in cell D9 gives the total expense."
+      },
+      {
+       "q": "In the expenses activity, the total of only the 'Food' category is found with:",
+       "options": [
+        "=SUMIF(B2:B8,\"Food\",D2:D8)",
+        "=SUM(D2:D8)",
+        "=AVERAGE(D2:D8)",
+        "=MAX(D2:D8)"
+       ],
+       "answer": 0,
+       "why": "Correct answer: =SUMIF(B2:B8,\"Food\",D2:D8). SUMIF adds only the amounts whose category matches the condition — Food gives 50 in the book's example."
+      },
+      {
+       "q": "Which function gives the highest value in a range, such as the highest gross in the movies worksheet?",
+       "options": [
+        "MIN()",
+        "MAX()",
+        "SUM()",
+        "IF()"
+       ],
+       "answer": 1,
+       "why": "Correct answer: MAX(). The book's movies task uses =MAX(D2:D12) for the highest gross and =MIN(D2:D12) for the lowest."
+      },
+      {
+       "q": "Conditional formatting highlights cells on the basis of:",
+       "options": [
+        "Their position only",
+        "The file name",
+        "Set rules or conditions",
+        "Random colours"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Set rules or conditions. It is found in the Styles group of the Home tab."
+      },
+      {
+       "q": "To sort the movies by Profit from Largest to Smallest, you use:",
+       "options": [
+        "Conditional formatting",
+        "Filter from the Home tab",
+        "The formula bar",
+        "Sort from the Data tab, with Profit in 'Sort by'"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Sort from the Data tab, with Profit in 'Sort by'. Then choose Largest to Smallest as the order."
+      },
+      {
+       "q": "A grade is given by =IF(H6>=80,\"A\",IF(H6>=60,\"B\",\"C\")). This works because IF:",
+       "options": [
+        "Tests a condition and gives different results",
+        "Adds numbers",
+        "Draws a chart",
+        "Sorts the data"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Tests a condition and gives different results. Here nested IF functions check the average marks and return grade A, B or C."
+      },
+      {
+       "q": "What is the difference between filtering and sorting?",
+       "options": [
+        "Filtering changes order; sorting hides rows",
+        "Filtering shows only rows meeting a condition; sorting changes the order of data",
+        "Both delete data",
+        "There is no difference"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Filtering shows only rows meeting a condition; sorting changes the order of data. Filtering hides non-matching rows, while sorting rearranges all the data."
+      }
+     ]
+    },
+    {
+     "title": "Uses of Excel and Making Charts",
+     "notes_html": "<h4>Uses of Microsoft Excel</h4>\n<table><tr><th>Where</th><th>Uses</th></tr>\n<tr><td>Personal use</td><td>Keeping track of your budget, contact lists and expenses</td></tr>\n<tr><td>School</td><td>Organising homework and assignments, recording grades, and making charts</td></tr>\n<tr><td>Work</td><td>Analysing sales data, making employee schedules, and tracking finances</td></tr>\n</table>\n<h4>How to Insert a Chart</h4>\n<ul>\n<li><b>Step 1:</b> Select the data to show in the chart, for example students' names and their marks.</li>\n<li><b>Step 2:</b> Click the <b>Insert tab</b>.</li>\n<li><b>Step 3:</b> Click the <b>Chart</b> command.</li>\n<li><b>Step 4:</b> Choose the chart type you want, for example a <b>3D bar chart</b> — the chart will appear in the worksheet.</li>\n</ul>\n<h4>Activity: A Simple Sales Report</h4>\n<p>Enter the data (Product, Quantity, Price, Total): Apple 10 / 2.5, Banana 15 / 1.8, Orange 8 / 3. Make the headings <b>Bold</b> and centred, give them a fill colour, apply currency format to Price and Total, and add borders. For Total, type the formula <b>=B2*C2</b> and fill it down: Apple 25.00, Banana 27.00, Orange 24.00. Save the file as <b>BasicActivity.xlsx</b>.</p>",
+     "mcqs": [
+      {
+       "q": "Which of these is a personal use of Excel?",
+       "options": [
+        "Flying an aeroplane",
+        "Running a factory machine",
+        "Keeping track of your budget and expenses",
+        "Printing newspapers"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Keeping track of your budget and expenses. Personal uses include budgets, contact lists and expenses."
+      },
+      {
+       "q": "Excel is used in school for:",
+       "options": [
+        "Painting walls",
+        "Cooking food",
+        "Driving the school bus",
+        "Organising homework, recording grades and making charts"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Organising homework, recording grades and making charts. Schools use Excel for assignments, grades and charts."
+      },
+      {
+       "q": "What is the FIRST step to insert a chart in a worksheet?",
+       "options": [
+        "Select the data to show in the chart",
+        "Click the Insert tab",
+        "Choose a 3D bar chart",
+        "Save the file"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Select the data to show in the chart. First select data such as students' names and marks, then use the Insert tab and the Chart command."
+      },
+      {
+       "q": "After selecting the data, which tab do you click to insert a chart?",
+       "options": [
+        "Home tab",
+        "Insert tab",
+        "Data tab",
+        "View tab"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Insert tab. Then click the Chart command and choose the chart type, for example a 3D bar chart."
+      },
+      {
+       "q": "In the sales report activity, the Total for a product is calculated with:",
+       "options": [
+        "=B2+C2",
+        "=B2/C2",
+        "=B2*C2",
+        "=SUM(B2)"
+       ],
+       "answer": 2,
+       "why": "Correct answer: =B2*C2. Total = Quantity × Price, filled down for all products: Apple 25.00, Banana 27.00, Orange 24.00."
+      },
+      {
+       "q": "Apple: Quantity 10, Price 2.5. What is the Total?",
+       "options": [
+        "12.5",
+        "250",
+        "4",
+        "25.00"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 25.00. Total = 10 × 2.5 = 25.00, using the formula =B2*C2."
+      },
+      {
+       "q": "In the sales report, headings are made bold and centred using which tab's groups?",
+       "options": [
+        "The Home tab (Font and Alignment groups)",
+        "The Data tab",
+        "The Insert tab only",
+        "The File tab"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The Home tab (Font and Alignment groups). Bold comes from the Font group and centring from the Alignment group; borders and fill colour are also applied."
+      },
+      {
+       "q": "Currency format for the Price and Total columns is applied from:",
+       "options": [
+        "The Chart command",
+        "The Number group",
+        "The formula bar",
+        "The Sort command"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The Number group. In the activity, currency format is applied to Price and Total from the Number group."
+      },
+      {
+       "q": "The sales report file is saved as:",
+       "options": [
+        "Sales.docx",
+        "Report.pptx",
+        "BasicActivity.xlsx",
+        "Data.txt"
+       ],
+       "answer": 2,
+       "why": "Correct answer: BasicActivity.xlsx. The activity ends by saving the workbook with this name."
+      },
+      {
+       "q": "At work, Excel is used for:",
+       "options": [
+        "Sending parcels",
+        "Playing games only",
+        "Watching films",
+        "Analysing sales data, making employee schedules and tracking finances"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Analysing sales data, making employee schedules and tracking finances. These are the work uses given in this lesson."
+      }
+     ]
+    },
+    {
+     "title": "Excel Practice Tasks",
+     "notes_html": "<h4>Task 1: Daily Expenses Calculator</h4>\n<p>Headings: Date, Category, Description, Amount. Entries include Food 50, Transport 15, Rent 500, Transport 10. Total expense: <b>=SUM(D2:D8)</b> gives <b>$575</b>. Category totals use <b>SUMIF</b>: Food = 50, Transport = 25, Rent = 500. Save as <b>Personal Expense.xlsx</b>.</p>\n<h4>Task 2: Movies Worksheet</h4>\n<ul>\n<li>Movies are in rows 2 to 12; Budget in column C, World Gross in column D.</li>\n<li>Profit (column E): <b>=D2-C2</b> — subtract the budget from the gross, fill down.</li>\n<li>Highest gross: <b>=MAX(D2:D12)</b>; Lowest: <b>=MIN(D2:D12)</b>; Average: <b>=AVERAGE(D2:D12)</b>.</li>\n<li>Sort by Profit (Largest to Smallest) from the Data tab; make a <b>Pie chart</b> of Movie and Profit from the Insert tab.</li>\n</ul>\n<h4>Task 3: Mark Sheet, Monthly Bill, Attendance Register</h4>\n<p>Mark sheet columns: student name, registration number, subject marks, total, average, grade. Total: <b>=SUM(C6:G6)</b>; Average: <b>=AVERAGE(C6:G6)</b>; Grade with IF: <b>=IF(H6&gt;=80,\"A\",IF(H6&gt;=60,\"B\",\"C\"))</b>. Then make a bar chart of names and totals.</p>\n<h4>Task 4: Toy Shop Worksheet</h4>\n<table><tr><th>Column</th><th>Formula</th></tr>\n<tr><td>Cost (D)</td><td>=B2*C2 (price per item × quantity ordered)</td></tr>\n<tr><td>Discount (E)</td><td>=D2*7% (7 percent discount on the cost)</td></tr>\n<tr><td>Final Cost (F)</td><td>=D2-E2 (cost minus discount)</td></tr>\n<tr><td>Totals</td><td>=SUM(B2:B6), =SUM(D2:D6), =SUM(E2:E6), =SUM(F2:F6)</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "In the expenses calculator, the total expense formula =SUM(D2:D8) gives:",
+       "options": [
+        "$575",
+        "$500",
+        "$50",
+        "$65"
+       ],
+       "answer": 0,
+       "why": "Correct answer: $575. The entries in D2:D8 total $575 in the book's activity."
+      },
+      {
+       "q": "Using SUMIF, the Transport category total (Bus fare 15 + Train fare 10) is:",
+       "options": [
+        "15",
+        "25",
+        "10",
+        "575"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 25. =SUMIF(B2:B8,\"Transport\",D2:D8) adds only the Transport amounts: 15 + 10 = 25."
+      },
+      {
+       "q": "In the movies worksheet, Profit in column E is calculated as:",
+       "options": [
+        "=C2+D2",
+        "=D2*C2",
+        "=D2-C2",
+        "=C2-D2"
+       ],
+       "answer": 2,
+       "why": "Correct answer: =D2-C2. Profit means subtracting the budget (column C) from the world gross (column D), then filling the formula down."
+      },
+      {
+       "q": "The average gross of the movies is found with:",
+       "options": [
+        "=MAX(D2:D12)",
+        "=MIN(D2:D12)",
+        "=SUM(D2:D12)",
+        "=AVERAGE(D2:D12)"
+       ],
+       "answer": 3,
+       "why": "Correct answer: =AVERAGE(D2:D12). MAX gives the highest gross and MIN gives the lowest gross in the same range."
+      },
+      {
+       "q": "For the movies task, a Pie chart is made from which columns?",
+       "options": [
+        "Movie and Profit",
+        "Budget and Year",
+        "Only Gross",
+        "Only Budget"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Movie and Profit. Select Movie and Profit, then choose a Pie chart from the Insert tab."
+      },
+      {
+       "q": "In the mark sheet, a student's total of subjects C6 to G6 is:",
+       "options": [
+        "=AVERAGE(C6:G6)",
+        "=SUM(C6:G6)",
+        "=IF(C6:G6)",
+        "=MAX(C6:G6)"
+       ],
+       "answer": 1,
+       "why": "Correct answer: =SUM(C6:G6). The average then uses =AVERAGE(C6:G6) and the grade uses an IF formula."
+      },
+      {
+       "q": "A student has average marks of 65. The grade formula =IF(H6>=80,\"A\",IF(H6>=60,\"B\",\"C\")) gives:",
+       "options": [
+        "A",
+        "C",
+        "B",
+        "Error"
+       ],
+       "answer": 2,
+       "why": "Correct answer: B. 65 is less than 80 but at least 60, so the nested IF returns \"B\"."
+      },
+      {
+       "q": "In the toy shop worksheet, Cost in column D is:",
+       "options": [
+        "=B2+C2",
+        "=D2*7%",
+        "=B2-C2",
+        "=B2*C2"
+       ],
+       "answer": 3,
+       "why": "Correct answer: =B2*C2. Cost = price per item × quantity ordered, filled down for each toy."
+      },
+      {
+       "q": "The Discount in the toy shop (column E) is calculated as:",
+       "options": [
+        "=D2*7%",
+        "=D2-E2",
+        "=B2*C2",
+        "=SUM(D2:D6)"
+       ],
+       "answer": 0,
+       "why": "Correct answer: =D2*7%. The discount is 7 percent of the cost, and the Final Cost is then =D2-E2."
+      },
+      {
+       "q": "Final Cost in the toy shop worksheet is:",
+       "options": [
+        "Cost + Discount",
+        "Cost − Discount, i.e. =D2-E2",
+        "Cost × Discount",
+        "Only the Discount"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Cost − Discount, i.e. =D2-E2. You subtract the discount from the cost to get the final cost."
+      },
+      {
+       "q": "The grand total of all final costs in the toy shop is:",
+       "options": [
+        "=F2 only",
+        "=SUM(B2:B6)",
+        "=SUM(F2:F6)",
+        "=AVERAGE(F2:F6)"
+       ],
+       "answer": 2,
+       "why": "Correct answer: =SUM(F2:F6). Similarly =SUM(D2:D6) totals the costs and =SUM(E2:E6) totals the discounts."
+      },
+      {
+       "q": "The expenses workbook is saved with the name:",
+       "options": [
+        "BasicActivity.xlsx",
+        "ToyShop.xlsx",
+        "Movies.xlsx",
+        "Personal Expense.xlsx"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Personal Expense.xlsx. The daily expenses calculator activity ends with this file name."
+      },
+      {
+       "q": "In the expenses activity, the Date column is changed to long date using:",
+       "options": [
+        "Number format (Ctrl+1)",
+        "The Chart command",
+        "Sorting",
+        "The formula bar"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Number format (Ctrl+1). The Format Cells dialog sets the long date format, and currency format is applied to the Amount column."
+      },
+      {
+       "q": "In an attendance register worksheet, each student's attendance percentage is worked out from:",
+       "options": [
+        "The student's name",
+        "Present/absent entries across the dates",
+        "The chart type",
+        "The file name"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Present/absent entries across the dates. The register records student, dates and present/absent, and the percentage is calculated from those entries."
+      },
+      {
+       "q": "Why do we 'fill down' a formula like =D2-C2 in the movies worksheet?",
+       "options": [
+        "To delete the other rows",
+        "To change the chart",
+        "To apply the same calculation to all rows quickly",
+        "To rename the file"
+       ],
+       "answer": 2,
+       "why": "Correct answer: To apply the same calculation to all rows quickly. Filling down copies the formula with adjusted cell references for every movie row."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Algorithmic Thinking and Problem Solving",
+   "lessons": [
+    {
+     "title": "Computational Thinking",
+     "notes_html": "<h4>What is Computational Thinking?</h4>\n<p><b>Computational thinking</b> means thinking about problems the way a computer does. It lets us break a complex problem into smaller parts and prepare an algorithm to solve it. Its main parts are decomposition, pattern recognition, abstraction and algorithm design.</p>\n<h4>Decomposition</h4>\n<p><b>Decomposition</b> splits a big problem into small, manageable parts, so each part can be solved separately — this makes solving the problem more easily possible. Example: to build a LEGO car, split the problem into parts — making the chassis, fitting the wheels, making the body, fitting the roof, and final decoration.</p>\n<h4>Pattern Recognition</h4>\n<p><b>Pattern recognition</b> means identifying patterns, relations and similarities in data and using them in a problem. It lets solutions learned from earlier experience be applied to new problems.</p>\n<h4>Abstraction</h4>\n<p><b>Abstraction</b> means focusing only on important details and ignoring unneeded information. Example: when building a LEGO car, the car's colour, the design of the seats, or the details of the headlights are ignored, and attention is given only to the main structure — this makes the problem simple and clear.</p>",
+     "mcqs": [
+      {
+       "q": "In algorithmic thinking, the purpose of breaking a big problem into smaller problems is:",
+       "options": [
+        "Making the problem more difficult",
+        "Avoiding the computer",
+        "Adding more steps",
+        "Solving the problem more easily"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Solving the problem more easily. Splitting a big problem into small, manageable parts (decomposition) makes its solution easier."
+      },
+      {
+       "q": "Identifying patterns, relations, and similarities in data and using them in a problem is called:",
+       "options": [
+        "Pattern Recognition",
+        "Decomposition",
+        "Abstraction",
+        "Algorithmic Thinking"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Pattern Recognition. Recognising patterns lets solutions learned from earlier experience be applied to new problems."
+      },
+      {
+       "q": "Focusing only on important details and ignoring unneeded information is called:",
+       "options": [
+        "Decomposition",
+        "Abstraction",
+        "Pattern Recognition",
+        "Algorithm Design"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Abstraction. In abstraction, attention is given to the important points of a problem and unneeded details are left out."
+      },
+      {
+       "q": "______ lets us break a complex problem into smaller parts and prepare an algorithm to solve it.",
+       "options": [
+        "Conditional Statements",
+        "Nested Loop",
+        "Computational Thinking",
+        "Pseudocode"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Computational Thinking. Computational thinking is thinking about problems the way a computer does, including decomposition, patterns, abstraction, and algorithms."
+      },
+      {
+       "q": "What does decomposition do in problem solving?",
+       "options": [
+        "Joins all problems into one big problem",
+        "Ignores every detail",
+        "Deletes the problem",
+        "Splits a big problem into small, manageable parts"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Splits a big problem into small, manageable parts. Each part can then be solved separately."
+      },
+      {
+       "q": "In the LEGO car example, decomposition means splitting the work into:",
+       "options": [
+        "Making the chassis, fitting the wheels, making the body, fitting the roof, and final decoration",
+        "Only painting the car",
+        "Buying a finished car",
+        "Counting the bricks only"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Making the chassis, fitting the wheels, making the body, fitting the roof, and final decoration. These are the smaller parts of the big problem."
+      },
+      {
+       "q": "In the LEGO car example, which details does abstraction ignore?",
+       "options": [
+        "The main structure",
+        "The car's colour, seat design and headlight details",
+        "The wheels",
+        "The chassis"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The car's colour, seat design and headlight details. Abstraction keeps attention on the main structure and leaves out unneeded details."
+      },
+      {
+       "q": "How does pattern recognition help in solving new problems?",
+       "options": [
+        "It hides all data",
+        "It removes all similarities",
+        "Solutions learned from earlier experience can be applied to new problems",
+        "It makes problems longer"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Solutions learned from earlier experience can be applied to new problems. Recognising patterns, relations and similarities makes this possible."
+      },
+      {
+       "q": "Which of these is NOT one of the main parts of computational thinking in this lesson?",
+       "options": [
+        "Decomposition",
+        "Pattern recognition",
+        "Abstraction",
+        "Guessing the answer without steps"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Guessing the answer without steps. Computational thinking uses decomposition, patterns, abstraction and algorithms — a clear, step-by-step approach."
+      },
+      {
+       "q": "Abstraction makes a problem:",
+       "options": [
+        "Simple and clear",
+        "More confusing",
+        "Impossible to solve",
+        "Full of unneeded details"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Simple and clear. By attending only to important details and leaving out the rest, the problem becomes easier to understand and solve."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms and Types of Problems",
+     "notes_html": "<h4>What is an Algorithm?</h4>\n<p>An <b>algorithm</b> is a set of instructions to solve a problem — a clear step-by-step sequence of instructions.</p>\n<h4>Simple and Complex Problems</h4>\n<table><tr><th>Problem</th><th>Type</th><th>Reason</th></tr>\n<tr><td>Teacher has 5 apples, friend has 3 more — how many does the friend have?</td><td>Simple</td><td>Just one step: 5 + 3 = 8</td></tr>\n<tr><td>Organising a class trip (bus booking, whole-day schedule, activities)</td><td>Complex</td><td>Many steps and many factors come together</td></tr>\n<tr><td>Making tea by a recipe for many people at a party</td><td>Simple</td><td>Steps are fixed; only quantities increase in proportion</td></tr>\n<tr><td>A science exhibition (permission, schedule, presenters)</td><td>Complex</td><td>Many steps and many decisions come together</td></tr>\n</table>\n<h4>Worked Example: Pizza Party Algorithm</h4>\n<p>Arrange a pizza party for 20 students. Each student needs 2 slices, each pizza has 8 slices, one pizza costs 1000 rupees.</p>\n<ul>\n<li>Step 1: Start.</li>\n<li>Step 2: Slices needed = 20 × 2 = 40.</li>\n<li>Step 3: Pizzas needed = 40 ÷ 8 = 5.</li>\n<li>Step 4: Total cost = 5 × 1000 = 5000 rupees.</li>\n<li>Step 5: Show the result: 5 pizzas, 5000 rupees.</li>\n<li>Step 6: End.</li>\n</ul>\n<h4>Solving One Problem by Different Methods</h4>\n<p>Making tea: Method 1 uses a kettle on the stove; Method 2 uses an electric kettle. Method 2 is best because the electric kettle heats water quickly and needs less watching — the same result comes in less time.</p>",
+     "mcqs": [
+      {
+       "q": "What is an algorithm?",
+       "options": [
+        "A type of computer",
+        "A set of instructions to solve a problem",
+        "A programming language",
+        "A game"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A set of instructions to solve a problem. An algorithm is a clear step-by-step sequence of instructions for solving a problem."
+      },
+      {
+       "q": "The teacher has 5 apples and her friend has 3 more. Finding the friend's apples is a simple problem because:",
+       "options": [
+        "It needs many decisions",
+        "It needs a bus booking",
+        "It takes just one step: 5 + 3 = 8",
+        "It has many factors"
+       ],
+       "answer": 2,
+       "why": "Correct answer: It takes just one step: 5 + 3 = 8. A problem with a single clear step is a simple problem."
+      },
+      {
+       "q": "Which of these is a COMPLEX problem?",
+       "options": [
+        "Adding 5 and 3",
+        "Counting to 10",
+        "Making one cup of tea by a recipe",
+        "Organising a class trip with bus booking, schedule and activities"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Organising a class trip. Many steps and many factors come together, so it is complex."
+      },
+      {
+       "q": "Making tea by a fixed recipe for many people at a party is still a simple problem because:",
+       "options": [
+        "The steps are fixed; only the quantities increase in proportion",
+        "It needs permission",
+        "Many groups present it",
+        "It needs a schedule"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The steps are fixed; only the quantities increase in proportion. The method does not change, so the problem stays simple."
+      },
+      {
+       "q": "For the pizza party (20 students, 2 slices each, 8 slices per pizza), how many pizzas are needed?",
+       "options": [
+        "2",
+        "5",
+        "4",
+        "40"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 5. Slices needed = 20 × 2 = 40, and pizzas needed = 40 ÷ 8 = 5."
+      },
+      {
+       "q": "One pizza costs 1000 rupees. The total cost of the pizza party is:",
+       "options": [
+        "1000 rupees",
+        "4000 rupees",
+        "5000 rupees",
+        "8000 rupees"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 5000 rupees. Total cost = 5 pizzas × 1000 rupees = 5000 rupees."
+      },
+      {
+       "q": "What is the first step of the pizza party algorithm?",
+       "options": [
+        "Show the result",
+        "Buy the pizzas",
+        "End",
+        "Start"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Start. An algorithm begins with Start, works through its steps, shows the result, and finishes with End."
+      },
+      {
+       "q": "A science exhibition in school is a complex problem because:",
+       "options": [
+        "Many steps and many decisions come together — permission, schedule, presenters",
+        "It has one step",
+        "It uses only one recipe",
+        "It needs no planning"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Many steps and many decisions come together. Getting permission, making a schedule and deciding who presents what makes it complex."
+      },
+      {
+       "q": "For making tea, why is the electric kettle method the best solution?",
+       "options": [
+        "It uses more water",
+        "It heats water quickly and needs less watching — the same result in less time",
+        "It is the oldest method",
+        "It needs more steps"
+       ],
+       "answer": 1,
+       "why": "Correct answer: It heats water quickly and needs less watching. When a problem can be solved by different methods, the best one gives the same result in less time and effort."
+      },
+      {
+       "q": "An algorithm must be:",
+       "options": [
+        "Only a picture",
+        "A single vague sentence",
+        "A clear step-by-step sequence of instructions",
+        "Kept secret"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A clear step-by-step sequence of instructions. Clear ordered steps are what make a set of instructions an algorithm."
+      }
+     ]
+    },
+    {
+     "title": "Variables, Constants and Pseudocode",
+     "notes_html": "<h4>Variables and Constants</h4>\n<table><tr><th>Term</th><th>Meaning</th><th>Examples</th></tr>\n<tr><td>Variable</td><td>A named container whose value can change during a program</td><td>score, student_name</td></tr>\n<tr><td>Constant</td><td>A named container whose value does not change during a program</td><td>Pi = 3.14, hours in a day = 24, days in a week = 7</td></tr>\n</table>\n<p>They are used to store data, to make programs easy to read, and to avoid writing the same value again and again.</p>\n<h4>Juice Shop Example</h4>\n<p>Variables (values that change): the number of juice glasses sold, and the total money earned. Constants (values that do not change): the price of each glass, 100 rupees, and the shop's opening time, 1:00 to 3:00 pm.</p>\n<h4>Pseudocode Examples</h4>\n<p><b>Area of a circle:</b> Start; Input radius; Area = 3.14 × radius × radius; Display Area; End.</p>\n<p><b>Celsius to Fahrenheit:</b> Start; Input Celsius; Fahrenheit = (Celsius × 9 ÷ 5) + 32; Display Fahrenheit; End.</p>\n<p><b>Sum and average of three numbers:</b> Start; Input first number; Input second number; Input third number; Sum = first + second + third; Average = Sum ÷ 3; Display Sum; Display Average; End.</p>",
+     "mcqs": [
+      {
+       "q": "What is a variable in pseudocode?",
+       "options": [
+        "A value that never changes",
+        "A printed result",
+        "A type of loop",
+        "A named container whose value can change during a program"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A named container whose value can change during a program. Examples are score and student_name."
+      },
+      {
+       "q": "Which of these is a CONSTANT?",
+       "options": [
+        "Pi = 3.14",
+        "student_name",
+        "score",
+        "total money earned"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Pi = 3.14. A constant's value does not change during a program — like Pi = 3.14, hours in a day = 24, or days in a week = 7."
+      },
+      {
+       "q": "In the juice shop situation, which are the variables?",
+       "options": [
+        "The price of each glass and opening time",
+        "The number of juice glasses sold and the total money earned",
+        "Only the shop's name",
+        "Nothing changes"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The number of juice glasses sold and the total money earned. These values change, while the price (100 rupees) and opening time (1:00 to 3:00 pm) stay constant."
+      },
+      {
+       "q": "Why are variables and constants used in programs?",
+       "options": [
+        "To hide the data",
+        "To make programs longer",
+        "To store data, make programs easy to read, and avoid writing the same value again and again",
+        "To stop the program"
+       ],
+       "answer": 2,
+       "why": "Correct answer: To store data, make programs easy to read, and avoid writing the same value again and again. Named containers make pseudocode clear."
+      },
+      {
+       "q": "In the pseudocode for the area of a circle, Area is calculated as:",
+       "options": [
+        "3.14 × radius",
+        "3.14 ÷ radius",
+        "radius + radius",
+        "3.14 × radius × radius"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 3.14 × radius × radius. The pseudocode is: Input radius; Area = 3.14 × radius × radius; Display Area."
+      },
+      {
+       "q": "The formula to convert Celsius to Fahrenheit in pseudocode is:",
+       "options": [
+        "Fahrenheit = (Celsius × 9 ÷ 5) + 32",
+        "Fahrenheit = Celsius + 32",
+        "Fahrenheit = Celsius × 5 ÷ 9",
+        "Fahrenheit = Celsius − 32"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Fahrenheit = (Celsius × 9 ÷ 5) + 32. The pseudocode inputs Celsius, applies this formula, and displays Fahrenheit."
+      },
+      {
+       "q": "To find the average of three numbers in pseudocode, after finding the Sum you:",
+       "options": [
+        "Multiply Sum by 3",
+        "Divide Sum by 3",
+        "Add 3 to Sum",
+        "Display Sum only"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Divide Sum by 3. Average = Sum ÷ 3, then both Sum and Average are displayed."
+      },
+      {
+       "q": "Which value is a variable in a student's marks program?",
+       "options": [
+        "Days in a week = 7",
+        "Hours in a day = 24",
+        "The student's score",
+        "Pi = 3.14"
+       ],
+       "answer": 2,
+       "why": "Correct answer: The student's score. A score can change, so it is stored in a variable; the others are constants."
+      },
+      {
+       "q": "Pseudocode is:",
+       "options": [
+        "A real programming language that runs on a computer",
+        "A computer game",
+        "A type of hardware",
+        "A plain, step-by-step way of writing an algorithm before coding"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A plain, step-by-step way of writing an algorithm before coding. The book's examples write Start, Input, calculations, Display and End."
+      },
+      {
+       "q": "In the juice shop, the price of each glass (100 rupees) is a constant because it:",
+       "options": [
+        "Does not change during the program",
+        "Changes with every glass sold",
+        "Is the total money earned",
+        "Is the number of glasses"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Does not change during the program. Constants keep the same value, unlike variables such as glasses sold."
+      }
+     ]
+    },
+    {
+     "title": "Conditional Statements",
+     "notes_html": "<h4>What are Conditional Statements?</h4>\n<p>A computer uses <b>conditional statements</b> to make a decision. <b>If-Else</b> is an example of a conditional statement: it chooses one of two paths on the basis of a condition.</p>\n<h4>Sequential Flow vs Conditional Flow</h4>\n<table><tr><th>Flow</th><th>Meaning</th></tr>\n<tr><td>Sequential flow</td><td>The steps of a program run one after another, in order</td></tr>\n<tr><td>Conditional flow</td><td>A step runs only when some condition is true (IF, IF-ELSE); different paths are taken according to the result</td></tr>\n</table>\n<h4>Types of Conditions — Book Scenarios</h4>\n<ul>\n<li><b>IF:</b> If a student's marks are 60, he passes. / If it is raining, take an umbrella.</li>\n<li><b>IF-ELSE:</b> If Umair saved 100 rupees he can buy ice cream, otherwise he must save more.</li>\n<li><b>IF-ELIF-ELSE:</b> Clothes by weather — below 15°C warm clothes, above 25°C a light shirt, above 35°C shorts, otherwise check the weather.</li>\n<li><b>Nested IF:</b> Hassan first checks whether it is the weekend, then checks whether his homework is complete — one condition inside another.</li>\n</ul>\n<h4>In IF-ELIF-ELSE, When Does Else Run?</h4>\n<p>The Else part runs <b>when all conditions are false</b> — if no condition is true, the ELSE part runs.</p>\n<h4>Scholarship Algorithm (IF-ELIF-ELSE)</h4>\n<p>Start; Input the student's grade; If grade is A+, display \"100% scholarship\"; Else if grade is A, display \"80% scholarship\"; Else if grade is B, display \"50% scholarship\"; Else display \"No scholarship\"; End.</p>",
+     "mcqs": [
+      {
+       "q": "______ is an example of a conditional statement.",
+       "options": [
+        "Loop",
+        "If-Else",
+        "Print",
+        "Variable"
+       ],
+       "answer": 1,
+       "why": "Correct answer: If-Else. If-Else chooses one of two paths on the basis of a condition, so it is a conditional statement."
+      },
+      {
+       "q": "A computer uses ______ to make a decision.",
+       "options": [
+        "Loop",
+        "Variable",
+        "Conditional Statements",
+        "Constant"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Conditional Statements. Conditional statements let a program decide on the basis of a condition."
+      },
+      {
+       "q": "In IF-ELIF-ELSE, when does the Else part run?",
+       "options": [
+        "When all conditions are true",
+        "When a nested loop is used",
+        "When a repeat loop is used",
+        "When all conditions are false"
+       ],
+       "answer": 3,
+       "why": "Correct answer: When all conditions are false. If no condition is true, the ELSE part runs."
+      },
+      {
+       "q": "'If a student's marks are 60, he passes' is which type of conditional statement?",
+       "options": [
+        "IF",
+        "IF-ELSE",
+        "Nested IF",
+        "IF-ELIF-ELSE"
+       ],
+       "answer": 0,
+       "why": "Correct answer: IF. There is one condition and one action, with no 'otherwise' path, so it is a simple IF."
+      },
+      {
+       "q": "'If Umair saved 100 rupees he can buy ice cream, otherwise he must save more' is:",
+       "options": [
+        "IF",
+        "IF-ELSE",
+        "Nested IF",
+        "A loop"
+       ],
+       "answer": 1,
+       "why": "Correct answer: IF-ELSE. There are two paths — one if the condition is true and another ('otherwise') if it is false."
+      },
+      {
+       "q": "Choosing clothes by weather (below 15°C warm clothes, above 25°C light shirt, above 35°C shorts, otherwise check the weather) uses:",
+       "options": [
+        "IF only",
+        "IF-ELSE only",
+        "IF-ELIF-ELSE",
+        "No condition"
+       ],
+       "answer": 2,
+       "why": "Correct answer: IF-ELIF-ELSE. Several conditions are checked one by one, and the final ELSE covers all remaining cases."
+      },
+      {
+       "q": "Hassan first checks whether it is the weekend, then checks whether his homework is complete. This is:",
+       "options": [
+        "Sequential flow only",
+        "Simple IF",
+        "A for loop",
+        "Nested IF"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Nested IF. One condition is checked inside another condition."
+      },
+      {
+       "q": "What is sequential flow?",
+       "options": [
+        "The steps of a program run one after another, in order",
+        "Steps run only if a condition is true",
+        "Steps run in a random order",
+        "Steps never run"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The steps of a program run one after another, in order. In conditional flow, by contrast, a step runs only when its condition is true."
+      },
+      {
+       "q": "In the scholarship algorithm, a student with grade A gets:",
+       "options": [
+        "100% scholarship",
+        "80% scholarship",
+        "50% scholarship",
+        "No scholarship"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 80% scholarship. A+ gives 100%, A gives 80%, B gives 50%, and anything else gives no scholarship."
+      },
+      {
+       "q": "In the scholarship algorithm, which grade gets a 100% scholarship?",
+       "options": [
+        "A",
+        "B",
+        "A+",
+        "C"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A+. The IF-ELIF-ELSE chain checks A+ first and displays '100% scholarship'."
+      },
+      {
+       "q": "'If it is raining, take an umbrella' is an example of:",
+       "options": [
+        "A loop",
+        "Nested IF",
+        "IF-ELIF-ELSE",
+        "IF"
+       ],
+       "answer": 3,
+       "why": "Correct answer: IF. A single condition controls a single action."
+      },
+      {
+       "q": "A student can go on the field trip if the permission slip is signed and the fee is paid, otherwise a message is shown. This is:",
+       "options": [
+        "IF-ELSE",
+        "IF",
+        "Pattern recognition",
+        "Abstraction"
+       ],
+       "answer": 0,
+       "why": "Correct answer: IF-ELSE. The 'otherwise show a message' part gives the second path of IF-ELSE."
+      },
+      {
+       "q": "Conditional flow means:",
+       "options": [
+        "Every step always runs in order",
+        "A step runs only when some condition is true, and different paths are taken by the result",
+        "The program never decides",
+        "Only the last step runs"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A step runs only when some condition is true, and different paths are taken by the result. This is how IF and IF-ELSE work."
+      },
+      {
+       "q": "Samia can go out late only with permission and when it is the weekend or the next day is not a school day, otherwise not. This uses:",
+       "options": [
+        "A constant",
+        "A loop",
+        "IF-ELSE",
+        "Decomposition"
+       ],
+       "answer": 2,
+       "why": "Correct answer: IF-ELSE. One path if the combined condition is true, and the other path otherwise."
+      },
+      {
+       "q": "Sohaib decides whether he has enough money to buy ice cream. The book classifies this as:",
+       "options": [
+        "Nested IF",
+        "Sequential",
+        "IF-ELIF-ELSE",
+        "IF-ELSE"
+       ],
+       "answer": 3,
+       "why": "Correct answer: IF-ELSE. Deciding between two outcomes — enough money or not — is an IF-ELSE decision."
+      }
+     ]
+    },
+    {
+     "title": "Loops and Writing Algorithms",
+     "notes_html": "<h4>Loops</h4>\n<ul>\n<li>A <b>for loop</b> repeats an action a fixed number of times — for example \"Repeat 10 times\", or counting from 1 to 5.</li>\n<li>A <b>nested loop</b> is a loop inside another loop — for example an outer loop for 3 weeks and an inner loop for the 7 days of each week.</li>\n</ul>\n<h4>The Halting Problem</h4>\n<p>The <b>halting problem</b> is the question of whether a program can tell if another program will stop or run forever. Some problems cannot be solved by a computer — such as a program stuck in an <b>infinite loop</b> that never stops and keeps the CPU busy.</p>\n<h4>Counting from 1 to 100 (Pseudocode)</h4>\n<p>Start; Set count = 1; While count &lt;= 100: Display count; count = count + 1; End.</p>\n<h4>Even or Odd Algorithm</h4>\n<p>Start; Input the number; If the remainder of number ÷ 2 is 0, display \"It is even\", otherwise display \"It is odd\"; End.</p>\n<h4>Largest of Three Numbers</h4>\n<p>Start; Input three numbers: a, b, c; If a &gt;= b and a &gt;= c, display a; Else if b &gt;= a and b &gt;= c, display b; Else display c; End.</p>\n<h4>Shop Sales with a Loop</h4>\n<p>Total sales for 30 days: Start; Set total = 0; Set day = 1; While day &lt;= 30: Input that day's sales; total = total + that day's sales; day = day + 1; Display total; End.</p>\n<h4>Inches to Centimetres</h4>\n<p>Start; Input inches; Centimetres = inches × 2.54; Display centimetres; End.</p>",
+     "mcqs": [
+      {
+       "q": "An example of a nested loop is:",
+       "options": [
+        "A loop inside another loop",
+        "A loop that runs once",
+        "A loop that never runs",
+        "An IF-ELSE-IF condition"
+       ],
+       "answer": 0,
+       "why": "Correct answer: A loop inside another loop. For example, an outer loop for 3 weeks and an inner loop for the 7 days of each week."
+      },
+      {
+       "q": "An example of a 'for loop' is:",
+       "options": [
+        "\"Set x = 5\"",
+        "\"Repeat 10 times\"",
+        "\"Print a message\"",
+        "\"Set a variable\""
+       ],
+       "answer": 1,
+       "why": "Correct answer: \"Repeat 10 times\". A for loop repeats an action a fixed number of times, such as counting from 1 to 5."
+      },
+      {
+       "q": "What is the halting problem?",
+       "options": [
+        "A problem of printing output",
+        "A problem of adding numbers",
+        "The question of whether a program can tell if another program will stop or run forever",
+        "A type of loop"
+       ],
+       "answer": 2,
+       "why": "Correct answer: The question of whether a program can tell if another program will stop or run forever. It shows that some problems cannot be solved by a computer."
+      },
+      {
+       "q": "A program stuck in an infinite loop:",
+       "options": [
+        "Stops quickly",
+        "Uses no memory",
+        "Prints the correct answer",
+        "Never stops and keeps the CPU busy"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Never stops and keeps the CPU busy. This is an example of a problem a computer cannot solve by itself."
+      },
+      {
+       "q": "In the counting pseudocode (count from 1 to 100), the loop continues while:",
+       "options": [
+        "count <= 100",
+        "count > 100",
+        "count = 0",
+        "count is even"
+       ],
+       "answer": 0,
+       "why": "Correct answer: count <= 100. Each round displays count and adds 1, until count passes 100."
+      },
+      {
+       "q": "In the counting pseudocode, what does 'count = count + 1' do?",
+       "options": [
+        "Resets count to 0",
+        "Increases count by 1 each round so the loop can finish",
+        "Doubles count",
+        "Displays count"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Increases count by 1 each round so the loop can finish. Without this step the loop would never end."
+      },
+      {
+       "q": "To check whether a number is even, the algorithm checks:",
+       "options": [
+        "Whether the number is greater than 10",
+        "Whether the number is positive",
+        "Whether the remainder of number ÷ 2 is 0",
+        "Whether the number has two digits"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Whether the remainder of number ÷ 2 is 0. If the remainder is 0 the number is even, otherwise it is odd."
+      },
+      {
+       "q": "The number 15 is checked by the even/odd algorithm. The result is:",
+       "options": [
+        "It is even",
+        "Error",
+        "It is zero",
+        "It is odd"
+       ],
+       "answer": 3,
+       "why": "Correct answer: It is odd. 15 ÷ 2 leaves remainder 1, which is not 0, so the algorithm displays 'It is odd'."
+      },
+      {
+       "q": "In the largest-of-three algorithm, if a >= b and a >= c, the algorithm displays:",
+       "options": [
+        "a",
+        "c",
+        "b",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "Correct answer: a. The first condition checks whether a is the largest; otherwise it checks b, and finally displays c."
+      },
+      {
+       "q": "In the shop-sales algorithm, the loop runs for how many days?",
+       "options": [
+        "7 days",
+        "30 days",
+        "100 days",
+        "365 days"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 30 days. The While loop runs while day <= 30, adding each day's sales to the total."
+      },
+      {
+       "q": "In the shop-sales algorithm, 'total' starts at:",
+       "options": [
+        "100",
+        "30",
+        "0",
+        "1"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 0. The algorithm sets total = 0 and day = 1 before the loop starts adding each day's sales."
+      },
+      {
+       "q": "To convert 10 inches into centimetres (× 2.54), the result is:",
+       "options": [
+        "12.54 cm",
+        "2.54 cm",
+        "254 cm",
+        "25.4 cm"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 25.4 cm. Centimetres = inches × 2.54, so 10 × 2.54 = 25.4."
+      },
+      {
+       "q": "Why is the outer loop '3 weeks' and inner loop '7 days' a nested loop?",
+       "options": [
+        "One loop (days) sits inside another loop (weeks)",
+        "It has no loop at all",
+        "It runs only once",
+        "It is an IF statement"
+       ],
+       "answer": 0,
+       "why": "Correct answer: One loop (days) sits inside another loop (weeks). A loop inside a loop is the definition of a nested loop."
+      },
+      {
+       "q": "What kind of statement is used in the even/odd algorithm to choose between two messages?",
+       "options": [
+        "A loop",
+        "A conditional (IF-ELSE) statement",
+        "A constant",
+        "A chart"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A conditional (IF-ELSE) statement. If the remainder is 0 it displays 'even', otherwise it displays 'odd'."
+      },
+      {
+       "q": "In the counting pseudocode, the variable 'count' is an example of:",
+       "options": [
+        "A constant, because it never changes",
+        "A condition",
+        "A variable, because its value changes during the program",
+        "An output device"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A variable, because its value changes during the program. It starts at 1 and increases to 100."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Programming (Scratch)",
+   "lessons": [
+    {
+     "title": "Conditionals in Scratch",
+     "notes_html": "<h4>Sequence: The Basic Building Block</h4>\n<p>The building block of all programming languages that runs first is <b>sequence</b> — the blocks of a program run in sequence, one after another. Sequence is the basic and default way of programming.</p>\n<h4>if vs if-else</h4>\n<table><tr><th>Statement</th><th>How it works</th></tr>\n<tr><td>if</td><td>Acts only when the condition is true; when the condition is false, it does nothing</td></tr>\n<tr><td>if-else</td><td>Has two paths: one action when the condition is true, and a different action when it is false</td></tr>\n</table>\n<h4>Program 1: Is the Number Positive?</h4>\n<p>When the flag is clicked, set the Number variable to 0, ask \"What's your number?\", and store the answer in Number. Then check: if Number &gt; 0, say \"It is positive\", otherwise say \"It is not positive\". Algorithm: Start; Input the number; If number &gt; 0, display \"It is positive\", otherwise display \"It is not positive\"; End.</p>\n<h4>Program 2: Even or Odd</h4>\n<p>When the flag is clicked: set Number to 0; ask \"What's your number?\" and wait; set Number to answer. Then If-Then-Else: if Number mod 2 = 0, say \"The Number is Even\" for 2 seconds, otherwise say \"The Number is Odd\" for 2 seconds. Example: entering 15 gives \"The Number is Odd\".</p>\n<h4>Program 3: Nested Conditional</h4>\n<p>Outer condition: if Number &gt; 0, then the inner If-Then-Else checks: if Number mod 2 = 0, say \"The Number is Even\", otherwise say \"The Number is Odd\". Outer Else: say \"The number is negative or zero\". Examples: 15 gives \"The Number is Odd\"; −2 gives \"The number is negative or zero\".</p>",
+     "mcqs": [
+      {
+       "q": "What are the building blocks of all programming languages — the one a program runs by default?",
+       "options": [
+        "Variable",
+        "Condition",
+        "Loop",
+        "Sequence"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Sequence. The blocks of a program run in sequence, one after another; sequence is the basic and default way of programming."
+      },
+      {
+       "q": "What is the difference between if and if-else?",
+       "options": [
+        "if acts only when the condition is true; if-else also gives a different action when it is false",
+        "if has two paths, if-else has one",
+        "There is no difference",
+        "if-else never checks a condition"
+       ],
+       "answer": 0,
+       "why": "Correct answer: if acts only when the condition is true; if-else also gives a different action when it is false. An if statement does nothing when its condition is false."
+      },
+      {
+       "q": "In the positive-number program, the user's reply is stored using which blocks?",
+       "options": [
+        "Only a say block",
+        "ask and answer, stored in the Number variable",
+        "A forever loop",
+        "A sound block"
+       ],
+       "answer": 1,
+       "why": "Correct answer: ask and answer, stored in the Number variable. The program asks 'What's your number?' and sets Number to the answer."
+      },
+      {
+       "q": "In the positive-number program, if the user enters −3, the sprite says:",
+       "options": [
+        "It is positive",
+        "The Number is Even",
+        "It is not positive",
+        "Nothing"
+       ],
+       "answer": 2,
+       "why": "Correct answer: It is not positive. The check is: if Number > 0 say 'It is positive', otherwise say 'It is not positive'."
+      },
+      {
+       "q": "In the even/odd program, the condition used is:",
+       "options": [
+        "Number > 0",
+        "Number < 100",
+        "Number = 10",
+        "Number mod 2 = 0"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Number mod 2 = 0. If the remainder on dividing by 2 is 0, the number is even; otherwise it is odd."
+      },
+      {
+       "q": "Entering 15 in the even/odd program gives:",
+       "options": [
+        "The Number is Odd",
+        "The Number is Even",
+        "It is positive",
+        "Error"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The Number is Odd. 15 mod 2 is 1, not 0, so the Else path says 'The Number is Odd' for 2 seconds."
+      },
+      {
+       "q": "In the nested conditional program, where is the even/odd check placed?",
+       "options": [
+        "Outside the program",
+        "Inside the 'Number > 0' condition",
+        "In a sound block",
+        "It is not used"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Inside the 'Number > 0' condition. The inner If-Then-Else runs only when the outer condition (positive) is true — that is a nested conditional."
+      },
+      {
+       "q": "Entering −2 in the nested conditional program gives:",
+       "options": [
+        "The Number is Even",
+        "The Number is Odd",
+        "The number is negative or zero",
+        "It is positive"
+       ],
+       "answer": 2,
+       "why": "Correct answer: The number is negative or zero. −2 fails the outer condition Number > 0, so the outer Else path runs."
+      },
+      {
+       "q": "Entering 15 in the nested conditional program gives:",
+       "options": [
+        "The Number is Even",
+        "No output",
+        "The number is negative or zero",
+        "The Number is Odd"
+       ],
+       "answer": 3,
+       "why": "Correct answer: The Number is Odd. 15 is positive, so the inner check runs; 15 mod 2 is not 0, so it says 'The Number is Odd'."
+      },
+      {
+       "q": "Before asking the question, the positive-number program sets Number to:",
+       "options": [
+        "0",
+        "100",
+        "10",
+        "−1"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 0. When the flag is clicked, the program first sets the Number variable to 0, then asks for the user's number."
+      }
+     ]
+    },
+    {
+     "title": "Loops in Scratch",
+     "notes_html": "<h4>What is a Loop?</h4>\n<p>A <b>loop</b> is a block that makes an action repeat again and again, without writing it again. There are three types of loops in Scratch:</p>\n<table><tr><th>Loop type</th><th>How it works</th></tr>\n<tr><td>Repeat</td><td>Repeats a fixed number of times</td></tr>\n<tr><td>Repeat Until</td><td>Repeats until a condition becomes true</td></tr>\n<tr><td>Forever</td><td>Never stops, repeats always</td></tr>\n</table>\n<p>A loop inside another loop is called <b>nested</b>. A loop that never runs has a condition that is <b>false</b> — if the loop's condition stays false, the loop never runs.</p>\n<h4>Three Loop Programs</h4>\n<ul>\n<li><b>Repeat 10:</b> when the flag is clicked, point in direction 90, repeat 10 times: next costume, move 10 steps, wait 1 second, turn 15 degrees.</li>\n<li><b>Repeat Until:</b> set counter to 0, repeat until counter = 10: change counter by 1, next costume, move 10 steps, wait 1 second, turn 15 degrees.</li>\n<li><b>Forever:</b> forever: wait 1 second, say \"Meow\", start sound Meow.</li>\n</ul>\n<h4>Nested Loop Program: Move and Change Backdrop</h4>\n<p>Choose a backdrop and a sprite; place the sprite at the start with go to x: −145 y: −77. Put a Repeat Until loop (repeat until counter = 4: change counter by 1, next costume, move 10 steps, wait 0.1 seconds) inside an outer Repeat 10 loop. After the Repeat Until loop, put a 'switch backdrop to next backdrop' block so the backdrop changes after each round.</p>",
+     "mcqs": [
+      {
+       "q": "What is a loop in Scratch?",
+       "options": [
+        "A block that deletes sprites",
+        "A block that makes an action repeat again and again, without writing it again",
+        "A type of sound",
+        "A backdrop"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A block that makes an action repeat again and again, without writing it again. Scratch has three loop types: Repeat, Repeat Until and Forever."
+      },
+      {
+       "q": "How many types of loops are there in Scratch?",
+       "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Three. They are Repeat (fixed number of times), Repeat Until (until a condition becomes true) and Forever (never stops)."
+      },
+      {
+       "q": "What is a loop inside another loop called?",
+       "options": [
+        "Cloning",
+        "If",
+        "Iteration",
+        "Nested"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Nested. When one loop sits inside another loop, it is called a nested loop."
+      },
+      {
+       "q": "A loop that never runs has a condition that is:",
+       "options": [
+        "False",
+        "True",
+        "Empty",
+        "Zero"
+       ],
+       "answer": 0,
+       "why": "Correct answer: False. If the loop's condition stays false, the loop never runs."
+      },
+      {
+       "q": "Which loop repeats a FIXED number of times?",
+       "options": [
+        "Repeat Until",
+        "Repeat",
+        "Forever",
+        "If-Else"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Repeat. The Repeat loop runs its blocks the set number of times, such as Repeat 10."
+      },
+      {
+       "q": "Which loop never stops?",
+       "options": [
+        "Repeat",
+        "Repeat Until",
+        "Forever",
+        "Nested"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Forever. The Forever loop repeats always, like the book's program that waits 1 second, says 'Meow' and plays the Meow sound again and again."
+      },
+      {
+       "q": "In the Repeat Until program, the loop stops when:",
+       "options": [
+        "The sound ends",
+        "counter = 0",
+        "The flag is clicked again",
+        "counter = 10"
+       ],
+       "answer": 3,
+       "why": "Correct answer: counter = 10. The loop repeats until the condition counter = 10 becomes true, changing counter by 1 each round."
+      },
+      {
+       "q": "In the Repeat 10 program, what happens in each round?",
+       "options": [
+        "Next costume, move 10 steps, wait 1 second, turn 15 degrees",
+        "Only a sound plays",
+        "The sprite is deleted",
+        "The backdrop is erased"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Next costume, move 10 steps, wait 1 second, turn 15 degrees. The sprite first points in direction 90 when the flag is clicked."
+      },
+      {
+       "q": "In the nested loop program, the sprite is first placed with which block?",
+       "options": [
+        "move 10 steps",
+        "go to x: −145 y: −77",
+        "say Hello",
+        "delete this clone"
+       ],
+       "answer": 1,
+       "why": "Correct answer: go to x: −145 y: −77. This places the sprite at its starting position before the loops begin."
+      },
+      {
+       "q": "In the nested loop program, the backdrop changes because of which block?",
+       "options": [
+        "next costume",
+        "wait 0.1 seconds",
+        "switch backdrop to next backdrop",
+        "change counter by 1"
+       ],
+       "answer": 2,
+       "why": "Correct answer: switch backdrop to next backdrop. It is placed after the inner Repeat Until loop, so the backdrop changes after each round."
+      },
+      {
+       "q": "The inner loop in the nested program repeats until counter equals:",
+       "options": [
+        "10",
+        "0",
+        "100",
+        "4"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 4. The inner Repeat Until loop runs until counter = 4, inside the outer Repeat 10 loop."
+      },
+      {
+       "q": "Which loop is best for an action that must continue until a goal is reached?",
+       "options": [
+        "Repeat Until",
+        "Repeat only",
+        "Sequence",
+        "A variable"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Repeat Until. It keeps repeating until its condition becomes true — for example, in the teacher activity, a game that repeats until touching the goal."
+      },
+      {
+       "q": "To draw a square with a loop (teacher activity), you use:",
+       "options": [
+        "Forever [say Meow]",
+        "Repeat 4 [move 100 steps, turn 90 degrees]",
+        "Repeat Until counter = 4 only",
+        "One move block"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Repeat 4 [move 100 steps, turn 90 degrees]. Four equal sides and four right-angle turns draw the square."
+      },
+      {
+       "q": "In the Repeat Until program, why must 'change counter by 1' be inside the loop?",
+       "options": [
+        "To make the sprite bigger",
+        "To play a sound",
+        "So counter can reach 10 and the loop can stop",
+        "To change the backdrop"
+       ],
+       "answer": 2,
+       "why": "Correct answer: So counter can reach 10 and the loop can stop. Without increasing counter, the condition counter = 10 would never become true."
+      },
+      {
+       "q": "The Forever loop program in this lesson repeats which actions?",
+       "options": [
+        "Draw a square",
+        "Move 10 steps only",
+        "Ask a question",
+        "Wait 1 second, say \"Meow\", start sound Meow"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Wait 1 second, say \"Meow\", start sound Meow. These actions repeat forever."
+      }
+     ]
+    },
+    {
+     "title": "Functions and Built-in Blocks",
+     "notes_html": "<h4>Making Your Own Function (Custom Block)</h4>\n<p>In Scratch you can make your own function from <b>My Blocks</b> using 'Make a Block'. Book example — <b>Calculate Area</b> for a rectangle:</p>\n<ul>\n<li>Click Make a Block, name it \"Calculate Area\", and add two inputs: <b>length</b> and <b>width</b>.</li>\n<li>In the definition: set area to <b>length × width</b>.</li>\n<li>To use it: when the flag is clicked, ask length and store the answer in length, ask width and store the answer in width, run 'Calculate Area length width', then say area.</li>\n</ul>\n<h4>Built-in Functions of Scratch</h4>\n<table><tr><th>Function</th><th>Example and meaning</th></tr>\n<tr><td>pick random</td><td>pick random 1 to 10 — gives a random number between 1 and 10</td></tr>\n<tr><td>abs</td><td>abs of −3 = 3 — gives the absolute value of a number</td></tr>\n<tr><td>join</td><td>join apple banana = \"applebanana\" — joins two words</td></tr>\n<tr><td>round</td><td>round 45.5 = 46 — rounds to the nearest whole number</td></tr>\n<tr><td>floor</td><td>floor of 45.8 = 45 — always rounds a number DOWN to the whole number below</td></tr>\n<tr><td>ceiling</td><td>ceiling of 45.2 = 46 — rounds up</td></tr>\n<tr><td>sqrt</td><td>Gives the square root of a number</td></tr>\n<tr><td>max</td><td>Max() returns the largest value in a set of numbers</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "The floor() function rounds a number:",
+       "options": [
+        "Down",
+        "Up",
+        "To the nearest side",
+        "To the other side"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Down. floor() always rounds a number down to the whole number below, for example floor of 45.8 = 45."
+      },
+      {
+       "q": "Which function returns the largest value in a set of numbers?",
+       "options": [
+        "Highest()",
+        "Max()",
+        "Largest()",
+        "Bool()"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Max(). The Max() function gives the largest value in a set of numbers."
+      },
+      {
+       "q": "What is the floor of 45.8?",
+       "options": [
+        "46",
+        "45.5",
+        "45",
+        "48"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 45. floor() rounds down to the whole number below the given number."
+      },
+      {
+       "q": "What is the ceiling of 45.2?",
+       "options": [
+        "45",
+        "45.2",
+        "44",
+        "46"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 46. The ceiling function rounds a number up, while floor rounds it down."
+      },
+      {
+       "q": "round 45.5 gives:",
+       "options": [
+        "46",
+        "45",
+        "44",
+        "50"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 46. The round function rounds to the nearest whole number."
+      },
+      {
+       "q": "abs of −3 equals:",
+       "options": [
+        "−3",
+        "3",
+        "0",
+        "−6"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 3. The abs function gives the absolute value of a number, so abs of −3 = 3."
+      },
+      {
+       "q": "join apple banana gives:",
+       "options": [
+        "\"apple banana\" with a space only",
+        "\"bananaapple\" always",
+        "\"applebanana\"",
+        "An error"
+       ],
+       "answer": 2,
+       "why": "Correct answer: \"applebanana\". The join function joins two words together into one text."
+      },
+      {
+       "q": "In Scratch, your own function (custom block) is made from:",
+       "options": [
+        "The Stage",
+        "The sound tab",
+        "The backdrop menu",
+        "My Blocks, using Make a Block"
+       ],
+       "answer": 3,
+       "why": "Correct answer: My Blocks, using Make a Block. The book's example names the block 'Calculate Area' and adds length and width inputs."
+      },
+      {
+       "q": "In the Calculate Area custom block, area is set to:",
+       "options": [
+        "length × width",
+        "length + width",
+        "length − width",
+        "length ÷ width"
+       ],
+       "answer": 0,
+       "why": "Correct answer: length × width. The definition of the block sets area to length × width, and the main program then says the area."
+      },
+      {
+       "q": "pick random 1 to 10 gives:",
+       "options": [
+        "Always 10",
+        "A random number between 1 and 10",
+        "Always 1",
+        "The average of 1 and 10"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A random number between 1 and 10. A different value in that range can come each time."
+      }
+     ]
+    },
+    {
+     "title": "Cloning and Maze Games",
+     "notes_html": "<h4>Cloning in Scratch: Balloon Clones</h4>\n<ul>\n<li><b>Original sprite (balloon):</b> when the flag is clicked, hide; forever: go to a random position (x from pick random −250 to 250, y: −200), next costume, <b>create clone of myself</b>, wait 0.5 seconds.</li>\n<li><b>Clone:</b> when I start as a clone, show; repeat 50 times: point in a random direction from 80 to 100, change y by 10, change size by −2, wait 2 seconds; then <b>delete this clone</b>.</li>\n</ul>\n<h4>Simple Maze Game</h4>\n<ul>\n<li>Make a maze backdrop (walls in <b>blue</b> colour) and add a sprite.</li>\n<li>Movement: when the flag is clicked, go to x: −205 y: 147. Four 'when key pressed' blocks: up arrow (direction 0, 10 steps), down arrow (direction 180), right arrow (direction 90), left arrow (direction −90).</li>\n<li>Hitting a wall: forever: if touching color blue, move 10 steps back.</li>\n<li>Goal: if touching Ball, say \"You win!\".</li>\n</ul>\n<h4>Advanced Maze Game</h4>\n<p>Several mazes with an Apple sprite as the goal. Movement uses 4-step moves with a nested check (if touching maze, move back; otherwise if touching mouse-pointer, move back). When the sprite touches the Apple: say \"You Win!\", return to x: 10 y: −170, <b>broadcast 'next maze'</b> and erase all; 'when I receive next maze' switches to the next costume (the next maze).</p>",
+     "mcqs": [
+      {
+       "q": "In the balloon cloning program, new balloons are made with which block?",
+       "options": [
+        "delete this clone",
+        "hide",
+        "create clone of myself",
+        "next backdrop"
+       ],
+       "answer": 2,
+       "why": "Correct answer: create clone of myself. The original balloon sprite stays hidden and keeps creating clones in a forever loop."
+      },
+      {
+       "q": "A clone's script begins with which hat block?",
+       "options": [
+        "when flag clicked",
+        "when I receive",
+        "when key pressed",
+        "when I start as a clone"
+       ],
+       "answer": 3,
+       "why": "Correct answer: when I start as a clone. The clone then shows itself, floats up and finally deletes itself."
+      },
+      {
+       "q": "At the end of its script, a balloon clone:",
+       "options": [
+        "Deletes itself (delete this clone)",
+        "Creates the original sprite",
+        "Stops all sounds",
+        "Changes the backdrop"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Deletes itself (delete this clone). After repeating 50 times — rising and shrinking — the clone removes itself."
+      },
+      {
+       "q": "In the balloon program, clones appear every:",
+       "options": [
+        "2 seconds",
+        "0.5 seconds",
+        "10 seconds",
+        "1 minute"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 0.5 seconds. The original sprite waits 0.5 seconds between creating clones, after moving to a random position and changing costume."
+      },
+      {
+       "q": "In the simple maze game, the maze walls are drawn in which colour?",
+       "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Blue. The program checks 'touching color blue' to detect that the sprite has hit a wall."
+      },
+      {
+       "q": "When the sprite touches a blue wall in the simple maze, it:",
+       "options": [
+        "Changes costume",
+        "Says 'You win!'",
+        "Is deleted",
+        "Moves 10 steps back"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Moves 10 steps back. A forever loop checks the wall colour and pushes the sprite back so it cannot pass through walls."
+      },
+      {
+       "q": "In the simple maze game, the right arrow key sets direction:",
+       "options": [
+        "90",
+        "180",
+        "0",
+        "−90"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 90. Up is direction 0, down is 180, right is 90 and left is −90, each moving 10 steps."
+      },
+      {
+       "q": "The player wins the simple maze game when the sprite touches:",
+       "options": [
+        "A blue wall",
+        "The Ball",
+        "The backdrop edge",
+        "Another clone"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The Ball. If touching Ball, the sprite says 'You win!'."
+      },
+      {
+       "q": "In the advanced maze game, the goal sprite is:",
+       "options": [
+        "A balloon",
+        "A ball only",
+        "An Apple",
+        "A cat"
+       ],
+       "answer": 2,
+       "why": "Correct answer: An Apple. Touching the Apple makes the sprite say 'You Win!' and starts the next maze."
+      },
+      {
+       "q": "In the advanced maze game, how does the next maze appear?",
+       "options": [
+        "The game restarts itself",
+        "The clone deletes it",
+        "The player redraws it",
+        "The sprite broadcasts 'next maze', and 'when I receive next maze' switches to the next costume"
+       ],
+       "answer": 3,
+       "why": "Correct answer: The sprite broadcasts 'next maze', and 'when I receive next maze' switches to the next costume. Each costume is another maze."
+      },
+      {
+       "q": "In the advanced maze, each arrow-key move is how many steps?",
+       "options": [
+        "4 steps",
+        "10 steps",
+        "100 steps",
+        "1 step"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 4 steps. Smaller steps, with a nested check (if touching maze move back, otherwise if touching mouse-pointer move back), give finer control."
+      },
+      {
+       "q": "Why does the original balloon sprite hide itself at the start?",
+       "options": [
+        "To save battery",
+        "So only its clones appear on the stage",
+        "To stop the program",
+        "To change the backdrop"
+       ],
+       "answer": 1,
+       "why": "Correct answer: So only its clones appear on the stage. The hidden original keeps creating clones that float upward."
+      },
+      {
+       "q": "As a balloon clone floats, its size:",
+       "options": [
+        "Increases by 2 each time",
+        "Stays the same",
+        "Decreases (change size by −2)",
+        "Doubles"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Decreases (change size by −2). The clone changes y by 10 and size by −2 in each of its 50 repeats, so it looks farther away as it rises."
+      },
+      {
+       "q": "In the simple maze game, the sprite starts at:",
+       "options": [
+        "x: 10 y: −170",
+        "A random position",
+        "x: 0 y: 0",
+        "x: −205 y: 147"
+       ],
+       "answer": 3,
+       "why": "Correct answer: x: −205 y: 147. When the flag is clicked, the sprite goes to the maze entrance."
+      },
+      {
+       "q": "In the advanced maze game, after touching the Apple the sprite returns to:",
+       "options": [
+        "x: 10 y: −170",
+        "x: −205 y: 147",
+        "The centre of the stage",
+        "A random position"
+       ],
+       "answer": 0,
+       "why": "Correct answer: x: 10 y: −170. It then broadcasts 'next maze' and erases all, ready for the next maze."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Citizenship",
+   "lessons": [
+    {
+     "title": "What is Digital Citizenship?",
+     "notes_html": "<h4>What is Digital Citizenship?</h4>\n<p><b>Digital citizenship</b> means the <b>responsible use of technology and online behaviour</b>. It means using technology in a good way — keeping good behaviour online, respecting others, protecting personal information, and following the law. Digital citizenship guides us to adopt <b>responsible</b> behaviour online.</p>\n<h4>Positive Online Behaviour</h4>\n<ul>\n<li>Staying connected with friends through social media.</li>\n<li>Sharing useful information.</li>\n</ul>\n<p>Negative behaviours — spreading false news, hacking others' accounts, sharing stolen material — are NOT good digital citizenship.</p>\n<h4>Common Uses of the Internet</h4>\n<p>The <b>internet</b> allows online users to stay connected and share information. Common uses are:</p>\n<ul>\n<li>Online shopping</li>\n<li>Communication (email, chat)</li>\n<li>Marketing and brand awareness, customer service, advertising</li>\n<li>Social networking</li>\n<li>Getting news and information</li>\n<li>Reading/listening to online material (news, magazines, podcasts)</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is digital citizenship?",
+       "options": [
+        "Using technology in business",
+        "Responsible use of technology and online behaviour",
+        "Online games",
+        "Watching videos online"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Responsible use of technology and online behaviour. Digital citizenship means using technology in a good way, respecting others, and protecting personal information."
+      },
+      {
+       "q": "Digital citizenship guides us to adopt ______ behaviour online.",
+       "options": [
+        "Careless",
+        "Secret",
+        "Responsible",
+        "Rude"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Responsible. A digital citizen behaves responsibly online, respects others and follows the law."
+      },
+      {
+       "q": "Which of the following is a positive online behaviour?",
+       "options": [
+        "Spreading false news",
+        "Sharing stolen material",
+        "Hacking others' accounts",
+        "Staying connected with friends through social media"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Staying connected with friends through social media. Staying connected with friends and sharing useful information is positive online behaviour."
+      },
+      {
+       "q": "______ allows online users to stay connected and share information.",
+       "options": [
+        "The internet",
+        "A printer",
+        "A textbook",
+        "A radio only"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The internet. The internet is what allows online users to stay connected and share information with each other."
+      },
+      {
+       "q": "Which of these is a common use of the internet?",
+       "options": [
+        "Digging wells",
+        "Online shopping",
+        "Building roads",
+        "Growing crops"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Online shopping. Other common uses are communication, marketing, social networking, and getting news and information."
+      },
+      {
+       "q": "Which list contains only common uses of the internet from this lesson?",
+       "options": [
+        "Cooking, cleaning, washing, ironing",
+        "Farming, fishing, mining, driving",
+        "Email and chat, social networking, news and information, podcasts",
+        "Running, jumping, swimming, cycling"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Email and chat, social networking, news and information, podcasts. These are all internet uses named in the lesson."
+      },
+      {
+       "q": "A good digital citizen protects:",
+       "options": [
+        "Only other people's data",
+        "Only passwords of friends",
+        "Nothing online",
+        "Personal information"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Personal information. Protecting personal information is part of digital citizenship, along with respecting others and following the law."
+      },
+      {
+       "q": "Which behaviour goes AGAINST digital citizenship?",
+       "options": [
+        "Hacking others' accounts",
+        "Respecting others online",
+        "Following the law",
+        "Sharing useful information"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Hacking others' accounts. Hacking is a cybercrime, the opposite of responsible online behaviour."
+      },
+      {
+       "q": "Businesses use the internet for:",
+       "options": [
+        "Only playing games",
+        "Marketing, brand awareness, customer service and advertising",
+        "Closing their shops",
+        "Hiding products"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Marketing, brand awareness, customer service and advertising. These are among the common internet uses listed in the lesson."
+      },
+      {
+       "q": "Sharing useful information online is:",
+       "options": [
+        "A negative behaviour",
+        "A cybercrime",
+        "A positive online behaviour",
+        "Plagiarism"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A positive online behaviour. Like staying connected with friends, sharing useful information is responsible digital citizenship."
+      }
+     ]
+    },
+    {
+     "title": "Cybercrime and the Dangers of the Internet",
+     "notes_html": "<h4>What is Cybercrime?</h4>\n<p><b>Cybercrime</b> means doing illegal work using <b>computers and the internet</b>. Those who do these acts are called <b>cybercriminals</b>. Cybercrime includes:</p>\n<ul>\n<li>Hacking</li>\n<li>Phishing</li>\n<li>Cyberbullying</li>\n<li>Ransomware and malware</li>\n<li>Identity theft</li>\n<li>Software piracy</li>\n<li>Distribution of illegal material</li>\n</ul>\n<h4>What is Phishing?</h4>\n<p><b>Phishing</b> is a way of stealing personal data through fake websites. Cybercriminals trick people with fake messages or websites to take their passwords and bank details.</p>\n<h4>Dangers of the Internet</h4>\n<table><tr><th>Kind of danger</th><th>Examples</th></tr>\n<tr><td>Health dangers</td><td>Too much screen use: lack of sleep, anxiety, depression, physical weakness (loneliness)</td></tr>\n<tr><td>Security dangers</td><td>Identity theft, phishing, web attacks, spam, ransomware</td></tr>\n<tr><td>Social dangers</td><td>Effects on social relations, relations with strangers</td></tr>\n<tr><td>Effects on education</td><td>Lack of attention, too much dependence on online resources</td></tr>\n</table>\n<h4>Plagiarism</h4>\n<p>Presenting someone else's work as your own without giving credit is called <b>plagiarism</b>.</p>",
+     "mcqs": [
+      {
+       "q": "What is phishing?",
+       "options": [
+        "A type of fishing",
+        "An online shopping tool",
+        "A social media platform",
+        "A way of stealing personal data through fake websites"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A way of stealing personal data through fake websites. Cybercriminals trick people with fake messages or websites to take their passwords and bank details."
+      },
+      {
+       "q": "Cybercrime includes illegal activities carried out using:",
+       "options": [
+        "Computers and the internet",
+        "Books and pens",
+        "Cars and roads",
+        "Tools and machines"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Computers and the internet. People who do these acts are called cybercriminals."
+      },
+      {
+       "q": "What is one health danger of excessive internet use?",
+       "options": [
+        "Better sleep",
+        "Anxiety and depression",
+        "Better physical fitness",
+        "More physical activity"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Anxiety and depression. Too much screen use can cause lack of sleep, anxiety, depression, and loneliness."
+      },
+      {
+       "q": "Presenting someone else's work as your own without giving credit is called:",
+       "options": [
+        "Phishing",
+        "Hacking",
+        "Plagiarism",
+        "Blogging"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Plagiarism. Giving no credit for someone else's work and showing it as your own is plagiarism."
+      },
+      {
+       "q": "In phishing, cybercriminals mainly try to take:",
+       "options": [
+        "Your books",
+        "Your photographs only",
+        "Your homework",
+        "Your passwords and bank details"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Your passwords and bank details. They trick people with fake messages or websites to steal this personal data."
+      },
+      {
+       "q": "Which of these is a cybercrime?",
+       "options": [
+        "Hacking",
+        "Sending an email to a friend",
+        "Reading online news",
+        "Online shopping"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Hacking. Cybercrime includes hacking, phishing, cyberbullying, ransomware, malware, identity theft and software piracy."
+      },
+      {
+       "q": "People who carry out cybercrime are called:",
+       "options": [
+        "Digital citizens",
+        "Cybercriminals",
+        "Web designers",
+        "Bloggers"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Cybercriminals. They use computers and the internet for illegal activities."
+      },
+      {
+       "q": "Which is a SECURITY danger of the internet?",
+       "options": [
+        "Lack of sleep",
+        "Weak eyes only",
+        "Identity theft",
+        "Less attention in class"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Identity theft. Security dangers include identity theft, phishing, web attacks, spam and ransomware."
+      },
+      {
+       "q": "Too much dependence on online resources is listed as an effect on:",
+       "options": [
+        "Health",
+        "Travel",
+        "Shopping",
+        "Education"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Education. The lesson lists lack of attention and too much dependence on online resources as effects on education."
+      },
+      {
+       "q": "Ransomware and malware are examples of:",
+       "options": [
+        "Cybercrime / security dangers",
+        "Positive behaviours",
+        "Digital skills",
+        "Study tools"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Cybercrime / security dangers. They appear in the lesson's list of cybercrimes and security dangers."
+      },
+      {
+       "q": "Relations with strangers online are a ______ danger in this lesson.",
+       "options": [
+        "Health",
+        "Social",
+        "Physical",
+        "Shopping"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Social. Social dangers include effects on social relations and relations with strangers."
+      },
+      {
+       "q": "Software piracy means:",
+       "options": [
+        "Buying software legally",
+        "Writing your own program",
+        "Illegally copying/distributing software — a cybercrime",
+        "Updating software"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Illegally copying/distributing software — a cybercrime. Software piracy is included in the cybercrime list."
+      },
+      {
+       "q": "Lack of sleep from too much screen use is which kind of danger?",
+       "options": [
+        "Security danger",
+        "Education effect",
+        "Social danger",
+        "Health danger"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Health danger. Health dangers of too much screen use include lack of sleep, anxiety, depression and physical weakness."
+      },
+      {
+       "q": "A fake website that looks like a bank's website and asks for your password is an example of:",
+       "options": [
+        "Phishing",
+        "Plagiarism",
+        "Filtering",
+        "Abstraction"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Phishing. Phishing steals personal data by tricking people through fake websites or messages."
+      },
+      {
+       "q": "Which statement about cyberbullying is correct?",
+       "options": [
+        "It is a positive behaviour",
+        "It is a cybercrime — illegal activity using computers and the internet",
+        "It is a type of software",
+        "It is a health exercise"
+       ],
+       "answer": 1,
+       "why": "Correct answer: It is a cybercrime. Cyberbullying is listed among cybercrimes in this lesson."
+      }
+     ]
+    },
+    {
+     "title": "Keeping Your Information Safe",
+     "notes_html": "<h4>Two Main Ways to Keep Information Safe</h4>\n<ul>\n<li><b>Use a strong password</b> — at least 12 characters, capital and small letters, numbers and special symbols, and a separate password for each account.</li>\n<li><b>Use two-factor authentication (2FA)</b> — besides the password, a second code is also needed to log in, which makes the account more secure.</li>\n</ul>\n<p>Besides this, avoid sharing your personal information on the internet, and keep your software and apps updated.</p>\n<h4>Activity: Make a Strong Password</h4>\n<p>Rules: at least 12 characters; include capital letters, small letters, numbers and special symbols; no personal information (name, date of birth); avoid common words like abc123 or qwerty. The book's example uses a passphrase on the pattern of \"P@$$word2481\" — a mix of letters, numbers and symbols. Write your password in a safe place in your notebook and share it with no one.</p>\n<h4>Activity: Steps for Facing Cyberbullying</h4>\n<ul>\n<li>Step 1: Check your school's anti-bullying policy.</li>\n<li>Step 2: Block the bully in the app.</li>\n<li>Step 3: Report the bully's contact.</li>\n<li>Step 4: Save screenshots as evidence.</li>\n<li>Step 5: Tell a trusted adult (teacher or parent) and report it.</li>\n</ul>\n<p>Instead of answering the bully, blocking and reporting is better.</p>\n<h4>Activity: Check Your Privacy Settings</h4>\n<p>Log in to your account; go to Privacy in Settings; see who can see your posts and personal information; set the settings so that <b>only friends</b> can see your posts and personal information; limit any information that is open to everyone.</p>",
+     "mcqs": [
+      {
+       "q": "Which is a way to keep information secure?",
+       "options": [
+        "Using weak passwords",
+        "Sharing passwords with friends",
+        "Using two-factor authentication (2FA)",
+        "Sharing personal information on sites"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Using two-factor authentication (2FA). In 2FA, besides the password a second code is also needed, which makes the account more secure."
+      },
+      {
+       "q": "One way to keep your online information safe is to use a ______ password.",
+       "options": [
+        "Weak",
+        "Common",
+        "Short",
+        "Strong"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Strong. A strong password is one of the two main ways to keep online information safe in this lesson."
+      },
+      {
+       "q": "A strong password should have at least how many characters?",
+       "options": [
+        "12",
+        "6",
+        "8",
+        "4"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 12. The book's rule is at least 12 characters, with capital and small letters, numbers and special symbols."
+      },
+      {
+       "q": "Which of these should NOT be in a strong password?",
+       "options": [
+        "Capital letters",
+        "Personal information such as your name or date of birth",
+        "Numbers",
+        "Special symbols"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Personal information such as your name or date of birth. Common words like abc123 or qwerty should also be avoided."
+      },
+      {
+       "q": "In two-factor authentication (2FA), logging in needs:",
+       "options": [
+        "Only a username",
+        "Only a fingerprint photo",
+        "A password plus a second code",
+        "No password at all"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A password plus a second code. The second check makes the account more secure than a password alone."
+      },
+      {
+       "q": "The book's example of a strong passphrase follows the pattern of:",
+       "options": [
+        "abc123",
+        "qwerty",
+        "Your date of birth",
+        "\"P@$$word2481\" — a mix of letters, numbers and symbols"
+       ],
+       "answer": 3,
+       "why": "Correct answer: \"P@$$word2481\" — a mix of letters, numbers and symbols. A passphrase like this is strong; common words and personal information are weak."
+      },
+      {
+       "q": "Besides strong passwords and 2FA, you should also:",
+       "options": [
+        "Avoid sharing personal information and keep software and apps updated",
+        "Share personal information freely",
+        "Use one password everywhere",
+        "Ignore updates"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Avoid sharing personal information and keep software and apps updated. These habits further protect your information."
+      },
+      {
+       "q": "What is the FIRST step for facing cyberbullying, according to the book's activity?",
+       "options": [
+        "Answer the bully angrily",
+        "Check your school's anti-bullying policy",
+        "Delete your account",
+        "Share the bully's messages publicly"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Check your school's anti-bullying policy. Then block the bully, report the contact, save screenshots and tell a trusted adult."
+      },
+      {
+       "q": "When facing cyberbullying, screenshots are saved as:",
+       "options": [
+        "Homework",
+        "A profile picture",
+        "Evidence",
+        "A password"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Evidence. Saving screenshots proves what happened when you report the bully."
+      },
+      {
+       "q": "Instead of answering a cyberbully, it is better to:",
+       "options": [
+        "Argue back",
+        "Leave the internet forever",
+        "Share your password",
+        "Block and report the bully"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Block and report the bully. The lesson says blocking and reporting is better than answering the bully."
+      },
+      {
+       "q": "In the privacy-settings activity, who should be able to see your posts and personal information?",
+       "options": [
+        "Only friends",
+        "Everyone",
+        "Strangers",
+        "Advertisers"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Only friends. Set the privacy settings so only friends can see your posts and personal information, and limit anything open to everyone."
+      },
+      {
+       "q": "Who should you tell if you face cyberbullying?",
+       "options": [
+        "No one",
+        "A trusted adult, such as a teacher or parent",
+        "Only the bully",
+        "Random strangers online"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A trusted adult, such as a teacher or parent. Telling them and reporting is the final step in the book's activity."
+      },
+      {
+       "q": "A separate password for each account is recommended because:",
+       "options": [
+        "It is easier to remember",
+        "Websites demand it for fun",
+        "If one account is broken into, the others stay safe",
+        "It makes passwords shorter"
+       ],
+       "answer": 2,
+       "why": "Correct answer: If one account is broken into, the others stay safe. The lesson's strong-password way includes using a separate password for each account."
+      },
+      {
+       "q": "Where in Settings do you control who can see your posts?",
+       "options": [
+        "Display",
+        "Storage",
+        "Sound",
+        "Privacy"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Privacy. The activity's steps are: log in, go to Privacy in Settings, review who can see your posts and information, and set them to friends only."
+      },
+      {
+       "q": "Which password follows the book's strong-password rules best?",
+       "options": [
+        "A 12+ character mix of capital/small letters, numbers and symbols, with no personal information",
+        "qwerty",
+        "abc123",
+        "Your own name"
+       ],
+       "answer": 0,
+       "why": "Correct answer: A 12+ character mix of capital/small letters, numbers and symbols, with no personal information. abc123, qwerty and personal details are exactly what the rules say to avoid."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Entrepreneurship",
+   "lessons": [
+    {
+     "title": "The Business Plan",
+     "notes_html": "<h4>What is a Business Plan?</h4>\n<p>A <b>business plan</b> is a document that makes clear the <b>goals</b> of a business and the ways to reach them. Its basic purpose is <b>starting, operating, and growing a business</b>.</p>\n<h4>Components of a Business Plan</h4>\n<table><tr><th>Component</th><th>What it covers</th></tr>\n<tr><td>Market need</td><td>What the market is missing</td></tr>\n<tr><td>Customer need</td><td>What customers need and want — found through market research</td></tr>\n<tr><td>Product design</td><td>How the product will look and work</td></tr>\n<tr><td>Marketing</td><td>The 4Ps: Product, Price, Promotion, Place</td></tr>\n<tr><td>Costing</td><td>What the business will spend</td></tr>\n<tr><td>Operations</td><td>How the business will run day to day</td></tr>\n<tr><td>Financial planning</td><td>Money planning for the business</td></tr>\n</table>\n<p>Note: <b>celebrity endorsement</b> is NOT a part of a business plan.</p>\n<h4>Market Research</h4>\n<p><b>Market research</b> is necessary to understand customers' <b>needs</b> and wants.</p>",
+     "mcqs": [
+      {
+       "q": "What is the basic purpose of a business plan?",
+       "options": [
+        "Showing products",
+        "Starting, operating, and growing a business",
+        "Marketing without customers",
+        "Only comparing prices"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Starting, operating, and growing a business. A business plan is a document that makes clear the goals of a business and the ways to reach them."
+      },
+      {
+       "q": "Which of the following is NOT a part of a business plan?",
+       "options": [
+        "Market need",
+        "Product design",
+        "Celebrity endorsement",
+        "Marketing"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Celebrity endorsement. A business plan includes market need, customer need, product design, marketing, costing, operations, and financial planning — but not celebrity endorsement."
+      },
+      {
+       "q": "A business plan makes clear a company's ______ and the ways to achieve them.",
+       "options": [
+        "Colours",
+        "Vehicles",
+        "Buildings",
+        "Goals"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Goals. The plan states the company's goals and the ways to achieve them."
+      },
+      {
+       "q": "Market research is necessary to understand customers' ______ and wants.",
+       "options": [
+        "Needs",
+        "Addresses",
+        "Passwords",
+        "Holidays"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Needs. Market research tells a business what its customers need and want."
+      },
+      {
+       "q": "The 4Ps of marketing in a business plan are:",
+       "options": [
+        "People, Paper, Pen, Pencil",
+        "Product, Price, Promotion, Place",
+        "Plan, Print, Post, Pay",
+        "Price, Price, Price, Price"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Product, Price, Promotion, Place. Marketing in the business plan is explained through these 4Ps."
+      },
+      {
+       "q": "Which component of a business plan deals with money planning?",
+       "options": [
+        "Product design",
+        "Market need",
+        "Financial planning",
+        "Operations"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Financial planning. It is one of the important components, along with costing, which covers what the business will spend."
+      },
+      {
+       "q": "'Costing' in a business plan means:",
+       "options": [
+        "Designing the product's colour",
+        "Writing advertisements",
+        "Choosing a celebrity",
+        "Working out what the business will spend"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Working out what the business will spend. Costing is one of the components of a business plan."
+      },
+      {
+       "q": "'Operations' in a business plan covers:",
+       "options": [
+        "How the business will run day to day",
+        "Only the product's design",
+        "Only the shop's name",
+        "Customer holidays"
+       ],
+       "answer": 0,
+       "why": "Correct answer: How the business will run day to day. Operations is one of the plan's components, with market need, customer need, product design, marketing, costing and financial planning."
+      },
+      {
+       "q": "A business plan is best described as:",
+       "options": [
+        "A shopping list",
+        "A document that makes clear the goals of a business and the ways to reach them",
+        "A social media post",
+        "A price tag"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A document that makes clear the goals of a business and the ways to reach them. That document guides starting, operating and growing the business."
+      },
+      {
+       "q": "Which pair is correctly matched?",
+       "options": [
+        "Marketing — only the shop building",
+        "Celebrity endorsement — a main part of the plan",
+        "Customer need — what customers need and want",
+        "Product design — the money plan"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Customer need — what customers need and want. Market research is used to understand customer needs and wants."
+      }
+     ]
+    },
+    {
+     "title": "Digital Marketing and SEO",
+     "notes_html": "<h4>What is Digital Marketing?</h4>\n<p><b>Digital marketing</b> reaches more customers by using <b>platforms</b> such as social media. Products are commonly marketed digitally through <b>social media platforms</b> such as Instagram, Facebook and YouTube.</p>\n<h4>Tools of Digital Marketing</h4>\n<ul>\n<li>Website designing</li>\n<li>Email marketing</li>\n<li>Social media marketing</li>\n<li>Online advertising</li>\n<li>Content marketing</li>\n<li>Mobile apps</li>\n<li>Search Engine Optimization (SEO)</li>\n</ul>\n<h4>What is a Digital Marketing Plan?</h4>\n<p>A digital marketing plan decides how a business will sell its products or services through the internet — for example: the <b>goal</b> (how many customers to get), which <b>platforms</b> to use (Instagram, YouTube, website), what <b>content</b> to post, how much <b>budget</b> to keep, and how to <b>measure success</b>.</p>\n<h4>What is SEO?</h4>\n<p><b>SEO (Search Engine Optimization)</b> improves search engine results: it is the process by which a website comes up higher in search engine (such as Google) results, improving the website's <b>ranking</b> so it can be found easily.</p>\n<h4>SEO with Instagram — the 'Fun Cupcakes' Example</h4>\n<ul>\n<li>Use the right words (keywords) in your posts, such as \"fun cupcakes\".</li>\n<li>Include words in your profile and bio.</li>\n<li>Post interesting pictures and videos.</li>\n<li>Use hashtags.</li>\n<li>Put your website link in your bio — so people can find you easily.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What does 'SEO' mean in digital marketing?",
+       "options": [
+        "Making a website more attractive",
+        "Ordering standard tools",
+        "Increasing sales options",
+        "Improving search engine results"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Improving search engine results. SEO (Search Engine Optimization) is the process by which a website comes up higher in search engine results and is found easily."
+      },
+      {
+       "q": "Which of the following is commonly used for the digital marketing of products?",
+       "options": [
+        "Social media platforms",
+        "Billboards",
+        "Radio advertisements",
+        "Flyers"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Social media platforms. Platforms such as Instagram, Facebook and YouTube are common tools of digital marketing."
+      },
+      {
+       "q": "Digital marketing reaches more customers by using ______.",
+       "options": [
+        "Only printed posters",
+        "Platforms",
+        "Letters by post",
+        "Shop shutters"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Platforms. Digital marketing reaches more customers by using platforms such as social media."
+      },
+      {
+       "q": "Search Engine Optimization (SEO) helps to improve a website's ______ so that it can be found easily in search.",
+       "options": [
+        "Colour",
+        "Size",
+        "Ranking",
+        "Price"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Ranking. A higher ranking in search results means people find the website easily."
+      },
+      {
+       "q": "Which of these is a tool of digital marketing?",
+       "options": [
+        "Shop decoration",
+        "Hand-written banners only",
+        "Word of mouth only",
+        "Email marketing"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Email marketing. The digital marketing tools are website designing, email marketing, social media marketing, online advertising, content marketing, mobile apps, and SEO."
+      },
+      {
+       "q": "A digital marketing plan decides:",
+       "options": [
+        "How a business will sell its products or services through the internet",
+        "Only the shop's opening time",
+        "The colour of the products",
+        "Who will clean the shop"
+       ],
+       "answer": 0,
+       "why": "Correct answer: How a business will sell its products or services through the internet. It covers the goal, platforms, content, budget and measuring success."
+      },
+      {
+       "q": "Which item belongs in a digital marketing plan?",
+       "options": [
+        "The weather forecast",
+        "The goal — how many customers to get",
+        "The owner's hobbies",
+        "The shop's paint colour"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The goal — how many customers to get. The plan also decides platforms, content, budget and how to measure success."
+      },
+      {
+       "q": "In the 'fun cupcakes' example, SEO on Instagram includes:",
+       "options": [
+        "Deleting all posts",
+        "Hiding the profile",
+        "Using the right keywords like 'fun cupcakes' in posts",
+        "Removing the bio"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Using the right keywords like 'fun cupcakes' in posts. Keywords in posts, profile and bio, hashtags and interesting pictures/videos help people find you."
+      },
+      {
+       "q": "Why put your website link in your Instagram bio?",
+       "options": [
+        "To hide the website",
+        "To change the password",
+        "To delete the account",
+        "So that people can find you (and your website) easily"
+       ],
+       "answer": 3,
+       "why": "Correct answer: So that people can find you (and your website) easily. This is part of using SEO together with social media."
+      },
+      {
+       "q": "Hashtags on social media posts help with:",
+       "options": [
+        "Being found easily by interested people",
+        "Closing the account",
+        "Printing the post",
+        "Paying bills"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Being found easily by interested people. Hashtags and keywords are SEO techniques for social media."
+      },
+      {
+       "q": "SEO makes a website come up ______ in search engine results.",
+       "options": [
+        "Lower",
+        "Higher",
+        "Nowhere",
+        "Only once a year"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Higher. SEO is the process by which a website comes up higher in search engine (such as Google) results."
+      },
+      {
+       "q": "Which platforms are named in a digital marketing plan example?",
+       "options": [
+        "Only newspapers",
+        "Only radio",
+        "Instagram, YouTube, website",
+        "Only billboards"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Instagram, YouTube, website. The plan chooses which platforms to use for selling online."
+      },
+      {
+       "q": "Content marketing is:",
+       "options": [
+        "A part of a computer",
+        "A payment method",
+        "A type of cybercrime",
+        "A tool of digital marketing"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A tool of digital marketing. It is listed with website designing, email marketing, social media marketing, online advertising, mobile apps and SEO."
+      },
+      {
+       "q": "How is success measured in a digital marketing plan?",
+       "options": [
+        "The plan itself decides how to measure success",
+        "It is never measured",
+        "Only by counting posters",
+        "By the shop's size"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The plan itself decides how to measure success. Deciding the measure is one part of making the plan, along with goal, platforms, content and budget."
+      },
+      {
+       "q": "Using words in your profile and bio on Instagram is done so that:",
+       "options": [
+        "The profile looks longer",
+        "People searching for those words can find you easily",
+        "The account stays secret",
+        "Posts are deleted"
+       ],
+       "answer": 1,
+       "why": "Correct answer: People searching for those words can find you easily. Keywords in the profile and bio are an SEO technique for social media."
+      }
+     ]
+    },
+    {
+     "title": "Payments and Safe Transactions",
+     "notes_html": "<h4>Online and Offline Payment Methods</h4>\n<table><tr><th>Kind</th><th>Methods</th><th>Points to remember</th></tr>\n<tr><td>Offline methods</td><td>Cash payment, credit cards</td><td>Simple, but cash can be lost and card information can be stolen</td></tr>\n<tr><td>Online methods</td><td>Digital wallets, biometric verification, two-factor authentication (2FA), smart contracts</td><td>Fast and secure</td></tr>\n</table>\n<p>A <b>digital wallet</b> (such as Google Pay) is a modern payment method in which money is paid through a mobile app.</p>\n<h4>Safe Transaction Method</h4>\n<p>A <b>safe transaction method</b> carries out transactions in a safe way and keeps personal data secure.</p>\n<h4>How to Choose a Safe Payment Method</h4>\n<ul>\n<li>Use a well-known and trusted platform.</li>\n<li>Turn on 2FA (two-factor authentication).</li>\n<li>Share your information with no one.</li>\n<li>Check the receipt after payment.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which of the following is a modern payment method?",
+       "options": [
+        "Cash payment",
+        "Credit card",
+        "Digital wallet",
+        "Barter system"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Digital wallet. A digital wallet (such as Google Pay) is a modern method in which money is paid through a mobile app."
+      },
+      {
+       "q": "______ carries out transactions in a safe way and keeps personal data secure.",
+       "options": [
+        "Barter system",
+        "Phishing",
+        "A weak password",
+        "Safe Transaction Method"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Safe Transaction Method. It carries out transactions safely and keeps personal data secure."
+      },
+      {
+       "q": "In a digital wallet, money is paid through:",
+       "options": [
+        "A mobile app",
+        "A printed cheque only",
+        "A letter",
+        "A cash box"
+       ],
+       "answer": 0,
+       "why": "Correct answer: A mobile app. Google Pay is the book's example of a digital wallet."
+      },
+      {
+       "q": "Which pair lists OFFLINE payment methods?",
+       "options": [
+        "Digital wallet and 2FA",
+        "Cash payment and credit cards",
+        "Biometric verification and smart contracts",
+        "Mobile apps only"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Cash payment and credit cards. They are simple, but cash can be lost and card information can be stolen."
+      },
+      {
+       "q": "Which pair lists ONLINE payment methods?",
+       "options": [
+        "Cash and barter",
+        "Only credit cards",
+        "Digital wallets and biometric verification",
+        "Cheques and cash"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Digital wallets and biometric verification. Online methods also include two-factor authentication (2FA) and smart contracts, and they are fast and secure."
+      },
+      {
+       "q": "A risk of paying by cash is that:",
+       "options": [
+        "It is too fast",
+        "It gives a receipt automatically",
+        "It needs a mobile app",
+        "Cash can be lost"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Cash can be lost. For credit cards, the risk is that card information can be stolen."
+      },
+      {
+       "q": "To choose a safe payment method, you should:",
+       "options": [
+        "Use a well-known and trusted platform and turn on 2FA",
+        "Use any unknown platform",
+        "Share your information with everyone",
+        "Skip checking the receipt"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Use a well-known and trusted platform and turn on 2FA. Also share your information with no one and check the receipt after payment."
+      },
+      {
+       "q": "After making a payment, what should you do?",
+       "options": [
+        "Forget about it",
+        "Check the receipt",
+        "Share the receipt publicly with your password",
+        "Delete the app"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Check the receipt. Checking the receipt after payment is one of the safe-method steps in this lesson."
+      },
+      {
+       "q": "Online payment methods are described in this lesson as:",
+       "options": [
+        "Slow and unsafe",
+        "Impossible to use",
+        "Fast and secure",
+        "Only for banks"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Fast and secure. Digital wallets, biometric verification, 2FA and smart contracts are the online methods."
+      },
+      {
+       "q": "Why should you share your payment information with no one?",
+       "options": [
+        "Because apps demand it",
+        "To make payments slower",
+        "Because receipts are useless",
+        "To keep your personal data secure during transactions"
+       ],
+       "answer": 3,
+       "why": "Correct answer: To keep your personal data secure during transactions. A safe transaction method keeps personal data secure, and sharing information breaks that safety."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

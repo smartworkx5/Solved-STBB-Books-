@@ -1,0 +1,2703 @@
+{
+ "book": "computer-7-en",
+ "chapters": [
+  {
+   "title": "Fundamentals of ICT",
+   "lessons": [
+    {
+     "title": "Emerging Technologies Changing the World",
+     "notes_html": "<h4>What are Emerging Technologies?</h4>\n<p>Emerging technologies are the new, modern technologies that are changing the world by solving life's problems and bringing new ways of doing things.</p>\n<h4>The Book's Emerging Technologies</h4>\n<table><tr><th>Technology</th><th>What it does</th></tr>\n<tr><td>Artificial Intelligence (AI)</td><td>Teaches machines to think, learn and decide like humans</td></tr>\n<tr><td>Robotics</td><td>Machines sense their surroundings with sensors, decide on their own and work</td></tr>\n<tr><td>Virtual Reality (VR)</td><td>Makes an artificial world feel real, through special glasses or a headset</td></tr>\n<tr><td>Biometrics</td><td>Identifies people by parts of the body — fingerprints, face, eyes/iris and voice</td></tr>\n<tr><td>Computer-Assisted Translation</td><td>Makes translation between languages easy</td></tr>\n<tr><td>3D Holographic Imaging</td><td>Shows a picture (a hologram) in the air, which can be seen from all sides</td></tr>\n<tr><td>Cloud Computing</td><td>Gives storage, apps and software through the internet</td></tr>\n<tr><td>Open-Source Software</td><td>Allows everyone free use and modification</td></tr></table>\n<p>Note: <b>Banking</b> is NOT an emerging technology in the book's list.</p>\n<h4>VR in Education</h4>\n<ul>\n<li>Students sitting in class can see historical places and experience things that are not present in front of them.</li>\n<li>Training on dangerous equipment can be done safely.</li>\n<li>Lessons become lively and interesting, which improves learning.</li>\n</ul>\n<h4>How Technology Changed Daily Life</h4>\n<ul>\n<li><b>Communication:</b> landline phone (1876) → mobile phone (1990) → smartphone (after 2007). Now one phone runs the internet, photos, video, GPS, calls and learning/entertainment apps.</li>\n<li><b>Computing:</b> from large, expensive first-generation computers to fast, cheap fourth/fifth-generation personal computers and mobiles.</li>\n<li>Daily tasks — communication, shopping, learning, entertainment, work — have become faster, easier, better and cheaper.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What can we do through 3D imaging/processing?",
+       "options": [
+        "Show a hologram",
+        "Move things from one factory to another",
+        "Print a real picture",
+        "Make a real decision about a sample"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Show a hologram. 3D images are holograms — pictures that appear in the air and can be seen from all sides. This is one of the emerging technologies in this lesson."
+      },
+      {
+       "q": "What is possible through biometric verification?",
+       "options": [
+        "Typing a password",
+        "Identification through a phone number",
+        "Identification through our account number",
+        "Identification using face, fingerprints and voice"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Identification using face, fingerprints and voice. In biometrics a person is identified by parts of the human body — fingerprints, face, eyes/iris and voice — not by numbers or passwords."
+      },
+      {
+       "q": "Which of the following is NOT called an emerging technology?",
+       "options": [
+        "Artificial intelligence",
+        "Self-driving car",
+        "Banking",
+        "Robotics"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Banking. The book's emerging technologies are artificial intelligence, robotics, virtual reality, biometrics, computer-assisted translation, 3D holographic imaging, cloud computing and open-source software. Banking is not among them."
+      },
+      {
+       "q": "In robotics, how does a machine work on its own?",
+       "options": [
+        "It is pushed by a person",
+        "It senses its surroundings with sensors, decides on its own and works",
+        "It only follows a remote control",
+        "It works only when connected to a printer"
+       ],
+       "answer": 1,
+       "why": "Correct answer: It senses its surroundings with sensors, decides on its own and works. That is what makes a robot different from an ordinary machine — sensors let it feel the world around it and then it decides and acts."
+      },
+      {
+       "q": "What does Virtual Reality (VR) do?",
+       "options": [
+        "It creates an artificial world that feels real, through special glasses or a headset",
+        "It stores files on the internet",
+        "It identifies people by fingerprints",
+        "It prints pictures on paper"
+       ],
+       "answer": 0,
+       "why": "Correct answer: It creates an artificial world that feels real. VR is used through special glasses or a headset, and in education it lets students visit historical places and train safely on dangerous equipment."
+      },
+      {
+       "q": "What does cloud computing give us through the internet?",
+       "options": [
+        "Only phone calls",
+        "Only games",
+        "Only printed documents",
+        "Storage, apps and software"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Storage, apps and software. Cloud computing provides these through the internet, so we do not need everything stored on our own computer."
+      },
+      {
+       "q": "What is special about open-source software?",
+       "options": [
+        "It can never be changed",
+        "Only one company may use it",
+        "Everyone can use it freely and modify it",
+        "It works only without the internet"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Everyone can use it freely and modify it. Open-source software allows free use and modification by everyone — that is why it is in the book's list of emerging technologies."
+      },
+      {
+       "q": "How does artificial intelligence help machines?",
+       "options": [
+        "It connects machines to a printer",
+        "It teaches machines to think, learn and decide like humans",
+        "It stores machines in the cloud",
+        "It makes machines heavier"
+       ],
+       "answer": 1,
+       "why": "Correct answer: It teaches machines to think, learn and decide like humans. AI is one of the main emerging technologies that are changing the world."
+      },
+      {
+       "q": "Which of these is a use of VR in education?",
+       "options": [
+        "Students can train safely on dangerous equipment",
+        "Students can type faster",
+        "Students can print their homework",
+        "Students can save files in the cloud"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Students can train safely on dangerous equipment. VR also lets students see historical places from the classroom and makes lessons lively and interesting, which improves learning."
+      },
+      {
+       "q": "How has communication changed with time, according to the lesson?",
+       "options": [
+        "From smartphone to landline phone",
+        "Phones have not changed at all",
+        "From letters to telegrams only",
+        "From landline phone (1876) to mobile phone (1990) and then smartphone (after 2007)"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Landline phone (1876) → mobile phone (1990) → smartphone (after 2007). Today one smartphone runs the internet, photos, video, GPS, calls and apps — technology made everything faster, easier and cheaper."
+      }
+     ]
+    },
+    {
+     "title": "Peripheral Devices and Ports",
+     "notes_html": "<h4>Peripheral Devices</h4>\n<p>A <b>peripheral device</b> is an external hardware device that gives the computer <b>additional functionality</b>. Peripheral devices give input to the system unit and take output from it. The computer (CPU) alone can do only limited work, so peripherals are necessary.</p>\n<table><tr><th>Type</th><th>Job</th><th>Examples</th></tr>\n<tr><td>Input devices</td><td>Send data into the computer</td><td>Keyboard, mouse, webcam, scanner</td></tr>\n<tr><td>Output devices</td><td>Show the result</td><td>Monitor, printer, speaker, projector</td></tr>\n<tr><td>Storage devices</td><td>Save data</td><td>USB drive, external hard drive, SSD</td></tr>\n<tr><td>Network devices</td><td>Connect to the internet and networks</td><td>Modem, wireless access point, network card</td></tr></table>\n<h4>Ports</h4>\n<p><b>Ports</b> are the connections (physical connection points) on the front or back of the computer case that allow us to plug in I/O devices.</p>\n<ul>\n<li><b>USB port</b> — the most common port; mouse, keyboard, printer, scanner and hard drive connect through it and data transfers quickly. The first non-commercial USB port was released in <b>1994</b>.</li>\n<li><b>HDMI port</b> — connects the computer to a monitor or projector so clear video and sound are obtained.</li>\n<li><b>Ethernet port</b> — for the network cable.</li>\n</ul>\n<h4>Printer vs Scanner</h4>\n<table><tr><th>Printer (Output)</th><th>Scanner (Input)</th></tr>\n<tr><td>Converts the computer's information into a hard copy on paper — prints text and pictures (homework, reports, letters)</td><td>Copies things using light and converts paper into digital files, which can be saved and shared</td></tr>\n<tr><td>Computer → paper</td><td>Paper → computer</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "Which input/output port is most commonly used to connect devices like a USB drive, mouse and printer to the computer?",
+       "options": [
+        "Parallel port",
+        "USB port",
+        "Port",
+        "Serial port"
+       ],
+       "answer": 1,
+       "why": "Correct answer: USB port. The mouse, keyboard, printer, scanner and hard drive are connected through the USB port, and data transfers quickly through it."
+      },
+      {
+       "q": "What is the main purpose of peripheral devices?",
+       "options": [
+        "To connect only to the internet",
+        "To store files only",
+        "To give the computer additional functionality",
+        "To switch off the computer"
+       ],
+       "answer": 2,
+       "why": "Correct answer: To give the computer additional functionality. A peripheral is an external hardware device that provides additional functionality to the computer — input, output, storage or networking."
+      },
+      {
+       "q": "Devices like the mouse and keyboard are connected to the computer through ______.",
+       "options": [
+        "The monitor",
+        "The CPU fan",
+        "Ports",
+        "Software"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Ports. Ports are the physical connection points on the computer to which devices are connected."
+      },
+      {
+       "q": "The ______ port is used to connect a projector to the computer.",
+       "options": [
+        "Ethernet",
+        "HDMI",
+        "Audio",
+        "USB"
+       ],
+       "answer": 1,
+       "why": "Correct answer: HDMI. The computer is connected to a monitor or projector through the HDMI port so that clear video and sound are obtained."
+      },
+      {
+       "q": "______ devices are devices that give input to the system unit and take output from it.",
+       "options": [
+        "Peripheral",
+        "Deleted",
+        "Internal",
+        "Wireless"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Peripheral. Peripheral devices give the computer additional functionality, such as input devices (keyboard, mouse), output devices (monitor, printer), storage and network devices."
+      },
+      {
+       "q": "______ are the connections on the front or back of the computer case that allow us to plug in I/O devices.",
+       "options": [
+        "Buttons",
+        "Files",
+        "Windows",
+        "Ports"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Ports. I/O devices plug into ports, such as USB, HDMI and Ethernet ports, which are found on the front or back of the computer case."
+      },
+      {
+       "q": "The first non-commercial USB port was released in ______.",
+       "options": [
+        "2004",
+        "2014",
+        "1994",
+        "1984"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 1994. According to the book, the USB port was introduced in 1994 and became the most common way to connect devices."
+      },
+      {
+       "q": "What is the difference between a printer and a scanner?",
+       "options": [
+        "A scanner prints on paper",
+        "A printer converts computer information to paper; a scanner converts paper into digital files",
+        "A printer is an input device, a scanner is an output device",
+        "Both only print pictures"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The printer goes from computer to paper (output — a hard copy), while the scanner goes from paper to computer (input — it copies things using light and makes digital files that can be saved and shared)."
+      },
+      {
+       "q": "Which of these is a network device?",
+       "options": [
+        "Modem",
+        "Scanner",
+        "Speaker",
+        "Printer"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Modem. Network devices — modem, wireless access point and network card — connect the computer to the internet and networks. The others are input/output devices."
+      },
+      {
+       "q": "Why are peripheral devices necessary for the computer?",
+       "options": [
+        "They are needed only for games",
+        "They increase the weight of the computer",
+        "They make the computer case colourful",
+        "Without them the computer cannot take data in, show results, save files or connect"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Without peripherals the computer can do only limited work. Input devices send data in, output devices show results, storage devices save data and network devices connect it — all of these are necessary."
+      }
+     ]
+    },
+    {
+     "title": "Technology Around Us — Activities",
+     "notes_html": "<h4>Activity 1 — Robot Model and Hologram</h4>\n<ul>\n<li><b>Group A — paper-model robot:</b> a robot is a machine that senses its surroundings with sensors, decides on its own and works. Examples: a robot arm in a factory, a vacuum-cleaner robot at home.</li>\n<li><b>Group B — holographic image:</b> a 3D picture that appears in the air and can be seen from all sides, formed by rays of light. Example: a hologram in a clothing shop.</li>\n</ul>\n<h4>Activity 2 — New Technologies at Home and School</h4>\n<table><tr><th>At home</th><th>At school</th></tr>\n<tr><td>Smartphone, computer/laptop, smart TV, Wi-Fi router, smart watch</td><td>Computer lab, CCTV cameras, projector, smart board, printer</td></tr></table>\n<h4>Activity 3 — Modem vs NIC Card (Venn Diagram)</h4>\n<table><tr><th>Modem only</th><th>Both (similarities)</th><th>NIC card only</th></tr>\n<tr><td>Connects the computer to the internet; converts the computer's data into phone-line signals and back; works between the computer and the Internet Service Provider (ISP)</td><td>Both are network devices; both help connect the computer to the internet/network</td><td>Connects the computer to a network; it is a card fixed on the motherboard; it gives the computer an identity on the network</td></tr></table>\n<h4>Class Activity — I/O Ports in the Library</h4>\n<table><tr><th>Name of I/O port</th><th>Name of peripheral device</th></tr>\n<tr><td>USB port</td><td>Mouse, keyboard, printer, pen drive</td></tr>\n<tr><td>HDMI port</td><td>Monitor, projector</td></tr>\n<tr><td>Ethernet port</td><td>Network cable (router)</td></tr>\n<tr><td>Audio jack</td><td>Headphones, speaker</td></tr>\n<tr><td>Power port</td><td>Charger</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "In the class activity, Group A made a paper model of a robot. What is a robot?",
+       "options": [
+        "A machine that senses its surroundings with sensors, decides on its own and works",
+        "A type of printer",
+        "A machine that only prints pictures",
+        "A machine that must be pushed by hand"
+       ],
+       "answer": 0,
+       "why": "Correct answer: A machine that senses with sensors, decides on its own and works. Examples from the activity: a robot arm in a factory and a vacuum-cleaner robot at home."
+      },
+      {
+       "q": "A holographic image is:",
+       "options": [
+        "A picture printed on paper",
+        "A sound recording",
+        "A picture saved in the cloud",
+        "A 3D picture that appears in the air and can be seen from all sides"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A 3D picture in the air, seen from all sides. It is formed by rays of light — for example, a hologram in a clothing shop."
+      },
+      {
+       "q": "Which of these is an example of new technology at school?",
+       "options": [
+        "Smart TV",
+        "Wi-Fi router",
+        "CCTV cameras",
+        "Smart watch"
+       ],
+       "answer": 2,
+       "why": "Correct answer: CCTV cameras. The activity's school list is: computer lab, CCTV cameras, projector, smart board and printer. The others were in the home list."
+      },
+      {
+       "q": "What does a modem do?",
+       "options": [
+        "It shows pictures on the screen",
+        "It converts the computer's data into phone-line signals and back",
+        "It prints documents",
+        "It stores files permanently"
+       ],
+       "answer": 1,
+       "why": "Correct answer: It converts data into phone-line signals and back. The modem works between the computer and the Internet Service Provider (ISP) and connects the computer to the internet."
+      },
+      {
+       "q": "What is special about a NIC card?",
+       "options": [
+        "It is a card fixed on the motherboard and gives the computer an identity on the network",
+        "It is kept outside the computer case",
+        "It prints network reports",
+        "It works without any network"
+       ],
+       "answer": 0,
+       "why": "Correct answer: It is fixed on the motherboard and gives the computer an identity on the network. The NIC card connects the computer to a network."
+      },
+      {
+       "q": "What is common between a modem and a NIC card?",
+       "options": [
+        "Both store data",
+        "Both are input devices",
+        "Both are output devices",
+        "Both are network devices that help connect the computer to the internet/network"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Both are network devices. In the Venn diagram activity, this similarity goes in the overlapping middle part of the two circles."
+      },
+      {
+       "q": "Which port is used for a network cable (router)?",
+       "options": [
+        "Power port",
+        "HDMI port",
+        "Ethernet port",
+        "Audio jack"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Ethernet port. From the library observation table: Ethernet port — network cable (router); HDMI — monitor/projector; audio jack — headphones/speaker; power port — charger."
+      },
+      {
+       "q": "A pen drive is connected through which port?",
+       "options": [
+        "HDMI port",
+        "USB port",
+        "Ethernet port",
+        "Audio jack"
+       ],
+       "answer": 1,
+       "why": "Correct answer: USB port. In the class activity table, the USB port's devices are mouse, keyboard, printer and pen drive."
+      },
+      {
+       "q": "Headphones and speakers are connected through:",
+       "options": [
+        "Audio jack",
+        "Ethernet port",
+        "USB port only",
+        "Power port"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Audio jack. The library activity table lists headphones and speaker with the audio jack."
+      },
+      {
+       "q": "The ISP in the modem activity means:",
+       "options": [
+        "A storage device",
+        "A part of the motherboard",
+        "A type of port",
+        "Internet Service Provider — the company between the computer and the internet"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Internet Service Provider. The modem works between the computer and the ISP to connect the computer to the internet."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Skills",
+   "lessons": [
+    {
+     "title": "Microsoft Word — Files, Views and Shortcuts",
+     "notes_html": "<h4>Microsoft Word — a Word Processor</h4>\n<p><b>Microsoft Word</b> is a <b>word processor</b> — software used to create, edit, format and print documents. With MS Word we can make letters, reports, assignments, projects, CVs, notes, books and forms. It has facilities for fonts, pictures, tables, headers/footers and spell check.</p>\n<h4>File Extensions</h4>\n<table><tr><th>Program</th><th>File extension</th></tr>\n<tr><td>MS Word (default)</td><td>.docx</td></tr>\n<tr><td>MS PowerPoint</td><td>.ppt (newer format: .pptx)</td></tr></table>\n<h4>PowerPoint Views</h4>\n<p>A PowerPoint presentation can be seen in these viewing formats:</p>\n<ul>\n<li>Slide view</li>\n<li>Outline view</li>\n<li>Slide show view</li>\n</ul>\n<p>“Presentation view” is NOT a viewing format of PowerPoint.</p>\n<h4>Important Shortcuts (MS Word)</h4>\n<table><tr><th>Shortcut</th><th>Work</th></tr>\n<tr><td>Ctrl + N</td><td>Create a new blank document</td></tr>\n<tr><td>Ctrl + S</td><td>Save the document immediately</td></tr>\n<tr><td>Ctrl + P</td><td>Print</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "What is Microsoft Word?",
+       "options": [
+        "Spreadsheet",
+        "Word processor",
+        "Database management",
+        "Presentation"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Word processor. A word processor is software used to create, edit, format and print documents — that is exactly what MS Word does."
+      },
+      {
+       "q": "The default extension of an MS Word file is ______.",
+       "options": [
+        ".csv",
+        ".ppt",
+        ".docx",
+        ".txt"
+       ],
+       "answer": 2,
+       "why": "Correct answer: .docx. The default extension of an MS Word file is .docx — it appears at the end of every Word file's name."
+      },
+      {
+       "q": "The extension of an MS PowerPoint file is ______.",
+       "options": [
+        ".mpt",
+        ".doc",
+        ".ppt",
+        ".mp3"
+       ],
+       "answer": 2,
+       "why": "Correct answer: .ppt. The extension of a PowerPoint file is .ppt (in the newer format it is .pptx)."
+      },
+      {
+       "q": "Which of the following is NOT a viewing format for a PowerPoint presentation?",
+       "options": [
+        "Slide view",
+        "Presentation view",
+        "Outline view",
+        "Slide show view"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Presentation view. PowerPoint's viewing formats are Slide view, Outline view and Slide show view; “Presentation view” is not one of them."
+      },
+      {
+       "q": "Which keyboard shortcut is used to save a document immediately?",
+       "options": [
+        "Ctrl + S",
+        "Alt + Shift + S",
+        "Alt + S",
+        "Ctrl + D"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Ctrl + S. Pressing Ctrl + S saves the document at once, so our work is not lost."
+      },
+      {
+       "q": "The shortcut key for creating a new document in MS Word is ______.",
+       "options": [
+        "Ctrl + O",
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + N"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Ctrl + N. Ctrl + N creates a new blank document in MS Word (N = New)."
+      },
+      {
+       "q": "Which of these can be made with MS Word?",
+       "options": [
+        "Only video games",
+        "Only songs",
+        "Letters, reports, assignments and CVs",
+        "Only bank accounts"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Letters, reports, assignments and CVs. MS Word is used to create, edit, format and print documents such as letters, reports, projects, notes, books and forms."
+      },
+      {
+       "q": "What is the shortcut for printing a document?",
+       "options": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + A",
+        "Ctrl + N"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Ctrl + P. P stands for Print. Remember the set: Ctrl + N = New, Ctrl + S = Save, Ctrl + P = Print."
+      },
+      {
+       "q": "A word processor is software used to:",
+       "options": [
+        "Create, edit, format and print documents",
+        "Connect to the internet",
+        "Play music",
+        "Draw 3D models only"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Create, edit, format and print documents. That is the definition of a word processor, and MS Word is the example in this lesson."
+      },
+      {
+       "q": "In the newer format, a PowerPoint file's extension is:",
+       "options": [
+        ".docx",
+        ".mp3",
+        ".txt",
+        ".pptx"
+       ],
+       "answer": 3,
+       "why": "Correct answer: .pptx. The book gives .ppt as the PowerPoint extension, and the newer format is .pptx — just as Word's is .docx."
+      }
+     ]
+    },
+    {
+     "title": "Working in MS Word",
+     "notes_html": "<h4>The Ribbon and Tabs</h4>\n<p>In MS Word the <b>ribbon</b> is divided into different sections called <b>tabs</b> — such as Home, Insert, Design and Layout. The <b>Header and Footer</b> option is found in the <b>Insert</b> tab.</p>\n<h4>Checking Mistakes</h4>\n<p>Mistakes in MS Word can be checked using the <b>spell check</b> facility, which checks the spelling and grammar mistakes in a document.</p>\n<h4>Save and Save As</h4>\n<table><tr><th>Save (Ctrl + S)</th><th>Save As (Alt + F + A)</th></tr>\n<tr><td>Saves changes in the same file</td><td>Saves the same file as a copy with a new name, new location or new format; the original file stays unchanged</td></tr>\n<tr><td>—</td><td>Example: saving a document as a PDF</td></tr></table>\n<h4>Basic Functions of MS Word</h4>\n<ul>\n<li>Creating a new document (Ctrl + N)</li>\n<li>Typing and editing text</li>\n<li>Formatting — bold, italic, underline, font size and colour</li>\n<li>Spell check</li>\n<li>Saving (Ctrl + S) and Save As</li>\n<li>Printing (Ctrl + P)</li>\n<li>Inserting pictures, tables and pages</li>\n<li>Adding headers and footers</li>\n<li>Find and replace, and word count</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In which tab is the Header and Footer option found?",
+       "options": [
+        "Insert",
+        "Layout",
+        "Design",
+        "Home"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Insert. Header and Footer is found in the Insert tab of MS Word — headers and footers are inserted into the document from there."
+      },
+      {
+       "q": "In MS Word the ribbon is divided into different sections called ______.",
+       "options": [
+        "Slides",
+        "Pages",
+        "Boxes",
+        "Tabs"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Tabs. The ribbon has tabs such as Home, Insert, Design, Layout, etc., and each tab holds its own tools."
+      },
+      {
+       "q": "Mistakes in MS Word can be checked using the ______ facility.",
+       "options": [
+        "Word count",
+        "Print preview",
+        "Spell check",
+        "Zoom"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Spell check. With spell check, the spelling and grammar mistakes in a document can be checked and corrected."
+      },
+      {
+       "q": "Use ______ in MS Word to make a copy of a file.",
+       "options": [
+        "New",
+        "Save As",
+        "Print",
+        "Save"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Save As. With Save As, a copy of the same file is saved with a new name, new location or new format (such as PDF)."
+      },
+      {
+       "q": "What is the difference between Save and Save As?",
+       "options": [
+        "Save keeps changes in the same file; Save As saves a copy with a new name, location or format",
+        "Save is used only for pictures",
+        "There is no difference",
+        "Save As deletes the file"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Save (Ctrl + S) saves changes in the same file, while Save As (Alt + F + A) saves a copy with a new name, new location or new format — the original stays unchanged."
+      },
+      {
+       "q": "Which of these is a basic function of MS Word?",
+       "options": [
+        "Repairing hardware",
+        "Connecting the internet",
+        "Making computer games",
+        "Formatting text — bold, italic, underline, font size and colour"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Formatting text. The basic functions of MS Word include typing and editing, formatting, spell check, saving, printing, inserting pictures/tables and find and replace."
+      },
+      {
+       "q": "Find and Replace in MS Word is used to:",
+       "options": [
+        "Replace the keyboard",
+        "Replace the document's name only",
+        "Find a word in the document and replace it with another word",
+        "Find the computer's files"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Find a word and replace it. Find and Replace is one of the basic functions of MS Word, along with word count."
+      },
+      {
+       "q": "The shortcut for Save As given in the book is:",
+       "options": [
+        "Alt + S",
+        "Alt + F + A",
+        "Ctrl + S",
+        "Ctrl + N"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Alt + F + A. Save is Ctrl + S, but Save As — saving a copy with a new name, location or format — is Alt + F + A in the book."
+      },
+      {
+       "q": "Headers and footers in a document appear:",
+       "options": [
+        "At the top (header) and bottom (footer) of the pages",
+        "Only in the middle of the page",
+        "Only on the first page picture",
+        "Inside the spell check"
+       ],
+       "answer": 0,
+       "why": "Correct answer: At the top and bottom of the pages. That is why the option sits in the Insert tab — we insert them once and they appear on the pages."
+      },
+      {
+       "q": "Which tab is NOT named as a ribbon tab in this lesson?",
+       "options": [
+        "Insert",
+        "Design",
+        "Home",
+        "Games"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Games. The ribbon tabs named in the book are Home, Insert, Design, Layout and others like them — there is no Games tab in MS Word."
+      }
+     ]
+    },
+    {
+     "title": "Presentations and Email",
+     "notes_html": "<h4>Multimedia Presentation</h4>\n<p>The purpose of a <b>multimedia presentation</b> is to present information with <b>text, pictures, sound, video and animation</b> in such a way that the viewer understands easily, pays attention and remembers. Examples: a lesson presentation in class, a business report, introducing a project.</p>\n<h4>Email Terms</h4>\n<table><tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>Email address</td><td>A person's unique address on which email can be sent and received, e.g. user@example.com (username @ domain)</td></tr>\n<tr><td>Password</td><td>A secret code (letters + numbers + symbols, e.g. John@123) that keeps the email account safe; it must not be told to anyone</td></tr>\n<tr><td>Contact</td><td>A person's saved information including their email address, so that they can be contacted easily</td></tr></table>\n<p><b>Uses of an email address:</b> sending/receiving messages, creating accounts, recovering accounts, notifications, and sending documents.</p>\n<h4>Inbox, Sent and Spam</h4>\n<table><tr><th>Folder</th><th>Purpose</th></tr>\n<tr><td>Inbox</td><td>The emails we have received appear here</td></tr>\n<tr><td>Sent</td><td>The emails we have sent are saved here</td></tr>\n<tr><td>Spam</td><td>Unwanted/junk emails (adverts, fraud) that are automatically separated and filtered</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "What is the purpose of a multimedia presentation?",
+       "options": [
+        "To save files on the computer",
+        "To present information with text, pictures, sound, video and animation so the viewer understands easily and remembers",
+        "To hide information from viewers",
+        "To print documents"
+       ],
+       "answer": 1,
+       "why": "Correct answer: To present information so the viewer understands easily, pays attention and remembers. Multimedia means using text, pictures, sound, video and animation together — like a lesson presentation in class."
+      },
+      {
+       "q": "An email address is:",
+       "options": [
+        "A secret code",
+        "A folder for junk mail",
+        "A person's unique address for sending and receiving email, e.g. user@example.com",
+        "A type of password"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A unique address for sending and receiving email. It is made of a username, the @ sign and a domain, like user@example.com."
+      },
+      {
+       "q": "A password must be:",
+       "options": [
+        "Written on the classroom board",
+        "The same as our name only",
+        "A secret code of letters, numbers and symbols, told to no one",
+        "Told to all friends"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A secret code told to no one. A password like John@123 (letters + numbers + symbols) keeps the email account safe."
+      },
+      {
+       "q": "A 'contact' in email means:",
+       "options": [
+        "The subject of an email",
+        "A person's saved information including their email address, so they can be contacted easily",
+        "An unwanted email",
+        "A computer virus"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A person's saved information including their email address. Saving contacts makes it easy to contact people again."
+      },
+      {
+       "q": "The emails we have received appear in the:",
+       "options": [
+        "Inbox",
+        "Sent folder",
+        "Spam folder",
+        "Recycle Bin"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Inbox. Received emails come to the Inbox; the emails we send are saved in Sent."
+      },
+      {
+       "q": "Unwanted/junk emails like adverts and fraud are put in:",
+       "options": [
+        "Sent",
+        "Contacts",
+        "Inbox",
+        "Spam"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Spam. Spam emails are automatically separated and filtered so they do not mix with our real mail."
+      },
+      {
+       "q": "Which of these is a use of an email address?",
+       "options": [
+        "Repairing a computer",
+        "Cooking food",
+        "Recovering an account",
+        "Printing a book cover"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Recovering an account. The lesson lists: sending/receiving messages, creating accounts, recovering accounts, notifications and sending documents."
+      },
+      {
+       "q": "The emails we have sent are saved in:",
+       "options": [
+        "Inbox",
+        "Sent",
+        "Spam",
+        "Drafts only"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Sent. Every email we send is saved in the Sent folder, so we can check it later."
+      },
+      {
+       "q": "In the email address user@example.com, the part before @ is the:",
+       "options": [
+        "Username",
+        "Password",
+        "Folder",
+        "Domain"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Username. An email address is username @ domain — the username is the person's own name part and the domain is the service part."
+      },
+      {
+       "q": "Which is an example of a multimedia presentation?",
+       "options": [
+        "An empty folder",
+        "A plain text file with no pictures",
+        "A password list",
+        "A class lesson presentation with text, pictures, sound and video"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A class lesson presentation. Multimedia presentations combine text, pictures, sound, video and animation — other examples are a business report and introducing a project."
+      }
+     ]
+    },
+    {
+     "title": "Digital Skills Activities",
+     "notes_html": "<h4>Activity 1 — Document: “My Best Friend” (MS Word)</h4>\n<ul>\n<li>Write the title and centre it; use <b>WordArt</b> from the Insert tab.</li>\n<li>Write a paragraph: your friend's name, class, and what you like most about him/her (e.g. truthful, helpful, studies together).</li>\n<li>Make the document colourful and well-arranged (font, colour, picture) using the Insert, Design and Layout tabs, and save it with Ctrl + S.</li>\n</ul>\n<h4>Activity 2 — PowerPoint: “My Dream Vacation” (8 steps)</h4>\n<ul>\n<li>Open PowerPoint, choose a blank presentation; make 4 slides (title, place, things to do, summary).</li>\n<li>Add a theme from the Design tab; add transitions (Transitions tab → Fade) and animations (Wipe, Zoom).</li>\n<li>Insert pictures (at least one per slide); add footer/header from Insert → Header and Footer → Apply to All.</li>\n<li>Review the show with F5 (Esc to stop) and save with File → Save As.</li>\n</ul>\n<h4>Class Activities</h4>\n<ul>\n<li><b>Word documents:</b> birthday invitation, party theme, school timetable — title in WordArt, text, a table (e.g. guest list), colourful design, save.</li>\n<li><b>PowerPoint test:</b> slides on geometric shapes (triangle, square, rectangle, circle — picture + name + number of sides); a poem with each line animated with a different effect (Appear, Fly In, Zoom).</li>\n<li><b>Creating an email account (Gmail):</b> Create account → name → username (e.g. jane123@gmail.com) → strong password → phone number → verification code. A professional username and strong password keep the account safe and identifiable.</li>\n<li><b>Sending an email:</b> To (friend), Cc (teacher, for information), Bcc (hidden recipient), Subject, content, signature — and attach a file before sending.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In the 'My Best Friend' document activity, the title is made beautiful using:",
+       "options": [
+        "WordArt from the Insert tab",
+        "Spell check",
+        "Save As",
+        "Slide show"
+       ],
+       "answer": 0,
+       "why": "Correct answer: WordArt from the Insert tab. The activity steps are: write the title, centre it, use WordArt, write the paragraph, and save with Ctrl + S."
+      },
+      {
+       "q": "In the PowerPoint activity, transitions like Fade are added from the:",
+       "options": [
+        "Insert tab",
+        "File menu only",
+        "Home tab",
+        "Transitions tab"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Transitions tab. In the model project, all slides are selected and the Fade transition is applied with duration 01.00."
+      },
+      {
+       "q": "To start a slide show and review it, we press:",
+       "options": [
+        "Ctrl + N",
+        "Ctrl + S",
+        "F5",
+        "Esc"
+       ],
+       "answer": 2,
+       "why": "Correct answer: F5. Press F5 to run the show, click to show each animation slowly, and press Esc to stop."
+      },
+      {
+       "q": "In an email, the 'Cc' field is used for:",
+       "options": [
+        "A hidden recipient",
+        "Sending a copy to someone for information, e.g. the teacher",
+        "The main receiver only",
+        "Attaching a file"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Sending a copy for information. In the class activity the teacher's address goes in Cc; To is the main receiver and Bcc is the hidden recipient."
+      },
+      {
+       "q": "While creating an email account, why should the password be strong?",
+       "options": [
+        "To make the account safe",
+        "To send emails faster",
+        "It is not important",
+        "To make the username longer"
+       ],
+       "answer": 0,
+       "why": "Correct answer: To keep the account safe. The activity teaches choosing a professional username (your own name) and a strong password of letters, numbers and symbols."
+      },
+      {
+       "q": "A file can be sent along with an email by using:",
+       "options": [
+        "Spell check",
+        "WordArt",
+        "Slide transition",
+        "Attach file"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Attach file. The sending-email activity ends with: attach a file → Send."
+      },
+      {
+       "q": "In the geometric-shapes PowerPoint activity, each shape's slide shows:",
+       "options": [
+        "Only the name",
+        "Only a poem",
+        "Picture + name + number of sides",
+        "Only the footer"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Picture + name + number of sides. The shapes are triangle, square, rectangle and circle, and the poem's lines each get a different animation."
+      },
+      {
+       "q": "The footer text is added to all slides through:",
+       "options": [
+        "Transitions → Fade",
+        "Insert → Header and Footer → Apply to All",
+        "File → Print",
+        "Design → Theme"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Insert → Header and Footer → Apply to All. In the model project the footer 'Ali Khan — 7-B' is applied to every slide this way."
+      },
+      {
+       "q": "A birthday invitation document in MS Word can include:",
+       "options": [
+        "A guest-list table, colourful font, picture and border",
+        "A password",
+        "Only plain black text",
+        "A slide show"
+       ],
+       "answer": 0,
+       "why": "Correct answer: A guest-list table with colourful design. The class activity designs the invitation with WordArt title, text, table, picture and border, then saves it."
+      },
+      {
+       "q": "The verification code step comes while:",
+       "options": [
+        "Printing a document",
+        "Making a slide show",
+        "Checking spelling",
+        "Creating an email account — after entering the phone number"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Creating an email account. The steps are: Create account → name → username → strong password → phone number → enter the verification code."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Algorithmic Thinking and Problem Solving",
+   "lessons": [
+    {
+     "title": "Computational Thinking",
+     "notes_html": "<h4>Computational Thinking</h4>\n<p>According to the book, the parts of <b>computational thinking</b> are:</p>\n<ul>\n<li><b>Decomposition</b> — breaking a big problem into small parts (e.g. breaking a puzzle into pieces and edges).</li>\n<li><b>Abstraction</b> — ignoring unnecessary information and keeping only what matters.</li>\n<li><b>Logical thinking</b> — putting steps in a clear order.</li>\n<li><b>Decision making</b> — choosing what to do by rules and conditions.</li>\n</ul>\n<p><b>Estimation</b> is NOT a part of computational thinking.</p>\n<h4>What is an Algorithm?</h4>\n<p>An <b>algorithm</b> is the process of arranging a plan in a clear and step-by-step order — a finite and clear sequence of step-by-step instructions for solving a problem. There can be <b>many ways</b> to solve the same problem.</p>\n<h4>Correct and Incorrect Data</h4>\n<p>Data must make sense: an age of <b>-5</b> is NOT correct, because age can never be negative. Testing with correct and incorrect data is part of solving a problem properly.</p>\n<h4>Algorithmic Thinking in Real Life</h4>\n<p>Algorithmic thinking is important not only on computers but also in real life: breaking a problem into small parts, recognising patterns, taking steps in order and checking the result.</p>\n<ul>\n<li><b>Making a cake:</b> gather the ingredients → mix them → bake → taste (validation).</li>\n<li><b>Getting ready for school:</b> clothes, bag, breakfast, route — in order.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which of the following is NOT a part of computational thinking?",
+       "options": [
+        "Abstract thinking",
+        "Estimation",
+        "Logical thinking",
+        "Decomposition"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Estimation. According to the book, the parts of computational thinking are decomposition (breaking down), abstraction, logical thinking and decision making; estimation is not among them."
+      },
+      {
+       "q": "Which of the following is NOT a correct age?",
+       "options": [
+        "30",
+        "18",
+        "-5",
+        "12"
+       ],
+       "answer": 2,
+       "why": "Correct answer: -5. Age can never be negative, so -5 is incorrect data — this example is used in the lesson for testing algorithms."
+      },
+      {
+       "q": "Which of the following is an example of decomposition?",
+       "options": [
+        "Looking at the puzzle's picture",
+        "Solving a puzzle all at once",
+        "Breaking a puzzle into pieces and edges",
+        "Colouring a puzzle"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Breaking a puzzle into pieces and edges. Decomposition means breaking a big problem into small parts so each part becomes easy."
+      },
+      {
+       "q": "______ is the process of arranging a plan in a clear and step-by-step order.",
+       "options": [
+        "Loop",
+        "Algorithm",
+        "Flowchart",
+        "Variable"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Algorithm. An algorithm is a finite and clear sequence of step-by-step instructions for solving a problem."
+      },
+      {
+       "q": "There can be ______ ways to solve a problem.",
+       "options": [
+        "Many",
+        "Exactly two",
+        "No",
+        "Only one"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Many. The same problem can be solved in many ways — we choose a clear and correct one."
+      },
+      {
+       "q": "Abstraction in computational thinking means:",
+       "options": [
+        "Drawing the flowchart",
+        "Breaking the problem into parts",
+        "Repeating steps again and again",
+        "Ignoring unnecessary information and keeping only what matters"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Ignoring unnecessary information. In the class-monitor election example, abstraction means ignoring things like favourite colour and keeping only the voter list, candidates' names and votes."
+      },
+      {
+       "q": "Which is an example of algorithmic thinking in daily life?",
+       "options": [
+        "Sleeping all day",
+        "Watching television randomly",
+        "Making a cake: gather ingredients, mix, bake, then taste",
+        "Guessing without any steps"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Making a cake in ordered steps. Algorithmic thinking — small parts, patterns, steps in order, checking the result — is useful in daily life, not only on computers."
+      },
+      {
+       "q": "In the cake example, tasting the cake at the end is like:",
+       "options": [
+        "Abstraction",
+        "Validation — checking the result",
+        "A loop",
+        "Decomposition"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Validation — checking the result. After following the steps, we check whether the result is correct, just as we taste the cake."
+      },
+      {
+       "q": "Decision making in computational thinking means:",
+       "options": [
+        "Choosing what to do by rules and conditions",
+        "Deleting the problem",
+        "Ignoring all information",
+        "Writing the answer first"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Choosing by rules and conditions. For example, in an election: one vote per student, secret ballot, re-voting on a tie."
+      },
+      {
+       "q": "Getting ready for school — clothes, bag, breakfast, route — shows:",
+       "options": [
+        "A computer program",
+        "An infinite loop",
+        "Incorrect data",
+        "Steps taken in a clear order"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Steps in a clear order. This is algorithmic thinking in real life: the order of steps matters, just like in an algorithm."
+      }
+     ]
+    },
+    {
+     "title": "Flowcharts, Loops and Conditions",
+     "notes_html": "<h4>Flowchart Symbols</h4>\n<table><tr><th>Symbol</th><th>Use</th></tr>\n<tr><td>Oval</td><td>Start or End of the flowchart</td></tr>\n<tr><td>Rectangle</td><td>A process or step (such as a calculation)</td></tr>\n<tr><td>Parallelogram</td><td>Input or Output (Print)</td></tr>\n<tr><td>Diamond</td><td>A decision — checking a condition</td></tr></table>\n<h4>Loops</h4>\n<p>There are <b>two types of loops</b>:</p>\n<ul>\n<li><b>Finite loop</b> — repeats a fixed number of times or until a condition ends it, then stops.</li>\n<li><b>Infinite loop</b> — keeps repeating and never stops on its own.</li>\n</ul>\n<h4>Loops vs Conditional Statements</h4>\n<table><tr><th>Conditional statement (if/else)</th><th>Loop</th></tr>\n<tr><td>Chooses one path on the basis of a condition; that step runs once — <b>selection</b></td><td>Repeats the same instructions again and again while a condition stays true — <b>repetition</b></td></tr></table>\n<p>The <b>If-Else-If</b> statement allows checking many conditions, one by one.</p>\n<h4>Testing an Algorithm (Validation)</h4>\n<ul>\n<li>An algorithm must be tested with correct and incorrect data to make sure it produces correct results in all cases — this is called <b>validation</b>.</li>\n<li>Example: in checking age, both 12 (correct) and -5 (incorrect) are tried. If a wrong result is found, the steps are corrected.</li>\n<li>If we change the steps of the algorithm, the flowchart must also be changed with the same symbols, and checked (validated) again — otherwise it becomes wrong.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which symbol is used to show the start or end of a flowchart?",
+       "options": [
+        "Oval",
+        "Diamond",
+        "Circle",
+        "Rectangle"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Oval. The oval (terminal) symbol shows the start and end of a flowchart."
+      },
+      {
+       "q": "The ______ symbol is used to represent a process in a flowchart.",
+       "options": [
+        "Parallelogram",
+        "Diamond",
+        "Oval",
+        "Rectangle"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Rectangle. The rectangle represents a process or step, such as a calculation like Sum = A + B + C."
+      },
+      {
+       "q": "There are ______ types of loops.",
+       "options": [
+        "Three",
+        "Four",
+        "Two — Finite and Infinite",
+        "Only one"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Two. A finite loop stops after its work ends; an infinite loop keeps repeating and never stops on its own."
+      },
+      {
+       "q": "The ______ statement allows checking many conditions.",
+       "options": [
+        "Loop",
+        "If-Else-If",
+        "Print",
+        "If only"
+       ],
+       "answer": 1,
+       "why": "Correct answer: If-Else-If. This statement checks more than one condition one by one, e.g. hot, cold or normal temperature."
+      },
+      {
+       "q": "Why is it necessary to test an algorithm with correct and incorrect data?",
+       "options": [
+        "To make sure the algorithm produces correct results in all cases",
+        "For fun",
+        "To make the algorithm difficult",
+        "To guess what might happen"
+       ],
+       "answer": 0,
+       "why": "Correct answer: To make sure it produces correct results in all cases. This testing is called validation — e.g. trying age 12 (correct) and -5 (incorrect)."
+      },
+      {
+       "q": "How are loops different from conditional statements?",
+       "options": [
+        "A loop runs only once",
+        "There is no difference",
+        "A conditional repeats forever",
+        "A conditional chooses one path and runs once; a loop repeats instructions again and again"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Conditional = selection (once), loop = repetition (again and again). A conditional statement chooses one path on the basis of a condition; a loop repeats while a condition stays true."
+      },
+      {
+       "q": "If we change the steps of the algorithm, what must happen to the flowchart?",
+       "options": [
+        "The flowchart should be deleted",
+        "Only the title changes",
+        "The flowchart must also be changed with the same symbols and validated again",
+        "Nothing — it stays correct"
+       ],
+       "answer": 2,
+       "why": "Correct answer: The flowchart must also be changed and validated again. Every changed step must be changed in the flowchart with the same symbol, so the two stay identical."
+      },
+      {
+       "q": "Which flowchart symbol is used for a decision (checking a condition)?",
+       "options": [
+        "Parallelogram",
+        "Diamond",
+        "Oval",
+        "Rectangle"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Diamond. The diamond holds a question like 'Password = SECRET?' with Yes and No paths coming out of it."
+      },
+      {
+       "q": "Input and Print steps in a flowchart are shown with a:",
+       "options": [
+        "Parallelogram",
+        "Oval",
+        "Diamond",
+        "Rectangle"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Parallelogram. In the book's flowcharts, Input A, B, C and Print Sum are both drawn as parallelograms."
+      },
+      {
+       "q": "Testing an algorithm with different inputs, like 12 and -5 for age, is called:",
+       "options": [
+        "Abstraction",
+        "Iteration",
+        "Decomposition",
+        "Validation"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Validation. It verifies that correct data gives the correct result and incorrect data does not break the algorithm; if a wrong result is found, the steps are corrected."
+      }
+     ]
+    },
+    {
+     "title": "Making Flowcharts",
+     "notes_html": "<h4>Flowchart 1 — Sum of Three Numbers</h4>\n<p>Start (oval) → Input A, B, C (parallelogram) → Sum = A + B + C (rectangle) → Print Sum (parallelogram) → End (oval).</p>\n<h4>Flowchart 2 — Password Check</h4>\n<p>Start (oval) → Input Password (parallelogram) → Decision (diamond): Password = \"SECRET\"? → <b>Yes</b> → Print \"Access granted to you\" → End; <b>No</b> → Print \"Access denied to you!\" → End.</p>\n<h4>Flowchart 3 — Sum of the First 10 Natural Numbers (Loop)</h4>\n<p>Start (oval) → N = 1, Sum = 0 (rectangle) → Decision (diamond): N ≤ 10? → <b>Yes</b> → Sum = Sum + N; N = N + 1 (rectangle) → back to the decision; <b>No</b> → Print Sum (parallelogram) → End (oval).</p>\n<h4>Flowchart 4 — Counting from 0 up to the Entered Number (Loop)</h4>\n<p>Start (oval) → Input N (parallelogram) → Count = 0 (rectangle) → Decision (diamond): Count ≤ N? → <b>Yes</b> → Print Count; Count = Count + 1 (rectangle) → back to the decision; <b>No</b> → End (oval).</p>\n<p><b>Remember:</b> a loop flowchart always has an arrow going back to the decision diamond; the loop ends when the condition becomes false.</p>",
+     "mcqs": [
+      {
+       "q": "In the flowchart for the sum of three numbers, the step 'Sum = A + B + C' is drawn as a:",
+       "options": [
+        "Parallelogram",
+        "Rectangle",
+        "Oval",
+        "Diamond"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Rectangle. Adding the numbers is a process (calculation), and processes are drawn as rectangles."
+      },
+      {
+       "q": "In the password flowchart, what happens if the password is not 'SECRET'?",
+       "options": [
+        "Access granted to you",
+        "Nothing happens",
+        "Access denied to you!",
+        "The password is printed"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 'Access denied to you!' is printed. The diamond checks Password = 'SECRET'? — Yes gives access granted, No gives access denied, then End."
+      },
+      {
+       "q": "In the sum of the first 10 natural numbers flowchart, the loop continues while:",
+       "options": [
+        "Sum = 0",
+        "N > 100",
+        "N ≤ 10",
+        "N = 0"
+       ],
+       "answer": 2,
+       "why": "Correct answer: N ≤ 10. Each round adds N to Sum and increases N by 1; when N becomes greater than 10, the loop stops and Sum is printed."
+      },
+      {
+       "q": "In the counting flowchart, Count starts from:",
+       "options": [
+        "The entered number",
+        "0",
+        "1",
+        "10"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 0. Count = 0, then while Count ≤ N it prints Count and adds 1, so it prints 0, 1, 2, ... up to N."
+      },
+      {
+       "q": "What makes flowcharts 3 and 4 loops?",
+       "options": [
+        "An arrow goes back to the decision diamond so steps repeat",
+        "They have many ovals",
+        "They use no symbols",
+        "They end immediately"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The arrow back to the decision. The Yes path returns to the diamond (N ≤ 10? / Count ≤ N?), so the steps repeat until the condition becomes false."
+      },
+      {
+       "q": "The first step of every flowchart in this lesson is:",
+       "options": [
+        "A decision diamond",
+        "Input a number",
+        "Print the answer",
+        "Start (oval)"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Start, drawn as an oval. Every flowchart begins with Start (oval) and finishes with End (oval)."
+      },
+      {
+       "q": "In the sum-of-three-numbers flowchart, 'Input A, B, C' uses which symbol?",
+       "options": [
+        "Rectangle",
+        "Diamond",
+        "Parallelogram",
+        "Oval"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Parallelogram. Input and output (Print) steps are both shown with parallelograms in a flowchart."
+      },
+      {
+       "q": "If N = 5 is entered in the counting flowchart, the output will be:",
+       "options": [
+        "5 only",
+        "0 1 2 3 4 5",
+        "1 2 3 4",
+        "0 1 2 3 4"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 0 1 2 3 4 5. Count starts at 0 and is printed each round while Count ≤ 5, increasing by 1 every time."
+      },
+      {
+       "q": "The final Sum printed by the first-10-natural-numbers flowchart is:",
+       "options": [
+        "55",
+        "45",
+        "100",
+        "10"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 55. The loop adds 1 + 2 + 3 + ... + 10 = 55, and prints Sum when N passes 10."
+      },
+      {
+       "q": "In the password flowchart, the diamond contains:",
+       "options": [
+        "The user's name",
+        "The sum of numbers",
+        "The final answer",
+        "The question: Password = 'SECRET'?"
+       ],
+       "answer": 3,
+       "why": "Correct answer: The question Password = 'SECRET'? A diamond always holds a condition with two ways out — Yes and No."
+      }
+     ]
+    },
+    {
+     "title": "Writing Algorithms",
+     "notes_html": "<h4>Algorithm 1 — Even, Odd or Zero</h4>\n<ul>\n<li>Step 1: Start. Step 2: Input number N. Step 3: If N = 0, print \"Zero\". Step 4: Else if N % 2 = 0, print \"Even\". Step 5: Else print \"Odd\". Step 6: End.</li>\n</ul>\n<h4>Algorithm 2 — 10% Discount on a Book</h4>\n<ul>\n<li>Step 1: Start. Step 2: Input the book price P. Step 3: Discount = P × 0.10. Step 4: Final Price = P − Discount. Step 5: Print Final Price. Step 6: End.</li>\n<li><b>Example:</b> price 1000 rupees → discount = 1000 × 0.10 = 100 rupees → final price = 1000 − 100 = <b>900 rupees</b>.</li>\n</ul>\n<h4>Algorithm 3 — Zawiyar's Bookshop (20% Discount Rule)</h4>\n<ul>\n<li>If the price of a book is more than 500 rupees, OR Zawiyar is a student, he gets a 20 percent discount; otherwise no discount.</li>\n<li>Step 3: If P &gt; 500 OR Student = Yes, then Discount = P × 0.20; Final Price = P − Discount; print Final Price. Step 4: Else print P (no discount).</li>\n</ul>\n<h4>Algorithm 4 — Print a Name 10 Times (Loop)</h4>\n<ul>\n<li>Step 1: Start. Step 2: Input Name. Step 3: Set Count = 1. Step 4: If Count ≤ 10, print Name; Count = Count + 1; repeat Step 4. Step 5: End.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In the Even/Odd/Zero algorithm, if N = 0, the output is:",
+       "options": [
+        "Zero",
+        "Even",
+        "Odd",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Zero. The algorithm checks N = 0 first; only then does it test N % 2 = 0 for Even, otherwise Odd."
+      },
+      {
+       "q": "A number N is Even when:",
+       "options": [
+        "N = 0 only",
+        "N is greater than 10",
+        "N % 2 = 1",
+        "N % 2 = 0"
+       ],
+       "answer": 3,
+       "why": "Correct answer: N % 2 = 0. The % sign gives the remainder after dividing by 2; remainder 0 means the number is Even."
+      },
+      {
+       "q": "A book costs 1000 rupees. After a 10% discount, the final price is:",
+       "options": [
+        "1100 rupees",
+        "100 rupees",
+        "900 rupees",
+        "1000 rupees"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 900 rupees. Discount = 1000 × 0.10 = 100 rupees; Final Price = 1000 − 100 = 900 rupees."
+      },
+      {
+       "q": "The 10 percent discount is calculated by:",
+       "options": [
+        "Dividing the price by 10 twice",
+        "Multiplying the original price by 0.10",
+        "Adding 10 to the price",
+        "Multiplying the price by 10"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Multiplying by 0.10. Then the discount is subtracted from the original price to get the final price."
+      },
+      {
+       "q": "Zawiyar gets a 20% discount when:",
+       "options": [
+        "The price is more than 500 rupees OR he is a student",
+        "He buys two books",
+        "He pays in cash only",
+        "The book costs less than 100 rupees"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Price more than 500 rupees OR student = Yes. If either condition is true, Discount = P × 0.20; otherwise no discount is given."
+      },
+      {
+       "q": "If Zawiyar is not a student and the book costs 400 rupees, he will get:",
+       "options": [
+        "50% discount",
+        "20% discount",
+        "10% discount",
+        "No discount"
+       ],
+       "answer": 3,
+       "why": "Correct answer: No discount. 400 is not more than 500 and he is not a student, so the Else part runs and the full price P is printed."
+      },
+      {
+       "q": "In the name-printing algorithm, the loop stops when:",
+       "options": [
+        "Count = 1",
+        "The name is long",
+        "Count becomes greater than 10",
+        "After printing once"
+       ],
+       "answer": 2,
+       "why": "Correct answer: When Count becomes greater than 10. Count starts at 1 and increases by 1 after each printing, so the name prints exactly 10 times."
+      },
+      {
+       "q": "In the discount algorithm, 'P' stands for:",
+       "options": [
+        "The print command",
+        "The book price (input)",
+        "The percentage",
+        "The number of pages"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The book price. Step 2 inputs the book price P, then Discount = P × 0.10 and Final Price = P − Discount."
+      },
+      {
+       "q": "Which step comes first in every algorithm of this lesson?",
+       "options": [
+        "Start",
+        "End",
+        "Print the result",
+        "Input the value"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Start. Step 1 is always Start and the last step is End — clear instructions need both."
+      },
+      {
+       "q": "If a book costs 600 rupees and Zawiyar is not a student, his discount is:",
+       "options": [
+        "No discount, because 600 is less than 500",
+        "10% discount",
+        "120 rupees fixed",
+        "20% discount, because the price is more than 500 rupees"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 20% discount. The rule is price more than 500 OR student — 600 &gt; 500 is true, so Discount = 600 × 0.20 = 120 rupees."
+      }
+     ]
+    },
+    {
+     "title": "Algorithmic Thinking Activities",
+     "notes_html": "<h4>Activity 1 — Class Monitor Election (Computational Thinking)</h4>\n<table><tr><th>Part</th><th>In the election</th></tr>\n<tr><td>Decomposition</td><td>Break the problem into parts: nomination, voting, counting, announcement</td></tr>\n<tr><td>Abstraction</td><td>Ignore unnecessary information (favourite colour, etc.); keep only the voter list, candidates' names and votes</td></tr>\n<tr><td>Logical thinking</td><td>Clear order: announcement → nomination → voting → counting → announcement</td></tr>\n<tr><td>Decision making</td><td>Rules: one vote per student, secret ballot, re-voting on a tie</td></tr>\n<tr><td>Validation</td><td>Test with sample votes that the counting is correct</td></tr></table>\n<h4>Activity 2 — Clear vs Unclear Instructions</h4>\n<p>Clear instructions for Even/Odd: 1. Start. 2. Input number N. 3. If N % 2 = 0 show \"Even\". 4. Else show \"Odd\". 5. End.</p>\n<p>The unclear version (\"Take a number. Decide whether it is equal or odd. Show the result.\") is unclear because it does not say HOW to decide — no clear rule (N % 2 = 0) is given; there is no start/end; and it is not clear in which case to show the result. Clear instructions give every step, condition and result with the correct number and order.</p>\n<h4>Class Activity — Total Tax Flowchart</h4>\n<p>Start (oval) → Input mouse price P1 (parallelogram) → Input keyboard price P2 (parallelogram) → Tax1 = P1 × 0.10 (rectangle) → Tax2 = P2 × 0.10 (rectangle) → Total Tax = Tax1 + Tax2 (rectangle) → Print Total Tax (parallelogram) → End (oval).</p>\n<h4>Class Activity — Finite or Infinite Loops?</h4>\n<ul>\n<li>Watering the plant until the soil is wet — <b>Finite</b> (stops when the soil is wet).</li>\n<li>Testing a game until the player's health reaches Zero — <b>Finite</b>.</li>\n<li>A program keeps checking new emails continuously — <b>Infinite</b> (never stops on its own).</li>\n<li>A traffic light changes colours during the day — <b>Finite</b> (repeats during the day, off at night).</li>\n<li>A robot waters 3 plants one after another — <b>Finite</b> (exactly 3 plants, then end).</li>\n</ul>\n<h4>Class Activity — Which Condition? If / If-Else / If-Else-If</h4>\n<ul>\n<li>\"If the password is correct, log in; otherwise show an error\" — <b>If-Else</b>.</li>\n<li>\"If the user clicks Submit, save the form\" — <b>If</b>.</li>\n<li>\"Temperature more than 40°C → heat warning; less than 10°C → cold warning; otherwise normal\" — <b>If-Else-If-Else</b>.</li>\n<li>Note: none of the ten given examples clearly matches an \"Or\" (OR) condition.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In the class-monitor election, breaking the problem into nomination, voting, counting and announcement is:",
+       "options": [
+        "Validation",
+        "Decomposition",
+        "An infinite loop",
+        "Abstraction"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Decomposition. The election problem is broken into small parts — nomination, voting, counting, announcement — so it becomes true, fair, simple and well-organised."
+      },
+      {
+       "q": "Keeping only the voter list, candidates' names and votes (and ignoring favourite colour) is:",
+       "options": [
+        "Validation",
+        "Decomposition",
+        "Abstraction",
+        "Decision making"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Abstraction. Abstraction ignores unnecessary information and keeps only what matters for the problem."
+      },
+      {
+       "q": "Testing the counting with sample votes in the election is:",
+       "options": [
+        "Abstraction",
+        "A finite loop",
+        "Validation",
+        "Decomposition"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Validation. We test with sample votes that the counting is correct before the real election."
+      },
+      {
+       "q": "Why are the instructions 'Take a number. Decide whether it is equal or odd.' unclear?",
+       "options": [
+        "They use difficult words",
+        "They give no clear rule (like N % 2 = 0) for deciding, and no start/end",
+        "They are written in English",
+        "They are too long"
+       ],
+       "answer": 1,
+       "why": "Correct answer: No clear rule is given. Clear instructions give every step, condition and result with the correct number and order — the unclear version does not say HOW to decide."
+      },
+      {
+       "q": "'A computer program keeps checking new emails continuously' is an example of:",
+       "options": [
+        "An infinite loop",
+        "Decomposition",
+        "A finite loop",
+        "An If condition"
+       ],
+       "answer": 0,
+       "why": "Correct answer: An infinite loop. The program never stops on its own — it keeps checking again and again."
+      },
+      {
+       "q": "'A robot waters 3 plants one after another' is:",
+       "options": [
+        "An infinite loop",
+        "Not a loop at all",
+        "An If-Else-If",
+        "A finite loop — exactly 3 plants, then end"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A finite loop. It repeats exactly 3 times and then ends — finite loops always stop."
+      },
+      {
+       "q": "In the total tax flowchart, Tax1 is calculated as:",
+       "options": [
+        "P1 − 0.10",
+        "P1 × 10",
+        "P1 × 0.10",
+        "P1 + 0.10"
+       ],
+       "answer": 2,
+       "why": "Correct answer: P1 × 0.10. Tax on the mouse = price × 0.10, tax on the keyboard = P2 × 0.10, and Total Tax = Tax1 + Tax2."
+      },
+      {
+       "q": "'If the password is correct, then log in; otherwise show an error message' is:",
+       "options": [
+        "Or",
+        "If-Else",
+        "If",
+        "If-Else-If-Else"
+       ],
+       "answer": 1,
+       "why": "Correct answer: If-Else. There are two branches: log in (condition true) or error message (otherwise)."
+      },
+      {
+       "q": "The temperature example (heat warning / cold warning / normal) uses:",
+       "options": [
+        "If-Else-If-Else — three cases",
+        "If only",
+        "If-Else",
+        "A loop"
+       ],
+       "answer": 0,
+       "why": "Correct answer: If-Else-If-Else. More than 40°C → heat warning; else if less than 10°C → cold warning; else → normal. Three cases need the If-Else-If chain."
+      },
+      {
+       "q": "'Keep watering the plant until the soil becomes wet' is a finite loop because:",
+       "options": [
+        "It has no condition",
+        "It runs only at night",
+        "It never stops",
+        "It stops when the soil becomes wet"
+       ],
+       "answer": 3,
+       "why": "Correct answer: It stops when the soil becomes wet. A loop with a clear ending condition is finite — like the game that ends when health reaches Zero."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Programming",
+   "lessons": [
+    {
+     "title": "Binary Numbers and Computer Memory",
+     "notes_html": "<h4>How Information is Stored</h4>\n<p>The computer stores information in <b>binary (0 and 1)</b>: with encoding, letters, pictures and sound are converted into binary code and that code is stored in memory/storage. For example, with <b>ASCII</b>, A = 01000001.</p>\n<p><b>ASCII</b> stands for <b>American Standard Code for Information Interchange</b>.</p>\n<p>The computer understands only <b>0 and 1</b>.</p>\n<h4>Binary vs Decimal Number Systems</h4>\n<table><tr><th>Binary system</th><th>Decimal system</th></tr>\n<tr><td>Base 2</td><td>Base 10</td></tr>\n<tr><td>Only two digits: 0 and 1</td><td>Ten digits: 0 to 9</td></tr>\n<tr><td>The computer's system</td><td>Humans' everyday system</td></tr></table>\n<p>A binary number can contain only 0 and 1 — so <b>11E</b> is NOT a binary number, because E is not a binary digit.</p>\n<h4>Converting Between Binary and Decimal</h4>\n<ul>\n<li>Decimal 10 = 8 + 2 = binary <b>1010</b>.</li>\n<li>Binary 10101 = 16 + 0 + 4 + 0 + 1 = decimal <b>21</b>.</li>\n<li>Place values in binary (from the right): 1, 2, 4, 8, 16, 32...</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "ASCII stands for:",
+       "options": [
+        "American Standard Code for Information Interchange",
+        "American Scientific Character for Information Interchange",
+        "American Simple Clause for Information Interchange",
+        "American Structural Character for Information Interchange"
+       ],
+       "answer": 0,
+       "why": "Correct answer: American Standard Code for Information Interchange. ASCII is the code that converts letters into binary, e.g. A = 01000001."
+      },
+      {
+       "q": "Which of the following is NOT a binary number?",
+       "options": [
+        "101",
+        "000",
+        "1111",
+        "11E"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 11E. Binary numbers contain only 0 and 1; E is not a binary digit, so 11E cannot be a binary number."
+      },
+      {
+       "q": "How is information stored on the computer?",
+       "options": [
+        "As sound waves",
+        "As printed pages",
+        "In binary (0 and 1) — letters, pictures and sound are encoded into binary code and stored",
+        "As decimal numbers only"
+       ],
+       "answer": 2,
+       "why": "Correct answer: In binary. With encoding, letters/pictures/sound are converted into binary code (e.g. ASCII: A = 01000001) and that code is stored in memory/storage."
+      },
+      {
+       "q": "What is the difference between the binary and decimal number systems?",
+       "options": [
+        "Binary has base 10, decimal has base 2",
+        "Binary: base 2, digits 0 and 1 (computer's system); Decimal: base 10, digits 0 to 9 (humans' system)",
+        "Both have the same digits",
+        "Decimal is used by computers"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Binary is base 2 with digits 0 and 1 — the computer's system. Decimal is base 10 with digits 0 to 9 — our everyday system."
+      },
+      {
+       "q": "The base value in the binary number system is ______.",
+       "options": [
+        "2",
+        "8",
+        "16",
+        "10"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 2. The binary system is built on base 2, which is why it has only two digits: 0 and 1."
+      },
+      {
+       "q": "The binary equivalent of the decimal number 10 is ______.",
+       "options": [
+        "0101",
+        "1001",
+        "1111",
+        "1010"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 1010. 10 = 8 + 2, so the 8s and 2s places are 1 and the others are 0: 1010."
+      },
+      {
+       "q": "______ is the decimal value of the binary number 10101.",
+       "options": [
+        "19",
+        "25",
+        "21",
+        "15"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 21. 10101 = 16 + 0 + 4 + 0 + 1 = 21, using the binary place values 16, 8, 4, 2, 1."
+      },
+      {
+       "q": "The computer understands only ______ and ______.",
+       "options": [
+        "Pictures and sound",
+        "0 and 1",
+        "2 and 10",
+        "Letters and words"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 0 and 1. Everything — letters, pictures, sound — is first converted into binary code of 0s and 1s for the computer."
+      },
+      {
+       "q": "In ASCII, the letter A is stored as:",
+       "options": [
+        "01000001",
+        "11111111",
+        "1010",
+        "00000001"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 01000001. The lesson gives this example of encoding: with ASCII, A = 01000001."
+      },
+      {
+       "q": "Which number is a correct binary number?",
+       "options": [
+        "12A",
+        "210",
+        "1E1",
+        "101"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 101. A binary number may contain only the digits 0 and 1 — 12A, 210 and 1E1 all contain other digits or letters."
+      }
+     ]
+    },
+    {
+     "title": "Scratch — Sprites, Blocks and Events",
+     "notes_html": "<h4>Scratch Blocks</h4>\n<p>In Scratch the building blocks are divided into <b>9 types (block palettes)</b>:</p>\n<table><tr><th colspan=\"3\">The 9 block types</th></tr>\n<tr><td>Motion</td><td>Looks</td><td>Sound</td></tr>\n<tr><td>Events</td><td>Control</td><td>Sensing</td></tr>\n<tr><td>Operators</td><td>Variables</td><td>My Blocks</td></tr></table>\n<ul>\n<li>The <b>move 10 steps</b> block belongs to the <b>Motion</b> category — it moves the sprite forward.</li>\n<li>The centre of the XY plane (the stage) is <b>X = 0, Y = 0</b>.</li>\n</ul>\n<h4>Important Terms</h4>\n<table><tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>Sprite</td><td>The character or object in Scratch that moves, speaks or interacts with others (e.g. the cat)</td></tr>\n<tr><td>Stage</td><td>The background where all the activity happens</td></tr>\n<tr><td>Costume</td><td>A different shape/appearance of the sprite — changing the costume makes the sprite look different</td></tr>\n<tr><td>Variable</td><td>A container/box that stores a value (such as score, name, lives, time) which can change</td></tr></table>\n<h4>Events</h4>\n<p>An <b>event</b> is the trigger that starts a script. Examples: when green flag clicked, when sprite clicked, when a key is pressed (when space key pressed), when the backdrop switches, when a message is received. Without events a program does not start.</p>\n<h4>Reading a Scratch Script</h4>\n<p>In the book's script (when green flag clicked → go to x: 0 y: 0 → repeat until ... → move 10 steps → stop all), the block that can move the sprite to (10, 0) is <b>move 10 steps</b> — it moves the sprite 10 steps in the direction it faces.</p>",
+     "mcqs": [
+      {
+       "q": "In Scratch, the 'move 10 steps' block belongs to which category?",
+       "options": [
+        "Operators",
+        "Motion",
+        "Control",
+        "Events"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Motion. The move 10 steps block is a Motion-category block, which moves the sprite forward."
+      },
+      {
+       "q": "______ is the central coordinate of the XY plane.",
+       "options": [
+        "X=0, Y=-240",
+        "X=0, Y=180",
+        "X=0, Y=0",
+        "X=-240, Y=0"
+       ],
+       "answer": 2,
+       "why": "Correct answer: X=0, Y=0. The centre of the stage is (0,0) — the go to x: 0 y: 0 block places the sprite there."
+      },
+      {
+       "q": "How many types of block palettes are there in Scratch programming?",
+       "options": [
+        "5",
+        "7",
+        "9",
+        "12"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 9 types. They are: Motion, Looks, Sound, Events, Control, Sensing, Operators, Variables and My Blocks."
+      },
+      {
+       "q": "A 'sprite' in Scratch is:",
+       "options": [
+        "A sound effect",
+        "The character or object that moves, speaks or interacts with others",
+        "A type of variable",
+        "The background of the game"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The character or object, e.g. the cat. The stage is the background; the sprite is what acts on it."
+      },
+      {
+       "q": "The 'stage' in Scratch is:",
+       "options": [
+        "The background where all the activity happens",
+        "The green flag",
+        "A container that stores values",
+        "A block category"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The background where all the activity happens. Sprites move and act on the stage."
+      },
+      {
+       "q": "A 'costume' of a sprite is:",
+       "options": [
+        "Its score",
+        "The stage background",
+        "An event",
+        "A different shape/appearance of the sprite"
+       ],
+       "answer": 3,
+       "why": "Correct answer: A different appearance of the sprite. Changing the costume makes the sprite look different, which is how walking animations are made."
+      },
+      {
+       "q": "A 'variable' in Scratch is:",
+       "options": [
+        "A sound block",
+        "The stage",
+        "A container/box that stores a value (score, name, lives, time) which can change",
+        "A fixed picture"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A container that stores a changing value. Variables hold things like score, name, lives and time in a program."
+      },
+      {
+       "q": "What is an 'event' in Scratch?",
+       "options": [
+        "A type of sound",
+        "The trigger that starts a script, e.g. when green flag clicked",
+        "The final score",
+        "A costume change only"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The trigger that starts a script. Other examples: when sprite clicked, when a key is pressed, when the backdrop switches, when a message is received. Without events a program does not start."
+      },
+      {
+       "q": "Which block can move the sprite from (0,0) to (10,0) in the book's script?",
+       "options": [
+        "Move 10 steps",
+        "Click the green flag",
+        "Click the cat",
+        "Stop all"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Move 10 steps. It moves the sprite 10 steps in the direction it faces, i.e. from (0,0) to (10,0); the green flag only starts the script."
+      },
+      {
+       "q": "Which of these is an Events example?",
+       "options": [
+        "Change colour",
+        "Set score to 0",
+        "Move 10 steps",
+        "When space key pressed"
+       ],
+       "answer": 3,
+       "why": "Correct answer: When space key pressed. Events are triggers — when green flag clicked, when sprite clicked, when a key is pressed, when a message is received."
+      }
+     ]
+    },
+    {
+     "title": "Programming Activities",
+     "notes_html": "<h4>Activity — Decimal to Binary</h4>\n<table><tr><th>Decimal</th><th>Binary</th><th>Working</th></tr>\n<tr><td>54</td><td>110110</td><td>32 + 16 + 4 + 2</td></tr>\n<tr><td>21</td><td>10101</td><td>16 + 4 + 1</td></tr>\n<tr><td>35</td><td>100011</td><td>32 + 2 + 1</td></tr>\n<tr><td>47</td><td>101111</td><td>32 + 8 + 4 + 2 + 1</td></tr></table>\n<h4>Activity — Binary to Decimal</h4>\n<table><tr><th>Binary</th><th>Decimal</th><th>Working</th></tr>\n<tr><td>1001</td><td>9</td><td>8 + 1</td></tr>\n<tr><td>1100</td><td>12</td><td>8 + 4</td></tr>\n<tr><td>1000</td><td>8</td><td>8</td></tr>\n<tr><td>1010</td><td>10</td><td>8 + 2</td></tr></table>\n<h4>Activity — Changing the Sprite's Position</h4>\n<p>Script: when green flag clicked → go to x: 0 y: 0 (centre of the stage) → glide 1 secs to x: 100 y: 50 (the desired position). The Motion blocks <b>go to</b> and <b>glide</b> change the sprite's position.</p>\n<h4>Activity — Moving the Sprite</h4>\n<ul>\n<li><b>With arrow keys:</b> when green flag clicked → forever → if up arrow key pressed then change y by 10; down arrow → change y by -10; right arrow → change x by 10; left arrow → change x by -10.</li>\n<li><b>Automatic:</b> when green flag clicked → go to x: 0 y: 0 → forever → move 10 steps → if on edge, bounce.</li>\n</ul>\n<h4>Class Activities</h4>\n<ul>\n<li><b>Make a book in Scratch:</b> sprites are the characters (cat and dog), backdrops are the book's pages (Backdrop 1, 2, 3), use say blocks and movement on each page, and the next backdrop block to change pages.</li>\n<li><b>Score points:</b> make a variable \"Score\" — when green flag clicked → set Score to 0 → forever → if touching [other sprite] then change Score by 1; and when this sprite clicked → change Score by 1.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The decimal number 54 in binary is:",
+       "options": [
+        "110110",
+        "100110",
+        "101010",
+        "111100"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 110110. 54 = 32 + 16 + 4 + 2, so the 32, 16, 4 and 2 places are 1: 110110."
+      },
+      {
+       "q": "The binary number 1001 in decimal is:",
+       "options": [
+        "8",
+        "11",
+        "13",
+        "9"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 9. 1001 = 8 + 1 = 9, using place values 8, 4, 2, 1."
+      },
+      {
+       "q": "The decimal number 35 in binary is:",
+       "options": [
+        "101011",
+        "110001",
+        "100011",
+        "100101"
+       ],
+       "answer": 2,
+       "why": "Correct answer: 100011. 35 = 32 + 2 + 1, so only the 32, 2 and 1 places are 1."
+      },
+      {
+       "q": "The binary number 1100 in decimal is:",
+       "options": [
+        "14",
+        "12",
+        "10",
+        "11"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 12. Using the binary place values 8, 4, 2, 1: 1100 = 8 + 4 = 12."
+      },
+      {
+       "q": "Which Motion block places the sprite at the centre of the stage?",
+       "options": [
+        "Go to x: 0 y: 0",
+        "Glide 1 secs",
+        "Move 10 steps",
+        "Change y by 10"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Go to x: 0 y: 0. The centre of the stage is (0,0); from there the glide block can move the sprite to the desired position."
+      },
+      {
+       "q": "To move the sprite up with the up-arrow key, we use:",
+       "options": [
+        "Change y by -10",
+        "Move 10 steps only",
+        "Change x by 10",
+        "Change y by 10"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Change y by 10. In the forever loop: up arrow → change y by 10, down arrow → change y by -10, right → change x by 10, left → change x by -10."
+      },
+      {
+       "q": "For automatic movement across the screen, the script uses:",
+       "options": [
+        "A single glide",
+        "Only a say block",
+        "Forever → move 10 steps → if on edge, bounce",
+        "Set Score to 0"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Forever → move 10 steps → if on edge, bounce. The forever loop keeps the sprite moving and the bounce turns it at the edge."
+      },
+      {
+       "q": "In the score activity, the Score variable is first:",
+       "options": [
+        "Set to 100",
+        "Set to 0 when the green flag is clicked",
+        "Deleted",
+        "Changed by 10"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Set to 0. Then, forever: if touching the other sprite, change Score by 1 — and clicking the sprite also changes Score by 1."
+      },
+      {
+       "q": "In the Scratch story-book activity, the book's pages are made from:",
+       "options": [
+        "Backdrops (Backdrop 1, 2, 3) changed with the next backdrop block",
+        "Sounds",
+        "Costumes only",
+        "Variables"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Backdrops. The sprites are the characters (cat and dog), each backdrop is a page, and the next backdrop block turns the page."
+      },
+      {
+       "q": "The decimal number 47 in binary is:",
+       "options": [
+        "101011",
+        "110111",
+        "100111",
+        "101111"
+       ],
+       "answer": 3,
+       "why": "Correct answer: 101111. 47 = 32 + 8 + 4 + 2 + 1, so those places are 1 and the 16 place is 0."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Citizenship",
+   "lessons": [
+    {
+     "title": "Netiquette — Good Behaviour Online",
+     "notes_html": "<h4>What is Netiquette?</h4>\n<p><b>Netiquette</b> means appropriate and respectful behaviour on the internet — the rules of good manners and etiquette in the online world:</p>\n<ul>\n<li>Speaking politely (using polite language in messages)</li>\n<li>Respecting others' opinions — respecting another person's opinion is <b>appropriate</b> behaviour online</li>\n<li>Not sharing personal information</li>\n<li>Not spreading rumours</li>\n<li>Being mindful of time</li>\n<li>Not hurting others, and caring for others' privacy</li>\n</ul>\n<h4>Appropriate vs Inappropriate Behaviour</h4>\n<table><tr><th>Appropriate ✓</th><th>Inappropriate ✗</th></tr>\n<tr><td>Using polite language in messages</td><td>Sharing someone's private pictures</td></tr>\n<tr><td>Respecting another person's opinion</td><td>Spreading wrong information / rumours</td></tr>\n<tr><td>Caring for others' privacy</td><td>Ignoring cyberbullying</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "Which of the following is an example of appropriate online behaviour?",
+       "options": [
+        "Sharing someone's private pictures",
+        "Using polite language in messages",
+        "Spreading wrong information",
+        "Ignoring cyberbullying"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Using polite language in messages. Appropriate online behaviour (netiquette) includes politeness, respect and caring for others' privacy."
+      },
+      {
+       "q": "What does the term 'netiquette' refer to?",
+       "options": [
+        "Illegal online activities",
+        "Rules for online shopping",
+        "Appropriate and respectful behaviour on the internet",
+        "The study of computer viruses"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Appropriate and respectful behaviour on the internet. Netiquette is the rules of good manners and etiquette in the online world."
+      },
+      {
+       "q": "Respecting another person's opinion is an example of ______ behaviour online.",
+       "options": [
+        "Prejudice",
+        "Inappropriate",
+        "Appropriate",
+        "Cyberbullying"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Appropriate. Respecting others' opinions is part of netiquette, along with speaking politely and not hurting others."
+      },
+      {
+       "q": "What is netiquette?",
+       "options": [
+        "A type of computer virus",
+        "The rules of good manners and etiquette in the online world",
+        "A social media website",
+        "A password rule"
+       ],
+       "answer": 1,
+       "why": "Correct answer: The rules of good manners in the online world. Netiquette includes speaking politely, respecting opinions, not sharing personal information, not spreading rumours and being mindful of time."
+      },
+      {
+       "q": "Which of these is part of netiquette?",
+       "options": [
+        "Not spreading rumours",
+        "Hurting others in messages",
+        "Wasting others' time",
+        "Sharing other people's personal information"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Not spreading rumours. Netiquette says: be polite, respect opinions, do not share personal information, do not spread rumours, be mindful of time and do not hurt others."
+      },
+      {
+       "q": "Sharing someone's private pictures online is:",
+       "options": [
+        "A way to protect the computer",
+        "Good netiquette",
+        "A positive effect of social media",
+        "Inappropriate behaviour"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Inappropriate behaviour. Appropriate behaviour cares for others' privacy; sharing private pictures breaks it."
+      },
+      {
+       "q": "'Being mindful of time' online means:",
+       "options": [
+        "Staying online all night",
+        "Checking the clock every minute",
+        "Respecting others' time and not wasting it",
+        "Sending messages at midnight"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Respecting others' time. Being mindful of time is one of the netiquette rules listed in this lesson."
+      },
+      {
+       "q": "Ignoring cyberbullying when we see it is:",
+       "options": [
+        "Netiquette",
+        "Inappropriate behaviour",
+        "A positive effect",
+        "Appropriate behaviour"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Inappropriate behaviour. In the book's MCQ, ignoring cyberbullying is listed with the inappropriate actions; good citizens report harmful behaviour to a trusted adult."
+      },
+      {
+       "q": "Polite language in messages shows:",
+       "options": [
+        "Appropriate online behaviour (netiquette)",
+        "Misuse of resources",
+        "Digital prejudice",
+        "Cyberbullying"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Appropriate online behaviour. Politeness, respect and caring for privacy are the heart of netiquette."
+      },
+      {
+       "q": "Which one should we NOT do online, according to netiquette?",
+       "options": [
+        "Speak politely",
+        "Respect others' opinions",
+        "Care for others' privacy",
+        "Share personal information"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Share personal information. Netiquette clearly says not to share personal information and not to spread rumours."
+      }
+     ]
+    },
+    {
+     "title": "Cyberbullying and Digital Prejudice",
+     "notes_html": "<h4>Cyberbullying</h4>\n<p><b>Cyberbullying</b> is using technology (mobile, internet, social media) to repeatedly hurt, embarrass or frighten someone: bad messages, rumours, sharing private pictures, removing someone from a group, impersonation.</p>\n<ul>\n<li>Sending a <b>hurtful</b> message to a classmate on game chat is cyberbullying.</li>\n</ul>\n<h4>Digital Prejudice</h4>\n<p><b>Digital prejudice</b> means treating people unfairly online on the basis of their race, religion, gender, language or identity — e.g. removing someone from a group because of their background, or valuing their opinion less.</p>\n<h4>Rumours and Misuse</h4>\n<ul>\n<li>Spreading <b>rumours</b> about someone is an inappropriate and hurtful act.</li>\n<li>Downloading <b>illegal</b> (pirated) software is an example of misuse of computer resources.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What does digital prejudice mean?",
+       "options": [
+        "Treating people unfairly online",
+        "Spreading rumours",
+        "Sharing someone's personal data",
+        "Being fair to all opinions"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Treating people unfairly online. Digital prejudice means treating people unfairly on the basis of their race, religion, gender or identity."
+      },
+      {
+       "q": "Sending a ______ message to a classmate on game chat is an example of cyberbullying.",
+       "options": [
+        "Short",
+        "Polite",
+        "Funny",
+        "Hurtful"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Hurtful. Sending a hurtful/bad message to a classmate is cyberbullying — using technology to hurt, embarrass or frighten someone."
+      },
+      {
+       "q": "Spreading ______ about someone is an inappropriate act.",
+       "options": [
+        "Good news",
+        "Knowledge",
+        "Rumours",
+        "Invitations"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Rumours. Spreading rumours about someone is an inappropriate and hurtful act, and it is also a form of cyberbullying."
+      },
+      {
+       "q": "Downloading ______ software is an example of misuse of computer resources.",
+       "options": [
+        "Free educational",
+        "Illegal (pirated)",
+        "Licensed",
+        "Antivirus"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Illegal software. Downloading illegal (pirated) software is misuse of computer resources."
+      },
+      {
+       "q": "What is cyberbullying?",
+       "options": [
+        "Using technology to repeatedly hurt, embarrass or frighten someone",
+        "Making global friends",
+        "Playing games with friends online",
+        "Sending homework by email"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Using technology to hurt, embarrass or frighten someone repeatedly. Its forms include bad messages, rumours, sharing private pictures, removing from a group and impersonation."
+      },
+      {
+       "q": "Which of these is an example of digital prejudice?",
+       "options": [
+        "Valuing everyone's opinion equally",
+        "Helping a classmate online",
+        "Reporting bullying to a teacher",
+        "Removing someone from a group because of their background"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Removing someone from a group because of their background. Digital prejudice is unfair treatment online based on race, religion, gender, language or identity."
+      },
+      {
+       "q": "Sharing another student's private pictures without permission is:",
+       "options": [
+        "A positive effect of social media",
+        "Validation",
+        "Cyberbullying",
+        "Netiquette"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Cyberbullying. Sharing private pictures is one of the forms of cyberbullying listed in the lesson."
+      },
+      {
+       "q": "Impersonation — pretending to be someone else online to harm them — is a form of:",
+       "options": [
+        "Antivirus protection",
+        "Cyberbullying",
+        "Netiquette",
+        "Digital citizenship"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Cyberbullying. The lesson lists impersonation with bad messages, rumours, private pictures and group removal as cyberbullying."
+      },
+      {
+       "q": "Removing a student from an online group to hurt them is:",
+       "options": [
+        "Cyberbullying (exclusion)",
+        "Not harmful at all",
+        "Good behaviour",
+        "A computer threat"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Cyberbullying. Excluding/removing someone from a group on purpose is one of the cyberbullying situations in the class activity."
+      },
+      {
+       "q": "Treating people unfairly online because of their language or religion is called:",
+       "options": [
+        "Spam",
+        "Phishing",
+        "Netiquette",
+        "Digital prejudice"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Digital prejudice. It means unfair treatment online on the basis of race, religion, gender, language or identity."
+      }
+     ]
+    },
+    {
+     "title": "Social Media, Safety and Computer Threats",
+     "notes_html": "<h4>Positive Effects of Social Media</h4>\n<p>A positive effect of using social media is <b>making global friends and learning</b> — with social media, friends can be made around the world, new things can be learned, contact with family stays, and knowledge can be shared. (Online scams, cyberbullying and the screen-time habit are negative effects.)</p>\n<h4>Protecting the Computer</h4>\n<ul>\n<li>Use <b>antivirus software</b> — it finds, stops and removes viruses, and helps protect the device from viruses.</li>\n<li>Do NOT disable the firewall, share passwords, or open unknown email attachments.</li>\n</ul>\n<h4>Computer Threats</h4>\n<p>A <b>computer threat</b> is anything that can harm the computer, the information stored in it, or the user. Five examples:</p>\n<table><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>\n<tr><td>Virus</td><td>Malware</td><td>Hacking</td><td>Phishing</td><td>Spam</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "Which is a positive effect of using social media?",
+       "options": [
+        "Screen-time habit",
+        "Making global friends and learning",
+        "Online scams",
+        "Cyberbullying"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Making global friends and learning. With social media, friends can be made around the world and new things can be learned; scams, cyberbullying and screen-time habit are negative effects."
+      },
+      {
+       "q": "Which is a proper way to protect the computer from viruses?",
+       "options": [
+        "Disabling the firewall",
+        "Sharing passwords",
+        "Using antivirus software",
+        "Opening unknown email attachments"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Using antivirus software. Antivirus finds and stops viruses; the other three options actually make the computer unsafe."
+      },
+      {
+       "q": "______ software helps protect the device from viruses.",
+       "options": [
+        "Presentation",
+        "Paint",
+        "Antivirus",
+        "Word processing"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Antivirus. Antivirus software finds and removes viruses from the device."
+      },
+      {
+       "q": "What is a computer threat?",
+       "options": [
+        "A long password",
+        "Anything that can harm the computer, the information stored in it, or the user",
+        "A slow internet connection only",
+        "A broken chair"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Anything that can harm the computer, its information, or the user. The five examples in the book are: virus, malware, hacking, phishing and spam."
+      },
+      {
+       "q": "Which of these is one of the five computer threats in the book?",
+       "options": [
+        "Phishing",
+        "Word processing",
+        "Netiquette",
+        "Decomposition"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Phishing. The book's five threats are virus, malware, hacking, phishing and spam."
+      },
+      {
+       "q": "Name one positive effect of using social media.",
+       "options": [
+        "Cyberbullying",
+        "Spreading rumours",
+        "Online scams",
+        "Making global friends and learning"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Making global friends and learning. Social media also keeps contact with family and lets us share knowledge."
+      },
+      {
+       "q": "Opening an unknown email attachment is:",
+       "options": [
+        "A way to install antivirus",
+        "A safe habit",
+        "Dangerous — it can bring a virus",
+        "Good netiquette"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Dangerous. The proper protection is antivirus software; opening unknown attachments, disabling the firewall and sharing passwords are all unsafe."
+      },
+      {
+       "q": "Spam is listed in this lesson as:",
+       "options": [
+        "A positive effect of social media",
+        "One of the five computer threats",
+        "A type of antivirus",
+        "A netiquette rule"
+       ],
+       "answer": 1,
+       "why": "Correct answer: One of the five computer threats — virus, malware, hacking, phishing and spam."
+      },
+      {
+       "q": "Hacking means a threat to the computer because:",
+       "options": [
+        "It can harm the computer or the information stored in it",
+        "It is a school activity",
+        "It protects passwords",
+        "It makes the computer faster"
+       ],
+       "answer": 0,
+       "why": "Correct answer: It can harm the computer or its information. That is the definition of a computer threat, and hacking is one of its five examples."
+      },
+      {
+       "q": "Which habit protects our accounts as well as our computer?",
+       "options": [
+        "Opening every attachment",
+        "Sharing passwords with friends",
+        "Disabling the firewall",
+        "Never sharing passwords and using antivirus software"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Never sharing passwords and using antivirus. Sharing passwords, disabling the firewall and opening unknown attachments are the unsafe choices in the book's question."
+      }
+     ]
+    },
+    {
+     "title": "Digital Citizenship Activities",
+     "notes_html": "<h4>Class Activity 1 — Appropriate or Inappropriate?</h4>\n<table><tr><th>Action</th><th>Answer</th></tr>\n<tr><td>Helping a friend who forgot their homework</td><td>Appropriate ✓</td></tr>\n<tr><td>Reporting cyberbullying or harmful behaviour to a trusted adult</td><td>Appropriate ✓</td></tr>\n<tr><td>Visiting safe websites and asking an adult before downloading apps or files</td><td>Appropriate ✓</td></tr>\n<tr><td>Ignoring a friend who fell down and got hurt</td><td>Inappropriate ✗</td></tr>\n<tr><td>Saying \"please\" and \"thank you\" with recognition</td><td>Appropriate ✓</td></tr>\n<tr><td>Spreading rumours about someone</td><td>Inappropriate ✗</td></tr></table>\n<h4>Class Activity 2 — Cyberbullying or Not?</h4>\n<table><tr><th>Situation</th><th>Answer</th></tr>\n<tr><td>Your friend sends a funny video of a cat</td><td>Not cyberbullying (hurts no one)</td></tr>\n<tr><td>Someone sends a bad message to your classmate on game chat</td><td>Cyberbullying</td></tr>\n<tr><td>You mistakenly send a text message to the wrong person via WhatsApp</td><td>Not cyberbullying (a mistake, no intent)</td></tr>\n<tr><td>A person posts another student's embarrassing picture online without permission</td><td>Cyberbullying</td></tr>\n<tr><td>Someone removes you from an online group where your friends are</td><td>Cyberbullying (exclusion)</td></tr>\n<tr><td>Your teacher sends a link to an educational video</td><td>Not cyberbullying</td></tr></table>\n<p><b>Key idea:</b> cyberbullying needs harmful intent and repetition — a mistake (wrong-person message) or a harmless funny video is not cyberbullying.</p>",
+     "mcqs": [
+      {
+       "q": "'Reporting cyberbullying to a trusted adult' is:",
+       "options": [
+        "Appropriate behaviour",
+        "Inappropriate",
+        "Cyberbullying",
+        "A waste of time"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Appropriate behaviour. Reporting harmful behaviour to a trusted adult is one of the appropriate actions in the class activity."
+      },
+      {
+       "q": "'Ignoring a friend who fell down and got hurt' is:",
+       "options": [
+        "Netiquette",
+        "A positive effect",
+        "Appropriate",
+        "Inappropriate behaviour"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Inappropriate. A good digital citizen helps others — helping a friend who forgot homework is appropriate; ignoring a hurt friend is not."
+      },
+      {
+       "q": "Your friend sends you a funny video of a cat. This is:",
+       "options": [
+        "A computer threat",
+        "Cyberbullying",
+        "Not cyberbullying — it hurts no one",
+        "Digital prejudice"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Not cyberbullying. A funny video hurts no one, so it is not bullying of any kind."
+      },
+      {
+       "q": "Someone posts another student's embarrassing picture online without permission. This is:",
+       "options": [
+        "Not cyberbullying",
+        "Cyberbullying",
+        "A joke",
+        "Appropriate behaviour"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Cyberbullying. Posting an embarrassing picture without permission is meant to embarrass the student — one of the listed forms of cyberbullying."
+      },
+      {
+       "q": "You mistakenly send a WhatsApp message to the wrong person. This is:",
+       "options": [
+        "Not cyberbullying — a mistake with no intent to harm",
+        "Digital prejudice",
+        "Phishing",
+        "Cyberbullying"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Not cyberbullying. It was a mistake with no intent; cyberbullying means repeatedly hurting someone on purpose."
+      },
+      {
+       "q": "Being removed from an online group of your friends, on purpose, is:",
+       "options": [
+        "Good netiquette",
+        "Not cyberbullying",
+        "A computer virus",
+        "Cyberbullying (exclusion)"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Cyberbullying. Exclusion — removing someone from a group — is listed as a form of cyberbullying in the activity."
+      },
+      {
+       "q": "'Visiting safe websites and asking an adult before downloading apps or files' is:",
+       "options": [
+        "Inappropriate",
+        "Cyberbullying",
+        "Appropriate behaviour",
+        "Misuse of resources"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Appropriate behaviour. It keeps us safe online, which is what digital citizenship teaches."
+      },
+      {
+       "q": "Your teacher sends a link to an educational video. This is:",
+       "options": [
+        "Spam",
+        "Not cyberbullying",
+        "Digital prejudice",
+        "Cyberbullying"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Not cyberbullying. An educational link from the teacher is helpful, not harmful."
+      },
+      {
+       "q": "Saying 'please' and 'thank you' is marked in the activity as:",
+       "options": [
+        "Appropriate behaviour",
+        "A threat",
+        "Inappropriate",
+        "Cyberbullying"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Appropriate behaviour. Polite words are part of netiquette, online and offline."
+      },
+      {
+       "q": "What makes an act cyberbullying and not just a mistake?",
+       "options": [
+        "It is done on a computer",
+        "It happens only once by accident",
+        "It is done by a teacher",
+        "It is meant to hurt, embarrass or frighten someone, repeatedly"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Harmful intent and repetition. A wrong-person message is a mistake; bad messages, embarrassing pictures and exclusion meant to hurt are cyberbullying."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Entrepreneurship (Business Idea / New Venture)",
+   "lessons": [
+    {
+     "title": "What is Entrepreneurship?",
+     "notes_html": "<h4>What is Entrepreneurship?</h4>\n<p><b>Entrepreneurship</b> means that a person identifies an opportunity and starts a new <b>business</b> to solve a problem. A person who starts a new business is called an <b>entrepreneur</b>.</p>\n<h4>Innovation</h4>\n<p><b>Innovation</b> helps people change <b>old</b> ways of thinking and try new ways.</p>\n<h4>Product and Service</h4>\n<p>A <b>product</b> or <b>service</b> is work or help that a person provides to others to meet their needs. A product is a thing; a service is work/help.</p>\n<h4>Problem Identification</h4>\n<p><b>Problem identification</b> means finding and recognising a problem or need in daily life or the community — it is the first stage of design thinking and business. Examples: litter in school, water shortage, long queues.</p>\n<h4>Origami</h4>\n<p>The art of folding paper into beautiful shapes is called <b>origami</b> — the Japanese art of making beautiful shapes by folding paper (an example of a creative product idea).</p>",
+     "mcqs": [
+      {
+       "q": "A person who starts a new business is called?",
+       "options": [
+        "Customer",
+        "Entrepreneur",
+        "Innovator",
+        "Manager"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Entrepreneur. An entrepreneur is the person who identifies an opportunity and starts a new business to solve a problem."
+      },
+      {
+       "q": "The art of folding paper into beautiful shapes?",
+       "options": [
+        "Business",
+        "Innovation",
+        "Origami",
+        "Design thinking"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Origami. Origami is the Japanese art of making beautiful shapes by folding paper."
+      },
+      {
+       "q": "Entrepreneurship means that a person identifies an opportunity and starts a new ______ to solve a problem.",
+       "options": [
+        "Website",
+        "School",
+        "Business",
+        "Game"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Business. Entrepreneurship = identifying an opportunity and starting a new business to solve a problem."
+      },
+      {
+       "q": "Innovation helps people change ______ ways of thinking and try new ways.",
+       "options": [
+        "New",
+        "Old",
+        "Other people's",
+        "No"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Old. Innovation helps people change old ways of thinking and try new ways of doing things."
+      },
+      {
+       "q": "A ______ or service is work or help that a person provides to others to meet their needs.",
+       "options": [
+        "Product",
+        "Problem",
+        "Plan",
+        "Price"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Product. The lesson's sentence is: a product or service is work or help provided to others to meet their needs — a product is a thing, a service is work."
+      },
+      {
+       "q": "What is problem identification?",
+       "options": [
+        "Making a model",
+        "Selling a finished product",
+        "Testing a product",
+        "Finding and recognising a problem or need in daily life or the community"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Finding and recognising a problem or need. It is the first stage of design thinking and business — e.g. litter in school, water shortage, long queues."
+      },
+      {
+       "q": "Which of these is an example of problem identification?",
+       "options": [
+        "Buying a finished product from a shop",
+        "Folding paper into shapes",
+        "Noticing litter in the school and the need for cleanliness",
+        "Watching a video"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Noticing litter in school. Problem identification means finding a real problem or need — the book's examples are litter in school, water shortage and long queues."
+      },
+      {
+       "q": "An entrepreneur starts a new business mainly to:",
+       "options": [
+        "Avoid all work",
+        "Solve a problem by identifying an opportunity",
+        "Spend money",
+        "Copy another business exactly"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Solve a problem. Entrepreneurship begins with an opportunity found in a problem or need of people."
+      },
+      {
+       "q": "Which of these is a service, not a product?",
+       "options": [
+        "Home delivery of groceries — work a person does for others",
+        "A book",
+        "A grocery cart",
+        "A chair"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Home delivery service. A product is a thing that can be bought and touched; a service is work or help a person provides."
+      },
+      {
+       "q": "Origami products could be sold by an entrepreneur because origami is:",
+       "options": [
+        "A computer program",
+        "A type of business loan",
+        "A United Nations goal",
+        "The art of folding paper into beautiful shapes that people may buy"
+       ],
+       "answer": 3,
+       "why": "Correct answer: An art that makes beautiful paper shapes. The lesson uses origami as an example of a creative skill that can become a product."
+      }
+     ]
+    },
+    {
+     "title": "Design Thinking and Product Stages",
+     "notes_html": "<h4>Design Thinking</h4>\n<p><b>Design thinking</b> is a <b>creative</b> method for solving real-life problems, step by step. Its process has these stages:</p>\n<table><tr><th>Stage</th><th>Meaning</th></tr>\n<tr><td>1. Identify</td><td>Find the problem</td></tr>\n<tr><td>2. Empathize</td><td>Feel others' problem</td></tr>\n<tr><td>3. Define</td><td>State the problem clearly</td></tr>\n<tr><td>4. Ideate</td><td>Think of new ideas</td></tr>\n<tr><td>5. Prototype</td><td>Make a model</td></tr>\n<tr><td>6. Test</td><td>Test whether it works or not</td></tr>\n<tr><td>7. Reflect</td><td>Learn from feedback</td></tr>\n<tr><td>8. Iterate</td><td>Improve the product on the basis of feedback and try again</td></tr></table>\n<p>Then comes <b>Implementation</b> — the stage where a real business starts selling finished products to customers.</p>\n<h4>Key Words</h4>\n<ul>\n<li><b>Prototype</b> — a model or sample of a product (the first model).</li>\n<li><b>Test stage</b> — the stage where a product or idea is tested whether it works or not.</li>\n<li><b>Improvement (Iterate) stage</b> — the stage where the product is improved on the basis of feedback.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The stage where a product or idea is tested whether it works or not?",
+       "options": [
+        "Test",
+        "Reflect",
+        "Define",
+        "Idea"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Test. In the Test stage a product or idea is tested whether it works correctly or not."
+      },
+      {
+       "q": "A model or sample of a product is called?",
+       "options": [
+        "Plan",
+        "Service",
+        "Design",
+        "Prototype"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Prototype. A prototype is the first model or sample of a product, made before the real product."
+      },
+      {
+       "q": "Design thinking is a ______ method for solving real-life problems.",
+       "options": [
+        "Difficult",
+        "Secret",
+        "Creative",
+        "Old"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Creative. Design thinking is a creative, step-by-step method for solving problems."
+      },
+      {
+       "q": "The stage where the product is improved on the basis of feedback is called ______.",
+       "options": [
+        "Empathize",
+        "Improvement (Iterate)",
+        "Implementation",
+        "Identify"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Improvement (Iterate). After testing and reflecting on feedback, the product is improved and tried again — that is iteration."
+      },
+      {
+       "q": "What is the name of the stage where a real business starts selling finished products to customers?",
+       "options": [
+        "Implementation",
+        "Define",
+        "Prototype",
+        "Ideate"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Implementation. In the Implementation stage the business starts selling the finished product to real customers in the market."
+      },
+      {
+       "q": "What is the design thinking process?",
+       "options": [
+        "Test → Sell → Identify → Guess",
+        "Only making a model",
+        "Buying and selling products",
+        "Identify → Empathize → Define → Ideate → Prototype → Test → Reflect → Iterate"
+       ],
+       "answer": 3,
+       "why": "Correct answer: The 8-stage process. Find the problem, feel it, state it clearly, think of ideas, make a model, test it, learn from feedback, improve — then Implementation."
+      },
+      {
+       "q": "The first stage of design thinking, 'Identify', means:",
+       "options": [
+        "Make a model",
+        "Sell the product",
+        "Find the problem",
+        "Feel others' problem"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Find the problem. Identifying the problem comes first — the same as problem identification in entrepreneurship."
+      },
+      {
+       "q": "'Empathize' in design thinking means:",
+       "options": [
+        "Improve the product",
+        "Feel others' problem",
+        "State the problem clearly",
+        "Test the product"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Feel others' problem. Empathizing helps us understand what people really need before defining the problem."
+      },
+      {
+       "q": "After the Test stage, feedback is used in which stage?",
+       "options": [
+        "Reflect — learn from feedback, then Iterate to improve",
+        "Identify",
+        "Empathize",
+        "Implementation directly"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Reflect, then Iterate. We learn from feedback (Reflect) and improve the product on its basis (Iterate) before implementation."
+      },
+      {
+       "q": "A prototype is made in which stage?",
+       "options": [
+        "The last stage only",
+        "It is never made",
+        "Stage 1 — Identify",
+        "Stage 5 — after Ideate, before Test"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Stage 5. The order is: Identify, Empathize, Define, Ideate, Prototype (make a model), Test, Reflect, Iterate."
+      }
+     ]
+    },
+    {
+     "title": "Global Goals and Solving Daily Problems",
+     "notes_html": "<h4>Sustainable Development Goals (SDGs)</h4>\n<p>The United Nations has made <b>17</b> special goals — the Sustainable Development Goals (SDGs) — for the world.</p>\n<ul>\n<li><b>Goal 1: No Poverty</b> — aimed at ending every form of poverty in the world.</li>\n</ul>\n<h4>Problem-Solving in Daily Life — Five Examples</h4>\n<table><tr><th>Problem</th><th>Solution</th></tr>\n<tr><td>Broken tap</td><td>Fit a new tap</td></tr>\n<tr><td>Forgetting homework</td><td>Make a checklist</td></tr>\n<tr><td>Dark room</td><td>Fit a lamp/light</td></tr>\n<tr><td>Litter in school</td><td>Dustbins and a cleanliness campaign</td></tr>\n<tr><td>Long queue</td><td>A token system</td></tr></table>\n<p>These examples show that entrepreneurship begins at home and school: find a problem, think of a solution, and act on it.</p>",
+     "mcqs": [
+      {
+       "q": "How many special goals has the United Nations made?",
+       "options": [
+        "20",
+        "17",
+        "10",
+        "15"
+       ],
+       "answer": 1,
+       "why": "Correct answer: 17. The United Nations has 17 Sustainable Development Goals (SDGs)."
+      },
+      {
+       "q": "What is Sustainable Development Goal number 1 aimed at ending?",
+       "options": [
+        "Hunger",
+        "Illness",
+        "Poverty — No Poverty",
+        "Litter"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Poverty. Goal 1 (No Poverty) aims to end every form of poverty in the world."
+      },
+      {
+       "q": "For the problem 'forgetting homework', the book's solution is:",
+       "options": [
+        "A token system",
+        "Fit a lamp",
+        "Make a checklist",
+        "Fit a new tap"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Make a checklist. Each daily problem has a matching solution: broken tap → new tap; dark room → lamp; litter → dustbins and campaign; long queue → token system."
+      },
+      {
+       "q": "For a long queue, the book suggests:",
+       "options": [
+        "A new tap",
+        "A token system",
+        "A checklist",
+        "A cleanliness campaign"
+       ],
+       "answer": 1,
+       "why": "Correct answer: A token system. Tokens organise the queue so everyone is served in turn."
+      },
+      {
+       "q": "For litter in school, the solution given is:",
+       "options": [
+        "Dustbins and a cleanliness campaign",
+        "A token system",
+        "A checklist",
+        "Fit a lamp"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Dustbins and a cleanliness campaign. This is one of the five daily-life problem-solving examples in the lesson."
+      },
+      {
+       "q": "A dark room can be solved by:",
+       "options": [
+        "A token system",
+        "Buying a tap",
+        "Making a checklist",
+        "Fitting a lamp/light"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Fitting a lamp/light. The pattern of the lesson: every problem has a practical solution — broken tap → fit a new tap, dark room → fit a lamp."
+      },
+      {
+       "q": "The SDG goals were made by:",
+       "options": [
+        "Scratch",
+        "A school",
+        "The United Nations",
+        "A business"
+       ],
+       "answer": 2,
+       "why": "Correct answer: The United Nations. It made 17 special goals — the Sustainable Development Goals — for the whole world."
+      },
+      {
+       "q": "Which of these pairs (problem → solution) is correct?",
+       "options": [
+        "Broken tap → checklist",
+        "Long queue → token system",
+        "Dark room → dustbins",
+        "Forgetting homework → new tap"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Long queue → token system. The other correct pairs are: broken tap → new tap; dark room → lamp; forgetting homework → checklist; litter → dustbins and campaign."
+      },
+      {
+       "q": "These daily-life examples teach that problem-solving starts with:",
+       "options": [
+        "Finding and recognising a real problem",
+        "Making a prototype first",
+        "Copying others",
+        "Selling products first"
+       ],
+       "answer": 0,
+       "why": "Correct answer: Finding a real problem. Every example begins with a problem people actually face — that is problem identification, the first stage of design thinking and business."
+      },
+      {
+       "q": "Goal 1 of the SDGs is called:",
+       "options": [
+        "Clean Water",
+        "Zero Hunger",
+        "Good Health",
+        "No Poverty"
+       ],
+       "answer": 3,
+       "why": "Correct answer: No Poverty. Sustainable Development Goal number 1 aims to end every form of poverty in the world."
+      }
+     ]
+    },
+    {
+     "title": "Entrepreneurship Activities",
+     "notes_html": "<h4>Class Activity 1 — Product vs Service</h4>\n<p><b>Problem given:</b> \"People need help getting groceries delivered home.\"</p>\n<ul>\n<li><b>Product solution:</b> a grocery cart — a thing that can be bought, seen and touched.</li>\n<li><b>Service solution:</b> a home delivery service — work that a person does, cannot be seen.</li>\n<li><b>Difference:</b> a product is a thing; a service is work/help.</li>\n</ul>\n<h4>Group Activity 2 — \"Problem Finders\" Scavenger Hunt</h4>\n<p>Teams take a notebook and pencil, visit a place (classroom, library, playground), find things that do not work correctly, write the problems, and discuss: \"Why is this a problem for people?\"</p>\n<table><tr><th>Problem found</th><th>Solution</th></tr>\n<tr><td>Finding a book in the library is difficult</td><td>Labels/list on books</td></tr>\n<tr><td>The chairs are too small or uncomfortable</td><td>Right-sized chairs</td></tr>\n<tr><td>The dustbin in the classroom is far away</td><td>Keep a bin nearby</td></tr>\n<tr><td>The water tap on the playground is broken</td><td>Repair the tap</td></tr></table>\n<p>These are problems for people because they make daily work difficult and slow. The activity teaches us to understand people's feelings (empathize) and the importance of solving problems.</p>",
+     "mcqs": [
+      {
+       "q": "In the grocery activity, a grocery cart is an example of a:",
+       "options": [
+        "Product — a thing that can be bought, seen and touched",
+        "Service",
+        "Problem",
+        "Goal"
+       ],
+       "answer": 0,
+       "why": "Correct answer: A product. A product is a thing; the home delivery of groceries is the service — work a person does."
+      },
+      {
+       "q": "A home delivery service is different from a product because:",
+       "options": [
+        "It is always free",
+        "It is a machine",
+        "It can be touched",
+        "It is work/help a person does, not a thing"
+       ],
+       "answer": 3,
+       "why": "Correct answer: It is work, not a thing. That is the difference the activity teaches: product = thing, service = work/help."
+      },
+      {
+       "q": "In the 'Problem Finders' activity, teams carry:",
+       "options": [
+        "A grocery cart",
+        "A camera and laptop",
+        "A notebook and pencil to write the problems they find",
+        "Money for shopping"
+       ],
+       "answer": 2,
+       "why": "Correct answer: A notebook and pencil. Each group visits a place like the classroom, library or playground and writes down the things that do not work correctly."
+      },
+      {
+       "q": "'Finding a book in the library is difficult' — the model solution is:",
+       "options": [
+        "Buy more books",
+        "Labels/list on books",
+        "Close the library",
+        "Repair the tap"
+       ],
+       "answer": 1,
+       "why": "Correct answer: Labels/list on books. Each found problem gets a matching simple solution — right-sized chairs, a nearby bin, repairing the broken tap."
+      },
+      {
+       "q": "The Problem Finders discussion question is:",
+       "options": [
+        "'Why is this a problem for people?'",
+        "'Who made this?'",
+        "'When was it built?'",
+        "'How much does it cost?'"
+       ],
+       "answer": 0,
+       "why": "Correct answer: 'Why is this a problem for people?' These problems make daily work difficult and slow — understanding that is empathizing with people."
+      },
+      {
+       "q": "The classroom dustbin being far away is solved by:",
+       "options": [
+        "Right-sized chairs",
+        "Repairing the tap",
+        "Labels on books",
+        "Keeping a bin nearby"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Keeping a bin nearby. The activity matches each problem with its own practical solution."
+      },
+      {
+       "q": "The Problem Finders activity mainly teaches:",
+       "options": [
+        "How to sell products",
+        "How to fold paper",
+        "To observe real places, find people's problems and understand their feelings",
+        "How to use Scratch"
+       ],
+       "answer": 2,
+       "why": "Correct answer: Observing and empathizing. The teacher explains that the activity helps students learn about understanding people's feelings and the importance of solving problems."
+      },
+      {
+       "q": "Uncomfortable, too-small chairs in the library are a problem because they:",
+       "options": [
+        "Cost too much",
+        "Make daily work difficult and slow for people",
+        "Are heavy",
+        "Look old"
+       ],
+       "answer": 1,
+       "why": "Correct answer: They make daily work difficult and slow. That is why such things count as problems worth solving in the activity's discussion."
+      },
+      {
+       "q": "Which of these found problems matches the solution 'repair the tap'?",
+       "options": [
+        "The water tap on the playground is broken",
+        "Dustbin far away",
+        "Difficult to find a book",
+        "Chairs too small"
+       ],
+       "answer": 0,
+       "why": "Correct answer: The broken playground water tap. Each problem in the model completion has its own solution — tap broken → repair the tap."
+      },
+      {
+       "q": "The grocery problem ('people need help getting groceries delivered home') can be solved by:",
+       "options": [
+        "Only a product",
+        "Only a service",
+        "Neither",
+        "A product (cart) or a service (delivery) — both are valid solutions"
+       ],
+       "answer": 3,
+       "why": "Correct answer: Both. The activity's point is that one problem can have a product solution and a service solution — groups explain how they differ."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
