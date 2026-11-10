@@ -1,0 +1,2984 @@
+{
+ "book": "social-studies-7-en",
+ "chapters": [
+  {
+   "title": "Unit 1: From the Ancient World to the Modern World",
+   "lessons": [
+    {
+     "title": "The Ancient World: India",
+     "notes_html": "<h4>The Maurya Empire</h4>\n<p>The Maurya Empire was founded by <b>Chandragupta Maurya</b> in <b>321 BCE</b>. It lasted for about <b>140 years</b> (from 321 BCE to about 185 BCE). Chandragupta ended the rule of the Nanda Raja and established the empire.</p>\n<p>His adviser was <b>Chanakya (Kautilya)</b>, the author of the famous book <i>Arthashastra</i>. After Chandragupta, his son <b>Bindusara</b> ruled (298 to 272 BCE). The most famous Maurya ruler was <b>Ashoka</b>, the grandson of Chandragupta, who became king in about <b>269 BCE</b>. After the Kalinga war, Ashoka adopted Buddhism and preached <b>Dhamma</b>. His empire included a large part of northern India.</p>\n<h4>How the Maurya Empire Progressed</h4>\n<table><tr><th>Factor</th><th>What happened</th><th>Effect</th></tr>\n<tr><td>Social</td><td>Society was divided into seven classes: philosophers, farmers, soldiers, herdsmen, craftsmen, officials and councillors; city life and temple-building progressed</td><td>An organised society and urban culture arose</td></tr>\n<tr><td>Political</td><td>Central government and laws according to the Arthashastra</td><td>A strong and stable empire was established</td></tr>\n<tr><td>Economic</td><td>Peace was established; agriculture and trade were encouraged; coins were used</td><td>Prosperity and wealth increased</td></tr>\n<tr><td>Administrative</td><td>The empire was divided into four provinces, each with a royal governor</td><td>Control and order over the large empire were maintained</td></tr></table>\n<h4>Alexander the Great in India</h4>\n<p>Alexander set out from Macedonia, passed through Persia, crossed the Hindu Kush and entered north-western India (the area of today's Pakistan). He fought <b>Raja Porus</b> at the river Jhelum. When his army refused to advance further, he turned back.</p>\n<h4>The Gupta Empire — The Golden Age</h4>\n<p>In the Gupta period people lived in peace and prosperity. People turned towards Hinduism, but other religions had freedom. There was great progress in knowledge, art, science, technology, astronomy and mathematics, and splendid progress in art and literature. Trade grew and <b>gold coins</b> were used. That is why the Gupta period is called the <b>golden age</b> of the history of India.</p>\n<p>After the death of Chandragupta II the decline of the Gupta Empire began: regions slowly separated, the later rulers were not capable of governing, and the empire was destroyed by local and foreign attacks.</p>",
+     "mcqs": [
+      {
+       "q": "Who founded the Maurya Empire?",
+       "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Chanakya"
+       ],
+       "answer": 0,
+       "why": "Chandragupta Maurya founded the Maurya Empire in 321 BCE. He ended the rule of the Nanda Raja and set up the empire. Ashoka was his grandson, and Chanakya was his adviser."
+      },
+      {
+       "q": "In which year was the Maurya Empire founded?",
+       "options": [
+        "550 BCE",
+        "321 BCE",
+        "269 BCE",
+        "185 BCE"
+       ],
+       "answer": 1,
+       "why": "The Maurya Empire was founded in 321 BCE. The year 269 BCE is when Ashoka became king, and about 185 BCE is when the empire ended."
+      },
+      {
+       "q": "Who was the grandson of Chandragupta Maurya?",
+       "options": [
+        "Bindusara",
+        "Chanakya",
+        "Ashoka",
+        "Raja Porus"
+       ],
+       "answer": 2,
+       "why": "Ashoka was the grandson of Chandragupta Maurya. Bindusara was Chandragupta's son, so Ashoka was Bindusara's son and Chandragupta's grandson."
+      },
+      {
+       "q": "For about how long did the Maurya Empire last?",
+       "options": [
+        "About 50 years",
+        "About 100 years",
+        "About 300 years",
+        "About 140 years"
+       ],
+       "answer": 3,
+       "why": "The Maurya Empire lasted for about 140 years, from 321 BCE to about 185 BCE. This is the generally accepted historical estimate."
+      },
+      {
+       "q": "Ashoka became king in about which year?",
+       "options": [
+        "269 BCE",
+        "321 BCE",
+        "298 BCE",
+        "232 BCE"
+       ],
+       "answer": 0,
+       "why": "Ashoka became king in about 269 BCE and ruled until 232 BCE. He is the most famous Maurya ruler, known for adopting Buddhism after the Kalinga war."
+      },
+      {
+       "q": "Who wrote the Arthashastra?",
+       "options": [
+        "Ashoka",
+        "Chanakya (Kautilya)",
+        "Bindusara",
+        "Chandragupta Maurya"
+       ],
+       "answer": 1,
+       "why": "Chanakya, also called Kautilya, was the adviser of Chandragupta Maurya. He wrote the Arthashastra, the famous book on government and laws."
+      },
+      {
+       "q": "Into how many provinces was the Maurya Empire divided?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Twenty"
+       ],
+       "answer": 2,
+       "why": "The Maurya Empire was divided into four provinces, and a royal governor was appointed in each province. This helped the king keep control and order over the large empire."
+      },
+      {
+       "q": "After which war did Ashoka adopt Buddhism?",
+       "options": [
+        "The battle at the Jhelum",
+        "The Crusades",
+        "The Battle of Marathon",
+        "The Kalinga war"
+       ],
+       "answer": 3,
+       "why": "After the Kalinga war, Ashoka adopted Buddhism and preached Dhamma. The bloodshed of that war changed his heart and his policies."
+      },
+      {
+       "q": "The Gupta period is called ______ of the history of India.",
+       "options": [
+        "The golden age",
+        "The dark age",
+        "The stone age",
+        "The iron age"
+       ],
+       "answer": 0,
+       "why": "The Gupta period is called the golden age of the history of India. There was splendid progress in knowledge, art, science, astronomy, mathematics and literature in that period."
+      },
+      {
+       "q": "Which coins were used in the Gupta Empire?",
+       "options": [
+        "Copper coins",
+        "Gold coins",
+        "Silver coins only",
+        "Paper money"
+       ],
+       "answer": 1,
+       "why": "Trade grew in the Gupta Empire and gold coins were used. The use of gold coins shows the wealth and prosperity of that period."
+      }
+     ]
+    },
+    {
+     "title": "Iran (500 BCE to 500 CE)",
+     "notes_html": "<h4>The Foundation of the Iranian Empire</h4>\n<p>The foundation of the Iranian Empire was laid in <b>550 BCE</b> by <b>Cyrus the Great</b>. Before this, the tribal people of Iran were under the Median rulers.</p>\n<h4>How Cyrus Treated the Conquered People</h4>\n<p>Cyrus treated the conquered people with tolerance and respect:</p>\n<ul>\n<li>He respected their local customs and religions.</li>\n<li>He rebuilt their temples and places of worship.</li>\n<li>In 538 BCE he allowed the Jews to return to their own country.</li>\n<li>He did not allow slavery in his empire.</li>\n<li>He allowed the people of conquered regions to keep their own laws and rulers.</li>\n</ul>\n<h4>Darius and His System of Government</h4>\n<p>Darius kept his large empire united by strong methods:</p>\n<ul>\n<li>He divided the empire into <b>20 provinces (satrapies)</b> and appointed a governor (satrap) in each.</li>\n<li>He appointed a separate military commander and tax collector in each province.</li>\n<li>His spies were called <b>\"the eyes and ears of the king\"</b>.</li>\n<li>He built the famous <b>Royal Road</b>, which went from Susa in Iran to Sardis in Anatolia and was <b>1677 miles</b> long.</li>\n<li>He introduced uniform coins throughout the empire.</li>\n</ul>\n<h4>Zoroastrianism</h4>\n<p>The religion of Zoroaster, <b>Zoroastrianism</b>, gave people answers to questions about their problems. Its teaching is that a war between the spirits of good and evil is going on in the world, and every person should support goodness.</p>\n<h4>Wars Between Iran and Greece</h4>\n<table><tr><th>War</th><th>Year</th><th>Winner</th></tr>\n<tr><td>Battle of Marathon</td><td>490 BCE</td><td>Greeks</td></tr>\n<tr><td>Battle of Thermopylae</td><td>480 BCE</td><td>Iranians</td></tr>\n<tr><td>Naval Battle of Salamis</td><td>480 BCE</td><td>Greeks</td></tr>\n<tr><td>Battle of Plataea</td><td>479 BCE</td><td>Greeks</td></tr>\n<tr><td>Battle of Mycale</td><td>479 BCE</td><td>Greeks</td></tr></table>\n<h4>Effects of the Iranian Empire</h4>\n<ul>\n<li><b>Social:</b> people of different nations and tribes began living together in one large empire.</li>\n<li><b>Political:</b> organised administration was established through the satrapy system and the Royal Road.</li>\n<li><b>Cultural:</b> there was progress in architecture, carving and the art of coins.</li>\n<li><b>Religious:</b> because of the tolerance of the rulers, different religions lived together and Zoroastrianism spread.</li>\n</ul>\n<p>After Alexander the Great conquered Iran, the Achaemenid Empire came to an end. After Alexander's death, his empire was divided among his generals and Iran came into the hands of the <b>Seleucid</b> rulers. Greek and Iranian civilisations then blended together.</p>",
+     "mcqs": [
+      {
+       "q": "Who laid the foundation of the Iranian Empire in 550 BCE?",
+       "options": [
+        "Darius",
+        "Cyrus the Great",
+        "Alexander the Great",
+        "Zoroaster"
+       ],
+       "answer": 1,
+       "why": "Cyrus the Great laid the foundation of the Iranian Empire in 550 BCE. Darius came later and organised the empire, while Zoroaster was a religious teacher, not a king."
+      },
+      {
+       "q": "The Royal Road built by Darius went from Susa to which city?",
+       "options": [
+        "Athens",
+        "Babylon",
+        "Sardis",
+        "Jerusalem"
+       ],
+       "answer": 2,
+       "why": "The Royal Road went from Susa in Iran to Sardis in Anatolia. It was 1677 miles long and helped Darius control his large empire."
+      },
+      {
+       "q": "How long was the Royal Road?",
+       "options": [
+        "677 miles",
+        "1000 miles",
+        "2677 miles",
+        "1677 miles"
+       ],
+       "answer": 3,
+       "why": "The Royal Road was 1677 miles long. Through this road, orders, armies and taxes could move quickly between the king and the distant provinces."
+      },
+      {
+       "q": "Into how many provinces (satrapies) did Darius divide his empire?",
+       "options": [
+        "20",
+        "4",
+        "10",
+        "50"
+       ],
+       "answer": 0,
+       "why": "Darius divided the empire into 20 provinces called satrapies. He appointed a governor, called a satrap, in each province to keep the empire united."
+      },
+      {
+       "q": "The spies of Darius were called _______.",
+       "options": [
+        "The satraps",
+        "The eyes and ears of the king",
+        "The Janissaries",
+        "The councillors"
+       ],
+       "answer": 1,
+       "why": "Darius appointed spies who were called 'the eyes and ears of the king'. They informed the king about everything happening in the provinces."
+      },
+      {
+       "q": "What is the main teaching of Zoroastrianism?",
+       "options": [
+        "There are many gods of nature",
+        "Kings are gods",
+        "A war between good and evil is going on, and every person should support goodness",
+        "People should not pray"
+       ],
+       "answer": 2,
+       "why": "Zoroastrianism, the teaching of Zoroaster, says a war between the spirits of good and evil is going on in the world. Every person should support goodness in this struggle."
+      },
+      {
+       "q": "Who won the Battle of Marathon in 490 BCE?",
+       "options": [
+        "The Iranians",
+        "The Romans",
+        "Nobody won",
+        "The Greeks"
+       ],
+       "answer": 3,
+       "why": "The Greeks won the Battle of Marathon in 490 BCE. In most of the wars of 490–479 BCE the Greeks won; the Iranians won only at Thermopylae."
+      },
+      {
+       "q": "Who won the Battle of Thermopylae in 480 BCE?",
+       "options": [
+        "The Iranians",
+        "The Greeks",
+        "The Romans",
+        "The Egyptians"
+       ],
+       "answer": 0,
+       "why": "The Iranians won the Battle of Thermopylae in 480 BCE. In the same year, however, the Greeks defeated Iran in the naval Battle of Salamis."
+      },
+      {
+       "q": "In 538 BCE, Cyrus allowed which people to return to their own country?",
+       "options": [
+        "The Greeks",
+        "The Jews",
+        "The Egyptians",
+        "The Indians"
+       ],
+       "answer": 1,
+       "why": "In 538 BCE Cyrus allowed the Jews to return to their own country. This shows his tolerance: he also respected local customs and rebuilt temples of conquered people."
+      },
+      {
+       "q": "After the death of Alexander the Great, Iran came into the hands of which rulers?",
+       "options": [
+        "The Gupta rulers",
+        "The Ottoman rulers",
+        "The Seleucid rulers",
+        "The Maurya rulers"
+       ],
+       "answer": 2,
+       "why": "After Alexander's death, his large empire was divided among his generals. The region of Iran came into the hands of the Seleucid rulers."
+      }
+     ]
+    },
+    {
+     "title": "Transition to the Modern World",
+     "notes_html": "<h4>The Medieval Period</h4>\n<p>The medieval period of history in Europe continued from <b>400 CE to 1500 CE</b>. The Middle Ages are also called the <b>dark age</b> of history. In this period the <b>feudal system</b> existed — a system based on the ownership of land (fief), which included kings, nobles, farmers and labourers. A terrible plague, the <b>Black Death</b>, spread in Europe and millions of people died.</p>\n<h4>The Crusades</h4>\n<p>The Crusades were the wars of the Cross — wars fought by the Christians to take back the Holy Land (Jerusalem).</p>\n<table><tr><th>Crusade</th><th>Years</th><th>Result</th></tr>\n<tr><td>First Crusade</td><td>1096–1099 CE</td><td>The Christians captured Jerusalem</td></tr>\n<tr><td>Second Crusade</td><td>1147–1149 CE</td><td>The Muslims remained successful</td></tr>\n<tr><td>Third Crusade</td><td>1189–1192 CE</td><td>Under Salahuddin Ayyubi the Muslims took back Jerusalem; then peace was made</td></tr>\n<tr><td>Fourth Crusade</td><td>1202–1204 CE</td><td>The Christians attacked Constantinople</td></tr></table>\n<h4>The Umayyads and the Spread of Islam</h4>\n<p>The Umayyad rulers (661 to 750 CE) spread Islam through conquests — the Islamic empire grew from Spain to Central Asia. Through strong government and administration, and through trade and contacts, Islam reached different countries.</p>\n<h4>The End of the Abbasids</h4>\n<p>The Abbasid government came to an end because of several factors:</p>\n<ul>\n<li>The opposition of the non-Arab Muslims, who were treated as second-class citizens and had to pay more tax.</li>\n<li>Their revolt in 747 CE and the movement under Abu al-Abbas.</li>\n<li>The Mongol attack in <b>1258 CE</b>, in which Baghdad was destroyed.</li>\n</ul>\n<h4>The Rise of the Ottoman Empire</h4>\n<p>The Ottoman Empire developed because of the <b>Ghazis</b> (brave horsemen with light weapons), the <b>Janissaries</b> (the best-trained army, made from slaves obtained from conquered countries), a strong army and weapons. In <b>1453 CE</b> the Ottomans conquered Constantinople, after which the Ottoman Empire became a great power and spread into half of Europe.</p>",
+     "mcqs": [
+      {
+       "q": "The medieval period of history in Europe continued from _______.",
+       "options": [
+        "500 BCE to 500 CE",
+        "1500 CE to 1800 CE",
+        "400 CE to 1500 CE",
+        "100 CE to 400 CE"
+       ],
+       "answer": 2,
+       "why": "The medieval period in Europe continued from 400 CE to 1500 CE. This long period is also called the Middle Ages."
+      },
+      {
+       "q": "The 'dark age' of history is attributed to which period?",
+       "options": [
+        "The ancient period",
+        "The modern period",
+        "The Gupta period",
+        "The Middle Ages"
+       ],
+       "answer": 3,
+       "why": "The dark age of history is attributed to the Middle Ages, that is, the medieval period (400 CE to 1500 CE). Feudalism and the Black Death belong to this period."
+      },
+      {
+       "q": "The Crusades were wars fought to take back which place?",
+       "options": [
+        "The Holy Land (Jerusalem)",
+        "Constantinople",
+        "Spain",
+        "Baghdad"
+       ],
+       "answer": 0,
+       "why": "The Crusades were the wars of the Cross, fought by the Christians to take back the Holy Land, Jerusalem. They began in 1096 CE."
+      },
+      {
+       "q": "The feudal system was based on _______.",
+       "options": [
+        "Sea trade",
+        "Ownership of land",
+        "Factory work",
+        "Gold coins"
+       ],
+       "answer": 1,
+       "why": "The feudal system refers to the ownership of land (fief) and the social and political system based on it. It included kings, nobles, farmers and labourers."
+      },
+      {
+       "q": "Which disease spread in Europe and killed millions of people?",
+       "options": [
+        "Malaria",
+        "Smallpox",
+        "The Black Death (plague)",
+        "Fever"
+       ],
+       "answer": 2,
+       "why": "The Black Death, a plague, spread in Europe during the medieval period. Because of it, millions of people died."
+      },
+      {
+       "q": "The Umayyad rulers ruled from _______.",
+       "options": [
+        "750 to 1258 CE",
+        "1096 to 1291 CE",
+        "1453 to 1600 CE",
+        "661 to 750 CE"
+       ],
+       "answer": 3,
+       "why": "The Umayyad rulers ruled from 661 to 750 CE. In their time the Islamic empire grew from Spain to Central Asia."
+      },
+      {
+       "q": "Baghdad was destroyed by the Mongols in which year?",
+       "options": [
+        "1258 CE",
+        "747 CE",
+        "1096 CE",
+        "1453 CE"
+       ],
+       "answer": 0,
+       "why": "The Mongols attacked in 1258 CE and destroyed Baghdad. With this attack, the government of the Abbasid dynasty came to an end."
+      },
+      {
+       "q": "Constantinople was conquered by the Ottomans in _______.",
+       "options": [
+        "1258 CE",
+        "1453 CE",
+        "1389 CE",
+        "1526 CE"
+       ],
+       "answer": 1,
+       "why": "Constantinople was conquered in 1453 CE. After this victory the Ottoman Empire became a great power and spread into half of Europe."
+      },
+      {
+       "q": "Who were the Janissaries?",
+       "options": [
+        "Tax collectors of Darius",
+        "Priests of Zoroastrianism",
+        "The best-trained Ottoman army made from slaves from conquered countries",
+        "Sailors of the Greek navy"
+       ],
+       "answer": 2,
+       "why": "The Janissaries were the best-trained army of the Ottoman Empire, made from slaves obtained from conquered countries. Together with the Ghazis, they helped the empire grow."
+      },
+      {
+       "q": "In the Third Crusade, the Muslims who took back Jerusalem were led by _______.",
+       "options": [
+        "Abu al-Abbas",
+        "Osman",
+        "Chandragupta II",
+        "Salahuddin Ayyubi"
+       ],
+       "answer": 3,
+       "why": "In the Third Crusade (1189–1192 CE), under the leadership of Salahuddin Ayyubi, the Muslims took back Jerusalem. After that, peace was made between the two sides."
+      }
+     ]
+    },
+    {
+     "title": "Unit 1 End Exercises",
+     "notes_html": "<h4>Timeline of Unit 1: Ancient to Modern</h4>\n<table><tr><th>Year</th><th>Event</th></tr>\n<tr><td>550 BCE</td><td>Beginning of the Iranian Empire</td></tr>\n<tr><td>321 BCE</td><td>Establishment of the Maurya Empire</td></tr>\n<tr><td>269 BCE</td><td>Ashoka became king</td></tr>\n<tr><td>320 CE</td><td>Beginning of the Gupta Empire</td></tr>\n<tr><td>632 CE</td><td>Beginning of Islam</td></tr>\n<tr><td>661–750 CE</td><td>Umayyad government</td></tr>\n<tr><td>750–1258 CE</td><td>Abbasid government</td></tr>\n<tr><td>1096 CE</td><td>Beginning of the Crusades</td></tr>\n<tr><td>1258 CE</td><td>Fall of Baghdad</td></tr>\n<tr><td>1453 CE</td><td>Conquest of Constantinople</td></tr></table>\n<h4>Why the Royal Road Helped Darius</h4>\n<p>Through the Royal Road, Darius's orders and army could quickly reach distant provinces. Taxes and information could also arrive quickly, trade grew, and people's contact with the government became strong. Therefore, control over the large empire was maintained.</p>\n<h4>Why Empires Fall: Incapable Rulers</h4>\n<p>In the Iranian Empire, in the period of weak and incapable rulers, the governors began to revolt, taxes decreased and economic problems grew; then Alexander's attack ended the empire. The same happened in the Gupta Empire: after the death of Chandragupta II, incapable rulers came, regions began to separate, and the empire was destroyed.</p>\n<h4>True Teachings of Zoroastrianism</h4>\n<p>People had questions about good and evil and the suffering in the world, and Zoroaster gave answers to those questions. The true teachings are: faith in one God, <b>Ahura Mazda</b>; a war between the spirits of good and evil is going on in the world and every person should support goodness; and one should adopt <b>good thoughts, good words and good deeds</b>.</p>\n<h4>Spread of the Ottoman Empire</h4>\n<p>In 1326 CE a small empire began under a Turkish chief, <b>Osman</b>. In 1350 CE the Turks attacked Europe, and in 1389 CE came the Battle of Kosovo. In 1453 CE Constantinople was conquered. Then the empire spread to the Middle East (Syria, Iraq, Hijaz), North Africa (Egypt) and Eastern Europe (up to Hungary).</p>\n<h4>Why Did the Muslims Decline in the Fifteenth Century?</h4>\n<ul>\n<li>Internal differences and weak governments</li>\n<li>The Mongol attacks and the fall of Baghdad (1258 CE)</li>\n<li>Change in trade routes</li>\n<li>New scientific and military progress in Europe</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "According to the Unit 1 timeline, the Gupta Empire began in _______.",
+       "options": [
+        "321 BCE",
+        "632 CE",
+        "750 CE",
+        "320 CE"
+       ],
+       "answer": 3,
+       "why": "The timeline of Unit 1 shows the beginning of the Gupta Empire in 320 CE. The year 321 BCE belongs to the Maurya Empire, which is a different empire of ancient India."
+      },
+      {
+       "q": "The Umayyad government lasted from _______.",
+       "options": [
+        "661 to 750 CE",
+        "550 to 321 BCE",
+        "750 to 1258 CE",
+        "1096 to 1291 CE"
+       ],
+       "answer": 0,
+       "why": "In the Unit 1 timeline, the Umayyad government is 661–750 CE. The period 750–1258 CE is the Abbasid government, which came after the Umayyads."
+      },
+      {
+       "q": "How did the Royal Road help Darius maintain power?",
+       "options": [
+        "It was used only for trade fairs",
+        "Orders and armies could quickly reach distant provinces",
+        "It kept enemies out of Iran",
+        "It was a religious road"
+       ],
+       "answer": 1,
+       "why": "Through the Royal Road, Darius's orders and army could quickly reach distant provinces, and taxes and information arrived quickly too. This strong contact kept control over the large empire."
+      },
+      {
+       "q": "Which empire is given as another example of destruction by incapable rulers?",
+       "options": [
+        "The Roman Empire",
+        "The Ottoman Empire",
+        "The Gupta Empire",
+        "The Egyptian Empire"
+       ],
+       "answer": 2,
+       "why": "The Gupta Empire is the other example: after the death of Chandragupta II, incapable rulers came, regions began to separate, and the empire was destroyed."
+      },
+      {
+       "q": "In Zoroastrianism, the one God is called _______.",
+       "options": [
+        "Zeus",
+        "Dhamma",
+        "Satrap",
+        "Ahura Mazda"
+       ],
+       "answer": 3,
+       "why": "The true teaching of Zoroastrianism is faith in one God, Ahura Mazda. It also teaches that a war between good and evil is going on and every person should support goodness."
+      },
+      {
+       "q": "According to Zoroastrianism, a person should adopt _______.",
+       "options": [
+        "Good thoughts, good words and good deeds",
+        "Wealth, power and fame",
+        "Silence and solitude",
+        "Wars and conquests"
+       ],
+       "answer": 0,
+       "why": "Zoroastrianism teaches good thoughts, good words and good deeds. By following these, a person supports goodness in the war between good and evil."
+      },
+      {
+       "q": "The Ottoman Empire began in 1326 CE under a Turkish chief named _______.",
+       "options": [
+        "Salahuddin",
+        "Osman",
+        "Darius",
+        "Cyrus"
+       ],
+       "answer": 1,
+       "why": "In 1326 CE a small empire began under a Turkish chief, Osman. The Ottoman Empire takes its name from him and later spread over three continents."
+      },
+      {
+       "q": "The Battle of Kosovo was fought in _______.",
+       "options": [
+        "1258 CE",
+        "1350 CE",
+        "1389 CE",
+        "1453 CE"
+       ],
+       "answer": 2,
+       "why": "The Battle of Kosovo was fought in 1389 CE, during the spread of the Ottoman Empire into Europe. Constantinople was conquered later, in 1453 CE."
+      },
+      {
+       "q": "Which of these is a cause of the decline of the Muslims in the fifteenth century?",
+       "options": [
+        "The discovery of gold coins",
+        "The building of the Royal Road",
+        "The teachings of Zoroaster",
+        "Internal differences and weak governments"
+       ],
+       "answer": 3,
+       "why": "Internal differences and weak governments were a main cause of the decline. Other causes were the Mongol attacks, the fall of Baghdad, changed trade routes and new progress in Europe."
+      },
+      {
+       "q": "The Crusades began in which year?",
+       "options": [
+        "1096 CE",
+        "632 CE",
+        "1258 CE",
+        "1453 CE"
+       ],
+       "answer": 0,
+       "why": "The Crusades began in 1096 CE, with the First Crusade (1096–1099 CE). The fall of Baghdad in 1258 CE and the conquest of Constantinople in 1453 CE came much later."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Constitution and Citizenship",
+   "lessons": [
+    {
+     "title": "The Constitution",
+     "notes_html": "<h4>What is a Constitution?</h4>\n<p>The constitution is the <b>basic, necessary and fundamental law</b> of the state. It is the law in which the rules about the organisation, powers and duties of the government of the state are stated.</p>\n<h4>The Three Institutions of Government</h4>\n<p>A representative government consists of three institutions:</p>\n<ul>\n<li><b>The Executive</b> — runs the government and implements the laws.</li>\n<li><b>The Legislature</b> — the law-making body.</li>\n<li><b>The Judiciary</b> — the courts that interpret the law.</li>\n</ul>\n<h4>Sovereignty</h4>\n<p>Sovereignty means <b>supreme authority</b>. The sovereign is one who does not share his authority with anyone and whose orders cannot be objected to. According to the Constitution of 1973, Pakistan is a sovereign state, and its authority is used through the elected representatives of the people.</p>\n<h4>The Rule of Law</h4>\n<p>The rule of law means that <b>no person is above the law</b>. All citizens are equal before the law and all have equal protection of the law. According to Dicey, the world expert on law, the government too is bound by the law, and no one can use authority according to his own will.</p>\n<h4>Written and Unwritten Constitutions</h4>\n<table><tr><th></th><th>Merits</th><th>Demerits</th></tr>\n<tr><td>Unwritten constitution</td><td>It is flexible and can change gradually according to the need of the time; it is based on customs, traditions and court decisions</td><td>It is not written in one book, so the common man does not know about it; the government can use it according to its own will; the protection of rights remains weak</td></tr></table>\n<h4>The Constitution of Pakistan</h4>\n<p>The Constitution of Pakistan consists of <b>280 articles</b>. It includes <b>12 parts</b> and <b>6 schedules</b>, and 23 amendments have been made in it so far.</p>\n<h4>How the Constitution Protects Fundamental Rights</h4>\n<p>The constitution gives the citizens of Pakistan fundamental rights: equality before the law, freedom of thought, belief, faith and worship, and freedom to form associations. The condition is that these freedoms are not used against the rights of others and the law.</p>\n<table><tr><th>Supreme Court</th><th>Parliament</th></tr>\n<tr><td>Interprets and protects the constitution; protects the fundamental rights of the citizens; maintains the rule of law</td><td>Makes laws for the country; it includes the National Assembly and the Senate; keeps watch over the work of the government</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "The basic, necessary and fundamental law of the state is called _______.",
+       "options": [
+        "The constitution",
+        "A government order",
+        "A custom",
+        "A treaty"
+       ],
+       "answer": 0,
+       "why": "The constitution is the fundamental law of the state. It states the rules about the organisation, powers and duties of the government."
+      },
+      {
+       "q": "Which institution of government makes the laws?",
+       "options": [
+        "The executive",
+        "The legislature",
+        "The judiciary",
+        "The police"
+       ],
+       "answer": 1,
+       "why": "The legislature is the law-making body of the government. The executive implements the laws and the judiciary interprets them through the courts."
+      },
+      {
+       "q": "Sovereignty means _______.",
+       "options": [
+        "Freedom of trade",
+        "Rule of a king",
+        "Supreme authority",
+        "Power of the army"
+       ],
+       "answer": 2,
+       "why": "Sovereignty means supreme authority. A sovereign does not share his authority with anyone, and his orders cannot be objected to."
+      },
+      {
+       "q": "The Constitution of Pakistan consists of how many articles?",
+       "options": [
+        "197",
+        "250",
+        "300",
+        "280"
+       ],
+       "answer": 3,
+       "why": "The Constitution of Pakistan consists of 280 articles. It also includes 12 parts and 6 schedules."
+      },
+      {
+       "q": "The rule of law means _______.",
+       "options": [
+        "No person is above the law",
+        "The king is above the law",
+        "Only rich people follow the law",
+        "Laws change every day"
+       ],
+       "answer": 0,
+       "why": "The rule of law means no person is above the law. All citizens are equal before the law and all have equal protection of the law."
+      },
+      {
+       "q": "According to Dicey, who is also bound by the law?",
+       "options": [
+        "Only the citizens",
+        "The government too",
+        "Only the judges",
+        "Nobody"
+       ],
+       "answer": 1,
+       "why": "According to Dicey, the world expert on law, the government too is bound by the law. No one can use authority according to his own will."
+      },
+      {
+       "q": "Which is a merit of an unwritten constitution?",
+       "options": [
+        "It is written in one book",
+        "It can never change",
+        "It is flexible and changes gradually with the need of the time",
+        "It protects rights the most"
+       ],
+       "answer": 2,
+       "why": "An unwritten constitution is flexible and can change gradually according to the need of the time. It is based on customs, traditions and court decisions."
+      },
+      {
+       "q": "Which is a demerit of an unwritten constitution?",
+       "options": [
+        "It is too rigid",
+        "It has too many articles",
+        "It is changed by the courts daily",
+        "The common man does not know about it because it is not written in one book"
+       ],
+       "answer": 3,
+       "why": "Because an unwritten constitution is not written in one book, the common man does not know about it. The government can also use it according to its own will, and the protection of rights remains weak."
+      },
+      {
+       "q": "What is the work of the Supreme Court?",
+       "options": [
+        "To interpret and protect the constitution",
+        "To make laws for the country",
+        "To collect taxes",
+        "To run the provinces"
+       ],
+       "answer": 0,
+       "why": "The Supreme Court interprets and protects the constitution. It also protects the fundamental rights of the citizens and maintains the rule of law."
+      },
+      {
+       "q": "The Parliament of Pakistan includes _______.",
+       "options": [
+        "The Supreme Court and High Courts",
+        "The National Assembly and the Senate",
+        "The President and Governors only",
+        "The district councils"
+       ],
+       "answer": 1,
+       "why": "Parliament makes laws for the country and includes the National Assembly and the Senate. It also keeps watch over the work of the government."
+      }
+     ]
+    },
+    {
+     "title": "Citizens' Rights and Responsibilities",
+     "notes_html": "<h4>Three Kinds of Rights</h4>\n<table><tr><th>Kind of right</th><th>Examples</th></tr>\n<tr><td>Civil rights</td><td>Life, freedom, personal safety, property, freedom of expression and worship</td></tr>\n<tr><td>Political rights</td><td>Voting, forming associations, taking part in elections, becoming a candidate for public office</td></tr>\n<tr><td>Economic and social rights</td><td>Work, fair wages, education, health, housing and a decent standard of living</td></tr></table>\n<p>Civil rights are especially connected with the citizen's <b>life and freedom</b>. Fundamental rights encourage and motivate a better life, freedom and equality.</p>\n<h4>Article 25-A: Free Education</h4>\n<p>According to <b>Article 25-A</b> of the Constitution, providing <b>free and compulsory education</b> to all children from the age of <b>five (5) to sixteen (16) years</b> is the responsibility of the state.</p>\n<h4>Responsibilities of a Citizen</h4>\n<ul>\n<li>Supporting and defending the constitution</li>\n<li>Keeping informed about matters affecting society</li>\n<li>Participating in the democratic process</li>\n<li>Respecting and obeying the laws</li>\n<li>Respecting the rights, beliefs and views of other people</li>\n<li>Participating in the local community</li>\n<li>Paying income and other taxes on time</li>\n<li>Respecting the state and local institutions</li>\n<li>Defending the country when needed</li>\n</ul>\n<h4>Why Are There Limits on Rights?</h4>\n<p>Limits and restrictions are placed on rights so that one person's right does not go against another person's right and balance is maintained in society. For example, freedom of expression does not mean harming someone's honour. With every right, respecting the rights of others is also necessary.</p>\n<h4>Contacting Your Elected Representatives</h4>\n<p>Citizens contact the elected representatives of their area to tell them what work they have done, to ask them to play a role in some activity, and to tell them their views about education, crime and other problems of the area. Ways of contact are: writing a letter, going to meet them, phoning, or speaking in a gathering.</p>\n<h4>Advocacy: Insider and Outsider Strategies</h4>\n<ul>\n<li><b>Insider strategy</b> — direct contact with decision-makers: for example, meeting your representative and talking about the school's problem, or writing him a letter.</li>\n<li><b>Outsider strategy</b> — through public pressure: for example, taking out a peaceful rally, writing an article in a newspaper, or running a public campaign.</li>\n</ul>\n<p>The strategy of legal consultation and advocacy has nine steps: objective, audience, message, messenger, delivery, resources, differences and concerns, beginning, and assessment and evaluation.</p>",
+     "mcqs": [
+      {
+       "q": "Civil rights are especially connected with a citizen's life and _______.",
+       "options": [
+        "Property",
+        "Freedom",
+        "Vote",
+        "Business"
+       ],
+       "answer": 1,
+       "why": "Civil rights are especially connected with the citizen's life and freedom. They include personal safety, property, and freedom of expression and worship."
+      },
+      {
+       "q": "According to Article 25-A, the state must provide free and compulsory education to children of which ages?",
+       "options": [
+        "3 to 10 years",
+        "6 to 18 years",
+        "5 to 16 years",
+        "10 to 20 years"
+       ],
+       "answer": 2,
+       "why": "Article 25-A declares that providing free and compulsory education to all children from the age of five to sixteen years is the responsibility of the state."
+      },
+      {
+       "q": "Which of these is a political right?",
+       "options": [
+        "Right to fair wages",
+        "Right to health",
+        "Right to housing",
+        "Right to vote and become a candidate"
+       ],
+       "answer": 3,
+       "why": "Political rights include voting, forming associations, taking part in elections and becoming a candidate for public office. Fair wages and health are economic and social rights."
+      },
+      {
+       "q": "Work, fair wages, education and health are examples of _______ rights.",
+       "options": [
+        "Economic and social",
+        "Civil",
+        "Political",
+        "Religious"
+       ],
+       "answer": 0,
+       "why": "Economic and social rights include work, fair wages, education, health, housing and a decent standard of living. These rights help a citizen live a better life."
+      },
+      {
+       "q": "Which of these is a responsibility of a citizen?",
+       "options": [
+        "Refusing to vote",
+        "Paying income and other taxes on time",
+        "Breaking traffic laws",
+        "Ignoring community matters"
+       ],
+       "answer": 1,
+       "why": "Paying taxes on time is a citizen's responsibility. Other responsibilities include obeying the laws, respecting others' rights and defending the country when needed."
+      },
+      {
+       "q": "Why are limits and restrictions placed on rights?",
+       "options": [
+        "To make the government stronger",
+        "To stop people from voting",
+        "So that one person's right does not go against another person's right",
+        "To reduce education"
+       ],
+       "answer": 2,
+       "why": "Limits keep balance in society, so one person's right does not harm another person's right. For example, freedom of expression does not mean harming someone's honour."
+      },
+      {
+       "q": "Meeting your representative and talking about your school's problem is an example of _______ strategy.",
+       "options": [
+        "Outsider",
+        "Military",
+        "Secret",
+        "Insider"
+       ],
+       "answer": 3,
+       "why": "The insider strategy means direct contact with decision-makers, such as meeting your representative or writing him a letter. The outsider strategy works through public pressure."
+      },
+      {
+       "q": "Which of these is an outsider strategy of advocacy?",
+       "options": [
+        "Taking out a peaceful rally and running a public campaign",
+        "Writing a letter to your representative",
+        "Meeting the decision-maker",
+        "Visiting an office quietly"
+       ],
+       "answer": 0,
+       "why": "The outsider strategy works through public pressure, for example a peaceful rally, a newspaper article or a public campaign. Direct meetings and letters are insider strategies."
+      },
+      {
+       "q": "What is the first step of the advocacy strategy?",
+       "options": [
+        "Delivery",
+        "Objective — what is to be achieved",
+        "Resources",
+        "Assessment"
+       ],
+       "answer": 1,
+       "why": "The first of the nine steps of advocacy is the objective: deciding what is to be achieved. After that come the audience, message, messenger and the other steps."
+      },
+      {
+       "q": "Fundamental rights encourage and motivate a better life, _______ and equality.",
+       "options": [
+        "Wealth",
+        "Fame",
+        "Freedom",
+        "Power"
+       ],
+       "answer": 2,
+       "why": "Fundamental rights encourage a better life, freedom and equality. They protect the citizen's life and liberty and are given by the constitution."
+      }
+     ]
+    },
+    {
+     "title": "Role of Civil Society Organisations and Active Citizenship",
+     "notes_html": "<h4>What is a Volunteer?</h4>\n<p>A person who works for an organisation without payment of any compensation is called a <b>volunteer</b>. Volunteer activity plays an important role in progress in the global economy.</p>\n<h4>The Basic Role of Civil Society Organisations</h4>\n<p>The basic role of a civil society organisation is to <b>limit and regulate the authority of the state</b>. These organisations can also provide a development field for future political <b>leaders</b>.</p>\n<h4>Roles and Duties of Civil Society Organisations</h4>\n<ul>\n<li><b>Consultation and advocacy</b> — running election campaigns, direct action, media and public education.</li>\n<li><b>Charity and donations</b> — giving financial aid to other organisations in support of democratic arrangements.</li>\n<li><b>Legal aid</b> — providing legal help to individuals and organisations.</li>\n<li><b>Networking</b> — establishing a system of contacts and exchange between people and organisations.</li>\n<li><b>Policy</b> — taking part in making the policies of the organisations' aims and methods.</li>\n<li><b>Research</b> — encouraging research on particular matters.</li>\n<li><b>Technical support</b> — giving consultation and technical help for solving problems.</li>\n<li><b>Training</b> — developing people's special knowledge and skills.</li>\n</ul>\n<h4>Their Role in Public Welfare</h4>\n<p>Civil society organisations create awareness among the people about their rights and problems. They work as a <b>link between the government and the people</b>, help poor and needy people, take part in education, health and other services, and press the government for solving public problems.</p>\n<p>People join these organisations because of the spirit of serving their community and its welfare, the desire to protect rights, the desire to promote democracy and justice, and the desire to solve the problems of their area together.</p>\n<h4>Examples in Pakistan</h4>\n<table><tr><th>Organisation</th><th>Services / Work</th></tr>\n<tr><td>Scouts</td><td>Training of youth, creating discipline and the spirit of service</td></tr>\n<tr><td>Girl Guides</td><td>Training of girls, self-confidence and service of the community</td></tr>\n<tr><td>Youth Assembly in Pakistan</td><td>Creating awareness of democratic values, leadership and public problems among the youth</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "A person who works for an organisation without any payment is called _______.",
+       "options": [
+        "A satrap",
+        "A candidate",
+        "A volunteer",
+        "An official"
+       ],
+       "answer": 2,
+       "why": "A volunteer works for an organisation without payment of any compensation. Volunteers serve their community through civil society organisations."
+      },
+      {
+       "q": "The basic role of a civil society organisation is to limit and regulate the authority of _______.",
+       "options": [
+        "The courts",
+        "The schools",
+        "The traders",
+        "The state"
+       ],
+       "answer": 3,
+       "why": "The basic role of a civil society organisation is to limit and regulate the authority of the state. In this way it protects the rights of the citizens."
+      },
+      {
+       "q": "A civil society organisation can provide a development field for future political _______.",
+       "options": [
+        "Leaders",
+        "Soldiers",
+        "Traders",
+        "Judges"
+       ],
+       "answer": 0,
+       "why": "Civil society organisations give people training and experience of public work. In this way they can provide a development field for future political leaders."
+      },
+      {
+       "q": "According to the book, volunteer activity plays an important role in progress in _______.",
+       "options": [
+        "Local sports",
+        "The global economy",
+        "Film industry",
+        "Space research"
+       ],
+       "answer": 1,
+       "why": "The book's summary states that volunteer activity plays an important role in progress in the global economy. Volunteers give their time and skills free for the welfare of society."
+      },
+      {
+       "q": "Which of these is a duty of civil society organisations?",
+       "options": [
+        "Collecting taxes",
+        "Making laws in Parliament",
+        "Providing legal aid to individuals and organisations",
+        "Appointing judges"
+       ],
+       "answer": 2,
+       "why": "Providing legal help to individuals and organisations is one of the duties of civil society organisations. Their other duties include training, research, networking and advocacy."
+      },
+      {
+       "q": "Civil society organisations work as a link between _______ and the people.",
+       "options": [
+        "The army",
+        "Foreign countries",
+        "Private companies",
+        "The government"
+       ],
+       "answer": 3,
+       "why": "Civil society organisations work as a link between the government and the people. They take public problems to the government and create awareness among the people."
+      },
+      {
+       "q": "What is the work of the Scouts?",
+       "options": [
+        "Training of youth, creating discipline and the spirit of service",
+        "Collecting donations only",
+        "Running hospitals",
+        "Teaching in universities"
+       ],
+       "answer": 0,
+       "why": "The Scouts do the training of youth and create discipline and the spirit of service in them. They are a well-known civil society organisation for young people."
+      },
+      {
+       "q": "What do the Girl Guides do?",
+       "options": [
+        "Election campaigns only",
+        "Training of girls, self-confidence and service of the community",
+        "Legal aid in courts",
+        "Building roads"
+       ],
+       "answer": 1,
+       "why": "The Girl Guides work for the training of girls, building their self-confidence and serving the community. Like the Scouts, they promote volunteer activity."
+      },
+      {
+       "q": "Why do people join civil society organisations?",
+       "options": [
+        "To earn a salary",
+        "To avoid taxes",
+        "Because of the spirit of serving their community and its welfare",
+        "To get government jobs"
+       ],
+       "answer": 2,
+       "why": "People join these organisations because of the spirit of serving their community and its welfare. They also want to protect rights and promote democracy and justice."
+      },
+      {
+       "q": "Under 'charity and donations', civil society organisations _______.",
+       "options": [
+        "Sell goods in the market",
+        "Build factories",
+        "Fine the citizens",
+        "Give financial aid to other organisations in support of democratic arrangements"
+       ],
+       "answer": 3,
+       "why": "Under charity and donations, civil society organisations give financial aid to other organisations. This support is given for democratic arrangements and public welfare."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: The Land of Asia and Its Life",
+   "lessons": [
+    {
+     "title": "The Land of Asia",
+     "notes_html": "<h4>Asia — The Largest Continent</h4>\n<p>The land area of Asia is <b>17,212,000 square miles</b>. Its coastal area is about <b>62,800 kilometres</b> long. Asia has great mountains, high plateaus and large deserts.</p>\n<h4>Mountains, Plateaus and Deserts of Asia</h4>\n<table><tr><th>Mountains</th><th>Plateaus</th><th>Deserts</th></tr>\n<tr><td>Altai, Tien Shan, Ghats, Ural, Zagros, Kunlun, Karakoram, Himalayas</td><td>Iranian Plateau, Deccan Plateau, Tibetan Plateau</td><td>Gobi, Arabian, Thar, Karakum</td></tr></table>\n<ul>\n<li><b>Ural</b> is a mountain range which lies in the northern area between Russia and Kazakhstan.</li>\n<li>The <b>Karakoram</b> mountain range is situated in Pakistan and China.</li>\n<li>The <b>Arabian Peninsula</b> is situated between the Red Sea and the Persian Gulf.</li>\n</ul>\n<h4>Important Terms</h4>\n<ul>\n<li><b>Plain and low-lying area:</b> flat and low land, such as the plains along rivers and the low-lying areas along the sea (most of Bangladesh is like this).</li>\n<li><b>Contour-line map:</b> the map in which lines (contour lines) show the different heights of an area.</li>\n<li><b>Summer monsoon:</b> winds blowing from the sea towards the land in summer, which cause heavy rain.</li>\n<li><b>Aerial photograph:</b> a photograph taken from an aeroplane, which shows the shape of the land and buildings in greater detail.</li>\n</ul>\n<h4>How the Two Great Deserts Formed</h4>\n<p>The <b>Gobi Desert</b> is very far from the sea, so the sea winds cannot reach there; desert winds blow the sand about and the dryness increases every year. The <b>Arabian Desert</b> lies between the Equator and the Tropic of Cancer, where the sun's rays fall directly, so there is extreme heat; its small water stores cannot produce cool winds, so the land stays hot.</p>\n<h4>Living on the Coast: Britain or Bangladesh?</h4>\n<p>Bangladesh has heavy monsoon rains, floods and cyclones every year, and the rise in sea level causes great damage to its low-lying areas. Britain is also affected by the rise in sea level, but its damage is less than that of Bangladesh.</p>\n<h4>Desert Plants of Asia</h4>\n<p>Plants that survive in the deserts of Asia include the <b>date palm tree</b>, the <b>cactus</b>, and <b>thorny bushes and grasses</b> (such as lana and babul).</p>",
+     "mcqs": [
+      {
+       "q": "What is the land area of Asia?",
+       "options": [
+        "17,212,000 square miles",
+        "10,000,000 square miles",
+        "25,000,000 square miles",
+        "7,500,000 square miles"
+       ],
+       "answer": 0,
+       "why": "The land area of Asia is 17,212,000 square miles. Asia is the largest continent of the world, with a coastline about 62,800 kilometres long."
+      },
+      {
+       "q": "Ural is the name of a _______.",
+       "options": [
+        "Desert",
+        "Mountain range",
+        "River",
+        "Plateau"
+       ],
+       "answer": 1,
+       "why": "Ural is the name of a mountain range. It lies in the northern area between Russia and Kazakhstan."
+      },
+      {
+       "q": "The Arabian Peninsula is situated between _______ and the Persian Gulf.",
+       "options": [
+        "The Arabian Sea",
+        "The Caspian Sea",
+        "The Red Sea",
+        "The Mediterranean Sea"
+       ],
+       "answer": 2,
+       "why": "The Arabian Peninsula is situated between the Red Sea and the Persian Gulf. It is the largest peninsula of Asia."
+      },
+      {
+       "q": "In which countries is the Karakoram mountain range situated?",
+       "options": [
+        "India and Nepal",
+        "Iran and Iraq",
+        "China and Mongolia",
+        "Pakistan and China"
+       ],
+       "answer": 3,
+       "why": "The Karakoram mountain range is situated in Pakistan and China. It is one of the great mountain ranges of Asia, along with the Himalayas and Kunlun."
+      },
+      {
+       "q": "Which of these is a plateau of Asia?",
+       "options": [
+        "The Tibetan Plateau",
+        "The Gobi",
+        "The Thar",
+        "The Karakum"
+       ],
+       "answer": 0,
+       "why": "The Tibetan Plateau is one of the plateaus of Asia, along with the Iranian and Deccan plateaus. Gobi, Thar and Karakum are deserts, not plateaus."
+      },
+      {
+       "q": "A map in which lines show the different heights of an area is called a _______ map.",
+       "options": [
+        "Political",
+        "Contour-line",
+        "Road",
+        "Climate"
+       ],
+       "answer": 1,
+       "why": "A contour-line map uses lines, called contour lines, to show the different heights of an area. It helps us understand the shape and height of the land."
+      },
+      {
+       "q": "Summer monsoon winds blow _______.",
+       "options": [
+        "From the land towards the sea",
+        "Only in winter",
+        "From the sea towards the land, causing heavy rain",
+        "From north to south without rain"
+       ],
+       "answer": 2,
+       "why": "Summer monsoon winds blow from the sea towards the land in summer. They carry moisture and cause heavy rain in South Asia."
+      },
+      {
+       "q": "Why did the Gobi Desert form?",
+       "options": [
+        "Because of heavy rains",
+        "Because of volcanoes",
+        "Because people cut all its trees",
+        "Because it is very far from the sea, so sea winds cannot reach there"
+       ],
+       "answer": 3,
+       "why": "The Gobi Desert is very far from the sea, so moist sea winds cannot reach there. Desert winds blow the sand about and dryness increases every year."
+      },
+      {
+       "q": "Why is the Arabian Desert extremely hot?",
+       "options": [
+        "It lies between the Equator and the Tropic of Cancer, where the sun's rays fall directly",
+        "It is near the North Pole",
+        "It has many volcanoes",
+        "It is surrounded by ice"
+       ],
+       "answer": 0,
+       "why": "The Arabian Desert lies between the Equator and the Tropic of Cancer, where the sun's rays fall directly. Its small water stores cannot produce cool winds, so the land stays hot."
+      },
+      {
+       "q": "Which of these plants is found in the deserts of Asia?",
+       "options": [
+        "Mango tree",
+        "Date palm tree",
+        "Pine tree",
+        "Rice plant"
+       ],
+       "answer": 1,
+       "why": "The date palm tree grows in the deserts of Asia. Other desert plants are the cactus and thorny bushes and grasses such as lana and babul."
+      }
+     ]
+    },
+    {
+     "title": "Interaction Between People and Countries",
+     "notes_html": "<h4>People and Countries of Asia</h4>\n<p>The two most populous countries of the world, <b>China and India</b>, are situated in Asia. The important agricultural crop of Bangladesh is <b>rice</b>. <b>Borneo</b> is situated in South-East Asia; its area is divided between Malaysia, Indonesia and Brunei. The capital city of Malaysia is <b>Kuala Lumpur</b>.</p>\n<h4>Protecting the Forests</h4>\n<ul>\n<li>Stop the cutting of trees and plant new trees (tree plantation).</li>\n<li>Make laws for the protection of forests and enforce them.</li>\n<li>Protect against forest fires.</li>\n<li>Use other material instead of wood.</li>\n<li>Keep the habitats of animals safe.</li>\n</ul>\n<h4>Life in the Arabian Desert</h4>\n<p>The people living in the Arabian Desert rear camels, goats and sheep, and cultivate dates and other crops. The <b>Bedouin</b> tribes travel for fodder and trade in far-off areas. In the modern age, the discovery of oil, means of transport, work in urban areas and construction of buildings are also their important activities. The biggest natural source of water there is <b>underground water</b>; people take water from wells and oases and store it carefully.</p>\n<h4>Desalination</h4>\n<p><b>Desalination</b> is a practical method of removing salt and minerals from salty water — the process of making salty water sweet. It is very useful in dry desert and coastal areas.</p>\n<h4>Climate Change and Asia</h4>\n<p>Because of climate change the sea level is rising, which has increased the danger of coastal areas sinking and of floods. In some places there is heavy rain and floods, while in others there is drought; deserts are expanding; crops are destroyed, there is a shortage of water, and people's health is badly affected. Low-lying countries like <b>Bangladesh</b> are affected the most.</p>\n<h4>People, Places and Environment</h4>\n<table><tr><th>Physical features</th><th>Profession</th><th>Importance for local people</th><th>Causes of rain</th></tr>\n<tr><td>Desert</td><td>Rearing animals and growing dates</td><td>Animals and dates provide livelihood</td><td>Far from the sea and dry winds, so rain is very scarce</td></tr>\n<tr><td>Forest</td><td>Wood work and collecting forest produce</td><td>Wood, fruit and medicines are obtained</td><td>Many trees and humidity, so rain is plentiful</td></tr>\n<tr><td>Coastal land</td><td>Fishing and trade</td><td>Fish and employment from the sea</td><td>Moist winds coming from the sea</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "The two most populous countries of the world are China and _______.",
+       "options": [
+        "Pakistan",
+        "India",
+        "Indonesia",
+        "Japan"
+       ],
+       "answer": 1,
+       "why": "China and India, the two most populous countries of the world, are both situated in Asia. This is why Asia has more people than any other continent."
+      },
+      {
+       "q": "The important agricultural crop of Bangladesh is _______.",
+       "options": [
+        "Wheat",
+        "Cotton",
+        "Rice",
+        "Tea"
+       ],
+       "answer": 2,
+       "why": "Rice is the important agricultural crop of Bangladesh. Its plains and heavy monsoon rains are very suitable for growing rice."
+      },
+      {
+       "q": "Borneo is situated in which part of Asia?",
+       "options": [
+        "South Asia",
+        "Central Asia",
+        "West Asia",
+        "South-East Asia"
+       ],
+       "answer": 3,
+       "why": "Borneo is situated in South-East Asia. Its area is divided between three countries: Malaysia, Indonesia and Brunei."
+      },
+      {
+       "q": "What is the capital city of Malaysia?",
+       "options": [
+        "Kuala Lumpur",
+        "Jakarta",
+        "Bangkok",
+        "Manila"
+       ],
+       "answer": 0,
+       "why": "Kuala Lumpur is the capital city of Malaysia. Malaysia is one of the countries of South-East Asia."
+      },
+      {
+       "q": "Desalination is the process of _______.",
+       "options": [
+        "Adding salt to water",
+        "Making salty water sweet by removing salt and minerals",
+        "Freezing sea water",
+        "Boiling river water"
+       ],
+       "answer": 1,
+       "why": "Desalination is a practical method of removing salt and minerals from salty water, making it sweet and usable. It is very useful in deserts and coastal areas."
+      },
+      {
+       "q": "Which is a correct way to protect forests?",
+       "options": [
+        "Cutting trees quickly",
+        "Burning old forests",
+        "Planting new trees and enforcing forest-protection laws",
+        "Building factories in forests"
+       ],
+       "answer": 2,
+       "why": "Forests can be protected by stopping tree cutting, planting new trees, and making and enforcing laws for their protection. Protecting animal habitats is also part of forest protection."
+      },
+      {
+       "q": "What do the Bedouin tribes of the Arabian Desert mainly do?",
+       "options": [
+        "They fish in the sea",
+        "They work in factories",
+        "They grow rice",
+        "They rear camels, goats and sheep and travel for fodder and trade"
+       ],
+       "answer": 3,
+       "why": "The people of the Arabian Desert rear camels, goats and sheep and grow dates. The Bedouin tribes travel from place to place for fodder and trade."
+      },
+      {
+       "q": "What is the biggest natural source of water in the Arabian Desert?",
+       "options": [
+        "Underground water",
+        "Rivers",
+        "Lakes",
+        "Rain water tanks"
+       ],
+       "answer": 0,
+       "why": "According to the book, the biggest natural source of the Arabian Desert is underground water. People take water from wells and oases and use it carefully."
+      },
+      {
+       "q": "Which country is affected the most by the rising sea level and climate change?",
+       "options": [
+        "Mongolia",
+        "Bangladesh",
+        "Kazakhstan",
+        "Nepal"
+       ],
+       "answer": 1,
+       "why": "Low-lying countries like Bangladesh are affected the most by climate change. Rising sea level increases the danger of coastal areas sinking and of floods there."
+      },
+      {
+       "q": "In a forest area, why is rain plentiful?",
+       "options": [
+        "Because the land is very high",
+        "Because of dry winds",
+        "Because there are many trees and humidity",
+        "Because there are no clouds"
+       ],
+       "answer": 2,
+       "why": "In forest areas there are many trees and much humidity, so rain is plentiful. In deserts, being far from the sea with dry winds, rain is very scarce."
+      }
+     ]
+    },
+    {
+     "title": "Agricultural Water Uses and Effects",
+     "notes_html": "<h4>Key Terms</h4>\n<ul>\n<li><b>Evaporation:</b> the process in which water changes into vapour.</li>\n<li><b>Surface flow (surface runoff):</b> the process in which water flows over the surface of the earth.</li>\n<li><b>Irrigation:</b> the means of supplying water to the land by human hands for the growth of plants and farming.</li>\n<li><b>Weathering:</b> a process of facing bad weather conditions in which rocks and minerals break up and scatter.</li>\n</ul>\n<p>The three important sources of water in Pakistan are <b>rain water, underground water and river water</b>.</p>\n<h4>The Water Cycle</h4>\n<p>The water cycle is the system in which water is always in motion. With the heat of the sun, the water of seas, rivers and lakes becomes vapour and rises up. In the cold air above, the vapour becomes clouds. From the clouds, water falls on the land as rain or snow. Some water flows over the surface into rivers, some is absorbed into the land and becomes underground water, and in the end the water reaches back to the sea.</p>\n<h4>Floods: Causes and Protection</h4>\n<p>A flood occurs when water becomes too much on the land and cannot be contained in rivers or drains. Its causes are heavy rain, extra water coming into rivers, cutting of forests and increase in urban population. To reduce the intensity of floods: stop cutting forests and plant trees; repair and clean embankments and rivers; ban construction in flood areas by law; make a good drainage system for rain water; and give timely warning and safety preparation.</p>\n<h4>How People Make Water Dirty</h4>\n<p>People use water for drinking, bathing, washing clothes, irrigation, industry, making electricity and recreation. Water becomes dirty when dirty water from homes, factory waste, rubbish, chemical substances and animal waste are thrown into rivers, lakes and seas. This is called <b>water pollution</b>.</p>\n<h4>Erosion, Transportation and Deposition</h4>\n<ul>\n<li><b>Erosion:</b> water, wind or ice breaks rock and land and carries it from one place to another.</li>\n<li><b>Transportation:</b> carrying broken rock and soil from one place to another through water or wind.</li>\n<li><b>Deposition:</b> when the flow of water becomes slow, the carried material collects at another place — for example, soil collecting at the bank of a river and forming a delta.</li>\n</ul>\n<h4>The Three Courses of a River</h4>\n<table><tr><th>Upper course</th><th>Middle course</th><th>Lower course</th></tr>\n<tr><td>In high mountain areas; water flows fast; the valley is narrow and V-shaped; waterfalls form</td><td>The flow becomes gentle; the valley becomes wide; flood plains and bends of the river form; soil starts collecting</td><td>The flow becomes very slow; the river becomes wide and deep; much soil collects; deltas and lakes form</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "The process in which water changes into vapour is called _______.",
+       "options": [
+        "Condensation",
+        "Irrigation",
+        "Evaporation",
+        "Erosion"
+       ],
+       "answer": 2,
+       "why": "Evaporation is the process in which water changes into vapour due to the heat of the sun. It is the first step of the water cycle."
+      },
+      {
+       "q": "Water flowing over the surface of the earth is known as _______.",
+       "options": [
+        "Underground flow",
+        "Evaporation",
+        "Weathering",
+        "Surface flow (surface runoff)"
+       ],
+       "answer": 3,
+       "why": "The process in which water flows over the surface of the earth is known as surface flow or surface runoff. Some of this water joins rivers and finally reaches the sea."
+      },
+      {
+       "q": "The three important sources of water in Pakistan are rain water, river water and _______.",
+       "options": [
+        "Underground water",
+        "Sea water",
+        "Ice water",
+        "Canal water"
+       ],
+       "answer": 0,
+       "why": "The three important sources of water in Pakistan are rain water, underground water and river water. Underground water is taken out through wells and tube wells."
+      },
+      {
+       "q": "Irrigation means _______.",
+       "options": [
+        "Water falling as rain",
+        "Supplying water to the land by human hands for the growth of plants and farming",
+        "Water flowing in a river",
+        "Making water dirty"
+       ],
+       "answer": 1,
+       "why": "Irrigation is the means of supplying water to the land by human hands for the growth of plants and farming. Canals, wells and tube wells are used for irrigation."
+      },
+      {
+       "q": "In weathering, _______ break up and scatter due to bad weather conditions.",
+       "options": [
+        "Clouds",
+        "Rivers",
+        "Rocks and minerals",
+        "Trees"
+       ],
+       "answer": 2,
+       "why": "Weathering is the process in which rocks and minerals break up and scatter when they face bad weather conditions. It slowly changes the surface of the land."
+      },
+      {
+       "q": "In the water cycle, water vapour in the cold air above becomes _______.",
+       "options": [
+        "Rivers",
+        "Ice caps",
+        "Wells",
+        "Clouds"
+       ],
+       "answer": 3,
+       "why": "In the water cycle, vapour rises and becomes clouds in the cold air above. From the clouds, water falls back on the land as rain or snow."
+      },
+      {
+       "q": "Which of these is a cause of floods?",
+       "options": [
+        "Heavy rain and cutting of forests",
+        "Planting trees",
+        "Cleaning rivers",
+        "Building embankments"
+       ],
+       "answer": 0,
+       "why": "Floods are caused by heavy rain, extra water coming into rivers, cutting of forests and increase in urban population. Planting trees and cleaning rivers help to reduce floods."
+      },
+      {
+       "q": "Throwing factory waste, rubbish and chemicals into rivers and seas is called _______.",
+       "options": [
+        "Irrigation",
+        "Water pollution",
+        "Evaporation",
+        "Deposition"
+       ],
+       "answer": 1,
+       "why": "When dirty water from homes, factory waste, rubbish, chemicals and animal waste are thrown into rivers, lakes and seas, it is called water pollution. It makes water harmful for people, animals and plants."
+      },
+      {
+       "q": "When the flow of water becomes slow and the carried material collects at another place, the process is called _______.",
+       "options": [
+        "Erosion",
+        "Transportation",
+        "Deposition",
+        "Weathering"
+       ],
+       "answer": 2,
+       "why": "Deposition happens when the flow of water becomes slow and the carried soil and rock collect at another place. Soil collecting at the bank of a river and forming a delta is an example."
+      },
+      {
+       "q": "In the upper course of a river, the valley is _______.",
+       "options": [
+        "Wide and flat",
+        "Full of deltas",
+        "Very slow and deep",
+        "Narrow and V-shaped"
+       ],
+       "answer": 3,
+       "why": "In the upper course, in high mountain areas, water flows fast and the valley is narrow and V-shaped, and waterfalls form. In the lower course the river becomes wide and slow and forms deltas."
+      }
+     ]
+    },
+    {
+     "title": "People on the Move — Migration and Settlements",
+     "notes_html": "<h4>Voluntary and Forced Migration</h4>\n<p>In <b>voluntary migration</b>, people move from one place to another of their own will — for example, for better employment, education or a better standard of living. In <b>forced migration</b>, people leave home under compulsion — for example, because of war, natural disaster, oppression or pressure from the government.</p>\n<h4>Who is a Refugee?</h4>\n<p>Forced migration is the process in which people leave their home under compulsion, inside the country or outside it. A <b>refugee</b> is that person who leaves his own country because of war, oppression or fear and takes shelter in another country. Remember: every refugee is a forced migrant, but every forced migrant is not a refugee — some people become homeless inside their own country.</p>\n<h4>Why Do Refugees Leave Their Homes?</h4>\n<ul>\n<li>War and fighting become a danger to their lives.</li>\n<li>They face oppression and fear because of their race, religion or political views.</li>\n<li>The government or armed groups force them to leave home.</li>\n<li>Sometimes natural disasters (floods, drought) also force them to leave home.</li>\n</ul>\n<p>Examples: the migration between Pakistan and India in 1947, and the migration of millions of people to Pakistan and Iran because of the war in Afghanistan.</p>\n<h4>Push and Pull Factors</h4>\n<p>When we study a migrant's story, we separate the <b>push factors</b> (poverty, war, disaster — things that force a person to leave) from the <b>pull factors</b> (jobs and facilities — things that attract a person to the new place).</p>\n<h4>Urbanisation and Growth Poles</h4>\n<ul>\n<li><b>Urbanisation</b> is the change from village life towards city life.</li>\n<li>A <b>growth pole</b> is a single urban centre which attracts people, resources and wealth towards itself.</li>\n<li>In East Asia, population is found in <b>river valleys and coastal plains</b>.</li>\n</ul>\n<h4>Settlements and Their Facilities</h4>\n<table><tr><th>Settlement</th><th>Example</th><th>Facilities provided</th></tr>\n<tr><td>City</td><td>Karachi</td><td>Schools, hospitals, electricity, water, roads, market, seaport</td></tr>\n<tr><td>Towns</td><td>Hyderabad, Sukkur</td><td>Schools, hospital, electricity, water, bazaar, roads</td></tr>\n<tr><td>Villages</td><td>Villages of one's own taluka</td><td>Primary school, mosque, well/water, roads, agricultural land</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "In voluntary migration, people move _______.",
+       "options": [
+        "Under compulsion",
+        "Only because of war",
+        "Because the government orders them",
+        "Of their own will, for better employment, education or a better standard of living"
+       ],
+       "answer": 3,
+       "why": "In voluntary migration people move of their own will, for example for better employment, education or a better standard of living. In forced migration people leave under compulsion."
+      },
+      {
+       "q": "Which of these is an example of forced migration?",
+       "options": [
+        "Leaving home because of war or oppression",
+        "Going to a city for a better job",
+        "Moving for higher education",
+        "Shifting to a bigger house"
+       ],
+       "answer": 0,
+       "why": "Leaving home because of war, natural disaster, oppression or government pressure is forced migration. People do not leave by choice but under compulsion."
+      },
+      {
+       "q": "A refugee is a person who _______.",
+       "options": [
+        "Migrates inside his own village",
+        "Leaves his own country because of war, oppression or fear and takes shelter in another country",
+        "Travels for tourism",
+        "Works in another city for some months"
+       ],
+       "answer": 1,
+       "why": "A refugee leaves his own country because of war, oppression or fear and takes shelter in another country. Every refugee is a forced migrant, but not every forced migrant is a refugee."
+      },
+      {
+       "q": "Why are some forced migrants NOT refugees?",
+       "options": [
+        "Because they are rich",
+        "Because they travel by air",
+        "Because some people become homeless inside their own country",
+        "Because they move in groups"
+       ],
+       "answer": 2,
+       "why": "Forced migration can happen inside a country or outside it. A person who is forced to leave home but stays inside his own country is a forced migrant, not a refugee."
+      },
+      {
+       "q": "Which of these forces refugees to leave their homes?",
+       "options": [
+        "Better schools abroad",
+        "Cheap houses in other countries",
+        "Sports events",
+        "Oppression and fear because of race, religion or political views"
+       ],
+       "answer": 3,
+       "why": "Refugees leave because war endangers their lives, or they face oppression and fear because of their race, religion or political views. Armed groups and governments may also force them out."
+      },
+      {
+       "q": "The migration between Pakistan and India in 1947 is an example of _______.",
+       "options": [
+        "Forced migration of refugees",
+        "Voluntary migration for jobs",
+        "Seasonal migration",
+        "Tourism"
+       ],
+       "answer": 0,
+       "why": "In 1947 millions of people were forced to leave their homes between Pakistan and India. The war in Afghanistan also forced millions to migrate to Pakistan and Iran."
+      },
+      {
+       "q": "The change from village life towards city life is called _______.",
+       "options": [
+        "Globalisation",
+        "Urbanisation",
+        "Education",
+        "Desertification"
+       ],
+       "answer": 1,
+       "why": "Urbanisation is the change from village life towards city life. As cities grow, more and more people leave villages and settle in urban areas."
+      },
+      {
+       "q": "A single urban centre which attracts people, resources and wealth towards itself is called a _______.",
+       "options": [
+        "Megalopolis",
+        "Ancient city",
+        "Growth pole",
+        "Scattered town"
+       ],
+       "answer": 2,
+       "why": "A growth pole is a single urban centre which attracts people, resources and wealth towards itself. Karachi is an example of such a centre in Sindh."
+      },
+      {
+       "q": "In East Asia, population is mostly found in _______.",
+       "options": [
+        "Mountain ranges",
+        "Plateaus",
+        "Deserts",
+        "River valleys and coastal plains"
+       ],
+       "answer": 3,
+       "why": "In East Asia, population is found in river valleys and coastal plains. These areas have water, fertile land and facilities, so people settle there in large numbers."
+      },
+      {
+       "q": "Jobs and facilities at a new place are examples of _______ factors of migration.",
+       "options": [
+        "Pull",
+        "Push",
+        "Forced",
+        "Natural"
+       ],
+       "answer": 0,
+       "why": "Pull factors attract a person to a new place, such as jobs and facilities. Push factors, such as poverty, war and disaster, force a person to leave the old place."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Demand and Supply",
+   "lessons": [
+    {
+     "title": "Demand (Consumer-Focused View)",
+     "notes_html": "<h4>What is Demand?</h4>\n<p><b>Consumer demand</b> describes a consumer's desire to buy a particular good or service at a particular price, together with the <b>ability to pay</b> for it and the <b>intention to pay</b>. Examples: Asif buying a pen for 10 rupees; a household's demand for sugar; students' demand for books.</p>\n<p>The two basic types of demand are <b>individual demand</b> and <b>market demand</b>.</p>\n<h4>The Law of Demand</h4>\n<p>When the price of a good <b>increases</b>, the quantity demanded <b>decreases</b>. When the price <b>falls</b>, the quantity demanded <b>rises</b>. A list of prices and quantities demanded is a <b>demand schedule</b>, and its diagrammatic presentation is called the <b>demand curve</b>. The demand curve slopes down from left to right.</p>\n<table><tr><th>Price of biscuits (Rs.)</th><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>\n<tr><th>Quantity demanded (packets)</th><td>1</td><td>2</td><td>4</td><td>7</td><td>11</td><td>16</td><td>23</td></tr></table>\n<h4>Income</h4>\n<p><b>Income</b> is the amount of money a person receives on a regular basis as payment for their work. Examples: the wage a factory worker receives at the end of the month; a shopkeeper's profit; a farmer's money from selling the crop.</p>\n<h4>Complementary Goods</h4>\n<p>Complementary goods are goods that are <b>used together</b> with each other. When the price of one good falls, the demand for its complementary good also increases. Example: if the price of tea falls, people buy more tea, and the demand for sugar also rises — even though the price of sugar has not changed.</p>\n<table><tr><th>Good</th><th>Complementary good</th><th>Substitute good</th></tr>\n<tr><td>Tea</td><td>Sugar, milk</td><td>Coffee</td></tr>\n<tr><td>Mobile phone</td><td>SIM, charger</td><td>Landline phone</td></tr>\n<tr><td>Pen</td><td>Ink, copy</td><td>Pencil</td></tr>\n<tr><td>Car</td><td>Petrol</td><td>Motorcycle, bus</td></tr>\n<tr><td>Shoe</td><td>Socks, polish</td><td>Slippers</td></tr></table>\n<h4>Substitute Goods</h4>\n<p>Substitute goods are goods that consumers can <b>use in place of each other</b> for the same purpose. When the price of one good rises, the demand for its substitute increases. Example: if the price of butter rises, people buy margarine instead; if the price of tea rises, the demand for coffee rises.</p>\n<h4>Non-Price Factors That Affect Demand</h4>\n<ul>\n<li>Change in population</li>\n<li>Change in tastes and preferences</li>\n<li>Change in income</li>\n<li>Change in the price of substitute goods</li>\n<li>Season and weather conditions</li>\n<li>Expected price and fear of shortage</li>\n<li>Change in fashion</li>\n</ul>\n<p><b>Fear of shortage:</b> if a shortage of a good is expected in the near future, people buy more of it in advance, so its quantity demanded increases even at a high price.</p>",
+     "mcqs": [
+      {
+       "q": "When the price of a good increases, the quantity demanded _______.",
+       "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "Becomes zero"
+       ],
+       "answer": 0,
+       "why": "According to the law of demand, when the price increases the quantity demanded decreases. When the price falls, the quantity demanded rises."
+      },
+      {
+       "q": "The two basic types of demand are _______ and market demand.",
+       "options": [
+        "Consumer demand",
+        "Individual demand",
+        "Government demand",
+        "Foreign demand"
+       ],
+       "answer": 1,
+       "why": "The two basic types of demand are individual demand and market demand. Individual demand is of one consumer; market demand is of all consumers together."
+      },
+      {
+       "q": "The diagrammatic presentation of a demand schedule is called _______.",
+       "options": [
+        "The supply curve",
+        "A bar chart",
+        "The demand curve",
+        "A pie chart"
+       ],
+       "answer": 2,
+       "why": "The diagrammatic presentation of a demand schedule is called the demand curve. It slopes down from left to right, showing that quantity demanded rises as price falls."
+      },
+      {
+       "q": "Consumer demand means desire to buy a good together with _______.",
+       "options": [
+        "A bank loan only",
+        "Permission of the government",
+        "A shop in the market",
+        "Ability to pay and intention to pay"
+       ],
+       "answer": 3,
+       "why": "Consumer demand is a consumer's desire to buy a good or service at a particular price, together with the ability to pay for it and the intention to pay. Desire alone is not demand."
+      },
+      {
+       "q": "Income is _______.",
+       "options": [
+        "The amount of money a person receives regularly as payment for work",
+        "Money spent on shopping",
+        "Money kept in a bank",
+        "Money borrowed from a friend"
+       ],
+       "answer": 0,
+       "why": "Income is the amount of money a person receives on a regular basis as payment for their work. Examples are a factory worker's monthly wage and a farmer's money from selling the crop."
+      },
+      {
+       "q": "Complementary goods are goods that are _______.",
+       "options": [
+        "Used in place of each other",
+        "Used together with each other",
+        "Never bought",
+        "Always free"
+       ],
+       "answer": 1,
+       "why": "Complementary goods are used together, like tea and sugar, or a car and petrol. One good is needed along with the other."
+      },
+      {
+       "q": "If the price of tea falls, what happens to the demand for sugar?",
+       "options": [
+        "It decreases",
+        "It stays the same",
+        "It increases",
+        "It ends completely"
+       ],
+       "answer": 2,
+       "why": "Sugar is a complementary good of tea. When the price of tea falls, people buy more tea, so the demand for sugar also rises, even though the price of sugar has not changed."
+      },
+      {
+       "q": "Substitute goods are goods that _______.",
+       "options": [
+        "Are used together",
+        "Are always expensive",
+        "Are imported from other countries",
+        "Consumers can use in place of each other for the same purpose"
+       ],
+       "answer": 3,
+       "why": "Substitute goods can be used in place of each other for the same purpose, like tea and coffee, or butter and margarine. Consumers switch to the cheaper one."
+      },
+      {
+       "q": "If the price of butter rises, the demand for margarine will _______.",
+       "options": [
+        "Increase",
+        "Fall",
+        "Stay the same",
+        "Stop"
+       ],
+       "answer": 0,
+       "why": "Margarine is a substitute for butter. When the price of butter rises, people buy margarine instead because it is cheaper, so the demand for margarine increases."
+      },
+      {
+       "q": "Which of these is a non-price factor that affects demand?",
+       "options": [
+        "The colour of the good",
+        "Change in population",
+        "The name of the shop",
+        "The day of the week"
+       ],
+       "answer": 1,
+       "why": "Change in population is a non-price factor that affects demand. Other non-price factors are changes in income, tastes and preferences, season and weather, and expected prices."
+      },
+      {
+       "q": "Manzha bought coffee instead of tea because the price of coffee had fallen. This is because tea and coffee are _______ goods.",
+       "options": [
+        "Complementary",
+        "Necessary",
+        "Substitute",
+        "Luxury"
+       ],
+       "answer": 2,
+       "why": "Tea and coffee are substitute goods. When the price of coffee fell, Manzha switched to the cheaper item and increased her demand for coffee instead of tea."
+      },
+      {
+       "q": "Asad hears that a shortage of powdered milk is expected soon. What will happen to his quantity demanded?",
+       "options": [
+        "It will decrease",
+        "It will remain the same",
+        "It will become zero",
+        "It will increase, because of fear of shortage"
+       ],
+       "answer": 3,
+       "why": "Because of the fear of shortage, Asad will buy more milk in advance, so his quantity demanded will increase. Expected shortage raises demand even when the price is high."
+      },
+      {
+       "q": "The demand curve slopes _______.",
+       "options": [
+        "Downwards from left to right",
+        "Upwards from left to right",
+        "In a straight vertical line",
+        "In a circle"
+       ],
+       "answer": 0,
+       "why": "The demand curve slopes down from left to right. This shape shows the law of demand: as the price falls, the quantity demanded rises."
+      },
+      {
+       "q": "In the biscuit demand schedule, at a price of Rs. 5 the quantity demanded is _______ packets.",
+       "options": [
+        "2",
+        "4",
+        "7",
+        "11"
+       ],
+       "answer": 1,
+       "why": "In the demand schedule, at Rs. 7 one packet is demanded, at Rs. 6 two packets, and at Rs. 5 four packets are demanded. As the price falls to Re. 1, the quantity rises to 23 packets."
+      },
+      {
+       "q": "Which of these pairs is a pair of complementary goods?",
+       "options": [
+        "Tea and coffee",
+        "Butter and margarine",
+        "Car and petrol",
+        "Bus and rickshaw"
+       ],
+       "answer": 2,
+       "why": "A car and petrol are complementary goods because they are used together — a car does not run without petrol. Tea and coffee, and butter and margarine, are substitutes."
+      }
+     ]
+    },
+    {
+     "title": "Supply (Producer-Focused View)",
+     "notes_html": "<h4>Who is a Producer?</h4>\n<p>The person who produces economic value or goods and services is called a <b>producer</b>. A producer produces and provides goods or services and sells them to consumers, governments or other firms. Examples: a farmer growing wheat; a factory making cloth; a firm making shoes. The government is also a producer of services, such as police, defence and government schools.</p>\n<h4>Supply and the Law of Supply</h4>\n<p><b>Supply</b> describes the total quantity of a particular good or service that is available to consumers. When the price of a good rises, producers offer a larger quantity; when the price falls, supply also falls, because at a lower price the profit is also less. A <b>supply schedule</b> presents the relation between the price of a good or service and the quantity supplied through a schedule, and the <b>supply curve</b> drawn from it slopes upwards from left to right.</p>\n<table><tr><th>Price of DVD (Rs.)</th><td>50</td><td>100</td><td>150</td><td>200</td><td>250</td></tr>\n<tr><th>Quantity supplied</th><td>1</td><td>5</td><td>9</td><td>13</td><td>17</td></tr></table>\n<h4>Incentive</h4>\n<p>An <b>incentive</b> is something that moves a person to perform an action or encourages them. In economics it is a payment or concession for greater production or investment. Examples: awards given to employees, bonuses, increase in salary, certificates and praise. A punishment used to discourage an activity is a negative incentive.</p>\n<h4>Revenue and Profit</h4>\n<ul>\n<li><b>Revenue</b> = unit price × quantity sold.</li>\n<li><b>Profit</b> is the reward a producer gets for taking a risk. It is obtained when the revenue from selling the production exceeds the total cost.</li>\n<li><b>Total profit = Total revenue − Total expenses.</b> Revenue is the total income; profit is the amount left after deducting expenses.</li>\n</ul>\n<h4>Non-Price Factors That Affect Supply</h4>\n<ul>\n<li>Cost of production / production expenses</li>\n<li>Price of related goods</li>\n<li>Productive capacity</li>\n<li>Technology — if there is progress in the technology of production, supply increases</li>\n<li>The seller's expectations about future prices</li>\n<li>Weather and natural disasters, taxes and subsidy, strikes, and availability of transport and electricity</li>\n</ul>\n<h4>Conditions of the Law of Supply</h4>\n<p>The relation \"higher price, more supply\" holds when other things remain the same: there is no change in the price of related goods, no change in the factors of production, no change in technology, no change in government policy, and no change in the seller's expectations about future prices.</p>",
+     "mcqs": [
+      {
+       "q": "The person who produces economic value or goods and services is called _______.",
+       "options": [
+        "A consumer",
+        "A producer",
+        "A buyer",
+        "A banker"
+       ],
+       "answer": 1,
+       "why": "A producer is the person who produces and provides goods or services and sells them to consumers, governments or other firms. A farmer growing wheat and a factory making cloth are producers."
+      },
+      {
+       "q": "If there is progress in the technology of production of a good, its supply will _______.",
+       "options": [
+        "Decrease",
+        "End",
+        "Increase",
+        "Stay exactly the same"
+       ],
+       "answer": 2,
+       "why": "Progress in the technology of production increases supply. Better technology lets producers make more goods at a lower cost."
+      },
+      {
+       "q": "A _______ presents the relation between the price of a good and the quantity supplied through a schedule.",
+       "options": [
+        "Demand schedule",
+        "Time table",
+        "Price list of a shop",
+        "Supply schedule"
+       ],
+       "answer": 3,
+       "why": "A supply schedule presents the relation between the price of a good or service and the quantity supplied for the stated time. The supply curve is drawn from this schedule."
+      },
+      {
+       "q": "When the price of a good falls, its supply _______.",
+       "options": [
+        "Also falls, because profit is less",
+        "Rises quickly",
+        "Doubles",
+        "Does not change"
+       ],
+       "answer": 0,
+       "why": "When the price falls, supply also falls, because producers offer a smaller quantity at a lower price where the profit is also less. This is the law of supply."
+      },
+      {
+       "q": "Revenue is equal to _______.",
+       "options": [
+        "Unit price + quantity sold",
+        "Unit price × quantity sold",
+        "Total cost − price",
+        "Profit × quantity"
+       ],
+       "answer": 1,
+       "why": "Revenue = unit price × quantity sold. Revenue is the total income from selling the goods, before expenses are deducted."
+      },
+      {
+       "q": "Total profit is equal to _______.",
+       "options": [
+        "Total revenue + total expenses",
+        "Total expenses − total revenue",
+        "Total revenue − total expenses",
+        "Unit price × total cost"
+       ],
+       "answer": 2,
+       "why": "Total profit = Total revenue − Total expenses. Profit is the amount left after deducting all expenses from the total income."
+      },
+      {
+       "q": "Profit is the reward a producer gets for _______.",
+       "options": [
+        "Working slowly",
+        "Paying taxes",
+        "Buying raw material",
+        "Taking a risk"
+       ],
+       "answer": 3,
+       "why": "Profit is the reward a producer gets for taking a risk. It is obtained when the revenue from selling the production exceeds the total cost of the goods or services."
+      },
+      {
+       "q": "Which of these is an incentive?",
+       "options": [
+        "A bonus given to employees",
+        "A fine for late work",
+        "Closing the factory",
+        "Raising the price of goods"
+       ],
+       "answer": 0,
+       "why": "An incentive is something that encourages a person to act, such as awards, bonuses, increase in salary, certificates and praise. A punishment is a negative incentive used to discourage an activity."
+      },
+      {
+       "q": "Which of these is a non-price factor that affects supply?",
+       "options": [
+        "The colour of the packing",
+        "Cost of production",
+        "The name of the producer",
+        "The size of the shop"
+       ],
+       "answer": 1,
+       "why": "Cost of production is a non-price factor that affects supply. Other such factors are the price of related goods, productive capacity, technology and the seller's expectations."
+      },
+      {
+       "q": "The law of supply holds when other things remain the same, for example there is no change in _______.",
+       "options": [
+        "Price itself",
+        "Quantity demanded",
+        "Technology",
+        "The market place"
+       ],
+       "answer": 2,
+       "why": "The price–supply relation holds when there is no change in technology, in the price of related goods, in the factors of production, in government policy or in the seller's expectations."
+      },
+      {
+       "q": "In the DVD supply schedule, at a price of Rs. 250 the quantity supplied is _______.",
+       "options": [
+        "9",
+        "13",
+        "25",
+        "17"
+       ],
+       "answer": 3,
+       "why": "In the supply schedule, at Rs. 50 the quantity supplied is 1, and it rises with the price to 17 at Rs. 250. This shows the direct relation between price and supply."
+      },
+      {
+       "q": "The supply curve slopes _______.",
+       "options": [
+        "Upwards from left to right",
+        "Downwards from left to right",
+        "Horizontally",
+        "Vertically"
+       ],
+       "answer": 0,
+       "why": "The supply curve rises upwards from left to right. This shape shows that as the price rises, the quantity supplied also rises."
+      },
+      {
+       "q": "The government is also a producer of services, such as _______.",
+       "options": [
+        "Films and songs",
+        "Police, defence and government schools",
+        "Cars and mobiles",
+        "Hotels and restaurants"
+       ],
+       "answer": 1,
+       "why": "The government produces services like police, defence and government schools. Producers can be farmers, factories, firms or the government."
+      },
+      {
+       "q": "If taxes on production rise, what will happen to supply?",
+       "options": [
+        "It will increase",
+        "It will not change",
+        "It will decrease, because production becomes costly",
+        "It will double"
+       ],
+       "answer": 2,
+       "why": "A rise in tax makes production costly, so supply decreases. On the other hand, a subsidy (government help) lowers cost and increases supply."
+      },
+      {
+       "q": "A punishment given to discourage a particular activity is called a _______ incentive.",
+       "options": [
+        "Positive",
+        "Price",
+        "Market",
+        "Negative"
+       ],
+       "answer": 3,
+       "why": "A negative incentive, such as a punishment, discourages a particular activity. A positive incentive, such as a reward or praise, encourages an activity."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Organisation of the People in Asia",
+   "lessons": [
+    {
+     "title": "Gaining Group Leadership and Practical Exercise",
+     "notes_html": "<h4>Leaders and Followers</h4>\n<p>People are naturally divided into <b>leaders and followers</b>. A leader guides the group, makes plans and takes the group towards its destination.</p>\n<h4>Ways of Becoming a Leader</h4>\n<ul>\n<li><b>Heredity</b> — leadership passes in a family from one generation to another.</li>\n<li><b>Power</b> — a person gains leadership by using power (force).</li>\n<li><b>Appointment</b> — a leader is appointed for a particular purpose.</li>\n<li><b>Elections</b> — the people choose a leader through votes.</li>\n<li><b>Voluntary action</b> — people guide others of their own will for the good of others.</li>\n</ul>\n<h4>Three Styles of Leadership</h4>\n<table><tr><th>Style</th><th>How the leader works</th><th>Effect on the group</th></tr>\n<tr><td>Absolute leader</td><td>Makes decisions according to his own choice, without the advice of people, and keeps complete authority with himself</td><td>Members cannot express their ideas</td></tr>\n<tr><td>Democratic leader</td><td>Participates in decision-making and also includes others; encourages them and gets them to express their ideas</td><td>Members cooperate and obey willingly</td></tr>\n<tr><td>Leader who gives freedom</td><td>Gives people the freedom to work according to their own choice, with the least interference</td><td>Members work freely in their own way</td></tr></table>\n<h4>How Leaders Prevent Differences in Groups</h4>\n<ul>\n<li><b>Remain silent and show respect</b> — look at others' point of view with honour and respect.</li>\n<li><b>Enforce reasonableness and reach agreement</b> — clarify the facts and bring the groups to a conclusion.</li>\n<li><b>Think creatively and use authority</b> — search for a better solution to the problem and use authority when needed.</li>\n</ul>\n<p>Other ways are: listen to both sides separately, make peace through a mediator, make common rules on which everyone agrees, encourage admitting mistakes and asking for forgiveness, and increase friendship through joint games or joint work.</p>\n<h4>If There Were No Leader</h4>\n<p>If there were no leader in a society, no decision would be taken, everyone would do as they pleased, quarrels would increase and work would stop. A class monitor, for example, keeps discipline in the class, manages the class in the teacher's absence, conveys the students' problems to the teacher and teaches everyone to work together.</p>",
+     "mcqs": [
+      {
+       "q": "A democratic leader is a leader who _______.",
+       "options": [
+        "Participates in decision-making and includes others in decisions",
+        "Makes all decisions alone",
+        "Never listens to anyone",
+        "Uses force on the group"
+       ],
+       "answer": 0,
+       "why": "A democratic leader plays an active role in decision-making and also includes others in decisions. He encourages the members and gets them to express their ideas."
+      },
+      {
+       "q": "Absolute leaders make decisions _______.",
+       "options": [
+        "After voting",
+        "According to their own choice, without the advice of people",
+        "With the help of a mediator",
+        "By asking the followers"
+       ],
+       "answer": 1,
+       "why": "An absolute leader makes decisions according to his own choice without the advice of people. He keeps complete authority with himself, unlike a democratic leader."
+      },
+      {
+       "q": "People are naturally divided into _______ and followers.",
+       "options": [
+        "Rich and poor",
+        "Teachers and students",
+        "Leaders",
+        "Buyers and sellers"
+       ],
+       "answer": 2,
+       "why": "People are naturally divided into leaders and followers. Leaders guide the group, while followers work under their guidance."
+      },
+      {
+       "q": "When the people choose a leader through votes, this way of becoming a leader is called _______.",
+       "options": [
+        "Heredity",
+        "Appointment",
+        "Power",
+        "Elections"
+       ],
+       "answer": 3,
+       "why": "In elections, the people choose a leader through votes. In heredity, leadership passes in a family from one generation to another."
+      },
+      {
+       "q": "Leadership passing in a family from one generation to another is called _______.",
+       "options": [
+        "Heredity",
+        "Appointment",
+        "Voluntary action",
+        "Election"
+       ],
+       "answer": 0,
+       "why": "Heredity means leadership passes in a family from one generation to another. It is one of the five ways through which people can become leaders."
+      },
+      {
+       "q": "A leader is appointed for a particular purpose in which way?",
+       "options": [
+        "Power",
+        "Appointment",
+        "Heredity",
+        "Lottery"
+       ],
+       "answer": 1,
+       "why": "In appointment, a leader is appointed for a particular purpose. A class monitor chosen by the teacher for the class is an example."
+      },
+      {
+       "q": "To prevent differences, a leader should first _______.",
+       "options": [
+        "Punish both sides",
+        "Ignore the problem",
+        "Remain silent and show respect to others' point of view",
+        "Take one side immediately"
+       ],
+       "answer": 2,
+       "why": "The first method of the book is to remain silent and show honour and respect, looking at others' point of view with respect. Then facts are clarified and the groups are brought to an agreement."
+      },
+      {
+       "q": "Making peace through a third person is called peace through a _______.",
+       "options": [
+        "Judge",
+        "Leader",
+        "Witness",
+        "Mediator"
+       ],
+       "answer": 3,
+       "why": "A mediator is a neutral person who helps two sides make peace. Leaders can also listen to both sides separately and make common rules to remove differences."
+      },
+      {
+       "q": "What happens in a society if there is no leader?",
+       "options": [
+        "No decision is taken, quarrels increase and work stops",
+        "Work becomes faster",
+        "Everyone becomes rich",
+        "People become more united"
+       ],
+       "answer": 0,
+       "why": "Without a leader, no decision would be taken and everyone would do as they pleased. Quarrels would increase and the work of society would stop."
+      },
+      {
+       "q": "What is one benefit of having a monitor in the class?",
+       "options": [
+        "He gives holidays",
+        "He keeps discipline and conveys students' problems to the teacher",
+        "He teaches all subjects",
+        "He collects fees"
+       ],
+       "answer": 1,
+       "why": "A class monitor keeps discipline in the class and manages it in the teacher's absence. He also conveys the students' problems to the teacher and teaches everyone to work together."
+      }
+     ]
+    },
+    {
+     "title": "Organised Speech of Asian Peoples and Response to Crises",
+     "notes_html": "<h4>Women and Youth in Society</h4>\n<p>Women have a role to play in every society as a <b>nation builder</b>. Countries are producing educated youth in large numbers, but they lack basic skills and <b>practical training</b>.</p>\n<h4>The Problem-Solving Cycle</h4>\n<p>Groups and individual people work together to cope with difficulties through the problem-solving cycle:</p>\n<ul>\n<li><b>Step 1 — Identifying:</b> recognising the problem.</li>\n<li><b>Step 2 — Gathering information and creating ideas.</b></li>\n<li><b>Step 3 — Selecting the best idea.</b></li>\n<li><b>Step 4 — Strengthening and testing the idea.</b></li>\n<li><b>Step 5 — Evaluating the results and determining their value.</b></li>\n</ul>\n<p>In addition, groups, the government and civil organisations work together and help one another.</p>\n<h4>Ending the Shortage of Water and Cutting of Forests</h4>\n<ul>\n<li><b>For the shortage of water:</b> building dams and reservoirs, saving water, telling people about the proper use of water, and keeping rivers and seas clean.</li>\n<li><b>For the cutting of forests:</b> protecting trees, planting trees, informing people about the importance of trees, and cooperating with the government in this work. People cut trees to obtain land and to provide residential facilities for the people — this destruction must be stopped.</li>\n</ul>\n<h4>The Five Regions of Asia</h4>\n<table><tr><th>Region</th><th>Example countries</th></tr>\n<tr><td>South-East Asia</td><td>Indonesia, Malaysia, Thailand, Vietnam, Philippines</td></tr>\n<tr><td>South Asia</td><td>Pakistan, India, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, Maldives</td></tr>\n<tr><td>West Asia</td><td>Saudi Arabia, Iran, Iraq, Turkey, Syria, Jordan</td></tr>\n<tr><td>Central Asia</td><td>Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan</td></tr>\n<tr><td>East Asia</td><td>China, Japan, Korea, Mongolia</td></tr></table>\n<h4>Reform Suggestions for the Energy Crisis</h4>\n<p>Saving electricity and stopping its wastage; using new sources of electricity (solar energy, wind energy); stopping electricity theft; energy-saving habits in industry and homes; and the government and the people working together.</p>\n<h4>Who Deals with a Crisis?</h4>\n<table><tr><th>Crisis</th><th>Group dealing with it</th></tr>\n<tr><td>Shortage of water in school</td><td>School administration and municipal body</td></tr>\n<tr><td>Rubbish and diseases in the street</td><td>Cleaning staff and health department</td></tr>\n<tr><td>Load-shedding of electricity</td><td>Electricity company</td></tr>\n<tr><td>Quarrels in school</td><td>Teachers and parents</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "Women have a role to play in every society as a _______.",
+       "options": [
+        "Follower only",
+        "Nation builder",
+        "Consumer",
+        "Guest"
+       ],
+       "answer": 1,
+       "why": "Women have a role to play in every society as a nation builder. Their work in the family, education and society builds the nation."
+      },
+      {
+       "q": "Educated youth are produced in large numbers, but they lack basic skills and _______.",
+       "options": [
+        "Books",
+        "Uniforms",
+        "Practical training",
+        "Transport"
+       ],
+       "answer": 2,
+       "why": "Countries are producing educated youth in large numbers, but they lack basic skills and practical training. Practical training is needed along with book education."
+      },
+      {
+       "q": "What is the first step of the problem-solving cycle?",
+       "options": [
+        "Selecting the best idea",
+        "Testing the idea",
+        "Evaluating the results",
+        "Identifying — recognising the problem"
+       ],
+       "answer": 3,
+       "why": "The first step of the problem-solving cycle is identifying, that is, recognising the problem. Only after recognising the problem can information be gathered and ideas created."
+      },
+      {
+       "q": "In the problem-solving cycle, after gathering information and creating ideas, we _______.",
+       "options": [
+        "Select the best idea",
+        "Stop the work",
+        "Forget the problem",
+        "Evaluate the results"
+       ],
+       "answer": 0,
+       "why": "The third step of the cycle is selecting the best idea from the ideas created. Then the idea is strengthened and tested, and finally the results are evaluated."
+      },
+      {
+       "q": "Which step comes last in the problem-solving cycle?",
+       "options": [
+        "Identifying the problem",
+        "Evaluating the results and determining their value",
+        "Gathering information",
+        "Creating ideas"
+       ],
+       "answer": 1,
+       "why": "Evaluating the results and determining their value is the fifth and last step of the problem-solving cycle. It tells us whether the solution worked or not."
+      },
+      {
+       "q": "People start cutting trees and destroying forests in order to _______.",
+       "options": [
+        "Make the air clean",
+        "Increase rainfall",
+        "Obtain land and provide residential facilities for the people",
+        "Protect wild animals"
+       ],
+       "answer": 2,
+       "why": "People cut trees and destroy forests to obtain land and to provide residential facilities for the people. This causes shortage of trees and harms the environment."
+      },
+      {
+       "q": "Which of these can end the shortage of water?",
+       "options": [
+        "Wasting water",
+        "Cutting rivers",
+        "Closing wells",
+        "Building dams and reservoirs and saving water"
+       ],
+       "answer": 3,
+       "why": "The shortage of water can be ended by building dams and reservoirs, saving water and telling people about its proper use. Keeping rivers and seas clean also helps."
+      },
+      {
+       "q": "Which country belongs to Central Asia?",
+       "options": [
+        "Kazakhstan",
+        "Pakistan",
+        "Japan",
+        "Thailand"
+       ],
+       "answer": 0,
+       "why": "Kazakhstan is a country of Central Asia, along with Uzbekistan, Kyrgyzstan, Tajikistan and Turkmenistan. Pakistan is in South Asia and Japan in East Asia."
+      },
+      {
+       "q": "Which of these is a reform suggestion for the energy crisis?",
+       "options": [
+        "Wasting electricity",
+        "Using new sources like solar and wind energy",
+        "Stealing electricity",
+        "Closing all schools"
+       ],
+       "answer": 1,
+       "why": "Using new sources of electricity, such as solar energy and wind energy, is a reform suggestion for the energy crisis. Saving electricity and stopping its theft and wastage also help."
+      },
+      {
+       "q": "The crisis of rubbish and diseases in the street is dealt with by _______.",
+       "options": [
+        "The electricity company",
+        "The police only",
+        "The cleaning staff and health department",
+        "The railway department"
+       ],
+       "answer": 2,
+       "why": "Rubbish and diseases in the street are dealt with by the cleaning staff and the health department. Every crisis has a responsible group; for load-shedding it is the electricity company."
+      }
+     ]
+    },
+    {
+     "title": "Organisation of Asian Society: Rights and Responsibilities",
+     "notes_html": "<h4>Rights at Different Ages</h4>\n<table><tr><th>Group</th><th>Rights</th><th>Responsibilities</th></tr>\n<tr><td>Children</td><td>Education, protection, health, playing and receiving love</td><td>Studying, obeying parents and teachers, following the rules of the school</td></tr>\n<tr><td>Adults</td><td>Voting (at the age of 18), employment, expressing their own opinion</td><td>Following the law, serving the country, respecting the rights of others</td></tr>\n<tr><td>Elderly citizens</td><td>Respect, care and protection</td><td>Guiding the youth</td></tr></table>\n<p>According to the international standard, a person whose age is <b>18 years</b> has the right to cast his vote in elections. When a child reaches the required age for going to school, he can exercise the <b>right to education</b>.</p>\n<h4>How Rights Are Implemented in Society</h4>\n<p>Rights are implemented when people know about their rights and responsibilities, respect them and follow the law. The government and the organisations of civil society work together and make such policies that girls too, like boys, can get basic education without any discrimination. Every citizen should become aware of their rights, respect the rights of others and work for the betterment of the country.</p>\n<h4>Factors That Shape Responsibilities</h4>\n<ul>\n<li><b>Economic factors</b> — for example, supporting the family by working honestly.</li>\n<li><b>Cultural factors</b> — respect for one's own culture, festivals and traditions.</li>\n<li><b>Factors related to age and status</b> — respect for elders and care of the younger ones.</li>\n<li><b>Religious factors</b> — worship and truthfulness.</li>\n</ul>\n<h4>Groups in Society</h4>\n<p>In a society, a minority can be on the basis of nation, religion and <b>race</b>. Political parties identify the <b>interests</b> of the people, express them again and again, and present their manifesto in their context.</p>\n<table><tr><th>Group</th><th>What do they want in society?</th></tr>\n<tr><td>Social group</td><td>Betterment of their area</td></tr>\n<tr><td>Groups with common interests</td><td>The interests of their members</td></tr>\n<tr><td>Political parties</td><td>The authority of government and implementing their manifesto</td></tr>\n<tr><td>Minority group</td><td>Equal rights and protection</td></tr>\n<tr><td>Community group</td><td>The identity and interest of their community</td></tr></table>\n<h4>Why Do Views Differ?</h4>\n<p>People of Asian society are organised in different groups and have their own ideas, interests and aims, with clear cultural differences in language, dress, traditions and ethics. When individuals and groups put their own individual aims ahead of the collective aims of society, problems like <b>intolerance, bribery, unbalanced economy and child labour</b> arise in society.</p>",
+     "mcqs": [
+      {
+       "q": "According to the international standard, a person has the right to vote at the age of _______ years.",
+       "options": [
+        "16",
+        "21",
+        "18",
+        "25"
+       ],
+       "answer": 2,
+       "why": "According to the international standard, a person whose age is 18 years has the right to cast his vote in elections. Voting is a right of adult citizens."
+      },
+      {
+       "q": "When a child reaches the required age for going to school, he can exercise the right of _______.",
+       "options": [
+        "Vote",
+        "Employment",
+        "Driving",
+        "Education"
+       ],
+       "answer": 3,
+       "why": "When a child reaches school age, he can exercise the right to education. Children also have the rights of protection, health, playing and receiving love."
+      },
+      {
+       "q": "In a society, a minority can be on the basis of nation, religion and _______.",
+       "options": [
+        "Race",
+        "Wealth",
+        "Profession",
+        "City"
+       ],
+       "answer": 0,
+       "why": "A minority in a society can be on the basis of nation, religion and race (ethnic basis). Minority groups want equal rights and protection."
+      },
+      {
+       "q": "Political parties identify the _______ of the people and present their manifesto in their context.",
+       "options": [
+        "Problems",
+        "Interests",
+        "Languages",
+        "Professions"
+       ],
+       "answer": 1,
+       "why": "Political parties identify the interests of the people, express them again and again, and present their manifesto in their context. They seek the authority of government through elections."
+      },
+      {
+       "q": "Which of these is a responsibility of children?",
+       "options": [
+        "Paying taxes",
+        "Voting in elections",
+        "Studying and obeying parents and teachers",
+        "Serving in the army"
+       ],
+       "answer": 2,
+       "why": "The responsibilities of children are studying, obeying parents and teachers, and following the rules of the school. Voting and working are the rights and responsibilities of adults."
+      },
+      {
+       "q": "What is the special right of elderly citizens?",
+       "options": [
+        "Playing and rest",
+        "Free school books",
+        "Becoming a candidate",
+        "Care, respect and economic support (pension/help)"
+       ],
+       "answer": 3,
+       "why": "Elderly citizens have the rights of honour and respect, family care and support, health facilities and economic protection such as a pension. In return, they guide the youth from their experience."
+      },
+      {
+       "q": "Rights are implemented in society when _______.",
+       "options": [
+        "People know their rights and responsibilities, respect them and follow the law",
+        "Only the government works",
+        "Nobody asks questions",
+        "Laws are not followed"
+       ],
+       "answer": 0,
+       "why": "Rights are implemented when people know about their rights and responsibilities, respect them and follow the law. The government and civil society organisations also work together for this."
+      },
+      {
+       "q": "Which of these factors shapes the responsibilities of people?",
+       "options": [
+        "Weather factors",
+        "Economic, cultural, age-and-status and religious factors",
+        "Sports factors",
+        "Travel factors"
+       ],
+       "answer": 1,
+       "why": "Four factors shape responsibilities: economic factors, cultural factors, factors related to age and status, and religious factors. They determine what a person's responsibility will be and how he fulfils it."
+      },
+      {
+       "q": "What do minority groups want in society?",
+       "options": [
+        "Special taxes",
+        "Separate countries",
+        "Equal rights and protection",
+        "More festivals"
+       ],
+       "answer": 2,
+       "why": "Minority groups want equal rights and protection in society. They should be organised through equal rights and respect, without discrimination."
+      },
+      {
+       "q": "When individuals put their own aims ahead of the collective aims of society, which problems arise?",
+       "options": [
+        "More schools and hospitals",
+        "Better roads",
+        "More rainfall",
+        "Intolerance, bribery, unbalanced economy and child labour"
+       ],
+       "answer": 3,
+       "why": "When individual aims are put ahead of collective aims, problems like intolerance, bribery, unbalanced economy and child labour arise in society. These problems harm the whole society."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Development of Skills",
+   "lessons": [
+    {
+     "title": "Support Skills",
+     "notes_html": "<h4>Learning Together: Support Skills</h4>\n<p>Support skills are the special methods by which students learn together — cooperating with one another, asking questions, sharing material and respecting each other's opinions. In this chapter we examine classroom scenarios and judge whether they show good learning or not.</p>\n<h4>Two Classroom Scenarios</h4>\n<ul>\n<li><b>Scenario 1:</b> In the activity given by the doctor (teacher), students ask each other questions and give answers. This shows <b>shared learning and cooperation</b> — a suitable learning situation.</li>\n<li><b>Scenario 2:</b> Five students sit around a table preparing for the history exam, sharing the book, notes and mobile pictures. This shows <b>group study and the use of technology</b>.</li>\n</ul>\n<p>While judging a scenario we give reasons: was the choice made because of the <b>proposed activity</b>, the <b>technology</b>, or the <b>teacher's role</b>?</p>\n<h4>Making an Unsuitable Scenario Suitable</h4>\n<p>If a scenario is unsuitable — for example because of lack of cooperation among students or wrong use of technology — we ask: what change is needed? For example, every student taking part and guidance by the teacher. The <b>teacher and students together</b> can bring that change, and such a change is desirable.</p>\n<h4>The Four-Box Sketch</h4>\n<table><tr><th>Box</th><th>What to write</th></tr>\n<tr><td>Resources</td><td>Book, notes, mobile/tablet, board</td></tr>\n<tr><td>People</td><td>Students, teacher, group leader</td></tr>\n<tr><td>Activities</td><td>Asking questions, discussion, sharing notes</td></tr>\n<tr><td>Process</td><td>Working together, listening to each other, respecting opinions</td></tr></table>\n<p>To make a good scenario a reality in our own class we decide: which <b>new resources</b> are needed (study material and digital technology), which <b>new roles</b> need to be implemented (the active role of every student and guidance by the teacher), and the <b>important changes</b> in our activity (participation of all and punctuality).</p>",
+     "mcqs": [
+      {
+       "q": "In the scenario activity of this chapter, each scenario is placed in the _______ column.",
+       "options": [
+        "Suitable or unsuitable",
+        "Right or wrong",
+        "Old or new",
+        "Easy or difficult"
+       ],
+       "answer": 0,
+       "why": "Students read both scenarios carefully and place them in the 'suitable' or 'unsuitable' column. They also write where each scenario took place and give reasons for their choice."
+      },
+      {
+       "q": "The first scenario — students asking each other questions and giving answers in the teacher's activity — shows _______.",
+       "options": [
+        "Competition and quarrelling",
+        "Shared learning and cooperation",
+        "Use of punishment",
+        "Individual silent study"
+       ],
+       "answer": 1,
+       "why": "The first scenario shows shared learning and cooperation, because the students learn by asking each other questions and giving answers. Such a scenario is placed in the suitable column."
+      },
+      {
+       "q": "The second scenario — five students preparing for the history exam by sharing the book, notes and mobile pictures — shows _______.",
+       "options": [
+        "Cheating in exams",
+        "Wastage of time",
+        "Group study and use of technology",
+        "A class test"
+       ],
+       "answer": 2,
+       "why": "The second scenario shows group study and the use of technology. The students share the book, notes and mobile pictures to prepare together for the history exam."
+      },
+      {
+       "q": "Which three things are considered while giving reasons for choosing a scenario?",
+       "options": [
+        "Price, place and time",
+        "Marks, fees and uniform",
+        "Books, bags and boards",
+        "The proposed activity, technology and the teacher's role"
+       ],
+       "answer": 3,
+       "why": "While choosing a column for a scenario, reasons are given keeping in view the proposed activity, the technology used, or the teacher's role. These three things decide whether the learning situation is suitable."
+      },
+      {
+       "q": "The four boxes of the sketch in this chapter are Resources, People, Activities and _______.",
+       "options": [
+        "Process",
+        "Marks",
+        "Results",
+        "Problems"
+       ],
+       "answer": 0,
+       "why": "The four boxes of the sketch are Resources, People, Activities and Process. For each scenario, the records are written in these four boxes."
+      },
+      {
+       "q": "In the four-box sketch, a book, notes, mobile/tablet and board are written under _______.",
+       "options": [
+        "People",
+        "Resources",
+        "Activities",
+        "Process"
+       ],
+       "answer": 1,
+       "why": "Book, notes, mobile/tablet and board are learning materials, so they are written under Resources. Students, teacher and group leader come under People."
+      },
+      {
+       "q": "Working together, listening to each other and respecting opinions are written under which box?",
+       "options": [
+        "Resources",
+        "People",
+        "Process",
+        "Activities"
+       ],
+       "answer": 2,
+       "why": "Working together, listening to each other and respecting opinions describe how the work is done, so they come under Process. Asking questions and discussion come under Activities."
+      },
+      {
+       "q": "Who can bring the change needed to make an unsuitable scenario suitable?",
+       "options": [
+        "Only the head teacher",
+        "Only the parents",
+        "The government",
+        "The teacher and students together"
+       ],
+       "answer": 3,
+       "why": "The teacher and students together can bring the change — for example, every student taking part and the teacher giving guidance. Such a change is desirable for better learning."
+      },
+      {
+       "q": "Which new resources are needed to make a good scenario a reality in the class?",
+       "options": [
+        "Study material and digital technology",
+        "New furniture only",
+        "More examinations",
+        "School buses"
+       ],
+       "answer": 0,
+       "why": "The new resources needed are study material and digital technology. Along with this, the active role of every student and the guidance of the teacher are the new roles to be implemented."
+      },
+      {
+       "q": "Which is an important change needed in our activity?",
+       "options": [
+        "Longer holidays",
+        "Participation of all students and punctuality",
+        "Fewer questions",
+        "Silent sitting"
+       ],
+       "answer": 1,
+       "why": "Participation of all and punctuality are the important changes in our activity. When every student takes part and work is done on time, the learning scenario becomes a reality."
+      }
+     ]
+    },
+    {
+     "title": "Problem-Solving and Decision-Making Skills",
+     "notes_html": "<h4>Solving the Problem of Poverty</h4>\n<p>Who is responsible for solving the problem of poverty? <b>Government institutions</b> (through policies and jobs), <b>community organisations</b> (through help and training) and <b>the poor people themselves</b> (through hard work and learning) — everyone has their own role.</p>\n<p>An assumption can be presented like this: \"The most effective solution to the problem of poverty is that poor people get education and training so that they can help themselves.\" Arguments are then given for and against the assumption.</p>\n<h4>Three Committees, Three Solutions</h4>\n<table><tr><th>Committee</th><th>What it investigates</th></tr>\n<tr><td>First committee</td><td>How poor people can improve their condition through education and re-training programmes</td></tr>\n<tr><td>Second committee</td><td>What volunteer groups (religious organisations, non-government organisations and business organisations) can do through charity or better employment opportunities</td></tr>\n<tr><td>Third committee</td><td>The existing government poverty-eradication programmes and new proposals, including legislation about civil rights</td></tr></table>\n<p>Each committee presents its research report, and the class decides which solution is the most practicable and test-worthy. Information can also be collected by taking interviews from people of the neighbourhood or by writing letters; the whole project can be completed in one or two weeks.</p>\n<h4>The Egg-Protection Envelope: A Decision-Making Activity</h4>\n<ul>\n<li>Work in groups of <b>4 to 6 members</b> and make an envelope that protects an egg.</li>\n<li>Collect material: drinking straws, cardboard, tube, small bamboo sticks, sticking tape, glue, etc.</li>\n<li>Use <b>only four</b> of the collected resources — the group decides which four, and decides the role of two members.</li>\n<li>The egg must <b>not break</b>, but it will be dropped from at least <b>eight feet</b> above the ground.</li>\n<li>Decisions are made by <b>consensus or voting</b>.</li>\n</ul>\n<p>At the end the group discusses: What was our decision? How did we reach it? Which method of decision-making did we use? Who provided guidance? How were displeasures and contradictions controlled? How satisfied are we with our participation? The results are shown on a chart on the class bulletin board.</p>",
+     "mcqs": [
+      {
+       "q": "According to this chapter, who is responsible for solving the problem of poverty?",
+       "options": [
+        "Only the government",
+        "Government institutions, community organisations and the poor people themselves",
+        "Only the poor people",
+        "Only foreign countries"
+       ],
+       "answer": 1,
+       "why": "Government institutions, community organisations and the poor people themselves are all included in solving poverty. Each has its own role: policies and jobs, help and training, and hard work and learning."
+      },
+      {
+       "q": "The first sub-committee studies how poor people can improve their condition through _______.",
+       "options": [
+        "Charity of volunteer groups",
+        "Government legislation",
+        "Education and re-training programmes",
+        "Foreign aid"
+       ],
+       "answer": 2,
+       "why": "The first committee investigates education and re-training programmes for poor people. The second studies volunteer groups, and the third studies government programmes and civil-rights legislation."
+      },
+      {
+       "q": "The second sub-committee investigates what _______ can do through charity or better employment opportunities.",
+       "options": [
+        "Government departments",
+        "Foreign banks",
+        "School teachers",
+        "Volunteer groups — religious, non-government and business organisations"
+       ],
+       "answer": 3,
+       "why": "The second committee investigates volunteer groups, including religious organisations, non-government organisations and business organisations. Their help is given through charity or better employment opportunities."
+      },
+      {
+       "q": "An assumption is _______.",
+       "options": [
+        "A suggested idea presented with arguments for and against it",
+        "A final decision of the class",
+        "A law of the government",
+        "A report of a committee"
+       ],
+       "answer": 0,
+       "why": "An assumption is a suggested idea, for example: 'the most effective solution to poverty is that poor people get education and training so they can help themselves.' Arguments are given for and against it in the class."
+      },
+      {
+       "q": "How is information about the community's problems collected in this project?",
+       "options": [
+        "Only from books",
+        "By taking interviews from people of the neighbourhood or writing letters",
+        "By watching television",
+        "By asking other schools"
+       ],
+       "answer": 1,
+       "why": "Material is collected by taking interviews from people related to the neighbourhood or by writing letters. The whole project can be completed in one or two weeks."
+      },
+      {
+       "q": "For the egg-protection envelope activity, each group has _______ members.",
+       "options": [
+        "2 to 3",
+        "8 to 10",
+        "4 to 6",
+        "The whole class in one group"
+       ],
+       "answer": 2,
+       "why": "The egg-protection envelope is made in groups of 4 to 6 members. Working in a group, students practise problem-solving and decision-making together."
+      },
+      {
+       "q": "How many of the collected resources may be used to make the egg-protection envelope?",
+       "options": [
+        "All of them",
+        "Only two",
+        "Any number",
+        "Only four"
+       ],
+       "answer": 3,
+       "why": "Only four of the collected resources may be used. The group must decide by consensus or vote which four resources to use — this is the decision-making part of the activity."
+      },
+      {
+       "q": "The egg-protection envelope is tested by dropping it from at least _______ above the ground.",
+       "options": [
+        "Eight feet",
+        "Two feet",
+        "Four feet",
+        "Twenty feet"
+       ],
+       "answer": 0,
+       "why": "The envelope is dropped from at least eight feet above the ground. The envelope should be so strong and soft that the egg does not break."
+      },
+      {
+       "q": "Which materials can be used for the egg-protection envelope?",
+       "options": [
+        "Iron rods and cement",
+        "Drinking straws, cardboard, tube, bamboo sticks, sticking tape and glue",
+        "Glass and stones",
+        "Water and sand"
+       ],
+       "answer": 1,
+       "why": "Drinking straws, cardboard, tube, small bamboo sticks, sticking tape and glue can be used for the envelope. The group selects only four of the collected resources."
+      },
+      {
+       "q": "Which methods of decision-making are discussed at the end of the activity?",
+       "options": [
+        "Order of the leader only",
+        "Lottery",
+        "Consensus and voting",
+        "Silence"
+       ],
+       "answer": 2,
+       "why": "At the end, groups discuss which method of decision-making they used — consensus (agreement of all) or voting. They also discuss who guided them and how differences were controlled."
+      }
+     ]
+    },
+    {
+     "title": "History Skills",
+     "notes_html": "<h4>How Historians Study a Historical Site</h4>\n<p>Historians judge information on the basis of the <b>greatest amount of collected information</b>. When a historical site is excavated, pictures of the changes occurring in the land and of the pre-historical or remaining industrial samples are taken. After making the samples, they are kept with <b>informative titles</b> from which it appears where they were received. These steps ensure that a historian can tell where a sample was received and how those samples are related to each other.</p>\n<h4>One Sample Gives Only a Clue</h4>\n<p>From a single thing — for example a pencil — only a <b>clue</b> about its owner can be obtained; much cannot be told with certainty. But when many things are found together, more things can be understood from them. In the same way, historians estimate <b>less from one sample</b> and <b>more from many samples</b> received together.</p>\n<h4>The Bag Exercise</h4>\n<p>In the class exercise, every student shows the things in their bag, and the others guess who the owner could be: books show interest in studies, sports goods show interest in games. Then the real owner tells whether the guess was correct or not.</p>\n<h4>Why Is History Difficult?</h4>\n<ul>\n<li>Bags in which the things are clear and recognisable are easy to explain; those with few or unknown things are difficult.</li>\n<li>Different people make different estimates from the same things, so <b>disagreement</b> arises.</li>\n<li>The history exercise is difficult because the historian has to estimate from <b>incomplete information</b>.</li>\n</ul>\n<h4>Writing the Report</h4>\n<p>The report of the exercise (not more than one page) has three parts: first, the <b>method</b> of the exercise; second, the <b>results</b> — which guesses turned out correct and which wrong; third, the <b>lesson</b> — historians too estimate in the same way from incomplete information.</p>",
+     "mcqs": [
+      {
+       "q": "Historians judge historical information on the basis of _______.",
+       "options": [
+        "A single sample",
+        "Old stories only",
+        "The greatest amount of collected information",
+        "Their own opinions"
+       ],
+       "answer": 2,
+       "why": "Information can be judged on the basis of the greatest amount of collected information. The more information a historian collects, the better the estimate that can be made."
+      },
+      {
+       "q": "When a historical site is excavated, the samples are kept with _______ so that it is known where each was received.",
+       "options": [
+        "Price tags",
+        "Secret codes",
+        "Coloured ribbons",
+        "Informative titles"
+       ],
+       "answer": 3,
+       "why": "After making the samples, they are kept with informative titles from which it appears where they were received. This tells the historian how the samples are related to each other."
+      },
+      {
+       "q": "From a single sample, a historian can obtain _______.",
+       "options": [
+        "Only a clue",
+        "Complete and certain knowledge",
+        "Nothing at all",
+        "The name of its owner"
+       ],
+       "answer": 0,
+       "why": "From a single thing, for example a pencil, only a clue about its owner is obtained; much cannot be told with certainty. Many samples together give more understanding."
+      },
+      {
+       "q": "Why can historians estimate more from many samples than from one?",
+       "options": [
+        "Many samples are heavier",
+        "Things found together explain each other and give more information",
+        "One sample is always false",
+        "Many samples are older"
+       ],
+       "answer": 1,
+       "why": "When many things are found together, more things can be understood from them. A group of samples received together lets the historian guess much more than a single sample."
+      },
+      {
+       "q": "In the bag exercise, sports goods in a bag show the owner's interest in _______.",
+       "options": [
+        "Studies",
+        "Cooking",
+        "Games",
+        "Music"
+       ],
+       "answer": 2,
+       "why": "In the bag exercise, books show interest in studies and sports goods show interest in games. Students guess the owner from such clues, just as historians guess from samples."
+      },
+      {
+       "q": "Why do some bags prove easier to explain than others?",
+       "options": [
+        "They are bigger",
+        "They are new",
+        "They have fewer things",
+        "Their things are clear and recognisable"
+       ],
+       "answer": 3,
+       "why": "Bags in which the things are clear and recognisable are easy to explain. Bags in which things are few or unknown are difficult to explain."
+      },
+      {
+       "q": "Why does disagreement arise in explaining samples?",
+       "options": [
+        "Because different people make different estimates from the same things",
+        "Because samples are heavy",
+        "Because bags are closed",
+        "Because students are careless"
+       ],
+       "answer": 0,
+       "why": "When people use specific things to estimate, different people reach different estimates, so disagreement arises. The same happens with historians examining samples."
+      },
+      {
+       "q": "The history exercise is difficult because the historian has to estimate from _______.",
+       "options": [
+        "Complete information",
+        "Incomplete information",
+        "Modern information",
+        "Written information only"
+       ],
+       "answer": 1,
+       "why": "The historian has to estimate from incomplete information, because the past cannot be seen directly. That is why history skills need careful collection and judgement of information."
+      },
+      {
+       "q": "The report of the history exercise should not be more than _______.",
+       "options": [
+        "Five pages",
+        "Ten pages",
+        "One page",
+        "Half a page of one line"
+       ],
+       "answer": 2,
+       "why": "The report on the method and results of the exercise should not be more than one page. It includes the method, the results, and the lesson learnt."
+      },
+      {
+       "q": "What is the third part of the report of the bag exercise?",
+       "options": [
+        "The list of bags",
+        "The names of students",
+        "The price of things",
+        "The lesson — historians too estimate from incomplete information"
+       ],
+       "answer": 3,
+       "why": "The report has three parts: the method of the exercise, the results (which guesses were correct and which wrong), and the lesson that historians too estimate in the same way from incomplete information."
+      }
+     ]
+    },
+    {
+     "title": "Geography Skills",
+     "notes_html": "<h4>Aerial Photographs and Ground Photographs</h4>\n<p>An <b>aerial photograph</b> is taken from above (from an aeroplane), while a <b>ground photograph</b> is taken from the front at ground level. In the aerial photograph things appear from above, and in the ground photograph from the front.</p>\n<h4>What Each Photograph Tells Us</h4>\n<table><tr><th>Aerial photograph</th><th>Ground photograph</th></tr>\n<tr><td>The map-like view of a large area; the arrangement of roads; the shape of the land and buildings from above</td><td>The height and detail of buildings; how things actually look from the front</td></tr></table>\n<p>Students match the aerial photographs of the same place with the ground-level photographs and record their observations in two columns: what appeared in the aerial photograph, and what appeared in the ground photograph.</p>\n<h4>What Cannot Be Known from Aerial Photographs</h4>\n<p>From an aerial or satellite image, the condition <b>inside</b> a building, the names and thoughts of people, and small things <b>cannot</b> be known. For that, ground observation and asking people is necessary.</p>\n<h4>Comparing Our Own Map with Google Maps</h4>\n<p>Students first make the map of their school themselves. Then they compare it with the satellite image in Google Maps — writing the similarities (place of buildings, roads) and the differences (detail, scale) of both pictures.</p>",
+     "mcqs": [
+      {
+       "q": "In an aerial photograph, things appear _______.",
+       "options": [
+        "From the front",
+        "From inside",
+        "Upside down only",
+        "From above"
+       ],
+       "answer": 3,
+       "why": "An aerial photograph is taken from a high place, so things appear from above. In a ground photograph, the same things appear from the front."
+      },
+      {
+       "q": "From an aerial photograph we can know _______.",
+       "options": [
+        "The map of a large area and the arrangement of roads",
+        "The inside of a building",
+        "The names of people",
+        "The thoughts of people"
+       ],
+       "answer": 0,
+       "why": "From an aerial photograph the map of a large area and the arrangement of roads is known. The inside of buildings and the names and thoughts of people cannot be known from it."
+      },
+      {
+       "q": "From a ground photograph we can know _______.",
+       "options": [
+        "The whole district at once",
+        "The height and detail of buildings",
+        "The arrangement of all roads of a city",
+        "Underground water"
+       ],
+       "answer": 1,
+       "why": "From a ground photograph the height and detail of buildings is known, because it shows things from the front. A large area's arrangement is better seen in an aerial photograph."
+      },
+      {
+       "q": "What cannot be known from an aerial or satellite image?",
+       "options": [
+        "The shape of the land",
+        "The position of roads",
+        "The condition inside a building and small things",
+        "The place of buildings"
+       ],
+       "answer": 2,
+       "why": "The condition inside a building, the names and thoughts of people, and small things cannot be known from an aerial or satellite image. For that, ground observation and asking people is necessary."
+      },
+      {
+       "q": "In the observation record sheet, the two columns are for _______.",
+       "options": [
+        "Old and new photographs",
+        "Day and night views",
+        "Summer and winter views",
+        "What appeared in the aerial photograph and what appeared in the ground photograph"
+       ],
+       "answer": 3,
+       "why": "Observations are recorded in two columns: what appeared in the aerial photograph and what appeared in the ground photograph. Comparing both explains what information each type of photograph gives."
+      },
+      {
+       "q": "The act of taking photographs of the ground from a high place is called _______.",
+       "options": [
+        "Aerial photography",
+        "Photogrammetry",
+        "Cartography",
+        "Pictography"
+       ],
+       "answer": 0,
+       "why": "Taking photographs of the ground level from a high place is called aerial photography. Such photographs show the shape of the land and buildings in detail."
+      },
+      {
+       "q": "Before comparing with Google Maps, students should first _______.",
+       "options": [
+        "Copy the satellite image",
+        "Make the map of their school themselves",
+        "Ask the teacher for marks",
+        "Draw any imaginary map"
+       ],
+       "answer": 1,
+       "why": "Students first make the map of their school themselves, so that they become able to make their own map. Then they compare it with the satellite image and discuss the similarities and differences."
+      },
+      {
+       "q": "In comparing our own map with the satellite image, the similarities are _______.",
+       "options": [
+        "Colour and price",
+        "Size of the paper",
+        "Place of buildings and roads",
+        "Names of students"
+       ],
+       "answer": 2,
+       "why": "The similarities between the students' map and the satellite image are the place of buildings and roads. The differences are in detail and scale."
+      },
+      {
+       "q": "Which difference is found between a self-made map and a satellite image?",
+       "options": [
+        "Difference of country",
+        "Difference of language",
+        "No difference at all",
+        "Difference of detail and scale"
+       ],
+       "answer": 3,
+       "why": "The self-made map and the satellite image differ in detail and scale. Discussing these similarities and differences is the purpose of the activity."
+      },
+      {
+       "q": "To know the things that an aerial photograph cannot show, we need _______.",
+       "options": [
+        "Ground observation and asking people",
+        "A bigger camera",
+        "A taller aeroplane",
+        "More photographs of the same type"
+       ],
+       "answer": 0,
+       "why": "Ground observation and asking people is necessary for knowing what aerial photographs cannot show, such as the inside of buildings and small things. Geography skills use both photographs and field observation."
+      }
+     ]
+    },
+    {
+     "title": "Continuing Map Study and Interpretation",
+     "notes_html": "<h4>Urban and Rural Settlements on the Map</h4>\n<p>Looking at the map of Asia, we write where <b>urban settlements</b> are dense — for example, on the banks of rivers and in coastal areas — and where <b>rural settlements</b> are spread.</p>\n<table><tr><th>Urban settlement (city)</th><th>Rural settlement (village)</th><th>Common to both</th></tr>\n<tr><td>Big buildings, dense population, factories</td><td>Fields, open space, low population, animals</td><td>School, shop, people</td></tr></table>\n<h4>The Venn Diagram</h4>\n<p>An equal diagram (Venn diagram) is made of two overlapping circles. In one circle we write only the city's things (factories, big buildings), in the other only the village's things (fields, animals), and in the middle common part the common things of both (school, shop, people).</p>\n<h4>Questions We Answer from the Map</h4>\n<ul>\n<li>Identify the most important urban and rural settlements from the map.</li>\n<li>Enter the information obtained from the map in a pie chart.</li>\n<li>Record the analysis of the settlement patterns.</li>\n<li>Determine the reasons for the different settlements on the map.</li>\n<li>Determine the population density after studying the map.</li>\n<li>Explain the differences in the settlements together with the latitude and longitude of nearby cities.</li>\n</ul>\n<h4>Why Do Settlements Become Dense?</h4>\n<p>Settlements become dense because of <b>water, fertile land and trade</b>. That is why the biggest urban settlements are found on the banks of rivers and in coastal areas, while settlements in deserts and mountains remain scattered.</p>",
+     "mcqs": [
+      {
+       "q": "On the map of Asia, urban settlements are dense _______.",
+       "options": [
+        "On the banks of rivers and in coastal areas",
+        "In the middle of deserts",
+        "On mountain tops",
+        "In cold empty areas"
+       ],
+       "answer": 0,
+       "why": "Urban settlements are dense on the banks of rivers and in coastal areas. Water, fertile land and trade attract people to settle in such places."
+      },
+      {
+       "q": "Which of these is a characteristic of an urban settlement?",
+       "options": [
+        "Fields and open space",
+        "Big buildings, dense population and factories",
+        "Low population",
+        "Animals and farms only"
+       ],
+       "answer": 1,
+       "why": "A city has big buildings, dense population and factories. Fields, open space and low population are characteristics of a rural settlement (village)."
+      },
+      {
+       "q": "Which of these is a characteristic of a rural settlement?",
+       "options": [
+        "Factories",
+        "Dense population",
+        "Fields, open space and low population",
+        "Big buildings"
+       ],
+       "answer": 2,
+       "why": "A village has fields, open space and low population. People there are mostly connected with farming and animals."
+      },
+      {
+       "q": "In a Venn diagram of urban and rural settlements, the middle common part contains _______.",
+       "options": [
+        "Only city things",
+        "Only village things",
+        "Nothing",
+        "Common things of both, like school, shop and people"
+       ],
+       "answer": 3,
+       "why": "In the Venn diagram, one circle holds only the city's things and the other only the village's things. The overlapping middle part holds the common things of both, such as school, shop and people."
+      },
+      {
+       "q": "Settlements become dense because of _______.",
+       "options": [
+        "Water, fertile land and trade",
+        "Cold weather",
+        "High mountains",
+        "Lack of roads"
+       ],
+       "answer": 0,
+       "why": "Settlements become dense because of water, fertile land and trade. These are the reasons for the different settlement patterns seen on the map."
+      },
+      {
+       "q": "Population density means _______.",
+       "options": [
+        "The number of cities in a country",
+        "How many people live in an area",
+        "The height of buildings",
+        "The number of villages only"
+       ],
+       "answer": 1,
+       "why": "Population density tells how many people live in an area. After studying the map, students determine the population density of different areas."
+      },
+      {
+       "q": "The information obtained from the map of settlements can be shown in a _______.",
+       "options": [
+        "Love letter",
+        "Story book",
+        "Pie chart",
+        "Song"
+       ],
+       "answer": 2,
+       "why": "The information obtained from the map is entered in a pie chart to show the share of each type of settlement. Map study includes recording and presenting information in such forms."
+      },
+      {
+       "q": "To explain the differences in settlements, we also use the _______ of nearby cities.",
+       "options": [
+        "Names of mayors",
+        "Population of animals",
+        "Number of shops",
+        "Latitude and longitude"
+       ],
+       "answer": 3,
+       "why": "The differences in the settlements are explained together with the latitude and longitude of nearby cities. Latitude and longitude fix the exact position of a place on the map."
+      },
+      {
+       "q": "In the group word activity, the 'rural' group writes about _______.",
+       "options": [
+        "Fields, open space and low population",
+        "Factories and big buildings",
+        "Ports and aeroplanes",
+        "Banks and offices"
+       ],
+       "answer": 0,
+       "why": "The 'rural' group writes the characteristics of a village: fields, open space and low population. The 'urban' group writes big buildings, dense population and factories."
+      },
+      {
+       "q": "Why are settlements in deserts and mountains scattered?",
+       "options": [
+        "Because people dislike cities",
+        "Because water and fertile land are scarce there",
+        "Because maps are wrong",
+        "Because roads are banned"
+       ],
+       "answer": 1,
+       "why": "Settlements become dense where water, fertile land and trade are available. In deserts and mountains these are scarce, so settlements remain spread out and scattered."
+      }
+     ]
+    },
+    {
+     "title": "Interpretation of Material",
+     "notes_html": "<h4>Reading and Making Graphs</h4>\n<p>Material (data) is presented in graphs so that it can be understood at a glance. In this chapter we learn four forms: the <b>line graph</b>, the <b>vertical bar graph</b>, the <b>pie chart</b> and the <b>pictograph</b>.</p>\n<h4>The Line Graph</h4>\n<p>Years are written on the <b>horizontal axis</b> and the numbers on the <b>vertical axis</b>, starting from zero with equal intervals. A point is placed for each year, the points are joined with a solid line, and the graph is given a title.</p>\n<table><tr><th>Year</th><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td><td>2016</td></tr>\n<tr><th>Daily biryanis</th><td>150</td><td>157</td><td>120</td><td>270</td><td>526</td><td>650</td><td>480</td></tr></table>\n<p><b>Trend:</b> from 2010 to 2012 the number remained almost the same; after 2012 the demand increased rapidly — from 120 in 2012 to the highest, 650, in 2015 — and then decreased to 480 in 2016. Possible reasons for annual change: increase in the fame of the centre, increase in population, change in prices, effect of weather or festivals, and competition or price increase for the decrease.</p>\n<h4>The Vertical Bar Graph</h4>\n<ul>\n<li>The names of the items (for example, games) are written on the horizontal axis, below the graph.</li>\n<li>The numbers (for example, number of students) are written on the vertical axis, on the left side, starting from zero with equal intervals.</li>\n<li>A bar is made for each item, as high as its number — the tallest bar shows the most liked item.</li>\n<li>The graph has a title, for example \"Our Favourite Games\", and the vertical axis has a title, for example \"Number of Students\".</li>\n</ul>\n<p>Ice-cream sales by month also show a trend: May about 50, June about 110, July about 330 (the highest, in hot weather), August about 210, September about 30.</p>\n<h4>The Pie Chart</h4>\n<p>In a pie chart, the total quantity is divided into slices of a circle, and the share of each part is shown. Share = number of that type ÷ total number × 100. In the book's \"What we ate yesterday\" pie chart: meat 43%, ice cream 29%, vegetables 14%, double roti 14%. Different colours are given to different slices, with a colour key (legend) beside the chart.</p>\n<h4>The Pictograph</h4>\n<p>In a pictograph, pictures are used in place of numbers. Example — ice-cream cones sold: Monday 4, Tuesday 2, Wednesday 3, Thursday 5, Friday 7, Saturday 1. Field observations (birds, cats, flowers, trees, dogs, buildings counted on a walk) can also be converted into a pictograph, with one picture for each thing counted.</p>",
+     "mcqs": [
+      {
+       "q": "In a line graph, the years are written on the _______ axis.",
+       "options": [
+        "Vertical",
+        "Horizontal",
+        "Diagonal",
+        "Circular"
+       ],
+       "answer": 1,
+       "why": "In a line graph, the years (2010 to 2016) are written on the horizontal axis. The numbers are written on the vertical axis, starting from zero with equal intervals."
+      },
+      {
+       "q": "In the biryani line graph, the highest number of daily biryanis was in _______.",
+       "options": [
+        "2010",
+        "2013",
+        "2015",
+        "2016"
+       ],
+       "answer": 2,
+       "why": "The number of daily biryanis was highest in 2015 at 650. In 2016 it decreased to 480."
+      },
+      {
+       "q": "What is the most important trend in the biryani material?",
+       "options": [
+        "Demand fell every year",
+        "Demand never changed",
+        "Demand was highest in 2010",
+        "After 2012 the demand increased rapidly, then decreased a little in 2016"
+       ],
+       "answer": 3,
+       "why": "The most important trend is that after 2012 the demand for biryanis increased rapidly — from 120 in 2012 to 650 in 2015 — and then there was some decrease in 2016."
+      },
+      {
+       "q": "In 2012, the number of daily biryanis was _______.",
+       "options": [
+        "120",
+        "150",
+        "157",
+        "270"
+       ],
+       "answer": 0,
+       "why": "In 2012 the number of daily biryanis was 120, the lowest of the seven years. From 2013 onwards it rose quickly: 270, 526 and 650."
+      },
+      {
+       "q": "After joining the points of a line graph, what must be done?",
+       "options": [
+        "Erase the points",
+        "Give the graph a title and explain it through the material",
+        "Colour every point differently",
+        "Remove the axes"
+       ],
+       "answer": 1,
+       "why": "The points are joined with a solid line, the graph is given a title, for example 'Daily Biryanis of the Karachi Biryani Centre (2010–2016)'. Then the graph is explained in words through the material."
+      },
+      {
+       "q": "Which can be a reason for the annual change in orders?",
+       "options": [
+        "The colour of the shop",
+        "The name of the cook",
+        "Increase in the fame of the centre and increase in population",
+        "The day of printing"
+       ],
+       "answer": 2,
+       "why": "Possible reasons for annual change are increase in the fame of the centre, increase in population, change in prices, and the effect of weather or festivals. The decrease in 2016 may be due to competition or price increase."
+      },
+      {
+       "q": "In a vertical bar graph, the number of students is written on the _______ axis.",
+       "options": [
+        "Horizontal",
+        "Title line",
+        "Legend",
+        "Vertical (left side)"
+       ],
+       "answer": 3,
+       "why": "In a vertical bar graph, the names of the games are written on the horizontal axis, and the number of students on the vertical axis on the left side. The numbers start from zero with equal intervals."
+      },
+      {
+       "q": "How can we tell from a bar graph which game is liked the most?",
+       "options": [
+        "It has the tallest bar",
+        "It has the shortest bar",
+        "It is written first",
+        "It has a different colour"
+       ],
+       "answer": 0,
+       "why": "The game with the tallest bar is liked the most, because the height of each bar shows its number of votes. The height of the cricket bar tells how many students like cricket."
+      },
+      {
+       "q": "In the ice-cream sales material, the most ice cream was sold in _______.",
+       "options": [
+        "May (about 50)",
+        "July (about 330)",
+        "June (about 110)",
+        "September (about 30)"
+       ],
+       "answer": 1,
+       "why": "The most ice cream was sold in July, about 330, because July is a very hot month. The least was sold in September, about 30."
+      },
+      {
+       "q": "In a pie chart, the share of a part is calculated as _______.",
+       "options": [
+        "Number of that type × total number",
+        "Total number − number of that type",
+        "Number of that type ÷ total number × 100",
+        "Number of that type + 100"
+       ],
+       "answer": 2,
+       "why": "Share = number of that type ÷ total number × 100. In a pie chart the total quantity is divided into slices of a circle according to these shares."
+      },
+      {
+       "q": "In the 'What we ate yesterday' pie chart, the biggest share is of _______.",
+       "options": [
+        "Ice cream (29%)",
+        "Vegetables (14%)",
+        "Double roti (14%)",
+        "Meat (43%)"
+       ],
+       "answer": 3,
+       "why": "In the pie chart, meat has the biggest share at 43%. Ice cream is 29%, and vegetables and double roti are 14% each."
+      },
+      {
+       "q": "Why are different colours given to the slices of a pie chart?",
+       "options": [
+        "So each type can be recognised, with a colour key (legend) beside it",
+        "To make it look expensive",
+        "To hide the numbers",
+        "To increase the share"
+       ],
+       "answer": 0,
+       "why": "Different colours are given to different slices so that each type can be recognised easily. A colour key (legend) beside the chart tells which colour belongs to which type."
+      },
+      {
+       "q": "In a pictograph, numbers are shown by _______.",
+       "options": [
+        "Lines",
+        "Pictures",
+        "Circles",
+        "Words only"
+       ],
+       "answer": 1,
+       "why": "A pictograph uses pictures in place of numbers — for example, one ice-cream cone picture for each cone sold. Monday 4, Tuesday 2 and Friday 7 cones are shown with that many pictures."
+      },
+      {
+       "q": "In the pictograph of ice-cream cones sold, the most cones were sold on _______.",
+       "options": [
+        "Monday (4)",
+        "Wednesday (3)",
+        "Friday (7)",
+        "Saturday (1)"
+       ],
+       "answer": 2,
+       "why": "The most cones were sold on Friday — 7. The fewest were sold on Saturday — only 1."
+      },
+      {
+       "q": "If the increasing trend of biryani demand continues, what will the centre need?",
+       "options": [
+        "Fewer workers",
+        "A new name only",
+        "To close on Fridays",
+        "More material, more workers and a bigger place"
+       ],
+       "answer": 3,
+       "why": "If the increase continues, the centre will need more material, more workers and a bigger place. If the decrease continues, there will be a need to reduce the price or improve the quality."
+      }
+     ]
+    },
+    {
+     "title": "Violence",
+     "notes_html": "<h4>What is Violence?</h4>\n<p>Violence is that behaviour in which, from the position of a person or an institution, harm — <b>physical, mental or sexual</b> — is caused to another through the use of force. Whether violence is intentional or unintentional, it is a serious violation of basic human rights. Protection from violence is the basic <b>right</b> of every human.</p>\n<h4>Three Types of Violence</h4>\n<ul>\n<li><b>Physical violence</b> — harm to the body.</li>\n<li><b>Mental violence</b> — harm to the mind and feelings.</li>\n<li><b>Sexual violence</b> — harm of a sexual nature.</li>\n</ul>\n<h4>How Can One Be Saved from Violence?</h4>\n<ul>\n<li>Develop the ability to <b>refuse</b>: if a person asks you to do something which does not seem proper to you, refuse.</li>\n<li><b>Shout</b> for help.</li>\n<li><b>Run away</b> from there or go to a <b>safe place</b>.</li>\n<li>Definitely <b>talk to a person whom you trust</b>.</li>\n<li>Recognise the difference between <b>good touch and bad touch</b>, and never hide a bad touch.</li>\n</ul>\n<h4>Effects on a Person Affected by Violence</h4>\n<p>Physical and mental effects fall on the affected person: feelings of shame and guilt, loss of self-confidence, hurt self-respect, feelings of disappointment, worry, fear and anger; thoughts of harming oneself, not getting sleep, becoming restless, laziness in work, difficulties in relations, and feelings of loneliness among other people.</p>\n<h4>True or False?</h4>\n<ul>\n<li>\"It is not possible to escape violence.\" — <b>Incorrect.</b> One can escape by refusing, shouting, going to a safe place and telling a trusted person.</li>\n<li>\"There are no feelings in a person affected by violence.\" — <b>Incorrect.</b> There are many feelings, such as shame, fear, disappointment and anger.</li>\n<li>\"For escaping violence it is necessary to develop the ability to refuse.\" — <b>Correct.</b></li>\n</ul>\n<p>Share this information with your parents, brothers, sisters and friends, so that everyone can protect themselves.</p>",
+     "mcqs": [
+      {
+       "q": "Violence is behaviour in which harm is caused to another through _______.",
+       "options": [
+        "Kind words",
+        "Games",
+        "The use of force",
+        "Teaching"
+       ],
+       "answer": 2,
+       "why": "Violence is that behaviour in which harm — physical, mental or sexual — is caused to another through the use of force. It is a serious violation of basic human rights."
+      },
+      {
+       "q": "How many types of violence are there?",
+       "options": [
+        "Two",
+        "Four",
+        "Five",
+        "Three — physical, mental and sexual"
+       ],
+       "answer": 3,
+       "why": "Violence has three types: physical violence, mental violence and sexual violence. All three are harmful and against human rights."
+      },
+      {
+       "q": "Whether violence is intentional or unintentional, it is a serious violation of _______.",
+       "options": [
+        "Basic human rights",
+        "School rules",
+        "Game rules",
+        "Traffic rules"
+       ],
+       "answer": 0,
+       "why": "Violence, whether intentional or unintentional, is a serious violation of basic human rights. Protection from violence is the basic right of every human."
+      },
+      {
+       "q": "If someone asks you to do something improper, what should you do first?",
+       "options": [
+        "Obey quietly",
+        "Refuse — develop the ability to refuse",
+        "Hide it from everyone",
+        "Run away from home"
+       ],
+       "answer": 1,
+       "why": "To be saved from violence, develop the ability to refuse. If a person asks you to do something which does not seem proper, refuse, shout, run to a safe place and tell a trusted person."
+      },
+      {
+       "q": "A person affected by violence should definitely talk about it with a person _______.",
+       "options": [
+        "He does not know",
+        "He fears",
+        "He has trust in",
+        "Who is very busy"
+       ],
+       "answer": 2,
+       "why": "A person affected by violence should definitely talk about it with a person on whom he has trust. Hiding the matter increases the harm."
+      },
+      {
+       "q": "Which of these is an effect on a person affected by violence?",
+       "options": [
+        "Increased self-confidence",
+        "Better sleep",
+        "More interest in work",
+        "Feelings of shame, fear, worry and loss of self-confidence"
+       ],
+       "answer": 3,
+       "why": "The affected person suffers feelings of shame and guilt, loss of self-confidence, hurt self-respect, disappointment, worry, fear and anger. Sleep and work are also disturbed."
+      },
+      {
+       "q": "'It is not possible to escape violence.' This statement is _______.",
+       "options": [
+        "Incorrect — one can escape by refusing, shouting, going to a safe place and telling a trusted person",
+        "Correct",
+        "Correct only for children",
+        "Correct only at school"
+       ],
+       "answer": 0,
+       "why": "The statement is incorrect. Escape from violence is possible: refuse, shout, go to a safe place, and talk to a trusted person."
+      },
+      {
+       "q": "Why must we recognise the difference between good touch and bad touch?",
+       "options": [
+        "For better marks",
+        "For protection from violence — and a bad touch must never be hidden",
+        "For sports selection",
+        "For making friends"
+       ],
+       "answer": 1,
+       "why": "Recognising the difference between good touch and bad touch is necessary for protection from violence. A bad touch should never be hidden; a trusted person must be told."
+      },
+      {
+       "q": "Protection from violence is the basic _______ of every human.",
+       "options": [
+        "Duty",
+        "Wish",
+        "Right",
+        "Hobby"
+       ],
+       "answer": 2,
+       "why": "Protection from violence is the basic right of every human. That is why violence is a violation of human rights."
+      },
+      {
+       "q": "What should you do with the safety information of this chapter?",
+       "options": [
+        "Keep it secret",
+        "Forget it after the exam",
+        "Tell only strangers",
+        "Share it with parents, brothers, sisters and friends"
+       ],
+       "answer": 3,
+       "why": "For your protection and to avoid harm, inform your parents, brothers and sisters about these things, and share them with younger siblings and friends. Sharing safety information protects everyone."
+      }
+     ]
+    },
+    {
+     "title": "Unit 6 End Exercises",
+     "notes_html": "<h4>Key Terms of Unit 6</h4>\n<ul>\n<li><b>Aerial photography:</b> the act of taking photographs of the ground level from a high place.</li>\n<li><b>Supporting skills:</b> those special methods of skill in which students are expected to play a role in learning the manners and etiquette of the class — students working together, cooperating, conversing and listening to one another for a common aim.</li>\n<li><b>Decision-making:</b> the practical method of collecting information, combining the alternatives of decisions and identifying them through the selection of a decision.</li>\n<li><b>Pictograph:</b> that method of presenting numerical material in which material of different types is compared by counting, using pictures.</li>\n<li>The two basic graph forms of this unit are the <b>line graph</b> and the <b>vertical bar graph</b>.</li>\n</ul>\n<h4>Ortho-Photo and Photogrammetry</h4>\n<p>An <b>ortho-photo map</b> is that map which is made by correcting aerial photographs (removing the slant of their edges and the difference of height), so that it shows correct measurement and correct place like an ordinary map. The process of comparing and correcting different aerial photographs is called <b>photogrammetry</b>.</p>\n<h4>Why Decision-Making Skills Matter</h4>\n<p>Decision-making skills include identifying the problem, collecting information, considering alternative solutions and selecting the best solution. Through this, students learn to examine every matter thoughtfully (<b>critical thinking</b>) and learn to place their views before others with arguments.</p>\n<h4>Elements of the Rural-Urban Settlement Map</h4>\n<ul>\n<li>Settlements (cities and villages)</li>\n<li>Roads and transport routes</li>\n<li>Rivers and water sources</li>\n<li>Fertile land</li>\n<li>Latitude and longitude</li>\n<li>The key of the map (explanation of symbols)</li>\n</ul>\n<p>These maps are different from other maps because they show, instead of the shape of the land, the residence of people and the spread of settlements.</p>\n<h4>Line Graph and Pie Chart: The Difference</h4>\n<table><tr><th>Line graph</th><th>Pie chart</th></tr>\n<tr><td>Change with time is shown with a line (for example, the number of biryanis year by year)</td><td>The total quantity is divided into slices of a circle and the share of each part is shown (for example, meat 43% in food)</td></tr></table>\n<h4>Solving Common Problems of the School</h4>\n<p>From a survey, select three common problems (for example: cleanliness, shortage of water, lack of a playground). Form an action committee and use the steps of problem-solving: identify the problem, collect information, think of alternative solutions, select the best solution. Then make a poster of the causes and solution and publish it in the school newsletter.</p>",
+     "mcqs": [
+      {
+       "q": "The act of taking photographs of the ground level from a high place is called _______.",
+       "options": [
+        "Decision-making",
+        "A pictograph",
+        "Photogrammetry",
+        "Aerial photography"
+       ],
+       "answer": 3,
+       "why": "Taking photographs of the ground level from a high place is called aerial photography. The process of comparing and correcting different aerial photographs is called photogrammetry."
+      },
+      {
+       "q": "The special methods by which students learn together and play a role in the manners of the class are called _______ skills.",
+       "options": [
+        "Supporting",
+        "History",
+        "Geography",
+        "Decision"
+       ],
+       "answer": 0,
+       "why": "Supporting skills are those special methods in which students work together — cooperating, conversing and listening to one another for a common aim. They help students learn together and fulfil shared responsibility."
+      },
+      {
+       "q": "The practical method of collecting information, considering alternatives and selecting a decision is called _______.",
+       "options": [
+        "Map study",
+        "Decision-making",
+        "Advocacy",
+        "Excavation"
+       ],
+       "answer": 1,
+       "why": "Decision-making is the practical method of collecting information, combining the alternatives of decisions and identifying them through the selection of a decision. It develops critical thinking in students."
+      },
+      {
+       "q": "The method of presenting numerical material by comparing different types through counting, using pictures, is called a _______.",
+       "options": [
+        "Line graph",
+        "Pie chart",
+        "Pictograph",
+        "Bar graph"
+       ],
+       "answer": 2,
+       "why": "A pictograph is the method of presenting numerical material in which different types are compared by counting, with the use of pictures. Each picture stands for a counted thing."
+      },
+      {
+       "q": "The two basic graph forms taught in Unit 6 are the line graph and the _______.",
+       "options": [
+        "Scatter graph",
+        "Flow chart",
+        "Tree diagram",
+        "Vertical bar graph"
+       ],
+       "answer": 3,
+       "why": "The two types are the line graph and the vertical bar graph. In Chapter 6 these are the two basic graph forms taught for showing material."
+      },
+      {
+       "q": "An ortho-photo map is made by _______.",
+       "options": [
+        "Correcting aerial photographs — removing the slant of edges and difference of height",
+        "Drawing by hand",
+        "Copying an old map",
+        "Taking a ground photograph"
+       ],
+       "answer": 0,
+       "why": "An ortho-photo map is made by correcting aerial photographs, so that it shows correct measurement and correct place like an ordinary map. Comparing and correcting aerial photographs is photogrammetry."
+      },
+      {
+       "q": "Decision-making skills help students develop _______.",
+       "options": [
+        "Physical strength",
+        "Critical thinking",
+        "Speed in writing",
+        "Memorisation only"
+       ],
+       "answer": 1,
+       "why": "Decision-making — identifying the problem, collecting information, considering alternatives and selecting the best solution — develops critical thinking. Students also learn to place their views before others with arguments."
+      },
+      {
+       "q": "Which of these is an element of the rural-urban settlement map?",
+       "options": [
+        "Only mountains",
+        "Only oceans",
+        "Settlements, roads, rivers, fertile land, latitude and longitude, and the key of the map",
+        "Only borders of countries"
+       ],
+       "answer": 2,
+       "why": "The elements of the rural-urban settlement map are settlements, roads and transport routes, rivers and water sources, fertile land, latitude and longitude, and the key of the map. These maps show the residence of people rather than the shape of the land."
+      },
+      {
+       "q": "Settlement maps are different from other maps because they show _______.",
+       "options": [
+        "The shape of the land",
+        "The depth of seas",
+        "The height of mountains",
+        "The residence of people and the spread of settlements"
+       ],
+       "answer": 3,
+       "why": "Settlement maps show, instead of the shape of the land, the residence of people and the spread of settlements. That is what makes them different from physical maps."
+      },
+      {
+       "q": "What is the difference between a line graph and a pie chart?",
+       "options": [
+        "A line graph shows change with time; a pie chart divides the total into slices showing each part's share",
+        "A line graph shows shares of a total; a pie chart shows change with time",
+        "Both are exactly the same",
+        "A pie chart has no numbers"
+       ],
+       "answer": 0,
+       "why": "In a line graph, change with time is shown with a line, for example the number of biryanis year by year. In a pie chart, the total quantity is divided into slices of a circle showing the share of each part, for example meat 43% in food."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
