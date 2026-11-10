@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Mohalla Help Exchange — Sign in</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 32px 20px;
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    background: #f4f8f5; color: #1c2b21; text-align: center;
+  }
+  .card {
+    max-width: 420px; margin: 6vh auto 0; background: #fff;
+    border-radius: 18px; padding: 34px 24px 30px;
+    box-shadow: 0 4px 24px rgba(27, 122, 67, .14);
+  }
+  .logo {
+    width: 72px; height: 72px; margin: 0 auto 14px; border-radius: 50%;
+    background: #1B7A43; color: #fff; font-size: 34px; line-height: 72px;
+  }
+  h1 { font-size: 22px; margin: 0 0 6px; }
+  p { font-size: 15.5px; line-height: 1.5; color: #43554a; margin: 8px 0; }
+  .bigbtn {
+    display: block; width: 100%; margin: 22px 0 6px; padding: 18px 16px;
+    background: #1B7A43; color: #fff; border: 0; border-radius: 14px;
+    font-size: 19px; font-weight: 700; cursor: pointer;
+    text-decoration: none; text-align: center;
+  }
+  .bigbtn:active { background: #146034; }
+  .err {
+    display: none; margin: 16px 0 0; padding: 12px 14px; text-align: left;
+    background: #fdeeee; color: #8c1d18; border-radius: 10px;
+    font-size: 14.5px; line-height: 1.45; word-break: break-word;
+  }
+  .spin { color: #1B7A43; font-weight: 600; }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="logo">&#128101;</div>
+  <h1>Mohalla Help Exchange</h1>
+
+  <p id="status" class="spin">Checking&hellip;</p>
+
+  <button id="googleBtn" class="bigbtn hidden" type="button">
+    Continue with Google
+  </button>
+
+  <a id="appBtn" class="bigbtn hidden" href="#">Tap if the app did not open</a>
+
+  <p id="afterTxt" class="hidden">
+    You are signed in. Go back to the Mohalla Help Exchange app &mdash;
+    you can close this page.
+  </p>
+
+  <div id="errBox" class="err"></div>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<script>
+(function () {
+  "use strict";
+
+  // Public web config of the app's own Firebase project (the same
+  // values that ship inside the Android app; not a secret).
+  var firebaseConfig = {
+    apiKey: "AIzaSyA6f0KisoloL48ljfIRzh-cLA9pB5K-HcQ",
+    authDomain: "mohalla-help-exchange.firebaseapp.com",
+    projectId: "mohalla-help-exchange"
+  };
+
+  var APP_SCHEME = "pk.mohalla.mohalla_help_exchange";
+
+  var statusEl = document.getElementById("status");
+  var googleBtn = document.getElementById("googleBtn");
+  var appBtn = document.getElementById("appBtn");
+  var afterTxt = document.getElementById("afterTxt");
+  var errBox = document.getElementById("errBox");
+
+  function setStatus(t) { statusEl.textContent = t; }
+  function showError(msg) {
+    errBox.style.display = "block";
+    errBox.textContent = "Something went wrong: " + msg +
+      " Go back to the app and try again.";
+    setStatus("");
+    googleBtn.classList.remove("hidden");
+  }
+
+  var auth, db;
+  try {
+    firebase.initializeApp(firebaseConfig);
+    auth = firebase.auth();
+    db = firebase.firestore();
+  } catch (e) {
+    showError(e && e.message ? e.message : String(e));
+    return;
+  }
+
+  // 128-bit random one-time code (hex), the id of the handoff doc.
+  function randomCode() {
+    var bytes = new Uint8Array(16);
+    window.crypto.getRandomValues(bytes);
+    var hex = "";
+    for (var i = 0; i < bytes.length; i++) {
+      hex += ("0" + bytes[i].toString(16)).slice(-2);
+    }
+    return hex;
+  }
+
+  // First auth-state value (currentUser is not reliable until this).
+  function firstUser() {
+    return new Promise(function (resolve) {
+      var un = auth.onAuthStateChanged(
+        function (u) { un(); resolve(u); },
+        function () { un(); resolve(null); });
+    });
+  }
+
+  // We came back from Google: package the Firebase session into a
+  // one-time Firestore doc and deep-link back into the app.
+  async function handoff(user) {
+    setStatus("Signed in — opening the app…");
+    var idToken = await user.getIdToken();
+    var code = randomCode();
+    await db.collection("oauthReturns").doc(code).set({
+      idToken: idToken,
+      refreshToken: user.refreshToken,
+      uid: user.uid,
+      email: user.email || "",
+      displayName: user.displayName || "",
+      createdAt: firebase.firestore.FieldValue.serverTimestamp()
+    });
+    var intentUrl = "intent://auth?code=" + code +
+      "#Intent;scheme=" + APP_SCHEME +
+      ";package=" + APP_SCHEME + ";end";
+    appBtn.href = APP_SCHEME + "://auth?code=" + code;
+    appBtn.classList.remove("hidden");
+    afterTxt.classList.remove("hidden");
+    setStatus("Signed in.");
+    window.location.href = intentUrl;
+  }
+
+  googleBtn.addEventListener("click", function () {
+    googleBtn.classList.add("hidden");
+    setStatus("Opening Google…");
+    try {
+      var p = auth.signInWithRedirect(
+        new firebase.auth.GoogleAuthProvider());
+      if (p && p.catch) {
+        p.catch(function (e) {
+          showError(e && e.message ? e.message : String(e));
+        });
+      }
+    } catch (e) {
+      showError(e && e.message ? e.message : String(e));
+    }
+  });
+
+  // ---- on load ------------------------------------------------------
+  auth.getRedirectResult().then(async function (result) {
+    if (result && result.user) {
+      try {
+        await handoff(result.user);
+      } catch (e) {
+        showError(e && e.message ? e.message : String(e));
+      }
+      return;
+    }
+    // No redirect result. If a web session lingers from an earlier
+    // partial attempt, sign it out first so the button always starts
+    // a clean Google pick.
+    var u = await firstUser();
+    if (u) {
+      try { await auth.signOut(); } catch (e) { /* ignore */ }
+    }
+    setStatus("Sign in with your Google account to continue to the app.");
+    googleBtn.classList.remove("hidden");
+  }).catch(function (e) {
+    showError(e && e.message ? e.message : String(e));
+  });
+})();
+</script>
+</body>
+</html>
