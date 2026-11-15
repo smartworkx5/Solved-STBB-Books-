@@ -1,0 +1,3288 @@
+{
+ "book": "computer-10-en",
+ "chapters": [
+  {
+   "title": "Unit 1: Problem Solving and Algorithm Designing",
+   "lessons": [
+    {
+     "title": "Problem Solving and Its Steps",
+     "mcqs": [
+      {
+       "q": "What is a problem, as defined in this lesson?",
+       "options": [
+        "A task that has to be solved",
+        "A finished solution",
+        "A computer program",
+        "A list of answers"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: a task that has to be solved. The lesson defines a problem in exactly these words, and a finished solution or a program is the result of solving it, not the problem itself."
+      },
+      {
+       "q": "Which of the following is given in the lesson as an example of a problem?",
+       "options": [
+        "Writing a flowchart",
+        "Baking a cake",
+        "Running a program",
+        "Drawing a graph"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: baking a cake. The lesson says that 'to bake a cake' is a problem, because baking a cake is a task to be solved, and the steps for doing it form its algorithm."
+      },
+      {
+       "q": "What is the first step of problem solving?",
+       "options": [
+        "Implementing the solution",
+        "Choosing the best solution",
+        "Identifying and analyzing the problem",
+        "Measuring the results"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: identifying and analyzing the problem. The lesson states that to find a feasible solution, the first step is to identify and analyze the problem, which is also called defining the problem."
+      },
+      {
+       "q": "The first step of problem solving, 'Define the problem', means:",
+       "options": [
+        "Making a list of possible solutions",
+        "Identifying and describing the real problem",
+        "Trying out every solution",
+        "Checking whether the solution worked"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: identifying and describing the real problem. In the four steps of problem solving, defining the problem means identifying and describing the real problem before any solutions are made."
+      },
+      {
+       "q": "The second step of problem solving, 'Generate alternative solutions', means:",
+       "options": [
+        "Choosing the best solution",
+        "Measuring the results",
+        "Making a list of possible solutions",
+        "Describing the real problem"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: making a list of possible solutions. The lesson explains the second step as making a list of possible solutions, while choosing the best one belongs to the third step."
+      },
+      {
+       "q": "In the third step, 'Evaluate and select an alternative', we:",
+       "options": [
+        "Choose the best solution",
+        "List all possible solutions",
+        "Define the problem again",
+        "Write the final program"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: choose the best solution. Evaluating and selecting an alternative means looking at the possible solutions and choosing the best one to carry forward."
+      },
+      {
+       "q": "The fourth step, 'Implement and follow up on the solution', involves:",
+       "options": [
+        "Identifying the real problem",
+        "Making alternative solutions",
+        "Selecting an alternative",
+        "Measuring the results and seeing whether the solution worked"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: measuring the results and seeing whether the solution worked. The last step puts the chosen solution into practice and then follows up by measuring the results."
+      },
+      {
+       "q": "Which is the correct order of the four steps of problem solving?",
+       "options": [
+        "Define, Generate alternatives, Evaluate and select, Implement and follow up",
+        "Generate alternatives, Define, Implement, Evaluate",
+        "Implement, Define, Evaluate, Generate alternatives",
+        "Evaluate and select, Define, Generate alternatives, Implement"
+       ],
+       "answer": 0,
+       "why": "The correct answer is the order: define the problem, generate alternative solutions, evaluate and select an alternative, and then implement and follow up. The lesson lists the four steps in exactly this sequence."
+      },
+      {
+       "q": "To find a feasible solution to a problem, the first step is to:",
+       "options": [
+        "Write an algorithm",
+        "Identify and analyze the problem",
+        "Select the best alternative",
+        "Follow up on the results"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: identify and analyze the problem. The lesson repeats that the problem-solving process always begins with defining or identifying the problem, before solutions are generated."
+      },
+      {
+       "q": "In the cake example of the lesson, the steps for baking the cake are called its:",
+       "options": [
+        "Problem",
+        "Solution list",
+        "Algorithm",
+        "Evaluation"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: algorithm. The lesson explains that baking a cake is the problem, and the steps for doing it are its algorithm, which links this lesson to the next one on algorithms."
+      }
+     ],
+     "notes_html": "<h4>What is a problem?</h4>\n<p>A problem is a task that has to be solved. For example, <b>\"to bake a cake\"</b> is a problem — baking a cake is a task / problem to be solved, and the steps for doing it are its algorithm.</p>\n<h4>The first step of problem solving</h4>\n<p>To find a feasible solution to a problem, the first step is to <b>identify and analyze the problem</b> — in the problem-solving process, the first step is defining / identifying the problem.</p>\n<h4>The four steps of problem solving</h4>\n<ul>\n<li><b>1. Define the problem:</b> identifying and describing the real problem.</li>\n<li><b>2. Generate alternative solutions:</b> making a list of possible solutions.</li>\n<li><b>3. Evaluate and select an alternative:</b> choosing the best solution.</li>\n<li><b>4. Implement and follow up on the solution:</b> measuring the results and seeing whether the solution worked.</li>\n</ul>"
+    },
+    {
+     "title": "Algorithms: Advantages and Writing Algorithms",
+     "mcqs": [
+      {
+       "q": "What is an algorithm?",
+       "options": [
+        "A picture of a program",
+        "The step by step solution of a problem in simple language",
+        "A programming language",
+        "A type of data structure"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the step by step solution of a problem in simple language. The lesson defines an algorithm this way and adds that it is a set of instructions, steps or rules for solving a problem."
+      },
+      {
+       "q": "An algorithm is a set of:",
+       "options": [
+        "Pictures and symbols",
+        "Hardware devices",
+        "Instructions, steps or rules for solving a problem",
+        "Input devices"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: instructions, steps or rules for solving a problem. The lesson describes an algorithm as a set of instructions or steps or rules that are followed to solve a problem."
+      },
+      {
+       "q": "Which of the following is an advantage of developing an algorithm?",
+       "options": [
+        "It gives the best possible answer every time",
+        "It removes the need for a computer",
+        "It works without any input",
+        "It never needs clear steps"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: it gives the best possible answer every time. The lesson lists this as an advantage of algorithms, along with accuracy and solving similar problems again and again."
+      },
+      {
+       "q": "Algorithms help in work that needs:",
+       "options": [
+        "Guessing",
+        "Accuracy, and solving similar problems again and again",
+        "No output",
+        "Only one-time use"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: accuracy, and solving similar problems again and again. The lesson says an algorithm helps in work needing accuracy and in solving similar problems repeatedly."
+      },
+      {
+       "q": "Computer programs can be built with the help of:",
+       "options": [
+        "Flowchart symbols only",
+        "Data structures",
+        "Algorithms",
+        "Logic gates"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: algorithms. The lesson clearly states that computer programs can be built with the help of algorithms, because a program follows the steps set out in the algorithm."
+      },
+      {
+       "q": "In a good algorithm, the input and output are:",
+       "options": [
+        "Hidden",
+        "Precise",
+        "Optional",
+        "Always equal"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: precise. The lesson says that in a good algorithm the input and output are precise and every step is clear, so the result can be trusted."
+      },
+      {
+       "q": "Which quality belongs to a good algorithm?",
+       "options": [
+        "Every step is confusing",
+        "It can be used in only one language",
+        "Every step is clear and it can be used in any programming language",
+        "It has no input or output"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: every step is clear and it can be used in any programming language. The lesson lists precise input and output, clear steps and use in any programming language as marks of a good algorithm."
+      },
+      {
+       "q": "In the algorithm to find the greater of two numbers, which variables are declared?",
+       "options": [
+        "base, height and area",
+        "num1, num2 and greater",
+        "sum and average",
+        "a and b only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: num1, num2 and greater. Step 2 of that algorithm declares the variables num1, num2 and greater, and then the two values are read and compared."
+      },
+      {
+       "q": "In the algorithm for the area of a triangle, the formula applied is:",
+       "options": [
+        "area = base + height",
+        "area = (base x height) x 2",
+        "area = base / height",
+        "area = (base x height) / 2"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: area = (base x height) / 2. Step 4 of the triangle algorithm applies the formula Area = (base x height) / 2 before the area is displayed."
+      },
+      {
+       "q": "In the cake-baking algorithm, which step comes immediately after 'Preheat the oven'?",
+       "options": [
+        "Grease a pan",
+        "Gather the ingredients",
+        "Put the pan in the oven",
+        "Set a timer"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: gather the ingredients. The lesson gives the cake steps in order: Start, preheat the oven, gather the ingredients, mix them, grease a pan, and so on until End."
+      }
+     ],
+     "notes_html": "<h4>What is an algorithm?</h4>\n<p>An <b>algorithm</b> is the step by step solution of a problem in simple language. It is a set of instructions / steps / rules for solving a problem.</p>\n<h4>Advantages of developing algorithms</h4>\n<ul>\n<li>An algorithm gives the best possible answer every time.</li>\n<li>It helps in work needing accuracy and in solving similar problems again and again.</li>\n<li>Computer programs can be built with the help of algorithms.</li>\n<li>In a good algorithm the input and output are precise, every step is clear, and it can be used in any programming language.</li>\n</ul>\n<h4>Algorithm: find the greater of two numbers</h4>\n<p>Step 1: Start</p>\n<p>Step 2: Declare variables num1, num2 and greater</p>\n<p>Step 3: Read values num1 and num2</p>\n<p>Step 4: If num1 is greater than num2 then greater = num1, else greater = num2</p>\n<p>Step 5: Display greater</p>\n<p>Step 6: Stop</p>\n<h4>Algorithm: area of a triangle</h4>\n<p>Step 1: Start</p>\n<p>Step 2: Declare variables base, height and area</p>\n<p>Step 3: Read values base and height</p>\n<p>Step 4: Apply formula {Area = (base x height) / 2}, i.e. area = (base x height) / 2</p>\n<p>Step 5: Display area</p>\n<p>Step 6: Stop</p>\n<h4>Ordering the steps: baking a cake</h4>\n<p>The steps of the cake-baking algorithm in correct order: Start; Preheat the oven; Gather the ingredients; Mix together the ingredients to make the batter; Grease a pan; Pour the batter into the pan; Put the pan in the oven; Set a timer; When the timer goes off, take the pan out of the oven; End.</p>"
+    },
+    {
+     "title": "Flowcharts: Symbols, Advantages and Drawing Flowcharts",
+     "mcqs": [
+      {
+       "q": "A flowchart is:",
+       "options": [
+        "A written list of instructions",
+        "The pictorial or graphical representation of the problem-solving process",
+        "A C++ program",
+        "A data structure"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the pictorial or graphical representation of the problem-solving process. The lesson defines a flowchart this way and adds that it shows the logic of a program graphically."
+      },
+      {
+       "q": "Which flowchart symbol is used for Start and Stop?",
+       "options": [
+        "Parallelogram",
+        "Rectangle",
+        "Diamond",
+        "Oval"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: oval. The symbol table in the lesson shows the oval for Start and Stop, while the parallelogram, rectangle and diamond have different uses."
+      },
+      {
+       "q": "The parallelogram symbol in a flowchart is used for:",
+       "options": [
+        "Processing",
+        "Decision",
+        "Input / Output",
+        "Start and Stop"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Input / Output. According to the lesson's symbol table, the parallelogram is used for input and output steps in a flowchart."
+      },
+      {
+       "q": "The rectangle symbol in a flowchart is used for:",
+       "options": [
+        "Processing - calculation steps",
+        "Decision",
+        "Input / Output",
+        "Start and Stop"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: processing, that is, calculation steps. The lesson's symbol table assigns the rectangle to processing steps where calculations are performed."
+      },
+      {
+       "q": "The diamond symbol in a flowchart is used for:",
+       "options": [
+        "Displaying results",
+        "A decision, where a choice is needed",
+        "Storing data",
+        "Connecting pages"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a decision, where a choice is needed. The lesson states that the diamond is used for a decision, and in the flowchart pattern the diamond appears wherever a choice is needed."
+      },
+      {
+       "q": "One advantage of designing a flowchart is that it:",
+       "options": [
+        "Removes the need for an algorithm",
+        "Compiles the program",
+        "Communicates the logic of a program to others and makes it easy to understand",
+        "Executes the program automatically"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it communicates the logic of a program to others and makes it easy to understand. The lesson lists this as an advantage, along with being a useful program document."
+      },
+      {
+       "q": "While coding a program, a flowchart works as a:",
+       "options": [
+        "Compiler",
+        "Guide or blueprint",
+        "Logic gate",
+        "Data type"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a guide or blueprint. The lesson says flowcharts work as a guide or blueprint while coding a program, because they show the operations and their sequence visually beforehand."
+      },
+      {
+       "q": "In the gross salary problem, the house rent allowance is:",
+       "options": [
+        "30% of basic salary",
+        "10% of basic salary",
+        "50% of basic salary",
+        "20% of basic salary"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: 20% of basic salary. The lesson's gross salary flowchart adds 20% house rent and 30% medical allowance to the basic salary."
+      },
+      {
+       "q": "According to the lesson, Gross Salary is equal to:",
+       "options": [
+        "100% of Basic Salary",
+        "150% of Basic Salary",
+        "120% of Basic Salary",
+        "130% of Basic Salary"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 150% of Basic Salary. Basic salary plus 20% house rent plus 30% medical allowance makes 150% of the basic salary, as the lesson concludes."
+      },
+      {
+       "q": "In the gross salary flowchart, the 'Input basic salary' step is drawn in a:",
+       "options": [
+        "Oval",
+        "Diamond",
+        "Parallelogram",
+        "Rectangle"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: parallelogram. Input steps use the parallelogram symbol, so 'Input basic salary' and 'Display Gross Salary' are parallelograms, while the calculations are rectangles."
+      }
+     ],
+     "notes_html": "<h4>What is a flowchart?</h4>\n<p>A <b>flowchart</b> shows the logic of a program graphically. It is the pictorial / graphical representation of the problem-solving process.</p>\n<h4>Flowchart symbols</h4>\n<table>\n<tr><th>Symbol</th><th>Used for</th></tr>\n<tr><td>Oval</td><td>Start and Stop</td></tr>\n<tr><td>Parallelogram</td><td>Input / Output</td></tr>\n<tr><td>Rectangle</td><td>Processing — calculation steps</td></tr>\n<tr><td>Diamond</td><td>Decision — where a choice is needed</td></tr>\n</table>\n<h4>Advantages of designing flowcharts</h4>\n<ul>\n<li>Flowcharts communicate the logic of a program to others and make it easy to understand.</li>\n<li>They are useful program documents with which a program can be quickly understood or its logic changed.</li>\n<li>They work as a guide / blueprint while coding a program.</li>\n<li>They show the operations of solving a problem and their sequence visually before writing it.</li>\n</ul>\n<h4>Flowchart: gross salary</h4>\n<p>Problem: calculate gross salary by adding 20% house rent and 30% medical allowances in basic salary. Flowchart: Start (oval) — Input basic salary (parallelogram) — House Rent = Basic Salary x 20 / 100 and Medical Allowance = Basic Salary x 30 / 100 (rectangle) — Gross Salary = Basic Salary + House Rent + Medical Allowance (rectangle) — Display Gross Salary (parallelogram) — Stop (oval). So Gross Salary = 150% of Basic Salary.</p>\n<h4>Drawing flowcharts for all the algorithms of this unit</h4>\n<p>The flowchart of every algorithm follows the same pattern: Start (oval) — Input (parallelogram) — calculation steps (rectangle) — Display result (parallelogram) — Stop (oval); where a choice is needed, the decision diamond is used. Making tea, sum of two numbers, average of three numbers, volume of a box, percentage, greater number, area of a triangle and gross salary — each flowchart is made by turning that algorithm's steps into these shapes; the model in the unit (the sum-and-percentage flowchart with the percent &gt; 70 decision) is an example of it.</p>"
+    },
+    {
+     "title": "Data Structures: Array, Stack and Queue",
+     "mcqs": [
+      {
+       "q": "Which of the following is a non-linear data structure?",
+       "options": [
+        "Array",
+        "Stack",
+        "Queue",
+        "Graph"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: graph. The lesson states that a graph is a non-linear data structure whose elements are not connected in sequence, while array, queue and stack are linear data structures."
+      },
+      {
+       "q": "Every element of an array is identified by:",
+       "options": [
+        "A pointer",
+        "An index",
+        "A queue",
+        "A root"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: an index. The lesson says every element of an array is identified by an index, and indexes are consecutive numbers with which any element can be directly found and used."
+      },
+      {
+       "q": "Traversing an array means:",
+       "options": [
+        "Deleting all its elements",
+        "Sorting its elements",
+        "Accessing each and every element of the array",
+        "Copying the array"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: accessing each and every element of the array. The lesson defines traversing an array in exactly these words, and without an index it would not be known which element is stored where."
+      },
+      {
+       "q": "When data is pushed in a stack, it means data is:",
+       "options": [
+        "Removed",
+        "Inserted",
+        "Searched",
+        "Sorted"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: inserted. The lesson explains that when data is pushed in a stack, data is inserted, and the new element enters from the top of the stack."
+      },
+      {
+       "q": "In a stack, the Pop operation:",
+       "options": [
+        "Adds an element at the rear",
+        "Removes the front element",
+        "Removes the top element",
+        "Checks if the stack is full"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it removes the top element. In the sketch of a stack in the lesson, with Push a new element enters from the top and with Pop the top element is removed."
+      },
+      {
+       "q": "A stack is in the Overflow state when:",
+       "options": [
+        "It is completely empty",
+        "It is completely full and nothing can be added to it",
+        "It has only one element",
+        "An element is removed from it"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when it is completely full and nothing can be added to it. The lesson defines the overflow state of a stack in exactly this way."
+      },
+      {
+       "q": "In a queue, the Enqueue operation makes a new element enter at:",
+       "options": [
+        "The front end",
+        "The top",
+        "The middle",
+        "The rear end"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: the rear end. The lesson's queue sketch shows that with Enqueue a new element enters at the rear end of the queue."
+      },
+      {
+       "q": "In a queue, the Dequeue operation removes an element from:",
+       "options": [
+        "The rear end",
+        "The front end",
+        "The top",
+        "Any position"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the front end. According to the lesson, with Dequeue an element is removed from the front end of the queue, which is the opposite end from where elements enter."
+      },
+      {
+       "q": "A stack works in which order?",
+       "options": [
+        "FIFO - first in, first out",
+        "Random order",
+        "LIFO / FILO - last in, first out",
+        "Alphabetical order"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: LIFO / FILO, last in, first out. The comparison table in the lesson says a stack works in LIFO order because data is added or removed only from the top."
+      },
+      {
+       "q": "A queue works in which order?",
+       "options": [
+        "FIFO - first in, first out",
+        "LIFO - last in, first out",
+        "FILO - first in, last out",
+        "No fixed order"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: FIFO, first in, first out. The lesson's stack-versus-queue table states that a queue works in FIFO order, with enqueue and dequeue as its operations."
+      }
+     ],
+     "notes_html": "<h4>Linear and non-linear data structures</h4>\n<p>A <b>graph</b> is a non-linear data structure; its elements are not connected in sequence. Array, queue and stack are linear data structures.</p>\n<h4>Array and the need of an index</h4>\n<p>Every element of an array is identified by an <b>index</b>; indexes are a set of consecutive numbers with which any element can be directly found and used. Without an index, it would not be known which element is stored where. <b>Traversing</b> an array means accessing each and every element of the array.</p>\n<h4>Stack: push, pop and overflow</h4>\n<p>When data is <b>pushed</b> in a stack, it means data is inserted. In the sketch of a stack: with Push a new element enters from the top and with Pop the top element is removed; when the stack is completely full it is in the <b>Overflow</b> state and nothing can be added to it.</p>\n<h4>Queue: enqueue and dequeue</h4>\n<p>In the sketch of a queue: with <b>Enqueue</b> a new element enters at the rear end and with <b>Dequeue</b> an element is removed from the front end.</p>\n<h4>Stack vs queue</h4>\n<table>\n<tr><th>Stack</th><th>Queue</th></tr>\n<tr><td>Data is added or removed only from the top</td><td>A new element enters at the rear end and the old element is removed from the front end</td></tr>\n<tr><td>Works in LIFO / FILO order (last in, first out)</td><td>Works in FIFO order (first in, first out)</td></tr>\n<tr><td>Operations are push and pop</td><td>Operations are enqueue and dequeue</td></tr>\n</table>"
+    },
+    {
+     "title": "Tree and Graph Data Structures",
+     "mcqs": [
+      {
+       "q": "A tree is a non-linear data structure that stores data in:",
+       "options": [
+        "A sequence",
+        "A hierarchical manner",
+        "A circular manner",
+        "Random order"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a hierarchical manner. The lesson defines a tree as a non-linear data structure that stores data hierarchically and shows the hierarchical relationship between elements."
+      },
+      {
+       "q": "In a binary tree, each node can have a maximum of:",
+       "options": [
+        "One child",
+        "Three children",
+        "Two children",
+        "Unlimited children"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: two children. The lesson states that in a binary tree each node can have a maximum of two nodes, that is, two children."
+      },
+      {
+       "q": "A graph is made up of:",
+       "options": [
+        "A root and children only",
+        "Nodes or vertices and edges joining them",
+        "Rows and columns",
+        "Push and pop operations"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: nodes or vertices and edges joining them. The lesson describes a graph in these terms and adds that it has no root or child."
+      },
+      {
+       "q": "Which statement about a graph is correct?",
+       "options": [
+        "It has one root node",
+        "Every node has one parent",
+        "It has no root or child, and each node can have many edges",
+        "It can never form a cycle"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it has no root or child, and each node can have many edges. The lesson's tree-versus-graph table gives this as a key difference, and a cycle can also be formed in a graph."
+      },
+      {
+       "q": "Which structure can form a cycle?",
+       "options": [
+        "Tree",
+        "Graph",
+        "Array",
+        "Stack"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: graph. The comparison table in the lesson says a tree has no cycle, while in a graph a cycle can also be formed."
+      },
+      {
+       "q": "A tree has:",
+       "options": [
+        "No root node",
+        "Many root nodes",
+        "One root node, and every node has one parent with children",
+        "No children at all"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: one root node, and every node has one parent with children. The lesson's comparison table states this for a tree, in contrast to a graph which has no root or child."
+      },
+      {
+       "q": "What does a tree show between its elements?",
+       "options": [
+        "A sequential relationship",
+        "A hierarchical relationship",
+        "No relationship",
+        "A circular relationship"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a hierarchical relationship. The lesson says a tree shows the hierarchical relationship between elements, which is why its data is stored in a hierarchical manner."
+      },
+      {
+       "q": "In the lesson's tree drawing with six nodes, the root node is:",
+       "options": [
+        "Node 3",
+        "Node 6",
+        "Node 1",
+        "Node 4"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: node 1. In the drawing described in the lesson, root node 1 is at the top, its children are 2 and 3, node 2 has children 4 and 5, and node 3 has child 6."
+      },
+      {
+       "q": "In the lesson's graph drawing with five nodes, the edges:",
+       "options": [
+        "Must join a parent to a child",
+        "Can join any two nodes, and a cycle can be formed",
+        "Must form a straight line",
+        "Are not allowed"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: edges can join any two nodes, and a cycle can be formed. The lesson's example joins nodes such as 1-2, 2-3, 3-4, 4-5, 5-1 and 1-3, which includes a cycle."
+      },
+      {
+       "q": "Which of the following is true for a tree but not for a graph?",
+       "options": [
+        "It is made of nodes",
+        "It has edges",
+        "It has no cycle",
+        "It is non-linear"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it has no cycle. Both trees and graphs are non-linear and have nodes and edges, but the lesson's table says a tree has no cycle while a graph can form one."
+      }
+     ],
+     "notes_html": "<h4>Tree</h4>\n<p>A <b>tree</b> is a non-linear data structure that stores data in a hierarchical manner; it shows the hierarchical relationship between elements. In a <b>binary tree</b>, each node can have a maximum of two nodes (children).</p>\n<h4>Graph</h4>\n<p>A <b>graph</b> has nodes / vertices and edges joining them. It has no root or child; each node can have many edges, and a cycle can also be formed.</p>\n<h4>Tree vs graph</h4>\n<table>\n<tr><th>Tree</th><th>Graph</th></tr>\n<tr><td>Shows hierarchical data</td><td>Nodes / vertices are joined by edges</td></tr>\n<tr><td>Has one root node; every node has one parent with children</td><td>No root or child; each node can have many edges</td></tr>\n<tr><td>No cycle</td><td>A cycle can also be formed</td></tr>\n</table>\n<h4>Drawing a tree with six nodes and a graph with five nodes</h4>\n<p><b>(a) Tree:</b> root node 1 at the top; its children 2 and 3; node 2's children 4 and 5; node 3's child 6 — six nodes in all, every edge from parent to child, no cycle.</p>\n<p><b>(b) Graph:</b> five nodes 1 to 5; edges can join any two nodes, for example 1-2, 2-3, 3-4, 4-5, 5-1 and 1-3 — a cycle can be formed.</p>"
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Basics of Programming in C++",
+   "lessons": [
+    {
+     "title": "Computer Programs and Programming Languages",
+     "mcqs": [
+      {
+       "q": "A computer program is:",
+       "options": [
+        "A collection or set of instructions that a computer understands to perform tasks",
+        "A single instruction",
+        "A hardware device",
+        "A type of translator"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: a collection or set of instructions that a computer understands to perform tasks. The lesson defines a computer program in exactly these words."
+      },
+      {
+       "q": "The person who writes programs is called a:",
+       "options": [
+        "Compiler",
+        "Programmer",
+        "Assembler",
+        "Interpreter"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: programmer. The lesson says the person who writes programs is called a programmer, while a compiler is a specialized program that converts instructions into machine-readable form."
+      },
+      {
+       "q": "Specialized programs such as a compiler convert the programmer's instructions into:",
+       "options": [
+        "Flowcharts",
+        "Algorithms",
+        "Machine-readable instructions",
+        "High-level language"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: machine-readable instructions. The lesson explains that specialized programs such as a compiler convert those instructions into machine-readable instructions."
+      },
+      {
+       "q": "High-level languages have syntax that is:",
+       "options": [
+        "Easily readable by machines only",
+        "Written in 0 and 1",
+        "Hard for humans to read",
+        "Easily readable by humans, closer to human languages with English-like words"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: easily readable by humans, closer to human languages with English-like words. The lesson contrasts high-level languages with low-level languages, whose syntax is easily readable by machines and hard for humans."
+      },
+      {
+       "q": "Low-level languages have syntax that is:",
+       "options": [
+        "Easily readable by humans",
+        "Easily readable by machines and hard for humans",
+        "Written in English-like words",
+        "Object-oriented"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: easily readable by machines and hard for humans. The lesson gives this as the defining feature of low-level languages, the opposite of high-level languages."
+      },
+      {
+       "q": "Machine language is written in:",
+       "options": [
+        "Simple English words",
+        "0 and 1 (binary)",
+        "English-like words",
+        "Mnemonics"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 0 and 1, that is, binary. The lesson's comparison table says machine language is at the lowest level and is written in 0 and 1."
+      },
+      {
+       "q": "Which statement about machine language is correct?",
+       "options": [
+        "It needs an assembler",
+        "It is a second-generation language",
+        "It is executed directly by the computer and needs no translator",
+        "It is written in simple English"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it is executed directly by the computer and needs no translator. The lesson's table also calls machine language the first-generation language."
+      },
+      {
+       "q": "Assembly language needs which translator to convert it into machine code?",
+       "options": [
+        "Compiler",
+        "Assembler",
+        "Interpreter",
+        "Linker"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: assembler. The lesson states that assembly language, which is one level above machine language and written in simple English, needs an assembler to convert it into machine code."
+      },
+      {
+       "q": "Which of the following is one of the five common high-level languages named in the lesson?",
+       "options": [
+        "Assembly language",
+        "Machine language",
+        "PHP",
+        "Binary language"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: PHP. The five high-level languages named in the unit are C++, Java, Python, Visual Basic and PHP, while assembly and machine language are low-level."
+      },
+      {
+       "q": "C++ was developed as:",
+       "options": [
+        "A replacement for machine language",
+        "An enhancement of the C language to include the object-oriented concept",
+        "A second-generation language",
+        "A database language"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: an enhancement of the C language to include the object-oriented concept. The lesson adds that this was done to make writing programs easier and more pleasant."
+      }
+     ],
+     "notes_html": "<h4>What is a computer program?</h4>\n<p>A computer program is a collection / set of <b>instructions</b> that is understood by a computer to perform tasks. The person who writes programs is called a programmer, and specialized programs such as a compiler convert those instructions into machine-readable instructions.</p>\n<h4>Low-level and high-level languages</h4>\n<p>High-level languages have syntax that is <b>easily readable by humans</b> — they are closer to human languages and are written in English-like words. Low-level languages have syntax that is easily readable by machines and hard for humans.</p>\n<h4>Machine language vs assembly language</h4>\n<table>\n<tr><th>Machine language</th><th>Assembly language</th></tr>\n<tr><td>At the lowest level; written in 0 and 1 (binary)</td><td>One level above machine language; written in simple English language, easy for humans to read, write and maintain</td></tr>\n<tr><td>Executed directly by the computer; needs no translator</td><td>Needs an assembler to convert it into machine code</td></tr>\n<tr><td>First-generation language</td><td>Second-generation language</td></tr>\n</table>\n<h4>Five common high-level languages</h4>\n<p>Languages named in the unit: <b>C++, Java, Python, Visual Basic and PHP</b>. C++ is a general-purpose high-level language developed as an enhancement of the C language to include the object-oriented concept and to make writing programs easier and more pleasant.</p>"
+    },
+    {
+     "title": "Translators, IDE and Program Errors",
+     "mcqs": [
+      {
+       "q": "A compiler translates code:",
+       "options": [
+        "Line by line",
+        "Only when an error occurs",
+        "All at once, translating the whole program in one session and creating an executable file",
+        "Without creating any file"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: all at once, translating the whole program in one session and creating an executable file. The lesson contrasts this with an interpreter, which translates line by line."
+      },
+      {
+       "q": "An interpreter translates code:",
+       "options": [
+        "Line by line and reports the error as soon as it is found",
+        "All at once in one session",
+        "Only after the program ends",
+        "Into a flowchart"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: line by line, and it reports the error as soon as it is found. This is the interpreter's key difference from a compiler in the lesson's comparison table."
+      },
+      {
+       "q": "Source code is:",
+       "options": [
+        "The translated form that the computer runs",
+        "A program written in any language, as the programmer writes it",
+        "The executable file",
+        "The output of a program"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a program written in any language, as the programmer writes it. The lesson defines source code this way, while the translated form that the computer runs is the object or machine code."
+      },
+      {
+       "q": "Object code or machine code is:",
+       "options": [
+        "The code typed by the programmer",
+        "A comment in the program",
+        "The translated form that the computer runs",
+        "A function prototype"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the translated form that the computer runs. The lesson explains that the translator converts the source code into the target machine language, which is the object code."
+      },
+      {
+       "q": "An IDE facilitates a programmer to do which of the following in one environment?",
+       "options": [
+        "Edit source code, complete and highlight syntaxes, and debug and compile codes",
+        "Only print programs",
+        "Only draw flowcharts",
+        "Only store data"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: edit source code, complete and highlight syntaxes, and debug and compile codes, all in one environment. This is how the lesson describes an Integrated Development Environment."
+      },
+      {
+       "q": "One advantage of using an IDE is that it gives:",
+       "options": [
+        "Only a text editor",
+        "Compilation, linking, loading and debugging tools in a single environment",
+        "Free hardware",
+        "Machine code without translation"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: compilation, linking, loading and debugging tools in a single environment. The lesson lists this first among the advantages of using an IDE."
+      },
+      {
+       "q": "In an IDE, refactoring allows:",
+       "options": [
+        "Running the program faster",
+        "Comprehensive and mistake-free renaming",
+        "Translating code line by line",
+        "Drawing logic circuits"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: comprehensive and mistake-free renaming. The lesson lists refactoring for renaming among the IDE's facilities, together with syntax highlighting and autocomplete."
+      },
+      {
+       "q": "Which facility of an IDE improves the programming workflow by suggesting code?",
+       "options": [
+        "Code completion",
+        "Overflow",
+        "Traversing",
+        "Enqueue"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: code completion. The lesson says code completion improves the programming workflow, and the IDE also gives facilities such as syntax highlighting and autocomplete."
+      },
+      {
+       "q": "How does an IDE help ensure top-quality code?",
+       "options": [
+        "It writes the whole program itself",
+        "It automatically checks for errors",
+        "It removes all variables",
+        "It hides the source code"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it automatically checks for errors to ensure top-quality code. The lesson lists automatic error checking among the advantages of using an IDE."
+      },
+      {
+       "q": "A program with a logical error:",
+       "options": [
+        "Stops immediately with a syntax message",
+        "Is caught by the compiler itself",
+        "Keeps running but gives a wrong result, so the user notices it",
+        "Cannot be written in C++"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it keeps running but gives a wrong result, so the user notices it. The lesson says all errors detected by users are typically logical errors, while syntax errors are caught by the compiler or IDE itself."
+      }
+     ],
+     "notes_html": "<h4>Compiler and interpreter</h4>\n<table>\n<tr><th>Compiler</th><th>Interpreter</th></tr>\n<tr><td>Translates codes all at once — it translates the whole program in one session and creates an executable file</td><td>Translates codes line-by-line and reports the error as soon as it is found</td></tr>\n</table>\n<h4>Source code and object code</h4>\n<p><b>Source code</b> is a program written in any language, as the programmer writes it. <b>Object / machine code</b> is the translated form that the computer runs; the translator converts the source code into the target machine language.</p>\n<h4>Integrated Development Environment (IDE)</h4>\n<p>An IDE facilitates a programmer to edit source code, complete and highlight syntaxes, and debug and compile codes — all of these in one environment.</p>\n<h4>Advantages of using an IDE</h4>\n<ul>\n<li>An IDE gives compilation, linking, loading and debugging tools in a single environment.</li>\n<li>Code completion improves the programming workflow.</li>\n<li>It automatically checks for errors to ensure top-quality code.</li>\n<li>Refactoring allows comprehensive and mistake-free renaming.</li>\n<li>It also gives facilities such as syntax highlighting and autocomplete.</li>\n</ul>\n<h4>Program errors</h4>\n<p>All errors detected by users are typically <b>logical errors</b>: a program with a logical error keeps running but gives a wrong result, so the user notices it from the wrong result; syntax errors are caught by the compiler / IDE itself.</p>"
+    },
+    {
+     "title": "Variables and Data Types",
+     "mcqs": [
+      {
+       "q": "Variable names in C++ can contain:",
+       "options": [
+        "Letters, digits and underscores",
+        "Only letters",
+        "Spaces and symbols",
+        "Reserved words"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: letters, digits and underscores. The lesson's naming rules say allowed variable names can contain letters, digits and underscores, begin with a letter or underscore, and contain no whitespaces."
+      },
+      {
+       "q": "A variable name must begin with:",
+       "options": [
+        "A digit",
+        "A letter or an underscore",
+        "A space",
+        "A reserved word"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a letter or an underscore. The lesson's rules state that names begin with a letter or an underscore, which is why names like _average and myVar1 are valid."
+      },
+      {
+       "q": "Which of these is NOT allowed in a variable name?",
+       "options": [
+        "Digits",
+        "Underscores",
+        "Whitespaces",
+        "Letters"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: whitespaces. The lesson's naming rules say a variable name cannot contain whitespaces, cannot be a reserved word, and cannot be the same as a data type."
+      },
+      {
+       "q": "The char data type stores a single character and takes:",
+       "options": [
+        "4 bytes",
+        "8 bytes",
+        "2 bytes",
+        "1 byte"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: 1 byte. The lesson's data type table shows char storing a single character in 1 byte of memory."
+      },
+      {
+       "q": "The int data type stores whole numbers and takes:",
+       "options": [
+        "1 byte",
+        "4 bytes",
+        "8 bytes",
+        "No space"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 4 bytes. According to the lesson's table, int stores whole numbers in 4 bytes, the same space as float."
+      },
+      {
+       "q": "Which data type takes the most space in memory?",
+       "options": [
+        "char",
+        "int",
+        "double",
+        "bool"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: double. The lesson's table shows double storing fractional numbers in 8 bytes, which the lesson notes is the most space among the listed types."
+      },
+      {
+       "q": "The bool data type stores:",
+       "options": [
+        "A single character",
+        "True or false, as 1 or 0",
+        "Long text values",
+        "Fractional numbers only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: true or false, shown as 1 for true and 0 for false. The lesson's data type table gives this meaning for bool."
+      },
+      {
+       "q": "In C++, strings are supported through:",
+       "options": [
+        "The standard string class",
+        "The char type alone",
+        "The bool type",
+        "The void keyword"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: the standard string class. The lesson says the C++ library supports strings through the standard string class, and a string is not a fundamental type but behaves similarly in its most basic use."
+      },
+      {
+       "q": "A variable declaration tells the compiler:",
+       "options": [
+        "The final output of the program",
+        "Where and how much storage to create for the variable, specifying a data type and a name",
+        "Which function to call first",
+        "The value of every other variable"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: where and how much storage to create for the variable, specifying a data type and a name. The lesson gives the declaration form as: data_type variable_name;"
+      },
+      {
+       "q": "Initialization of a variable means:",
+       "options": [
+        "Declaring it without any value",
+        "Assigning an initial value in the declaration itself, with an equal sign",
+        "Deleting the variable",
+        "Changing its data type"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: assigning an initial value in the declaration itself, with an equal sign. The lesson gives the form data_type variable_name = value; and notes that a value can also be assigned later."
+      }
+     ],
+     "notes_html": "<h4>Rules for naming a variable</h4>\n<p>Allowed names for declaring a variable can contain <b>letters, digits and underscores</b>. Names begin with a letter or an underscore, cannot contain whitespaces, cannot be one of the reserved words, and cannot be the same as a data type.</p>\n<h4>Ten meaningful and valid variable names</h4>\n<p>studentName, totalMarks, firstName, lastName, rollNo, _average, myVar1, age2, price, class10 — all begin with a letter or an underscore, contain letters, digits and underscores, have no whitespace, use no reserved word, and are all shorter than 32 characters.</p>\n<h4>Data types and memory size</h4>\n<table>\n<tr><th>Data type</th><th>Stores</th><th>Space in memory</th></tr>\n<tr><td>char (character)</td><td>A single character</td><td>1 byte</td></tr>\n<tr><td>int (integer)</td><td>Whole numbers</td><td>4 bytes</td></tr>\n<tr><td>float (floating point)</td><td>Fractional numbers</td><td>4 bytes</td></tr>\n<tr><td>double (double floating point)</td><td>Fractional numbers</td><td>8 bytes — the most space</td></tr>\n<tr><td>bool</td><td>True or false — 0 (false) or 1 (true)</td><td>—</td></tr>\n</table>\n<h4>Strings in C++</h4>\n<p>Strings are variables that store non-numerical values longer than one single character. The C++ language library supports strings through the standard <b>string class</b>; a string is not a fundamental type but behaves in a similar way to fundamental types in its most basic use; it can be declared without an initial value and assigned a value during execution.</p>\n<h4>Declaring and initializing a variable</h4>\n<p>A <b>declaration</b> tells the compiler where and how much storage to create for the variable; it specifies a data type and a name: <code>data_type variable_name;</code> <b>Initialization</b> assigns an initial value in the declaration itself, with an equal sign: <code>data_type variable_name = value;</code> Variables do not need to be assigned initial values; a value can also be assigned later.</p>"
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Input/Output Handling in C++",
+   "lessons": [
+    {
+     "title": "Input and Output Streams, Header Files and Input Functions",
+     "mcqs": [
+      {
+       "q": "The C++ header file <iostream> contains:",
+       "options": [
+        "Only graphics functions",
+        "The function prototypes or definitions for the standard Input and Output functions",
+        "Logic gate definitions",
+        "String class templates only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the function prototypes or definitions for the standard Input and Output functions. The lesson states this directly about the <iostream> header file."
+      },
+      {
+       "q": "An I/O Stream is a standard library file that contains definitions of:",
+       "options": [
+        "Standard Input and Output streams",
+        "Logic circuits",
+        "Data structures",
+        "Scratch blocks"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: Standard Input and Output streams. The lesson defines I/O Stream as a standard library file containing definitions of the standard input and output streams."
+      },
+      {
+       "q": "The extraction operator (>>) is used with cin for:",
+       "options": [
+        "Output stream",
+        "Input stream, to read data from the standard input device",
+        "Comments",
+        "Assignment"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: input stream, to read data from the standard input device. The lesson says cin reads data from the standard input device with the extraction operator (>>)."
+      },
+      {
+       "q": "The insertion operator (<<) is used with cout for:",
+       "options": [
+        "Input stream",
+        "Deleting data",
+        "Output stream",
+        "Storing strings"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: output stream. The lesson states that the insertion operator (<<) is used for the output stream with cout, the pair of the extraction operator used with cin."
+      },
+      {
+       "q": "The function gets() stands for:",
+       "options": [
+        "Get symbol",
+        "Get stream",
+        "Get string",
+        "Get screen"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: get string. The lesson explains that gets() stands for get string and reads a string of characters from the standard input, storing them until a newline character."
+      },
+      {
+       "q": "gets() reads a string of characters from the standard input and stores them until:",
+       "options": [
+        "A tab character",
+        "A newline character",
+        "The program ends",
+        "A space is pressed"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a newline character. The lesson describes gets() as reading and storing characters until a newline character is reached."
+      },
+      {
+       "q": "Which input function needs pressing the Enter key after entering the character?",
+       "options": [
+        "getch()",
+        "getche()",
+        "getchar()",
+        "gets()"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: getchar(). The lesson notes that getchar() needs pressing the Enter key from the keyboard after entering the character, unlike getch() and getche()."
+      },
+      {
+       "q": "The getch() and getche() functions are included in which header file?",
+       "options": [
+        "<iostream>",
+        "<conio.h>",
+        "<cmath>",
+        "<cstdio>"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: <conio.h>. The lesson states that getch() and getche() are included in the <conio.h> header file, which stands for Console Input and Output."
+      },
+      {
+       "q": "In the name conio.h, 'conio' relates to:",
+       "options": [
+        "Control Input Output",
+        "Console Input and Output",
+        "Constant Input Output",
+        "Common Input Output"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: Console Input and Output. The lesson expands <conio.h> as Console Input and Output, the header file holding getch() and getche()."
+      },
+      {
+       "q": "Which operator reads data into a variable from the keyboard in C++?",
+       "options": [
+        "<< with cout",
+        ">> with cin",
+        "&& with if",
+        "++ with a loop"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: >> with cin. The lesson says cin reads data from the standard input device with the extraction operator (>>), while << with cout is for output."
+      }
+     ],
+     "notes_html": "<h4>The &lt;iostream&gt; header file</h4>\n<p>The C++ header file <b>&lt;iostream&gt;</b> contains the function prototypes / definitions for the standard Input and Output functions. I/O Stream is a standard library file that contains definitions of Standard Input and Output streams.</p>\n<h4>Input and output operators</h4>\n<ul>\n<li><b>Extraction operator (&gt;&gt;):</b> used for input stream — <code>cin</code> reads data from the standard input device with the extraction operator (&gt;&gt;).</li>\n<li><b>Insertion operator (&lt;&lt;):</b> used for output stream with <code>cout</code>.</li>\n</ul>\n<h4>Input functions: gets(), getchar(), getch() and getche()</h4>\n<ul>\n<li><b>gets()</b> stands for <b>get string</b> — gets() reads a string of characters from the standard input and stores them until a newline character.</li>\n<li><b>getchar()</b> needs pressing the <b>Enter key</b> from the keyboard after entering the character.</li>\n<li><b>getch() and getche()</b> are included in the <b>&lt;conio.h&gt;</b> header file (Console Input and Output).</li>\n</ul>"
+    },
+    {
+     "title": "Comments and Escape Sequences",
+     "mcqs": [
+      {
+       "q": "How many types of comment statements are there in C++?",
+       "options": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: two. The lesson lists two types of comments in C++: the single line comment and the multi line comment."
+      },
+      {
+       "q": "A single line comment in C++ is written with:",
+       "options": [
+        "/* and */",
+        "A double slash (//)",
+        "A hash sign (#)",
+        "Two dashes"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a double slash (//). The lesson says the single line comment uses // for a one-line explanation, while the multi line comment uses /* and */."
+      },
+      {
+       "q": "A multi line comment in C++ is written with:",
+       "options": [
+        "// at every line",
+        "/* and */",
+        "Backslashes",
+        "Semicolons"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: /* and */. The lesson states that the multi line comment uses /* and */ for explanations spread over many lines."
+      },
+      {
+       "q": "Comments in a C++ program are:",
+       "options": [
+        "Executed by the compiler",
+        "Converted into machine code",
+        "Ignored by the compiler, meaning they are not executed",
+        "Printed on the screen"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: ignored by the compiler, meaning they are not executed. The lesson states this for both types of comments in C++."
+      },
+      {
+       "q": "The escape sequence \\a in a program causes:",
+       "options": [
+        "A new line",
+        "A beep sound in the computer (alert / alarm)",
+        "A tab space",
+        "The cursor to return"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a beep sound, because \\a is the alert or alarm escape sequence. In the lesson's example program, cout with 'Beep\\a' produces the beep."
+      },
+      {
+       "q": "The escape sequence \\r (carriage return) positions the cursor:",
+       "options": [
+        "At the beginning of the next line",
+        "At the end of the file",
+        "At the beginning of the current line",
+        "One tab to the right"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: at the beginning of the current line. The lesson defines \\r as carriage return, which positions the cursor at the beginning of the current line."
+      },
+      {
+       "q": "The escape sequence \\n inserts:",
+       "options": [
+        "A horizontal tab",
+        "A new line, moving the cursor to the beginning of the next line",
+        "A beep sound",
+        "A carriage return only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a new line, moving the cursor to the beginning of the next line. The lesson describes \\n as new line or line feed, in contrast to \\t which stays in the same line."
+      },
+      {
+       "q": "The escape sequence \\t (horizontal tab) shifts the cursor:",
+       "options": [
+        "To the next line",
+        "To the beginning of the line",
+        "A couple of spaces to the right in the same line",
+        "Backwards by one character"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: a couple of spaces to the right in the same line. The lesson's \\n versus \\t table says \\t is a horizontal tab that shifts the cursor right within the same line."
+      },
+      {
+       "q": "A multi line comment is used for:",
+       "options": [
+        "A one-line explanation only",
+        "Explanations over many lines",
+        "Declaring variables",
+        "Ending the program"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: explanations over many lines. The lesson says the multi line comment, written with /* and */, is for explanations over many lines, while // suits a one-line explanation."
+      },
+      {
+       "q": "In the lesson's example, cout << \"\\rStart\"; uses \\r to:",
+       "options": [
+        "Print a beep",
+        "Move the cursor to the beginning of the current line before 'Start'",
+        "Start a new line after 'Start'",
+        "Tab the word 'Start' to the right"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: move the cursor to the beginning of the current line before 'Start'. The lesson explains \\r as carriage return, which positions the cursor at the beginning of the current line."
+      }
+     ],
+     "notes_html": "<h4>Types of comment statements in C++</h4>\n<p>Two types: <b>1. Single Line Comment</b> — with a double slash (//), for a one-line explanation; <b>2. Multi Line Comment</b> — with (/* and */), for explanations over many lines. Both are ignored by the compiler, meaning they are not executed.</p>\n<h4>Escape sequences \\a and \\r in a program</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { cout &lt;&lt; \"Beep\\a\"; cout &lt;&lt; \"\\rStart\"; return 0; }</code></p>\n<ul>\n<li><b>\\a</b> is Alert / alarm — it causes a beep sound in the computer.</li>\n<li><b>\\r</b> is Carriage Return — it positions the cursor at the beginning of the current line.</li>\n</ul>\n<h4>Difference between \\n and \\t</h4>\n<table>\n<tr><th>\\n</th><th>\\t</th></tr>\n<tr><td>New line / line feed: inserts a new line and the cursor moves to the beginning of the next line</td><td>Horizontal tab: shifts the cursor a couple of spaces to the right in the same line</td></tr>\n</table>"
+    },
+    {
+     "title": "Operators in C++",
+     "mcqs": [
+      {
+       "q": "Arithmetic operators (+, -, *, /, %) perform:",
+       "options": [
+        "Tests of relation between values",
+        "Arithmetic operations or calculations on operands and give a numeric result",
+        "Logical operations",
+        "Assignment only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: arithmetic operations or calculations on operands, giving a numeric result. The lesson contrasts these with relational operators, which test the relation between two values."
+      },
+      {
+       "q": "Relational operators test the relation between two values and their result is:",
+       "options": [
+        "A character",
+        "A string",
+        "True (1) or False (0)",
+        "Always a fractional number"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: True (1) or False (0). The lesson says relational operators are binary operators needing two operands, and their result is True (1) or False (0)."
+      },
+      {
+       "q": "The != operator belongs to the relational operators and means:",
+       "options": [
+        "Equal to",
+        "Not equal to",
+        "Greater than",
+        "Assignment"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: not equal to. The lesson states that != is a relational operator meaning 'not equal to' and compares the values of two operands."
+      },
+      {
+       "q": "Which statement about = and == is correct?",
+       "options": [
+        "Both are comparison operators",
+        "= is a comparison operator and == assigns a value",
+        "= is the assignment operator and == is the equal to (comparison) operator",
+        "Neither is an operator"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: = is the assignment operator and == is the equal to operator. The lesson stresses that = assigns the right-side value to the left variable, while == checks the equality of two operands."
+      },
+      {
+       "q": "The operator used for the logical AND operation is:",
+       "options": [
+        "||",
+        "!",
+        "&&",
+        "=="
+       ],
+       "answer": 2,
+       "why": "The correct answer is: &&. The lesson says the operator for logical AND is &&, and the condition will be true if both expressions are true; the logical operators are &&, || and !."
+      },
+      {
+       "q": "Which set contains only logical operators?",
+       "options": [
+        "&&, ||, !",
+        "+, -, *",
+        "==, !=, >",
+        "=, +=, -="
+       ],
+       "answer": 0,
+       "why": "The correct answer is: &&, || and !. The lesson lists exactly these three as the logical operators: && for AND, || for OR and ! for NOT."
+      },
+      {
+       "q": "The += operator:",
+       "options": [
+        "Compares two values",
+        "Adds the right operand to the left operand and assigns the result to the left operand",
+        "Subtracts and then compares",
+        "Increments by exactly one only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it adds the right operand to the left operand and assigns the result to the left operand. The lesson defines += in exactly these words."
+      },
+      {
+       "q": "What is the output of cout << 12 - 6 / 2; according to operator precedence?",
+       "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 9. By the precedence of arithmetic operators, division comes first: 6 / 2 = 3, and then 12 - 3 = 9, as the lesson's worked example shows."
+      },
+      {
+       "q": "In the lesson's program with int a = 27, the value printed by the postfix expression a++ is:",
+       "options": [
+        "28",
+        "27, because the value is printed first and then a becomes 28",
+        "26",
+        "0"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 27, because a++ is postfix: first 27 is printed, then a becomes 28. The lesson explains the outputs of a++, a, --a and a step by step in this way."
+      },
+      {
+       "q": "In the same program, after the a++ step, the value of a becomes:",
+       "options": [
+        "27",
+        "26",
+        "29",
+        "28"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: 28. The lesson explains that with postfix a++ the printed value is 27 first and then a becomes 28; later --a is prefix, so a first becomes 27 and then 27 is printed."
+      }
+     ],
+     "notes_html": "<h4>Arithmetic operators vs relational operators</h4>\n<table>\n<tr><th>Arithmetic operators</th><th>Relational operators</th></tr>\n<tr><td>(+, -, *, /, %) perform arithmetic operations / calculations on operands and give a numeric result</td><td>(==, !=, &gt;, &lt;, &gt;=, &lt;=) test the relation between two values; they are binary operators, they need two operands, and their result is True (1) or False (0)</td></tr>\n</table>\n<p>The <b>!=</b> operator belongs to the relational operators — it means \"not equal to\" and compares the values of two operands. To compare two values, &lt;= and == are both correct comparison operators; = is the assignment operator, not a comparison.</p>\n<h4>Logical operators</h4>\n<p>The operator used for the logical AND operation is <b>&amp;&amp;</b> — the condition will be true if both expressions are true. The logical operators are &amp;&amp; (AND), || (OR) and ! (NOT).</p>\n<h4>Assignment operator vs equal to operator</h4>\n<p>The <b>assignment operator (=)</b> assigns the value of the right-side expression to the left-side variable, for example <code>x=10;</code> The <b>equal to operator (==)</b> checks the equality of the values of two operands, for example <code>x==y;</code> — if the condition is true the result is true, otherwise false. The <b>+=</b> operator adds the right operand to the left operand and assigns the result to the left operand.</p>\n<h4>Output of a program with a++, --a</h4>\n<p>Program: <code>int a = 27;</code> then a is displayed with a++, a, --a and a. Output: a is 27; a is now 27; a is now 28; a is now 27; a is now 27. Reason: a++ is postfix, first 27 is printed then a becomes 28; then a is printed as 28; --a is prefix, first a becomes 27 then 27 is printed; finally a is printed as 27.</p>\n<h4>Operator precedence: a worked example</h4>\n<p><code>cout &lt;&lt; 12-6/2;</code> gives <b>9</b> on the screen: by the precedence of arithmetic operators, division comes first: 6/2 = 3, then 12-3 = 9.</p>"
+    },
+    {
+     "title": "Programs: Formulas, Marksheet and Finding Errors",
+     "mcqs": [
+      {
+       "q": "In the lesson's assignment-operators program, a starts at 20. After a += 2, the value of a is:",
+       "options": [
+        "18",
+        "22",
+        "20",
+        "40"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 22. The program output in the lesson shows 'After += 2, a = 22', because += adds 2 to a and assigns the result back to a."
+      },
+      {
+       "q": "In the same program, after a *= 4 (when a was 19), the value of a becomes:",
+       "options": [
+        "23",
+        "15",
+        "76",
+        "19"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 76. The lesson's output shows 'After *= 4, a = 76', since 19 x 4 = 76, before a /= 4 brings it back to 19."
+      },
+      {
+       "q": "The formula used in the speed program is:",
+       "options": [
+        "s = d x t",
+        "s = d / t",
+        "s = t / d",
+        "s = d + t"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: s = d / t. The lesson's speed program inputs d and t, computes s = d / t, and displays s, following the same program structure as the other formula programs."
+      },
+      {
+       "q": "Newton's second law program uses the formula:",
+       "options": [
+        "F = m / a",
+        "F = m + a",
+        "F = m x a",
+        "F = a / m"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: F = m x a. The lesson's program for Newton's second law inputs m and a, computes F = m * a, and displays F."
+      },
+      {
+       "q": "The acceleration program uses the formula:",
+       "options": [
+        "a = (vf + vi) / t",
+        "a = (vf - vi) / t",
+        "a = vf x vi x t",
+        "a = (vi - vf) / t"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a = (vf - vi) / t. The lesson's acceleration program inputs vf, vi and t, then computes a = (vf - vi) / t and displays a."
+      },
+      {
+       "q": "The Celsius to Fahrenheit program uses the formula:",
+       "options": [
+        "F = (c / 1.8) + 32",
+        "F = (c x 1.8) - 32",
+        "F = (c x 1.8) + 32",
+        "F = c + 32"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: F = (c x 1.8) + 32. The lesson's program inputs c, computes F = (c * 1.8) + 32, and displays F."
+      },
+      {
+       "q": "In the marksheet program of five subjects, the percentage is calculated as:",
+       "options": [
+        "total / 100 x 100",
+        "total / 500 x 100, because each subject is of 100 marks",
+        "total x 500 / 100",
+        "total / 5"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: total / 500 x 100, because each of the five subjects is of 100 marks. The lesson compares it with the book's model: Percent = Sum / 300 x 100 for three subjects."
+      },
+      {
+       "q": "The volume of a box program uses the formula:",
+       "options": [
+        "volume = length + width + height",
+        "volume = length x width / height",
+        "volume = length x width x height",
+        "volume = length x height only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: volume = length x width x height. The lesson's program computes volume this way, and notes it is the formula of Algorithm 4 of Unit 1."
+      },
+      {
+       "q": "The expression a2 + 2ab + b2, written in the program as a*a + 2*a*b + b*b, equals:",
+       "options": [
+        "The square of (a - b)",
+        "The square of (a + b)",
+        "The product of a and b",
+        "Twice the sum of a and b"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the square of (a + b). The lesson states that this expression equals the square of (a + b) at the end of that program's explanation."
+      },
+      {
+       "q": "In the lesson's error-finding program, for input 5 the correct program prints:",
+       "options": [
+        "The square of x is 5",
+        "The square of x is 10",
+        "The square of x is 25",
+        "The square of x is 125"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 'The square of x is 25'. After removing the errors, such as the missing semicolons and using x * x, the corrected program gives 25 for input 5, as the lesson shows."
+      }
+     ],
+     "notes_html": "<h4>Program using all arithmetic assignment operators</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int a = 20; a += 2; cout &lt;&lt; \"After += 2, a = \" &lt;&lt; a &lt;&lt; endl; a -= 3; cout &lt;&lt; \"After -= 3, a = \" &lt;&lt; a &lt;&lt; endl; a *= 4; cout &lt;&lt; \"After *= 4, a = \" &lt;&lt; a &lt;&lt; endl; a /= 4; cout &lt;&lt; \"After /= 4, a = \" &lt;&lt; a &lt;&lt; endl; return 0; }</code></p>\n<p>Output: After += 2, a = 22; After -= 3, a = 19; After *= 4, a = 76; After /= 4, a = 19.</p>\n<h4>Programs for formulas</h4>\n<ul>\n<li><b>Speed</b> s = d/t: input d and t; s = d / t; display s.</li>\n<li><b>Newton's second law</b> F = ma: input m and a; F = m * a; display F.</li>\n<li><b>Acceleration</b> a = (vf - vi)/t: input vf, vi and t; a = (vf - vi) / t; display a.</li>\n<li><b>Area of triangle</b> a = 1/2 bh: input b and h; area = (b * h) / 2; display area.</li>\n<li><b>Celsius to Fahrenheit</b> F = (c * 1.8) + 32: input c; F = (c * 1.8) + 32; display F.</li>\n</ul>\n<p>Every program has the same structure: #include&lt;iostream&gt;, using namespace std;, int main(), declaration of variables, input with cin, formula, result with cout, return 0;</p>\n<h4>Program: volume of a box</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { float length, width, height, volume; cout &lt;&lt; \"Enter length, width and height\"; cin &gt;&gt; length &gt;&gt; width &gt;&gt; height; volume = length * width * height; cout &lt;&lt; \"Volume = \" &lt;&lt; volume; return 0; }</code></p>\n<p>Volume = length x width x height (the formula of Algorithm 4 of Unit 1).</p>\n<h4>Program: marksheet of five subjects</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { float m1, m2, m3, m4, m5, total, percentage; cout &lt;&lt; \"Enter marks of five subjects\"; cin &gt;&gt; m1 &gt;&gt; m2 &gt;&gt; m3 &gt;&gt; m4 &gt;&gt; m5; total = m1 + m2 + m3 + m4 + m5; percentage = total / 500 * 100; cout &lt;&lt; \"Total = \" &lt;&lt; total &lt;&lt; \" Percentage = \" &lt;&lt; percentage; return 0; }</code></p>\n<p>Total 500 because each subject is of 100 marks (like the book's three-number model: Percent = Sum / 300 * 100).</p>\n<h4>Program: the expression a2 + 2ab + b2</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { float a, b, result; cout &lt;&lt; \"Enter a and b\"; cin &gt;&gt; a &gt;&gt; b; result = a * a + 2 * a * b + b * b; cout &lt;&lt; \"Result = \" &lt;&lt; result; return 0; }</code></p>\n<p>This expression equals the square of (a + b).</p>\n<h4>Finding and removing errors from a program</h4>\n<p>Errors: 1. <code>using namespace std</code> is missing a semicolon (;) at the end; 2. <code>int main()</code> must not be followed by (;); 3. <code>cin &gt;&gt; x</code> is missing (;) at the end; 4. in a * a, a is not declared — it should be x * x. Correct program:</p>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int x; cout &lt;&lt; \"Enter the value of x\"; cin &gt;&gt; x; cout &lt;&lt; \"The square of x is \" &lt;&lt; x * x; return 0; }</code></p>\n<p>Output (for input 5): Enter the value of x 5; The square of x is 25.</p>"
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Control Structure",
+   "lessons": [
+    {
+     "title": "Selection: if, else if and switch",
+     "mcqs": [
+      {
+       "q": "Using else with the if statement is:",
+       "options": [
+        "Compulsory",
+        "Optional, because if can be used alone",
+        "Not allowed in C++",
+        "Only for loops"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: optional, because if can be used alone. The lesson states that using else is optional with the if statement, and with else, either the if block executes or the else block."
+      },
+      {
+       "q": "In an if-else statement:",
+       "options": [
+        "Both blocks always execute",
+        "Neither block executes",
+        "Either the if block executes or the else block executes",
+        "The else block executes first"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: either the if block executes or the else block executes. The lesson explains this working of if-else, where the condition decides which single block runs."
+      },
+      {
+       "q": "The conditions in if and loop expressions are tested using:",
+       "options": [
+        "Assignment operators",
+        "Relational operators",
+        "Insertion operators",
+        "Arithmetic operators only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: relational operators. The lesson states that the if and loop expressions use relational operators to test the condition."
+      },
+      {
+       "q": "The else if ladder is used to:",
+       "options": [
+        "Repeat statements many times",
+        "Test many conditions in a ladder, running the block of whichever condition is true",
+        "Match a value with case constants",
+        "Jump out of a loop"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: test many conditions in a ladder, running the block of whichever condition is true. The lesson adds that otherwise the next condition is tested."
+      },
+      {
+       "q": "The else if ladder makes a nested-if program:",
+       "options": [
+        "Longer and harder",
+        "Simpler and more readable",
+        "Impossible to write",
+        "Slower to compile"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: simpler and more readable. The lesson gives this benefit of the else if ladder over a nested-if program."
+      },
+      {
+       "q": "The switch statement works by:",
+       "options": [
+        "Testing conditions with < and >",
+        "Matching the variable's value with the case constants and transferring control to the matching case",
+        "Repeating a block a fixed number of times",
+        "Calling a function"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: matching the variable's value with the case constants and transferring control to the matching case. The lesson adds that if none matches, control goes to default if it is present."
+      },
+      {
+       "q": "In a switch statement, if the variable does not match any case constant, control goes to:",
+       "options": [
+        "The first case",
+        "The if block",
+        "default, if it is present",
+        "The end of the program only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: default, if it is present. The lesson explains the purpose of default in a switch in exactly this way."
+      },
+      {
+       "q": "In a switch statement, default acts as:",
+       "options": [
+        "if",
+        "else",
+        "for",
+        "break"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: else. The lesson states that default acts as 'else' in a switch, handling the situation where no case constant matches the variable's value."
+      },
+      {
+       "q": "'case' and 'default' are parts of which statement?",
+       "options": [
+        "The if statement",
+        "The for loop",
+        "The switch statement",
+        "The while loop"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the switch statement. The lesson lists case and default as parts of the switch statement in its matching pairs."
+      },
+      {
+       "q": "Which data types can be used for the variable in a switch statement?",
+       "options": [
+        "Only float and double",
+        "Only character and integer",
+        "Only string",
+        "Any data type, including float"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: only character and integer data type variables. The lesson adds that the value must exactly match the case constants, and relational operators like < or > cannot be used in a switch."
+      }
+     ],
+     "notes_html": "<h4>The if statement and the use of else</h4>\n<p>Using <b>else</b> is <b>optional</b> with the if statement — if can be used alone; with else, in if-else either the if block executes or the else block. The if and loop expressions use <b>relational operators</b> to test the condition.</p>\n<h4>The else if ladder</h4>\n<p><b>else if</b> tests many conditions in a ladder — the block of whichever condition is true runs, otherwise the next condition is tested; it makes a nested-if program simpler and more readable.</p>\n<h4>The switch statement</h4>\n<p><b>switch</b> matches the variable's value with the case constants and transfers control to the matching case; if none matches, to <b>default</b>. \"case\" and \"default\" are parts of the switch statement.</p>\n<h4>Purpose of default</h4>\n<p>In a switch, if the switch variable does not match any of the case constants, control goes to default (if it is present). Default acts as \"else\".</p>\n<h4>Which data types can be used in switch?</h4>\n<p>In a switch, only <b>character and integer</b> data type variables can be used; it matches the switch variable's value only with case constants, not with any variable, and relational operators like &lt; or &gt; cannot be used in it — the value must exactly match the case constants.</p>"
+    },
+    {
+     "title": "Loops: for, while and do-while",
+     "mcqs": [
+      {
+       "q": "The for loop is usually used when:",
+       "options": [
+        "We never know how many times the block will run",
+        "We know at the start of the loop how many times the loop block will execute",
+        "The condition is tested at the end",
+        "No condition is needed"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when we know at the start of the loop how many times the loop block will execute. The lesson calls the for loop a counter-controlled or definite repetition loop."
+      },
+      {
+       "q": "The for loop is called a counter-controlled or definite repetition loop, and its condition is tested:",
+       "options": [
+        "At the end of the body",
+        "Only once after the loop",
+        "At the start of the loop",
+        "Never"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: at the start of the loop. The lesson states this for the for loop, in contrast to the do-while loop whose condition is tested at the end."
+      },
+      {
+       "q": "The three parts of a for loop expression are:",
+       "options": [
+        "Start, stop, display",
+        "Initialization, condition testing, increment or decrement",
+        "Input, process, output",
+        "If, else, switch"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: first initialization, second condition testing, and third increment or decrement. The lesson lists the for loop expression's three parts in this order."
+      },
+      {
+       "q": "The while loop is a pre-test loop, which means:",
+       "options": [
+        "Its body always runs many times",
+        "The condition is tested at the start, so the body may not run even once",
+        "The condition is tested after the body",
+        "It needs no condition"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the condition is tested at the start, so the body may not run even once. The lesson contrasts the while loop as a pre-test loop with the do-while as a post-test loop."
+      },
+      {
+       "q": "The do-while loop is a post-test loop, which means:",
+       "options": [
+        "The condition is tested at the start",
+        "Its body never runs",
+        "The condition is tested at the end of the body, so its body runs at least once",
+        "It is the same as a for loop"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the condition is tested at the end of the body, so its body runs at least once. The lesson also notes that in do-while, the while(condition) part is followed by a semicolon."
+      },
+      {
+       "q": "In a do-while loop, the while(condition) is followed by:",
+       "options": [
+        "A colon",
+        "A semicolon",
+        "A comma",
+        "Nothing is allowed after it"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a semicolon. The lesson points out this detail of the do-while loop: its while(condition) is followed by a semicolon."
+      },
+      {
+       "q": "Can a while loop be used in place of a for loop?",
+       "options": [
+        "No, never",
+        "Yes, by splitting the three parts: initialization before the loop, condition in while, and increment inside the body",
+        "Only with a switch statement",
+        "Only for one repetition"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: yes, by splitting the three parts of the for loop. The lesson shows int i = 1; while (i <= 10) { cout << i; i++; } as the same as for (i = 1; i <= 10; i++)."
+      },
+      {
+       "q": "A loop within a loop, that is, a loop in the body of another loop, is called a:",
+       "options": [
+        "Jump loop",
+        "Nested loop",
+        "Single loop",
+        "Dead loop"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: nested loop. The lesson defines a nested loop as a loop within a loop: if a loop exists in the body of another loop, it is called a nested loop."
+      },
+      {
+       "q": "In converting a for loop into a while loop, the increment or decrement part is placed:",
+       "options": [
+        "Before the loop",
+        "Inside the body of the loop",
+        "After the program ends",
+        "In the condition only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: inside the body of the loop. The lesson explains the split: initialization before the loop, the condition in while(...), and increment or decrement inside the body."
+      },
+      {
+       "q": "Which loop guarantees that its body runs at least once?",
+       "options": [
+        "The for loop",
+        "The while loop",
+        "The do-while loop",
+        "None of them"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the do-while loop. Because its condition is tested at the end of the body, the lesson says the do-while body runs at least once, unlike the pre-test while loop."
+      }
+     ],
+     "notes_html": "<h4>The for loop</h4>\n<p>The for loop executes a sequence of statements multiple times. It is usually used in situations where we know at the start of the loop how many times the loop block will execute; it is a counter-controlled / definite repetition loop and the condition is tested at the start of the loop. The for loop expression has <b>three parts</b>: first initialization, second condition testing, third increment or decrement.</p>\n<h4>while vs do-while</h4>\n<table>\n<tr><th>while loop</th><th>do-while loop</th></tr>\n<tr><td>Pre-test loop: the condition is tested at the start of the loop, so the body may not run even once</td><td>Post-test loop: the condition is tested at the end of the body, so its body runs at least once; its while(condition) is followed by a semicolon</td></tr>\n</table>\n<h4>Using while in place of for</h4>\n<p>Yes. The three parts of a for loop can be split up: initialization before the loop, the condition in while(...), and increment / decrement inside the body of the loop. For example: <code>int i = 1; while (i &lt;= 10) { cout &lt;&lt; i; i++; }</code> — this is the same as for (i = 1; i &lt;= 10; i++).</p>\n<h4>Nested loops</h4>\n<p>A loop within a loop is called a <b>nested loop</b> — if a loop exists in the body of another loop, then it is called a nested loop.</p>"
+    },
+    {
+     "title": "Jump Statements and Blocks of Statements",
+     "mcqs": [
+      {
+       "q": "Jump statements are used to:",
+       "options": [
+        "Declare variables",
+        "Change the execution of the program from its normal sequence",
+        "Include header files",
+        "Print output"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: change the execution of the program from its normal sequence. The lesson says jump statements transfer control to another part of the program, terminate a loop or switch, send a value back from a function, or terminate the program."
+      },
+      {
+       "q": "The break statement is used to:",
+       "options": [
+        "Skip one iteration of a loop",
+        "Terminate a loop or switch statement",
+        "Jump to a labeled statement",
+        "Return a value from main only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: terminate a loop or switch statement. The lesson states this use of break, and notes it is used with switch and loops."
+      },
+      {
+       "q": "In a switch statement, break is placed:",
+       "options": [
+        "Before the switch",
+        "At the end of each case",
+        "Only in the default case",
+        "Inside the condition"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: at the end of each case. The lesson points out that in a switch, break comes at the end of each case."
+      },
+      {
+       "q": "The continue statement:",
+       "options": [
+        "Terminates the loop completely",
+        "Closes the program",
+        "Skips the remaining statements of the loop body and transfers control to the top of the loop",
+        "Returns a value to the calling function"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it skips the remaining statements of the loop body and immediately transfers control to the top of the loop. The lesson contrasts this with break, which terminates the loop or switch."
+      },
+      {
+       "q": "The goto statement jumps control:",
+       "options": [
+        "To another function",
+        "Unconditionally to a labeled statement in the same function",
+        "To the start of the program",
+        "Only out of a switch"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: unconditionally to a labeled statement in the same function. The lesson describes the goto statement in exactly these words."
+      },
+      {
+       "q": "In a goto statement, a labeled statement is an identifier followed by:",
+       "options": [
+        "A semicolon",
+        "A comma",
+        "A colon (:)",
+        "Brackets"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: a colon (:). The lesson says the label in a goto statement is followed by a colon character, and a labeled statement is any identifier followed by a colon."
+      },
+      {
+       "q": "The return statement is used to:",
+       "options": [
+        "Send a value to the calling function and terminate the function's execution",
+        "Skip a loop iteration",
+        "Close the whole program",
+        "Label a statement"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: send a value to the calling function and terminate the function's execution. The lesson says return terminates the execution of a function and can also return a value from the function."
+      },
+      {
+       "q": "The exit() function is used to:",
+       "options": [
+        "Exit a loop only",
+        "Terminate and close the C++ program whenever it is executed",
+        "Exit a switch case",
+        "Return from a function with a value"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: terminate and close the C++ program whenever it is executed. The lesson describes the exit() function in exactly these words."
+      },
+      {
+       "q": "Statements are enclosed in curly braces to make a block so that they:",
+       "options": [
+        "Are ignored by the compiler",
+        "Run together as one joint part or group",
+        "Become comments",
+        "Are executed only once ever"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: so that they run together as one joint part or group. The lesson says more than one statement is enclosed in braces to gather them into one block, as in an if block, a loop body or a function body."
+      },
+      {
+       "q": "Which matching pair from the lesson is correct?",
+       "options": [
+        "case — switch",
+        ">> — output operator",
+        "if — loop",
+        "do — for"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: case matches with switch, because case is a part of the switch statement. The lesson's matching pairs also include break with loops and switch, and >> as the extraction or input operator."
+      }
+     ],
+     "notes_html": "<h4>Purpose of jump statements</h4>\n<p>Jump statements change the execution of the program from its normal sequence: they transfer control to another part of the program, terminate a loop or switch, send a value back from a function, or terminate the program.</p>\n<h4>break and continue</h4>\n<ul>\n<li><b>break</b> is used with switch (and loops) — break terminates the loop or switch statement; in a switch, break comes at the end of each case.</li>\n<li><b>continue</b> takes control to the <b>top of the loop</b> — it causes the loop to skip the remaining statements of its body and immediately transfers control to the top.</li>\n</ul>\n<h4>goto, return and exit()</h4>\n<ul>\n<li><b>goto:</b> jumps control unconditionally from the goto to a labeled statement in the same function; in the goto statement the label is followed by a <b>colon (:)</b> character — a labeled statement is any identifier followed by a colon (:).</li>\n<li><b>return:</b> to send a value to the calling function we use the return statement; it terminates the execution of a function and can also return a value from the function.</li>\n<li><b>exit():</b> the exit() function is used to close the program — it terminates the C++ program and closes it whenever executed.</li>\n</ul>\n<h4>Why we make blocks of statements using braces</h4>\n<p>To gather more than one statement into one group / block, they are enclosed in curly braces, so that they run together as one joint part; for example, if there is more than one statement in an if block, the body of a loop or the body of a function, they are all enclosed in braces.</p>\n<h4>Matching pairs to remember</h4>\n<table>\n<tr><th>Item</th><th>Matches with</th></tr>\n<tr><td>if</td><td>else — if and else together make the if-else pair</td></tr>\n<tr><td>loop</td><td>iteration — a loop means running statements again and again, i.e. iteration</td></tr>\n<tr><td>Conditional expression</td><td>Relational operators — conditional expressions are tested with relational operators</td></tr>\n<tr><td>Loops and switch</td><td>break — break terminates the loop or switch statement</td></tr>\n<tr><td>do</td><td>while — do and while together make the do-while loop</td></tr>\n<tr><td>&gt;&gt;</td><td>operator — &gt;&gt; is an operator (the extraction / input operator)</td></tr>\n<tr><td>case</td><td>switch — case is a part of the switch statement</td></tr>\n</table>"
+    },
+    {
+     "title": "Programs with Selection and Loops",
+     "mcqs": [
+      {
+       "q": "In the lesson's odd-or-even program, a number is even when:",
+       "options": [
+        "num % 2 gives remainder 1",
+        "num % 2 == 0, that is, dividing by 2 leaves remainder 0",
+        "num is greater than 2",
+        "num % 10 == 0"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when num % 2 == 0, that is, dividing the number by 2 leaves remainder 0. The lesson's program prints 'Even' in this case and 'Odd' otherwise."
+      },
+      {
+       "q": "The program that adds numbers from 1 to 20 with a for loop prints:",
+       "options": [
+        "Sum = 200",
+        "Sum = 190",
+        "Sum = 210",
+        "Sum = 220"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Sum = 210. The lesson's program runs sum = sum + i for i from 1 to 20 with a for loop, and its output is shown as Sum = 210."
+      },
+      {
+       "q": "In the days-in-a-month switch program, the months with 31 days are:",
+       "options": [
+        "4, 6, 9 and 11",
+        "1, 3, 5, 7, 8, 10 and 12",
+        "2 only",
+        "All twelve months"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 1, 3, 5, 7, 8, 10 and 12. The lesson's switch program groups these case labels together to print '31 days', while months 4, 6, 9 and 11 print '30 days'."
+      },
+      {
+       "q": "In the same program, February (month 2) is written as having:",
+       "options": [
+        "30 days",
+        "31 days",
+        "29 days in a leap year",
+        "28 days"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: 28 days. The lesson notes that February is written as 28 days in this program, and the book does not give the leap-year case."
+      },
+      {
+       "q": "In the days-in-a-month program, the default case prints:",
+       "options": [
+        "31 days",
+        "Wrong number / Error message",
+        "28 days",
+        "Nothing"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 'Wrong number / Error message'. In the lesson's program, default handles a month number outside 1 to 12 by printing this message."
+      },
+      {
+       "q": "In the program that prints each digit on a separate line, the first while loop finds:",
+       "options": [
+        "The sum of the digits",
+        "The number of digits",
+        "The divisor of the largest place",
+        "The smallest digit"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the divisor of the largest place. The lesson explains that the first loop finds this divisor, and the second loop then prints each digit from left to right on a separate line."
+      },
+      {
+       "q": "In the square-box program made with nested loops, the outer loop runs the:",
+       "options": [
+        "Columns",
+        "Rows",
+        "Characters",
+        "Conditions"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: rows. The lesson explains that in the box program the outer loop runs the rows and the inner loop prints the character in each row."
+      },
+      {
+       "q": "A prime number, as used in the lesson's program, is a number that is divided only by:",
+       "options": [
+        "2 and itself",
+        "1 and itself",
+        "Every even number",
+        "1 and 2 only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 1 and itself. The lesson defines a prime number this way, and its program checks n % i == 0 for i from 2 to n / 2 to detect a non-prime."
+      },
+      {
+       "q": "In the star-pattern program (one star, then two, then three per row), the inner loop runs j from 1 to:",
+       "options": [
+        "5 always",
+        "i, the current row number",
+        "10",
+        "j itself"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: i, the current row number. The lesson's pattern program uses for (j = 1; j <= i; j++) inside the outer loop, so each row prints as many stars as its row number."
+      },
+      {
+       "q": "In the program printing squares of numbers from 1 to 10, the line printed for 7 is:",
+       "options": [
+        "7 square = 14",
+        "7 square = 49",
+        "7 square = 77",
+        "7 square = 21"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: '7 square = 49'. The lesson lists the program's output as 1 square = 1, 2 square = 4, and so on up to 10 square = 100, so 7 gives 49."
+      }
+     ],
+     "notes_html": "<h4>Program: odd or even</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int num; cout &lt;&lt; \"Enter a number\"; cin &gt;&gt; num; if (num % 2 == 0) cout &lt;&lt; \"Even\"; else cout &lt;&lt; \"Odd\"; return 0; }</code></p>\n<p>If dividing the number by 2 leaves remainder 0, it is even, otherwise odd.</p>\n<h4>Program: add numbers from 1 to 20</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int i, sum = 0; for (i = 1; i &lt;= 20; i++) sum = sum + i; cout &lt;&lt; \"Sum = \" &lt;&lt; sum; return 0; }</code></p>\n<p>Output: Sum = 210.</p>\n<h4>Program: number of days in a month (switch)</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int month; cout &lt;&lt; \"Enter month number 1 to 12\"; cin &gt;&gt; month; switch (month) { case 1: case 3: case 5: case 7: case 8: case 10: case 12: cout &lt;&lt; \"31 days\"; break; case 4: case 6: case 9: case 11: cout &lt;&lt; \"30 days\"; break; case 2: cout &lt;&lt; \"28 days\"; break; default: cout &lt;&lt; \"Wrong number / Error message\"; } return 0; }</code></p>\n<p>February is written as 28 days; the book does not give the leap-year case.</p>\n<h4>Program: each digit on a separate line</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int num, divisor = 1, temp; cout &lt;&lt; \"Enter a number up to six digits\"; cin &gt;&gt; num; temp = num; while (temp &gt;= 10) { divisor = divisor * 10; temp = temp / 10; } while (divisor &gt; 0) { cout &lt;&lt; num / divisor &lt;&lt; endl; num = num % divisor; divisor = divisor / 10; } return 0; }</code></p>\n<p>The first loop finds the divisor of the largest place, the second loop prints each digit from left to right on a separate line.</p>\n<h4>Program: square box filled with a character (nested loops)</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { char ch; int rows, cols, i, j; cout &lt;&lt; \"Enter character, rows and columns\"; cin &gt;&gt; ch &gt;&gt; rows &gt;&gt; cols; for (i = 1; i &lt;= rows; i++) { for (j = 1; j &lt;= cols; j++) cout &lt;&lt; ch; cout &lt;&lt; endl; } return 0; }</code></p>\n<p>The outer loop runs the rows, the inner loop prints the character in each row.</p>\n<h4>Programs: number patterns with nested loops</h4>\n<p>(1) Stars (* / ** / *** / **** / *****): <code>for (i = 1; i &lt;= 5; i++) { for (j = 1; j &lt;= i; j++) cout &lt;&lt; \"*\"; cout &lt;&lt; endl; }</code></p>\n<p>(2) Numbers (1 / 12 / 123 / 1234 / 12345): <code>for (i = 1; i &lt;= 5; i++) { for (j = 1; j &lt;= i; j++) cout &lt;&lt; j; cout &lt;&lt; endl; }</code></p>\n<p>(3) Same number (1 / 22 / 333 / 4444 / 55555): <code>for (i = 1; i &lt;= 5; i++) { for (j = 1; j &lt;= i; j++) cout &lt;&lt; i; cout &lt;&lt; endl; }</code></p>\n<p>All three are made with nested loops — the outer loop runs the row, the inner loop runs the items of each row.</p>\n<h4>Program: prime or not</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int n, i; bool isPrime = true; cout &lt;&lt; \"Enter a number\"; cin &gt;&gt; n; if (n &lt;= 1) isPrime = false; for (i = 2; i &lt;= n / 2; i++) { if (n % i == 0) isPrime = false; } if (isPrime) cout &lt;&lt; \"Prime\"; else cout &lt;&lt; \"Not Prime\"; return 0; }</code></p>\n<p>A prime number is one that is divided only by 1 and itself.</p>\n<h4>Program: designation from salary (else if ladder)</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { float salary; cout &lt;&lt; \"Enter salary\"; cin &gt;&gt; salary; if (salary &gt;= 100000) cout &lt;&lt; \"Manager\"; else if (salary &gt;= 50000) cout &lt;&lt; \"Supervisor\"; else cout &lt;&lt; \"Worker\"; return 0; }</code></p>\n<p>The book does not fix salary limits; the limits above are given as an example.</p>\n<h4>Program: squares of numbers from 1 to 10</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int i; for (i = 1; i &lt;= 10; i++) cout &lt;&lt; i &lt;&lt; \" square = \" &lt;&lt; i * i &lt;&lt; endl; return 0; }</code></p>\n<p>Output: 1 square = 1, 2 square = 4, 3 square = 9, 4 square = 16, 5 square = 25, 6 square = 36, 7 square = 49, 8 square = 64, 9 square = 81, 10 square = 100.</p>\n<h4>Program: table of a number using while loop</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int main() { int n, i = 1; cout &lt;&lt; \"Enter a number\"; cin &gt;&gt; n; while (i &lt;= 10) { cout &lt;&lt; n &lt;&lt; \" x \" &lt;&lt; i &lt;&lt; \" = \" &lt;&lt; n * i &lt;&lt; endl; i++; } return 0; }</code></p>\n<p>For example, for 2 the output is: 2 x 1 = 2, 2 x 2 = 4, 2 x 3 = 6, ..., 2 x 10 = 20.</p>"
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Functions",
+   "lessons": [
+    {
+     "title": "Functions: Built-in and User-defined; Declaration and Definition",
+     "mcqs": [
+      {
+       "q": "User-defined functions are the functions that are:",
+       "options": [
+        "Already given by C++",
+        "Defined by the programmer",
+        "Declared in header files only",
+        "Part of the compiler"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: defined by the programmer. The lesson says the programmer can write their own functions to perform a specific task, and these are called user-defined functions."
+      },
+      {
+       "q": "Built-in or predefined functions are the functions that are:",
+       "options": [
+        "Written by the user for each program",
+        "Already given by C++",
+        "Never declared anywhere",
+        "Stored in variables"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: already given by C++. The lesson contrasts built-in (predefined) functions with user-defined ones, and notes that predefined functions are declared in header files."
+      },
+      {
+       "q": "The word 'prototype' in functions means:",
+       "options": [
+        "Definition",
+        "Declaration",
+        "A function call",
+        "A return value"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: declaration. The lesson states directly that the word 'prototype' means declaration, and a function declaration tells the compiler about the function's name, return data type and argument data types."
+      },
+      {
+       "q": "A function prototype or declaration tells the compiler about:",
+       "options": [
+        "Only the function name",
+        "The function's name, return data type and arguments or parameter data types",
+        "The program's output",
+        "The variables of main() only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the function's name, return data type and arguments or parameter data types. The lesson gives this full description of a function declaration, which ends with a semicolon."
+      },
+      {
+       "q": "A function declaration differs from a definition because the declaration:",
+       "options": [
+        "Has a body in braces",
+        "Is a function without its definition (code block) and is declared before main()",
+        "Returns a value",
+        "Is written inside main()"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it is a function without its definition (code block) and is declared before main(). The lesson's comparison table gives this difference, while the definition itself has a header and a body."
+      },
+      {
+       "q": "A function definition consists of:",
+       "options": [
+        "Only a semicolon",
+        "A header and a body or code block with statements in braces",
+        "Only the function name",
+        "A comment and a call"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a header and a body or code block. The lesson says the header has the return value data type, the function name and the list of arguments in parenthesis, and the body has statements in braces."
+      },
+      {
+       "q": "The void keyword is used in a function when:",
+       "options": [
+        "The function returns an integer",
+        "No value is returned by the function",
+        "The function has many parameters",
+        "The function is built-in"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when no value is returned by the function. The lesson also notes that void is used when there is no parameter, for example void function name(void);"
+      },
+      {
+       "q": "Header files, through which predefined functions are included in a program, have the extension:",
+       "options": [
+        ".cpp",
+        ".exe",
+        ".h",
+        ".txt"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: .h. The lesson says a header file has the .h extension, predefined functions are declared in header files, and they are included in the program with #include."
+      },
+      {
+       "q": "In C++, int main() returns a value of which data type, by default, to the operating system?",
+       "options": [
+        "float",
+        "char",
+        "int (integer)",
+        "void"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: int, an integer value. The lesson states that in C++, int main() returns an int (integer) data type value by default to the operating system."
+      },
+      {
+       "q": "A function declaration ends with:",
+       "options": [
+        "A colon",
+        "A semicolon (;)",
+        "A comma",
+        "Nothing"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a semicolon (;). The lesson's declaration-versus-definition table states that a declaration ends with a semicolon, unlike the definition which carries the body."
+      }
+     ],
+     "notes_html": "<h4>Two kinds of functions</h4>\n<p>The functions that are defined by the programmer are called <b>user-defined functions</b> — the programmer can write their own functions to perform a specific task. The functions already given by C++ are the <b>built-in (predefined) functions</b>.</p>\n<h4>Function prototype (declaration)</h4>\n<p>The word \"prototype\" means <b>declaration</b>. The function prototype consists of all of these: the name of the function, the parameters passed to the function, and the value returned from the function — a function declaration tells the compiler about the function's name, return data type and arguments/parameter data types.</p>\n<h4>Function declaration vs function definition</h4>\n<table>\n<tr><th>Declaration</th><th>Definition</th></tr>\n<tr><td>A function without its definition (code block); declared before main()</td><td>The function itself; it has a header and a body / code block</td></tr>\n<tr><td>Tells the compiler about the function's name, return data type, and arguments/parameter data types; ends with a semicolon (;)</td><td>The header has the return value data type, the function name and the list of arguments with datatypes in parenthesis; the body has statements in braces; the definition may be before or after the main function</td></tr>\n</table>\n<h4>The void keyword</h4>\n<p>void is used when no value is returned by the function. If there is no parameter in the function, void is also used, for example <code>void function name(void);</code></p>\n<h4>Including a function through a header file</h4>\n<p>A programmer creates a function for a particular task and includes that function in the program through a header file, which has the <b>.h</b> extension — predefined functions are declared in header files and included in the program with #include.</p>\n<h4>main() returns int</h4>\n<p>In C++, <code>int main()</code> returns an <b>int</b> (integer) data type value by default to the operating system.</p>"
+    },
+    {
+     "title": "Header Files, Built-in Functions and Variable Scope",
+     "mcqs": [
+      {
+       "q": "To use the sqrt() function, which header file is included?",
+       "options": [
+        "cstdio",
+        "conio.h",
+        "cmath",
+        "iostream"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: cmath. The lesson gives header file examples: cmath for sqrt(), cstdio for gets() and puts(), and conio.h for getch() and getche()."
+      },
+      {
+       "q": "The getch() function belongs to which header file?",
+       "options": [
+        "cmath",
+        "conio.h",
+        "cstdio",
+        "cstring"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: conio.h. The lesson lists getch() among the built-in functions and states that conio.h is the header file for getch() and getche()."
+      },
+      {
+       "q": "The built-in function sqrt(a) finds:",
+       "options": [
+        "The power of a number",
+        "The square root of a number",
+        "The upper case of a character",
+        "The length of a string"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the square root of a number. The lesson lists sqrt(a) first among the five standard built-in functions with this meaning."
+      },
+      {
+       "q": "The built-in function pow(x, y) finds:",
+       "options": [
+        "x multiplied by y",
+        "x plus y",
+        "x to the power y",
+        "The square root of x"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: x to the power y. The lesson describes pow(x, y) as finding x to the power y in its list of standard built-in functions."
+      },
+      {
+       "q": "The built-in function strcpy(str1, str2) is used to:",
+       "options": [
+        "Compare two strings",
+        "Copy one string into another string",
+        "Convert a character to upper case",
+        "Read a character from the keyboard"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: copy one string into another string. The lesson gives this meaning for strcpy(str1, str2) among the five standard built-in functions."
+      },
+      {
+       "q": "The built-in function toupper(ch) converts:",
+       "options": [
+        "A string to lower case",
+        "A number to a character",
+        "A character to upper case",
+        "A character into a string"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: a character to upper case. The lesson lists toupper(ch) with exactly this meaning among the standard built-in functions."
+      },
+      {
+       "q": "The parameters specified in the function header are called:",
+       "options": [
+        "Actual parameters",
+        "Formal parameters",
+        "Local constants",
+        "Global parameters"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: formal parameters. The lesson states that the parameters specified in the function header are called formal parameters."
+      },
+      {
+       "q": "Local variables are the variables that are:",
+       "options": [
+        "Declared outside main()",
+        "Declared inside any function",
+        "Declared in a header file",
+        "Shared by all functions always"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: declared inside any function. The lesson says all variables declared in a function definition are called local variables, and they are accessible only within that specific part of the program."
+      },
+      {
+       "q": "External or global variables are declared:",
+       "options": [
+        "Inside a function body",
+        "Outside of the main function",
+        "In the function header only",
+        "Inside a loop"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: outside of the main function. The lesson adds that global variables hold their value during the entire execution of the program and their value can be shared with different functions."
+      },
+      {
+       "q": "One advantage of user-defined functions is that:",
+       "options": [
+        "They make programs impossible to manage",
+        "Large and complicated programs are broken down into smaller modules or functions",
+        "They can be called only once",
+        "They remove the need for main()"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: large and complicated programs are broken down into smaller modules or functions. The lesson also says functions help manage the code of a large program and a function written once can be called from any part of the program."
+      }
+     ],
+     "notes_html": "<h4>Why we use header files</h4>\n<p>Predefined functions are declared in header files; to use them the proper header file is included with #include, for example cmath for sqrt(), cstdio for gets() / puts(), conio.h for getch() / getche(). Header files link the external header files / libraries which may be required in the program.</p>\n<h4>Five standard built-in functions</h4>\n<ul>\n<li><b>sqrt(a):</b> finds the square root of a number.</li>\n<li><b>pow(x, y):</b> finds x to the power y.</li>\n<li><b>strcpy(str1, str2):</b> copies one string into another string.</li>\n<li><b>toupper(ch):</b> converts a character to upper case.</li>\n<li><b>getch():</b> gets a single character from the keyboard.</li>\n</ul>\n<h4>Parameters: formal and actual</h4>\n<p>The parameters specified in the function header are called <b>formal parameters</b>. All variables declared in a function definition are called <b>local variables</b>.</p>\n<h4>Local variables vs external (global) variables</h4>\n<table>\n<tr><th>External / global variables</th><th>Local variables</th></tr>\n<tr><td>Declared outside of the main function; also known as external variables</td><td>Declared inside any function (also in the header of the function definition)</td></tr>\n<tr><td>Hold the value of the variable during the entire execution of the program; their value can be shared with different functions</td><td>Only accessible within a specific part of the program / that function</td></tr>\n</table>\n<h4>Advantages of user-defined functions</h4>\n<ul>\n<li>Large and complicated programs are broken down into smaller modules / functions.</li>\n<li>Functions help the programmer to manage the code of the large program.</li>\n<li>A function written once can be called from any part of the program.</li>\n<li>The programmer can create functions for a specific task.</li>\n</ul>"
+    },
+    {
+     "title": "Passing Arguments and Returning Values",
+     "mcqs": [
+      {
+       "q": "When a function is called, the values given with the function call are:",
+       "options": [
+        "Formal parameters only",
+        "Actual values, which can be variables or constants",
+        "Always header files",
+        "Return types"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: actual values, which can be variables or constants. The lesson says that when the function is called, actual values are given with the call and received in the formal parameters."
+      },
+      {
+       "q": "The actual values given in a function call are received in:",
+       "options": [
+        "Global variables",
+        "The formal parameters of the function definition",
+        "The header file",
+        "The main function"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the formal parameters of the function definition. The lesson adds that these formal parameters act as local variables inside the function."
+      },
+      {
+       "q": "Inside a function, its formal parameters act as:",
+       "options": [
+        "Global variables",
+        "Constants",
+        "Local variables",
+        "Header files"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: local variables. The lesson states that the formal parameters of the function definition act as local variables inside the function."
+      },
+      {
+       "q": "When a function completes its execution, the return keyword sends back to the calling function:",
+       "options": [
+        "Many values at once",
+        "A single value",
+        "The whole program",
+        "A header file"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a single value. The lesson says the return keyword sends a single value back to the calling function when the function completes its execution."
+      },
+      {
+       "q": "The return data type of a function must be specified:",
+       "options": [
+        "After the function name",
+        "In the header, before the function name",
+        "Inside the body only",
+        "In a comment"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: in the header, before the function name. The lesson adds that the return data type must be specified in both the function declaration and the definition."
+      },
+      {
+       "q": "In the lesson's error-finding program, the error in the prototype line was that \\\\ was written, but in C++ a comment needs:",
+       "options": [
+        "##",
+        "**",
+        "//",
+        "--"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: //. The lesson explains that \\\\ is not a comment in C++; a comment needs //, so the corrected line is: void Table(void); // Function prototype."
+      },
+      {
+       "q": "The corrected prototype line in that program is:",
+       "options": [
+        "void Table(void); \\\\ Function prototype",
+        "void Table(void); // Function prototype",
+        "void Table(void) // no semicolon needed",
+        "Table void(void); // prototype"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: void Table(void); // Function prototype. The lesson says there is no other error in that program once the comment is written with // instead of \\\\"
+      },
+      {
+       "q": "For input m = 5, the program first prints:",
+       "options": [
+        "The table of 5 directly",
+        "The value of m....... 5",
+        "The value of m is 0",
+        "An error message"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 'The value of m....... 5'. The lesson gives this as the first line of the output for input m = 5, followed by the table of 5."
+      },
+      {
+       "q": "In the table of 5 printed by that program, the line for 7 is:",
+       "options": [
+        "5*7=30",
+        "5*7=40",
+        "5*7=35",
+        "5*7=25"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 5*7=35. The lesson lists the table output as 5*1=5, 5*2=10, and so on up to 5*10=50, so the line for 7 is 5*7=35."
+      },
+      {
+       "q": "The return data type must be specified in:",
+       "options": [
+        "Only the function call",
+        "Both the function declaration and the definition",
+        "Only inside main()",
+        "Only in the header file"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: both the function declaration and the definition. The lesson states this requirement clearly in its section on returning a value from a function."
+      }
+     ],
+     "notes_html": "<h4>Passing an argument to a function</h4>\n<p>When the function is called, actual values (variables or constants) are given with the function call; they are received in the <b>formal parameters</b> of the function definition, which act as local variables inside the function.</p>\n<h4>Returning a value from a function</h4>\n<p>When the function completes its execution, the <b>return</b> keyword sends a single value back to the calling function; the return data type must be specified in the header, before the function name, in both the function declaration and the definition.</p>\n<h4>Finding the error and the output of a program</h4>\n<p>Error: in the function prototype line, \\\\ is written, which is not a comment in C++; a comment needs //: <code>void Table(void); // Function prototype</code>. There is no other error. Output (for input m = 5): The value of m....... 5; then the table of 5: 5*1=5, 5*2=10, 5*3=15, 5*4=20, 5*5=25, 5*6=30, 5*7=35, 5*8=40, 5*9=45, 5*10=50.</p>"
+    },
+    {
+     "title": "Programs Using Functions",
+     "mcqs": [
+      {
+       "q": "The series() function in the lesson's program is declared as void series(void), which means it:",
+       "options": [
+        "Returns an integer and takes one parameter",
+        "Neither returns a value nor takes parameters",
+        "Returns a float value",
+        "Takes two parameters"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it neither returns a value nor takes parameters. The lesson points to the form void function name(void) for such a function, and series() is called from main() with no arguments."
+      },
+      {
+       "q": "The series() function prints numbers starting from 0, increasing by 5 each time, up to:",
+       "options": [
+        "30",
+        "40",
+        "35",
+        "50"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 35. The lesson's output of the series program is 0 5 10 15 20 25 30 35, because the loop runs i from 0 while i <= 35 with i = i + 5."
+      },
+      {
+       "q": "In the even-or-odd function program, checkEven(num) returns 1 when:",
+       "options": [
+        "The number is odd",
+        "n % 2 == 0, that is, the number is even",
+        "The number is greater than 10",
+        "The number is 0 only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when n % 2 == 0, that is, the number is even. The lesson's checkEven function returns 1 in this case and 0 otherwise, and main() prints 'Even' when the result is 1."
+      },
+      {
+       "q": "The kgToGrams function converts kilograms into grams by returning:",
+       "options": [
+        "kg / 1000",
+        "kg + 1000",
+        "kg x 1000",
+        "kg x 100"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: kg x 1000. The lesson's function takes the value in kilograms as a parameter and returns kg * 1000 as the value in grams."
+      },
+      {
+       "q": "In the star box program, starBox(10, 4) returns a total of:",
+       "options": [
+        "14 stars",
+        "40 stars",
+        "10 stars",
+        "4 stars"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 40 stars. The lesson's program prints 4 rows of 10 stars and then 'Total stars = 40', because the function returns length x height."
+      },
+      {
+       "q": "The starBox function returns its total by computing:",
+       "options": [
+        "length + height",
+        "length x height",
+        "length / height",
+        "length - height"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: length x height. After printing the box with nested loops, the lesson's starBox function returns length * height as the total number of stars."
+      },
+      {
+       "q": "In the factorial function, the factorial is calculated as:",
+       "options": [
+        "n! = 1 + 2 + ... + n",
+        "f starts at 1 and is multiplied by each i from 1 to n",
+        "f starts at 0 and adds n",
+        "n! = n x 2 only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: f starts at 1 and is multiplied by each i from 1 to n. The lesson's factorial function uses a loop f = f * i, matching the meaning n! = 1 x 2 x ... x n."
+      },
+      {
+       "q": "The rectArea function in the lesson returns the area of a rectangle as:",
+       "options": [
+        "l + w",
+        "l x w",
+        "2 x (l + w)",
+        "l / w"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: l x w. The lesson gives the formula function float rectArea(float l, float w) { return l * w; } for the area of a rectangle."
+      },
+      {
+       "q": "The circleArea function uses pi = 3.14 and returns:",
+       "options": [
+        "3.14 x r",
+        "2 x 3.14 x r",
+        "3.14 x r x r",
+        "r x r only"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 3.14 x r x r. The lesson gives float circleArea(float r) { return 3.14 * r * r; } for the area of a circle."
+      },
+      {
+       "q": "The hypotenuse function, from c2 = a2 + b2, returns:",
+       "options": [
+        "a + b",
+        "sqrt(a x a + b x b)",
+        "a x a + b x b without the square root",
+        "sqrt(a + b)"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: sqrt(a * a + b * b). The lesson derives c = sqrt(a2 + b2) from the Pythagorean theorem and gives the function returning exactly this."
+      }
+     ],
+     "notes_html": "<h4>Series program — no return value and no parameters</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; void series(void); int main() { series(); return 0; } void series(void) { int i; for (i = 0; i &lt;= 35; i = i + 5) cout &lt;&lt; i &lt;&lt; \" \"; }</code></p>\n<p>Output: 0 5 10 15 20 25 30 35. The function neither returns a value nor takes parameters: void function name(void);</p>\n<h4>Even or odd — return value and pass parameters</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int checkEven(int n); int main() { int num, result; cout &lt;&lt; \"Enter a number\"; cin &gt;&gt; num; result = checkEven(num); if (result == 1) cout &lt;&lt; \"Even\"; else cout &lt;&lt; \"Odd\"; return 0; } int checkEven(int n) { if (n % 2 == 0) return 1; else return 0; }</code></p>\n<p>The function takes a parameter and returns a value: int function name(int);</p>\n<h4>Convert kilograms into grams using a function</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; float kgToGrams(float kg); int main() { float kg, grams; cout &lt;&lt; \"Enter kilograms\"; cin &gt;&gt; kg; grams = kgToGrams(kg); cout &lt;&lt; \"Grams = \" &lt;&lt; grams; return 0; } float kgToGrams(float kg) { return kg * 1000; }</code></p>\n<p>The function takes the value in kilograms as a parameter and returns the value in grams.</p>\n<h4>Box of stars function</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int starBox(int length, int height); int main() { int total; total = starBox(10, 4); cout &lt;&lt; \"Total stars = \" &lt;&lt; total; return 0; } int starBox(int length, int height) { int i, j; for (i = 1; i &lt;= height; i++) { for (j = 1; j &lt;= length; j++) cout &lt;&lt; \"*\"; cout &lt;&lt; endl; } return length * height; }</code></p>\n<p>Output: 4 rows of 10 stars, then Total stars = 40.</p>\n<h4>Factorial function</h4>\n<p><code>#include&lt;iostream&gt; using namespace std; int factorial(int n); int main() { int num; cout &lt;&lt; \"Enter a number\"; cin &gt;&gt; num; cout &lt;&lt; \"Factorial = \" &lt;&lt; factorial(num); return 0; } int factorial(int n) { int i, f = 1; for (i = 1; i &lt;= n; i++) f = f * i; return f; }</code></p>\n<p>Factorial means n! = 1 x 2 x ... x n.</p>\n<h4>Formula functions</h4>\n<ul>\n<li><b>Area of rectangle</b> a = l x w: <code>float rectArea(float l, float w) { return l * w; }</code></li>\n<li><b>Area of circle</b> a = pi r2 (pi = 3.14): <code>float circleArea(float r) { return 3.14 * r * r; }</code></li>\n<li><b>Pythagorean theorem</b> c2 = a2 + b2: <code>float hypotenuse(float a, float b) { return sqrt(a * a + b * b); }</code> — from c2 = a2 + b2, c = sqrt(a2 + b2).</li>\n</ul>\n<p>Each function is called from main() with parameters and returns the result.</p>"
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Digital Logic and Design",
+   "lessons": [
+    {
+     "title": "Basic Logic Gates: AND, OR and NOT",
+     "mcqs": [
+      {
+       "q": "The AND gate has:",
+       "options": [
+        "One input and many outputs",
+        "Two or more inputs and a single output",
+        "One input and one output",
+        "No inputs"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: two or more inputs and a single output. The lesson states this for both the AND gate and the OR gate, while the NOT gate has a single input and a single output."
+      },
+      {
+       "q": "The AND gate operates on logical multiplication, with the expression:",
+       "options": [
+        "Y = A + B",
+        "Y = A.B",
+        "Y = A with a bar over it",
+        "Y = (A.B) with a bar over it"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: Y = A.B. The lesson says the AND gate operates on logical multiplication, while the OR gate operates on logical addition with Y = A + B."
+      },
+      {
+       "q": "The output of an AND gate is 1 only when:",
+       "options": [
+        "Any input is 1",
+        "All inputs are 0",
+        "All inputs are 1",
+        "Exactly one input is 1"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: when all inputs are 1. The AND truth table in the lesson shows Y = 1 only for A = 1 and B = 1, and if any input is 0 the output is 0."
+      },
+      {
+       "q": "For an AND gate, if any input is 0, the output is:",
+       "options": [
+        "1",
+        "0",
+        "Equal to the other input",
+        "Undefined"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 0. The lesson states this rule for the AND gate, whose truth table shows output 0 for the combinations 0,0 and 0,1 and 1,0."
+      },
+      {
+       "q": "The OR gate operates on logical addition, with the expression:",
+       "options": [
+        "Y = A.B",
+        "Y = A + B",
+        "Y = (A + B) with a bar over it",
+        "Y = A with a bar over it"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: Y = A + B. The lesson says the OR gate operates on logical addition, in contrast to the AND gate's logical multiplication."
+      },
+      {
+       "q": "The output of an OR gate is 1 when:",
+       "options": [
+        "All inputs are 0",
+        "Any input is 1",
+        "All inputs must be 1",
+        "Both inputs are 0"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when any input is 1. The OR truth table in the lesson shows output 1 for 0,1 and 1,0 and 1,1, and output 0 only if all inputs are 0."
+      },
+      {
+       "q": "The NOT gate is also called the:",
+       "options": [
+        "Universal gate",
+        "Inverter",
+        "Adder",
+        "Multiplier"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: inverter. The lesson says the NOT gate has a single input and a single output, is the inverter, and has the expression Y = A with a bar over it."
+      },
+      {
+       "q": "In the NOT gate expression Y = A with a bar over A, the bar sign indicates:",
+       "options": [
+        "The OR operation",
+        "The AND operation",
+        "The NOT operation",
+        "An input variable"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the NOT operation. The lesson states that the bar sign over a variable indicates the NOT operation, so the gate inverts its input."
+      },
+      {
+       "q": "If the input of a NOT gate is 1, its output is:",
+       "options": [
+        "1",
+        "0",
+        "Also 1, unchanged",
+        "2"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 0. The lesson's NOT truth table shows that the inverter inverts the input: if the input is 1 the output is 0, and if the input is 0 the output is 1."
+      },
+      {
+       "q": "Which gate has a single input and a single output?",
+       "options": [
+        "AND gate",
+        "OR gate",
+        "NOT gate",
+        "NAND gate"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the NOT gate. The lesson describes the NOT gate with a single input and a single output, while the AND and OR gates have two or more inputs and a single output."
+      }
+     ],
+     "notes_html": "<h4>The AND gate</h4>\n<p>The AND gate has two or more inputs and a single output; it operates on logical multiplication; <b>Y = A.B</b>; the output is 1 only when all inputs are 1 — if any input is 0 the output is 0.</p>\n<table>\n<tr><th>A</th><th>B</th><th>Y = A.B</th></tr>\n<tr><td>0</td><td>0</td><td>0</td></tr>\n<tr><td>0</td><td>1</td><td>0</td></tr>\n<tr><td>1</td><td>0</td><td>0</td></tr>\n<tr><td>1</td><td>1</td><td>1</td></tr>\n</table>\n<h4>The OR gate</h4>\n<p>The OR gate has two or more inputs and a single output; it operates on logical addition; <b>Y = A+B</b>; the output is 1 if any input is 1 — if all inputs are 0 the output is 0.</p>\n<table>\n<tr><th>A</th><th>B</th><th>Y = A+B</th></tr>\n<tr><td>0</td><td>0</td><td>0</td></tr>\n<tr><td>0</td><td>1</td><td>1</td></tr>\n<tr><td>1</td><td>0</td><td>1</td></tr>\n<tr><td>1</td><td>1</td><td>1</td></tr>\n</table>\n<h4>The NOT gate — the inverter</h4>\n<p>The NOT gate has a single input and a single output; it is the <b>inverter</b>; <b>Y = Ā</b> (A with a bar over it). The bar sign over a variable indicates the NOT operation. The inverter inverts the input: if the input is 1 the output is 0, if the input is 0 the output is 1.</p>\n<table>\n<tr><th>A</th><th>Y = Ā</th></tr>\n<tr><td>0</td><td>1</td></tr>\n<tr><td>1</td><td>0</td></tr>\n</table>"
+    },
+    {
+     "title": "Universal Gates: NAND and NOR",
+     "mcqs": [
+      {
+       "q": "The universal gates are:",
+       "options": [
+        "AND and OR",
+        "NAND and NOR",
+        "NOT and AND",
+        "OR and NOT"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the NAND gate and the NOR gate. The lesson states directly that the NAND gate and the NOR gate are the universal gates."
+      },
+      {
+       "q": "The NAND gate is the collection of:",
+       "options": [
+        "An OR gate and a NOT gate in series",
+        "An AND gate and a NOT gate connected in series",
+        "Two AND gates",
+        "Two NOT gates"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: an AND gate and a NOT gate connected in series. The lesson also calls the NAND gate NOT-AND for this reason."
+      },
+      {
+       "q": "The Boolean expression of the NAND gate is:",
+       "options": [
+        "Y = A.B",
+        "Y = A + B",
+        "Y = (A.B) with a bar over the whole expression",
+        "Y = A with a bar over it"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Y = (A.B) with a bar over the whole expression. The lesson explains that when A and B go into an AND gate and its output passes through a NOT gate, the circuit is a NAND gate with this expression."
+      },
+      {
+       "q": "The output of a NAND gate is 0 only when:",
+       "options": [
+        "Any input is 0",
+        "All inputs are 1",
+        "Both inputs are 0",
+        "Exactly one input is 1"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: when all inputs are 1. The lesson states this for the NAND gate, and adds that if any one of the inputs is 0 the output is 1."
+      },
+      {
+       "q": "For a NAND gate, if any one of the inputs is 0, the output is:",
+       "options": [
+        "0",
+        "1",
+        "Equal to the other input",
+        "Undefined"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 1. This follows from the lesson's NAND rule: the output is 0 only when all inputs are 1, so any 0 input makes the output 1."
+      },
+      {
+       "q": "The NOR gate is the collection of:",
+       "options": [
+        "An AND gate and a NOT gate",
+        "An OR gate and a NOT gate, giving an inverted OR",
+        "Two OR gates",
+        "A NOT gate alone"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: an OR gate and a NOT gate, and its output is inverted OR. The lesson gives the NOR expression as Y = (A + B) with a bar over the whole expression."
+      },
+      {
+       "q": "The output of a NOR gate is 1 only when:",
+       "options": [
+        "Any input is 1",
+        "Both inputs are 1",
+        "Both inputs are 0",
+        "The inputs are different"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: when both inputs are 0. The lesson states this for the NOR gate, and adds that if any one of the inputs is 1 the output is 0."
+      },
+      {
+       "q": "For a NOR gate, if any one of the inputs is 1, the output is:",
+       "options": [
+        "1",
+        "0",
+        "Equal to the other input",
+        "Always 1"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 0. This is the lesson's NOR rule: its output is 1 only when both inputs are 0, so a single 1 input forces the output to 0."
+      },
+      {
+       "q": "Which gate's expression is Y = (A + B) with a bar over the whole expression?",
+       "options": [
+        "NAND gate",
+        "NOR gate",
+        "AND gate",
+        "OR gate"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the NOR gate. The lesson's NAND-versus-NOR table gives (A + B) with a bar for NOR and (A.B) with a bar for NAND."
+      },
+      {
+       "q": "A circuit in which A and B pass through an AND gate and then through a NOT gate is a:",
+       "options": [
+        "NOR gate",
+        "OR gate",
+        "NAND gate",
+        "NOT gate"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: a NAND gate. The lesson uses exactly this circuit to explain the NAND gate, whose Boolean expression is (A.B) with a bar over it."
+      }
+     ],
+     "notes_html": "<h4>Universal gates</h4>\n<p>The <b>NAND gate</b> and the NOR gate are the universal gates.</p>\n<h4>The NAND gate</h4>\n<p>NAND gate (NOT-AND) is the collection of an AND gate and a NOT gate connected in series; <b>Y = (A.B) with a bar over it</b>; the output is 0 only when all inputs are 1 — if any one of the inputs is 0 the output is 1. So, when A and B go into an AND gate and its output passes through a NOT gate, the Boolean expression of the circuit is (A.B) with a bar over it — the circuit is a NAND gate.</p>\n<h4>The NOR gate</h4>\n<p>The NOR gate is the collection of an OR gate and a NOT gate; its output is inverted OR; <b>Y = (A+B) with a bar over it</b>; the output is 1 only when both inputs are 0 — if any one of the inputs is 1 the output is 0.</p>\n<h4>NAND vs NOR</h4>\n<table>\n<tr><th>NAND gate</th><th>NOR gate</th></tr>\n<tr><td>AND gate + NOT gate in series; Y = (A.B) with a bar over it</td><td>OR gate + NOT gate; Y = (A+B) with a bar over it</td></tr>\n<tr><td>Output is 0 only when all inputs are 1</td><td>Output is 1 only when both inputs are 0</td></tr>\n<tr><td>Universal gate</td><td>Universal gate</td></tr>\n</table>"
+    },
+    {
+     "title": "Boolean Algebra and Truth Tables",
+     "mcqs": [
+      {
+       "q": "Boolean algebra is used to:",
+       "options": [
+        "Store data in arrays",
+        "Describe the logical operations and processing of binary information",
+        "Draw flowcharts",
+        "Compile C++ programs"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: describe the logical operations and processing of binary information. The lesson adds that its pre-defined rules help to simplify the logical expression."
+      },
+      {
+       "q": "Simplifying a logical expression with Boolean algebra rules helps to:",
+       "options": [
+        "Increase the number of gates",
+        "Reduce the number of logic gates needed for a logic operation",
+        "Remove all truth tables",
+        "Change binary into decimal"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: reduce the number of logic gates needed to perform a particular logic operation. The lesson gives this as the purpose of simplifying expressions with the rules of Boolean algebra."
+      },
+      {
+       "q": "A truth table is:",
+       "options": [
+        "A table of variable names",
+        "A tabular representation of all combinations of values for inputs and their corresponding outputs",
+        "A list of logic gates",
+        "A C++ program table"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a tabular representation of all the combinations of values for inputs and their corresponding outputs. The lesson defines a truth table in exactly these words."
+      },
+      {
+       "q": "With three variables, a truth table has how many combinations or rows?",
+       "options": [
+        "Three",
+        "Six",
+        "Eight, from 2 x 2 x 2",
+        "Nine"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: eight, from 2 x 2 x 2. The lesson states that with the combination of three variables, eight outputs are expected altogether."
+      },
+      {
+       "q": "Rule 2 of Boolean algebra states:",
+       "options": [
+        "A . 1 = A",
+        "1 + A = 1",
+        "A + A = A",
+        "A . A-bar = 0"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 1 + A = 1. The lesson's rule list gives this as Rule 2, while A . 1 = A is Rule 4 and A + A = A is Rule 5."
+      },
+      {
+       "q": "Rule 4 of Boolean algebra states:",
+       "options": [
+        "A . 1 = A",
+        "1 + A = 1",
+        "A . A = A",
+        "A + A.B = A"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: A . 1 = A. The lesson's list of Boolean algebra rules gives A . 1 = A as Rule 4. Multiplying any Boolean value by 1 leaves it unchanged, so the result is the value itself."
+      },
+      {
+       "q": "A + A = A is which rule of Boolean algebra?",
+       "options": [
+        "Rule 2",
+        "Rule 4",
+        "Rule 5",
+        "Rule 8"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Rule 5. The lesson states plainly that A + A = A is the 5th rule of Boolean algebra, in its list of rules used in this unit."
+      },
+      {
+       "q": "Rule 7 of Boolean algebra, A . A = A, gives for example:",
+       "options": [
+        "B + B = 1",
+        "B . B = B",
+        "B . 1 = 0",
+        "B + 1 = B"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: B . B = B. The lesson gives this example for Rule 7, A . A = A, in its list of Boolean algebra rules."
+      },
+      {
+       "q": "A . A-bar = 0 is which rule of Boolean algebra?",
+       "options": [
+        "Rule 5",
+        "Rule 7",
+        "Rule 10",
+        "Rule 8"
+       ],
+       "answer": 3,
+       "why": "The correct answer is: Rule 8. The lesson states that A . A-bar = 0 is the 8th rule of Boolean algebra. A variable combined with its own complement always gives 0, because the two can never be 1 at the same time."
+      },
+      {
+       "q": "Rule 11 of Boolean algebra, A-bar + A.B = A-bar + B, gives for example:",
+       "options": [
+        "B-bar + B.C = B-bar + C",
+        "B + B.C = B",
+        "B.C + C = C",
+        "B-bar . B = 0"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: B-bar + B.C = B-bar + C. The lesson gives exactly this example for Rule 11 in its list of Boolean algebra rules used in this unit."
+      }
+     ],
+     "notes_html": "<h4>Why we use Boolean algebra</h4>\n<p>Boolean algebra is used to describe the logical operations and processing of binary information; its pre-defined rules help to <b>simplify the logical expression</b>, so that the number of logic gates needed to perform a particular logic operation is reduced.</p>\n<h4>Truth tables</h4>\n<p>A truth table is a tabular representation of all the combinations of values for inputs and their corresponding outputs. With the combination of three variables, <b>eight</b> outputs are expected altogether — for three variables the truth table has 2 x 2 x 2 = 8 combinations / rows.</p>\n<h4>Rules of Boolean algebra used in this unit</h4>\n<table>\n<tr><th>Rule</th><th>Statement</th></tr>\n<tr><td>Rule 2</td><td>1 + A = 1</td></tr>\n<tr><td>Rule 4</td><td>A . 1 = A</td></tr>\n<tr><td>Rule 5</td><td>A + A = A</td></tr>\n<tr><td>Rule 7</td><td>A . A = A (for example B . B = B)</td></tr>\n<tr><td>Rule 8</td><td>A . Ā = 0</td></tr>\n<tr><td>Rule 10</td><td>A + A.B = A</td></tr>\n<tr><td>Rule 11</td><td>Ā + A.B = Ā + B (for example B̄ + B.C = B̄ + C)</td></tr>\n</table>\n<p>So A+A=A is the 5th rule of Boolean algebra, and A.Ā=0 is the 8th rule.</p>"
+    },
+    {
+     "title": "Simplifying Expressions and Designing Circuits",
+     "mcqs": [
+      {
+       "q": "In simplifying expressions, B.B simplifies to B by:",
+       "options": [
+        "Rule 2",
+        "Rule 7, because A . A = A",
+        "Rule 8",
+        "Rule 10"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: Rule 7, because A . A = A. The lesson uses this step when expanding Z = AB + A(B + C) + B(B + C), where BB becomes B by Rule 7."
+      },
+      {
+       "q": "AB + AB simplifies to AB by:",
+       "options": [
+        "Rule 5, because A + A = A",
+        "Rule 4",
+        "Rule 11",
+        "Rule 8"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: Rule 5, because A + A = A. The lesson notes this step in the same simplification, where the repeated AB term is written once."
+      },
+      {
+       "q": "B + BC simplifies to B by:",
+       "options": [
+        "Rule 2",
+        "Rule 7",
+        "Rule 10, because A + A.B = A",
+        "Rule 5"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Rule 10, because A + A.B = A. The lesson applies this rule to reduce B + BC to B while simplifying the expression for Z."
+      },
+      {
+       "q": "The expression Z = AB + A(B + C) + B(B + C) simplifies finally to:",
+       "options": [
+        "Z = AB + BC",
+        "Z = B + AC",
+        "Z = A + BC",
+        "Z = AC only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: Z = B + AC. The lesson expands the expression, reduces B + BC to B, and then uses Rule 2 and Rule 4 to reach the final simplified form Z = B + AC."
+      },
+      {
+       "q": "In that simplification, the step B(1 + A) + AC becomes B + AC because:",
+       "options": [
+        "1 + A = 1 by Rule 2, and B . 1 = B by Rule 4",
+        "A . A-bar = 0 by Rule 8",
+        "A + A = A by Rule 5",
+        "A-bar + A.B = A-bar + B by Rule 11"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: 1 + A = 1 by Rule 2, and B . 1 = B by Rule 4. The lesson names both rules at this final step of simplifying Z."
+      },
+      {
+       "q": "The expression ABC + AB C-bar + A-bar B simplifies to:",
+       "options": [
+        "BC",
+        "AC",
+        "B",
+        "A"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: B. The lesson takes AB common from the first two parts to get AB(C + C-bar) = AB, and then AB + A-bar B = B(A + A-bar) = B."
+      },
+      {
+       "q": "The expression ABC + A-bar BC simplifies to:",
+       "options": [
+        "AB",
+        "BC, by taking BC common: BC(A + A-bar) = BC",
+        "A",
+        "ABC itself"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: BC. The lesson takes BC common from both parts, giving BC(A + A-bar) = BC(1) = BC as the simplified form."
+      },
+      {
+       "q": "In the logic circuit of the 10th law, A + A.B = A, the circuit first sends A and B into:",
+       "options": [
+        "An OR gate to give A + B",
+        "A NOT gate",
+        "An AND gate to give A.B",
+        "A NAND gate"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: an AND gate to give A.B. The lesson then sends A and A.B into an OR gate to give A + A.B, whose output is A."
+      },
+      {
+       "q": "In the expression Q with two A.B parts and a bar over (A + B), Q simplifies to AB + (A + B)-bar because:",
+       "options": [
+        "AB + AB = AB by Rule 5",
+        "A . A-bar = 0 by Rule 8",
+        "1 + A = 1 by Rule 2",
+        "B.B = B by Rule 7"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: AB + AB = AB by Rule 5. The lesson notes that A.B is printed twice in the expression, and Rule 5 combines the two identical parts into one."
+      },
+      {
+       "q": "The circuit expression Y = ABC + A(B-bar + C-bar) simplifies finally to:",
+       "options": [
+        "Y = ABC",
+        "Y = BC",
+        "Y = A",
+        "Y = B + C"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Y = A. The lesson simplifies step by step using Rule 11 and then Rules 6, 2 and 4, ending with the simplified form Y = A."
+      }
+     ],
+     "notes_html": "<h4>Simplify: Z = AB + A(B + C) + B(B + C)</h4>\n<p>Expand: AB + AB + AC + BB + BC = AB + AC + B + BC (because BB = B, Rule 7, and AB + AB = AB, Rule 5). B + BC = B (Rule 10: A + A.B = A). Then Z = AB + AC + B = B + AB + AC = B(1 + A) + AC = B + AC (Rule 2: 1 + A = 1; Rule 4: B.1 = B). So <b>Z = B + AC</b>.</p>\n<h4>Simplify: two short expressions</h4>\n<ul>\n<li><b>ABC + ABĈ + ĀB = B</b> — take AB common from the first two parts: AB(C + Ĉ) = AB(1) = AB; then AB + ĀB = B(A + Ā) = B(1) = B.</li>\n<li><b>ABC + ĀBC = BC</b> — take BC common: BC(A + Ā) = BC(1) = BC.</li>\n</ul>\n<h4>Logic circuit of the 10th law of Boolean algebra</h4>\n<p>10th Rule: A + A.B = A. Circuit: A and B go into an AND gate to give A.B; then A and A.B go into an OR gate to give A + A.B, whose output is A.</p>\n<h4>Designing a circuit from a Boolean expression</h4>\n<p>Expression: Q = (A.B) + (A.B) + (A+B) with a bar over (A+B). Circuit: two AND gates (both with A and B) give the two A.B parts; one OR gate (with A and B) followed by a NOT gate gives (A+B) with a bar over it; then the three parts go into a three-input OR gate, whose output is Q. Note: A.B is printed twice in the expression; AB + AB = AB (Rule 5), so Q = AB + (A+B) with a bar over (A+B).</p>\n<h4>From a circuit to the expression, truth table and simplification</h4>\n<p>Circuit: A, B, C into a three-input AND gate; B and C through NOT gates into an OR gate; A and (B̄ + C̄) into an AND gate; both results into a final OR gate. Expression: <b>Y = ABC + A(B̄ + C̄)</b>.</p>\n<table>\n<tr><th>A</th><th>B</th><th>C</th><th>ABC</th><th>B̄+C̄</th><th>A(B̄+C̄)</th><th>Y</th></tr>\n<tr><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>\n<tr><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>\n<tr><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>\n<tr><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>\n<tr><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr>\n<tr><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td></tr>\n<tr><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr>\n<tr><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>\n</table>\n<p>Simplify: Y = A(BC + B̄ + C̄); B̄ + BC = B̄ + C (Rule 11); so Y = A(B̄ + C + C̄) = A(B̄ + 1) = A (Rule 6 and Rule 2 and Rule 4). So the simplified form is: <b>Y = A</b>.</p>"
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Introduction to Scratch",
+   "lessons": [
+    {
+     "title": "Scratch Basics: Sprites, Scripts and Backdrops",
+     "mcqs": [
+      {
+       "q": "Scratch is a:",
+       "options": [
+        "Text-based language",
+        "Visual language",
+        "Machine language",
+        "Paid language"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a visual language. The lesson lists this first among the features of Scratch, together with being free forever and having no need to remember codes."
+      },
+      {
+       "q": "Which of the following is a feature of Scratch?",
+       "options": [
+        "It is free forever",
+        "Codes must be memorized",
+        "Only one sprite is allowed",
+        "A backdrop is added by default"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: it is free forever. The lesson lists this as a feature of Scratch, along with being a visual language and needing no memorized codes."
+      },
+      {
+       "q": "In Scratch, there is no need to:",
+       "options": [
+        "Use sprites",
+        "Remember codes",
+        "Make scripts",
+        "Use the stage"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: remember codes. The lesson gives this as a feature of Scratch, because programs are made by joining blocks instead of typing memorized code."
+      },
+      {
+       "q": "A sprite in Scratch is:",
+       "options": [
+        "The background of the stage",
+        "The images of cartoons, characters or objects added in the project",
+        "A set of instructions",
+        "A sound file"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the images of cartoons, characters or objects added in the project. The lesson adds that the character which moves on the Stage is called a sprite."
+      },
+      {
+       "q": "The default sprite in Scratch is:",
+       "options": [
+        "A dog",
+        "A ball",
+        "The Cat",
+        "A fish"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the Cat. The lesson states that Cat is the default sprite, and that at least one sprite is always needed in a project."
+      },
+      {
+       "q": "A script in Scratch is:",
+       "options": [
+        "The background added on the stage",
+        "The set of step-wise instructions given to the sprite to do a particular task",
+        "The name of a sprite",
+        "A type of coordinate"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the set of step-wise instructions given to the sprite to do a particular task. The lesson adds that scripts are instructions that make sprites perform a task, and each sprite has its own script area."
+      },
+      {
+       "q": "Each sprite in a Scratch project has:",
+       "options": [
+        "No script at all",
+        "Its own script area",
+        "The same backdrop as the stage",
+        "Only one block forever"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: its own script area. The lesson states this about sprites, which is why in the sample conversation program each sprite carries its own code block."
+      },
+      {
+       "q": "A backdrop in Scratch is:",
+       "options": [
+        "A character that moves",
+        "The background added on the stage",
+        "A sound block",
+        "A set of instructions"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the background added on the stage. The lesson adds that the look of the stage can be changed by adding new backdrops."
+      },
+      {
+       "q": "By default, in a new Scratch project:",
+       "options": [
+        "Three backdrops are added",
+        "No backdrop is added",
+        "Every backdrop is added",
+        "The backdrop cannot be changed"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: no backdrop is added. The lesson states this directly, and says the look of the stage can be changed by adding new backdrops."
+      },
+      {
+       "q": "A Scratch program is at least made up of:",
+       "options": [
+        "Only sounds and backdrops",
+        "One sprite and code",
+        "Only one backdrop",
+        "Five sprites"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: one sprite and code. The lesson says a Scratch program is at least made up of one sprite and code, at least one sprite is always needed, and multiple sprites are possible."
+      }
+     ],
+     "notes_html": "<h4>Features of Scratch</h4>\n<ul>\n<li>It is a <b>visual</b> language.</li>\n<li>It is <b>free forever</b>.</li>\n<li>There is <b>no need to remember codes</b>.</li>\n</ul>\n<p>All of these are features of Scratch.</p>\n<h4>Sprite, script and backdrop</h4>\n<ul>\n<li><b>Script:</b> the set of step-wise instructions given to the sprite to do a particular task; scripts are instructions that make sprites perform a task; each sprite has its own script area.</li>\n<li><b>Sprite:</b> the images of cartoons, characters or objects added in the project — the character which moves on the Stage is called a sprite. We can have multiple sprites in a project but at least one sprite is always needed; Cat is the default sprite.</li>\n<li><b>Backdrop:</b> the background added on the stage; by default, no backdrop is added in a project; the look of the stage can be changed by adding new backdrops.</li>\n</ul>\n<h4>What a Scratch program is made of</h4>\n<p>A Scratch program is at least made up of <b>one sprite and code</b> — at least one sprite is always needed for the project, and every sprite has its own code / script.</p>"
+    },
+    {
+     "title": "The Stage, Coordinates and Block Palettes",
+     "mcqs": [
+      {
+       "q": "To change the position of a sprite on the screen, we use:",
+       "options": [
+        "Sounds",
+        "Coordinates, with x horizontal and y vertical",
+        "Costumes",
+        "Backdrops"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: coordinates, with x horizontal and y vertical. The lesson explains that the stage is divided into x (horizontal) and y (vertical) coordinates for this purpose."
+      },
+      {
+       "q": "Which command changes the position of the sprite to given x and y values?",
+       "options": [
+        "say",
+        "wait",
+        "go to x, y",
+        "play sound"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: go to x, y. The lesson states that the go to x, y command changes the position of the sprite on the stage."
+      },
+      {
+       "q": "Point A in the lesson's picture is at x = 100, y = -100, which is the:",
+       "options": [
+        "Upper-left quadrant",
+        "Lower-right quadrant, where x is positive and y is negative",
+        "Upper-right quadrant",
+        "Centre of the stage"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the lower-right quadrant, where x is positive and y is negative. The lesson marks Point A this way in its 480 x 360 stage matrix exercise."
+      },
+      {
+       "q": "The point x = -170, y = 100 lies in the:",
+       "options": [
+        "Upper-left (second) quadrant, x negative and y positive",
+        "Lower-left quadrant",
+        "Upper-right quadrant",
+        "Lower-right quadrant"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: the upper-left, or second, quadrant, where x is negative and y is positive. The lesson marks this point in its stage matrix exercise."
+      },
+      {
+       "q": "The point x = -120, y = -120 lies in the:",
+       "options": [
+        "Upper-right (first) quadrant",
+        "Upper-left quadrant",
+        "Lower-left (third) quadrant, x negative and y negative",
+        "On the x-axis"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the lower-left, or third, quadrant, where x is negative and y is negative. The lesson marks this point in its stage matrix exercise."
+      },
+      {
+       "q": "The point x = 150, y = 0 lies:",
+       "options": [
+        "In the first quadrant",
+        "On the x-axis, the middle horizontal line, on the right side",
+        "In the third quadrant",
+        "Outside the stage completely"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: on the x-axis, the middle horizontal line, on the right side. The lesson marks this point in its stage matrix exercise because y = 0 puts it on the horizontal axis."
+      },
+      {
+       "q": "The Motion block palette has which colour?",
+       "options": [
+        "Purple",
+        "Pink",
+        "Blue",
+        "Green"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: blue. The lesson's palette table gives Motion the colour blue, and explains that each block group has its own colour so the right block can be found quickly."
+      },
+      {
+       "q": "The Control block palette has which colour?",
+       "options": [
+        "Light blue",
+        "Golden yellow",
+        "Orange",
+        "Brown"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: golden yellow. The lesson's block palette table gives Control the golden yellow colour, while Sensing is light blue and Data is orange."
+      },
+      {
+       "q": "The Sound block palette has which colour?",
+       "options": [
+        "Pink",
+        "Blue",
+        "Green",
+        "Purple"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: pink. The lesson's palette table gives Sound the pink colour, while Looks is purple and Motion is blue."
+      },
+      {
+       "q": "The look of a sprite can be changed by using:",
+       "options": [
+        "The Motion palette",
+        "The Costume Tab, by clicking on the Costumes tab",
+        "The go to block",
+        "The Stage coordinates"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the Costume Tab, by clicking on the 'Costumes' tab. The lesson states that the costume of a sprite can be changed this way to change its look."
+      }
+     ],
+     "notes_html": "<h4>Coordinates on the stage</h4>\n<p>To change the position of a sprite on the screen, we use <b>coordinates</b> — the stage is divided into x (horizontal) and y (vertical) coordinates; the go to x, y command changes the position of the sprite. Example: Point A in the book's picture is at <b>x=100, y=-100</b> — Point A is in the lower-right quadrant, where x is positive and y is negative.</p>\n<h4>Marking points on the 480 x 360 stage matrix</h4>\n<table>\n<tr><th>Point</th><th>Position</th></tr>\n<tr><td>(a) x=-170, y=100</td><td>Upper-left (second) quadrant — x negative, y positive</td></tr>\n<tr><td>(b) x=110, y=190</td><td>Upper-right (first) quadrant — x positive, y positive (the stage's y range is -180 to 180, so y=190 lies slightly outside the top edge)</td></tr>\n<tr><td>(c) x=-120, y=-120</td><td>Lower-left (third) quadrant — x negative, y negative</td></tr>\n<tr><td>(d) x=150, y=0</td><td>On the x-axis (the middle horizontal line), on the right side</td></tr>\n</table>\n<p>To check the marks: for each point use the go to x: ... y: ... block and see whether the sprite goes to the marked place or not.</p>\n<h4>Block palettes and their colours</h4>\n<table>\n<tr><th>Palette</th><th>Colour</th></tr>\n<tr><td>Motion</td><td>Blue</td></tr>\n<tr><td>Events</td><td>Brown / orange</td></tr>\n<tr><td>Sound</td><td>Pink</td></tr>\n<tr><td>Looks</td><td>Purple</td></tr>\n<tr><td>Control</td><td>Golden yellow</td></tr>\n<tr><td>Sensing</td><td>Light blue</td></tr>\n<tr><td>Data</td><td>Orange</td></tr>\n<tr><td>Pen</td><td>Green</td></tr>\n<tr><td>Operators</td><td>Green</td></tr>\n</table>\n<p>Each block group has its own associated colour. The colours differentiate the different commands and help to quickly find the right block / option — the book says the colours will help you to find the option.</p>\n<h4>Changing the look of a sprite</h4>\n<p>The looks of a sprite can be changed by using the <b>Costume Tab</b> — the costume of a sprite can be changed by clicking on the \"Costumes\" tab.</p>"
+    },
+    {
+     "title": "Motion and Control Blocks",
+     "mcqs": [
+      {
+       "q": "The 'move 10 steps' block is found under which palette?",
+       "options": [
+        "Control",
+        "Looks",
+        "Motion",
+        "Sound"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: Motion. The lesson states that move 10 steps is found under Motion, and it moves the sprite in its current direction for the given steps."
+      },
+      {
+       "q": "The move steps block moves the sprite:",
+       "options": [
+        "To the centre of the stage",
+        "In its current direction for the given steps",
+        "Backwards only",
+        "To x = 0 and y = 0"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: in its current direction for the given steps. The lesson describes the move block in exactly this way."
+      },
+      {
+       "q": "The 'turn 15 degrees' command:",
+       "options": [
+        "Moves the sprite 15 steps",
+        "Turns the sprite to the specified degree",
+        "Waits 15 seconds",
+        "Changes the backdrop"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it turns the sprite to the specified degree. The lesson explains the turn command in these words, in its section on motion blocks."
+      },
+      {
+       "q": "The 'go to x, y' block sends the sprite to:",
+       "options": [
+        "A random position",
+        "The specified x, y coordinates, its position on the stage",
+        "The edge of the stage",
+        "Its starting costume"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the specified x, y coordinates, its position on the stage. The lesson lists this use of the go to x, y block among the common blocks."
+      },
+      {
+       "q": "The blocks repeat 10, forever and if ... then are available in which group?",
+       "options": [
+        "Motion",
+        "Sensing",
+        "Control",
+        "Pen"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: the Control group. The lesson states that repeat 10, forever and if ... then codes are available in the Control group."
+      },
+      {
+       "q": "The repeat 10 block:",
+       "options": [
+        "Repeats the following code blocks for infinite times",
+        "Repeats the following code blocks for the specified number of times, 10 times",
+        "Waits for 10 seconds",
+        "Repeats only sounds"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it repeats the following code blocks for the specified number of times, that is, 10 times. The lesson contrasts this with forever, which repeats for infinite times."
+      },
+      {
+       "q": "The forever block:",
+       "options": [
+        "Runs the following blocks only once",
+        "Keeps repeating the following code blocks for infinite times",
+        "Waits forever without running",
+        "Stops the program"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it keeps repeating the following code blocks for infinite times. The lesson gives this use of the forever block in its table of common blocks."
+      },
+      {
+       "q": "The wait block is used to:",
+       "options": [
+        "Say a phrase",
+        "Play a sound",
+        "Wait for specified seconds",
+        "Move the sprite"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: wait for specified seconds. The lesson lists the wait block with this use in its table of common blocks."
+      },
+      {
+       "q": "The say block, such as say for 2 secs:",
+       "options": [
+        "Plays the given sound",
+        "Says the given words or phrase for the specified seconds",
+        "Moves the sprite for 2 seconds",
+        "Changes the costume"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: it says the given words or phrase for the specified seconds. The lesson explains that say ... for 2 secs says it for the specified seconds."
+      },
+      {
+       "q": "The 'play sound' block:",
+       "options": [
+        "Says a phrase on the screen",
+        "Waits for a specified time",
+        "Plays the specified sound",
+        "Turns the sprite"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: it plays the specified sound. The lesson lists the play sound block with this use among the common blocks, separate from the say block which shows words."
+      }
+     ],
+     "notes_html": "<h4>Motion blocks</h4>\n<ul>\n<li><b>move 10 steps</b> is found under <b>Motion</b> — it moves the sprite in its current direction for the given steps.</li>\n<li>The <b>turn</b> command turns the sprite to the specified <b>degree</b> — the turn 15 degrees command turns the sprite to the specified degree.</li>\n<li><b>go to x, y</b> sends the sprite to the specified x, y coordinates (position on stage).</li>\n</ul>\n<h4>repeat 10 and forever</h4>\n<p>repeat 10, forever and if ... then codes are available in the <b>Control</b> group. <b>repeat 10</b> repeats the following code blocks for the specified number of times (10 times); <b>forever</b> keeps repeating the following code blocks for infinite times.</p>\n<h4>Use of common blocks</h4>\n<table>\n<tr><th>Block</th><th>Use</th></tr>\n<tr><td>forever</td><td>Keeps repeating the following code blocks for infinite times</td></tr>\n<tr><td>wait</td><td>Waits for specified seconds</td></tr>\n<tr><td>say</td><td>Says the given words / phrase (say ... for 2 secs says it for the specified seconds)</td></tr>\n<tr><td>play sound</td><td>Plays the specified sound</td></tr>\n<tr><td>go to x, y</td><td>Sends the sprite to the specified x, y coordinates (position on stage)</td></tr>\n</table>"
+    },
+    {
+     "title": "Scratch Online and Offline; Sample Programs",
+     "mcqs": [
+      {
+       "q": "In Scratch online, the editor is loaded in the web browser at:",
+       "options": [
+        "scratch.mit.edu/projects/editor",
+        "A downloaded exe file",
+        "The MIT offline installer",
+        "The Android store only"
+       ],
+       "answer": 0,
+       "why": "The correct answer is: scratch.mit.edu/projects/editor. The lesson's online-versus-offline table gives this address for using the editor in the web browser."
+      },
+      {
+       "q": "The online Scratch editor functions:",
+       "options": [
+        "Completely differently from the offline editor",
+        "Just like the offline editor",
+        "Without any stage",
+        "Only for viewing projects"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: just like the offline editor. The lesson states this in its comparison of Scratch online and offline."
+      },
+      {
+       "q": "An account can be created on Scratch to:",
+       "options": [
+        "Pay for every project",
+        "Save projects online",
+        "Remove the stage",
+        "Download the offline editor only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: save projects online. The lesson mentions creating an account on Scratch for this purpose in its online column."
+      },
+      {
+       "q": "For Scratch offline, the program is:",
+       "options": [
+        "Used only in a web browser",
+        "Downloaded and installed from the MIT website on a computer or an Android device",
+        "Never installed",
+        "Loaded from a USB only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: downloaded and installed from the MIT website on a computer or an Android device. The lesson's offline column describes running the exe file, choosing the location and creating shortcuts."
+      },
+      {
+       "q": "In the sample program where two sprites talk, each sprite has:",
+       "options": [
+        "The same single code block",
+        "No code at all",
+        "Its own code block",
+        "Only a backdrop"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: its own code block. The lesson notes this about the conversation program, where Sprite 1 and Sprite 2 take turns speaking."
+      },
+      {
+       "q": "In the two-sprite conversation program, the turn changes with:",
+       "options": [
+        "A motion block between the say blocks",
+        "A wait block between the say blocks",
+        "A sound block only",
+        "A backdrop change"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: a wait block between the say blocks. The lesson explains that the turn changes with a wait block placed between the say blocks of the two sprites."
+      },
+      {
+       "q": "In the sample conversation, the first line spoken when the flag is clicked is by Sprite 1:",
+       "options": [
+        "'I am fine! What about you?'",
+        "'Why did the computer go to school?'",
+        "'Hello! How are you?' for 2 secs",
+        "'I am fine too!'"
+       ],
+       "answer": 2,
+       "why": "The correct answer is: 'Hello! How are you?' for 2 secs. The lesson's sample conversation begins with this line from Sprite 1, followed by Sprite 2's reply."
+      },
+      {
+       "q": "In the circle program, the radius is set from:",
+       "options": [
+        "A fixed number in the code",
+        "The answer to 'Enter radius', asked with ask and wait",
+        "The mouse position",
+        "The backdrop name"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: the answer to 'Enter radius', asked with ask and wait. The lesson's program then sets radius to answer before computing the area and circumference."
+      },
+      {
+       "q": "In the circle program, the area is set to:",
+       "options": [
+        "2 x 3.14 x radius",
+        "3.14 x radius x radius",
+        "3.14 + radius",
+        "radius x radius only"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 3.14 x radius x radius. The lesson's program sets area this way, and sets circumference separately to 2 x 3.14 x radius."
+      },
+      {
+       "q": "In the same program, the circumference is set to:",
+       "options": [
+        "3.14 x radius x radius",
+        "2 x 3.14 x radius",
+        "3.14 x radius",
+        "2 x radius"
+       ],
+       "answer": 1,
+       "why": "The correct answer is: 2 x 3.14 x radius. The lesson's circle program sets circumference this way and then says the joined Area and Circumference results."
+      }
+     ],
+     "notes_html": "<h4>Scratch online vs offline</h4>\n<table>\n<tr><th>Online</th><th>Offline</th></tr>\n<tr><td>The editor is loaded in the web browser at scratch.mit.edu/projects/editor and used; it functions just like the offline editor; an account can be created on Scratch to save projects online</td><td>Scratch is downloaded and installed from the MIT website on a computer or an Android device to work offline (run the exe file, choose the location, shortcuts)</td></tr>\n</table>\n<h4>Sample program: two sprites talk with each other</h4>\n<p>When flag clicked: Sprite 1: say \"Hello! How are you?\" for 2 secs; Sprite 2: say \"I am fine! What about you?\" for 2 secs; Sprite 1: say \"I am fine too!\" for 2 secs; Sprite 2: say \"Why did the computer go to school? To improve its memory!\" for 2 secs. Each sprite has its own code block and the turn changes with a wait block between the say blocks. (The conversation lines are a sample.)</p>\n<h4>Program: area and circumference of a circle</h4>\n<p>When flag clicked: ask \"Enter radius\" and wait; set radius to answer; set area to 3.14 x radius x radius; set circumference to 2 x 3.14 x radius; say (join \"Area = \" area); say (join \"Circumference = \" circumference).</p>"
+    }
+   ]
+  }
+ ]
+}
