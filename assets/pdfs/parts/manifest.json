@@ -1882,5 +1882,265 @@
  "math-10-en-notes.pdf": {
   "parts": 74,
   "size": 330095
+ },
+ "math-10-si-notes.pdf": {
+  "parts": 245,
+  "size": 1101725
+ },
+ "math-10-ur-notes.pdf": {
+  "parts": 256,
+  "size": 1147691
+ },
+ "math-6-en-notes.pdf": {
+  "parts": 66,
+  "size": 293274
+ },
+ "math-6-si-notes.pdf": {
+  "parts": 148,
+  "size": 663467
+ },
+ "math-7-en-notes.pdf": {
+  "parts": 87,
+  "size": 387631
+ },
+ "math-7-si-notes.pdf": {
+  "parts": 322,
+  "size": 1448065
+ },
+ "math-7-ur-notes.pdf": {
+  "parts": 227,
+  "size": 1017484
+ },
+ "math-8-en-notes.pdf": {
+  "parts": 158,
+  "size": 708369
+ },
+ "math-8-si-notes.pdf": {
+  "parts": 236,
+  "size": 1061682
+ },
+ "math-8-ur-notes.pdf": {
+  "parts": 342,
+  "size": 1535799
+ },
+ "math-9-en-notes.pdf": {
+  "parts": 128,
+  "size": 574921
+ },
+ "math-9-si-notes.pdf": {
+  "parts": 214,
+  "size": 961940
+ },
+ "math-9-ur-notes.pdf": {
+  "parts": 246,
+  "size": 1103463
+ },
+ "mathematics-11-en-notes.pdf": {
+  "parts": 86,
+  "size": 383956
+ },
+ "mathematics-12-en-notes.pdf": {
+  "parts": 92,
+  "size": 410662
+ },
+ "mazhabi-taleemat-10-en-notes.pdf": {
+  "parts": 51,
+  "size": 227543
+ },
+ "mazhabi-taleemat-10-si-notes.pdf": {
+  "parts": 45,
+  "size": 200454
+ },
+ "mazhabi-taleemat-10-ur-notes.pdf": {
+  "parts": 207,
+  "size": 928303
+ },
+ "mazhabi-taleemat-6-si-notes.pdf": {
+  "parts": 55,
+  "size": 245454
+ },
+ "mazhabi-taleemat-6-ur-notes.pdf": {
+  "parts": 104,
+  "size": 466859
+ },
+ "mazhabi-taleemat-7-si-notes.pdf": {
+  "parts": 45,
+  "size": 200939
+ },
+ "mazhabi-taleemat-7-ur-notes.pdf": {
+  "parts": 103,
+  "size": 463406
+ },
+ "mazhabi-taleemat-8-si-notes.pdf": {
+  "parts": 82,
+  "size": 368686
+ },
+ "mazhabi-taleemat-8-ur-notes.pdf": {
+  "parts": 115,
+  "size": 515942
+ },
+ "pctb-c5-urdu-ur-notes.pdf": {
+  "parts": 225,
+  "size": 1010287
+ },
+ "pctb-c6-english-en-notes.pdf": {
+  "parts": 49,
+  "size": 219745
+ },
+ "pctb-c6-geography-en-notes.pdf": {
+  "parts": 42,
+  "size": 185675
+ },
+ "pctb-c6-mathematics-en-notes.pdf": {
+  "parts": 157,
+  "size": 704387
+ },
+ "pctb-c7-geography-en-notes.pdf": {
+  "parts": 44,
+  "size": 197268
+ },
+ "pctb-c7-mathematics-en-notes.pdf": {
+  "parts": 83,
+  "size": 372366
+ },
+ "pctb-c7-punjabi-pn-notes.pdf": {
+  "parts": 387,
+  "size": 1739333
+ },
+ "pctb-c7-urdu-ur-notes.pdf": {
+  "parts": 401,
+  "size": 1803461
+ },
+ "pctb-c8-islamiat-ur-notes.pdf": {
+  "parts": 163,
+  "size": 731029
+ },
+ "pctb-c8-mathematics-en-notes.pdf": {
+  "parts": 123,
+  "size": 552557
+ },
+ "pctb-c9-10-civics-ur-notes.pdf": {
+  "parts": 184,
+  "size": 827792
+ },
+ "pctb-c9-10-economics-en-notes.pdf": {
+  "parts": 65,
+  "size": 291625
+ },
+ "pctb-c9-10-economics-ur-notes.pdf": {
+  "parts": 157,
+  "size": 705763
+ },
+ "pctb-c9-10-general-science-en-notes.pdf": {
+  "parts": 51,
+  "size": 229092
+ },
+ "pctb-c9-10-general-science-ur-notes.pdf": {
+  "parts": 164,
+  "size": 737030
+ },
+ "pctb-c9-agriculture-science-tech-en-notes.pdf": {
+  "parts": 45,
+  "size": 199368
+ },
+ "pctb-c9-bio-tech-en-notes.pdf": {
+  "parts": 41,
+  "size": 181494
+ },
+ "pctb-c9-chemistry-tech-en-notes.pdf": {
+  "parts": 61,
+  "size": 274356
+ },
+ "pctb-c9-communication-skills-tech-en-notes.pdf": {
+  "parts": 49,
+  "size": 216720
+ },
+ "pctb-c9-computer-science-en-notes.pdf": {
+  "parts": 77,
+  "size": 346049
+ },
+ "pctb-c9-english-en-notes.pdf": {
+  "parts": 83,
+  "size": 369588
+ },
+ "pctb-c9-fashion-design-tech-en-notes.pdf": {
+  "parts": 54,
+  "size": 240876
+ },
+ "pctb-c9-general-science-tech-en-notes.pdf": {
+  "parts": 35,
+  "size": 153049
+ },
+ "pctb-c9-health-sciences-tech-en-notes.pdf": {
+  "parts": 46,
+  "size": 203567
+ },
+ "pctb-c9-ict-tech-en-notes.pdf": {
+  "parts": 35,
+  "size": 153985
+ },
+ "pctb-c9-physics-tech-en-notes.pdf": {
+  "parts": 53,
+  "size": 235246
+ },
+ "physics-10-en-notes.pdf": {
+  "parts": 48,
+  "size": 214370
+ },
+ "sindhi-6-si-notes.pdf": {
+  "parts": 76,
+  "size": 338930
+ },
+ "sindhi-7-si-notes.pdf": {
+  "parts": 87,
+  "size": 389670
+ },
+ "sindhi-8-si-notes.pdf": {
+  "parts": 106,
+  "size": 473475
+ },
+ "sindhi-9-si-notes.pdf": {
+  "parts": 83,
+  "size": 370585
+ },
+ "sindhi-lazmi-9-si-notes.pdf": {
+  "parts": 159,
+  "size": 713940
+ },
+ "social-studies-7-ur-notes.pdf": {
+  "parts": 199,
+  "size": 894202
+ },
+ "social-studies-8-en-notes.pdf": {
+  "parts": 44,
+  "size": 195396
+ },
+ "social-studies-8-si-notes.pdf": {
+  "parts": 64,
+  "size": 285033
+ },
+ "social-studies-8-ur-notes.pdf": {
+  "parts": 176,
+  "size": 791361
+ },
+ "urdu-10-ur-notes.pdf": {
+  "parts": 190,
+  "size": 851253
+ },
+ "urdu-6-ur-notes.pdf": {
+  "parts": 207,
+  "size": 930608
+ },
+ "urdu-7-ur-notes.pdf": {
+  "parts": 154,
+  "size": 688797
+ },
+ "urdu-8-ur-notes.pdf": {
+  "parts": 115,
+  "size": 516223
+ },
+ "urdu-9-ur-notes.pdf": {
+  "parts": 190,
+  "size": 851454
  }
 }
