@@ -1750,5 +1750,137 @@
  "computer-10-en-notes.pdf": {
   "parts": 45,
   "size": 198708
+ },
+ "computer-6-en-notes.pdf": {
+  "parts": 40,
+  "size": 178447
+ },
+ "computer-6-si-notes.pdf": {
+  "parts": 52,
+  "size": 232046
+ },
+ "computer-6-ur-notes.pdf": {
+  "parts": 102,
+  "size": 457369
+ },
+ "computer-7-en-notes.pdf": {
+  "parts": 36,
+  "size": 161379
+ },
+ "computer-7-si-notes.pdf": {
+  "parts": 50,
+  "size": 221786
+ },
+ "computer-7-ur-notes.pdf": {
+  "parts": 102,
+  "size": 455635
+ },
+ "computer-8-en-notes.pdf": {
+  "parts": 36,
+  "size": 160917
+ },
+ "computer-8-ur-notes.pdf": {
+  "parts": 90,
+  "size": 401854
+ },
+ "computer-9-en-notes.pdf": {
+  "parts": 40,
+  "size": 177113
+ },
+ "computer-9-si-notes.pdf": {
+  "parts": 57,
+  "size": 254470
+ },
+ "computer-9-ur-notes.pdf": {
+  "parts": 111,
+  "size": 498418
+ },
+ "english-10-en-notes.pdf": {
+  "parts": 112,
+  "size": 500935
+ },
+ "english-11-en-notes.pdf": {
+  "parts": 149,
+  "size": 667342
+ },
+ "english-6-en-notes.pdf": {
+  "parts": 53,
+  "size": 235401
+ },
+ "english-7-en-notes.pdf": {
+  "parts": 50,
+  "size": 223358
+ },
+ "english-8-en-notes.pdf": {
+  "parts": 81,
+  "size": 363122
+ },
+ "english-9-en-notes.pdf": {
+  "parts": 92,
+  "size": 411171
+ },
+ "isl-6-sd-notes.pdf": {
+  "parts": 49,
+  "size": 219855
+ },
+ "isl-6-ur-notes.pdf": {
+  "parts": 114,
+  "size": 510622
+ },
+ "isl-8-sd-notes.pdf": {
+  "parts": 104,
+  "size": 466020
+ },
+ "isl-8-ur-notes.pdf": {
+  "parts": 131,
+  "size": 587999
+ },
+ "isl-9-sd-notes.pdf": {
+  "parts": 188,
+  "size": 843355
+ },
+ "isl-9-ur-notes.pdf": {
+  "parts": 248,
+  "size": 1111758
+ },
+ "islamiat-10-en-notes.pdf": {
+  "parts": 63,
+  "size": 281495
+ },
+ "islamiat-10-si-notes.pdf": {
+  "parts": 188,
+  "size": 843466
+ },
+ "islamiat-10-ur-notes.pdf": {
+  "parts": 248,
+  "size": 1112057
+ },
+ "islamiat-6-en-notes.pdf": {
+  "parts": 42,
+  "size": 186611
+ },
+ "islamiat-7-en-notes.pdf": {
+  "parts": 41,
+  "size": 183215
+ },
+ "islamiat-7-si-notes.pdf": {
+  "parts": 111,
+  "size": 496435
+ },
+ "islamiat-7-ur-notes.pdf": {
+  "parts": 120,
+  "size": 536013
+ },
+ "islamiat-8-en-notes.pdf": {
+  "parts": 46,
+  "size": 206655
+ },
+ "islamiat-9-en-notes.pdf": {
+  "parts": 60,
+  "size": 268245
+ },
+ "math-10-en-notes.pdf": {
+  "parts": 74,
+  "size": 330095
  }
 }
