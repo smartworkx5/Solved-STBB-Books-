@@ -1,0 +1,170 @@
+{
+ "book": "pctb-c9-general-science-tech-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Introduction and Role of Science",
+   "lessons": [
+    {
+     "title": "What Science Means",
+     "notes_html": "<p><strong>Science</strong> comes from the Latin word <i>Scientia</i>, which means to study and analyse facts in their original form. Its basic principle is <strong>observation</strong> and <strong>hypothesis</strong>, and a scientific law is established in the light of experiments.</p><p>In short, science is the systematic study of facts through observation, hypothesis and experiment.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "The Five Branches of Science",
+     "notes_html": "<p>The chapter gives five main branches of science:</p><ul><li><strong>Physics</strong> — the study of matter, energy and motion, including mechanics, heat, light and sound.</li><li><strong>Chemistry</strong> — the study of the composition and properties of matter.</li><li><strong>Biology</strong> — the study of living things, plants and animals; the study of animals is called <strong>zoology</strong>.</li><li><strong>Astronomy</strong> — the study of the universe, stars and planets.</li><li><strong>Mathematics</strong> — the study of numbers, quantities and shapes, on which the other sciences depend.</li></ul><p>The chapter also lists Agriculture, Medicine and Geography as further branches.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Muslim Scientists and Their Contributions",
+     "notes_html": "<ul><li><strong>Jabir Bin Hayyan</strong> is the founder of <strong>chemistry</strong>. He extracted metals, prepared nitric, sulphuric and hydrochloric acids, and discovered the properties of sulphur, mercury and sodium carbonate.</li><li><strong>Muhammad Bin Zikrya Al-Razi</strong> was a chemist and physician. He was the first to explain the causes, symptoms, treatment and prevention of chicken pox and smallpox, and he classified chemical substances into four groups: plants, animals, minerals and man-made substances. <strong>Al-Razi</strong> divided chemical compounds into four categories.</li><li><strong>Bu Ali Sina</strong> is called the <strong>Aristotle</strong> of the Muslim world and is considered one of the founders of medicine.</li><li><strong>Ibn-ul-Haitham</strong> worked in the branch of <strong>light (optics)</strong>; his <strong>Kitab-ul-Manazir</strong> is the first book on light (optics).</li><li><strong>Al-Bairuni</strong> wrote the famous book <strong>Tahreer-ul-Amakin</strong>.</li></ul><p>Two statements often confused: the knowledge about animals is called zoology, not botany, and Kitab-ul-Manazir is the work of Ibn-ul-Haitham, not Al-Bairuni.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Pakistani Scientists",
+     "notes_html": "<ul><li><strong>Dr. Abdus Salam</strong> is the only Pakistani <strong>Nobel laureate</strong> (1979). He gave the theory of the unification of the weak nuclear force and the electromagnetic force, and founded the International Centre for Theoretical Physics at Trieste.</li><li><strong>Dr. Abdul Qadeer Khan</strong> is the founder of Pakistan's nuclear programme. The <strong>Kahuta</strong> research laboratories were renamed Dr. A. Q. Khan Research Laboratories in his honour, and Pakistan conducted its nuclear tests at Chaghi on 28 May 1998 under his work.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Importance of Science in the Light of the Holy Quran",
+     "notes_html": "<p>The Holy Quran repeatedly invites man to observe and think: Allah says that if the ocean were ink for the words of the Lord, the ocean would be exhausted before His words (Surah Al-Kahf 18:109), and that man has been given only a little knowledge (Surah Bani Israel 17:85).</p><p>The first revelation commands, 'Read! In the name of your Lord' (Surah Al-Alaq 96:1-5), and Allah says He created everything in pairs (Surah Al-Zariyat 51:49). The Holy Prophet (PBUH) said seeking knowledge is an obligation on every man and woman, and to seek knowledge from the cradle to the grave.</p><p>Science is therefore the study of Allah's creation through observation and reason.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Our Life and Chemistry",
+   "lessons": [
+    {
+     "title": "Photosynthesis and Carbon Compounds",
+     "notes_html": "<p><strong>Photosynthesis</strong> is the process by which green plants manufacture carbohydrates (glucose) from atmospheric carbon dioxide and water from the soil, in the presence of sunlight energy and chlorophyll. It takes place only in the chlorophyll-containing cells of leaves and stems, oxygen is released as a by-product, and it is an <strong>anabolic</strong> (building-up) process, the reverse of respiration.</p><p>Water + Carbon dioxide → Glucose + Oxygen</p><p><strong>Carbon compounds</strong> are the main source of energy for living things. Carbohydrates are the simplest food compounds, and glucose is their simplest form. In respiration, glucose is oxidised with oxygen to give carbon dioxide, water and energy:</p><p>Glucose + Oxygen → Carbon dioxide + Water + Energy</p><p>This energy runs all the activities of the body. Most of our food is obtained from carbohydrates.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Water — A Unique Compound",
+     "notes_html": "<p><strong>Water</strong> is the only chemical compound found naturally as a liquid, as a solid (ice) and as a gas (water vapours). Two thirds of the human body is made up of water, and tomatoes contain about 95% water.</p><h4>Anomalous Expansion of Water</h4><p>Water does not behave like other liquids on cooling. Its density is maximum at 4°C. When water below 4°C is cooled further, it expands instead of contracting, so that at 0°C the density of ice is only 0.918 g/cm³ while water is about 1.00 g/cm³.</p><p>Ice is therefore lighter than water and floats, and the water below the ice stays at 4°C, which protects fish and other aquatic animals in winter.</p><h4>Functions of Water</h4><ul><li>Water is a universal solvent.</li><li>It is used for cooking.</li><li>It is essential for photosynthesis.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Oxygen and Nitrogen",
+     "notes_html": "<h4>Oxygen</h4><p><strong>Oxygen</strong> is a colourless, odourless gas which is slightly soluble in water, so fish and aquatic life depend on it. It is the second most abundant gas in air after nitrogen (21% by volume) and is essential for life. It is the most abundant element in the human body, while hydrogen is not.</p><p>Oxygen supports respiration, in which food (mainly glucose) is oxidised to release energy, and combustion, for which fuel, heat and oxygen are all required. Ozone, produced from oxygen in the atmosphere, protects living things by absorbing the sun's ultraviolet light.</p><h4>Nitrogen</h4><p><strong>Nitrogen</strong> occurs in the atmosphere as diatomic molecules and is its major constituent (78% by volume). It is relatively inert and acts as an important diluent of air, slowing down combustion and corrosion.</p><p>Nitrogen also occurs in plants and animals in the form of proteins: plants make protein from nitrates in the soil, and animals obtain protein by eating plants. Through the nitrogen cycle, nitrogen moves regularly between living organisms, soil and air, keeping its amount in air constant.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Elements in Living Things",
+     "notes_html": "<ul><li><strong>Natural gas</strong> is methane. (The chapter gives no percentage of methane in natural gas.)</li><li>A dilute solution of iodine in ethanol is known as <strong>tincture of iodine</strong>.</li><li><strong>Phosphorus</strong> is an important constituent of ATP and ADP, the energy-storage phosphate compounds.</li><li><strong>Sodium</strong> is an essential element; the percentage of sodium in leaf tissue ranges from 0.01% to 10%.</li><li>Air contains about 78% nitrogen, 21% oxygen, 0.9% argon and 0.03% carbon dioxide.</li></ul><h4>Chlorine</h4><p><strong>Chlorine</strong> is a very poisonous gas, but it has many beneficial uses in daily life. It is used to kill germs and bacteria, in domestic bleaches, and in water purification and swimming pools.</p><p>Polyvinyl chloride (PVC), a common plastic compound of chlorine, is used as an insulator and waterproofing material. Chlorine is also essential for higher plants and mammals: sodium chloride acts as an electrolyte and hydrochloric acid acts as a digestive juice in the body.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Biochemistry and Biotechnology",
+   "lessons": [
+    {
+     "title": "Metabolism and Enzymes",
+     "notes_html": "<p><strong>Metabolism</strong> is the sum total of all the chemical reactions taking place in a living body. It has two parts: <strong>anabolic</strong> reactions, which build up substances (like photosynthesis), and <strong>catabolic</strong> reactions, which break down substances to release energy (like respiration).</p><h4>Catalysts and Enzymes</h4><p>A <strong>catalyst</strong> is a substance that speeds up a chemical reaction without itself being used up or changed at the end of the reaction.</p><p>An <strong>enzyme</strong> is a biological catalyst, usually a protein, made by living cells, which speeds up a biochemical reaction without being used up itself, and each enzyme is very <strong>specific</strong> in its function.</p><h4>Enzymes in Daily Life</h4><ul><li>Enzymes digest our food — for example amylase digests starch and pepsin digests proteins.</li><li>Papain, obtained from the papaya plant, tenderises meat.</li><li>Enzymes are used in making bread and cheese and in washing powders to remove stains.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Components of Blood",
+     "notes_html": "<p><strong>Blood</strong> has two main parts. The liquid part is <strong>plasma</strong>, which carries dissolved substances around the body. Floating in the plasma are the blood cells:</p><ul><li><strong>Red blood cells</strong> (erythrocytes), which carry oxygen.</li><li><strong>White blood cells</strong> (leucocytes), which defend the body against germs.</li><li><strong>Platelets</strong> (thrombocytes), which help the blood to clot.</li></ul><p>Human blood is classified into <strong>A, B, AB and O</strong> groups on the basis of antigen and antibody. Blood group <strong>AB</strong> is called the universal recipient.</p><p><strong>Vaccination</strong> stimulates the immune system of the body.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Genetic Engineering and Biotechnology",
+     "notes_html": "<p><strong>Genetic engineering</strong> is the technique of changing an organism's genes by inserting, removing or modifying a gene to give it a desired character.</p><p>A <strong>transgenic organism</strong> is an organism whose genetic material has been changed by genetic engineering, by inserting a gene from another organism into it. The new gene gives the organism a desired character, for example Bt cotton, which carries a bacterial gene that protects it from insect pests.</p><h4>Help in Agriculture and Livestock</h4><p>In agriculture genetic engineering produces high-yield, disease-resistant and pest-resistant crops, such as Bt cotton. In livestock it can improve milk and meat production and breed animals resistant to disease, raising both quantity and quality.</p><p>An <strong>antibiotic</strong> is a medicine, originally produced by a microorganism, which kills bacteria or stops their growth. It is used to treat bacterial infections; penicillin, the first antibiotic, is used against many bacterial diseases.</p><p>The term 'Biotechnology' was not introduced in 1980.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Recycling of Waste Materials",
+     "notes_html": "<p><strong>Recycling</strong> means collecting waste materials and processing them to make new, useful products instead of throwing them away.</p><h4>Benefits of Recycling</h4><ul><li>Less rubbish, so less environmental pollution.</li><li>Conservation of raw materials and natural resources.</li><li>Treatment of sewage saves water, which is scarce in many parts of the world.</li><li>Saving of energy and money.</li></ul><p>Paper, cardboard, plastic, rubber, metal and glass discarded as rubbish are retrieved and recycled through their industries: reusing newspapers saves trees and prevents deforestation, broken glass is crushed to make new containers, and aluminium cans and bottle caps are recycled to save materials, energy and money.</p><p>Sewage is treated in sewage tanks and the purified water is discharged into rivers and reservoirs for reuse. Household paper waste can be burnt to provide heat and hot water, and organic waste gives manure and heat energy.</p><p>The three methods of waste disposal in developed countries are compost (natural fertilizer), burning in incinerators, and burying underground by hygienic methods.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Human Health",
+   "lessons": [
+    {
+     "title": "Components of Food",
+     "notes_html": "<p>The basic <strong>components of food</strong> are carbohydrates, proteins, fats, vitamins, minerals and water. Roughage (fibre) from plant food is also an important part of the diet, because it helps digestion and prevents constipation.</p><ul><li><strong>Carbohydrates</strong> are the main source of energy; glucose is their simplest form and starch and cellulose are their common forms. <strong>Cellulose</strong> is the most abundant naturally occurring carbohydrate of the world.</li><li><strong>Proteins</strong>, made of amino acids, build and repair the body.</li><li><strong>Fats and oils</strong> are formed by the chemical combination of fatty acids with <strong>glycerol</strong>; they store energy and give 9.3 Kcal per gram.</li><li><strong>Vitamins</strong> are required in very small amounts: A, D, E and K are fat soluble, while B and C are water soluble.</li><li><strong>Minerals</strong> such as iron, iodine, calcium, sodium and potassium are needed for blood, bones, nerves and glands.</li><li><strong>Water</strong>, about two thirds of the body, acts as a solvent and carrier and regulates body temperature.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Proteins",
+     "notes_html": "<p><strong>Proteins</strong> are the building materials of the body. They are made of small units called <strong>amino acids</strong>, and foods containing carbon, hydrogen, oxygen and nitrogen are proteins, for example meat, fish, pulses, milk and eggs.</p><p>Proteins build new cells, repair worn-out tissues, and form enzymes, hormones and antibodies. The flesh of human beings, animals, birds and fishes is made of proteins. Glucose is not a building block of proteins.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Vitamins and Minerals",
+     "notes_html": "<p><strong>Vitamins</strong> are organic compounds which the body needs in very small amounts but cannot do without; they do not give energy themselves, but they regulate the body's working. They are of two kinds: fat-soluble vitamins A, D, E and K, which are stored in the body, and water-soluble vitamins B and C, which must be taken regularly in food.</p><ul><li><strong>Vitamin A</strong> keeps the eyes healthy and is a fat soluble vitamin; its deficiency causes <strong>night blindness</strong>.</li><li><strong>Vitamin D</strong> helps bones absorb calcium; its deficiency in children causes <strong>rickets</strong>.</li><li><strong>Vitamin C</strong> prevents scurvy and keeps gums and skin healthy. Rickets is not caused by vitamin C deficiency.</li><li>The <strong>B-group vitamins</strong> help the body to release energy from food, keep the nerves and skin healthy, and help in the formation of red blood cells. Deficiency of vitamin B causes beri-beri and weakness of nerves.</li><li><strong>Iron</strong> is present at the active centre of haemoglobin and myoglobin, the molecules that carry oxygen in the blood and muscles, and of cytochromes and ferredoxins for electron transport. Without enough iron the blood cannot carry oxygen properly and anaemia results.</li><li>Deficiency of <strong>iodine</strong> causes <strong>goiter</strong>.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Balanced Diet and Exercise",
+     "notes_html": "<p>A <strong>balanced diet</strong> is a diet which contains all the components of food — carbohydrates, proteins, fats, vitamins, minerals, water and roughage — in the right proportions for a person's age, work and health.</p><ul><li>Growing children need more protein and calcium for growth of bones and muscles.</li><li>Hard-working labourers need more carbohydrates and fats for energy.</li><li>Pregnant and nursing mothers need extra protein, iron and calcium.</li><li>Old people need less fat and energy but enough calcium, vitamins and fibre.</li><li>Students and office workers need a moderate, balanced diet with plenty of vegetables, milk and fruit and less fried food.</li></ul><h4>Importance of Exercise</h4><p>Exercise strengthens the heart and muscles, improves blood circulation and breathing, and helps digestion. It controls body weight and prevents obesity, diabetes and heart disease. It also refreshes the mind, reduces stress and improves sleep, so regular exercise is as important for health as a balanced diet.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Endocrine Glands and Hormones",
+     "notes_html": "<p><strong>Endocrine glands</strong> pour their hormones directly into the blood.</p><ul><li>The <strong>pituitary gland</strong> is the master gland that controls other glands.</li><li>The <strong>thyroid gland</strong> secretes <strong>thyroxin</strong>, which controls the rate of metabolism in the body. Thyroxin is not secreted by the parathyroid gland.</li><li>The <strong>parathyroid glands</strong> control calcium in blood and bones.</li><li>The <strong>pancreas</strong> (islets of Langerhans) secretes <strong>insulin</strong> and <strong>glucagon</strong>, which control blood glucose.</li><li>The <strong>adrenal glands</strong> secrete <strong>epinephrine</strong> (adrenaline), the emergency hormone that controls involuntary action and prepares the body for sudden action by quickening the heartbeat and breathing.</li><li>The <strong>gonads</strong> secrete sex hormones that control growth and reproduction.</li></ul><h4>Role of Insulin</h4><p>Insulin is a hormone formed in the pancreas. It lowers the level of glucose in the blood by helping the body cells to take in glucose and use or store it. When insulin is deficient, blood glucose rises and the disease diabetes results.</p><p><strong>Rabies</strong> is caused by the bite of a rabid dog. The virus attacks the nervous system, so a dog-bite patient must be taken to hospital at once for anti-rabies treatment and vaccination.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Diseases, Cause and Prevention",
+   "lessons": [
+    {
+     "title": "Agents Causing Diseases and Immunization",
+     "notes_html": "<p>The different agents that cause diseases are:</p><ul><li><strong>Bacteria</strong>, which can be seen only with a microscope — for example tuberculosis and typhoid.</li><li><strong>Viruses</strong> — for example polio, AIDS and hepatitis.</li><li><strong>Fungi</strong>, which cause skin diseases.</li><li><strong>Protozoa</strong> — for example the Plasmodium that causes malaria.</li><li>Worms and other parasites that live in the body.</li></ul><ul><li><strong>E.P.I.</strong> stands for Expanded Programme on Immunization.</li><li>The <strong>B.C.G.</strong> injection protects from tuberculosis (T.B.) and is given to the child at birth.</li><li>The <strong>DPT</strong> injection gives immunity against three diseases: Diphtheria, Pertussis (whooping cough) and Tetanus.</li><li>Antibiotic drugs are not used against viral diseases, and tuberculosis is a treatable disease.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "AIDS — Cause, Spread and Prevention",
+     "notes_html": "<p>The AIDS virus is called <strong>HIV</strong> (Human Immunodeficiency Virus). It attacks the body's immune system and destroys its power to fight infections, so the patient becomes prey to many diseases. AIDS is an infectious disease.</p><h4>How AIDS Spreads</h4><p>AIDS spreads in four main ways: transfusion of infected blood, use of unsterilised syringes, needles or razors, sexual contact with an infected person, and from an infected mother to her child during birth or breast-feeding. It does not spread by casual contact, sharing food or shaking hands.</p><h4>Preventive Measures</h4><p>Blood must be tested before transfusion, only disposable syringes should be used, razors and needles must not be shared, and people must be educated about safe behaviour and early testing.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Malaria and Hepatitis",
+     "notes_html": "<p><strong>Malaria</strong> spreads through the bite of the female Anopheles mosquito. When this mosquito bites a malaria patient and then a healthy person, it injects the malaria parasite (Plasmodium) into the healthy person's blood, and the disease begins. The polio virus, by contrast, affects the nervous system.</p><h4>Prevention of Malaria</h4><ul><li>Do not let water stand anywhere, because mosquitoes breed in stagnant water.</li><li>Sleep under mosquito nets.</li><li>Spray insecticides in houses and surroundings.</li><li>Cover the body with clothes, especially in the evening.</li><li>Take anti-malarial medicine on a doctor's advice when travelling to, or living in, a malaria area, and get fever tested at once.</li></ul><p><strong>Hepatitis</strong> virus spreads by the faeco-oral route through food and water. In hepatitis, water, sugarcane juice and other juices can all be used freely.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Smoking and Mental Diseases",
+     "notes_html": "<h4>Effects of Smoke and Smoking</h4><p>Cigarette smoke contains <strong>nicotine</strong>, which makes the smoker addicted, <strong>tar</strong>, which damages the lungs and causes lung cancer and bronchitis, and <strong>carbon monoxide</strong>, which reduces the blood's power to carry oxygen.</p><p>Smoking therefore causes lung and heart diseases, weakens stamina, stains teeth and fingers, and harms non-smokers too through passive smoking. A cigarette smoker is not protected from lung and heart diseases. Quitting smoking greatly reduces all these risks.</p><h4>Mental Diseases</h4><p>Mental diseases disturb a person's thinking, mood and behaviour.</p><ul><li><strong>Depression</strong> is a long-lasting state of sadness and loss of interest in life.</li><li><strong>Anxiety</strong> is excessive worry and fear that disturbs daily work.</li><li><strong>Schizophrenia</strong> is a serious disease in which the patient loses contact with reality and may hear voices or hold false beliefs.</li><li>Drug abuse also causes mental disease: hallucinogens, for example cannabis, disrupt the brain's function to such an extent that the person is unable to recognise time, place, sound, colour and vision.</li></ul><p>Such patients need medical treatment, care and sympathy, not ridicule.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Environment and Natural Resources",
+   "lessons": [
+    {
+     "title": "Pollution and Pollutants",
+     "notes_html": "<p><strong>Pollution</strong> is the addition of harmful substances to the environment in such amounts that air, water or land becomes unfit for living things. <strong>Pollutants</strong> are the substances that cause pollution, for example smoke, sewage, industrial waste and plastic.</p><p>An <strong>endangered species</strong> is a species of plant or animal whose numbers have become so small, mainly through habitat destruction and hunting, that it is in danger of extinction. Habitat destruction is one reason for the extinction of many species.</p><ul><li>Areas reserved for wildlife are called <strong>national parks</strong>.</li><li><strong>Migration</strong> is moving out from an area and settling in another area.</li><li>The total number of persons living in an area is called its <strong>population</strong>.</li><li>About 60% of the population of Pakistan is dependent upon agriculture.</li></ul><h4>Aquatic Pollution</h4><p>Causes: untreated sewage, industrial waste, oil spills, and fertilisers and pesticides washed from fields into rivers and lakes. Effects: fish and other aquatic animals die, water becomes unfit for human consumption, and water-borne diseases spread.</p><p>Control: sewage and industrial waste must be treated before discharge, dumping of waste into water must be banned by law, oil spills must be cleaned at once, use of harmful chemicals near water must be reduced, and people must be taught to keep water clean.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Greenhouse Effect and Ozone Layer",
+     "notes_html": "<p>The <strong>greenhouse effect</strong> is the warming of the earth because gases such as carbon dioxide absorb infrared rays and do not let them escape into space, just as the glass of a greenhouse traps heat inside. Radiation of infrared wavelength cannot go out of the greenhouse.</p><h4>Causes</h4><p>The burning of too much carbon-containing fuel in factories, vehicles and homes, which liberates too much carbon dioxide, and the cutting of forests, which removes the trees that absorb carbon dioxide.</p><h4>Effects</h4><ul><li>The temperature of the earth rises (global warming), because carbon dioxide and other gases trap infrared radiation.</li><li>The higher temperature causes the ice on the mountains to melt, which leads to flooding, and the weather pattern of the planet is also affected, with rising sea levels threatening coastal areas.</li></ul><h4>Depletion of the Ozone Layer</h4><p>The <strong>ozone layer</strong> in the upper atmosphere absorbs the sun's harmful ultraviolet rays and prevents them from reaching the earth, protecting living things. It is being depleted mainly by <strong>chlorofluorocarbons</strong> (CFCs), chemicals used in refrigerators, air conditioners and spray cans.</p><p>When CFCs reach the ozone layer they break down ozone, so more ultraviolet radiation reaches the earth. This increases skin cancer and eye damage in man and harms crops and animals. Depletion can be controlled by banning CFCs and using safe alternatives. The proportion of carbon dioxide in air is 0.03%.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Fossil Fuels and Human Activities",
+     "notes_html": "<p><strong>Fossil fuels</strong> — coal, petroleum and natural gas — are used to produce electricity, run factories and vehicles, cook food and heat homes; they are the main source of energy in the world today. Fossil fuels and minerals are <strong>non-renewable</strong> resources.</p><p>Their environmental effects are serious: burning them liberates carbon dioxide, which causes the greenhouse effect and global warming, and smoke, which pollutes the air and causes breathing diseases. Oil spills pollute seas and coasts. Moreover, fossil fuels are non-renewable resources, so wasteful use exhausts them for future generations.</p><h4>How Human Activities Affect the Environment</h4><p>Burning fossil fuels in factories and vehicles pollutes the air with smoke and carbon dioxide. Clearing forests to meet the needs of a growing population causes unfavourable climatic changes, soil erosion and waste of fertile agricultural land. Industrial and domestic waste pollutes rivers and land.</p><p>The growing population itself creates shortages of food, water, housing and jobs, forces many people to live in slums, and increases the number of illiterate children, lowering the quality of life of the nation.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Conservation of Resources and Wildlife",
+     "notes_html": "<p><strong>Conservation of resources</strong> means using natural resources wisely so that they last for future generations. Two methods are:</p><ul><li>Reuse and recycle materials such as paper, glass, metal and plastic, so that fewer raw materials are used and less rubbish is produced.</li><li>Use resources wisely and plant trees: save water and energy, protect forests, and use renewable sources of energy such as sunlight, wind and water instead of exhausting fossil fuels.</li></ul><p>Conservation also includes saving water and electricity and avoiding waste, planting trees and protecting forests, and protecting wildlife and soil. By conserving resources we control pollution, keep the environment healthy and secure the needs of the growing population.</p><h4>Benefits and Importance of Wildlife</h4><ul><li>Wildlife maintains the balance of nature: every animal and plant has a place in food chains, and removing one species disturbs the whole ecosystem.</li><li>Wildlife is useful to man: it provides food, medicines and raw materials, and its beauty and variety attract tourists and add to the wealth and pleasure of a country.</li></ul><p><strong>Wildlife conservation</strong> means protecting wild animals and plants and their habitats. National parks are large areas reserved for wildlife where hunting and cutting of trees are banned, so animals can live and breed safely.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Farming, Population and Environment",
+     "notes_html": "<h4>Mechanized Farming and Modern Trends</h4><p><strong>Mechanized farming</strong> uses tractors, harvesters, tube wells, high-yield seeds, chemical fertilisers and pesticides, and modern methods of irrigation and storage. It greatly increases production and reduces labour, but careless use of chemicals and water can harm soil and health.</p><h4>Dairy, Poultry and Fish Farming</h4><p>Dairy farming is rearing cattle for milk, poultry farming is rearing hens for eggs and meat, and fish farming is rearing fish in ponds. All three provide protein-rich food, employment and income to farmers.</p><h4>Environmental Problems Due to Increase in Population</h4><p>Increase in population creates many environmental problems. More people need more food, water, housing, schools and jobs, but resources are limited, so shortages arise and many people are forced to live in slums.</p><p>Forests are cleared to fulfil the needs of the growing population, which leads to unfavourable climatic changes, soil erosion and waste of fertile agricultural land. More waste and smoke increase pollution of air, water and land. The quality of life of a nation, judged by education, health, nutrition, housing, clean water and electricity, falls, and the number of illiterate children increases day by day.</p>",
+     "mcqs": []
+    }
+   ]
+  }
+ ]
+}
