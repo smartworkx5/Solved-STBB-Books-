@@ -2411,6 +2411,150 @@
   "parts": 190,
   "size": 851454
  },
+ "btbb-c1-english-english-notes.pdf": {
+  "parts": 72,
+  "size": 322422
+ },
+ "btbb-c1-general-knowledge-urdu-notes.pdf": {
+  "parts": 132,
+  "size": 592343
+ },
+ "btbb-c1-islamiat-urdu-notes.pdf": {
+  "parts": 106,
+  "size": 473172
+ },
+ "btbb-c1-math-english-notes.pdf": {
+  "parts": 54,
+  "size": 242998
+ },
+ "btbb-c1-urdu-urdu-notes.pdf": {
+  "parts": 235,
+  "size": 1054275
+ },
+ "btbb-c10-chemistry-english-notes.pdf": {
+  "parts": 74,
+  "size": 329447
+ },
+ "btbb-c10-english-english-notes.pdf": {
+  "parts": 76,
+  "size": 339229
+ },
+ "btbb-c12-biology-english-notes.pdf": {
+  "parts": 302,
+  "size": 1356506
+ },
+ "btbb-c12-chemistry-english-notes.pdf": {
+  "parts": 392,
+  "size": 1760778
+ },
+ "btbb-c12-english-english-notes.pdf": {
+  "parts": 115,
+  "size": 515592
+ },
+ "btbb-c12-physics-english-notes.pdf": {
+  "parts": 101,
+  "size": 450913
+ },
+ "btbb-c12-urdu-urdu-notes.pdf": {
+  "parts": 301,
+  "size": 1352366
+ },
+ "btbb-c2-english-english-notes.pdf": {
+  "parts": 84,
+  "size": 375454
+ },
+ "btbb-c2-general-knowledge-urdu-notes.pdf": {
+  "parts": 163,
+  "size": 731219
+ },
+ "btbb-c3-islamiat-urdu-notes.pdf": {
+  "parts": 310,
+  "size": 1393976
+ },
+ "btbb-c3-math-english-notes.pdf": {
+  "parts": 100,
+  "size": 449355
+ },
+ "btbb-c4-english-english-notes.pdf": {
+  "parts": 63,
+  "size": 281213
+ },
+ "btbb-c4-general-science-english-notes.pdf": {
+  "parts": 50,
+  "size": 224152
+ },
+ "btbb-c4-mathematics-english-notes.pdf": {
+  "parts": 77,
+  "size": 343096
+ },
+ "btbb-c5-general-science-english-notes.pdf": {
+  "parts": 61,
+  "size": 272192
+ },
+ "btbb-c5-muasharti-uloom-urdu-notes.pdf": {
+  "parts": 170,
+  "size": 763848
+ },
+ "btbb-c6-computer-science-english-notes.pdf": {
+  "parts": 62,
+  "size": 274572
+ },
+ "btbb-c6-english-english-notes.pdf": {
+  "parts": 60,
+  "size": 267450
+ },
+ "btbb-c6-general-science-english-notes.pdf": {
+  "parts": 77,
+  "size": 344168
+ },
+ "btbb-c6-geography-english-notes.pdf": {
+  "parts": 49,
+  "size": 220192
+ },
+ "btbb-c6-geography-urdu-notes.pdf": {
+  "parts": 124,
+  "size": 555255
+ },
+ "btbb-c6-history-urdu-notes.pdf": {
+  "parts": 132,
+  "size": 589606
+ },
+ "btbb-c6-islamiat-urdu-notes.pdf": {
+  "parts": 180,
+  "size": 809760
+ },
+ "btbb-c6-tarjama-tul-quran-urdu-notes.pdf": {
+  "parts": 144,
+  "size": 644895
+ },
+ "btbb-c6-urdu-urdu-notes.pdf": {
+  "parts": 155,
+  "size": 696253
+ },
+ "btbb-c7-computer-science-english-notes.pdf": {
+  "parts": 82,
+  "size": 366058
+ },
+ "btbb-c7-english-english-notes.pdf": {
+  "parts": 63,
+  "size": 280925
+ },
+ "btbb-c7-general-science-english-notes.pdf": {
+  "parts": 79,
+  "size": 351584
+ },
+ "btbb-c7-urdu-urdu-notes.pdf": {
+  "parts": 176,
+  "size": 791290
+ },
+ "btbb-c9-biology-english-notes.pdf": {
+  "parts": 95,
+  "size": 427096
+ },
+ "btbb-c9-chemistry-english-notes.pdf": {
+  "parts": 167,
+  "size": 751204
+ },
  "btbb-c9-computer-science-english-notes.pdf": {
   "parts": 100,
   "size": 447905
@@ -2471,6 +2615,38 @@
   "parts": 117,
   "size": 525877
  },
+ "pctb-c10-chemistry-en-notes.pdf": {
+  "parts": 55,
+  "size": 246035
+ },
+ "pctb-c10-pakistan-studies-en-notes.pdf": {
+  "parts": 38,
+  "size": 170727
+ },
+ "pctb-c10-pakistan-studies-ur-notes.pdf": {
+  "parts": 92,
+  "size": 409673
+ },
+ "pctb-c10-physics-en-notes.pdf": {
+  "parts": 60,
+  "size": 265961
+ },
+ "pctb-c11-12-akhlaqiat-ur-notes.pdf": {
+  "parts": 229,
+  "size": 1028413
+ },
+ "pctb-c11-12-english-grammar-and-composition-en-notes.pdf": {
+  "parts": 81,
+  "size": 361003
+ },
+ "pctb-c11-12-geography-ur-notes.pdf": {
+  "parts": 103,
+  "size": 462155
+ },
+ "pctb-c11-12-sehat-o-jismani-taleem-ur-notes.pdf": {
+  "parts": 108,
+  "size": 482590
+ },
  "pctb-c11-islamiat-ur-notes.pdf": {
   "parts": 99,
   "size": 441450
@@ -2514,6 +2690,30 @@
  "pctb-c11-urdu-ur-notes.pdf": {
   "parts": 209,
   "size": 936773
+ },
+ "pctb-c12-akhlaqiat-ur-notes.pdf": {
+  "parts": 128,
+  "size": 575764
+ },
+ "pctb-c12-biology-en-notes.pdf": {
+  "parts": 57,
+  "size": 252025
+ },
+ "pctb-c12-chemistry-en-notes.pdf": {
+  "parts": 104,
+  "size": 466900
+ },
+ "pctb-c12-civics-ur-notes.pdf": {
+  "parts": 142,
+  "size": 637791
+ },
+ "pctb-c12-computer-science-en-notes.pdf": {
+  "parts": 68,
+  "size": 303038
+ },
+ "pctb-c12-economics-ur-notes.pdf": {
+  "parts": 180,
+  "size": 808291
  },
  "pctb-c12-urdu-ur-notes.pdf": {
   "parts": 410,
