@@ -2410,5 +2410,125 @@
  "urdu-9-ur-notes.pdf": {
   "parts": 190,
   "size": 851454
+ },
+ "btbb-c9-computer-science-english-notes.pdf": {
+  "parts": 100,
+  "size": 447905
+ },
+ "btbb-c9-mathematics-english-notes.pdf": {
+  "parts": 85,
+  "size": 381884
+ },
+ "btbb-c9-pak-study-english-notes.pdf": {
+  "parts": 96,
+  "size": 427839
+ },
+ "btbb-c9-physics-english-notes.pdf": {
+  "parts": 66,
+  "size": 296595
+ },
+ "btbb-c9-urdu-urdu-notes.pdf": {
+  "parts": 205,
+  "size": 920639
+ },
+ "kptbb-c1-islamiat-urdu-notes.pdf": {
+  "parts": 60,
+  "size": 268844
+ },
+ "kptbb-c11-chemistry-english-notes.pdf": {
+  "parts": 65,
+  "size": 289305
+ },
+ "kptbb-c2-islamiat-urdu-notes.pdf": {
+  "parts": 85,
+  "size": 381986
+ },
+ "kptbb-c3-islamyat-urdu-notes.pdf": {
+  "parts": 134,
+  "size": 599664
+ },
+ "kptbb-c4-english-english-notes.pdf": {
+  "parts": 67,
+  "size": 300723
+ },
+ "kptbb-c8-computer-science-english-notes.pdf": {
+  "parts": 45,
+  "size": 198198
+ },
+ "kptbb-c8-geography-urdu-notes.pdf": {
+  "parts": 69,
+  "size": 308619
+ },
+ "kptbb-c9-health-physical-education-urdu-notes.pdf": {
+  "parts": 129,
+  "size": 576255
+ },
+ "kptbb-c9-islamiat-urdu-notes.pdf": {
+  "parts": 109,
+  "size": 487949
+ },
+ "pctb-c10-akhlaqiat-ur-notes.pdf": {
+  "parts": 117,
+  "size": 525877
+ },
+ "pctb-c11-islamiat-ur-notes.pdf": {
+  "parts": 99,
+  "size": 441450
+ },
+ "pctb-c11-mathematics-en-notes.pdf": {
+  "parts": 169,
+  "size": 758350
+ },
+ "pctb-c11-mubadiyat-falsfa-ur-notes.pdf": {
+  "parts": 110,
+  "size": 492303
+ },
+ "pctb-c11-muraqa-e-adab-ur-notes.pdf": {
+  "parts": 265,
+  "size": 1191985
+ },
+ "pctb-c11-physical-geography-ur-notes.pdf": {
+  "parts": 96,
+  "size": 431826
+ },
+ "pctb-c11-physics-en-notes.pdf": {
+  "parts": 63,
+  "size": 279880
+ },
+ "pctb-c11-psychology-ur-notes.pdf": {
+  "parts": 155,
+  "size": 696774
+ },
+ "pctb-c11-punjabi-ikhtiari-pn-notes.pdf": {
+  "parts": 108,
+  "size": 483559
+ },
+ "pctb-c11-statistics-en-notes.pdf": {
+  "parts": 73,
+  "size": 324425
+ },
+ "pctb-c11-tarjuma-tul-quran-ur-notes.pdf": {
+  "parts": 89,
+  "size": 397037
+ },
+ "pctb-c11-urdu-ur-notes.pdf": {
+  "parts": 209,
+  "size": 936773
+ },
+ "pctb-c12-urdu-ur-notes.pdf": {
+  "parts": 410,
+  "size": 1840508
+ },
+ "pctb-c9-10-education-ur-notes.pdf": {
+  "parts": 217,
+  "size": 976358
+ },
+ "pctb-c9-10-english-grammar-and-composition-en-notes.pdf": {
+  "parts": 85,
+  "size": 378125
+ },
+ "pctb-c9-10-urdu-quaid-e-insha-ur-notes.pdf": {
+  "parts": 95,
+  "size": 425788
  }
 }
