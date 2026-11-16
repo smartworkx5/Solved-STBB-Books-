@@ -8,6 +8,18 @@
   function esc(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
   function dispTitle(t) { return MODE === "notes" ? String(t == null ? "" : t).replace("Solved Exercises", "Notes") : t; }
 
+  /* ---------- SEO titles (2026-11-12, from live search research) ---------- */
+  var PDFBOOKS = {};
+  var BOARD_SEO = { "Sindh Textbook Board": "Sindh", "Punjab Curriculum and Textbook Board": "Punjab", "Balochistan Textbook Board": "Balochistan", "Khyber Pakhtunkhwa Textbooks Board": "KPK" };
+  function seoBoard(board) { return BOARD_SEO[board] || String(board || "").replace(/ (Textbooks? Board|Curriculum and Textbook Board)$/, ""); }
+  function ordN(n) { n = parseInt(n, 10); var s = "th"; if (!(n % 100 >= 10 && n % 100 <= 20)) { s = ({ 1: "st", 2: "nd", 3: "rd" })[n % 10] || "th"; } return n + s; }
+  function seoClass(book) { var m = /Class ([\d]+(?:[–-][\d]+)?)/.exec(String(book.title || "")); var lab = m ? m[1].replace("-", "–") : String(book.cls || ""); return lab.split("–").map(ordN).join("–"); }
+  function seoTitle(book) {
+    var c = seoClass(book), b = seoBoard(book.board);
+    if (MODE === "notes") return c + " Class " + book.subject + " " + book.medium + (PDFBOOKS[book.id] ? " Notes PDF 2026" : " Notes") + " | " + b + " Board";
+    return c + " Class " + book.subject + " MCQs with Answers | " + b + " Board, " + book.medium + " Medium";
+  }
+
   /* ---------- catalogue (same design as Solved Books) ---------- */
   function cardHTML(b) {
     var live = b.status === "live";
@@ -212,8 +224,10 @@
     var headPre = $("#learn-head"); if (headPre) headPre.innerHTML = '<p class="empty-note">Loading…</p>';
     Promise.all([
       fetch("/assets/data/books.json").then(function (r) { return r.json(); }),
-      fetch("/assets/data/learn/" + encodeURIComponent(bookId) + ".json").then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; })
+      fetch("/assets/data/learn/" + encodeURIComponent(bookId) + ".json").then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; }),
+      fetch("/assets/data/notes-pdf-books.json").then(function (r) { return r.ok ? r.json() : []; }).catch(function () { return []; })
     ]).then(function (res) {
+      (res[2] || []).forEach(function (id) { PDFBOOKS[id] = true; });
       BOOK = (res[0] || []).filter(function (b) { return b.id === bookId; })[0];
       var head = $("#learn-head");
       if (!BOOK) { head.innerHTML = '<p class="empty-note">Book not found.</p>'; return; }
@@ -221,12 +235,13 @@
       if (BOOK.medium === "Sindhi") view.classList.add("lang-sd");
       else if (BOOK.medium === "Urdu") view.classList.add("lang-ur");
       else if (BOOK.medium === "Arabic") view.classList.add("lang-naskh");
-      document.title = dispTitle(BOOK.title) + (MODE === "notes" ? " — Easy Notes" : " — MCQs Practice") + " | SolvedBooks.pk";
+      document.title = seoTitle(BOOK);
       head.innerHTML = '<nav class="crumbs"><a href="/">Home</a> › <a href="/' + MODE + '.html">' + (MODE === "notes" ? "Easy Notes" : "MCQs") + '</a> › <span>' + esc(BOOK.subject) + '</span></nav>' +
         '<div class="learn-head"><img class="learn-cover" src="/' + esc(BOOK.cover) + '" alt="' + esc(dispTitle(BOOK.title)) + ' — official book cover">' +
         '<div class="learn-head-text"><h1 class="learn-book-title">' + esc(dispTitle(BOOK.title)) + '</h1>' +
         '<div class="learn-chips"><span class="chip">' + esc(BOOK.board) + '</span><span class="chip">Class ' + (ROMAN[BOOK.cls] || BOOK.cls) + '</span><span class="chip">' + esc(BOOK.medium) + ' Medium</span></div>' +
-        '<p class="learn-sub">' + (MODE === "notes" ? "Select a unit, then a lesson, to read its Easy Notes." : "Select a unit, then a lesson, to practice its MCQs.") + '</p></div></div>';
+        '<p class="learn-sub">' + (MODE === "notes" ? "Select a unit, then a lesson, to read its Easy Notes." : "Select a unit, then a lesson, to practice its MCQs.") + '</p>' +
+        (MODE === "notes" && PDFBOOKS[BOOK.id] ? '<p class="learn-dl"><a class="btn btn-primary" href="/assets/pdfs/' + encodeURIComponent(BOOK.id) + '-notes.pdf" download>Download Notes PDF</a></p>' : "") + '</div></div>';
       var qs = new URLSearchParams(location.search);
       var u = Number(qs.get("u") || qs.get("ch"));
       var l = Number(qs.get("l"));
