@@ -4726,9 +4726,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Tarjuma-tul-Quran-ul-Majeed, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Tarjuma-tul-Quran-Urdu-PCTB.pdf",
+    "pages": 143
   },
   {
     "id": "pctb-c6-urdu-ur",
@@ -4738,9 +4740,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Urdu, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Urdu-Urdu-PCTB.pdf",
+    "pages": 146
   },
   {
     "id": "pctb-c6-islamiat-ur",
@@ -4750,9 +4754,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Islamiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Islamiat-Urdu-PCTB.pdf",
+    "pages": 112
   },
   {
     "id": "pctb-c6-history-en",
@@ -4762,9 +4768,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 History, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-History-English-PCTB.pdf",
+    "pages": 35
   },
   {
     "id": "pctb-c6-ethics-ur",
@@ -4774,9 +4782,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Ethics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Ethics-Urdu-PCTB.pdf",
+    "pages": 48
   },
   {
     "id": "pctb-c6-arabic-ar",
@@ -4786,9 +4796,11 @@
     "medium": "Arabic",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Arabic, Arabic medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Arabic-Arabic-PCTB.pdf",
+    "pages": 85
   },
   {
     "id": "pctb-c6-general-science-en",
@@ -4798,9 +4810,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 General Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-General-Science-English-PCTB.pdf",
+    "pages": 107
   },
   {
     "id": "pctb-c6-computer-science-en",
@@ -4810,9 +4824,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Computer Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Computer-Science-English-PCTB.pdf",
+    "pages": 68
   },
   {
     "id": "pctb-c6-art-drawing-ur",
@@ -4822,9 +4838,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Art & Drawing, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Art-Drawing-Urdu-PCTB.pdf",
+    "pages": 46
   },
   {
     "id": "pctb-c6-zari-taleem-ur",
@@ -4834,9 +4852,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Zari Taleem, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Zari-Taleem-Urdu-PCTB.pdf",
+    "pages": 43
   },
   {
     "id": "pctb-c6-punjabi-pn",
@@ -4846,9 +4866,11 @@
     "medium": "Punjabi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Punjabi, Punjabi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Punjabi-Punjabi-PCTB.pdf",
+    "pages": 40
   },
   {
     "id": "pctb-c6-farsi-fa",
@@ -4858,9 +4880,11 @@
     "medium": "Farsi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Farsi, Farsi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Farsi-Farsi-PCTB.pdf",
+    "pages": 39
   },
   {
     "id": "pctb-c6-itlaqi-barqiat-ur",
@@ -4870,9 +4894,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Itlaqi Barqiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Itlaqi-Barqiat-Urdu-PCTB.pdf",
+    "pages": 48
   },
   {
     "id": "pctb-c6-home-economics-ur",
@@ -4882,9 +4908,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Home Economics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Home-Economics-Urdu-PCTB.pdf",
+    "pages": 52
   },
   {
     "id": "pctb-c6-geography-ur",
@@ -4894,9 +4922,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 Geography, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-Geography-Urdu-PCTB.pdf",
+    "pages": 41
   },
   {
     "id": "pctb-c6-history-ur",
@@ -4906,9 +4936,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 6 History, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-6-History-Urdu-PCTB.pdf",
+    "pages": 23
   },
   {
     "id": "pctb-c7-tarjuma-tul-quran-ul-majeed-ur",
@@ -4918,9 +4950,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Tarjuma-tul-Quran-ul-Majeed, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Tarjuma-tul-Quran-Urdu-PCTB.pdf",
+    "pages": 208
   },
   {
     "id": "pctb-c7-islamiat-ur",
@@ -4930,9 +4964,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Islamiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Islamiat-Urdu-PCTB.pdf",
+    "pages": 108
   },
   {
     "id": "pctb-c7-arabic-ar",
@@ -4942,9 +4978,11 @@
     "medium": "Arabic",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Arabic, Arabic medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Arabic-Arabic-PCTB.pdf",
+    "pages": 90
   },
   {
     "id": "pctb-c7-ethics-ur",
@@ -4954,9 +4992,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Ethics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Ethics-Urdu-PCTB.pdf",
+    "pages": 78
   },
   {
     "id": "pctb-c7-history-en",
@@ -4966,9 +5006,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 History, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-History-English-PCTB.pdf",
+    "pages": 61
   },
   {
     "id": "pctb-c7-english-en",
@@ -4978,9 +5020,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 English, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-English-English-PCTB.pdf",
+    "pages": 132
   },
   {
     "id": "pctb-c7-computer-science-en",
@@ -4990,9 +5034,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Computer Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Computer-Science-English-PCTB.pdf",
+    "pages": 59
   },
   {
     "id": "pctb-c7-general-science-en",
@@ -5002,9 +5048,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 General Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-General-Science-English-PCTB.pdf",
+    "pages": 88
   },
   {
     "id": "pctb-c7-general-science-ur",
@@ -5014,9 +5062,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 General Science, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-General-Science-Urdu-PCTB.pdf",
+    "pages": 73
   },
   {
     "id": "pctb-c7-art-drawing-ur",
@@ -5026,9 +5076,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Art & Drawing, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Art-Drawing-Urdu-PCTB.pdf",
+    "pages": 26
   },
   {
     "id": "pctb-c7-farsi-fa",
@@ -5038,9 +5090,11 @@
     "medium": "Farsi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Farsi, Farsi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Farsi-Farsi-PCTB.pdf",
+    "pages": 69
   },
   {
     "id": "pctb-c7-zari-taleem-ur",
@@ -5050,9 +5104,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Zari Taleem, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Zari-Taleem-Urdu-PCTB.pdf",
+    "pages": 62
   },
   {
     "id": "pctb-c7-itlaqi-barqiat-ur",
@@ -5062,9 +5118,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Itlaqi Barqiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Itlaqi-Barqiat-Urdu-PCTB.pdf",
+    "pages": 28
   },
   {
     "id": "pctb-c7-home-economics-ur",
@@ -5074,9 +5132,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Home Economics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Home-Economics-Urdu-PCTB.pdf",
+    "pages": 44
   },
   {
     "id": "pctb-c7-home-economics-en",
@@ -5086,9 +5146,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Home Economics, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Home-Economics-English-PCTB.pdf",
+    "pages": 47
   },
   {
     "id": "pctb-c7-geography-ur",
@@ -5098,9 +5160,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 Geography, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-Geography-Urdu-PCTB.pdf",
+    "pages": 36
   },
   {
     "id": "pctb-c7-history-ur",
@@ -5110,9 +5174,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 7 History, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-7-History-Urdu-PCTB.pdf",
+    "pages": 36
   },
   {
     "id": "pctb-c8-tarjuma-tul-quran-ul-majeed-ur",
@@ -5122,9 +5188,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Tarjuma-tul-Quran-ul-Majeed, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Tarjuma-tul-Quran-Urdu-PCTB.pdf",
+    "pages": 80
   },
   {
     "id": "pctb-c8-english-en",
@@ -5134,9 +5202,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 English, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-English-English-PCTB.pdf",
+    "pages": 108
   },
   {
     "id": "pctb-c8-geography-en",
@@ -5146,9 +5216,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Geography, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Geography-English-PCTB.pdf",
+    "pages": 44
   },
   {
     "id": "pctb-c8-history-en",
@@ -5158,9 +5230,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 History, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-History-English-PCTB.pdf",
+    "pages": 41
   },
   {
     "id": "pctb-c8-general-science-en",
@@ -5170,9 +5244,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 General Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-General-Science-English-PCTB.pdf",
+    "pages": 91
   },
   {
     "id": "pctb-c8-computer-science-en",
@@ -5182,9 +5258,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Computer Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Computer-Science-English-PCTB.pdf",
+    "pages": 76
   },
   {
     "id": "pctb-c8-urdu-ur",
@@ -5194,9 +5272,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Urdu, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Urdu-Urdu-PCTB.pdf",
+    "pages": 60
   },
   {
     "id": "pctb-c8-arabic-ar",
@@ -5206,9 +5286,11 @@
     "medium": "Arabic",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Arabic, Arabic medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Arabic-Arabic-PCTB.pdf",
+    "pages": 97
   },
   {
     "id": "pctb-c8-ethics-ur",
@@ -5218,9 +5300,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Ethics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Ethics-Urdu-PCTB.pdf",
+    "pages": 33
   },
   {
     "id": "pctb-c8-art-drawing-ur",
@@ -5230,9 +5314,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Art & Drawing, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Art-Drawing-Urdu-PCTB.pdf",
+    "pages": 26
   },
   {
     "id": "pctb-c8-farsi-fa",
@@ -5242,9 +5328,11 @@
     "medium": "Farsi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Farsi, Farsi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Farsi-Farsi-PCTB.pdf",
+    "pages": 75
   },
   {
     "id": "pctb-c8-punjabi-pn",
@@ -5254,9 +5342,11 @@
     "medium": "Punjabi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Punjabi, Punjabi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Punjabi-Punjabi-PCTB.pdf",
+    "pages": 61
   },
   {
     "id": "pctb-c8-zari-taleem-ur",
@@ -5266,9 +5356,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Zari Taleem, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Zari-Taleem-Urdu-PCTB.pdf",
+    "pages": 38
   },
   {
     "id": "pctb-c8-itlaqi-barqiat-ur",
@@ -5278,9 +5370,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Itlaqi Barqiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Itlaqi-Barqiat-Urdu-PCTB.pdf",
+    "pages": 36
   },
   {
     "id": "pctb-c8-home-economics-ur",
@@ -5290,9 +5384,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Home Economics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Home-Economics-Urdu-PCTB.pdf",
+    "pages": 45
   },
   {
     "id": "pctb-c8-home-economics-en",
@@ -5302,9 +5398,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Home Economics, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Home-Economics-English-PCTB.pdf",
+    "pages": 76
   },
   {
     "id": "pctb-c8-geography-ur",
@@ -5314,9 +5412,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 Geography, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-Geography-Urdu-PCTB.pdf",
+    "pages": 27
   },
   {
     "id": "pctb-c8-history-ur",
@@ -5326,9 +5426,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 8 History, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-8-History-Urdu-PCTB.pdf",
+    "pages": 26
   },
   {
     "id": "pctb-c9-tarjuma-tul-quran-ul-majeed-ur",
@@ -5338,9 +5440,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Tarjuma-tul-Quran-ul-Majeed, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Tarjuma-tul-Quran-Urdu-PCTB.pdf",
+    "pages": 90
   },
   {
     "id": "pctb-c9-islamiat-ur",
@@ -5350,9 +5454,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Islamiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Islamiat-Urdu-PCTB.pdf",
+    "pages": 177
   },
   {
     "id": "pctb-c9-urdu-ur",
@@ -5362,9 +5468,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Urdu, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Urdu-Urdu-PCTB.pdf",
+    "pages": 126
   },
   {
     "id": "pctb-c9-mathematics-science-group-en",
@@ -5374,9 +5482,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Mathematics (Science Group), English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Mathematics-Science-Group-English-PCTB.pdf",
+    "pages": 294
   },
   {
     "id": "pctb-c9-mathematics-science-group-ur",
@@ -5386,9 +5496,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Mathematics (Science Group), Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Mathematics-Science-Group-Urdu-PCTB.pdf",
+    "pages": 294
   },
   {
     "id": "pctb-c9-general-mathematics-en",
@@ -5398,9 +5510,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 General Mathematics, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-General-Mathematics-English-PCTB.pdf",
+    "pages": 189
   },
   {
     "id": "pctb-c9-general-mathematics-ur",
@@ -5410,9 +5524,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 General Mathematics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-General-Mathematics-Urdu-PCTB.pdf",
+    "pages": 196
   },
   {
     "id": "pctb-c9-physics-en",
@@ -5422,9 +5538,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Physics, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Physics-English-PCTB.pdf",
+    "pages": 125
   },
   {
     "id": "pctb-c9-chemistry-en",
@@ -5434,9 +5552,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Chemistry, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Chemistry-English-PCTB.pdf",
+    "pages": 135
   },
   {
     "id": "pctb-c9-biology-en",
@@ -5446,9 +5566,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Biology, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Biology-English-PCTB.pdf",
+    "pages": 109
   },
   {
     "id": "pctb-c9-bio-tech-ur",
@@ -5458,9 +5580,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Bio Tech, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Bio-Tech-Urdu-PCTB.pdf",
+    "pages": 55
   },
   {
     "id": "pctb-c9-general-science-tech-ur",
@@ -5470,9 +5594,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 General Science Tech, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-General-Science-Tech-Urdu-PCTB.pdf",
+    "pages": 35
   },
   {
     "id": "pctb-c9-computer-and-entrepreneur-tech-ur",
@@ -5482,9 +5608,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Computer and Entrepreneur Tech, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Computer-and-Entrepreneur-Tech-Urdu-PCTB.pdf",
+    "pages": 75
   },
   {
     "id": "pctb-c9-computer-tech-ur",
@@ -5494,9 +5622,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Computer Tech, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Computer-Tech-Urdu-PCTB.pdf",
+    "pages": 75
   },
   {
     "id": "pctb-c9-chemistry-tech-ur",
@@ -5506,9 +5636,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Chemistry Tech, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Chemistry-Tech-Urdu-PCTB.pdf",
+    "pages": 86
   },
   {
     "id": "pctb-c9-physics-tech-ur",
@@ -5518,9 +5650,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9 Physics Tech, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-Physics-Tech-Urdu-PCTB.pdf",
+    "pages": 86
   },
   {
     "id": "pctb-c10-tarjuma-tul-quran-ul-majeed-ur",
@@ -5530,9 +5664,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Tarjuma-tul-Quran-ul-Majeed, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Tarjuma-tul-Quran-Urdu-PCTB.pdf",
+    "pages": 80
   },
   {
     "id": "pctb-c10-mathematics-science-group-en",
@@ -5542,9 +5678,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Mathematics (Science Group), English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Mathematics-Science-Group-English-PCTB.pdf",
+    "pages": 301
   },
   {
     "id": "pctb-c10-mathematics-science-group-ur",
@@ -5554,9 +5692,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Mathematics (Science Group), Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Mathematics-Science-Group-Urdu-PCTB.pdf",
+    "pages": 259
   },
   {
     "id": "pctb-c10-general-mathematics-en",
@@ -5566,9 +5706,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 General Mathematics, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-General-Mathematics-English-PCTB.pdf",
+    "pages": 189
   },
   {
     "id": "pctb-c10-general-mathematics-ur",
@@ -5578,9 +5720,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 General Mathematics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-General-Mathematics-Urdu-PCTB.pdf",
+    "pages": 159
   },
   {
     "id": "pctb-c10-physics-ur",
@@ -5590,9 +5734,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Physics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Physics-Urdu-PCTB.pdf",
+    "pages": 102
   },
   {
     "id": "pctb-c10-chemistry-ur",
@@ -5602,9 +5748,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Chemistry, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Chemistry-Urdu-PCTB.pdf",
+    "pages": 58
   },
   {
     "id": "pctb-c10-biology-en",
@@ -5614,9 +5762,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Biology, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Biology-English-PCTB.pdf",
+    "pages": 132
   },
   {
     "id": "pctb-c10-biology-ur",
@@ -5626,9 +5776,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Biology, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Biology-Urdu-PCTB.pdf",
+    "pages": 131
   },
   {
     "id": "pctb-c10-computer-science-en",
@@ -5638,9 +5790,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Computer Science, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Computer-Science-English-PCTB.pdf",
+    "pages": 79
   },
   {
     "id": "pctb-c10-computer-science-ur",
@@ -5650,9 +5804,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Computer Science, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Computer-Science-Urdu-PCTB.pdf",
+    "pages": 77
   },
   {
     "id": "pctb-c10-urdu-ur",
@@ -5662,9 +5818,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Urdu, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Urdu-Urdu-PCTB.pdf",
+    "pages": 119
   },
   {
     "id": "pctb-c10-english-en",
@@ -5674,9 +5832,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 English, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-English-English-PCTB.pdf",
+    "pages": 61
   },
   {
     "id": "pctb-c10-islamiat-ur",
@@ -5686,9 +5846,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Islamiat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Islamiat-Urdu-PCTB.pdf",
+    "pages": 89
   },
   {
     "id": "pctb-c10-ghiza-aur-ghizayat-ur",
@@ -5698,9 +5860,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Ghiza aur Ghizayat, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Ghiza-aur-Ghizayat-Urdu-PCTB.pdf",
+    "pages": 84
   },
   {
     "id": "pctb-c10-parcha-bafi-ur",
@@ -5710,9 +5874,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Parcha Bafi, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Parcha-Bafi-Urdu-PCTB.pdf",
+    "pages": 84
   },
   {
     "id": "pctb-c10-art-modal-drawing-ur",
@@ -5722,9 +5888,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Art & Modal Drawing, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Art-Modal-Drawing-Urdu-PCTB.pdf",
+    "pages": 46
   },
   {
     "id": "pctb-c10-art-modal-drawing-en",
@@ -5734,9 +5902,11 @@
     "medium": "English",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Art & Modal Drawing, English medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Art-Modal-Drawing-English-PCTB.pdf",
+    "pages": 55
   },
   {
     "id": "pctb-c10-home-economics-ur",
@@ -5746,9 +5916,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 10 Home Economics, Urdu medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-10-Home-Economics-Urdu-PCTB.pdf",
+    "pages": 93
   },
   {
     "id": "pctb-c9-10-zari-taleem-ur",
@@ -5758,9 +5930,11 @@
     "medium": "Urdu",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9–10 Zari Taleem, Urdu medium — coming soon; notes for this verified PCTB book are not built yet. Catalogue medium not stated on the official listing; medium shown is provisional pending a check of the book itself.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-10-Zari-Taleem-Urdu-PCTB.pdf",
+    "pages": 64
   },
   {
     "id": "pctb-c9-10-farsi-fa",
@@ -5770,9 +5944,11 @@
     "medium": "Farsi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9–10 Farsi, Farsi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-10-Farsi-Farsi-PCTB.pdf",
+    "pages": 60
   },
   {
     "id": "pctb-c9-10-punjabi-ikhtiari-pn",
@@ -5782,9 +5958,11 @@
     "medium": "Punjabi",
     "board": "Punjab Curriculum and Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Punjab Curriculum and Textbook Board Class 9–10 Punjabi Ikhtiari, Punjabi medium — coming soon; notes for this verified PCTB book are not built yet.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Class-9-10-Punjabi-Ikhtiari-Punjabi-PCTB.pdf",
+    "pages": 55
   },
   {
     "id": "pctb-c11-ilm-ul-taleem-en",
@@ -6691,9 +6869,11 @@
     "medium": "Urdu",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 7 Tarjama-tul-Quran, Urdu medium - coming soon. Still being built by the Grades 7-8 worker; medium Urdu per the Grade 6 Tarjama precedent, to be confirmed from the book at build time.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade7-Tarjama-tul-Quran-Urdu-BTBB.pdf",
+    "pages": 146
   },
   {
     "id": "btbb-c7-urdu-urdu",
@@ -6703,9 +6883,11 @@
     "medium": "Urdu",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 7 Urdu, Urdu medium - coming soon. Still being built by the Grades 7-8 worker.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade7-Urdu-Urdu-BTBB.pdf",
+    "pages": 139
   },
   {
     "id": "btbb-c8-computer-science-english",
@@ -6715,9 +6897,11 @@
     "medium": "English",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 Computer Science, English medium - coming soon. Still being built by the Grades 7-8 worker; medium English per Grades 6-7 Computer Science, to be confirmed from the book at build time.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-ComputerScience-English-BTBB.pdf",
+    "pages": 59
   },
   {
     "id": "btbb-c8-general-science-english",
@@ -6727,9 +6911,11 @@
     "medium": "English",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 General Science, English medium - coming soon. Still being built by the Grades 7-8 worker; medium English per Grades 6-7 General Science, to be confirmed from the book at build time.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-GeneralScience-English-BTBB.pdf",
+    "pages": 114
   },
   {
     "id": "btbb-c8-geography-english",
@@ -6739,9 +6925,11 @@
     "medium": "English",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 Geography, English medium - coming soon. Still being built by the Grades 7-8 worker; English Medium per the official catalogue row.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-Geography-English-BTBB.pdf",
+    "pages": 48
   },
   {
     "id": "btbb-c8-geography-urdu",
@@ -6751,9 +6939,11 @@
     "medium": "Urdu",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 Geography, Urdu medium - coming soon. Still being built by the Grades 7-8 worker; Urdu Medium per the official catalogue row.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-Geography-Urdu-BTBB.pdf",
+    "pages": 34
   },
   {
     "id": "btbb-c8-history-english",
@@ -6763,9 +6953,11 @@
     "medium": "English",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 History, English medium - coming soon. Still being built by the Grades 7-8 worker; English Medium per the official catalogue row.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-History-English-BTBB.pdf",
+    "pages": 73
   },
   {
     "id": "btbb-c8-history-urdu",
@@ -6775,9 +6967,11 @@
     "medium": "Urdu",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 History, Urdu medium - coming soon. Still being built by the Grades 7-8 worker; Urdu Medium per the official catalogue row.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-History-Urdu-BTBB.pdf",
+    "pages": 45
   },
   {
     "id": "btbb-c8-math-english",
@@ -6787,9 +6981,11 @@
     "medium": "English",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 Math, English medium - coming soon. Still being built by the Grades 7-8 worker; medium English per Grade 7 Math, to be confirmed from the book at build time.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-Math-English-BTBB.pdf",
+    "pages": 319
   },
   {
     "id": "btbb-c8-tarjama-tul-quran-urdu",
@@ -6799,9 +6995,11 @@
     "medium": "Urdu",
     "board": "Balochistan Textbook Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Balochistan Textbook Board Grade 8 Tarjama-tul-Quran, Urdu medium - coming soon. Still being built by the Grades 7-8 worker; medium Urdu per the Grade 6 Tarjama precedent, to be confirmed from the book at build time.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/Grade8-Tarjama-tul-Quran-Urdu-BTBB.pdf",
+    "pages": 84
   },
   {
     "id": "kptbb-c1-english-english",
@@ -6811,9 +7009,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 1 English, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-1-english-english-solved-notes.pdf",
+    "pages": 75
   },
   {
     "id": "kptbb-c1-general-knowledge-not-stated",
@@ -6880,9 +7080,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 1 Maths, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-1-maths-english-solved-notes.pdf",
+    "pages": 150
   },
   {
     "id": "kptbb-c1-nazra-quran-not-stated",
@@ -6952,9 +7154,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 2 General Knowledge, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-2-general-knowledge-english-solved-notes.pdf",
+    "pages": 30
   },
   {
     "id": "kptbb-c2-hindko-hindko",
@@ -7057,9 +7261,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 2 Urdu, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-2-urdu-urdu-solved-notes.pdf",
+    "pages": 63
   },
   {
     "id": "kptbb-c3-english-english",
@@ -7069,9 +7275,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 3 English, English medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-3-english-english-solved-notes.pdf",
+    "pages": 88
   },
   {
     "id": "kptbb-c3-general-knowledge-not-stated",
@@ -7081,9 +7289,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 3 General Knowledge — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-3-general-knowledge-english-solved-notes.pdf",
+    "pages": 60
   },
   {
     "id": "kptbb-c3-hindko-hindko",
@@ -7176,9 +7386,11 @@
     "medium": "Pashto",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 3 Pashto, Pashto medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-3-pashto-pashto-solved-notes.pdf",
+    "pages": 71
   },
   {
     "id": "kptbb-c3-urdu-urdu",
@@ -7188,9 +7400,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 3 Urdu, Urdu medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-3-urdu-urdu-solved-notes.pdf",
+    "pages": 100
   },
   {
     "id": "kptbb-c4-creative-art-not-stated",
@@ -7293,9 +7507,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 4 Maths, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-4-maths-english-solved-notes.pdf",
+    "pages": 359
   },
   {
     "id": "kptbb-c4-pashto-pashto",
@@ -7317,9 +7533,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 4 Science, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-4-science-english-solved-notes.pdf",
+    "pages": 41
   },
   {
     "id": "kptbb-c4-social-study-pashto",
@@ -7341,9 +7559,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 4 Social Study, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-4-social-study-urdu-solved-notes.pdf",
+    "pages": 68
   },
   {
     "id": "kptbb-c4-urdu-urdu",
@@ -7353,9 +7573,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 4 Urdu, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-4-urdu-urdu-solved-notes.pdf",
+    "pages": 89
   },
   {
     "id": "kptbb-c5-creative-art-not-stated",
@@ -7389,9 +7611,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 5 English, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-5-english-english-solved-notes.pdf",
+    "pages": 198
   },
   {
     "id": "kptbb-c5-handwriting-not-stated",
@@ -7425,9 +7649,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 5 Islamiat, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-5-islamiat-urdu-solved-notes.pdf",
+    "pages": 66
   },
   {
     "id": "kptbb-c5-maths-english",
@@ -7449,9 +7675,11 @@
     "medium": "Pashto",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 5 Pashto, Pashto medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-5-pashto-pashto-solved-notes.pdf",
+    "pages": 69
   },
   {
     "id": "kptbb-c5-science-english",
@@ -7461,9 +7689,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 5 Science, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-5-science-english-solved-notes.pdf",
+    "pages": 63
   },
   {
     "id": "kptbb-c5-social-study-english",
@@ -7497,9 +7727,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 5 Social Study, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-5-social-study-urdu-solved-notes.pdf",
+    "pages": 45
   },
   {
     "id": "kptbb-c5-urdu-urdu",
@@ -7593,9 +7825,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 English, English medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-english-english-solved-notes.pdf",
+    "pages": 125
   },
   {
     "id": "kptbb-c6-general-science-not-stated",
@@ -7605,9 +7839,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 General Science — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-general-science-english-solved-notes.pdf",
+    "pages": 44
   },
   {
     "id": "kptbb-c6-geography-not-stated",
@@ -7617,9 +7853,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 Geography — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-geography-urdu-solved-notes.pdf",
+    "pages": 30
   },
   {
     "id": "kptbb-c6-health-physical-education-not-stated",
@@ -7641,9 +7879,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 History — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-history-urdu-solved-notes.pdf",
+    "pages": 25
   },
   {
     "id": "kptbb-c6-home-economics-not-stated",
@@ -7665,9 +7905,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 Islamiat — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-islamiat-urdu-solved-notes.pdf",
+    "pages": 41
   },
   {
     "id": "kptbb-c6-mathematics-not-stated",
@@ -7677,9 +7919,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 Mathematics — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-mathematics-english-solved-notes.pdf",
+    "pages": 178
   },
   {
     "id": "kptbb-c6-metal-work-not-stated",
@@ -7725,9 +7969,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 6 Urdu, Urdu medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-6-urdu-urdu-solved-notes.pdf",
+    "pages": 78
   },
   {
     "id": "kptbb-c6-wood-work-not-stated",
@@ -7833,9 +8079,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 7 English, English medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-7-english-english-solved-notes.pdf",
+    "pages": 179
   },
   {
     "id": "kptbb-c7-general-science-not-stated",
@@ -7857,9 +8105,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 7 Geography — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-7-geography-urdu-solved-notes.pdf",
+    "pages": 42
   },
   {
     "id": "kptbb-c7-health-physical-education-not-stated",
@@ -7881,9 +8131,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 7 History — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-7-history-urdu-solved-notes.pdf",
+    "pages": 22
   },
   {
     "id": "kptbb-c7-home-economics-not-stated",
@@ -7905,9 +8157,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 7 Islamiat — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-7-islamiat-urdu-solved-notes.pdf",
+    "pages": 42
   },
   {
     "id": "kptbb-c7-mathematics-not-stated",
@@ -7941,9 +8195,11 @@
     "medium": "Pashto",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 7 Pashto, Pashto medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-7-pashto-pashto-solved-notes.pdf",
+    "pages": 59
   },
   {
     "id": "kptbb-c7-urdu-urdu",
@@ -7953,9 +8209,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 7 Urdu, Urdu medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-7-urdu-urdu-solved-notes.pdf",
+    "pages": 72
   },
   {
     "id": "kptbb-c7-wood-work-not-stated",
@@ -8059,9 +8317,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 8 English, English medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-8-english-english-solved-notes.pdf",
+    "pages": 216
   },
   {
     "id": "kptbb-c8-general-science-not-stated",
@@ -8071,9 +8331,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 8 General Science — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-8-general-science-english-solved-notes.pdf",
+    "pages": 70
   },
   {
     "id": "kptbb-c8-geography-urdu",
@@ -8117,9 +8379,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 8 History, Urdu medium — coming soon. New SNC edition.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-8-history-urdu-solved-notes.pdf",
+    "pages": 28
   },
   {
     "id": "kptbb-c8-home-economics-not-stated",
@@ -8141,9 +8405,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 8 Islamiat Lazmi, Urdu medium — coming soon. New SNC edition.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-8-islamiat-lazmi-urdu-solved-notes.pdf",
+    "pages": 66
   },
   {
     "id": "kptbb-c8-mathematics-english",
@@ -8201,9 +8467,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 8 Urdu, Urdu medium — coming soon. New SNC edition.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-8-urdu-urdu-solved-notes.pdf",
+    "pages": 138
   },
   {
     "id": "kptbb-c8-wood-work-not-stated",
@@ -8249,9 +8517,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Biology — coming soon. Medium to be confirmed from the book PDF. English and Urdu source files both recorded for this single catalogue row.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-biology-english-solved-notes.pdf",
+    "pages": 55
   },
   {
     "id": "kptbb-c9-chemistry-english",
@@ -8261,9 +8531,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Chemistry, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-chemistry-english-solved-notes.pdf",
+    "pages": 109
   },
   {
     "id": "kptbb-c9-computer-science-english",
@@ -8273,9 +8545,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Computer Science, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-computer-science-english-solved-notes.pdf",
+    "pages": 81
   },
   {
     "id": "kptbb-c9-elective-english-english",
@@ -8297,9 +8571,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 English, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-english-english-solved-notes.pdf",
+    "pages": 181
   },
   {
     "id": "kptbb-c9-general-mathematics-not-stated",
@@ -8321,9 +8597,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 General Science, English medium — coming soon. Arts/General track.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-general-science-english-solved-notes.pdf",
+    "pages": 48
   },
   {
     "id": "kptbb-c9-health-physical-education-urdu",
@@ -8388,9 +8666,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Mathematics, English medium — coming soon. Science group.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-mathematics-english-solved-notes.pdf",
+    "pages": 391
   },
   {
     "id": "kptbb-c9-mutala-e-quran-urdu",
@@ -8400,9 +8680,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Mutala-e-Quran-e-Hakeem, Urdu medium — coming soon. Medium per catalogue, to be confirmed from the book PDF. Quranic text, as-is.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-mutala-e-quran-urdu-solved-notes.pdf",
+    "pages": 71
   },
   {
     "id": "kptbb-c9-pakistan-studies-urdu",
@@ -8412,9 +8694,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Pakistan Studies, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-pakistan-studies-urdu-solved-notes.pdf",
+    "pages": 27
   },
   {
     "id": "kptbb-c9-persian-persian",
@@ -8436,9 +8720,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Physics, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-physics-english-solved-notes.pdf",
+    "pages": 153
   },
   {
     "id": "kptbb-c9-pushto-pashto",
@@ -8472,8 +8758,24 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Urdu, Urdu medium — coming soon.",
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-9-urdu-urdu-solved-notes.pdf",
+    "pages": 48
+  },
+  {
+    "id": "kptbb-c9-biology-urdu",
+    "title": "Class 9 Biology — Solved Exercises (Urdu Medium)",
+    "cls": 9,
+    "subject": "Biology",
+    "medium": "Urdu",
+    "board": "Khyber Pakhtunkhwa Textbooks Board",
+    "type": "solved-notes",
+    "status": "live",
+    "pdf": "assets/pdfs/kptbb-class-9-biology-urdu-solved-notes.pdf",
+    "pages": 43,
+    "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 9 Biology, Urdu medium.",
     "chapters": []
   },
   {
@@ -8520,9 +8822,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Biology, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-biology-english-solved-notes.pdf",
+    "pages": 131
   },
   {
     "id": "kptbb-c10-chemistry-english",
@@ -8532,9 +8836,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Chemistry, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-chemistry-english-solved-notes.pdf",
+    "pages": 67
   },
   {
     "id": "kptbb-c10-civics-not-stated",
@@ -8592,9 +8898,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 English, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-english-english-solved-notes.pdf",
+    "pages": 165
   },
   {
     "id": "kptbb-c10-general-mathematics-english",
@@ -8604,9 +8912,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 General Mathematics, English medium — coming soon. Arts/General track.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-general-mathematics-english-solved-notes.pdf",
+    "pages": 189
   },
   {
     "id": "kptbb-c10-general-science-english",
@@ -8616,9 +8926,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 General Science, English medium — coming soon. Arts/General track.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-general-science-english-solved-notes.pdf",
+    "pages": 69
   },
   {
     "id": "kptbb-c10-health-physical-education-urdu",
@@ -8628,9 +8940,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Health & Physical Education, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-health-physical-education-urdu-solved-notes.pdf",
+    "pages": 37
   },
   {
     "id": "kptbb-c10-home-economics-not-stated",
@@ -8664,9 +8978,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Islamiat (Lazmi), Urdu medium — coming soon. Part 2 (Class 10 portion, book pages 56–118) of the combined Classes 9+10 Islamiat book.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kpk-class10-islamiat-part2-solved-notes.pdf",
+    "pages": 16
   },
   {
     "id": "kptbb-c10-mathematics-english",
@@ -8676,9 +8992,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Mathematics, English medium — coming soon. Science group.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-mathematics-english-solved-notes.pdf",
+    "pages": 419
   },
   {
     "id": "kptbb-c10-mutala-e-quran-urdu",
@@ -8688,9 +9006,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Mutala-e-Quran-e-Hakeem, Urdu medium — coming soon. Medium per catalogue, to be confirmed from the book PDF. Quranic text, as-is.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-mutala-e-quran-urdu-solved-notes.pdf",
+    "pages": 67
   },
   {
     "id": "kptbb-c10-pakistan-studies-english",
@@ -8700,9 +9020,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Pakistan Studies, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-pakistan-studies-english-solved-notes.pdf",
+    "pages": 49
   },
   {
     "id": "kptbb-c10-pakistan-studies-urdu",
@@ -8712,9 +9034,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Pakistan Studies, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-pakistan-studies-urdu-solved-notes.pdf",
+    "pages": 28
   },
   {
     "id": "kptbb-c10-persian-persian",
@@ -8736,9 +9060,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Physics, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-physics-english-solved-notes.pdf",
+    "pages": 157
   },
   {
     "id": "kptbb-c10-pushto-pashto",
@@ -8772,9 +9098,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 10 Urdu, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-10-urdu-urdu-solved-notes.pdf",
+    "pages": 65
   },
   {
     "id": "kptbb-c11-arabic-elective-arabic",
@@ -8896,9 +9224,11 @@
     "medium": "Not stated",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 11 Health & Physical Education — coming soon. Medium to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-11-health-physical-education-urdu-solved-notes.pdf",
+    "pages": 35
   },
   {
     "id": "kptbb-c11-home-economics-not-stated",
@@ -8956,9 +9286,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 11 Mathematics, English medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-11-mathematics-english-solved-notes.pdf",
+    "pages": 493
   },
   {
     "id": "kptbb-c11-mutala-e-quran-urdu",
@@ -8968,9 +9300,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 11 Mutala-e-Quran-e-Hakim, Urdu medium — coming soon. Quranic text, as-is.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-11-mutala-e-quran-urdu-solved-notes.pdf",
+    "pages": 83
   },
   {
     "id": "kptbb-c11-pashto-elective-pashto",
@@ -9004,9 +9338,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 11 Physics, English medium — coming soon. Medium per catalogue, to be confirmed from the book PDF.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-11-physics-english-solved-notes.pdf",
+    "pages": 189
   },
   {
     "id": "kptbb-c11-shehriat-urdu",
@@ -9016,9 +9352,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 11 Shehriat, Urdu medium — coming soon. Also listed as Civics.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-11-shehriat-urdu-solved-notes.pdf",
+    "pages": 56
   },
   {
     "id": "kptbb-c11-statistics-not-stated",
@@ -9040,9 +9378,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 11 Urdu (compulsory), Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-11-urdu-urdu-solved-notes.pdf",
+    "pages": 69
   },
   {
     "id": "kptbb-c11-urdu-elective-urdu",
@@ -9088,9 +9428,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Chemistry, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-12-chemistry-english-solved-notes.pdf",
+    "pages": 176
   },
   {
     "id": "kptbb-c12-computer-science-english",
@@ -9160,9 +9502,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Health & Physical Education, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-12-health-physical-education-urdu-solved-notes.pdf",
+    "pages": 38
   },
   {
     "id": "kptbb-c12-home-economics-not-stated",
@@ -9220,9 +9564,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Mutala-e-Quran-e-Hakim, Urdu medium — coming soon. Quranic text, as-is.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-12-mutala-e-quran-urdu-solved-notes.pdf",
+    "pages": 105
   },
   {
     "id": "kptbb-c12-pakistan-studies-urdu",
@@ -9232,9 +9578,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Pakistan Studies, Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-12-pakistan-studies-urdu-solved-notes.pdf",
+    "pages": 56
   },
   {
     "id": "kptbb-c12-pashto-elective-pashto",
@@ -9268,9 +9616,11 @@
     "medium": "English",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Physics, English medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-12-physics-english-solved-notes.pdf",
+    "pages": 225
   },
   {
     "id": "kptbb-c12-shehriat-urdu",
@@ -9304,9 +9654,11 @@
     "medium": "Urdu",
     "board": "Khyber Pakhtunkhwa Textbooks Board",
     "type": "solved-notes",
-    "status": "coming-soon",
+    "status": "live",
     "desc": "Complete solved exercises for Khyber Pakhtunkhwa Textbooks Board Class 12 Urdu (compulsory), Urdu medium — coming soon.",
-    "chapters": []
+    "chapters": [],
+    "pdf": "assets/pdfs/kptbb-class-12-urdu-urdu-solved-notes.pdf",
+    "pages": 91
   },
   {
     "id": "kptbb-c12-urdu-elective-urdu",
