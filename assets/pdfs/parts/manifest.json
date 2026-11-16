@@ -2771,6 +2771,26 @@
   "parts": 95,
   "size": 425788
  },
+ "btbb-c10-islamiat-urdu-notes.pdf": {
+  "parts": 104,
+  "size": 465390
+ },
+ "btbb-c10-pak-study-english-notes.pdf": {
+  "parts": 85,
+  "size": 380254
+ },
+ "btbb-c11-biology-english-notes.pdf": {
+  "parts": 230,
+  "size": 1033478
+ },
+ "btbb-c11-chemistry-english-notes.pdf": {
+  "parts": 323,
+  "size": 1453044
+ },
+ "btbb-c11-english-english-notes.pdf": {
+  "parts": 97,
+  "size": 435910
+ },
  "btbb-c2-islamiat-urdu-notes.pdf": {
   "parts": 124,
   "size": 554015
@@ -2838,5 +2858,65 @@
  "pctb-c11-computer-science-en-notes.pdf": {
   "parts": 58,
   "size": 257582
+ },
+ "pctb-c12-education-ur-notes.pdf": {
+  "parts": 255,
+  "size": 1147181
+ },
+ "pctb-c12-english-book-ii-en-notes.pdf": {
+  "parts": 50,
+  "size": 222044
+ },
+ "pctb-c12-farsi-fa-notes.pdf": {
+  "parts": 158,
+  "size": 706661
+ },
+ "pctb-c12-hadiqat-ul-adab-part-2-ar-notes.pdf": {
+  "parts": 112,
+  "size": 499888
+ },
+ "pctb-c12-human-geography-ur-notes.pdf": {
+  "parts": 99,
+  "size": 443632
+ },
+ "pctb-c12-logic-ur-notes.pdf": {
+  "parts": 150,
+  "size": 673341
+ },
+ "pctb-c12-mathematics-en-notes.pdf": {
+  "parts": 98,
+  "size": 440695
+ },
+ "pctb-c12-mr-chips-en-notes.pdf": {
+  "parts": 38,
+  "size": 170579
+ },
+ "pctb-c12-pakistan-studies-en-notes.pdf": {
+  "parts": 39,
+  "size": 172220
+ },
+ "pctb-c12-pakistan-studies-ur-notes.pdf": {
+  "parts": 123,
+  "size": 549040
+ },
+ "pctb-c12-physics-en-notes.pdf": {
+  "parts": 62,
+  "size": 275673
+ },
+ "pctb-c12-psychology-ur-notes.pdf": {
+  "parts": 97,
+  "size": 433188
+ },
+ "pctb-c12-punjabi-ikhtiari-pn-notes.pdf": {
+  "parts": 107,
+  "size": 479798
+ },
+ "pctb-c12-statistics-en-notes.pdf": {
+  "parts": 113,
+  "size": 504982
+ },
+ "pctb-c12-tarjuma-tul-quran-ur-notes.pdf": {
+  "parts": 229,
+  "size": 1029210
  }
 }
