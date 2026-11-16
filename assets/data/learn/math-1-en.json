@@ -1,0 +1,5855 @@
+{
+ "book": "math-1-en",
+ "chapters": [
+  {
+   "title": "Numbers",
+   "lessons": [
+    {
+     "title": "Counting and Numbers 0 to 9",
+     "notes_html": "<h4>Counting things</h4>\n<p>To count things, touch each thing one by one and say the counting words in order: <b>one, two, three, four, five, six, seven, eight, nine</b>. The last word you say tells how many things there are.</p>\n<p>In the book we count: 1 mango, 2 bananas, 3 apples, 4 lemons, 5 pomegranates, 6 stars, 7 candles, 8 pencils and 9 hens.</p>\n<h4>The number zero</h4>\n<p>When a cage has <b>no parrot at all</b>, we write the number <b>0</b>. Zero means <b>nothing</b>. Four cages with 3, 2, 1 and 0 parrots show the numbers going down to zero.</p>\n<h4>Worked example</h4>\n<p>Count the cricket balls in the picture and write the number.</p>\n<p>Step 1: Touch each ball and count: 1, 2, 3, 4, 5, 6, 7, 8, 9.</p>\n<p>Step 2: The last number is 9, so there are 9 balls.</p>\n<p>Answer: 9</p>\n<h4>Key points</h4>\n<ul><li>Count slowly, touch each thing once.</li><li>0 means nothing.</li><li>Number words: One, Two, Three, Four, Five, Six, Seven, Eight, Nine.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many bananas are there in the book's first counting picture?",
+       "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+       ],
+       "answer": 1,
+       "why": "Count the bananas one by one: 1, 2. The last number said is 2, so there are 2 bananas."
+      },
+      {
+       "q": "A cage has no parrot at all. Which number do we write for it?",
+       "options": [
+        "1",
+        "9",
+        "3",
+        "0"
+       ],
+       "answer": 3,
+       "why": "When there is nothing in the cage, we write the number 0. Zero means nothing at all."
+      },
+      {
+       "q": "What number comes in words as 'Seven'?",
+       "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+       ],
+       "answer": 2,
+       "why": "Count in order: one 1, two 2, three 3, four 4, five 5, six 6, seven 7. So Seven is 7."
+      },
+      {
+       "q": "In the book's counting, how many hens are shown?",
+       "options": [
+        "9",
+        "7",
+        "8",
+        "6"
+       ],
+       "answer": 0,
+       "why": "The hens are counted last: after 8 pencils come the hens, counted 9. So there are 9 hens."
+      },
+      {
+       "q": "Which number means 'nothing'?",
+       "options": [
+        "1",
+        "5",
+        "9",
+        "0"
+       ],
+       "answer": 3,
+       "why": "Zero means nothing. When a group is completely empty, its number is 0, like the empty cage."
+      },
+      {
+       "q": "Count the stars in the book's picture: one, two, three, four, five, six. How many stars?",
+       "options": [
+        "5",
+        "7",
+        "6",
+        "8"
+       ],
+       "answer": 2,
+       "why": "The last counting word said is six, so the number of stars is 6. Always trust the last word."
+      },
+      {
+       "q": "What is the number word for 5?",
+       "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Three"
+       ],
+       "answer": 1,
+       "why": "The number words in order are One, Two, Three, Four, Five. So the word for 5 is Five."
+      },
+      {
+       "q": "A plate has 0 apples. What does 0 tell us?",
+       "options": [
+        "There are no apples",
+        "There is 1 apple",
+        "There are many apples",
+        "There are 9 apples"
+       ],
+       "answer": 0,
+       "why": "Zero means nothing, so a plate with 0 apples is an empty plate with no apples on it."
+      },
+      {
+       "q": "How many pencils are counted in the book's first lesson?",
+       "options": [
+        "7",
+        "9",
+        "8",
+        "6"
+       ],
+       "answer": 2,
+       "why": "In the counting list, after 7 candles come the pencils, and they are counted as 8 pencils."
+      },
+      {
+       "q": "Which is the correct counting order?",
+       "options": [
+        "1, 2, 4, 3",
+        "3, 1, 2, 4",
+        "2, 1, 3, 4",
+        "1, 2, 3, 4"
+       ],
+       "answer": 3,
+       "why": "Counting always goes in the fixed order 1, 2, 3, 4, 5 and so on. No number may be skipped or swapped."
+      }
+     ]
+    },
+    {
+     "title": "Forward and Backward Counting",
+     "notes_html": "<h4>Forward counting</h4>\n<p><b>Forward counting</b> goes up: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Each next number is <b>1 more</b> than the number before it.</p>\n<h4>Backward counting</h4>\n<p><b>Backward counting</b> goes down: 9, 8, 7, 6, 5, 4, 3, 2, 1, 0. Each next number is <b>1 less</b> than the number before it.</p>\n<h4>Worked example</h4>\n<p>Fill in the blanks: 0, 1, ___, 3, ___, ___, 6.</p>\n<p>Step 1: Count forward from 0: 0, 1, 2, 3.</p>\n<p>Step 2: Keep going: 4, 5, 6.</p>\n<p>Answer: 2, 4, 5</p>\n<h4>Key points</h4>\n<ul><li>Forward = 1 more each time.</li><li>Backward = 1 less each time.</li><li>Counting works the same for big numbers, like 40 to 50.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What number comes after 6 in forward counting?",
+       "options": [
+        "5",
+        "7",
+        "8",
+        "4"
+       ],
+       "answer": 1,
+       "why": "Forward counting adds 1 each time: 6, then 6 + 1 = 7. So the number after 6 is 7."
+      },
+      {
+       "q": "Fill the blank: 0, 1, 2, ___, 4, 5",
+       "options": [
+        "3",
+        "6",
+        "2",
+        "7"
+       ],
+       "answer": 0,
+       "why": "Count forward: 0, 1, 2, 3, 4, 5. The missing number between 2 and 4 is 3."
+      },
+      {
+       "q": "In backward counting, what comes after 9?",
+       "options": [
+        "10",
+        "7",
+        "6",
+        "8"
+       ],
+       "answer": 3,
+       "why": "Backward counting takes 1 away each time: 9, then 9 - 1 = 8. So after 9 comes 8."
+      },
+      {
+       "q": "Fill the blank: 9, 8, 7, ___, 5, 4",
+       "options": [
+        "6",
+        "3",
+        "7",
+        "2"
+       ],
+       "answer": 0,
+       "why": "Count backward: 9, 8, 7, 6, 5, 4. The missing number between 7 and 5 is 6."
+      },
+      {
+       "q": "What is 1 more than 8?",
+       "options": [
+        "7",
+        "10",
+        "9",
+        "6"
+       ],
+       "answer": 2,
+       "why": "One more than a number is the next forward number: 8 + 1 = 9. So 1 more than 8 is 9."
+      },
+      {
+       "q": "What is 1 less than 5?",
+       "options": [
+        "6",
+        "4",
+        "3",
+        "5"
+       ],
+       "answer": 1,
+       "why": "One less than a number is the number just before it: 5 - 1 = 4. So 1 less than 5 is 4."
+      },
+      {
+       "q": "Complete the row: 17, 18, ___, 20, 21",
+       "options": [
+        "16",
+        "22",
+        "15",
+        "19"
+       ],
+       "answer": 3,
+       "why": "Forward counting goes up by 1: 17, 18, 19, 20, 21. The missing number is 19."
+      },
+      {
+       "q": "Complete the row: 90, ___, 88, 87",
+       "options": [
+        "91",
+        "86",
+        "89",
+        "85"
+       ],
+       "answer": 2,
+       "why": "Backward counting goes down by 1: 90, 89, 88, 87. The missing number is 89."
+      },
+      {
+       "q": "Which row is correct backward counting?",
+       "options": [
+        "5, 6, 7, 8",
+        "8, 7, 6, 5",
+        "8, 6, 7, 5",
+        "5, 4, 6, 3"
+       ],
+       "answer": 1,
+       "why": "Backward counting must go down by exactly 1 each step: 8, 7, 6, 5 is the correct row."
+      },
+      {
+       "q": "Fill the blank: 40, 41, ___, 43, 44",
+       "options": [
+        "42",
+        "39",
+        "45",
+        "40"
+       ],
+       "answer": 0,
+       "why": "Count forward by 1: 40, 41, 42, 43, 44. The missing number between 41 and 43 is 42."
+      }
+     ]
+    },
+    {
+     "title": "Tens and Numbers 11 to 19",
+     "notes_html": "<h4>One ten</h4>\n<p>When we put <b>10 ones</b> together in one group, we get <b>one ten</b>. So 10 ones = 1 ten = 10. The number 10 is the first <b>two-digit number</b>.</p>\n<p><b>10 ones = 1 ten = 10</b></p>\n<h4>Tens</h4>\n<p>2 tens = 20, 3 tens = 30, 4 tens = 40, 5 tens = 50, 6 tens = 60, 7 tens = 70, 8 tens = 80, 9 tens = 90.</p>\n<h4>Numbers 11 to 19</h4>\n<p>Every number from 11 to 19 has <b>1 ten</b> and some ones: 11 = 1 ten + 1 one, 12 = 1 ten + 2 ones, and so on up to 19 = 1 ten + 9 ones.</p>\n<h4>Worked example</h4>\n<p>A picture shows 2 full boxes of tens and 4 loose pencils. What is the number?</p>\n<p>Step 1: Count the tens: 2 boxes = 2 tens = 20.</p>\n<p>Step 2: Add the loose ones: 20 + 4 = 24.</p>\n<p>Answer: 24</p>\n<h4>Key points</h4>\n<ul><li>10 ones make 1 ten.</li><li>Read a two-digit number as tens first, then ones.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many ones make one ten?",
+       "options": [
+        "5",
+        "10",
+        "9",
+        "2"
+       ],
+       "answer": 1,
+       "why": "Ten single ones joined together in one group make one ten. So 10 ones = 1 ten."
+      },
+      {
+       "q": "What is 3 tens?",
+       "options": [
+        "30",
+        "13",
+        "3",
+        "33"
+       ],
+       "answer": 0,
+       "why": "Each ten is 10, so 3 tens = 10 + 10 + 10 = 30. Three tens make the number 30."
+      },
+      {
+       "q": "The number 16 has how many tens and ones?",
+       "options": [
+        "6 tens and 1 one",
+        "16 tens",
+        "1 ten and 6 ones",
+        "0 tens and 16 ones"
+       ],
+       "answer": 2,
+       "why": "In 16 the first digit 1 is one ten, and the second digit 6 is six ones: 1 ten + 6 ones."
+      },
+      {
+       "q": "7 tens and 2 ones make which number?",
+       "options": [
+        "27",
+        "702",
+        "9",
+        "72"
+       ],
+       "answer": 3,
+       "why": "Write the tens first and the ones after: 7 tens = 70, plus 2 ones = 72. So the number is 72."
+      },
+      {
+       "q": "What is 9 tens?",
+       "options": [
+        "19",
+        "90",
+        "99",
+        "9"
+       ],
+       "answer": 1,
+       "why": "Count by tens: 10, 20, 30, 40, 50, 60, 70, 80, 90. Nine tens make 90."
+      },
+      {
+       "q": "Which number is 1 ten and 9 ones?",
+       "options": [
+        "19",
+        "91",
+        "10",
+        "29"
+       ],
+       "answer": 0,
+       "why": "One ten is 10, and 9 more ones give 10 + 9 = 19. So 1 ten and 9 ones make 19."
+      },
+      {
+       "q": "2 boxes of tens and 2 ones (the book's example) make which number?",
+       "options": [
+        "4",
+        "20",
+        "22",
+        "202"
+       ],
+       "answer": 2,
+       "why": "Two tens are 20, and 2 loose ones are added: 20 + 2 = 22. The book's example answer is 22."
+      },
+      {
+       "q": "How many ones are in the number 13?",
+       "options": [
+        "1",
+        "13",
+        "10",
+        "3"
+       ],
+       "answer": 3,
+       "why": "13 = 1 ten + 3 ones. The ones digit of 13 is 3, so there are 3 loose ones."
+      },
+      {
+       "q": "Which is the first two-digit number?",
+       "options": [
+        "9",
+        "10",
+        "11",
+        "99"
+       ],
+       "answer": 1,
+       "why": "After 9 the counting reaches 10, which is written with two digits. So 10 is the first two-digit number."
+      },
+      {
+       "q": "5 tens and 6 ones make which number?",
+       "options": [
+        "65",
+        "11",
+        "506",
+        "56"
+       ],
+       "answer": 3,
+       "why": "5 tens = 50 and 6 ones = 6, so together 50 + 6 = 56. The number is 56."
+      }
+     ]
+    },
+    {
+     "title": "Counting to 100 and the Hundred Chart",
+     "notes_html": "<h4>The hundred chart</h4>\n<p>The <b>hundred chart</b> shows all numbers from 1 to 100 in rows of ten. Each row starts with a ten: 1-10, 11-20, 21-30, and so on up to 91-100.</p>\n<p>Going <b>across</b> a row, numbers grow by 1. Going <b>down</b> a column, numbers grow by 10.</p>\n<h4>Worked example</h4>\n<p>Find the missing numbers in the 50s row: 50, ___, 52, 53, ___, 55.</p>\n<p>Step 1: In a row each next number is 1 more.</p>\n<p>Step 2: After 50 comes 51, and after 53 comes 54.</p>\n<p>Answer: 51, 54</p>\n<h4>Key points</h4>\n<ul><li>100 numbers are in the chart: 1 to 100.</li><li>Across = +1, down = +10.</li><li>10 tens make one hundred: 100.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many numbers are there in the hundred chart?",
+       "options": [
+        "100",
+        "90",
+        "50",
+        "99"
+       ],
+       "answer": 0,
+       "why": "The chart holds every number from 1 to 100 in ten rows of ten, so there are 100 numbers."
+      },
+      {
+       "q": "In the hundred chart, moving one step down adds how much?",
+       "options": [
+        "1",
+        "2",
+        "10",
+        "5"
+       ],
+       "answer": 2,
+       "why": "Numbers in the same column differ by ten: under 23 is 33. So one step down adds 10."
+      },
+      {
+       "q": "Fill the blank in the 20s row: 20, ___, 22, 23",
+       "options": [
+        "19",
+        "30",
+        "25",
+        "21"
+       ],
+       "answer": 3,
+       "why": "Across a row numbers grow by 1: 20, 21, 22, 23. The missing number is 21."
+      },
+      {
+       "q": "Which number is directly below 45 in the hundred chart?",
+       "options": [
+        "46",
+        "35",
+        "55",
+        "44"
+       ],
+       "answer": 2,
+       "why": "Going down one row adds 10: 45 + 10 = 55. So the number below 45 is 55."
+      },
+      {
+       "q": "10 tens make what number?",
+       "options": [
+        "100",
+        "10",
+        "1000",
+        "20"
+       ],
+       "answer": 0,
+       "why": "Count the tens: 10, 20, ..., 100. Ten groups of ten make one hundred, which is 100."
+      },
+      {
+       "q": "Which row of the chart holds the number 67?",
+       "options": [
+        "The 50s row",
+        "The 60s row",
+        "The 70s row",
+        "The 90s row"
+       ],
+       "answer": 1,
+       "why": "67 lies between 61 and 70, which is the row starting with 61 — the 60s row of the chart."
+      },
+      {
+       "q": "Fill the blanks: 85, 86, ___, 88, ___",
+       "options": [
+        "84, 90",
+        "87, 89",
+        "87, 90",
+        "80, 89"
+       ],
+       "answer": 1,
+       "why": "Forward counting by 1: 85, 86, 87, 88, 89. The two missing numbers are 87 and 89."
+      },
+      {
+       "q": "What number comes just before 100?",
+       "options": [
+        "99",
+        "90",
+        "98",
+        "101"
+       ],
+       "answer": 0,
+       "why": "Counting forward ends the chart at 100; the number right before it is 100 - 1 = 99."
+      },
+      {
+       "q": "In the 30s row, which number is missing: 30, 31, ___, 33, 34?",
+       "options": [
+        "35",
+        "30",
+        "32",
+        "36"
+       ],
+       "answer": 2,
+       "why": "Across the row each number is 1 more: 30, 31, 32, 33, 34. The missing number is 32."
+      },
+      {
+       "q": "Which number is 10 more than 72?",
+       "options": [
+        "73",
+        "62",
+        "71",
+        "82"
+       ],
+       "answer": 3,
+       "why": "Ten more means one row down in the chart: 72 + 10 = 82. So 82 is 10 more than 72."
+      }
+     ]
+    },
+    {
+     "title": "Number Names",
+     "notes_html": "<h4>Words and figures</h4>\n<p>Every number can be written in two ways: in <b>figures</b> (0, 1, 2, 3 ...) and in <b>words</b> (Zero, One, Two, Three ...).</p>\n<ul><li>0 = Zero</li><li>1 = One</li><li>2 = Two</li><li>3 = Three</li><li>4 = Four</li><li>5 = Five</li><li>6 = Six</li><li>7 = Seven</li><li>8 = Eight</li><li>9 = Nine</li><li>10 = Ten</li></ul>\n<h4>Worked example</h4>\n<p>Write the word 'Nine' in figures.</p>\n<p>Step 1: Say the counting words in order and count on your fingers: One, Two, ..., Nine.</p>\n<p>Step 2: Nine is the 9th counting word.</p>\n<p>Answer: 9</p>\n<h4>Key points</h4>\n<ul><li>Read the word, then write its figure.</li><li>Read the figure, then write its word.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Write 'Six' in figures.",
+       "options": [
+        "6",
+        "5",
+        "9",
+        "3"
+       ],
+       "answer": 0,
+       "why": "Counting in order: One 1, Two 2, Three 3, Four 4, Five 5, Six 6. So Six is written 6."
+      },
+      {
+       "q": "Write 8 in words.",
+       "options": [
+        "Nine",
+        "Eight",
+        "Six",
+        "Seven"
+       ],
+       "answer": 1,
+       "why": "The number words in order end ... Six, Seven, Eight, Nine. So 8 is written as Eight."
+      },
+      {
+       "q": "Which figure matches the word 'Zero'?",
+       "options": [
+        "10",
+        "1",
+        "2",
+        "0"
+       ],
+       "answer": 3,
+       "why": "Zero means nothing, and its figure is 0. The word Zero matches the figure 0."
+      },
+      {
+       "q": "Write 'Five' in figures.",
+       "options": [
+        "4",
+        "6",
+        "5",
+        "15"
+       ],
+       "answer": 2,
+       "why": "Count: One 1, Two 2, Three 3, Four 4, Five 5. The figure for the word Five is 5."
+      },
+      {
+       "q": "Write 2 in words.",
+       "options": [
+        "Two",
+        "Ten",
+        "Three",
+        "One"
+       ],
+       "answer": 0,
+       "why": "The counting words are One for 1 and Two for 2. So the figure 2 is written as Two."
+      },
+      {
+       "q": "Which word matches the figure 10?",
+       "options": [
+        "Nine",
+        "One",
+        "Two",
+        "Ten"
+       ],
+       "answer": 3,
+       "why": "After Nine comes the first two-digit number, and its word is Ten. So 10 matches Ten."
+      },
+      {
+       "q": "Write 'Three' in figures.",
+       "options": [
+        "8",
+        "3",
+        "5",
+        "2"
+       ],
+       "answer": 1,
+       "why": "One 1, Two 2, Three 3: the third counting word is Three, so its figure is 3."
+      },
+      {
+       "q": "Write 7 in words.",
+       "options": [
+        "Six",
+        "Eight",
+        "Seven",
+        "Nine"
+       ],
+       "answer": 2,
+       "why": "The words in order are Five, Six, Seven, Eight. The seventh word is Seven, so 7 = Seven."
+      },
+      {
+       "q": "Which pair is correct?",
+       "options": [
+        "One — 1",
+        "Four — 5",
+        "Eight — 9",
+        "Ten — 0"
+       ],
+       "answer": 0,
+       "why": "Check each pair: Four is 4, Eight is 8, Ten is 10, but One is truly 1. Only One — 1 is correct."
+      },
+      {
+       "q": "Write 'Nine' in figures.",
+       "options": [
+        "6",
+        "9",
+        "8",
+        "7"
+       ],
+       "answer": 1,
+       "why": "Count the words: One, Two, Three, Four, Five, Six, Seven, Eight, Nine — Nine is the 9th, so 9."
+      }
+     ]
+    },
+    {
+     "title": "Place Value",
+     "notes_html": "<h4>Tens place and ones place</h4>\n<p>In a two-digit number, the <b>first (left) digit</b> is in the <b>tens place</b> and the <b>second digit</b> is in the <b>ones place</b>.</p>\n<p>The <b>place value</b> of a tens digit = digit × 10. The place value of a ones digit = the digit itself.</p>\n<h4>Expanded form</h4>\n<p>Writing a number as tens + ones is its <b>expanded form</b>.</p>\n<p><b>26 = 20 + 6</b></p>\n<p><b>65 = 60 + 5</b></p>\n<h4>Worked example</h4>\n<p>An abacus shows 7 tens and 2 ones. What is the number?</p>\n<p>Step 1: Tens: 7 tens = 70.</p>\n<p>Step 2: Add the ones: 70 + 2 = 72.</p>\n<p>Answer: 72</p>\n<h4>Key points</h4>\n<ul><li>Left digit = tens, right digit = ones.</li><li>In 74, the place value of 7 is 70 and of 4 is 4.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In 26, what is the place value of 2?",
+       "options": [
+        "2",
+        "26",
+        "6",
+        "20"
+       ],
+       "answer": 3,
+       "why": "The 2 in 26 is in the tens place, so its value is 2 tens = 20. The place value of 2 is 20."
+      },
+      {
+       "q": "Write 65 in expanded form.",
+       "options": [
+        "6 + 5",
+        "50 + 6",
+        "60 + 5",
+        "65 + 0"
+       ],
+       "answer": 2,
+       "why": "65 has 6 tens and 5 ones: 6 tens = 60, so the expanded form is 60 + 5."
+      },
+      {
+       "q": "In 74, what is the place value of 7?",
+       "options": [
+        "7",
+        "74",
+        "70",
+        "4"
+       ],
+       "answer": 2,
+       "why": "The 7 stands in the tens place of 74, so it means 7 tens, which is 70."
+      },
+      {
+       "q": "In 89, what is the place value of 9?",
+       "options": [
+        "90",
+        "9",
+        "80",
+        "89"
+       ],
+       "answer": 1,
+       "why": "The 9 in 89 is in the ones place, so its place value is simply 9 ones = 9."
+      },
+      {
+       "q": "An abacus shows 5 tens and 3 ones. What number is it?",
+       "options": [
+        "35",
+        "8",
+        "503",
+        "53"
+       ],
+       "answer": 3,
+       "why": "5 tens = 50 and 3 ones = 3, joined as 50 + 3 = 53. The abacus number is 53."
+      },
+      {
+       "q": "In 35, the digit 3 is in which place?",
+       "options": [
+        "Tens place",
+        "Ones place",
+        "Hundreds place",
+        "No place"
+       ],
+       "answer": 0,
+       "why": "The first (left) digit of a two-digit number is in the tens place. In 35, 3 is the tens digit."
+      },
+      {
+       "q": "What is the expanded form of 42's tens part? In 42, 4 means:",
+       "options": [
+        "4 tens = 40",
+        "4 ones",
+        "42",
+        "2 tens"
+       ],
+       "answer": 0,
+       "why": "In 42 the 4 is in the tens place, so it means 4 tens, and 4 tens = 40."
+      },
+      {
+       "q": "Which number has 8 in the tens place and 3 in the ones place?",
+       "options": [
+        "38",
+        "803",
+        "83",
+        "33"
+       ],
+       "answer": 2,
+       "why": "Tens digit first, ones digit second: 8 tens and 3 ones write as 83."
+      },
+      {
+       "q": "In 58, what is the place value of 5?",
+       "options": [
+        "5",
+        "58",
+        "8",
+        "50"
+       ],
+       "answer": 3,
+       "why": "The 5 in 58 is the tens digit, so its place value is 5 tens = 50."
+      },
+      {
+       "q": "Write 24 in expanded form.",
+       "options": [
+        "2 + 4",
+        "20 + 4",
+        "40 + 2",
+        "24 + 4"
+       ],
+       "answer": 1,
+       "why": "24 = 2 tens + 4 ones = 20 + 4. The expanded form of 24 is 20 + 4."
+      }
+     ]
+    },
+    {
+     "title": "Comparing and Ordering Numbers",
+     "notes_html": "<h4>Less, equal and more</h4>\n<p>To compare two numbers, first look at the <b>tens</b>. The number with more tens is bigger. If the tens are equal, look at the <b>ones</b>.</p>\n<p>With 26: 11 is <b>less</b>, 26 is <b>equal</b>, 39 is <b>more</b>.</p>\n<h4>Increasing and decreasing order</h4>\n<p><b>Increasing order</b> = smallest to greatest. <b>Decreasing order</b> = greatest to smallest.</p>\n<h4>Worked example</h4>\n<p>Write in increasing order: 95, 13, 57, 82.</p>\n<p>Step 1: Look at the tens: 9, 1, 5, 8.</p>\n<p>Step 2: Smallest tens first: 13, then 57, then 82, then 95.</p>\n<p>Answer: 13, 57, 82, 95</p>\n<h4>Key points</h4>\n<ul><li>Compare tens first, then ones.</li><li>Increasing starts from the smallest.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Compared with 26, the number 39 is:",
+       "options": [
+        "More",
+        "Less",
+        "Equal",
+        "The same"
+       ],
+       "answer": 0,
+       "why": "39 has 3 tens and 26 has 2 tens; 3 tens is more than 2 tens, so 39 is more than 26."
+      },
+      {
+       "q": "Which number is the smallest: 88, 22, 77, 49?",
+       "options": [
+        "88",
+        "77",
+        "22",
+        "49"
+       ],
+       "answer": 2,
+       "why": "Compare the tens: 8, 2, 7, 4. The smallest tens digit is 2, so 22 is the smallest number."
+      },
+      {
+       "q": "Write in decreasing order: 80, 90, 70, 50. Which comes first?",
+       "options": [
+        "80",
+        "90",
+        "70",
+        "50"
+       ],
+       "answer": 1,
+       "why": "Decreasing order starts with the greatest number. Of 80, 90, 70, 50 the greatest is 90."
+      },
+      {
+       "q": "Compare 44 and 44. They are:",
+       "options": [
+        "44 is more",
+        "44 is less",
+        "Cannot tell",
+        "Equal"
+       ],
+       "answer": 3,
+       "why": "Both numbers have the same tens and the same ones, so they are exactly equal to each other."
+      },
+      {
+       "q": "Which is more, 57 or 28?",
+       "options": [
+        "57",
+        "28",
+        "Both equal",
+        "Neither"
+       ],
+       "answer": 0,
+       "why": "57 has 5 tens while 28 has only 2 tens. More tens means a bigger number, so 57 is more."
+      },
+      {
+       "q": "Write in increasing order: 9, 66, 39, 26. Which is first?",
+       "options": [
+        "66",
+        "39",
+        "26",
+        "9"
+       ],
+       "answer": 3,
+       "why": "Increasing order begins with the smallest. 9 is a one-digit number, smaller than all the two-digit ones."
+      },
+      {
+       "q": "Between 63 and 63, and 74: compared with 63, 74 is:",
+       "options": [
+        "Less",
+        "Equal",
+        "More",
+        "Smaller"
+       ],
+       "answer": 2,
+       "why": "74 has 7 tens and 63 has 6 tens, so 74 is more than 63. More tens means more value."
+      },
+      {
+       "q": "Which number is greater: 34 or 43?",
+       "options": [
+        "34",
+        "43",
+        "Equal",
+        "Both same"
+       ],
+       "answer": 1,
+       "why": "Compare tens first: 43 has 4 tens, 34 has 3 tens. So 43 is the greater number."
+      },
+      {
+       "q": "In increasing order 22, 49, 77, 88 — which is the greatest?",
+       "options": [
+        "22",
+        "49",
+        "77",
+        "88"
+       ],
+       "answer": 3,
+       "why": "In increasing order the last number is the greatest. Here the order ends at 88, the greatest."
+      },
+      {
+       "q": "Compare the ones when tens are equal: which is bigger, 56 or 52?",
+       "options": [
+        "56",
+        "52",
+        "Equal",
+        "None"
+       ],
+       "answer": 0,
+       "why": "Both have 5 tens, so compare ones: 6 ones is more than 2 ones, so 56 is bigger than 52."
+      }
+     ]
+    },
+    {
+     "title": "Before, After and Between",
+     "notes_html": "<h4>Before and after</h4>\n<p>The number <b>before</b> a number is <b>1 less</b> than it. The number <b>after</b> a number is <b>1 more</b> than it.</p>\n<p>Before 34 is 33. After 73 is 74.</p>\n<h4>Between</h4>\n<p>The number <b>between</b> two numbers sits exactly in the middle: between 36 and 38 is 37.</p>\n<h4>Worked example</h4>\n<p>Complete the triple: 62, ___, 64.</p>\n<p>Step 1: The middle number is 1 more than 62.</p>\n<p>Step 2: 62 + 1 = 63, and 63 + 1 = 64. ✓</p>\n<p>Answer: 63</p>\n<h4>Key points</h4>\n<ul><li>Before = minus 1.</li><li>After = plus 1.</li><li>Between = the middle number.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What number comes just before 56?",
+       "options": [
+        "57",
+        "55",
+        "54",
+        "65"
+       ],
+       "answer": 1,
+       "why": "The number before is 1 less: 56 - 1 = 55. So 55 comes just before 56."
+      },
+      {
+       "q": "What number comes just after 19?",
+       "options": [
+        "18",
+        "21",
+        "20",
+        "10"
+       ],
+       "answer": 2,
+       "why": "The number after is 1 more: 19 + 1 = 20. So 20 comes just after 19."
+      },
+      {
+       "q": "Which number is between 90 and 92?",
+       "options": [
+        "89",
+        "93",
+        "91",
+        "90"
+       ],
+       "answer": 2,
+       "why": "The middle number is 1 more than 90 and 1 less than 92: that number is 91."
+      },
+      {
+       "q": "What number comes before 1?",
+       "options": [
+        "2",
+        "0",
+        "10",
+        "11"
+       ],
+       "answer": 1,
+       "why": "One less than 1 is 1 - 1 = 0. The number before 1 is 0, which means nothing."
+      },
+      {
+       "q": "Complete the pair: 29, ___ (the number after 29)",
+       "options": [
+        "30",
+        "28",
+        "31",
+        "20"
+       ],
+       "answer": 0,
+       "why": "After means 1 more: 29 + 1 = 30. The pair is completed as 29, 30."
+      },
+      {
+       "q": "Complete the triple: ___, 55, 56",
+       "options": [
+        "53",
+        "57",
+        "50",
+        "54"
+       ],
+       "answer": 3,
+       "why": "The first number must be 1 less than 55: 55 - 1 = 54. The triple is 54, 55, 56."
+      },
+      {
+       "q": "Which number is between 11 and 13?",
+       "options": [
+        "10",
+        "12",
+        "14",
+        "11"
+       ],
+       "answer": 1,
+       "why": "Counting in order: 11, 12, 13. The number sitting in the middle is 12."
+      },
+      {
+       "q": "What comes after 84?",
+       "options": [
+        "83",
+        "94",
+        "80",
+        "85"
+       ],
+       "answer": 3,
+       "why": "After = 1 more than the number: 84 + 1 = 85. So the number after 84 is 85."
+      },
+      {
+       "q": "What comes before 98?",
+       "options": [
+        "97",
+        "99",
+        "88",
+        "100"
+       ],
+       "answer": 0,
+       "why": "Before = 1 less: 98 - 1 = 97. So the number just before 98 is 97."
+      },
+      {
+       "q": "Complete the triple: 73, ___, 75",
+       "options": [
+        "72",
+        "76",
+        "74",
+        "70"
+       ],
+       "answer": 2,
+       "why": "The middle number is 1 more than 73: 73 + 1 = 74. The triple is 73, 74, 75."
+      }
+     ]
+    },
+    {
+     "title": "Ordinal Numbers",
+     "notes_html": "<h4>Position words</h4>\n<p>An <b>ordinal number</b> tells the <b>position</b> of a thing in a line or race: 1st = First, 2nd = Second, 3rd = Third, 4th = Fourth, 5th = Fifth, 6th = Sixth, 7th = Seventh, 8th = Eighth, 9th = Ninth, 10th = Tenth.</p>\n<h4>Days of the week</h4>\n<p>The week starts on Monday: Monday 1st, Tuesday 2nd, Wednesday 3rd, Thursday 4th, Friday 5th, Saturday 6th, Sunday 7th.</p>\n<h4>Worked example</h4>\n<p>In the car race, the green car's flag says 5th. Write it in words.</p>\n<p>Step 1: Count the position words in order: First, Second, Third, Fourth, Fifth.</p>\n<p>Step 2: The 5th word is Fifth.</p>\n<p>Answer: Fifth</p>\n<h4>Key points</h4>\n<ul><li>Ordinal numbers show position, not counting.</li><li>Learn the words First to Tenth with their figures.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Write 3rd in words.",
+       "options": [
+        "Three",
+        "Thirst",
+        "Third",
+        "Thirty"
+       ],
+       "answer": 2,
+       "why": "Ordinal words are First, Second, Third, Fourth. The word for 3rd is Third."
+      },
+      {
+       "q": "Write 'Seventh' in figures.",
+       "options": [
+        "7th",
+        "6th",
+        "8th",
+        "17th"
+       ],
+       "answer": 0,
+       "why": "Count the positions: 5th Fifth, 6th Sixth, 7th Seventh. So Seventh is written 7th."
+      },
+      {
+       "q": "Tuesday is which day of the week in order?",
+       "options": [
+        "1st",
+        "3rd",
+        "7th",
+        "2nd"
+       ],
+       "answer": 3,
+       "why": "The week starts on Monday (1st), so the next day, Tuesday, is the 2nd day of the week."
+      },
+      {
+       "q": "In the race, the blue car's flag says 8th. Its position word is:",
+       "options": [
+        "Eight",
+        "Eighth",
+        "Eighty",
+        "Last"
+       ],
+       "answer": 1,
+       "why": "The ordinal word for 8 is Eighth: 8th = Eighth, just as 5th = Fifth and 9th = Ninth."
+      },
+      {
+       "q": "Sunday is which day of the week?",
+       "options": [
+        "7th",
+        "6th",
+        "5th",
+        "1st"
+       ],
+       "answer": 0,
+       "why": "Counting the days from Monday: Monday 1st ... Saturday 6th, Sunday 7th. Sunday is the 7th day."
+      },
+      {
+       "q": "Write 10th in words.",
+       "options": [
+        "Ten",
+        "Tens",
+        "Tenth",
+        "Twentieth"
+       ],
+       "answer": 2,
+       "why": "The last ordinal word of the race is for 10: 10th is written in words as Tenth."
+      },
+      {
+       "q": "The magenta car is 3rd in the race. Which word is that?",
+       "options": [
+        "Second",
+        "Fourth",
+        "First",
+        "Third"
+       ],
+       "answer": 3,
+       "why": "Position words in order are First (1st), Second (2nd), Third (3rd). So 3rd is Third."
+      },
+      {
+       "q": "Write 'Fourth' in figures.",
+       "options": [
+        "5th",
+        "4th",
+        "14th",
+        "40th"
+       ],
+       "answer": 1,
+       "why": "First 1st, Second 2nd, Third 3rd, Fourth 4th. The figure form of Fourth is 4th."
+      },
+      {
+       "q": "Friday is which day of the week?",
+       "options": [
+        "4th",
+        "5th",
+        "6th",
+        "3rd"
+       ],
+       "answer": 1,
+       "why": "From Monday: Monday 1st, Tuesday 2nd, Wednesday 3rd, Thursday 4th, Friday 5th. Friday is 5th."
+      },
+      {
+       "q": "In the motorbike race, the position between 3rd and 5th is:",
+       "options": [
+        "2nd",
+        "6th",
+        "4th",
+        "10th"
+       ],
+       "answer": 2,
+       "why": "Positions go in order: 3rd, 4th, 5th. The missing middle position is 4th, the lime-green bike."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Number Operations",
+   "lessons": [
+    {
+     "title": "Addition",
+     "notes_html": "<h4>What is addition?</h4>\n<p><b>Addition</b> means joining two groups together and counting all. Its sign is <b>+</b> and the answer sign is <b>=</b>.</p>\n<p>4 apples + 3 apples = 7 apples in all.</p>\n<p><b>4 + 3 = 7</b></p>\n<h4>How to add</h4>\n<p>Start from the bigger number and <b>count forward</b>. For 4 + 3, count 3 forward from 4: 5, 6, 7.</p>\n<h4>Worked example</h4>\n<p>Add: 5 bananas + 6 bananas.</p>\n<p>Step 1: Start at 5.</p>\n<p>Step 2: Count 6 forward: 6, 7, 8, 9, 10, 11.</p>\n<p>Answer: 11 bananas</p>\n<h4>Key points</h4>\n<ul><li>+ means put together.</li><li>Changing the order does not change the answer: 5 + 7 = 7 + 5 = 12.</li><li>Adding 0 keeps the number the same.</li></ul>",
+     "mcqs": [
+      {
+       "q": "3 balloons + 5 balloons = how many balloons?",
+       "options": [
+        "7",
+        "9",
+        "6",
+        "8"
+       ],
+       "answer": 3,
+       "why": "Count forward from 5 by 3: 6, 7, 8. So 3 + 5 = 8 balloons in all."
+      },
+      {
+       "q": "What does the sign + mean?",
+       "options": [
+        "Put together",
+        "Take away",
+        "Share equally",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "The + sign means addition: joining two groups together and counting everything in all."
+      },
+      {
+       "q": "6 stars + 8 stars = ?",
+       "options": [
+        "14",
+        "13",
+        "15",
+        "12"
+       ],
+       "answer": 0,
+       "why": "Count 8 forward from 6: 7, 8, 9, 10, 11, 12, 13, 14. So 6 + 8 = 14 stars."
+      },
+      {
+       "q": "5 + 7 = ?",
+       "options": [
+        "11",
+        "13",
+        "10",
+        "12"
+       ],
+       "answer": 3,
+       "why": "Count 7 forward from 5: 6, 7, 8, 9, 10, 11, 12. So 5 + 7 = 12."
+      },
+      {
+       "q": "9 + 9 = ?",
+       "options": [
+        "17",
+        "19",
+        "18",
+        "16"
+       ],
+       "answer": 2,
+       "why": "Count 9 forward from 9: 10, 11, 12, 13, 14, 15, 16, 17, 18. So 9 + 9 = 18."
+      },
+      {
+       "q": "Which addition gives the same answer as 8 + 6?",
+       "options": [
+        "8 + 8",
+        "6 + 8",
+        "6 + 6",
+        "14 + 6"
+       ],
+       "answer": 1,
+       "why": "Changing the order in addition does not change the answer: 8 + 6 = 14 and 6 + 8 = 14."
+      },
+      {
+       "q": "7 + ___ = 13. The missing number is:",
+       "options": [
+        "5",
+        "7",
+        "6",
+        "4"
+       ],
+       "answer": 2,
+       "why": "Find the missing part by subtracting: 13 - 7 = 6. Check: 7 + 6 = 13, so the missing number is 6."
+      },
+      {
+       "q": "10 + 10 = ?",
+       "options": [
+        "10",
+        "100",
+        "11",
+        "20"
+       ],
+       "answer": 3,
+       "why": "Ten and ten more: count the tens, 1 ten + 1 ten = 2 tens = 20. So 10 + 10 = 20."
+      },
+      {
+       "q": "3 + 3 = ?",
+       "options": [
+        "6",
+        "5",
+        "33",
+        "9"
+       ],
+       "answer": 0,
+       "why": "Count forward from 3 by 3: 4, 5, 6. So 3 + 3 = 6."
+      },
+      {
+       "q": "11 + ___ = 20. The missing number is:",
+       "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+       ],
+       "answer": 1,
+       "why": "Missing part = 20 - 11 = 9. Check the sum: 11 + 9 = 20, so the missing number is 9."
+      }
+     ]
+    },
+    {
+     "title": "Subtraction",
+     "notes_html": "<h4>What is subtraction?</h4>\n<p><b>Subtraction</b> means taking some things away from a group and counting what is <b>left</b>. Its sign is <b>−</b>.</p>\n<p>There were 6 eggs, 2 broke: 6 − 2 = 4 eggs left.</p>\n<p><b>6 − 2 = 4</b></p>\n<h4>How to subtract</h4>\n<p>Start from the bigger number and <b>count backward</b>. For 8 − 2, count 2 back from 8: 7, 6.</p>\n<h4>Related facts</h4>\n<p>From 8 + 2 = 10 we get the subtraction fact 10 − 8 = 2. Addition and subtraction are a family.</p>\n<h4>Worked example</h4>\n<p>There were 8 lemons, 2 were taken. How many are left?</p>\n<p>Step 1: Start at 8.</p>\n<p>Step 2: Count 2 back: 7, 6.</p>\n<p>Answer: 6 lemons left</p>\n<h4>Key points</h4>\n<ul><li>− means take away.</li><li>Subtracting 0 keeps the number the same.</li><li>The order matters: 8 − 2 is not 2 − 8.</li></ul>",
+     "mcqs": [
+      {
+       "q": "There were 5 parrots, 2 flew away. How many are left?",
+       "options": [
+        "7",
+        "3",
+        "2",
+        "5"
+       ],
+       "answer": 1,
+       "why": "Take away: 5 - 2 = 3. Count back from 5: 4, 3. So 3 parrots are left on the tree."
+      },
+      {
+       "q": "9 − 6 = ?",
+       "options": [
+        "4",
+        "2",
+        "3",
+        "15"
+       ],
+       "answer": 2,
+       "why": "Count 6 back from 9: 8, 7, 6, 5, 4, 3. So 9 - 6 = 3."
+      },
+      {
+       "q": "What is the related subtraction fact for 9 + 6 = 15?",
+       "options": [
+        "15 − 6 = 9",
+        "15 + 6 = 21",
+        "9 − 6 = 3",
+        "15 − 15 = 0"
+       ],
+       "answer": 0,
+       "why": "In the same fact family, total minus one part gives the other part: 15 - 6 = 9."
+      },
+      {
+       "q": "18 − 2 = ?",
+       "options": [
+        "20",
+        "17",
+        "15",
+        "16"
+       ],
+       "answer": 3,
+       "why": "Count 2 back from 18: 17, 16. So 18 - 2 = 16."
+      },
+      {
+       "q": "6 apples − 2 apples = ?",
+       "options": [
+        "8",
+        "3",
+        "2",
+        "4"
+       ],
+       "answer": 3,
+       "why": "Take 2 away from 6: 6 - 2 = 4. Four apples are left in the basket."
+      },
+      {
+       "q": "13 − ___ = 6. The missing number is:",
+       "options": [
+        "6",
+        "8",
+        "7",
+        "19"
+       ],
+       "answer": 2,
+       "why": "The part taken away = 13 - 6 = 7. Check: 13 - 7 = 6, so the missing number is 7."
+      },
+      {
+       "q": "20 − 14 = ?",
+       "options": [
+        "34",
+        "6",
+        "5",
+        "7"
+       ],
+       "answer": 1,
+       "why": "Count back or use the family fact 14 + 6 = 20. So 20 - 14 = 6."
+      },
+      {
+       "q": "What does the sign − mean?",
+       "options": [
+        "Take away",
+        "Join together",
+        "Times",
+        "Equal"
+       ],
+       "answer": 0,
+       "why": "The − sign is for subtraction, which means taking some away and counting what is left."
+      },
+      {
+       "q": "7 − 0 = ?",
+       "options": [
+        "0",
+        "6",
+        "70",
+        "7"
+       ],
+       "answer": 3,
+       "why": "Subtracting zero takes nothing away, so the number stays the same: 7 - 0 = 7."
+      },
+      {
+       "q": "19 − 2 = ?",
+       "options": [
+        "17",
+        "21",
+        "18",
+        "16"
+       ],
+       "answer": 0,
+       "why": "Count 2 back from 19: 18, 17. So 19 - 2 = 17."
+      }
+     ]
+    },
+    {
+     "title": "Comparing: More and Less",
+     "notes_html": "<h4>How much more? How much less?</h4>\n<p>When two groups have different numbers, we can tell <b>how much more</b> the bigger group is, or <b>how much less</b> the smaller group is.</p>\n<p>The trick: <b>subtract the smaller number from the bigger number</b>.</p>\n<h4>Worked example</h4>\n<p>There are 7 bottles in one group and 3 in the other. How much more is 7 than 3?</p>\n<p>Step 1: Bigger number is 7, smaller is 3.</p>\n<p>Step 2: Subtract: 7 − 3 = 4.</p>\n<p>Answer: 7 is more than 3 by 4</p>\n<h4>Key points</h4>\n<ul><li>Difference = bigger − smaller.</li><li>'More by' and 'less by' give the same difference.</li></ul>",
+     "mcqs": [
+      {
+       "q": "6 is more than 4 by how much?",
+       "options": [
+        "10",
+        "3",
+        "2",
+        "1"
+       ],
+       "answer": 2,
+       "why": "Difference = bigger - smaller = 6 - 4 = 2. So 6 is more than 4 by 2, as in the book."
+      },
+      {
+       "q": "8 is more than 5 by how much?",
+       "options": [
+        "2",
+        "3",
+        "13",
+        "4"
+       ],
+       "answer": 1,
+       "why": "Subtract the smaller from the bigger: 8 - 5 = 3. So 8 is more than 5 by 3."
+      },
+      {
+       "q": "4 is less than 7 by how much?",
+       "options": [
+        "11",
+        "3",
+        "2",
+        "4"
+       ],
+       "answer": 1,
+       "why": "Difference = 7 - 4 = 3. The smaller group is short by 3, so 4 is less than 7 by 3."
+      },
+      {
+       "q": "3 is less than 5 by how much?",
+       "options": [
+        "8",
+        "1",
+        "2",
+        "3"
+       ],
+       "answer": 2,
+       "why": "Difference = 5 - 3 = 2. So the group of 3 is less than the group of 5 by 2."
+      },
+      {
+       "q": "5 is less than 10 by how much?",
+       "options": [
+        "15",
+        "4",
+        "10",
+        "5"
+       ],
+       "answer": 3,
+       "why": "Difference = 10 - 5 = 5. So 5 is less than 10 by exactly 5."
+      },
+      {
+       "q": "There are 8 roses and 5 roses. How much more is the bigger group?",
+       "options": [
+        "3",
+        "13",
+        "2",
+        "4"
+       ],
+       "answer": 0,
+       "why": "Bigger minus smaller: 8 - 5 = 3. The bigger group of roses is more by 3."
+      },
+      {
+       "q": "To find 'how much more', we:",
+       "options": [
+        "Add both numbers",
+        "Subtract smaller from bigger",
+        "Count only the bigger",
+        "Multiply"
+       ],
+       "answer": 1,
+       "why": "The difference between two groups is found by subtracting the smaller number from the bigger one."
+      },
+      {
+       "q": "7 is more than 3 by how much?",
+       "options": [
+        "10",
+        "3",
+        "4",
+        "5"
+       ],
+       "answer": 2,
+       "why": "Difference = 7 - 3 = 4. So 7 is more than 3 by 4, as in the book's bottles question."
+      },
+      {
+       "q": "Which pair has a difference of 2?",
+       "options": [
+        "6 and 4",
+        "9 and 5",
+        "8 and 3",
+        "7 and 7"
+       ],
+       "answer": 0,
+       "why": "Check: 9-5=4, 6-4=2, 8-3=5, 7-7=0. Only 6 and 4 differ by 2."
+      },
+      {
+       "q": "10 is more than 5 by how much?",
+       "options": [
+        "2",
+        "15",
+        "50",
+        "5"
+       ],
+       "answer": 3,
+       "why": "Difference = 10 - 5 = 5. So 10 is more than 5 by 5."
+      }
+     ]
+    },
+    {
+     "title": "Mental Maths: Add and Subtract",
+     "notes_html": "<h4>Adding and subtracting in your head</h4>\n<p>For small numbers, count forward or backward <b>in your mind</b>. Adding zero keeps the number the same; subtracting zero also keeps it the same.</p>\n<p>9 + 0 = 9 and 4 − 0 = 4.</p>\n<h4>Adding tens</h4>\n<p>When the second number is only tens, the <b>ones stay the same</b> and only the tens change.</p>\n<p>17 + 40: ones stay 7, tens 1 + 4 = 5 → 57.</p>\n<p><b>17 + 40 = 57</b></p>\n<h4>Worked example</h4>\n<p>Subtract mentally: 92 − 50.</p>\n<p>Step 1: Only the tens change: 9 tens − 5 tens = 4 tens.</p>\n<p>Step 2: The ones stay 2.</p>\n<p>Answer: 42</p>\n<h4>Key points</h4>\n<ul><li>+ 0 and − 0 change nothing.</li><li>With whole tens, work only with the tens.</li></ul>",
+     "mcqs": [
+      {
+       "q": "8 + 7 = ? (do it in your head)",
+       "options": [
+        "14",
+        "15",
+        "16",
+        "13"
+       ],
+       "answer": 1,
+       "why": "Count 7 forward from 8 in your mind: 9, 10, 11, 12, 13, 14, 15. So 8 + 7 = 15."
+      },
+      {
+       "q": "35 + 20 = ?",
+       "options": [
+        "37",
+        "50",
+        "55",
+        "3520"
+       ],
+       "answer": 2,
+       "why": "Only tens change: 3 tens + 2 tens = 5 tens, ones stay 5. So 35 + 20 = 55."
+      },
+      {
+       "q": "65 − 20 = ?",
+       "options": [
+        "85",
+        "63",
+        "40",
+        "45"
+       ],
+       "answer": 3,
+       "why": "Only tens change: 6 tens - 2 tens = 4 tens, ones stay 5. So 65 - 20 = 45."
+      },
+      {
+       "q": "9 + 0 = ?",
+       "options": [
+        "9",
+        "0",
+        "90",
+        "10"
+       ],
+       "answer": 0,
+       "why": "Adding zero joins nothing, so the number does not change at all: 9 + 0 = 9."
+      },
+      {
+       "q": "64 + 30 = ?",
+       "options": [
+        "67",
+        "90",
+        "34",
+        "94"
+       ],
+       "answer": 3,
+       "why": "Tens: 6 + 3 = 9 tens; ones stay 4. So 64 + 30 = 94."
+      },
+      {
+       "q": "78 − 40 = ?",
+       "options": [
+        "74",
+        "38",
+        "118",
+        "48"
+       ],
+       "answer": 1,
+       "why": "Tens: 7 - 4 = 3 tens; ones stay 8. So 78 - 40 = 38."
+      },
+      {
+       "q": "3 + 5 = ?",
+       "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+       ],
+       "answer": 0,
+       "why": "Count forward from 5 by 3: 6, 7, 8. So 3 + 5 = 8."
+      },
+      {
+       "q": "7 − 6 = ?",
+       "options": [
+        "13",
+        "2",
+        "1",
+        "0"
+       ],
+       "answer": 2,
+       "why": "Count 6 back from 7: 6, 5, 4, 3, 2, 1. So 7 - 6 = 1."
+      },
+      {
+       "q": "27 + 50 = ?",
+       "options": [
+        "75",
+        "77",
+        "72",
+        "57"
+       ],
+       "answer": 1,
+       "why": "Tens: 2 + 5 = 7 tens; the ones stay 7. So 27 + 50 = 77."
+      },
+      {
+       "q": "59 − 30 = ?",
+       "options": [
+        "56",
+        "89",
+        "29",
+        "39"
+       ],
+       "answer": 2,
+       "why": "Tens: 5 - 3 = 2 tens; ones stay 9. So 59 - 30 = 29."
+      }
+     ]
+    },
+    {
+     "title": "Adding and Subtracting Bigger Numbers",
+     "notes_html": "<h4>The vertical way</h4>\n<p>Write the numbers with <b>ones under ones</b> and <b>tens under tens</b>. First work with the ones, then with the tens.</p>\n<h4>Worked example</h4>\n<p>Add: 32 + 54.</p>\n<p>Step 1: Ones: 2 + 4 = 6.</p>\n<p>Step 2: Tens: 3 + 5 = 8.</p>\n<p>Answer: 86</p>\n<h4>Another example</h4>\n<p>Subtract: 75 − 42.</p>\n<p>Step 1: Ones: 5 − 2 = 3.</p>\n<p>Step 2: Tens: 7 − 4 = 3.</p>\n<p>Answer: 33</p>\n<h4>Key points</h4>\n<ul><li>Always start from the ones.</li><li>Keep ones under ones and tens under tens.</li></ul>",
+     "mcqs": [
+      {
+       "q": "47 + 2 = ?",
+       "options": [
+        "67",
+        "45",
+        "472",
+        "49"
+       ],
+       "answer": 3,
+       "why": "Ones: 7 + 2 = 9; the tens stay 4. So 47 + 2 = 49."
+      },
+      {
+       "q": "51 + 43 = ?",
+       "options": [
+        "94",
+        "84",
+        "93",
+        "95"
+       ],
+       "answer": 0,
+       "why": "Ones: 1 + 3 = 4. Tens: 5 + 4 = 9. Joined together: 94. So 51 + 43 = 94."
+      },
+      {
+       "q": "38 − 5 = ?",
+       "options": [
+        "33",
+        "43",
+        "35",
+        "30"
+       ],
+       "answer": 0,
+       "why": "Ones: 8 - 5 = 3; the tens stay 3. So 38 - 5 = 33."
+      },
+      {
+       "q": "96 − 43 = ?",
+       "options": [
+        "63",
+        "53",
+        "43",
+        "139"
+       ],
+       "answer": 1,
+       "why": "Ones: 6 - 3 = 3. Tens: 9 - 4 = 5. So 96 - 43 = 53."
+      },
+      {
+       "q": "24 + 63 = ?",
+       "options": [
+        "78",
+        "97",
+        "86",
+        "87"
+       ],
+       "answer": 3,
+       "why": "Ones: 4 + 3 = 7. Tens: 2 + 6 = 8. So 24 + 63 = 87."
+      },
+      {
+       "q": "In vertical work, we first solve the:",
+       "options": [
+        "Tens",
+        "Hundreds",
+        "Ones",
+        "Any one"
+       ],
+       "answer": 2,
+       "why": "The rule of the vertical method is: first the ones column, then the tens column."
+      },
+      {
+       "q": "66 + 23 = ?",
+       "options": [
+        "89",
+        "99",
+        "88",
+        "86"
+       ],
+       "answer": 0,
+       "why": "Ones: 6 + 3 = 9. Tens: 6 + 2 = 8. So 66 + 23 = 89."
+      },
+      {
+       "q": "52 − 41 = ?",
+       "options": [
+        "21",
+        "11",
+        "93",
+        "13"
+       ],
+       "answer": 1,
+       "why": "Ones: 2 - 1 = 1. Tens: 5 - 4 = 1. So 52 - 41 = 11."
+      },
+      {
+       "q": "93 + 4 = ?",
+       "options": [
+        "94",
+        "89",
+        "133",
+        "97"
+       ],
+       "answer": 3,
+       "why": "Ones: 3 + 4 = 7; the tens stay 9. So 93 + 4 = 97."
+      },
+      {
+       "q": "99 − 8 = ?",
+       "options": [
+        "89",
+        "107",
+        "91",
+        "81"
+       ],
+       "answer": 2,
+       "why": "Ones: 9 - 8 = 1; the tens stay 9. So 99 - 8 = 91."
+      }
+     ]
+    },
+    {
+     "title": "Word Problems",
+     "notes_html": "<h4>Reading a word problem</h4>\n<p>First find the <b>two numbers</b> in the story. Then decide: do we <b>join</b> them (add) or <b>take away</b> (subtract)?</p>\n<h4>Worked example</h4>\n<p>Hina has 20 rupees. Her friend gave her 15 rupees. How many rupees in all?</p>\n<p>Step 1: The story joins two amounts, so add: 20 + 15.</p>\n<p>Step 2: Ones: 0 + 5 = 5. Tens: 2 + 1 = 3.</p>\n<p>Answer: 35 rupees</p>\n<h4>Another example</h4>\n<p>There are 29 students in the class, 4 are absent. How many are present?</p>\n<p>Step 1: Take away the absent: 29 − 4.</p>\n<p>Step 2: Ones: 9 − 4 = 5; tens stay 2.</p>\n<p>Answer: 25 students present</p>\n<h4>Key points</h4>\n<ul><li>'In all' usually means add.</li><li>'Left' or 'absent' usually means subtract.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The number of girls in a class is 16 and boys is 23. Total students?",
+       "options": [
+        "36",
+        "40",
+        "29",
+        "39"
+       ],
+       "answer": 3,
+       "why": "Join the two groups: 16 + 23. Ones 6 + 3 = 9, tens 1 + 2 = 3, total 39 students."
+      },
+      {
+       "q": "Abdul Rafay has 36 rupees and Muhammad Taha has 52 rupees. How much in all?",
+       "options": [
+        "86",
+        "78",
+        "88",
+        "98"
+       ],
+       "answer": 2,
+       "why": "Add both amounts: 36 + 52. Ones 6 + 2 = 8, tens 3 + 5 = 8. They have 88 rupees in all."
+      },
+      {
+       "q": "A shopkeeper has 46 eggs. He sold 23 eggs. How many eggs are left?",
+       "options": [
+        "23",
+        "69",
+        "26",
+        "33"
+       ],
+       "answer": 0,
+       "why": "Take away the sold eggs: 46 - 23. Ones 6 - 3 = 3, tens 4 - 2 = 2. So 23 eggs are left."
+      },
+      {
+       "q": "26 parrots sat on a tree, 12 flew away. How many are left?",
+       "options": [
+        "38",
+        "14",
+        "16",
+        "24"
+       ],
+       "answer": 1,
+       "why": "Subtract the parrots that flew away: 26 - 12 = 14. Ones 6 - 2 = 4, tens 2 - 1 = 1."
+      },
+      {
+       "q": "Faiza bought 60 grams of almonds and Elsa bought 30 grams. Total weight?",
+       "options": [
+        "30 grams",
+        "80 grams",
+        "90 grams",
+        "63 grams"
+       ],
+       "answer": 2,
+       "why": "Join the weights: 60 + 30. Ones 0 + 0 = 0, tens 6 + 3 = 9. Total is 90 grams."
+      },
+      {
+       "q": "The total price of two toys is 95 rupees. One toy costs 40 rupees. The other costs:",
+       "options": [
+        "135 rupees",
+        "45 rupees",
+        "95 rupees",
+        "55 rupees"
+       ],
+       "answer": 3,
+       "why": "Missing part = total - known part: 95 - 40 = 55. So the other toy costs 55 rupees."
+      },
+      {
+       "q": "Moeen bought 15 kg flour and his son bought 5 kg more. Total flour?",
+       "options": [
+        "10 kg",
+        "20 kg",
+        "25 kg",
+        "15 kg"
+       ],
+       "answer": 1,
+       "why": "Add both amounts: 15 + 5. Ones 5 + 5 = 10, carry 1 ten: tens 1 + 1 = 2. Total 20 kg."
+      },
+      {
+       "q": "The sum of two cards is 54. One card shows 34. The other card shows:",
+       "options": [
+        "20",
+        "88",
+        "24",
+        "30"
+       ],
+       "answer": 0,
+       "why": "Other card = total - known card = 54 - 34 = 20. Ones 4 - 4 = 0, tens 5 - 3 = 2."
+      },
+      {
+       "q": "In a word problem, the words 'how many in all' tell us to:",
+       "options": [
+        "Add",
+        "Subtract",
+        "Divide",
+        "Do nothing"
+       ],
+       "answer": 0,
+       "why": "'In all' means joining the groups together into one total, which is addition."
+      },
+      {
+       "q": "There are 29 students and 4 are absent. To find those present we:",
+       "options": [
+        "Add 29 + 4",
+        "Multiply",
+        "Subtract 29 − 4",
+        "Count the absent only"
+       ],
+       "answer": 2,
+       "why": "The present students are the total minus the absent ones: 29 - 4 = 25 students present."
+      }
+     ]
+    },
+    {
+     "title": "Rounding and Estimation",
+     "notes_html": "<h4>Rounding to the nearest ten</h4>\n<p>Look at the <b>ones digit</b>. If the ones are <b>less than 5</b>, keep the tens the same (round down). If the ones are <b>5 or more</b>, go to the next ten (round up).</p>\n<p>23 → 20 (ones 3 &lt; 5) and 37 → 40 (ones 7 ≥ 5).</p>\n<h4>Estimation</h4>\n<p>To <b>estimate</b> a sum or difference, first round both numbers, then add or subtract. 46 + 21 ≈ 50 + 20 = 70.</p>\n<h4>Worked example</h4>\n<p>Round 45 to the nearest ten.</p>\n<p>Step 1: The ones digit is 5.</p>\n<p>Step 2: Ones of 5 or more means round up to the next ten.</p>\n<p>Answer: 50</p>\n<h4>Key points</h4>\n<ul><li>Ones 0-4: round down.</li><li>Ones 5-9: round up.</li><li>Estimate = round first, then calculate.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Round 23 to the nearest ten.",
+       "options": [
+        "30",
+        "20",
+        "23",
+        "25"
+       ],
+       "answer": 1,
+       "why": "The ones digit of 23 is 3, which is less than 5, so we round down: 23 rounds to 20."
+      },
+      {
+       "q": "Round 86 to the nearest ten.",
+       "options": [
+        "80",
+        "86",
+        "100",
+        "90"
+       ],
+       "answer": 3,
+       "why": "The ones digit of 86 is 6, which is 5 or more, so we round up: 86 rounds to 90."
+      },
+      {
+       "q": "Round 45 to the nearest ten.",
+       "options": [
+        "50",
+        "40",
+        "45",
+        "55"
+       ],
+       "answer": 0,
+       "why": "The ones digit is exactly 5, and the rule says 5 or more rounds up. So 45 rounds to 50."
+      },
+      {
+       "q": "Round 8 to the nearest ten.",
+       "options": [
+        "0",
+        "8",
+        "20",
+        "10"
+       ],
+       "answer": 3,
+       "why": "8 is nearer to 10 than to 0 (ones 8 is 5 or more), so 8 rounds up to 10."
+      },
+      {
+       "q": "Estimate 46 + 21 by rounding first.",
+       "options": [
+        "67",
+        "70",
+        "60",
+        "80"
+       ],
+       "answer": 1,
+       "why": "Round: 46 → 50 and 21 → 20. Estimated sum = 50 + 20 = 70."
+      },
+      {
+       "q": "Estimate the difference 82 − 26.",
+       "options": [
+        "56",
+        "60",
+        "50",
+        "40"
+       ],
+       "answer": 2,
+       "why": "Round: 82 → 80 and 26 → 30. Estimated difference = 80 - 30 = 50."
+      },
+      {
+       "q": "Round 72 to the nearest ten.",
+       "options": [
+        "80",
+        "72",
+        "70",
+        "75"
+       ],
+       "answer": 2,
+       "why": "The ones digit of 72 is 2, less than 5, so round down and keep the tens: 72 rounds to 70."
+      },
+      {
+       "q": "Estimate 18 + 58 by rounding first.",
+       "options": [
+        "80",
+        "76",
+        "70",
+        "90"
+       ],
+       "answer": 0,
+       "why": "Round: 18 → 20 and 58 → 60. Estimated sum = 20 + 60 = 80."
+      },
+      {
+       "q": "Estimate 66 − 53 by rounding first.",
+       "options": [
+        "13",
+        "20",
+        "10",
+        "30"
+       ],
+       "answer": 1,
+       "why": "Round: 66 → 70 and 53 → 50. Estimated difference = 70 - 50 = 20."
+      },
+      {
+       "q": "Which number rounds to 60?",
+       "options": [
+        "55",
+        "62",
+        "64",
+        "All of these"
+       ],
+       "answer": 3,
+       "why": "55 rounds up to 60 (ones 5), 62 rounds down to 60 (ones 2), 64 rounds down to 60 (ones 4). All round to 60."
+      }
+     ]
+    },
+    {
+     "title": "Skip Counting in 2s, 5s and 10s",
+     "notes_html": "<h4>Counting in jumps</h4>\n<p><b>Skip counting</b> means counting by jumping the same number each time.</p>\n<ul><li>In <b>2s</b>: 2, 4, 6, 8, 10, 12 ... (all even numbers)</li><li>In <b>5s</b>: 5, 10, 15, 20, 25 ... (ends in 5 or 0)</li><li>In <b>10s</b>: 10, 20, 30, 40, 50 ...</li></ul>\n<h4>Worked example</h4>\n<p>Count in 2s: 6, ___, 10, ___, 14.</p>\n<p>Step 1: Each jump adds 2: 6 + 2 = 8.</p>\n<p>Step 2: Again: 10 + 2 = 12.</p>\n<p>Answer: 8, 12</p>\n<h4>Key points</h4>\n<ul><li>In 2s every number is even.</li><li>In 5s numbers end in 5 or 0.</li><li>In 10s only the tens change.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Count in 2s: 8, 10, ___, 14. The missing number is:",
+       "options": [
+        "11",
+        "13",
+        "16",
+        "12"
+       ],
+       "answer": 3,
+       "why": "Each jump adds 2: 8, 10, 12, 14. The missing number between 10 and 14 is 12."
+      },
+      {
+       "q": "Count in 5s: 5, 10, 15, ___, 25. The missing number is:",
+       "options": [
+        "16",
+        "20",
+        "30",
+        "21"
+       ],
+       "answer": 1,
+       "why": "Each jump adds 5: 5, 10, 15, 20, 25. The missing number is 20."
+      },
+      {
+       "q": "Count in 10s: 20, 30, ___, 50. The missing number is:",
+       "options": [
+        "35",
+        "45",
+        "40",
+        "60"
+       ],
+       "answer": 2,
+       "why": "Each jump adds 10: 20, 30, 40, 50. The missing number is 40."
+      },
+      {
+       "q": "Which numbers do we say when counting in 5s?",
+       "options": [
+        "5, 10, 15, 20",
+        "5, 11, 16, 21",
+        "5, 7, 9, 11",
+        "50, 51, 52, 53"
+       ],
+       "answer": 0,
+       "why": "Counting in 5s adds 5 each time: 5, 10, 15, 20, 25. These numbers end in 5 or 0."
+      },
+      {
+       "q": "Count in 2s from 14: 14, 16, ___, 20",
+       "options": [
+        "17",
+        "19",
+        "18",
+        "22"
+       ],
+       "answer": 2,
+       "why": "Add 2 each time: 14, 16, 18, 20. The missing even number is 18."
+      },
+      {
+       "q": "Count in 5s: 15, 20, ___, 30, 35",
+       "options": [
+        "22",
+        "40",
+        "27",
+        "25"
+       ],
+       "answer": 3,
+       "why": "Add 5 each time: 15, 20, 25, 30, 35. The missing number is 25."
+      },
+      {
+       "q": "Count in 10s: 50, 60, ___, 80, 90",
+       "options": [
+        "65",
+        "70",
+        "75",
+        "100"
+       ],
+       "answer": 1,
+       "why": "Add 10 each time: 50, 60, 70, 80, 90. The missing number is 70."
+      },
+      {
+       "q": "Counting in 2s gives which kind of numbers?",
+       "options": [
+        "Even numbers",
+        "Only odd numbers",
+        "Only tens",
+        "Fractions"
+       ],
+       "answer": 0,
+       "why": "Jumping by 2 from 0 or 2 lands on 2, 4, 6, 8, 10 — all of these are even numbers."
+      },
+      {
+       "q": "What comes next in 5s: 35, 40, 45, ___?",
+       "options": [
+        "46",
+        "50",
+        "55",
+        "49"
+       ],
+       "answer": 1,
+       "why": "Add 5 to the last number: 45 + 5 = 50. So the next number in 5s is 50."
+      },
+      {
+       "q": "What comes next in 10s: 60, 70, 80, ___?",
+       "options": [
+        "81",
+        "100",
+        "90",
+        "85"
+       ],
+       "answer": 2,
+       "why": "Add 10 to the last number: 80 + 10 = 90. So the next number in 10s is 90."
+      }
+     ]
+    },
+    {
+     "title": "Tables of 2, 5 and 10",
+     "notes_html": "<h4>Tables are skip counting</h4>\n<p>A <b>table</b> is just skip counting written in order.</p>\n<p>Table of 2: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.</p>\n<p>Table of 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50.</p>\n<p>Table of 10: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100.</p>\n<h4>Worked example</h4>\n<p>What are 6 twos?</p>\n<p>Step 1: Count in 2s six times: 2, 4, 6, 8, 10, 12.</p>\n<p>Step 2: The 6th number is 12.</p>\n<p>Answer: 6 twos = 12</p>\n<h4>Key points</h4>\n<ul><li>5 twos = 10, 5 fives = 25, 5 tens = 50.</li><li>10 tens = 100.</li></ul>",
+     "mcqs": [
+      {
+       "q": "5 twos = ?",
+       "options": [
+        "7",
+        "12",
+        "25",
+        "10"
+       ],
+       "answer": 3,
+       "why": "Count in 2s five times: 2, 4, 6, 8, 10. The fifth number is 10, so 5 twos = 10."
+      },
+      {
+       "q": "4 fives = ?",
+       "options": [
+        "20",
+        "9",
+        "25",
+        "15"
+       ],
+       "answer": 0,
+       "why": "Count in 5s four times: 5, 10, 15, 20. The fourth number is 20, so 4 fives = 20."
+      },
+      {
+       "q": "3 tens = ?",
+       "options": [
+        "30",
+        "13",
+        "3",
+        "300"
+       ],
+       "answer": 0,
+       "why": "Count in 10s three times: 10, 20, 30. So 3 tens = 30."
+      },
+      {
+       "q": "8 twos = ?",
+       "options": [
+        "10",
+        "18",
+        "14",
+        "16"
+       ],
+       "answer": 3,
+       "why": "Table of 2: 2, 4, 6, 8, 10, 12, 14, 16. The 8th number is 16, so 8 twos = 16."
+      },
+      {
+       "q": "7 fives = ?",
+       "options": [
+        "30",
+        "40",
+        "35",
+        "12"
+       ],
+       "answer": 2,
+       "why": "Table of 5: 5, 10, 15, 20, 25, 30, 35. The 7th number is 35, so 7 fives = 35."
+      },
+      {
+       "q": "6 tens = ?",
+       "options": [
+        "16",
+        "60",
+        "6",
+        "600"
+       ],
+       "answer": 1,
+       "why": "Table of 10: 10, 20, 30, 40, 50, 60. The 6th number is 60, so 6 tens = 60."
+      },
+      {
+       "q": "What is 10 times 10 in the table of 10?",
+       "options": [
+        "100",
+        "20",
+        "90",
+        "110"
+       ],
+       "answer": 0,
+       "why": "The table of 10 ends: ..., 80, 90, 100. Ten tens make one hundred, so 10 tens = 100."
+      },
+      {
+       "q": "Which is correct from the table of 5?",
+       "options": [
+        "6 fives = 11",
+        "6 fives = 30",
+        "6 fives = 60",
+        "6 fives = 25"
+       ],
+       "answer": 1,
+       "why": "Count in 5s six times: 5, 10, 15, 20, 25, 30. So 6 fives = 30 is correct."
+      },
+      {
+       "q": "9 twos = ?",
+       "options": [
+        "11",
+        "20",
+        "16",
+        "18"
+       ],
+       "answer": 3,
+       "why": "Table of 2 up to nine times: 2, 4, 6, 8, 10, 12, 14, 16, 18. So 9 twos = 18."
+      },
+      {
+       "q": "2 tens = ?",
+       "options": [
+        "2",
+        "12",
+        "20",
+        "200"
+       ],
+       "answer": 2,
+       "why": "Count in 10s two times: 10, 20. So 2 tens = 20, as in the book's matching exercise."
+      }
+     ]
+    },
+    {
+     "title": "Multiplication",
+     "notes_html": "<h4>Multiplication is repeated addition</h4>\n<p>When the <b>same number</b> is added again and again, we use <b>multiplication</b>. Its sign is <b>×</b>, read as 'times'.</p>\n<p>7 + 7 + 7 = 3 times 7 = 3 × 7.</p>\n<h4>Worked example</h4>\n<p>A tricycle has 3 wheels. How many wheels do 4 tricycles have?</p>\n<p>Step 1: Add 3 four times: 3 + 3 + 3 + 3.</p>\n<p>Step 2: 3 + 3 = 6, 6 + 3 = 9, 9 + 3 = 12. So 4 × 3 = 12.</p>\n<p>Answer: 12 wheels</p>\n<h4>Order in multiplication</h4>\n<p>Changing the order does not change the answer: 5 × 6 = 6 × 5.</p>\n<h4>Key points</h4>\n<ul><li>× means 'times'.</li><li>Count the groups, then multiply.</li></ul>",
+     "mcqs": [
+      {
+       "q": "5 rows of apples, 6 in each row. Total apples = ?",
+       "options": [
+        "30",
+        "11",
+        "25",
+        "56"
+       ],
+       "answer": 0,
+       "why": "Repeated addition: 6 + 6 + 6 + 6 + 6 = 30, which is 5 × 6 = 30 apples."
+      },
+      {
+       "q": "Write 8 + 8 + 8 + 8 in multiplication form.",
+       "options": [
+        "8 × 8",
+        "8 + 4",
+        "32 × 8",
+        "4 × 8"
+       ],
+       "answer": 3,
+       "why": "The number 8 is added 4 times, so it is 4 times 8, written as 4 × 8."
+      },
+      {
+       "q": "3 groups of tennis balls, 4 balls in each group. Total = ?",
+       "options": [
+        "7",
+        "34",
+        "12",
+        "10"
+       ],
+       "answer": 2,
+       "why": "Add 4 three times: 4 + 4 + 4 = 12, which is 3 × 4 = 12 tennis balls."
+      },
+      {
+       "q": "2 + 2 + 2 + 2 + 2 + 2 is how many times 2?",
+       "options": [
+        "2 times",
+        "6 times",
+        "5 times",
+        "12 times"
+       ],
+       "answer": 1,
+       "why": "Count the 2s in the sum: there are six of them, so it is 6 times 2 = 6 × 2."
+      },
+      {
+       "q": "What is the pair of 3 × 7 with the order changed?",
+       "options": [
+        "3 × 3",
+        "7 × 3",
+        "7 × 7",
+        "10 × 3"
+       ],
+       "answer": 1,
+       "why": "In multiplication the order can be swapped: 3 × 7 and 7 × 3 both equal 21."
+      },
+      {
+       "q": "Complete: 9 × 4 = ___ × 9",
+       "options": [
+        "9",
+        "36",
+        "4",
+        "13"
+       ],
+       "answer": 2,
+       "why": "Swapping the order keeps the same two numbers: 9 × 4 = 4 × 9. The missing number is 4."
+      },
+      {
+       "q": "4 rows of oranges, 5 in each row. Total oranges = ?",
+       "options": [
+        "20",
+        "9",
+        "45",
+        "15"
+       ],
+       "answer": 0,
+       "why": "Add 5 four times: 5 + 5 + 5 + 5 = 20, which is 4 × 5 = 20 oranges."
+      },
+      {
+       "q": "The sign × is read as:",
+       "options": [
+        "Plus",
+        "Minus",
+        "Divide",
+        "Times"
+       ],
+       "answer": 3,
+       "why": "The multiplication sign × is read as 'times', as in 3 times 7 written 3 × 7."
+      },
+      {
+       "q": "3 groups of eggs, 2 eggs in each group. Total eggs = ?",
+       "options": [
+        "6",
+        "5",
+        "32",
+        "9"
+       ],
+       "answer": 0,
+       "why": "Add 2 three times: 2 + 2 + 2 = 6, which is 3 × 2 = 6 eggs."
+      },
+      {
+       "q": "Complete: 5 × 8 = 8 × ___",
+       "options": [
+        "8",
+        "40",
+        "5",
+        "13"
+       ],
+       "answer": 2,
+       "why": "The swapped pair must use the same numbers: 5 × 8 = 8 × 5. The missing number is 5."
+      }
+     ]
+    },
+    {
+     "title": "Division",
+     "notes_html": "<h4>Division is equal sharing</h4>\n<p><b>Division</b> means sharing things <b>equally</b> or making equal groups. Its sign is <b>÷</b>. We can do it by <b>repeated subtraction</b>: keep taking away the same number until nothing is left, then count how many times we subtracted.</p>\n<h4>Worked example</h4>\n<p>12 apples, 3 in each plate. How many plates?</p>\n<p>Step 1: Subtract 3 again and again: 12 − 3 = 9, 9 − 3 = 6, 6 − 3 = 3, 3 − 3 = 0.</p>\n<p>Step 2: We subtracted 3 four times.</p>\n<p>Answer: 12 ÷ 3 = 4 plates</p>\n<h4>Order in division</h4>\n<p>Division <b>cannot</b> be done in any order: 8 ÷ 4 is not the same as 4 ÷ 8.</p>\n<h4>Key points</h4>\n<ul><li>÷ means share equally.</li><li>Count the subtractions to get the answer.</li></ul>",
+     "mcqs": [
+      {
+       "q": "8 pieces of cake, 2 in each plate. How many plates?",
+       "options": [
+        "10",
+        "6",
+        "16",
+        "4"
+       ],
+       "answer": 3,
+       "why": "Repeated subtraction: 8 - 2 = 6, 6 - 2 = 4, 4 - 2 = 2, 2 - 2 = 0. Subtracted 4 times: 4 plates."
+      },
+      {
+       "q": "Share 8 eggs equally in 4 baskets. How many in each basket?",
+       "options": [
+        "4",
+        "2",
+        "8",
+        "12"
+       ],
+       "answer": 1,
+       "why": "Sharing 8 equally into 4 groups gives 2 in each group: 8 ÷ 4 = 2 eggs per basket."
+      },
+      {
+       "q": "15 toffees, 3 in each basket. How many baskets are needed?",
+       "options": [
+        "5",
+        "3",
+        "12",
+        "18"
+       ],
+       "answer": 0,
+       "why": "Subtract 3 from 15 again and again: 12, 9, 6, 3, 0 — five times. So 15 ÷ 3 = 5 baskets."
+      },
+      {
+       "q": "True or False: 6 ÷ 2 is the same as 2 ÷ 6.",
+       "options": [
+        "True",
+        "Both equal 3",
+        "Cannot say",
+        "False"
+       ],
+       "answer": 3,
+       "why": "Division cannot change order: 6 ÷ 2 = 3 but 2 ÷ 6 cannot share equally. So the statement is False."
+      },
+      {
+       "q": "True or False: 8 ÷ 2 is not the same as 2 ÷ 8.",
+       "options": [
+        "False",
+        "Both same",
+        "True",
+        "Equal"
+       ],
+       "answer": 2,
+       "why": "Since division changes its answer when the order is swapped, 8 ÷ 2 ≠ 2 ÷ 8. The statement is True."
+      },
+      {
+       "q": "12 mangoes, 4 in each plate. How many plates?",
+       "options": [
+        "16",
+        "3",
+        "8",
+        "4"
+       ],
+       "answer": 1,
+       "why": "Repeated subtraction: 12 - 4 = 8, 8 - 4 = 4, 4 - 4 = 0. Subtracted 3 times: 3 plates."
+      },
+      {
+       "q": "10 books, each student gets 5 books. How many students?",
+       "options": [
+        "5",
+        "15",
+        "10",
+        "2"
+       ],
+       "answer": 3,
+       "why": "Subtract 5 from 10: 10 - 5 = 5, 5 - 5 = 0. Subtracted 2 times, so 2 students get books."
+      },
+      {
+       "q": "The sign ÷ means:",
+       "options": [
+        "Add",
+        "Share equally",
+        "Take away once",
+        "Times"
+       ],
+       "answer": 1,
+       "why": "The ÷ sign is for division, which means sharing a total into equal groups or equal shares."
+      },
+      {
+       "q": "Can 4 eggs be divided equally into 8 baskets?",
+       "options": [
+        "Yes, 2 each",
+        "Yes, 1 each",
+        "No",
+        "Yes, 4 each"
+       ],
+       "answer": 2,
+       "why": "There are fewer eggs than baskets, so equal sharing is not possible. The book's answer is: No."
+      },
+      {
+       "q": "By repeated subtraction, 8 ÷ 2 = ?",
+       "options": [
+        "4",
+        "2",
+        "6",
+        "8"
+       ],
+       "answer": 0,
+       "why": "Subtract 2 from 8: 6, 4, 2, 0 — that is 4 subtractions. So 8 ÷ 2 = 4."
+      }
+     ]
+    },
+    {
+     "title": "Multiplication and Division Word Problems",
+     "notes_html": "<h4>Groups or sharing?</h4>\n<p>If the story makes <b>equal groups</b> and asks the total, <b>multiply</b>. If the story <b>shares</b> a total into equal parts, <b>divide</b>.</p>\n<h4>Worked example</h4>\n<p>One packet has 10 pencils. How many pencils in 4 packets?</p>\n<p>Step 1: Equal groups of 10, four times: 10 + 10 + 10 + 10.</p>\n<p>Step 2: 4 × 10 = 40.</p>\n<p>Answer: 40 pencils</p>\n<h4>Key points</h4>\n<ul><li>Total of equal groups → multiply.</li><li>Sharing a total equally → divide.</li></ul>",
+     "mcqs": [
+      {
+       "q": "One car has 4 wheels. How many wheels do 5 cars have?",
+       "options": [
+        "20",
+        "9",
+        "45",
+        "16"
+       ],
+       "answer": 0,
+       "why": "Equal groups: 4 + 4 + 4 + 4 + 4 = 5 × 4 = 20 wheels, the book's given example."
+      },
+      {
+       "q": "One bicycle has 2 wheels. How many wheels do 6 bicycles have?",
+       "options": [
+        "8",
+        "12",
+        "26",
+        "10"
+       ],
+       "answer": 1,
+       "why": "Multiply the equal groups: 6 × 2 = 12. Six bicycles have 12 wheels in all."
+      },
+      {
+       "q": "There are 12 mangoes, 4 in each plate. This problem needs:",
+       "options": [
+        "Addition",
+        "Subtraction only",
+        "Nothing",
+        "Division"
+       ],
+       "answer": 3,
+       "why": "A total (12) is being split into equal groups of 4, which is division: 12 ÷ 4 = 3 plates."
+      },
+      {
+       "q": "There are 10 books and each student gets 5. How many students?",
+       "options": [
+        "5",
+        "15",
+        "2",
+        "50"
+       ],
+       "answer": 2,
+       "why": "Divide by repeated subtraction: 10 - 5 = 5, 5 - 5 = 0, two times. So 2 students."
+      },
+      {
+       "q": "One packet has 10 pencils; 4 packets have how many pencils?",
+       "options": [
+        "14",
+        "40",
+        "410",
+        "6"
+       ],
+       "answer": 1,
+       "why": "Equal groups of 10: 4 × 10 = 40 pencils in the four packets together."
+      },
+      {
+       "q": "A story asks for the total of equal groups. We should:",
+       "options": [
+        "Divide",
+        "Subtract",
+        "Multiply",
+        "Guess"
+       ],
+       "answer": 2,
+       "why": "Totals of equal groups are found by multiplication, which is quick repeated addition."
+      },
+      {
+       "q": "5 cars with 4 wheels each: which sum matches?",
+       "options": [
+        "5 + 5 + 5 + 5",
+        "4 + 5",
+        "5 − 4",
+        "4 + 4 + 4 + 4 + 4"
+       ],
+       "answer": 3,
+       "why": "Each car adds 4 wheels, and there are 5 cars: 4 + 4 + 4 + 4 + 4 = 20."
+      },
+      {
+       "q": "12 mangoes in plates of 4 need how many plates?",
+       "options": [
+        "3",
+        "16",
+        "8",
+        "48"
+       ],
+       "answer": 0,
+       "why": "Divide: subtract 4 three times to reach 0 (12, 8, 4, 0). So 12 ÷ 4 = 3 plates."
+      },
+      {
+       "q": "6 bicycles with 2 wheels each: which multiplication is right?",
+       "options": [
+        "2 + 6",
+        "6 − 2",
+        "6 ÷ 2",
+        "6 × 2"
+       ],
+       "answer": 3,
+       "why": "Six equal groups of 2 wheels is written 6 × 2, and its answer is 12 wheels."
+      },
+      {
+       "q": "Sharing 10 books equally, 5 to each student, is which operation?",
+       "options": [
+        "Multiplication",
+        "Division",
+        "Addition",
+        "Rounding"
+       ],
+       "answer": 1,
+       "why": "Splitting a total into equal shares is division: 10 ÷ 5 = 2 students get books."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Money",
+   "lessons": [
+    {
+     "title": "Coins and Notes of Pakistan",
+     "notes_html": "<h4>Coins and notes</h4>\n<p><b>Coins</b> are made of metal — small and round. <b>Notes</b> are made of paper and are bigger. The value is written on every coin and note.</p>\n<ul><li>Coins: Rs. 1, Rs. 2, Rs. 5, Rs. 10</li><li>Notes: Rs. 10, Rs. 20, Rs. 50, Rs. 100, Rs. 500</li></ul>\n<h4>Worked example</h4>\n<p>Which of these is a coin: Rs. 5 or Rs. 100?</p>\n<p>Step 1: Coins go up to Rs. 10 only: 1, 2, 5, 10.</p>\n<p>Step 2: Rs. 100 is a big paper note.</p>\n<p>Answer: Rs. 5 is a coin</p>\n<h4>Key points</h4>\n<ul><li>Read the number written on the money.</li><li>Rs. means rupees.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which of these is a coin?",
+       "options": [
+        "Rs. 5 coin",
+        "Rs. 50 note",
+        "Rs. 100 note",
+        "Rs. 500 note"
+       ],
+       "answer": 0,
+       "why": "Coins are the small metal pieces of Rs. 1, 2, 5 and 10. Rs. 5 is a coin; the others are paper notes."
+      },
+      {
+       "q": "Which is the biggest note in the book's list?",
+       "options": [
+        "Rs. 100",
+        "Rs. 20",
+        "Rs. 500",
+        "Rs. 50"
+       ],
+       "answer": 2,
+       "why": "The notes are Rs. 10, 20, 50, 100 and 500. The largest value among them is Rs. 500."
+      },
+      {
+       "q": "Coins are made of:",
+       "options": [
+        "Paper",
+        "Plastic",
+        "Cloth",
+        "Metal"
+       ],
+       "answer": 3,
+       "why": "Coins are small, round pieces made of metal, while notes are made of paper and are bigger."
+      },
+      {
+       "q": "Which value exists both as a coin and as a note?",
+       "options": [
+        "Rs. 10",
+        "Rs. 1",
+        "Rs. 2",
+        "Rs. 500"
+       ],
+       "answer": 0,
+       "why": "Rs. 10 appears in both lists: there is a 10-rupee coin and also a 10-rupee note."
+      },
+      {
+       "q": "What does 'Rs.' mean?",
+       "options": [
+        "Coins only",
+        "Price tag",
+        "Rupees",
+        "Shop"
+       ],
+       "answer": 2,
+       "why": "Rs. is the short way of writing rupees, the money of Pakistan, as in Rs. 50."
+      },
+      {
+       "q": "Which is a note?",
+       "options": [
+        "Rs. 2",
+        "Rs. 20",
+        "Rs. 1",
+        "Rs. 5"
+       ],
+       "answer": 1,
+       "why": "Notes start from Rs. 10: 10, 20, 50, 100, 500. Rs. 20 is a note; Rs. 1, 2, 5 are coins."
+      },
+      {
+       "q": "How do we recognise the value of a coin?",
+       "options": [
+        "The value is written on it",
+        "By its colour only",
+        "By its weight",
+        "By asking"
+       ],
+       "answer": 0,
+       "why": "Every coin and note has its value written on it. Reading that number tells us its value."
+      },
+      {
+       "q": "Which coin has the smallest value?",
+       "options": [
+        "Rs. 10 coin",
+        "Rs. 1 coin",
+        "Rs. 5 coin",
+        "Rs. 2 coin"
+       ],
+       "answer": 1,
+       "why": "The coins are Rs. 1, 2, 5 and 10. The smallest value is the 1-rupee coin."
+      },
+      {
+       "q": "Notes are made of:",
+       "options": [
+        "Metal",
+        "Wood",
+        "Glass",
+        "Paper"
+       ],
+       "answer": 3,
+       "why": "Notes are printed on paper and are bigger than coins, which are made of metal."
+      },
+      {
+       "q": "Which list shows only notes?",
+       "options": [
+        "Rs. 1, Rs. 2, Rs. 5",
+        "Rs. 5, Rs. 10, Rs. 20",
+        "Rs. 10, Rs. 20, Rs. 50",
+        "Rs. 2, Rs. 10, Rs. 100"
+       ],
+       "answer": 2,
+       "why": "Notes are Rs. 10, 20, 50, 100, 500. Only the first list has nothing but note values."
+      }
+     ]
+    },
+    {
+     "title": "Total Price of Two Things",
+     "notes_html": "<h4>Adding prices</h4>\n<p>To find the <b>total price</b> of two things, <b>add</b> their prices — first the ones, then the tens.</p>\n<h4>Worked example</h4>\n<p>Ice-cream Rs. 25 + ice lolly Rs. 15. What is the total?</p>\n<p>Step 1: Ones: 5 + 5 = 10 — write 0, carry 1 ten.</p>\n<p>Step 2: Tens: 2 + 1 + 1 (carried) = 4.</p>\n<p>Answer: Rs. 40</p>\n<h4>Key points</h4>\n<ul><li>Total price = price 1 + price 2.</li><li>Work ones first, then tens.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Pencil Rs. 10 + candy Rs. 5 = ?",
+       "options": [
+        "Rs. 5",
+        "Rs. 50",
+        "Rs. 15",
+        "Rs. 105"
+       ],
+       "answer": 2,
+       "why": "Add the prices: 10 + 5 = 15. The total price of the pencil and candy is Rs. 15."
+      },
+      {
+       "q": "Notebook Rs. 50 + pen Rs. 20 = ?",
+       "options": [
+        "Rs. 30",
+        "Rs. 52",
+        "Rs. 25",
+        "Rs. 70"
+       ],
+       "answer": 3,
+       "why": "Add the tens: 50 + 20 = 70. The notebook and pen together cost Rs. 70."
+      },
+      {
+       "q": "Spinning top Rs. 20 + tennis ball Rs. 50 = ?",
+       "options": [
+        "Rs. 70",
+        "Rs. 25",
+        "Rs. 30",
+        "Rs. 90"
+       ],
+       "answer": 0,
+       "why": "Add: 20 + 50 = 70. The total price of the top and the ball is Rs. 70."
+      },
+      {
+       "q": "Chocolate Rs. 15 + toffee Rs. 5 = ?",
+       "options": [
+        "Rs. 10",
+        "Rs. 20",
+        "Rs. 155",
+        "Rs. 35"
+       ],
+       "answer": 1,
+       "why": "Ones: 5 + 5 = 10, carry 1; tens: 1 + 1 = 2. Total = Rs. 20."
+      },
+      {
+       "q": "Biscuits Rs. 30 + cake Rs. 20 = ?",
+       "options": [
+        "Rs. 10",
+        "Rs. 50",
+        "Rs. 32",
+        "Rs. 60"
+       ],
+       "answer": 1,
+       "why": "Add the tens: 30 + 20 = 50. The biscuits and cake together cost Rs. 50."
+      },
+      {
+       "q": "Eraser Rs. 5 + sharpener Rs. 10 = ?",
+       "options": [
+        "Rs. 510",
+        "Rs. 5",
+        "Rs. 50",
+        "Rs. 15"
+       ],
+       "answer": 3,
+       "why": "Add: 5 + 10 = 15. The eraser and sharpener together cost Rs. 15."
+      },
+      {
+       "q": "Balloon Rs. 15 + party hat Rs. 50 = ?",
+       "options": [
+        "Rs. 65",
+        "Rs. 35",
+        "Rs. 60",
+        "Rs. 55"
+       ],
+       "answer": 0,
+       "why": "Ones: 5 + 0 = 5. Tens: 1 + 5 = 6. Total = Rs. 65."
+      },
+      {
+       "q": "Popcorn Rs. 15 + ice lolly Rs. 20 = ?",
+       "options": [
+        "Rs. 25",
+        "Rs. 45",
+        "Rs. 35",
+        "Rs. 30"
+       ],
+       "answer": 2,
+       "why": "Ones: 5 + 0 = 5. Tens: 1 + 2 = 3. Total = Rs. 35."
+      },
+      {
+       "q": "Carrot Rs. 10 + radish Rs. 20 = ?",
+       "options": [
+        "Rs. 30",
+        "Rs. 12",
+        "Rs. 40",
+        "Rs. 21"
+       ],
+       "answer": 0,
+       "why": "Add the tens: 10 + 20 = 30. The carrot and radish together cost Rs. 30."
+      },
+      {
+       "q": "To find the total price of two things, we:",
+       "options": [
+        "Subtract the prices",
+        "Add the prices",
+        "Multiply the prices",
+        "Take the bigger price"
+       ],
+       "answer": 1,
+       "why": "A total means joining both amounts into one, so we add the two prices together."
+      }
+     ]
+    },
+    {
+     "title": "Money Left After Buying",
+     "notes_html": "<h4>Money left = your money − price</h4>\n<p>When you buy something, the money left is found by <b>subtracting</b> the price from the money you have.</p>\n<h4>Worked example</h4>\n<p>You have Rs. 99. You buy a ball for Rs. 75. How much is left?</p>\n<p>Step 1: Subtract: 99 − 75.</p>\n<p>Step 2: Ones: 9 − 5 = 4. Tens: 9 − 7 = 2.</p>\n<p>Answer: Rs. 24 left</p>\n<h4>Key points</h4>\n<ul><li>Left = total money − price.</li><li>Subtract ones first, then tens.</li></ul>",
+     "mcqs": [
+      {
+       "q": "You have Rs. 99 and buy a party hat for Rs. 50. Money left?",
+       "options": [
+        "Rs. 149",
+        "Rs. 50",
+        "Rs. 49",
+        "Rs. 40"
+       ],
+       "answer": 2,
+       "why": "Money left = 99 - 50. Ones 9 - 0 = 9, tens 9 - 5 = 4. So Rs. 49 is left."
+      },
+      {
+       "q": "Aafia has Rs. 95 and buys a comb for Rs. 30. Money left?",
+       "options": [
+        "Rs. 125",
+        "Rs. 60",
+        "Rs. 35",
+        "Rs. 65"
+       ],
+       "answer": 3,
+       "why": "Money left = 95 - 30 = 65. Ones stay 5, tens 9 - 3 = 6. Aafia has Rs. 65 left."
+      },
+      {
+       "q": "You have Rs. 99 and buy a fountain pen for Rs. 90. Money left?",
+       "options": [
+        "Rs. 19",
+        "Rs. 9",
+        "Rs. 90",
+        "Rs. 99"
+       ],
+       "answer": 1,
+       "why": "Money left = 99 - 90 = 9. Ones 9 - 0 = 9, tens 9 - 9 = 0. Only Rs. 9 is left."
+      },
+      {
+       "q": "Aafia has Rs. 95 and buys a mug for Rs. 55. Money left?",
+       "options": [
+        "Rs. 40",
+        "Rs. 45",
+        "Rs. 150",
+        "Rs. 50"
+       ],
+       "answer": 0,
+       "why": "Money left = 95 - 55. Ones 5 - 5 = 0, tens 9 - 5 = 4. So Rs. 40 is left."
+      },
+      {
+       "q": "You have Rs. 99 and buy a glass for Rs. 65. Money left?",
+       "options": [
+        "Rs. 44",
+        "Rs. 35",
+        "Rs. 164",
+        "Rs. 34"
+       ],
+       "answer": 3,
+       "why": "Money left = 99 - 65. Ones 9 - 5 = 4, tens 9 - 6 = 3. So Rs. 34 is left."
+      },
+      {
+       "q": "Aafia has Rs. 95 and buys a ruler for Rs. 20. Money left?",
+       "options": [
+        "Rs. 70",
+        "Rs. 115",
+        "Rs. 75",
+        "Rs. 25"
+       ],
+       "answer": 2,
+       "why": "Money left = 95 - 20 = 75. Ones stay 5, tens 9 - 2 = 7. Aafia has Rs. 75 left."
+      },
+      {
+       "q": "You have Rs. 99 and buy a pencil for Rs. 10. Money left?",
+       "options": [
+        "Rs. 109",
+        "Rs. 89",
+        "Rs. 80",
+        "Rs. 11"
+       ],
+       "answer": 1,
+       "why": "Money left = 99 - 10 = 89. Ones stay 9, tens 9 - 1 = 8. So Rs. 89 is left."
+      },
+      {
+       "q": "Aafia has Rs. 95 and buys a glass for Rs. 75. Money left?",
+       "options": [
+        "Rs. 30",
+        "Rs. 25",
+        "Rs. 20",
+        "Rs. 170"
+       ],
+       "answer": 2,
+       "why": "Money left = 95 - 75. Ones 5 - 5 = 0, tens 9 - 7 = 2. So Rs. 20 is left."
+      },
+      {
+       "q": "To find money left after buying, we:",
+       "options": [
+        "Add price to our money",
+        "Double the price",
+        "Ignore the price",
+        "Subtract the price from our money"
+       ],
+       "answer": 3,
+       "why": "Buying spends part of our money, so the part left is our money minus the price paid."
+      },
+      {
+       "q": "Aafia has Rs. 95 and buys a shuttlecock for Rs. 65. Money left?",
+       "options": [
+        "Rs. 30",
+        "Rs. 35",
+        "Rs. 160",
+        "Rs. 25"
+       ],
+       "answer": 0,
+       "why": "Money left = 95 - 65. Ones 5 - 5 = 0, tens 9 - 6 = 3. So Rs. 30 is left, the book's example."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Fractions",
+   "lessons": [
+    {
+     "title": "Half and Quarter",
+     "notes_html": "<h4>Equal parts of a whole</h4>\n<p>A <b>fraction</b> is an <b>equal part</b> of a whole thing. The parts must be exactly equal.</p>\n<p>When a whole is divided into <b>2 equal parts</b>, each part is a <b>half</b>, written <b>1/2</b>.</p>\n<p>When a whole is divided into <b>4 equal parts</b>, each part is a <b>quarter</b>, written <b>1/4</b>. Two parts are <b>two quarters = 2/4</b> and three parts are <b>three quarters = 3/4</b>.</p>\n<h4>Worked example</h4>\n<p>Colour one half of 8 balls. How many balls do you colour?</p>\n<p>Step 1: Half means 1 part out of 2 equal parts.</p>\n<p>Step 2: Half of 8 = 4 balls.</p>\n<p>Answer: 4 balls = 1/2</p>\n<h4>Key points</h4>\n<ul><li>Whole = complete and uncut.</li><li>Half = 1/2, quarter = 1/4.</li></ul>",
+     "mcqs": [
+      {
+       "q": "A whole thing is divided into 2 equal parts. Each part is called:",
+       "options": [
+        "A quarter",
+        "A half",
+        "A whole",
+        "A third"
+       ],
+       "answer": 1,
+       "why": "Two equal parts of a whole are halves. Each single part is one half, written 1/2."
+      },
+      {
+       "q": "How do we write one half?",
+       "options": [
+        "1/4",
+        "2/4",
+        "1/2",
+        "2/2"
+       ],
+       "answer": 2,
+       "why": "One part out of 2 equal parts is written with 1 on top and 2 below: 1/2."
+      },
+      {
+       "q": "One part out of 4 equal parts is called:",
+       "options": [
+        "A half",
+        "Three quarters",
+        "A whole",
+        "A quarter"
+       ],
+       "answer": 3,
+       "why": "When the whole is cut into 4 equal parts, each part is one quarter, written 1/4."
+      },
+      {
+       "q": "Three parts out of 4 equal parts are written as:",
+       "options": [
+        "3/4",
+        "1/4",
+        "4/3",
+        "2/4"
+       ],
+       "answer": 0,
+       "why": "Three parts taken out of 4 equal parts: the taken parts (3) go on top, total parts (4) below: 3/4."
+      },
+      {
+       "q": "Which thing is a whole object?",
+       "options": [
+        "A whole apple",
+        "A cake slice",
+        "Half watermelon",
+        "Orange slices"
+       ],
+       "answer": 0,
+       "why": "A whole object is complete and uncut. A whole apple is whole; slices and halves are parts."
+      },
+      {
+       "q": "Half of 8 balls means colouring how many balls?",
+       "options": [
+        "8 balls",
+        "2 balls",
+        "4 balls",
+        "6 balls"
+       ],
+       "answer": 2,
+       "why": "Half of 8 is one of its two equal parts: 8 shared into 2 equal groups gives 4 balls."
+      },
+      {
+       "q": "Two quarters are written as:",
+       "options": [
+        "1/2",
+        "4/2",
+        "1/4",
+        "2/4"
+       ],
+       "answer": 3,
+       "why": "Two parts out of 4 equal parts: 2 on top, 4 below — written 2/4, called two quarters."
+      },
+      {
+       "q": "Colouring 1 of 4 squares makes which fraction?",
+       "options": [
+        "1/2",
+        "1/4",
+        "4/4",
+        "2/4"
+       ],
+       "answer": 1,
+       "why": "One coloured part out of 4 total equal parts is one quarter, written 1/4."
+      },
+      {
+       "q": "For a fraction, the parts of the whole must be:",
+       "options": [
+        "Any sizes",
+        "Very big",
+        "Coloured",
+        "Exactly equal"
+       ],
+       "answer": 3,
+       "why": "Fractions only work with equal parts. A half or quarter is always an exactly equal part of the whole."
+      },
+      {
+       "q": "Colouring 6 of 8 balls makes which fraction of the balls?",
+       "options": [
+        "3/4",
+        "1/4",
+        "2/4",
+        "1/2"
+       ],
+       "answer": 0,
+       "why": "Of 8 balls, 2 balls = one quarter, so 6 balls = three quarters: 6 of 8 is 3/4, as in the book."
+      }
+     ]
+    },
+    {
+     "title": "Numerator and Denominator",
+     "notes_html": "<h4>The two numbers of a fraction</h4>\n<p>In a fraction, the <b>top number</b> is the <b>numerator</b> — it tells how many parts are taken. The <b>bottom number</b> is the <b>denominator</b> — it tells into how many equal parts the whole is divided.</p>\n<p>In 2/4: numerator = 2, denominator = 4.</p>\n<h4>Worked example</h4>\n<p>Tell the numerator and denominator in 5/8.</p>\n<p>Step 1: The top number is 5 — the parts taken.</p>\n<p>Step 2: The bottom number is 8 — the total equal parts.</p>\n<p>Answer: numerator 5, denominator 8</p>\n<h4>Key points</h4>\n<ul><li>Top = numerator = parts taken.</li><li>Bottom = denominator = total parts.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In the fraction 3/6, the numerator is:",
+       "options": [
+        "6",
+        "9",
+        "3",
+        "36"
+       ],
+       "answer": 2,
+       "why": "The numerator is the top number of a fraction. In 3/6 the top number is 3."
+      },
+      {
+       "q": "In the fraction 2/4, the denominator is:",
+       "options": [
+        "2",
+        "4",
+        "6",
+        "24"
+       ],
+       "answer": 1,
+       "why": "The denominator is the bottom number, telling the total equal parts. In 2/4 it is 4."
+      },
+      {
+       "q": "What does the denominator tell us?",
+       "options": [
+        "Parts taken",
+        "Total equal parts of the whole",
+        "The colour",
+        "The answer"
+       ],
+       "answer": 1,
+       "why": "The bottom number (denominator) tells into how many equal parts the whole thing is divided."
+      },
+      {
+       "q": "What does the numerator tell us?",
+       "options": [
+        "Total parts",
+        "The shape's name",
+        "Nothing",
+        "How many parts are taken"
+       ],
+       "answer": 3,
+       "why": "The top number (numerator) counts the parts we take or colour out of the total parts."
+      },
+      {
+       "q": "In 5/8, the numerator and denominator are:",
+       "options": [
+        "8 and 5",
+        "5 and 5",
+        "5 and 8",
+        "8 and 8"
+       ],
+       "answer": 2,
+       "why": "Top first: numerator 5 (parts taken), then denominator 8 (total equal parts)."
+      },
+      {
+       "q": "A picture has 4 equal parts and 1 is coloured. The fraction is:",
+       "options": [
+        "1/4",
+        "4/1",
+        "1/2",
+        "4/4"
+       ],
+       "answer": 0,
+       "why": "Coloured parts (1) go on top and total parts (4) go below: the fraction is 1/4."
+      },
+      {
+       "q": "In the fraction 3/4, how many parts are taken?",
+       "options": [
+        "4",
+        "7",
+        "3",
+        "1"
+       ],
+       "answer": 2,
+       "why": "The numerator is the number of parts taken. In 3/4 the numerator is 3, so 3 parts are taken."
+      },
+      {
+       "q": "The bottom number of a fraction is called the:",
+       "options": [
+        "Numerator",
+        "Denominator",
+        "Answer",
+        "Total sum"
+       ],
+       "answer": 1,
+       "why": "The bottom number is the denominator; the top number is the numerator. They have different jobs."
+      },
+      {
+       "q": "A rectangle is cut into 2 equal parts and 1 is green. The green part is:",
+       "options": [
+        "1/2",
+        "1/4",
+        "2/2",
+        "2/1"
+       ],
+       "answer": 0,
+       "why": "One part taken out of 2 equal parts: numerator 1, denominator 2 — the fraction is 1/2."
+      },
+      {
+       "q": "In 3/6, the whole is divided into how many equal parts?",
+       "options": [
+        "3",
+        "9",
+        "2",
+        "6"
+       ],
+       "answer": 3,
+       "why": "The denominator shows the total parts. In 3/6 the denominator is 6, so the whole has 6 equal parts."
+      }
+     ]
+    },
+    {
+     "title": "Adding and Subtracting Fractions",
+     "notes_html": "<h4>Same denominator: easy!</h4>\n<p>When two fractions have the <b>same denominator</b>, add or subtract <b>only the numerators</b>. The denominator stays the same.</p>\n<p><b>1/4 + 2/4 = 3/4</b></p>\n<p><b>3/5 − 1/5 = 2/5</b></p>\n<h4>Worked example</h4>\n<p>Add: 2/7 + 3/7.</p>\n<p>Step 1: The denominators are the same (7), so keep 7.</p>\n<p>Step 2: Add the numerators: 2 + 3 = 5.</p>\n<p>Answer: 5/7</p>\n<h4>Key points</h4>\n<ul><li>Never add the denominators.</li><li>Only the top numbers change.</li></ul>",
+     "mcqs": [
+      {
+       "q": "1/4 + 2/4 = ?",
+       "options": [
+        "3/8",
+        "2/4",
+        "1/4",
+        "3/4"
+       ],
+       "answer": 3,
+       "why": "Same denominator: add only the tops: 1 + 2 = 3, keep 4 below. So 1/4 + 2/4 = 3/4."
+      },
+      {
+       "q": "3/5 − 1/5 = ?",
+       "options": [
+        "4/5",
+        "2/0",
+        "2/5",
+        "1/5"
+       ],
+       "answer": 2,
+       "why": "Same denominator: subtract only the tops: 3 - 1 = 2, keep 5 below. So 3/5 - 1/5 = 2/5."
+      },
+      {
+       "q": "2/5 + 1/5 = ?",
+       "options": [
+        "3/10",
+        "3/5",
+        "2/5",
+        "1/5"
+       ],
+       "answer": 1,
+       "why": "Add the numerators: 2 + 1 = 3; the denominator stays 5. So 2/5 + 1/5 = 3/5."
+      },
+      {
+       "q": "4/7 − 3/7 = ?",
+       "options": [
+        "1/7",
+        "7/7",
+        "1/0",
+        "4/7"
+       ],
+       "answer": 0,
+       "why": "Subtract the numerators: 4 - 3 = 1; the denominator stays 7. So 4/7 - 3/7 = 1/7."
+      },
+      {
+       "q": "3/6 + 2/6 = ?",
+       "options": [
+        "5/12",
+        "5/6",
+        "6/6",
+        "1/6"
+       ],
+       "answer": 1,
+       "why": "Add the tops: 3 + 2 = 5, keep the bottom 6. So 3/6 + 2/6 = 5/6."
+      },
+      {
+       "q": "5/9 − 3/9 = ?",
+       "options": [
+        "8/9",
+        "2/18",
+        "2/9",
+        "3/9"
+       ],
+       "answer": 2,
+       "why": "Subtract the tops: 5 - 3 = 2, keep the bottom 9. So 5/9 - 3/9 = 2/9."
+      },
+      {
+       "q": "4/8 + 2/8 = ?",
+       "options": [
+        "6/8",
+        "6/16",
+        "2/8",
+        "4/8"
+       ],
+       "answer": 0,
+       "why": "Add the numerators: 4 + 2 = 6; the denominator 8 stays. So 4/8 + 2/8 = 6/8."
+      },
+      {
+       "q": "When denominators are the same, we add:",
+       "options": [
+        "Both numbers",
+        "Only the denominators",
+        "Nothing",
+        "Only the numerators"
+       ],
+       "answer": 3,
+       "why": "The rule: with the same denominator, only the top numbers (numerators) are added or subtracted."
+      },
+      {
+       "q": "4/6 − 1/6 = ?",
+       "options": [
+        "5/6",
+        "3/6",
+        "3/0",
+        "4/6"
+       ],
+       "answer": 1,
+       "why": "Subtract the tops: 4 - 1 = 3, keep the bottom 6. So 4/6 - 1/6 = 3/6."
+      },
+      {
+       "q": "5/7 − 2/7 = ?",
+       "options": [
+        "7/7",
+        "3/14",
+        "2/7",
+        "3/7"
+       ],
+       "answer": 3,
+       "why": "Subtract the numerators: 5 - 2 = 3; the denominator stays 7. So 5/7 - 2/7 = 3/7."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Algebra",
+   "lessons": [
+    {
+     "title": "Patterns of Two Things",
+     "notes_html": "<h4>What is a pattern?</h4>\n<p>A <b>pattern</b> is a special arrangement of things in a <b>repeated order</b>. In this book a <b>pair</b> of two things repeats again and again: A, B, A, B, A, B ...</p>\n<p>To find what comes next, look at the <b>end of the row</b>: the next thing is the other member of the pair.</p>\n<h4>Worked example</h4>\n<p>The pair (apple, banana) repeats three times. What comes next?</p>\n<p>Step 1: The pair is complete at the end: apple, banana.</p>\n<p>Step 2: A new pair begins with the first member.</p>\n<p>Answer: apple</p>\n<h4>Key points</h4>\n<ul><li>Find the pair that repeats.</li><li>The next thing completes or restarts the pair.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The pair (football, tennis ball) repeats and the row ends on tennis ball. What is next?",
+       "options": [
+        "Tennis ball",
+        "Bat",
+        "Football",
+        "Chair"
+       ],
+       "answer": 2,
+       "why": "The pair is A football, B tennis ball. After B a new pair starts with A: next is football."
+      },
+      {
+       "q": "The pair (chair, table) repeats and the row ends on chair. What is next?",
+       "options": [
+        "Table",
+        "Chair",
+        "Ball",
+        "Apple"
+       ],
+       "answer": 0,
+       "why": "The row ends on the first member (chair), so the pair is completed by the second member: table."
+      },
+      {
+       "q": "The pair (eraser, pencil) repeats and the row ends on eraser. What is next?",
+       "options": [
+        "Eraser",
+        "Ruler",
+        "Book",
+        "Pencil"
+       ],
+       "answer": 3,
+       "why": "After the first member eraser comes the second member of the pair: pencil."
+      },
+      {
+       "q": "In the pattern A, B, A, B, A, B, the next thing is:",
+       "options": [
+        "B",
+        "A",
+        "C",
+        "A and B"
+       ],
+       "answer": 1,
+       "why": "The pair A, B keeps alternating. The row ends on B, so a new pair starts with A."
+      },
+      {
+       "q": "The pair (mango, pomegranate) repeats; the row ends on mango. What is next?",
+       "options": [
+        "Mango",
+        "Apple",
+        "Pomegranate",
+        "Banana"
+       ],
+       "answer": 2,
+       "why": "The row ends on the first member mango, so the next thing completes the pair: pomegranate."
+      },
+      {
+       "q": "The pair (pencil, eraser) repeats; the row ends on pencil. What is next?",
+       "options": [
+        "Eraser",
+        "Pencil",
+        "Sharpener",
+        "Mug"
+       ],
+       "answer": 0,
+       "why": "After the first member pencil, the pair is completed by its second member: eraser."
+      },
+      {
+       "q": "The pair (mug, glass) repeats; the row ends on glass. What is next?",
+       "options": [
+        "Glass",
+        "Plate",
+        "Mug",
+        "Cup"
+       ],
+       "answer": 2,
+       "why": "The row ends on the second member glass, so a new pair starts with the first member: mug."
+      },
+      {
+       "q": "What is a pattern?",
+       "options": [
+        "A single thing",
+        "A random pile",
+        "A broken row",
+        "Things in a repeated order"
+       ],
+       "answer": 3,
+       "why": "A pattern is a special arrangement where things repeat in the same order again and again."
+      },
+      {
+       "q": "The pair (triangle, cube) repeats; the row ends on triangle. What is next?",
+       "options": [
+        "Triangle",
+        "Cube",
+        "Circle",
+        "Square"
+       ],
+       "answer": 1,
+       "why": "The row ends on the first member triangle, so the second member comes next: cube."
+      },
+      {
+       "q": "The pair (football, bat) repeats; the row ends on football. What is next?",
+       "options": [
+        "Bat",
+        "Football",
+        "Ball",
+        "Goal"
+       ],
+       "answer": 0,
+       "why": "After the first member football, the pair is completed by the second member: bat."
+      }
+     ]
+    },
+    {
+     "title": "Patterns of Colours, Sizes and Letters",
+     "notes_html": "<h4>Pairs can differ by colour, size or letter</h4>\n<p>The repeating pair may be two <b>colours</b> (yellow ball, green ball), two <b>sizes</b> (big spoon, small spoon) or two <b>letters</b> (P Q, L M, D F). The rule is the same: the pair repeats, and the next thing is the other member of the pair.</p>\n<h4>Worked example</h4>\n<p>Letter pattern: P Q P Q P Q P Q. What comes next?</p>\n<p>Step 1: The pair is (P, Q) and the row ends on Q.</p>\n<p>Step 2: A new pair starts with P.</p>\n<p>Answer: P</p>\n<h4>Key points</h4>\n<ul><li>Colour, size and letter patterns follow the same pair rule.</li><li>Always check the end of the row first.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The pair (yellow ball, green ball) repeats. Following the book, what comes next after a yellow ball?",
+       "options": [
+        "Yellow ball",
+        "Red ball",
+        "Blue ball",
+        "Green ball"
+       ],
+       "answer": 3,
+       "why": "The pair alternates: after the first member (yellow ball) comes the second member (green ball)."
+      },
+      {
+       "q": "Letter pattern: L M L M L M L M L — what comes next?",
+       "options": [
+        "L",
+        "M",
+        "N",
+        "P"
+       ],
+       "answer": 1,
+       "why": "The pair is (L, M) and the row ends on L, so the pair is completed by M."
+      },
+      {
+       "q": "The pair (big spoon, small spoon) repeats. After a big spoon comes:",
+       "options": [
+        "Small spoon",
+        "Big spoon",
+        "Fork",
+        "Plate"
+       ],
+       "answer": 0,
+       "why": "Size pairs alternate too: after the first member (big spoon) comes the second (small spoon)."
+      },
+      {
+       "q": "Letter pattern: D F D F D F D — what comes next?",
+       "options": [
+        "D",
+        "E",
+        "F",
+        "G"
+       ],
+       "answer": 2,
+       "why": "The pair is (D, F) and the row ends on D, so the next letter completes the pair: F."
+      },
+      {
+       "q": "The pair (red rose, yellow rose) repeats. After a red rose comes:",
+       "options": [
+        "Red rose",
+        "White rose",
+        "Leaf",
+        "Yellow rose"
+       ],
+       "answer": 3,
+       "why": "Colour pairs follow the same rule: after the first member comes the second, a yellow rose."
+      },
+      {
+       "q": "The pair (big bat, small bat) repeats. After a big bat comes:",
+       "options": [
+        "Big bat",
+        "Small bat",
+        "Ball",
+        "Glove"
+       ],
+       "answer": 1,
+       "why": "The row's pair is (big bat, small bat); after the first member comes the second: small bat."
+      },
+      {
+       "q": "The pair (tall stack, short stack) repeats. After a tall stack comes:",
+       "options": [
+        "Short stack",
+        "Tall stack",
+        "Medium stack",
+        "No stack"
+       ],
+       "answer": 0,
+       "why": "After the first member of the pair (tall stack) comes its partner, the short stack."
+      },
+      {
+       "q": "Letter pattern: P Q P Q P Q P Q — what comes next?",
+       "options": [
+        "Q",
+        "R",
+        "P",
+        "S"
+       ],
+       "answer": 2,
+       "why": "The row ends on Q, the second member, so a new pair begins with the first member P."
+      },
+      {
+       "q": "In colour/size/letter patterns, the rule is:",
+       "options": [
+        "Always a new thing",
+        "The pair repeats; next is the other member",
+        "Things get bigger",
+        "Letters only"
+       ],
+       "answer": 1,
+       "why": "Whatever the pair is made of, it repeats in order, and the next item is the other member of the pair."
+      },
+      {
+       "q": "The pair (red ball, blue ball) repeats. Following the book, after the pair's turn the next is:",
+       "options": [
+        "Blue ball",
+        "Green ball",
+        "Yellow ball",
+        "Red ball"
+       ],
+       "answer": 3,
+       "why": "In the book's exercise the (red ball, blue ball) row is answered with red ball as the next one."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Measurement",
+   "lessons": [
+    {
+     "title": "Longer, Taller and Shorter",
+     "notes_html": "<h4>Comparing lengths and heights</h4>\n<p>Put two things <b>side by side</b> and see which is longer or taller. For three things we use: <b>Long, Longer, Longest</b> and <b>Tall, Taller, Tallest</b> (and Short, Shorter, Shortest).</p>\n<p>In the book: Sara is <b>taller</b> than Ali, Ali is <b>shorter</b> than Sara. The red pencil is <b>longer</b> than the blue pencil.</p>\n<h4>Worked example</h4>\n<p>Three rulers are 6, 8 and 10 long. Name them in order.</p>\n<p>Step 1: Smallest first: 6 is Long.</p>\n<p>Step 2: Middle 8 is Longer, biggest 10 is Longest.</p>\n<p>Answer: Long, Longer, Longest</p>\n<h4>Key points</h4>\n<ul><li>Compare by placing things side by side.</li><li>The middle one of three is '-er', the biggest is '-est'.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In the book, who is taller, Sara or Ali?",
+       "options": [
+        "Sara",
+        "Ali",
+        "Both same",
+        "Neither"
+       ],
+       "answer": 0,
+       "why": "Comparing the two children side by side, Sara is taller and Ali is shorter, as the book states."
+      },
+      {
+       "q": "The red pencil is ___ than the blue pencil.",
+       "options": [
+        "Shorter",
+        "Equal",
+        "Longer",
+        "Heavier"
+       ],
+       "answer": 2,
+       "why": "In the book's comparison the red pencil is longer and the blue pencil is the shorter one."
+      },
+      {
+       "q": "For three things from smallest to biggest, the words are:",
+       "options": [
+        "Long, Longer, Longest",
+        "Longest, Longer, Long",
+        "Long, Longest, Longer",
+        "Tall, Long, Longest"
+       ],
+       "answer": 0,
+       "why": "The order grows step by step: Long (smallest), Longer (middle), Longest (biggest of the three)."
+      },
+      {
+       "q": "The middle-sized of three buildings is called:",
+       "options": [
+        "Tall",
+        "Tallest",
+        "Taller",
+        "Short"
+       ],
+       "answer": 2,
+       "why": "Of three, the smallest is Tall, the middle one is Taller, and the biggest is Tallest."
+      },
+      {
+       "q": "To compare the height of two children, we:",
+       "options": [
+        "Guess",
+        "Stand them side by side",
+        "Weigh them",
+        "Count them"
+       ],
+       "answer": 1,
+       "why": "Placing the two things side by side shows clearly which one reaches higher and which is shorter."
+      },
+      {
+       "q": "Ali is ___ than Sara.",
+       "options": [
+        "Taller",
+        "Longer",
+        "Heavier",
+        "Shorter"
+       ],
+       "answer": 3,
+       "why": "Since Sara is the taller one, Ali standing next to her is the shorter one of the pair."
+      },
+      {
+       "q": "The biggest of three flutes is the:",
+       "options": [
+        "Long",
+        "Longest",
+        "Longer",
+        "Shortest"
+       ],
+       "answer": 1,
+       "why": "For three flutes: shortest = Long, middle = Longer, and the biggest one = Longest."
+      },
+      {
+       "q": "Which word is for height, not length?",
+       "options": [
+        "Longer",
+        "Longest",
+        "Long",
+        "Tallest"
+       ],
+       "answer": 3,
+       "why": "Height uses Tall, Taller, Tallest. Long, Longer, Longest are used for the length of things."
+      },
+      {
+       "q": "Between a big camel and a small camel, we tick the:",
+       "options": [
+        "Big camel as taller",
+        "Small camel as taller",
+        "Both as taller",
+        "None"
+       ],
+       "answer": 0,
+       "why": "The bigger camel is the taller one, so it gets the tick; the small camel is the shorter one."
+      },
+      {
+       "q": "Short, Shorter, ___ — the last word is:",
+       "options": [
+        "Shortly",
+        "Shorterest",
+        "Shortest",
+        "Tallest"
+       ],
+       "answer": 2,
+       "why": "The three steps for shortness are Short, Shorter, Shortest — the smallest of all is Shortest."
+      }
+     ]
+    },
+    {
+     "title": "Measuring with Small Things",
+     "notes_html": "<h4>Non-standard units</h4>\n<p>We can measure a big thing by counting a <b>small thing</b> along it — paper clips, crayons, marbles or glasses. The small thing is our <b>unit</b>.</p>\n<ul><li>Book = 5 paper clips long; pencil = 4 clips — the book is longer.</li><li>Desk = 5 crayons; blackboard = 7 crayons — the desk is shorter.</li><li>Bottle = 4 glasses; jug = 5 glasses — the jug holds more.</li></ul>\n<h4>Worked example</h4>\n<p>A marker weighs 2 marbles and a ball weighs 4 marbles. Which is lighter?</p>\n<p>Step 1: Compare the counts: 2 &lt; 4.</p>\n<p>Step 2: Fewer marbles means lighter.</p>\n<p>Answer: The marker is lighter</p>\n<h4>Key points</h4>\n<ul><li>Count the small units along the big thing.</li><li>More units = longer / heavier / more capacity.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The book is 5 paper clips long and the pencil is 4 clips. Which is longer?",
+       "options": [
+        "The pencil",
+        "The book",
+        "Both equal",
+        "Cannot tell"
+       ],
+       "answer": 1,
+       "why": "More units means longer: 5 clips is more than 4 clips, so the book is longer than the pencil."
+      },
+      {
+       "q": "The desk is 5 crayons and the blackboard is 7 crayons. Which is shorter?",
+       "options": [
+        "The blackboard",
+        "Both equal",
+        "Neither",
+        "The desk"
+       ],
+       "answer": 3,
+       "why": "Fewer units means shorter: 5 crayons is less than 7 crayons, so the desk is shorter."
+      },
+      {
+       "q": "A bottle holds 4 glasses and a jug holds 5 glasses. Which has more capacity?",
+       "options": [
+        "The bottle",
+        "Both equal",
+        "The jug",
+        "The glass"
+       ],
+       "answer": 2,
+       "why": "Capacity is how much a thing holds. 5 glasses is more than 4 glasses, so the jug has more capacity."
+      },
+      {
+       "q": "In non-standard measuring, the small thing we count is called the:",
+       "options": [
+        "Unit",
+        "Answer",
+        "Pattern",
+        "Fraction"
+       ],
+       "answer": 0,
+       "why": "The small thing used for measuring — a clip, crayon or marble — is called the unit of measuring."
+      },
+      {
+       "q": "The marker is 2 marbles and the ball is 4 marbles. The ball is:",
+       "options": [
+        "Lighter",
+        "Equal",
+        "Heavier",
+        "Shorter"
+       ],
+       "answer": 2,
+       "why": "More marbles are needed to balance the ball (4 > 2), so the ball is the heavier one."
+      },
+      {
+       "q": "If thing A measures 6 clips and thing B measures 3 clips, then:",
+       "options": [
+        "B is longer",
+        "Both equal",
+        "A is shorter",
+        "A is longer"
+       ],
+       "answer": 3,
+       "why": "6 units is more than 3 units, so A, measured with more clips, is the longer thing."
+      },
+      {
+       "q": "Capacity means:",
+       "options": [
+        "How tall a thing is",
+        "How much a thing can hold",
+        "How heavy a thing is",
+        "How long a thing is"
+       ],
+       "answer": 1,
+       "why": "Capacity is the amount of water or material a container can hold, like glasses of water in a jug."
+      },
+      {
+       "q": "The jug holds more than the bottle because:",
+       "options": [
+        "It takes 5 glasses, the bottle takes 4",
+        "It is taller only",
+        "It is heavier",
+        "It is blue"
+       ],
+       "answer": 0,
+       "why": "We compare the counts: the jug fills with 5 glasses of water, the bottle with only 4 glasses."
+      },
+      {
+       "q": "Which could be used as a measuring unit?",
+       "options": [
+        "Clouds",
+        "Dreams",
+        "Sounds",
+        "Paper clips"
+       ],
+       "answer": 3,
+       "why": "A unit must be a real small thing we can lay or count again and again, like paper clips or crayons."
+      },
+      {
+       "q": "A ribbon is 8 clips long, a string is 8 clips long. They are:",
+       "options": [
+        "Equal in length",
+        "Different",
+        "One is longer",
+        "Cannot compare"
+       ],
+       "answer": 0,
+       "why": "Both measure the same number of units (8 clips), so the ribbon and string are equal in length."
+      }
+     ]
+    },
+    {
+     "title": "Heavy and Light",
+     "notes_html": "<h4>Comparing weights</h4>\n<p>The thing that feels harder to lift, or pulls the balance down more, is <b>heavier</b>; the other is <b>lighter</b>. For three things: <b>Heavy, Heavier, Heaviest</b> and <b>Light, Lighter, Lightest</b>.</p>\n<ul><li>A book is heavier than a rose.</li><li>A cricket bat is heavier than a tennis ball.</li><li>Mobile phone = Heavy, laptop = Heavier, desktop computer = Heaviest.</li><li>Tennis ball = Light, balloon = Lighter, kite = Lightest.</li></ul>\n<h4>Worked example</h4>\n<p>Which is heavier: a jug of water or a mug?</p>\n<p>Step 1: The jug holds much more water than the mug.</p>\n<p>Step 2: More water means more weight.</p>\n<p>Answer: The jug of water is heavier</p>\n<h4>Key points</h4>\n<ul><li>Bigger things are usually heavier.</li><li>A watermelon is heavier than an apple.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which is heavier, a book or a rose?",
+       "options": [
+        "The rose",
+        "Both equal",
+        "The book",
+        "Neither"
+       ],
+       "answer": 2,
+       "why": "A book is much heavier than a light flower. In the book's exercise the book gets the tick for heavier."
+      },
+      {
+       "q": "Which is lighter, a cricket bat or a tennis ball?",
+       "options": [
+        "The bat",
+        "The tennis ball",
+        "Both equal",
+        "The bat is lightest"
+       ],
+       "answer": 1,
+       "why": "A tennis ball is small and light; a cricket bat is big and heavy. So the tennis ball is lighter."
+      },
+      {
+       "q": "Mobile phone, laptop, desktop computer — the Heaviest is:",
+       "options": [
+        "Mobile phone",
+        "Laptop",
+        "All equal",
+        "Desktop computer"
+       ],
+       "answer": 3,
+       "why": "In order: phone = Heavy, laptop = Heavier, desktop computer = Heaviest, the biggest of the three."
+      },
+      {
+       "q": "Tennis ball, balloon, kite — the Lightest is:",
+       "options": [
+        "Kite",
+        "Tennis ball",
+        "Balloon",
+        "None"
+       ],
+       "answer": 0,
+       "why": "In the book's matching: tennis ball = Light, balloon = Lighter, and the kite is the Lightest."
+      },
+      {
+       "q": "A watermelon compared with an apple is:",
+       "options": [
+        "Lighter",
+        "Equal",
+        "Heavier",
+        "Smaller"
+       ],
+       "answer": 2,
+       "why": "A watermelon is much bigger than an apple, and bigger things are usually heavier, as the book notes."
+      },
+      {
+       "q": "Horse, camel, elephant — in the book's note the Heaviest is:",
+       "options": [
+        "Horse",
+        "Elephant",
+        "Camel",
+        "All same"
+       ],
+       "answer": 1,
+       "why": "The order given is horse = Heavy, camel = Heavier, elephant = Heaviest, the biggest animal."
+      },
+      {
+       "q": "Between a rabbit and a cat, the book ticks as heavier the:",
+       "options": [
+        "Cat",
+        "Both",
+        "Neither",
+        "Rabbit"
+       ],
+       "answer": 3,
+       "why": "In Exercise 2 the rabbit is ticked heavier and the cat is crossed as the lighter one."
+      },
+      {
+       "q": "The middle weight of three things is called:",
+       "options": [
+        "Heavier",
+        "Heavy",
+        "Heaviest",
+        "Light"
+       ],
+       "answer": 0,
+       "why": "For three things the steps are Heavy, Heavier (the middle one), Heaviest (the most heavy)."
+      },
+      {
+       "q": "An apple compared with a watermelon is:",
+       "options": [
+        "Heavier",
+        "Equal",
+        "Lighter",
+        "Heaviest"
+       ],
+       "answer": 2,
+       "why": "The apple is the smaller fruit, so it is lighter than the big heavy watermelon."
+      },
+      {
+       "q": "Which pair is correct?",
+       "options": [
+        "Jug of water lighter than mug",
+        "Book heavier than rose",
+        "Bat lighter than tennis ball",
+        "Cat heavier than rabbit"
+       ],
+       "answer": 1,
+       "why": "Only the book-and-rose pair is right: the book is heavier than the rose. All the others are backwards."
+      }
+     ]
+    },
+    {
+     "title": "Capacity: How Much It Holds",
+     "notes_html": "<h4>Capacity</h4>\n<p><b>Capacity</b> means how much water or material a thing can <b>hold</b>. A bigger container has more capacity.</p>\n<ul><li>A kettle holds more than a mug.</li><li>A bottle holds more than a glass.</li><li>A bucket holds more than a bowl.</li><li>Glass = Large, jug = Larger, bucket = Largest.</li></ul>\n<h4>Worked example</h4>\n<p>Three bottles are small, medium and big. Match them with Large, Larger, Largest.</p>\n<p>Step 1: The small bottle holds the least: Large.</p>\n<p>Step 2: The medium is Larger and the biggest is Largest.</p>\n<p>Answer: small—Large, medium—Larger, big—Largest</p>\n<h4>Key points</h4>\n<ul><li>Capacity is about holding, not height.</li><li>A bucket holds more water than a glass.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which holds more, a kettle or a mug?",
+       "options": [
+        "The kettle",
+        "The mug",
+        "Both equal",
+        "Neither"
+       ],
+       "answer": 0,
+       "why": "A kettle is a much bigger container than a mug, so it holds more water and gets the tick."
+      },
+      {
+       "q": "Which holds less, a bottle or a glass?",
+       "options": [
+        "The bottle",
+        "The glass",
+        "Both equal",
+        "The bucket"
+       ],
+       "answer": 1,
+       "why": "A glass is smaller than a bottle, so it holds less water. The bottle has the more capacity."
+      },
+      {
+       "q": "Glass, jug, bucket — the Largest capacity is the:",
+       "options": [
+        "Glass",
+        "Jug",
+        "Bucket",
+        "All equal"
+       ],
+       "answer": 2,
+       "why": "In order of holding: glass = Large, jug = Larger, bucket = Largest — the bucket holds the most."
+      },
+      {
+       "q": "A bucket compared with a bowl has:",
+       "options": [
+        "Less capacity",
+        "Same capacity",
+        "No capacity",
+        "More capacity"
+       ],
+       "answer": 3,
+       "why": "A bucket is a big container and a bowl is small, so the bucket can hold much more."
+      },
+      {
+       "q": "Capacity tells us:",
+       "options": [
+        "How long a thing is",
+        "How much a thing can hold",
+        "How heavy a thing is",
+        "Its colour"
+       ],
+       "answer": 1,
+       "why": "Capacity is the amount a container can hold inside it, like glasses of water filling a jug."
+      },
+      {
+       "q": "The middle capacity of three bottles is called:",
+       "options": [
+        "Large",
+        "Largest",
+        "Small",
+        "Larger"
+       ],
+       "answer": 3,
+       "why": "The three steps are Large (smallest), Larger (middle), Largest (biggest capacity)."
+      },
+      {
+       "q": "Which pair is correct?",
+       "options": [
+        "Mug holds more than kettle",
+        "Bowl holds more than bucket",
+        "Bottle holds more than glass",
+        "Glass holds more than bucket"
+       ],
+       "answer": 2,
+       "why": "A bottle is bigger than a glass and holds more. The other pairs are all the wrong way round."
+      },
+      {
+       "q": "To compare capacity of a bottle and a jug, we can:",
+       "options": [
+        "Count glasses of water each holds",
+        "Weigh them empty",
+        "Measure height only",
+        "Guess"
+       ],
+       "answer": 0,
+       "why": "Filling both with glasses of water and counting the glasses shows which one holds more."
+      },
+      {
+       "q": "The bottle holds 4 glasses and the jug holds 5 glasses, so:",
+       "options": [
+        "Bottle has more capacity",
+        "Both are equal",
+        "Glass has most",
+        "Jug has more capacity"
+       ],
+       "answer": 3,
+       "why": "5 glasses is more than 4 glasses, so the jug's capacity is more than the bottle's."
+      },
+      {
+       "q": "Which thing has the most capacity?",
+       "options": [
+        "A bucket",
+        "A glass",
+        "A mug",
+        "A spoon"
+       ],
+       "answer": 0,
+       "why": "Of these containers the bucket is by far the biggest, so it can hold the most water."
+      }
+     ]
+    },
+    {
+     "title": "Seasons",
+     "notes_html": "<h4>The four seasons</h4>\n<ul><li><b>Spring</b> — the weather gets warmer; new leaves and flowers come out. Spring is <b>Warm</b>.</li><li><b>Summer</b> — the <b>warmest</b> and sunniest season.</li><li><b>Autumn</b> — it gets cooler and leaves fall. Autumn is <b>Cool</b>.</li><li><b>Winter</b> — the <b>coldest</b> season. Winter is the <b>Coolest</b>.</li></ul>\n<h4>Worked example</h4>\n<p>Match Summer with its warmth.</p>\n<p>Step 1: Summer has the strongest sun and the hottest days.</p>\n<p>Step 2: So Summer is the warmest of all seasons.</p>\n<p>Answer: Summer — Warmest</p>\n<h4>Key points</h4>\n<ul><li>Spring—Warm, Summer—Warmest, Autumn—Cool, Winter—Coolest.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which season is the warmest?",
+       "options": [
+        "Winter",
+        "Spring",
+        "Summer",
+        "Autumn"
+       ],
+       "answer": 2,
+       "why": "Summer has the strongest sun and hottest days of the year, so it is the warmest season."
+      },
+      {
+       "q": "Which season is the coolest (coldest)?",
+       "options": [
+        "Summer",
+        "Winter",
+        "Spring",
+        "Autumn"
+       ],
+       "answer": 1,
+       "why": "Winter is the coldest time of the year, matched in the book with the word Coolest."
+      },
+      {
+       "q": "In which season do new leaves and flowers come out?",
+       "options": [
+        "Autumn",
+        "Winter",
+        "Summer",
+        "Spring"
+       ],
+       "answer": 3,
+       "why": "In Spring the weather warms up and plants grow new leaves and flowers everywhere."
+      },
+      {
+       "q": "In which season do leaves fall from the trees?",
+       "options": [
+        "Spring",
+        "Autumn",
+        "Summer",
+        "Winter"
+       ],
+       "answer": 1,
+       "why": "In Autumn the weather cools and the trees drop their leaves, as the book describes."
+      },
+      {
+       "q": "Spring is matched with which warmth word?",
+       "options": [
+        "Warm",
+        "Coolest",
+        "Warmest",
+        "Cool"
+       ],
+       "answer": 0,
+       "why": "The book's matching is: Spring—Warm, Summer—Warmest, Autumn—Cool, Winter—Coolest."
+      },
+      {
+       "q": "Autumn is matched with which warmth word?",
+       "options": [
+        "Warm",
+        "Warmest",
+        "Cool",
+        "Coolest"
+       ],
+       "answer": 2,
+       "why": "Autumn is cooler than spring but not as cold as winter, so it is matched with Cool."
+      },
+      {
+       "q": "A picture shows children playing under a strong hot sun. The season is:",
+       "options": [
+        "Winter",
+        "Summer",
+        "Autumn",
+        "Spring"
+       ],
+       "answer": 1,
+       "why": "A sunny, very hot day with strong sunshine shows Summer, the warmest season."
+      },
+      {
+       "q": "How many seasons are there in the book?",
+       "options": [
+        "2",
+        "3",
+        "4",
+        "12"
+       ],
+       "answer": 2,
+       "why": "The book teaches four seasons: Spring, Summer, Autumn and Winter."
+      },
+      {
+       "q": "Winter is matched with which warmth word?",
+       "options": [
+        "Warmest",
+        "Warm",
+        "Cool",
+        "Coolest"
+       ],
+       "answer": 3,
+       "why": "Winter is the coldest season of all, so its matching word is Coolest."
+      },
+      {
+       "q": "Which season comes with falling leaves and cooler air?",
+       "options": [
+        "Autumn",
+        "Spring",
+        "Summer",
+        "Winter"
+       ],
+       "answer": 0,
+       "why": "Falling leaves and cooling weather are the signs of Autumn, between Summer and Winter."
+      }
+     ]
+    },
+    {
+     "title": "Telling the Time",
+     "notes_html": "<h4>The clock's two hands</h4>\n<p>The <b>short hand</b> is the <b>hour hand</b>. The <b>long hand</b> is the <b>minute hand</b>. When the long hand is at <b>12</b>, it is a full hour — just read the number at the short hand.</p>\n<p>Hour hand at 9 and minute hand at 12 means <b>9 o'clock</b>.</p>\n<h4>Digital time</h4>\n<p>In a digital clock the first part is the hour: 05:00 = 5 o'clock, 10:00 = 10 o'clock.</p>\n<h4>Worked example</h4>\n<p>Write 9 o'clock in digital form.</p>\n<p>Step 1: The hour is 9, written as 09.</p>\n<p>Step 2: Full hour minutes are 00.</p>\n<p>Answer: 09:00</p>\n<h4>Key points</h4>\n<ul><li>Short hand = hours, long hand = minutes.</li><li>Long hand at 12 = o'clock.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The short hand of a clock shows the:",
+       "options": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Days"
+       ],
+       "answer": 0,
+       "why": "The short hand is the hour hand; the long hand is the minute hand. Short hand = hours."
+      },
+      {
+       "q": "The minute hand is at 12 and the hour hand is at 5. The time is:",
+       "options": [
+        "12 o'clock",
+        "6 o'clock",
+        "3 o'clock",
+        "5 o'clock"
+       ],
+       "answer": 3,
+       "why": "Minute hand at 12 means a full hour. Read the hour hand: it is at 5, so it is 5 o'clock."
+      },
+      {
+       "q": "What does 07:00 mean?",
+       "options": [
+        "12 o'clock",
+        "10 o'clock",
+        "7 o'clock",
+        "2 o'clock"
+       ],
+       "answer": 2,
+       "why": "In digital time the first part is the hour: 07 means 7, and :00 means full hour — 7 o'clock."
+      },
+      {
+       "q": "Write 11 o'clock in digital form.",
+       "options": [
+        "11:11",
+        "11:00",
+        "01:10",
+        "12:00"
+       ],
+       "answer": 1,
+       "why": "Hour 11 is written 11 and full-hour minutes are 00, so 11 o'clock is 11:00."
+      },
+      {
+       "q": "The long hand of a clock shows the:",
+       "options": [
+        "Hours",
+        "Date",
+        "Month",
+        "Minutes"
+       ],
+       "answer": 3,
+       "why": "The long hand is the minute hand. When it points at 12, the minutes are exactly zero."
+      },
+      {
+       "q": "An analog clock shows hour hand at 2, minute hand at 12. The time is:",
+       "options": [
+        "12 o'clock",
+        "3 o'clock",
+        "2 o'clock",
+        "10 o'clock"
+       ],
+       "answer": 2,
+       "why": "Read the short (hour) hand: it points at 2 and the minute hand is at 12, so it is 2 o'clock."
+      },
+      {
+       "q": "What does 10:00 mean?",
+       "options": [
+        "10 o'clock",
+        "1 o'clock",
+        "12 o'clock",
+        "6 o'clock"
+       ],
+       "answer": 0,
+       "why": "The first part of the digital time is 10, so 10:00 means 10 o'clock."
+      },
+      {
+       "q": "To show 4 o'clock on an analog clock, the hour hand goes at:",
+       "options": [
+        "12",
+        "4",
+        "6",
+        "8"
+       ],
+       "answer": 1,
+       "why": "Put the short hour hand on the number 4 and the long minute hand on 12 to show 4 o'clock."
+      },
+      {
+       "q": "Write 8 o'clock in digital form.",
+       "options": [
+        "08:00",
+        "80:00",
+        "8:8",
+        "18:00"
+       ],
+       "answer": 0,
+       "why": "Single-digit hours get a 0 in front in digital time: 8 o'clock is written 08:00."
+      },
+      {
+       "q": "If the minute hand is at 12, it is:",
+       "options": [
+        "Half past",
+        "Midnight always",
+        "A full hour (o'clock)",
+        "No time"
+       ],
+       "answer": 2,
+       "why": "Minute hand at 12 means zero minutes have passed in the new hour — a full hour, read as o'clock."
+      }
+     ]
+    },
+    {
+     "title": "Days and Months",
+     "notes_html": "<h4>Days of the week</h4>\n<p>There are <b>7 days</b> in a week: Monday (1st), Tuesday (2nd), Wednesday (3rd), Thursday (4th), Friday (5th), Saturday (6th), Sunday (7th). The day <b>before</b> is one step back; the day <b>after</b> is one step forward.</p>\n<h4>Months of the year</h4>\n<p>There are <b>12 months</b>: January, February, March, April, May, June, July, August, September, October, November, December.</p>\n<h4>Worked example</h4>\n<p>Which month comes after August?</p>\n<p>Step 1: Say the months in order up to August: ..., July (7th), August (8th).</p>\n<p>Step 2: The 9th month follows.</p>\n<p>Answer: September</p>\n<h4>Key points</h4>\n<ul><li>7 days in a week, 12 months in a year.</li><li>October is the 10th month.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many days are there in a week?",
+       "options": [
+        "5",
+        "7",
+        "10",
+        "12"
+       ],
+       "answer": 1,
+       "why": "A week has seven days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday."
+      },
+      {
+       "q": "Which day comes before Friday?",
+       "options": [
+        "Saturday",
+        "Wednesday",
+        "Sunday",
+        "Thursday"
+       ],
+       "answer": 3,
+       "why": "One step back from Friday in the week order is Thursday. Before Friday is Thursday."
+      },
+      {
+       "q": "Which day comes after Saturday?",
+       "options": [
+        "Sunday",
+        "Friday",
+        "Monday",
+        "Tuesday"
+       ],
+       "answer": 0,
+       "why": "One step forward from Saturday is the last day of the week: Sunday."
+      },
+      {
+       "q": "How many months are there in a year?",
+       "options": [
+        "7",
+        "10",
+        "12",
+        "30"
+       ],
+       "answer": 2,
+       "why": "A year has twelve months, from January (1st) to December (12th)."
+      },
+      {
+       "q": "Which month comes before April?",
+       "options": [
+        "May",
+        "February",
+        "June",
+        "March"
+       ],
+       "answer": 3,
+       "why": "The months go January, February, March, April. One step back from April is March."
+      },
+      {
+       "q": "October is which month of the year?",
+       "options": [
+        "8th",
+        "10th",
+        "9th",
+        "12th"
+       ],
+       "answer": 1,
+       "why": "Counting the months in order, October comes at position 10, so it is the 10th month."
+      },
+      {
+       "q": "Which month comes after January?",
+       "options": [
+        "February",
+        "December",
+        "March",
+        "June"
+       ],
+       "answer": 0,
+       "why": "January is the 1st month, so the month right after it is the 2nd month, February."
+      },
+      {
+       "q": "Fill the missing day: Monday, ___, Wednesday",
+       "options": [
+        "Sunday",
+        "Tuesday",
+        "Friday",
+        "Thursday"
+       ],
+       "answer": 1,
+       "why": "The week order is Monday, Tuesday, Wednesday. The day between them is Tuesday."
+      },
+      {
+       "q": "Fill the missing days: ___, Friday, ___",
+       "options": [
+        "Wednesday, Sunday",
+        "Saturday, Thursday",
+        "Tuesday, Monday",
+        "Thursday, Saturday"
+       ],
+       "answer": 3,
+       "why": "Before Friday is Thursday and after Friday is Saturday, from the order of the week days."
+      },
+      {
+       "q": "July is which month of the year?",
+       "options": [
+        "6th",
+        "8th",
+        "7th",
+        "5th"
+       ],
+       "answer": 2,
+       "why": "Count the months: January 1, February 2, March 3, April 4, May 5, June 6, July 7. July is 7th."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Geometry",
+   "lessons": [
+    {
+     "title": "2-D Shapes: Sides and Corners",
+     "notes_html": "<h4>The four 2-D shapes</h4>\n<ul><li><b>Rectangle</b>: 4 sides, 4 corners — opposite sides equal (like a blackboard).</li><li><b>Square</b>: 4 sides, 4 corners — all sides equal (like a white board).</li><li><b>Circle</b>: 0 sides, 0 corners — perfectly round (like a CD).</li><li><b>Triangle</b>: 3 sides, 3 corners (like a road sign).</li></ul>\n<h4>Worked example</h4>\n<p>How many sides and corners does a triangle have?</p>\n<p>Step 1: Count the straight lines around it: 3 sides.</p>\n<p>Step 2: Count where the sides meet: 3 corners.</p>\n<p>Answer: 3 sides, 3 corners</p>\n<h4>Key points</h4>\n<ul><li>Sides are the boundary lines; corners are where two sides meet.</li><li>A circle has no sides and no corners.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many sides does a triangle have?",
+       "options": [
+        "3",
+        "4",
+        "0",
+        "5"
+       ],
+       "answer": 0,
+       "why": "Count the straight lines around a triangle: it has exactly 3 sides and 3 corners."
+      },
+      {
+       "q": "How many corners does a circle have?",
+       "options": [
+        "1",
+        "4",
+        "0",
+        "2"
+       ],
+       "answer": 2,
+       "why": "A circle is perfectly round with no straight sides meeting anywhere, so it has 0 corners."
+      },
+      {
+       "q": "A square has how many sides?",
+       "options": [
+        "3",
+        "5",
+        "0",
+        "4"
+       ],
+       "answer": 3,
+       "why": "A square has 4 sides, and all four of its sides are equal in length."
+      },
+      {
+       "q": "In a rectangle, the opposite sides are:",
+       "options": [
+        "Always different",
+        "Equal",
+        "Curved",
+        "Missing"
+       ],
+       "answer": 1,
+       "why": "A rectangle has 4 sides and 4 corners, and its opposite sides are equal to each other."
+      },
+      {
+       "q": "Which shape has 3 sides and 3 corners?",
+       "options": [
+        "Square",
+        "Circle",
+        "Rectangle",
+        "Triangle"
+       ],
+       "answer": 3,
+       "why": "Only the triangle has three of each: 3 sides and 3 corners, like a road sign."
+      },
+      {
+       "q": "A blackboard is shaped like a:",
+       "options": [
+        "Rectangle",
+        "Circle",
+        "Triangle",
+        "Square"
+       ],
+       "answer": 0,
+       "why": "The book gives the blackboard as the example of a rectangle: long, with 4 sides and 4 corners."
+      },
+      {
+       "q": "Which shape has all sides equal?",
+       "options": [
+        "Rectangle",
+        "Square",
+        "Triangle",
+        "Circle"
+       ],
+       "answer": 1,
+       "why": "In a square every side is the same length. A rectangle only has opposite sides equal."
+      },
+      {
+       "q": "How many sides does a circle have?",
+       "options": [
+        "1",
+        "2",
+        "0",
+        "Many small sides"
+       ],
+       "answer": 2,
+       "why": "A circle's boundary is one smooth round curve, not straight sides, so it has 0 sides."
+      },
+      {
+       "q": "Corners of a shape are:",
+       "options": [
+        "Where two sides meet",
+        "The middle of the shape",
+        "The colour points",
+        "The longest side"
+       ],
+       "answer": 0,
+       "why": "A corner is the point where two sides of a shape join together, like the corner of a book."
+      },
+      {
+       "q": "A CD is shaped like a:",
+       "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+       ],
+       "answer": 1,
+       "why": "A CD is perfectly round, which is the circle shape with 0 sides and 0 corners."
+      }
+     ]
+    },
+    {
+     "title": "Shapes Around Us",
+     "notes_html": "<h4>Shapes in real things</h4>\n<ul><li>A 100-rupee note — <b>Rectangle</b></li><li>A wall clock — <b>Circle</b></li><li>A road sign (children crossing) — <b>Triangle</b></li><li>A carrom board — <b>Square</b></li><li>A chocolate bar — <b>Rectangle</b></li><li>A CD — <b>Circle</b></li><li>A white board — <b>Square</b></li></ul>\n<h4>Colour rule in the book</h4>\n<p>Colour every rectangle <b>RED</b>, every square <b>BLUE</b>, every circle <b>GREEN</b> and every triangle <b>YELLOW</b>.</p>\n<h4>Worked example</h4>\n<p>What shape is a triangular tile?</p>\n<p>Step 1: The name itself says 'triangular' — count its sides: 3.</p>\n<p>Step 2: A 3-sided shape is a triangle.</p>\n<p>Answer: Triangle</p>\n<h4>Key points</h4>\n<ul><li>Look at the outline of a thing to name its shape.</li></ul>",
+     "mcqs": [
+      {
+       "q": "A wall clock is shaped like a:",
+       "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+       ],
+       "answer": 2,
+       "why": "A wall clock is round all the way around, so its shape is a circle."
+      },
+      {
+       "q": "A carrom board is shaped like a:",
+       "options": [
+        "Circle",
+        "Triangle",
+        "Rectangle",
+        "Square"
+       ],
+       "answer": 3,
+       "why": "A carrom board has 4 equal sides and 4 corners, which makes it a square."
+      },
+      {
+       "q": "A 100-rupee note is shaped like a:",
+       "options": [
+        "Circle",
+        "Rectangle",
+        "Square",
+        "Triangle"
+       ],
+       "answer": 1,
+       "why": "The note is long with opposite sides equal, the shape of a rectangle."
+      },
+      {
+       "q": "A road sign for children crossing is shaped like a:",
+       "options": [
+        "Square",
+        "Rectangle",
+        "Circle",
+        "Triangle"
+       ],
+       "answer": 3,
+       "why": "The sign has 3 sides and 3 corners, so it is a triangle, as the book shows."
+      },
+      {
+       "q": "In the book's colouring rule, every circle is coloured:",
+       "options": [
+        "Green",
+        "Red",
+        "Blue",
+        "Yellow"
+       ],
+       "answer": 0,
+       "why": "The rule is: rectangle RED, square BLUE, circle GREEN, triangle YELLOW. Circles are green."
+      },
+      {
+       "q": "A chocolate bar is shaped like a:",
+       "options": [
+        "Triangle",
+        "Circle",
+        "Rectangle",
+        "Square"
+       ],
+       "answer": 2,
+       "why": "A chocolate bar is long with 4 sides and opposite sides equal — a rectangle."
+      },
+      {
+       "q": "In the book's colouring rule, every triangle is coloured:",
+       "options": [
+        "Green",
+        "Yellow",
+        "Red",
+        "Blue"
+       ],
+       "answer": 1,
+       "why": "Following the rule rectangle—red, square—blue, circle—green, the triangle is coloured yellow."
+      },
+      {
+       "q": "A white board is shaped like a:",
+       "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+       ],
+       "answer": 0,
+       "why": "The book's example: the white board has all sides equal, so it is a square."
+      },
+      {
+       "q": "A triangular tile has how many sides?",
+       "options": [
+        "4",
+        "2",
+        "3",
+        "0"
+       ],
+       "answer": 2,
+       "why": "The word triangular means triangle-shaped, and a triangle always has 3 sides."
+      },
+      {
+       "q": "In the book's colouring rule, every rectangle is coloured:",
+       "options": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+       ],
+       "answer": 3,
+       "why": "The colour rule starts with rectangles: every rectangle is coloured RED."
+      }
+     ]
+    },
+    {
+     "title": "3-D Shapes",
+     "notes_html": "<h4>Solid shapes</h4>\n<ul><li><b>Cube</b>: an equal box from all sides (dice, puzzle cube) — 6 faces, 8 corners.</li><li><b>Cuboid</b>: a long box (matchbox, sharpener) — 6 faces, 8 corners.</li><li><b>Sphere</b>: perfectly round (football, basketball) — no faces, no corners.</li><li><b>Cylinder</b>: a battery cell or drink can — 2 circular faces, no corners.</li><li><b>Cone</b>: pointed like a party hat — 1 circular face, 1 corner.</li></ul>\n<h4>Worked example</h4>\n<p>What 3-D shape is a dice?</p>\n<p>Step 1: A dice is a box with all sides equal.</p>\n<p>Step 2: An equal box is a cube.</p>\n<p>Answer: Cube</p>\n<h4>Key points</h4>\n<ul><li>Faces are the flat sides of a solid.</li><li>A sphere can roll in every direction.</li></ul>",
+     "mcqs": [
+      {
+       "q": "A dice is which 3-D shape?",
+       "options": [
+        "Sphere",
+        "Cube",
+        "Cone",
+        "Cylinder"
+       ],
+       "answer": 1,
+       "why": "A dice is an equal box from every side with 6 faces, which is a cube."
+      },
+      {
+       "q": "A football is which 3-D shape?",
+       "options": [
+        "Cube",
+        "Cuboid",
+        "Cone",
+        "Sphere"
+       ],
+       "answer": 3,
+       "why": "A football is perfectly round in every direction, so it is a sphere with no faces or corners."
+      },
+      {
+       "q": "A party hat is which 3-D shape?",
+       "options": [
+        "Cylinder",
+        "Cube",
+        "Cone",
+        "Sphere"
+       ],
+       "answer": 2,
+       "why": "A party hat is pointed at the top with a round bottom — the shape of a cone."
+      },
+      {
+       "q": "A battery cell is which 3-D shape?",
+       "options": [
+        "Cylinder",
+        "Cone",
+        "Sphere",
+        "Cube"
+       ],
+       "answer": 0,
+       "why": "A battery cell is like a drink can: round sides with two circular faces — a cylinder."
+      },
+      {
+       "q": "A matchbox is which 3-D shape?",
+       "options": [
+        "Sphere",
+        "Cone",
+        "Cuboid",
+        "Cylinder"
+       ],
+       "answer": 2,
+       "why": "A matchbox is a long box with 6 faces and 8 corners but unequal sides — a cuboid."
+      },
+      {
+       "q": "How many faces does a cube have?",
+       "options": [
+        "4",
+        "8",
+        "0",
+        "6"
+       ],
+       "answer": 3,
+       "why": "Count the flat sides of a dice: top, bottom and four sides — a cube has 6 faces."
+      },
+      {
+       "q": "Which shape has no faces and no corners?",
+       "options": [
+        "Sphere",
+        "Cube",
+        "Cone",
+        "Cylinder"
+       ],
+       "answer": 0,
+       "why": "A sphere is smooth and round everywhere, so it has no flat faces and no corners at all."
+      },
+      {
+       "q": "A stacking-rings toy is shaped like a:",
+       "options": [
+        "Cube",
+        "Cone",
+        "Sphere",
+        "Cuboid"
+       ],
+       "answer": 1,
+       "why": "The stacking-rings toy narrows to a point at the top, so the book matches it with the cone."
+      },
+      {
+       "q": "A drink can is which 3-D shape?",
+       "options": [
+        "Cylinder",
+        "Cone",
+        "Cube",
+        "Sphere"
+       ],
+       "answer": 0,
+       "why": "A can has two circular faces (top and bottom) and a round side — it is a cylinder."
+      },
+      {
+       "q": "How many corners does a cone have?",
+       "options": [
+        "0",
+        "2",
+        "1",
+        "8"
+       ],
+       "answer": 2,
+       "why": "A cone has one pointed tip, which is its single corner, plus one circular face at the bottom."
+      }
+     ]
+    },
+    {
+     "title": "Position Words: Inside, Above, Near, Right",
+     "notes_html": "<h4>Where is it?</h4>\n<ul><li><b>Inside / outside</b>: a dog inside the kennel; coins inside the jar.</li><li><b>Above / below</b>: a parrot above the tree; below the clouds.</li><li><b>Over / under</b>: a dog over the tree stump; under the table.</li><li><b>Near / far</b>: a near thing looks big and in front; a far thing looks small and distant.</li><li><b>Right / left</b>: the side of your right hand is 'right'.</li></ul>\n<h4>Worked example</h4>\n<p>The bird is inside the cage. True or false, if the bird sits in the cage?</p>\n<p>Step 1: The bird is within the closed space of the cage.</p>\n<p>Step 2: Within means inside.</p>\n<p>Answer: True — the bird is inside the cage</p>\n<h4>Key points</h4>\n<ul><li>Above/over = higher side; below/under = lower side.</li><li>Near things look big; far things look small.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Coins kept in a jar are:",
+       "options": [
+        "Outside the jar",
+        "Above the jar",
+        "Far from the jar",
+        "Inside the jar"
+       ],
+       "answer": 3,
+       "why": "The coins are within the closed space of the jar, so they are inside the jar."
+      },
+      {
+       "q": "'Above' means:",
+       "options": [
+        "On the lower side",
+        "On the higher side",
+        "Inside",
+        "Far away"
+       ],
+       "answer": 1,
+       "why": "Above means on the higher side of a thing, like the parrot above the tree."
+      },
+      {
+       "q": "A near thing in a picture looks:",
+       "options": [
+        "Small and distant",
+        "Big and in front",
+        "Upside down",
+        "Hidden"
+       ],
+       "answer": 1,
+       "why": "Things that are near us appear big and in front; far things appear small and distant."
+      },
+      {
+       "q": "A dog sleeping under the table is:",
+       "options": [
+        "Over the table",
+        "Above the table",
+        "On the lower side of the table",
+        "Inside the table"
+       ],
+       "answer": 2,
+       "why": "Under means on the lower side. The dog under the table is below it, on its lower side."
+      },
+      {
+       "q": "The puppy is on the side of your right hand. It is on your:",
+       "options": [
+        "Right",
+        "Left",
+        "Above",
+        "Far"
+       ],
+       "answer": 0,
+       "why": "The side of the right hand is called the right side. The puppy there is on the right."
+      },
+      {
+       "q": "A small boat far away on the river looks:",
+       "options": [
+        "Big",
+        "Near",
+        "Over the water",
+        "Small and distant"
+       ],
+       "answer": 3,
+       "why": "Far things look small and distant in a picture, like the small boat far away on the river."
+      },
+      {
+       "q": "'Below' means:",
+       "options": [
+        "On the lower side",
+        "On the higher side",
+        "Inside a box",
+        "Next to"
+       ],
+       "answer": 0,
+       "why": "Below means on the lower side of something, the opposite of above."
+      },
+      {
+       "q": "A ball inside a net is:",
+       "options": [
+        "Outside the net",
+        "Above the net",
+        "Under the net",
+        "Within the net"
+       ],
+       "answer": 3,
+       "why": "Within the closed space means inside. The ball inside the net is within the net."
+      },
+      {
+       "q": "The big eagle in front in the picture is:",
+       "options": [
+        "Far",
+        "Under",
+        "Near",
+        "Left"
+       ],
+       "answer": 2,
+       "why": "A big thing drawn in front is the near one. The big eagle is near, as in the book's exercise."
+      },
+      {
+       "q": "A parrot sitting on top of a tree is ___ the tree.",
+       "options": [
+        "Under",
+        "Above",
+        "Below",
+        "Inside"
+       ],
+       "answer": 1,
+       "why": "On top of the tree is the higher side of the tree, so the parrot is above the tree."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Statistics and Probability",
+   "lessons": [
+    {
+     "title": "Pictographs",
+     "notes_html": "<h4>Reading a pictograph</h4>\n<p>A <b>pictograph</b> shows information with <b>pictures</b>. Count the pictures in front of each thing to read the number.</p>\n<p>Favourite fruits in the book: mango 3, apple 2, banana 5, grapes 4, guava 1. The <b>most</b> favourite is banana (biggest number 5); the <b>least</b> favourite is guava (smallest number 1).</p>\n<h4>Worked example</h4>\n<p>In the transport graph, school bus = 9, car = 3, bicycle = 6, motorcycle = 5. Which is used the most?</p>\n<p>Step 1: Compare the counts: 9 is the biggest.</p>\n<p>Step 2: 9 belongs to the school bus.</p>\n<p>Answer: School bus</p>\n<h4>Key points</h4>\n<ul><li>Count the pictures row by row.</li><li>Biggest count = most; smallest count = least.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In the fruit pictograph, how many students like banana?",
+       "options": [
+        "3",
+        "5",
+        "4",
+        "1"
+       ],
+       "answer": 1,
+       "why": "Count the pictures in the banana row: there are 5, the biggest row of the fruit graph."
+      },
+      {
+       "q": "Which fruit is the most favourite in the book's graph?",
+       "options": [
+        "Mango",
+        "Guava",
+        "Banana",
+        "Apple"
+       ],
+       "answer": 2,
+       "why": "Banana has the most pictures (5), more than mango 3, grapes 4, apple 2 and guava 1."
+      },
+      {
+       "q": "Which fruit is the least favourite?",
+       "options": [
+        "Guava",
+        "Banana",
+        "Grapes",
+        "Mango"
+       ],
+       "answer": 0,
+       "why": "Guava has only 1 picture, the smallest count, so guava is the least favourite fruit."
+      },
+      {
+       "q": "A pictograph shows information with:",
+       "options": [
+        "Only numbers",
+        "Songs",
+        "Clocks",
+        "Pictures"
+       ],
+       "answer": 3,
+       "why": "A pictograph uses pictures or faces in rows; we count the pictures to read the information."
+      },
+      {
+       "q": "In the transport graph, how many students use a bicycle?",
+       "options": [
+        "9",
+        "3",
+        "6",
+        "5"
+       ],
+       "answer": 2,
+       "why": "Count the faces in the bicycle row: 6 students use a bicycle to come to school."
+      },
+      {
+       "q": "Which transport is used the least?",
+       "options": [
+        "School bus",
+        "Bicycle",
+        "Motorcycle",
+        "Car"
+       ],
+       "answer": 3,
+       "why": "The car row has only 3 pictures, fewer than bus 9, bicycle 6 and motorcycle 5. Car is least."
+      },
+      {
+       "q": "In the animal graph, lion = 9 and bear = 3. The most popular animal is:",
+       "options": [
+        "Bear",
+        "Lion",
+        "Goat",
+        "Horse"
+       ],
+       "answer": 1,
+       "why": "The lion has 9 pictures, the biggest count in the animal graph, so the lion is most popular."
+      },
+      {
+       "q": "In the fruit graph of Exercise 1, orange = 8 and apricot = 3. Orange is:",
+       "options": [
+        "The most favourite",
+        "The least favourite",
+        "Equal to apricot",
+        "Not in the graph"
+       ],
+       "answer": 0,
+       "why": "8 is the biggest number in that graph (peach 7, pomegranate 6, watermelon 4), so orange is most favourite."
+      },
+      {
+       "q": "To read a pictograph, we:",
+       "options": [
+        "Read only the title",
+        "Guess the biggest",
+        "Colour the pictures",
+        "Count the pictures in each row"
+       ],
+       "answer": 3,
+       "why": "Each row's pictures must be counted one by one; the count is the number for that thing."
+      },
+      {
+       "q": "In the animal graph, how many students like the horse?",
+       "options": [
+        "9",
+        "5",
+        "8",
+        "6"
+       ],
+       "answer": 2,
+       "why": "Count the pictures in the horse row of the book's animal graph: there are 8."
+      }
+     ]
+    },
+    {
+     "title": "More Likely and Less Likely",
+     "notes_html": "<h4>Chance words</h4>\n<p>An event with <b>more chance</b> of happening is <b>more likely</b>. An event with <b>less chance</b> is <b>less likely</b>.</p>\n<ul><li>Rain under dark clouds: more likely. Rain under a clear sunny sky: less likely.</li><li>Getting late in a heavy traffic jam: more likely.</li><li>Getting sick for a child wet in the rain eating an ice lolly: more likely.</li><li>Weak eyesight from using a mobile in dim light: more likely.</li></ul>\n<h4>Worked example</h4>\n<p>Is rain more likely under dark clouds or under a clear sky?</p>\n<p>Step 1: Dark clouds are a sign that rain is coming.</p>\n<p>Step 2: A clear sky gives rain very little chance.</p>\n<p>Answer: More likely under dark clouds</p>\n<h4>Key points</h4>\n<ul><li>More likely = more chance.</li><li>Less likely = less chance.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Rain is more likely when the sky has:",
+       "options": [
+        "A clear sunny sky",
+        "Dark clouds",
+        "No clouds",
+        "Stars"
+       ],
+       "answer": 1,
+       "why": "Dark clouds bring rain, so rain has more chance — it is more likely under dark clouds."
+      },
+      {
+       "q": "Getting late is more likely:",
+       "options": [
+        "In a heavy traffic jam",
+        "On an empty clear road",
+        "At home",
+        "On a holiday"
+       ],
+       "answer": 0,
+       "why": "A traffic jam slows everyone down, so reaching late has more chance — it is more likely."
+      },
+      {
+       "q": "A child wet in the rain eating an ice lolly is more likely to:",
+       "options": [
+        "Get sick",
+        "Get stronger",
+        "Win a race",
+        "Feel warm"
+       ],
+       "answer": 0,
+       "why": "Being wet in rain and eating something cold gives sickness more chance, so it is more likely."
+      },
+      {
+       "q": "Using a mobile in dim, dark light makes weak eyesight:",
+       "options": [
+        "Less likely",
+        "More likely",
+        "Impossible",
+        "Immediately fine"
+       ],
+       "answer": 1,
+       "why": "Straining the eyes in dark light harms them, so weak eyesight becomes more likely."
+      },
+      {
+       "q": "'Less likely' means the event has:",
+       "options": [
+        "More chance",
+        "Full chance",
+        "No meaning",
+        "Less chance"
+       ],
+       "answer": 3,
+       "why": "Less likely describes an event whose chance of happening is small, like rain in a clear sky."
+      },
+      {
+       "q": "Reading in good light and sleeping well makes weak eyesight:",
+       "options": [
+        "More likely",
+        "Certain",
+        "Less likely",
+        "Faster"
+       ],
+       "answer": 2,
+       "why": "Good habits protect the eyes, so weak eyesight has less chance — it is less likely."
+      },
+      {
+       "q": "On an empty clear road, getting late is:",
+       "options": [
+        "More likely",
+        "Impossible to travel",
+        "Certain",
+        "Less likely"
+       ],
+       "answer": 3,
+       "why": "With no traffic to slow us down, reaching late has little chance — it is less likely."
+      },
+      {
+       "q": "A healthy child playing in the park is ___ to get sick.",
+       "options": [
+        "More likely",
+        "Sure",
+        "Less likely",
+        "Always"
+       ],
+       "answer": 2,
+       "why": "A healthy, dry, playing child has little chance of sickness compared with a wet child — less likely."
+      },
+      {
+       "q": "Which event is more likely?",
+       "options": [
+        "Rain with dark clouds",
+        "Rain with a clear sky",
+        "Snow in summer heat",
+        "Late on an empty road"
+       ],
+       "answer": 0,
+       "why": "Of these, only rain under dark clouds has a strong chance; the others have little or no chance."
+      },
+      {
+       "q": "'More likely' means the event has:",
+       "options": [
+        "Less chance",
+        "More chance",
+        "No chance",
+        "Equal chance"
+       ],
+       "answer": 1,
+       "why": "More likely is used when an event has a greater chance of happening than not happening."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Fun Activities with Maths",
+   "lessons": [
+    {
+     "title": "Hands-On STEAM Games",
+     "notes_html": "<h4>Maths by playing (teacher-led)</h4>\n<ul><li><b>Fruit Shop game</b>: buying fruit is addition in real life.</li><li><b>Bowling game</b>: 10 cups stand as pins; remaining pins = 10 − fallen pins.</li><li><b>Time Hunt game</b>: find the clock that shows the asked time.</li></ul>\n<h4>Worked example</h4>\n<p>In the Fruit Shop game, you buy 2 apples and then 3 apples. How many in all?</p>\n<p>Step 1: Join the two buys: 2 + 3.</p>\n<p>Step 2: Count 3 forward from 2: 3, 4, 5.</p>\n<p>Answer: 5 apples</p>\n<h4>Key points</h4>\n<ul><li>Games use the same adding, subtracting and time reading.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In the Fruit Shop game, buying 2 apples and 3 apples makes how many in all?",
+       "options": [
+        "6",
+        "1",
+        "5",
+        "23"
+       ],
+       "answer": 2,
+       "why": "Add the two buys: 2 + 3 = 5. Count forward from 2: 3, 4, 5 — five apples in all."
+      },
+      {
+       "q": "In Bowling, 10 pins stand and 4 fall down. How many remain?",
+       "options": [
+        "14",
+        "6",
+        "4",
+        "10"
+       ],
+       "answer": 1,
+       "why": "Remaining pins = total - fallen = 10 - 4 = 6 pins still standing."
+      },
+      {
+       "q": "In the Time Hunt, the 3 o'clock clock has its short hand at:",
+       "options": [
+        "12",
+        "6",
+        "9",
+        "3"
+       ],
+       "answer": 3,
+       "why": "At 3 o'clock the short hour hand points at 3 and the long minute hand points at 12."
+      },
+      {
+       "q": "In Bowling, if 0 pins fall, the remaining pins are:",
+       "options": [
+        "10",
+        "0",
+        "5",
+        "9"
+       ],
+       "answer": 0,
+       "why": "Remaining = 10 - 0 = 10. Subtracting zero leaves all ten pins standing."
+      },
+      {
+       "q": "In the Fruit Shop game, buying 4 oranges and 4 oranges makes:",
+       "options": [
+        "8 oranges",
+        "44 oranges",
+        "6 oranges",
+        "0 oranges"
+       ],
+       "answer": 0,
+       "why": "Join the buys: 4 + 4 = 8. Count forward from 4: 5, 6, 7, 8 — eight oranges."
+      },
+      {
+       "q": "In Bowling, 10 pins stand and 7 fall. Remaining = ?",
+       "options": [
+        "17",
+        "7",
+        "3",
+        "2"
+       ],
+       "answer": 2,
+       "why": "Remaining = 10 - 7 = 3 pins. Count back from 10 by 7: 9, 8, 7, 6, 5, 4, 3."
+      },
+      {
+       "q": "The Time Hunt asks for 3 o'clock. The long hand of that clock is at:",
+       "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+       ],
+       "answer": 3,
+       "why": "For any o'clock time the long minute hand points at 12; only the short hand moves to 3."
+      },
+      {
+       "q": "These games are led by:",
+       "options": [
+        "The students alone",
+        "The teacher",
+        "The computer only",
+        "Parents only"
+       ],
+       "answer": 1,
+       "why": "The book marks the STEAM activities as teacher-led: the teacher runs the games for the class."
+      },
+      {
+       "q": "In the Fruit Shop game, buying 1 mango and 5 mangoes makes:",
+       "options": [
+        "6 mangoes",
+        "15 mangoes",
+        "4 mangoes",
+        "5 mangoes"
+       ],
+       "answer": 0,
+       "why": "Add the buys: 1 + 5 = 6. Count forward from 5 by 1: 6 — six mangoes in all."
+      },
+      {
+       "q": "In Bowling, remaining pins are found by:",
+       "options": [
+        "Adding fallen to 10",
+        "Subtracting fallen from 10",
+        "Counting only fallen",
+        "Multiplying"
+       ],
+       "answer": 1,
+       "why": "Some pins fall from the 10 standing pins, so what remains is 10 minus the fallen pins."
+      }
+     ]
+    },
+    {
+     "title": "AI Puzzle Games",
+     "notes_html": "<h4>Playing with the computer (teacher-led)</h4>\n<ul><li><b>AI riddle</b>: 'You have 3 apples and AI gives you 2 more — how many now?' It is an addition story.</li><li><b>Digital Domino</b>: add the dots on both sides.</li><li><b>AI Balance</b>: think — is an apple heavier than a pencil? Yes.</li><li><b>Cash Register game</b>: make amounts with coins and notes: Rs. 20 = Rs. 10 + Rs. 10; Rs. 50 = one Rs. 50 note.</li></ul>\n<h4>Worked example</h4>\n<p>A domino has 4 dots on one side and 2 dots on the other. Total dots?</p>\n<p>Step 1: Add both sides: 4 + 2.</p>\n<p>Step 2: Count 2 forward from 4: 5, 6.</p>\n<p>Answer: 6 dots</p>\n<h4>Key points</h4>\n<ul><li>The games practise adding, comparing weight and making money amounts.</li></ul>",
+     "mcqs": [
+      {
+       "q": "AI riddle: You have 3 apples and AI gives you 2 more. How many now?",
+       "options": [
+        "1",
+        "6",
+        "5",
+        "32"
+       ],
+       "answer": 2,
+       "why": "Join the two groups: 3 + 2 = 5. Count forward from 3: 4, 5 — five apples now."
+      },
+      {
+       "q": "A domino has 4 dots and 2 dots. Total dots = ?",
+       "options": [
+        "2",
+        "8",
+        "42",
+        "6"
+       ],
+       "answer": 3,
+       "why": "Add the dots of both sides: 4 + 2 = 6 dots in total on the domino."
+      },
+      {
+       "q": "AI Balance asks: Is an apple heavier than a pencil?",
+       "options": [
+        "No",
+        "Yes",
+        "Both are equal",
+        "A pencil is heavier"
+       ],
+       "answer": 1,
+       "why": "An apple is a fruit with much more weight than a thin pencil, so yes, the apple is heavier."
+      },
+      {
+       "q": "How can you make Rs. 20 in the Cash Register game?",
+       "options": [
+        "One Rs. 50 note",
+        "Rs. 5 + Rs. 5",
+        "Rs. 100 note",
+        "Rs. 10 + Rs. 10"
+       ],
+       "answer": 3,
+       "why": "Two ten-rupee pieces join to make twenty: 10 + 10 = 20 rupees."
+      },
+      {
+       "q": "How can you make Rs. 50 in the Cash Register game?",
+       "options": [
+        "Rs. 10 + Rs. 10",
+        "Five Rs. 5 coins",
+        "One Rs. 50 note",
+        "Rs. 20 + Rs. 20"
+       ],
+       "answer": 2,
+       "why": "The simplest way is a single note of fifty: one Rs. 50 note makes Rs. 50."
+      },
+      {
+       "q": "A domino has 3 dots and 3 dots. Total dots = ?",
+       "options": [
+        "6",
+        "33",
+        "0",
+        "9"
+       ],
+       "answer": 0,
+       "why": "Add both sides: 3 + 3 = 6. Count forward from 3: 4, 5, 6 — six dots."
+      },
+      {
+       "q": "AI riddle: You have 5 toffees and AI gives you 4 more. How many now?",
+       "options": [
+        "1",
+        "54",
+        "8",
+        "9"
+       ],
+       "answer": 3,
+       "why": "Join the groups: 5 + 4 = 9. Count forward from 5: 6, 7, 8, 9 — nine toffees."
+      },
+      {
+       "q": "In the Cash Register game, Rs. 10 + Rs. 10 makes:",
+       "options": [
+        "Rs. 20",
+        "Rs. 100",
+        "Rs. 10",
+        "Rs. 200"
+       ],
+       "answer": 0,
+       "why": "Adding the two amounts: 10 + 10 = 20, so the register shows Rs. 20."
+      },
+      {
+       "q": "A domino has 5 dots and 1 dot. Total dots = ?",
+       "options": [
+        "51",
+        "4",
+        "6",
+        "10"
+       ],
+       "answer": 2,
+       "why": "Add the two sides: 5 + 1 = 6 dots in total on this domino."
+      },
+      {
+       "q": "The AI activities in the book are:",
+       "options": [
+        "Done alone at home",
+        "Teacher-led games",
+        "Exams",
+        "Not maths"
+       ],
+       "answer": 1,
+       "why": "Like the STEAM games, the AI puzzle activities are marked teacher-led in the book."
+      }
+     ]
+    },
+    {
+     "title": "Maths Websites for Practice",
+     "notes_html": "<h4>Websites given in the book</h4>\n<p>At the end of the book, these websites are given for grade 1 mathematics practice: <b>Khan Academy</b>, <b>IXL</b>, <b>Super Teacher Worksheets</b>, <b>K5 Learning</b>, <b>Math Playground</b>, <b>SplashLearn</b>, <b>Math Games</b> and <b>ABCya</b>.</p>\n<h4>How to use them</h4>\n<p>Open the grade 1 maths pages on these sites and practise with the guidance of a teacher or parents.</p>\n<h4>Key points</h4>\n<ul><li>Practise a little every day.</li><li>Always practise with a teacher or parent nearby.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which of these websites is given in the book for maths practice?",
+       "options": [
+        "A cooking site",
+        "A news site",
+        "A maps site",
+        "Khan Academy"
+       ],
+       "answer": 3,
+       "why": "The book's own list starts with Khan Academy, a learning site with grade 1 maths practice."
+      },
+      {
+       "q": "How many websites are listed at the end of the book?",
+       "options": [
+        "2",
+        "4",
+        "8",
+        "20"
+       ],
+       "answer": 2,
+       "why": "The list has eight names: Khan Academy, IXL, Super Teacher Worksheets, K5 Learning, Math Playground, SplashLearn, Math Games and ABCya."
+      },
+      {
+       "q": "The book says to practise on these sites with:",
+       "options": [
+        "No one",
+        "A teacher or parents",
+        "Friends only",
+        "Strangers"
+       ],
+       "answer": 1,
+       "why": "Young children should open the grade 1 pages with the guidance of a teacher or their parents."
+      },
+      {
+       "q": "Which of these is in the book's website list?",
+       "options": [
+        "IXL",
+        "A shopping site",
+        "A sports site",
+        "A weather site"
+       ],
+       "answer": 0,
+       "why": "IXL is the second name in the book's list of maths practice websites for grade 1."
+      },
+      {
+       "q": "On these websites, which class pages should you open?",
+       "options": [
+        "Grade 10 pages",
+        "Grade 1 pages",
+        "College pages",
+        "Any pages"
+       ],
+       "answer": 1,
+       "why": "The book is for grade 1, so we open the grade 1 maths pages that match our class."
+      },
+      {
+       "q": "Which pair is fully from the book's list?",
+       "options": [
+        "News and Maps",
+        "Cooking and Travel",
+        "Sports and Music",
+        "Math Games and ABCya"
+       ],
+       "answer": 3,
+       "why": "Math Games and ABCya are both in the book's list of eight practice websites."
+      },
+      {
+       "q": "SplashLearn is in the book's list as a site for:",
+       "options": [
+        "Maths practice",
+        "Cooking practice",
+        "Drawing only",
+        "Singing"
+       ],
+       "answer": 0,
+       "why": "SplashLearn is listed among the websites for grade 1 mathematics practice."
+      },
+      {
+       "q": "What should a child do on these websites?",
+       "options": [
+        "Only watch videos",
+        "Buy things",
+        "Practise maths",
+        "Chat with strangers"
+       ],
+       "answer": 2,
+       "why": "The purpose of the listed websites is to practise the maths learned in this book."
+      },
+      {
+       "q": "Which of these is NOT in the book's list?",
+       "options": [
+        "K5 Learning",
+        "Super Teacher Worksheets",
+        "Math Playground",
+        "A cartoon channel"
+       ],
+       "answer": 3,
+       "why": "The list has only learning websites; a cartoon channel is not among the eight names in the book."
+      },
+      {
+       "q": "The websites list is found:",
+       "options": [
+        "At the start of the book",
+        "In the workbook",
+        "At the end of the book",
+        "On the cover"
+       ],
+       "answer": 2,
+       "why": "The book gives the list of websites in its last section, after the AI-based activities."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Workbook Practice",
+   "lessons": [
+    {
+     "title": "Counting and Writing Numbers",
+     "notes_html": "<h4>Workbook counting practice</h4>\n<p>The workbook practises counting fingers, things and shapes, writing missing numbers and number lines.</p>\n<ul><li>Fingers on the hands: write 1 to 5, then 6 to 10.</li><li>Descending stairs: 9, 8, 7, 6, 5, 4, 3, 2, 1.</li><li>An empty bowl shows the number <b>0</b>.</li><li>Missing numbers: 1, 2, 3, ___, 5 → 4; in descending ___, 8, ___, 6 → 9, 7.</li></ul>\n<h4>Worked example</h4>\n<p>Count the things: ants, chilies, pigeons, coconuts in the workbook picture.</p>\n<p>Step 1: Count each group one by one.</p>\n<p>Step 2: Ants 3, chilies 5, pigeons 6, coconuts 4.</p>\n<p>Answer: 3, 5, 6, 4</p>\n<h4>Key points</h4>\n<ul><li>Tick the bigger number: of 2 and 7, tick 7; of 9 and 6, tick 9.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What number does an empty bowl show?",
+       "options": [
+        "0",
+        "1",
+        "5",
+        "10"
+       ],
+       "answer": 0,
+       "why": "An empty bowl has nothing in it, and the number for nothing is 0, read as zero."
+      },
+      {
+       "q": "Fill the missing number: 1, 2, 3, ___, 5",
+       "options": [
+        "6",
+        "4",
+        "2",
+        "0"
+       ],
+       "answer": 1,
+       "why": "Forward counting: 1, 2, 3, 4, 5. The missing number between 3 and 5 is 4."
+      },
+      {
+       "q": "Descending stairs: 9, 8, ___, 6, ___, 4, 3, ___, ___. First missing number?",
+       "options": [
+        "5",
+        "10",
+        "7",
+        "6"
+       ],
+       "answer": 2,
+       "why": "Backward counting from 9: 9, 8, 7, 6... The first missing number after 8 is 7."
+      },
+      {
+       "q": "Of the numbers 2 and 7, the bigger number is:",
+       "options": [
+        "2",
+        "7",
+        "Both equal",
+        "None"
+       ],
+       "answer": 1,
+       "why": "Compare: 7 is more than 2, so we tick 7 as the bigger number, as in Assessment 3."
+      },
+      {
+       "q": "Count the fingers: a hand showing six fingers in the workbook is written:",
+       "options": [
+        "5",
+        "7",
+        "10",
+        "6"
+       ],
+       "answer": 3,
+       "why": "Count the raised fingers one by one up to the last: the sixth finger gives the number 6."
+      },
+      {
+       "q": "In the workbook box, chairs = 3 and shirts = 8 (book's key). How many shirts?",
+       "options": [
+        "8",
+        "3",
+        "5",
+        "11"
+       ],
+       "answer": 0,
+       "why": "As per the book's answer key, the shirts in the box are counted as 8 (and the chairs as 3)."
+      },
+      {
+       "q": "Fill the missing numbers in descending order: ___, 8, ___, 6",
+       "options": [
+        "7, 9",
+        "9, 7",
+        "10, 5",
+        "8, 6"
+       ],
+       "answer": 1,
+       "why": "Going down: 9, 8, 7, 6. The number before 8 is 9 and between 8 and 6 is 7."
+      },
+      {
+       "q": "How many shapes are traced in workbook Exercise 2?",
+       "options": [
+        "2",
+        "4",
+        "6",
+        "18"
+       ],
+       "answer": 2,
+       "why": "The traced shapes are square, square, circle, oval, triangle, triangle — 6 shapes in all."
+      },
+      {
+       "q": "How many dotted lines are traced in workbook Exercise 1?",
+       "options": [
+        "6",
+        "10",
+        "5",
+        "18"
+       ],
+       "answer": 3,
+       "why": "Counting all the dotted lines in the exercise gives 18 lines to trace with the pencil."
+      },
+      {
+       "q": "Of the numbers 9 and 6, tick the bigger:",
+       "options": [
+        "9",
+        "6",
+        "Both",
+        "Neither"
+       ],
+       "answer": 0,
+       "why": "9 is greater than 6, so the tick goes on 9, as in the workbook's Assessment 3."
+      }
+     ]
+    },
+    {
+     "title": "Number Bonds of 5 and 10",
+     "notes_html": "<h4>Number bonds</h4>\n<p>A <b>number bond</b> shows two parts that join to make a whole number.</p>\n<p>Bonds of 5: 5 = 3 + 2, 5 = 1 + 4, 5 = 2 + 3, 5 = 0 + 5.</p>\n<p>Bonds of 10: 10 = 6 + 4, 10 = 8 + 2, 10 = 1 + 9, 10 = 9 + 1, 10 = 7 + 3.</p>\n<h4>Worked example</h4>\n<p>Complete the bond: 10 = 8 + ___.</p>\n<p>Step 1: The missing part = 10 − 8.</p>\n<p>Step 2: 10 − 8 = 2. Check: 8 + 2 = 10. ✓</p>\n<p>Answer: 2</p>\n<h4>Key points</h4>\n<ul><li>Missing part = whole − known part.</li><li>Learn the bonds of 10 by heart.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Complete the bond: 5 = 3 + ___",
+       "options": [
+        "2",
+        "3",
+        "5",
+        "8"
+       ],
+       "answer": 0,
+       "why": "Missing part = 5 - 3 = 2. Check: 3 + 2 = 5, so the bond is completed by 2."
+      },
+      {
+       "q": "Complete the bond: 10 = 6 + ___",
+       "options": [
+        "6",
+        "16",
+        "5",
+        "4"
+       ],
+       "answer": 3,
+       "why": "Missing part = 10 - 6 = 4. Check: 6 + 4 = 10, so the missing partner is 4."
+      },
+      {
+       "q": "Complete the bond: 10 = 9 + ___",
+       "options": [
+        "19",
+        "1",
+        "9",
+        "0"
+       ],
+       "answer": 1,
+       "why": "Missing part = 10 - 9 = 1. Check: 9 + 1 = 10, so the bond needs 1."
+      },
+      {
+       "q": "Complete the bond: 5 = 1 + ___",
+       "options": [
+        "1",
+        "5",
+        "4",
+        "6"
+       ],
+       "answer": 2,
+       "why": "Missing part = 5 - 1 = 4. Check: 1 + 4 = 5, one of the book's bonds of 5."
+      },
+      {
+       "q": "Complete the bond: 10 = 2 + ___",
+       "options": [
+        "2",
+        "8",
+        "12",
+        "5"
+       ],
+       "answer": 1,
+       "why": "Missing part = 10 - 2 = 8. Check: 2 + 8 = 10, as in workbook Assessment 1."
+      },
+      {
+       "q": "Complete the bond: 10 = 7 + ___",
+       "options": [
+        "7",
+        "17",
+        "3",
+        "4"
+       ],
+       "answer": 2,
+       "why": "Missing part = 10 - 7 = 3. Check: 7 + 3 = 10, as in workbook Assessment 1."
+      },
+      {
+       "q": "Which is a correct bond of 5?",
+       "options": [
+        "5 = 2 + 3",
+        "5 = 4 + 4",
+        "5 = 5 + 5",
+        "5 = 1 + 1"
+       ],
+       "answer": 0,
+       "why": "Check the sums: 2 + 3 = 5 is correct. The others make 8, 10 and 2, not 5."
+      },
+      {
+       "q": "Complete the bond: 10 = 4 + ___",
+       "options": [
+        "4",
+        "14",
+        "5",
+        "6"
+       ],
+       "answer": 3,
+       "why": "Missing part = 10 - 4 = 6. Check: 4 + 6 = 10, one of the workbook's bonds of 10."
+      },
+      {
+       "q": "Complete the bond: 5 = 0 + ___",
+       "options": [
+        "0",
+        "3",
+        "5",
+        "10"
+       ],
+       "answer": 2,
+       "why": "Missing part = 5 - 0 = 5. Check: 0 + 5 = 5, as shown in Assessment 3 of the workbook."
+      },
+      {
+       "q": "A number bond shows:",
+       "options": [
+        "Only big numbers",
+        "Two parts that make a whole",
+        "A clock",
+        "A shape"
+       ],
+       "answer": 1,
+       "why": "A bond splits a whole number into two parts; adding the parts gives the whole again."
+      }
+     ]
+    },
+    {
+     "title": "Numbers in Blocks: Tens and Ones",
+     "notes_html": "<h4>Reading block pictures</h4>\n<p>In the workbook, numbers are shown with <b>blocks</b>: a long block of ten and single one-blocks. Count the tens first (each = 10), then the ones.</p>\n<h4>Worked example</h4>\n<p>A picture shows 2 ten-blocks and 3 one-blocks (the book's example style: example 21 has 2 tens and 1 one). What is the number for 2 tens and 3 ones?</p>\n<p>Step 1: Tens: 2 blocks = 20.</p>\n<p>Step 2: Add the ones: 20 + 3 = 23.</p>\n<p>Answer: 23</p>\n<h4>Splitting numbers</h4>\n<p>13 = 10 + 3, 12 = 10 + 2, 14 = 10 + 4, 10 = 10 + 0. And 10 + 9 = 19.</p>\n<h4>Key points</h4>\n<ul><li>Count tens by 10, then count the ones.</li><li>Example blocks in the book: 14, 21, 31, 41 ... up to 100.</li></ul>",
+     "mcqs": [
+      {
+       "q": "A block picture shows 3 tens and 3 ones (workbook style). The number is:",
+       "options": [
+        "33",
+        "36",
+        "30",
+        "63"
+       ],
+       "answer": 0,
+       "why": "Count the tens: 3 blocks = 30; add 3 ones: 30 + 3 = 33, one of the workbook's answers."
+      },
+      {
+       "q": "Split 13 into 10 + ___",
+       "options": [
+        "13",
+        "10",
+        "1",
+        "3"
+       ],
+       "answer": 3,
+       "why": "13 is one ten and 3 ones: 13 = 10 + 3. The ones part left after the ten is 3."
+      },
+      {
+       "q": "10 + 9 = ?",
+       "options": [
+        "109",
+        "10",
+        "19",
+        "90"
+       ],
+       "answer": 2,
+       "why": "One ten plus nine ones makes the number 19, from the workbook's Exercise 17."
+      },
+      {
+       "q": "A block picture shows 9 tens and 0 ones (workbook Ex28 style). The number is:",
+       "options": [
+        "9",
+        "100",
+        "99",
+        "90"
+       ],
+       "answer": 3,
+       "why": "Nine ten-blocks are 9 × 10 = 90 with no loose ones, giving the number 90."
+      },
+      {
+       "q": "A block picture shows 10 tens. The number is:",
+       "options": [
+        "100",
+        "10",
+        "1000",
+        "20"
+       ],
+       "answer": 0,
+       "why": "Ten blocks of ten make one hundred: 10 tens = 100, the last workbook block number."
+      },
+      {
+       "q": "Split 14 into 10 + ___",
+       "options": [
+        "14",
+        "4",
+        "10",
+        "1"
+       ],
+       "answer": 1,
+       "why": "14 = one ten + 4 ones, so 14 = 10 + 4, from the workbook's splitting exercise."
+      },
+      {
+       "q": "6 + 10 = ? (workbook Assessment 5)",
+       "options": [
+        "610",
+        "60",
+        "16",
+        "4"
+       ],
+       "answer": 2,
+       "why": "Adding ten to 6 moves it one ten up: 6 + 10 = 16, as in the workbook assessment."
+      },
+      {
+       "q": "A block picture shows 4 tens and 7 ones. The number is:",
+       "options": [
+        "47",
+        "74",
+        "11",
+        "407"
+       ],
+       "answer": 0,
+       "why": "Tens first: 4 blocks = 40; ones: 7. Joined: 40 + 7 = 47, a workbook Assessment 2 number."
+      },
+      {
+       "q": "10 + 10 = ? (workbook Assessment 5)",
+       "options": [
+        "100",
+        "1010",
+        "10",
+        "20"
+       ],
+       "answer": 3,
+       "why": "Two tens joined make 20: 10 + 10 = 20, as in the workbook's Assessment 5."
+      },
+      {
+       "q": "A block picture shows 8 tens and 6 ones (Assessment 2 style). The number is:",
+       "options": [
+        "68",
+        "86",
+        "14",
+        "806"
+       ],
+       "answer": 1,
+       "why": "8 tens = 80 and 6 ones = 6; together 80 + 6 = 86, one of the Assessment 2 block numbers."
+      }
+     ]
+    },
+    {
+     "title": "Workbook Addition Practice",
+     "notes_html": "<h4>Adding in the workbook</h4>\n<p>The workbook adds step by step: first +1 and +4, then adding <b>zero</b>, then vertical sums.</p>\n<ul><li>2 + 1 = 3, 3 + 1 = 4, 4 + 1 = 5, 1 + 2 = 3.</li><li>2 + 4 = 6, 3 + 4 = 7, 4 + 4 = 8, 1 + 5 = 6.</li><li>Adding zero: 7 + 0 = 7, 5 + 0 = 5, 8 + 0 = 8.</li><li>Vertical: 3 + 5 = 8, 1 + 8 = 9, 2 + 6 = 8, 4 + 0 = 4.</li></ul>\n<h4>Worked example</h4>\n<p>Add (workbook sample style): 1 + 4.</p>\n<p>Step 1: Start at 1... or count 4 forward from the bigger number 4: 5.</p>\n<p>Answer: 5 (the book's given sample)</p>\n<h4>Key points</h4>\n<ul><li>Count forward from the bigger number.</li><li>+ 0 never changes the number.</li></ul>",
+     "mcqs": [
+      {
+       "q": "2 + 4 = ? (workbook Exercise 30)",
+       "options": [
+        "24",
+        "6",
+        "7",
+        "5"
+       ],
+       "answer": 1,
+       "why": "Count 4 forward from 2: 3, 4, 5, 6. So 2 + 4 = 6, as in the workbook exercise."
+      },
+      {
+       "q": "7 + 0 = ? (workbook Exercise 31)",
+       "options": [
+        "7",
+        "70",
+        "0",
+        "8"
+       ],
+       "answer": 0,
+       "why": "Adding zero joins nothing, so the number stays 7: 7 + 0 = 7."
+      },
+      {
+       "q": "3 + 5 = ? (workbook vertical Exercise 32)",
+       "options": [
+        "35",
+        "2",
+        "9",
+        "8"
+       ],
+       "answer": 3,
+       "why": "Count forward from 5 by 3: 6, 7, 8. So 3 + 5 = 8."
+      },
+      {
+       "q": "1 + 2 = ? (workbook Assessment 8)",
+       "options": [
+        "12",
+        "2",
+        "3",
+        "1"
+       ],
+       "answer": 2,
+       "why": "Count 2 forward from 1: 2, 3. So 1 + 2 = 3, from workbook Assessment 8."
+      },
+      {
+       "q": "4 + 4 = ? (workbook Exercise 30)",
+       "options": [
+        "44",
+        "6",
+        "9",
+        "8"
+       ],
+       "answer": 3,
+       "why": "Count 4 forward from 4: 5, 6, 7, 8. So 4 + 4 = 8."
+      },
+      {
+       "q": "3 + 3 = ? (workbook Assessment 8)",
+       "options": [
+        "6",
+        "33",
+        "5",
+        "9"
+       ],
+       "answer": 0,
+       "why": "Count forward from 3 by 3: 4, 5, 6. So 3 + 3 = 6, from workbook Assessment 8."
+      },
+      {
+       "q": "6 + 2 = ? (workbook Assessment 8)",
+       "options": [
+        "62",
+        "8",
+        "7",
+        "4"
+       ],
+       "answer": 1,
+       "why": "Count 2 forward from 6: 7, 8. So 6 + 2 = 8, from workbook Assessment 8."
+      },
+      {
+       "q": "2 + 7 = ? (workbook Assessment 8)",
+       "options": [
+        "27",
+        "8",
+        "9",
+        "10"
+       ],
+       "answer": 2,
+       "why": "Count 7 forward from 2 (or 2 forward from 7): 8, 9. So 2 + 7 = 9."
+      },
+      {
+       "q": "5 + 3 = ? (workbook G1 Assessment 3)",
+       "options": [
+        "53",
+        "7",
+        "9",
+        "8"
+       ],
+       "answer": 3,
+       "why": "Count forward from 5 by 3: 6, 7, 8. So 5 + 3 = 8, from the G1 Assessment 3."
+      },
+      {
+       "q": "8 + 1 = ? (workbook G1 Assessment 3)",
+       "options": [
+        "9",
+        "81",
+        "7",
+        "10"
+       ],
+       "answer": 0,
+       "why": "One more than 8 is 9: 8 + 1 = 9, from the workbook's G1 Assessment 3."
+      }
+     ]
+    },
+    {
+     "title": "Workbook Subtraction Practice",
+     "notes_html": "<h4>Subtracting in the workbook</h4>\n<p>The workbook subtracts step by step, including subtracting <b>zero</b> and vertical sums.</p>\n<ul><li>3 − 2 = 1, 6 − 3 = 3, 5 − 2 = 3, 6 − 4 = 2.</li><li>7 − 4 = 3, 8 − 6 = 2, 9 − 8 = 1, 7 − 5 = 2.</li><li>Subtracting zero: 1 − 0 = 1, 3 − 0 = 3, 7 − 0 = 7, 0 − 0 = 0.</li><li>Vertical: 5 − 3 = 2, 8 − 1 = 7, 6 − 2 = 4, 4 − 4 = 0.</li></ul>\n<h4>Worked example</h4>\n<p>Subtract (workbook sample style): 5 − 1.</p>\n<p>Step 1: Count 1 back from 5.</p>\n<p>Answer: 4 (the book's given sample)</p>\n<h4>Key points</h4>\n<ul><li>Count backward for subtraction.</li><li>− 0 never changes the number; a number minus itself is 0.</li></ul>",
+     "mcqs": [
+      {
+       "q": "3 − 2 = ? (workbook Exercise 33)",
+       "options": [
+        "5",
+        "1",
+        "2",
+        "32"
+       ],
+       "answer": 1,
+       "why": "Count 2 back from 3: 2, 1. So 3 - 2 = 1, as in workbook Exercise 33."
+      },
+      {
+       "q": "8 − 6 = ? (workbook Exercise 34)",
+       "options": [
+        "14",
+        "3",
+        "2",
+        "6"
+       ],
+       "answer": 2,
+       "why": "Count 6 back from 8: 7, 6, 5, 4, 3, 2. So 8 - 6 = 2."
+      },
+      {
+       "q": "7 − 0 = ? (workbook Exercise 35)",
+       "options": [
+        "7",
+        "0",
+        "6",
+        "70"
+       ],
+       "answer": 0,
+       "why": "Subtracting zero takes nothing away, so the number stays the same: 7 - 0 = 7."
+      },
+      {
+       "q": "4 − 4 = ? (workbook vertical Exercise 36)",
+       "options": [
+        "8",
+        "0",
+        "4",
+        "44"
+       ],
+       "answer": 1,
+       "why": "A number minus itself leaves nothing: 4 - 4 = 0, from the vertical exercise."
+      },
+      {
+       "q": "9 − 9 = ? (workbook Assessment 9)",
+       "options": [
+        "18",
+        "9",
+        "0",
+        "1"
+       ],
+       "answer": 2,
+       "why": "Taking all 9 away from 9 leaves nothing at all: 9 - 9 = 0, from Assessment 9."
+      },
+      {
+       "q": "6 − 5 = ? (workbook Assessment 9)",
+       "options": [
+        "11",
+        "5",
+        "2",
+        "1"
+       ],
+       "answer": 3,
+       "why": "Count 5 back from 6: 5, 4, 3, 2, 1. So 6 - 5 = 1, from workbook Assessment 9."
+      },
+      {
+       "q": "5 − 2 = ? (workbook G1 Assessment 3)",
+       "options": [
+        "3",
+        "7",
+        "2",
+        "52"
+       ],
+       "answer": 0,
+       "why": "Count 2 back from 5: 4, 3. So 5 - 2 = 3, from the G1 Assessment 3."
+      },
+      {
+       "q": "8 − 1 = ? (workbook Exercise 36)",
+       "options": [
+        "9",
+        "81",
+        "7",
+        "6"
+       ],
+       "answer": 2,
+       "why": "One less than 8 is 7: 8 - 1 = 7, from the workbook's vertical Exercise 36."
+      },
+      {
+       "q": "9 − 7 = ? (workbook G1 Assessment 3)",
+       "options": [
+        "16",
+        "3",
+        "9",
+        "2"
+       ],
+       "answer": 3,
+       "why": "Count 7 back from 9: 8, 7, 6, 5, 4, 3, 2. So 9 - 7 = 2, from G1 Assessment 3."
+      },
+      {
+       "q": "2 − 0 = ? (workbook Assessment 9)",
+       "options": [
+        "0",
+        "2",
+        "20",
+        "1"
+       ],
+       "answer": 1,
+       "why": "Subtracting zero changes nothing, so 2 - 0 = 2, from workbook Assessment 9."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
