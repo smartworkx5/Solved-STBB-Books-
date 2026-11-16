@@ -2770,5 +2770,73 @@
  "pctb-c9-10-urdu-quaid-e-insha-ur-notes.pdf": {
   "parts": 95,
   "size": 425788
+ },
+ "btbb-c2-islamiat-urdu-notes.pdf": {
+  "parts": 124,
+  "size": 554015
+ },
+ "btbb-c2-math-english-notes.pdf": {
+  "parts": 67,
+  "size": 299064
+ },
+ "btbb-c2-urdu-urdu-notes.pdf": {
+  "parts": 331,
+  "size": 1487978
+ },
+ "btbb-c3-english-english-notes.pdf": {
+  "parts": 105,
+  "size": 470611
+ },
+ "btbb-c3-general-knowledge-urdu-notes.pdf": {
+  "parts": 324,
+  "size": 1456828
+ },
+ "btbb-c7-geography-english-notes.pdf": {
+  "parts": 60,
+  "size": 267783
+ },
+ "btbb-c7-geography-urdu-notes.pdf": {
+  "parts": 147,
+  "size": 657596
+ },
+ "btbb-c7-history-urdu-notes.pdf": {
+  "parts": 219,
+  "size": 981274
+ },
+ "btbb-c7-islamiat-urdu-notes.pdf": {
+  "parts": 202,
+  "size": 905787
+ },
+ "btbb-c7-math-english-notes.pdf": {
+  "parts": 61,
+  "size": 273497
+ },
+ "btbb-c7-tarjama-tul-quran-urdu-notes.pdf": {
+  "parts": 442,
+  "size": 1986842
+ },
+ "pctb-c11-12-urdu-quaid-e-insha-ur-notes.pdf": {
+  "parts": 218,
+  "size": 980145
+ },
+ "pctb-c11-akhlaqiat-ur-notes.pdf": {
+  "parts": 175,
+  "size": 784573
+ },
+ "pctb-c11-biology-en-notes.pdf": {
+  "parts": 64,
+  "size": 285608
+ },
+ "pctb-c11-chemistry-en-notes.pdf": {
+  "parts": 108,
+  "size": 484310
+ },
+ "pctb-c11-civics-ur-notes.pdf": {
+  "parts": 197,
+  "size": 884970
+ },
+ "pctb-c11-computer-science-en-notes.pdf": {
+  "parts": 58,
+  "size": 257582
  }
 }
