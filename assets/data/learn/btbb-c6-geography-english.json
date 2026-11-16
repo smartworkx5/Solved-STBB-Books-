@@ -1,0 +1,185 @@
+{
+ "book": "btbb-c6-geography-english",
+ "chapters": [
+  {
+   "title": "Chapter 1: Structure of Earth and Types of Rocks",
+   "lessons": [
+    {
+     "title": "Geography and Modern Techniques",
+     "notes_html": "<p>The word <strong>Geography</strong> is made of two Greek words: <em>Geo</em> (earth) and <em>Graphy</em> (description). So geography is the study and description of the earth: its lands, waters, climate, plants, animals and people.</p><h4>Modern Techniques in Geography</h4><p>Today geographers use computers and satellites to study the earth:</p><ul><li><strong>GIS (Geographic Information System)</strong> — a computer system that stores information about places in layers, analyses it and presents it as maps.</li><li><strong>GPS (Global Positioning System)</strong> — a satellite system. A receiver can find its exact position anywhere on earth where it has a clear line of sight to four or more satellites.</li><li><strong>Google Maps</strong> — uses GPS and map data for navigation and for finding places.</li><li><strong>Remote sensing</strong> — collecting information about distant or hard-to-reach places with special cameras carried by aircraft and satellites.</li><li><strong>Drones</strong> — unmanned aircraft guided by GPS that can reach and photograph far-off targets.</li></ul><h4>Key Points</h4><ul><li>Geography = Geo (earth) + Graphy (description), two Greek words.</li><li>GIS stores place-information in layers and makes maps.</li><li>GPS needs a clear view of four or more satellites.</li><li>Remote sensing gathers information from aircraft and satellites.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Internal Structure of the Earth",
+     "notes_html": "<p>The earth is made of three layers, like the parts of an egg. We live on the thin outer layer.</p><table><tr><th>Layer</th><th>Depth</th><th>Important facts</th></tr><tr><td><strong>Crust</strong></td><td>Oceanic crust 5–7 km thick; continental crust 25–70 km thick</td><td>The outermost layer, made of solid rocks. We live on it.</td></tr><tr><td><strong>Mantle</strong></td><td>About 2900 km deep</td><td>Lies below the crust. Its upper molten part is called the <strong>asthenosphere</strong>; it helps the upper layer to move.</td></tr><tr><td><strong>Core</strong></td><td>2900 km to 6370 km</td><td>The innermost layer. The <strong>outer core</strong> (2900–5150 km) is molten; the <strong>inner core</strong> (5150–6370 km) is solid because of immense pressure. It is mostly iron and nickel.</td></tr></table><h4>Key Points</h4><ul><li>The crust is the outermost and thinnest layer.</li><li>The mantle is about 2900 km deep; its molten upper part is the asthenosphere.</li><li>The inner core is solid iron and nickel, even though it is the hottest part.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Tectonic Plates",
+     "notes_html": "<p>The hard outer shell of the earth is broken into large pieces called <strong>tectonic plates</strong>. These plates move very slowly on the molten asthenosphere below them.</p><p>The idea of plate tectonics was first proposed by <strong>Alfred Wegener</strong>.</p><h4>The Seven Major Plates</h4><ul><li>Pacific Plate</li><li>African Plate</li><li>North American Plate</li><li>Eurasian Plate</li><li>South American Plate</li><li>Antarctic Plate</li><li>Indo-Australian Plate</li></ul><p>When plates push, pull or slide past each other, mountains rise, and earthquakes and volcanoes occur along their edges, which are called <strong>fault lines</strong>.</p><h4>Key Points</h4><ul><li>The earth's shell is divided into moving tectonic plates.</li><li>Alfred Wegener first proposed the idea of plate tectonics.</li><li>There are seven major plates.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Igneous Rocks",
+     "notes_html": "<p><strong>Igneous rocks</strong> are formed when hot molten material cools and becomes solid. Molten rock inside the earth is called <strong>magma</strong>; when it flows out on the surface it is called <strong>lava</strong>.</p><h4>Two Kinds of Igneous Rocks</h4><ul><li><strong>Intrusive igneous rocks</strong> — magma cools slowly <em>inside</em> the earth, so large crystals form. Examples: <strong>granite</strong> and <strong>diorite</strong>.</li><li><strong>Extrusive igneous rocks</strong> — lava cools quickly <em>on the surface</em>, so crystals are small and few. Examples: <strong>andesite</strong> and <strong>basalt</strong>.</li></ul><h4>Features of Igneous Rocks</h4><ul><li>They have no layers.</li><li>They are very hard and dense.</li><li>No fossils are found in them, because the hot magma destroys all living remains.</li></ul><h4>Key Points</h4><ul><li>Igneous rocks form from cooling magma or lava.</li><li>Slow cooling inside the earth gives large crystals (granite).</li><li>Quick cooling on the surface gives small crystals (basalt).</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Sedimentary Rocks",
+     "notes_html": "<p><strong>Sedimentary rocks</strong> are made of small pieces of older rocks, called <strong>sediments</strong>, pressed together in layers.</p><h4>How They Are Formed</h4><ul><li>Wind, water, heat and ice break igneous and metamorphic rocks into small particles.</li><li>These particles are carried away and deposited layer upon layer in low-lying water bodies.</li><li>Pressure from the layers above and cementing material turn them into solid rock.</li></ul><p>Examples of sedimentary rocks are <strong>limestone</strong>, <strong>sandstone</strong> and <strong>shale</strong>.</p><h4>Key Points</h4><ul><li>Sedimentary rocks form from sediments deposited in layers.</li><li>Erosion and deposition are the main processes behind them.</li><li>Limestone, sandstone and shale are common examples.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Metamorphic Rocks and the Rock Cycle",
+     "notes_html": "<p><strong>Metamorphic rocks</strong> are rocks that have changed their properties because of great <strong>heat</strong>, <strong>pressure</strong> or chemical reactions deep inside the earth. A <strong>rock</strong> itself is any naturally occurring, solid, non-living material made of minerals or mineral-like substances.</p><h4>The Rock Cycle</h4><ul><li>Magma cools and forms <strong>igneous rock</strong>.</li><li>Weathering breaks igneous rock into particles; the particles are deposited in layers and pressed into <strong>sedimentary rock</strong>.</li><li>Buried deep, sedimentary rock is changed by heat and pressure into <strong>metamorphic rock</strong>.</li><li>With still more heat, metamorphic rock melts into magma again — and the cycle repeats.</li></ul><h4>Key Points</h4><ul><li>Metamorphic rocks are changed by heat, pressure or chemicals.</li><li>The rock cycle is a continuous process: igneous → sedimentary → metamorphic → magma → igneous.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Mountains, Plateaus and Valleys",
+   "lessons": [
+    {
+     "title": "Mountains and Famous Ranges",
+     "notes_html": "<p>A <strong>mountain</strong> is a part of the earth that is high and sloping compared with the surrounding surface. Mountains are formed in different ways, including tectonic movements of the earth and volcanic activity.</p><h4>Famous Mountain Ranges</h4><ul><li><strong>Himalayas</strong> — the highest mountain range in the world, in Asia. <strong>Mount Everest</strong>, the highest peak in the world, is in this range.</li><li><strong>Karakoram</strong> — in Pakistan; its peak <strong>K2</strong> is the highest peak of Pakistan and the second highest in the world.</li><li><strong>Hindu Kush</strong> — in the north-west of Pakistan.</li><li><strong>Rockies</strong> — in North America.</li><li><strong>Andes</strong> — in South America.</li></ul><h4>Ranges of Pakistan and Balochistan</h4><p>Other ranges described in this chapter are the <strong>Koh-e-Sufaid</strong>, the <strong>Koh-e-Sulaiman</strong> and the <strong>Kirthar Range</strong>. In Balochistan there are the <strong>Toba Kakari Range</strong> and the <strong>Ras Koh Range</strong>.</p><h4>Key Points</h4><ul><li>The Himalayas are the highest range; Mount Everest is the highest peak.</li><li>K2, in the Karakoram, is Pakistan's highest peak.</li><li>The Rockies are in North America and the Andes in South America.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Plateaus and Their Types",
+     "notes_html": "<p>A <strong>plateau</strong> is a high, flat-topped area of land. There are three types of plateaus:</p><table><tr><th>Type</th><th>Meaning</th><th>Example</th></tr><tr><td><strong>Intermountain plateau</strong></td><td>Surrounded on all sides by high mountain ranges</td><td>Tibetan Plateau</td></tr><tr><td><strong>Piedmont plateau</strong></td><td>Lies at the foot of high mountains; mountain on one side, plain or sea on the other</td><td>Patagonia Plateau (southern Argentina)</td></tr><tr><td><strong>Continental plateau</strong></td><td>Has plains or sea around it and lies far from mountain ranges</td><td>Arabian Plateau</td></tr></table><h4>Key Points</h4><ul><li>A plateau is high and flat.</li><li>Intermountain = between mountains; Piedmont = at the foot of mountains; Continental = far from mountains.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Plains and Their Types",
+     "notes_html": "<p><strong>Plains</strong> are wide, flat or gently rolling low areas. They are classified by how they were formed:</p><ul><li><strong>Structural plains</strong> — formed when internal movements of the earth raise a wide area whose surface is flat. Examples: the Great Plains of North America and the steppes of Asia and Eastern Europe.</li><li><strong>Erosional plains</strong> — formed when heat, ice, water and wind wear down high areas and carry the material elsewhere. Example: the plains of northern Canada.</li><li><strong>Depositional plains</strong> — formed when material carried by rivers, water, sea and glaciers is deposited layer upon layer.</li></ul><h4>Key Points</h4><ul><li>Plains are flat lowlands.</li><li>They can be structural (raised by earth movements), erosional (worn down) or depositional (built up by deposits).</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "V-shaped and U-shaped Valleys",
+     "notes_html": "<p>A <strong>valley</strong> is a low area between mountains or hills, usually with a river or glacier flowing through it.</p><h4>V-shaped Valleys</h4><p>A V-shaped valley is formed by <strong>river erosion</strong>. The river cuts into the surface over which it flows and carries the broken material to low-lying areas, so the valley keeps getting deeper and takes the shape of the English letter <strong>V</strong>.</p><h4>U-shaped Valleys</h4><p>A U-shaped valley is formed by a <strong>glacier</strong> — a large mass of ice moving down a slope. When a glacier moves through an existing river valley, its enormous weight breaks up the ground ahead of it and carries it along. After the glacier passes, the valley is left in a <strong>U</strong> shape, wider than a V-shaped valley.</p><h4>Key Points</h4><ul><li>Rivers make narrow V-shaped valleys.</li><li>Glaciers widen valleys into U shapes.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Importance of the Himalayas for Pakistan",
+     "notes_html": "<p>The northern mountain ranges — the Himalayas, Karakoram and Hindu Kush — are very important for Pakistan:</p><ul><li>They form natural <strong>northern and western boundaries</strong> of the country, and the Himalayas form the northern boundary of the subcontinent.</li><li>Moist <strong>monsoon winds</strong> from the Indian Ocean strike these mountains, rise and give rainfall.</li><li>All the <strong>rivers of Pakistan</strong> come through these mountains, and melting snow adds water to them.</li><li>They <strong>block the cold Siberian winds</strong> in winter.</li><li>They attract <strong>tourists and climbers</strong> from all over the world to their high peaks, lakes and valleys.</li><li>Valuable <strong>stones, plants, animals and minerals</strong> are found in them.</li></ul><h4>Key Points</h4><ul><li>The northern ranges protect Pakistan, bring rain, feed its rivers and stop cold winds.</li><li>Pakistan's prosperity depends on the river water that comes from these mountains.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Climatic Regions of the World",
+   "lessons": [
+    {
+     "title": "Weather and Climate",
+     "notes_html": "<p><strong>Weather</strong> is the atmospheric condition of a small place for a short time. It keeps changing all the time — even from hour to hour.</p><p><strong>Climate</strong> is the average condition of the weather of a wide area over many years. At least <strong>thirty years</strong> of weather information is needed to fix the climate of a place, and climate does not change as quickly as weather.</p><h4>Elements of Weather</h4><ul><li>Temperature</li><li>Rainfall</li><li>Wind speed</li><li>Clouds</li><li>Humidity</li><li>Air pressure</li></ul><p>An example of weather is the daily rise and fall of temperature; an example of climate is the average pattern of those temperatures over many years.</p><h4>Key Points</h4><ul><li>Weather = short-term state of the atmosphere of a small place.</li><li>Climate = long-term average over a wide area (at least 30 years of records).</li><li>Weather changes quickly; climate changes very slowly.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Factors That Affect Climate",
+     "notes_html": "<p>Six factors decide the climate of a place:</p><ul><li><strong>Latitude</strong> — the sun's rays fall vertically on the equator all year, so it is warm; towards the poles the rays fall slantingly, so it becomes colder. The amount of solar energy a place receives depends on its distance from the equator.</li><li><strong>Altitude</strong> — as we go higher above sea level, the air becomes less dense and absorbs less heat of the sun, so higher places are cooler.</li><li><strong>Ocean currents</strong> — warm currents warm the nearby climate and cold currents cool it. The warm <strong>Gulf Stream</strong> makes western Europe warm; the cold <strong>California current</strong> makes the west coast of North America cold.</li><li><strong>Topography</strong> — mountains block the wind, making one side moist and the other side dry.</li><li><strong>Distribution of land and sea</strong> — land heats and cools quickly; water heats and cools slowly.</li><li><strong>Prevailing winds</strong> — winds from cold areas are cold, from warm areas warm, from the sea moist, and from deserts hot and dry.</li></ul><h4>Key Points</h4><ul><li>Latitude, altitude, ocean currents, topography, land–sea distribution and prevailing winds control climate.</li><li>Near the poles is the polar zone, which experiences extremely cold temperatures.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "The Tropical Zone",
+     "notes_html": "<p>The earth is divided into heat zones. The <strong>tropical zone</strong> lies on both sides of the equator, between the <strong>Tropic of Cancer</strong> (23.5° north latitude) and the <strong>Tropic of Capricorn</strong> (23.5° south latitude).</p><ul><li>It is very hot throughout the year; the average annual temperature is more than <strong>26°C</strong>.</li><li>Rainfall is heavy — the highest annual rainfall exceeds <strong>1500 mm</strong>.</li><li><strong>Rainforests</strong> grow here, holding more than half of all the plant and animal species of the world.</li><li>The <strong>Amazon rainforests</strong> are the largest tropical rainforests in the world.</li><li>Some parts of this zone get little rain and have a semi-arid climate.</li></ul><h4>Key Points</h4><ul><li>The tropical zone lies between 23.5° N and 23.5° S.</li><li>Hot all year, heavy rain, and the richest rainforests of the world.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Monsoon Winds",
+     "notes_html": "<p>A <strong>monsoon</strong> is a system of seasonal winds. The word comes from the Arabic word <em>mausam</em>, which means season. Monsoons blow on both sides of the equator, roughly between 26° north and 23° south latitude.</p><h4>Summer Monsoon</h4><p>In summer, pressure becomes high over the sea and low over the land of the subcontinent. Winds blow from the sea towards the land. Coming from the sea, they are full of water vapour; they rise on reaching land and cause <strong>rainfall</strong>.</p><h4>Winter Monsoon</h4><p>In winter the system reverses: pressure is low over the sea and high over the land, so winds blow from land to sea. These winds are dry and cold, so the climate becomes dry and cold with almost no rain.</p><h4>Why Monsoons Matter</h4><ul><li>Summer monsoon rains supply water to the rivers.</li><li>They benefit agriculture, because the crops get water.</li><li>Sometimes these heavy rains can also cause floods.</li></ul><h4>Key Points</h4><ul><li>Monsoon winds change direction with the season.</li><li>Summer monsoon: sea → land, brings rain. Winter monsoon: land → sea, dry and cold.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Forests of the World",
+   "lessons": [
+    {
+     "title": "Forests — Lungs of the Earth",
+     "notes_html": "<p>Forests are called the <strong>lungs of the Earth</strong> because they produce <strong>oxygen</strong> through photosynthesis, which all living things need to breathe.</p><ul><li>Forests absorb <strong>carbon</strong> from the atmosphere every year. This reduces greenhouse gases and slows down global climate change.</li><li>When forests are cut down, the stored carbon is released back into the atmosphere and adds to <strong>global warming</strong>.</li><li>Forests are home to a very large number of plant and animal species.</li></ul><h4>Key Points</h4><ul><li>Forests give oxygen and take in carbon — that is why they are called the lungs of the Earth.</li><li>Cutting forests releases carbon and increases global warming.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Tropical and Subtropical Forests",
+     "notes_html": "<p><strong>Tropical rainforests</strong> grow near the equator, where temperatures and humidity are high and rainfall is abundant throughout the year. Because of this, they have a great diversity of species.</p><p><strong>Subtropical forests</strong> lie just north and south of the tropical rainforests. They are so similar that it is difficult to distinguish them from true rainforests.</p><h4>The Amazon Rainforest</h4><p>The <strong>Amazon</strong> is the largest rainforest in the world. It produces a significant portion of the world's oxygen. But it is under immense pressure from:</p><ul><li>Agriculture, especially beef and soy production</li><li>Logging operations</li><li>Population growth — more people need land for housing, farming and roads</li></ul><h4>Key Points</h4><ul><li>Tropical rainforests: near the equator, hot, wet, richest in species.</li><li>The Amazon is the largest rainforest and is threatened by farming, logging and settlement.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Temperate and Boreal Forests",
+     "notes_html": "<p><strong>Temperate forests</strong> grow in regions like North America, Europe and East Asia. They experience <strong>four distinct seasons</strong> — spring, summer, autumn and winter.</p><p><strong>Boreal forests</strong>, also called <strong>taiga</strong>, stretch across northern Russia, Scandinavia and Canada. They lie in high northern latitudes with extremely cold temperatures and long winters, and are dominated by <strong>coniferous trees</strong> (trees with cones and needle-like leaves, such as pine and fir).</p><table><tr><th>Forest type</th><th>Where</th><th>Main feature</th></tr><tr><td>Tropical rainforest</td><td>Near the equator</td><td>High biodiversity, rain all year</td></tr><tr><td>Subtropical forest</td><td>Just north and south of the tropics</td><td>Very similar to rainforest</td></tr><tr><td>Temperate forest</td><td>North America, Europe, East Asia</td><td>Four distinct seasons</td></tr><tr><td>Boreal forest (taiga)</td><td>Northern Russia, Scandinavia, Canada</td><td>Coniferous trees, very cold</td></tr></table><h4>Key Points</h4><ul><li>Temperate forests have four seasons.</li><li>Boreal forests (taiga) are cold coniferous forests of the far north.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Forests of Pakistan",
+     "notes_html": "<p>Pakistan has several kinds of forests:</p><ul><li><strong>Riverine forests</strong> — locally called <strong>bela</strong>. They grow along riverbanks, mainly along the Indus River and its tributaries in Sindh, on active flood plains.</li><li><strong>Mangrove forests</strong> — grow in coastal and delta regions, in both brackish and fresh water, including the <strong>Indus Delta</strong>.</li><li><strong>Alpine forests</strong> — occur at high altitudes above the tree line (about 4000 metres), with dwarf shrubs, grasses and hardy plants.</li><li><strong>Irrigated plantations</strong> — man-made forests grown where canal water is available. The famous example is <strong>Changa Manga</strong>.</li><li><strong>Coniferous forests</strong> — in the northern areas.</li><li><strong>Juniper forest of Ziarat</strong> — in Balochistan.</li></ul><p>Forests matter for Pakistan because they regulate temperature, humidity and rainfall, take part in the carbon cycle, and significantly affect the economy.</p><h4>Key Points</h4><ul><li>Bela (riverine), mangrove, alpine, coniferous and irrigated plantations are Pakistan's main forest types.</li><li>Changa Manga is a man-made irrigated plantation; Ziarat's juniper forest is in Balochistan.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Deforestation",
+     "notes_html": "<p><strong>Deforestation</strong> is the permanent removal or clearing of forests to use the land for other purposes, such as agriculture, urban development or infrastructure projects.</p><h4>Harms of Deforestation</h4><ul><li>Loss of trees and <strong>biodiversity</strong> (many species lose their homes).</li><li>Harm to ecosystems, climate and wildlife.</li><li>Stored carbon is released, which increases global warming.</li><li>Without tree roots, soil is washed away and flood risk increases.</li></ul><h4>Key Points</h4><ul><li>Deforestation means clearing forests permanently for other land uses.</li><li>It harms species, climate and soil, and increases flooding.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Natural Disasters",
+   "lessons": [
+    {
+     "title": "What Is a Natural Disaster?",
+     "notes_html": "<p>A <strong>natural disaster</strong> is any adverse event caused by natural processes — such as weather or geologic activity — that negatively impacts human life, property or the environment. Disasters cause loss of life, destruction of infrastructure and economic setbacks, and they disturb the smooth working of society.</p><h4>Why Developing Countries Suffer More</h4><ul><li>Their buildings often do not follow strict <strong>building codes</strong>, so they are more likely to collapse in earthquakes or floods.</li><li>Poor roads and bridges hinder evacuation and rescue work.</li><li>They lack the money to invest in disaster preparedness.</li><li>Rapid, unplanned urbanisation crowds people into informal settlements that are very vulnerable.</li><li>Environmental damage, such as deforestation, increases the risk of landslides and flooding.</li></ul><h4>Key Points</h4><ul><li>A natural disaster is a harmful event caused by natural processes.</li><li>Weak buildings, poor roads, less money and unplanned cities make developing countries more vulnerable.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Earthquakes",
+     "notes_html": "<p>An <strong>earthquake</strong> is the shaking of the earth. It is caused when stress built up along a <strong>fault line</strong> — a zone of weakness in the earth's crust — is suddenly released.</p><ul><li>Several major fault lines run through Pakistan, including the <strong>Chaman Fault</strong> and the <strong>Ornach Fault</strong>.</li><li>Balochistan is highly vulnerable to earthquakes because of these fault lines.</li><li>In <strong>1935</strong>, a powerful earthquake demolished the whole city of <strong>Quetta</strong> and caused widespread destruction and loss of life.</li></ul><h4>Key Points</h4><ul><li>Earthquakes happen when stress along a fault line is released.</li><li>The Chaman and Ornach faults pass through Balochistan.</li><li>The 1935 earthquake destroyed Quetta.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Floods and Droughts",
+     "notes_html": "<p>A <strong>flood</strong> is water overflowing from its channel due to heavy rainfall. Intense monsoon rains cause widespread flooding that harms homes and infrastructure. In mountain areas, quick runoff can also cause sudden <strong>flash floods</strong>.</p><p>A <strong>drought</strong> is a long dry period that leads to water scarcity.</p><h4>Examples from Balochistan</h4><ul><li>From <strong>1998 to 2004</strong>, Balochistan faced one of the worst droughts of its history. It destroyed crops, killed many animals and forced many people to leave their homes.</li><li>In <strong>2022</strong>, intense monsoon rains led to disastrous floods in Balochistan; heavy rains in 2010 and 2020 also flooded various districts.</li></ul><h4>Key Points</h4><ul><li>Flood = water overflowing its channel; drought = long dry period with water scarcity.</li><li>Balochistan has suffered both: the 1998–2004 drought and the floods of 2010, 2020 and 2022.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Cyclones and Disasters in Balochistan",
+     "notes_html": "<p><strong>Cyclones</strong> are powerful storms that mostly occur in coastal areas. In Balochistan, the coastal areas near <strong>Gwadar</strong> and <strong>Pasni</strong> are threatened by cyclones from the Arabian Sea, which can cause storm surges and flooding.</p><h4>The Four Common Disasters of Balochistan</h4><ul><li><strong>Earthquakes</strong> — because of the Chaman and Ornach fault lines.</li><li><strong>Droughts</strong> — because of its arid and semi-arid climate.</li><li><strong>Floods</strong> — after intense monsoon rains.</li><li><strong>Cyclones</strong> — along the coast near Gwadar and Pasni.</li></ul><h4>Key Points</h4><ul><li>Balochistan commonly faces earthquakes, droughts, floods and cyclones.</li><li>Cyclones threaten the coast near Gwadar and Pasni.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Effects of Disasters and Global Warming",
+     "notes_html": "<h4>How Disasters Affect Human Life</h4><ul><li>Loss of life and destruction of homes, businesses, roads and other infrastructure.</li><li>Economic losses: farmers lose crops, fishermen lose boats in storms, and shop owners lose their livelihoods.</li><li>People are displaced from their homes — the 2022 Balochistan floods displaced thousands of people and badly damaged agriculture.</li><li>Environmental degradation: deforestation increases landslides and flooding, and poor land management intensifies disasters.</li></ul><h4>Global Warming and Disasters</h4><p><strong>Global warming</strong> increases both the frequency and the intensity of natural disasters. Greenhouse gas emissions from fossil fuels and deforestation drive climate change, which affects weather, sea levels and ecosystems. With climate change, heavy rains become heavier: the intense monsoon rains of 2022 caused disastrous floods in Balochistan, as did the heavy rains of 2010 and 2020. Removing trees also reduces the land's ability to absorb rainfall, so more water runs off the surface and causes floods, and slopes without roots become prone to landslides.</p><h4>Key Points</h4><ul><li>Disasters take lives, homes, livelihoods and displace people.</li><li>Global warming makes disasters more frequent and more intense.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Changing Earth and Human Activities",
+   "lessons": [
+    {
+     "title": "Weathering and Its Types",
+     "notes_html": "<p><strong>Weathering</strong> is the disintegration (breaking down) of rocks into smaller particles. It happens in place, before any removal or transport of the material.</p><h4>Three Types of Weathering</h4><ul><li><strong>Physical (mechanical) weathering</strong> — rocks break without any change in their chemical composition. Example: water enters cracks in a rock, freezes, expands and splits the rock; heat and pressure changes also break rocks.</li><li><strong>Chemical weathering</strong> — the chemical composition of rocks and minerals is modified by chemical reactions. Example: <strong>solution</strong>, in which water dissolves limestone or other soluble rocks.</li><li><strong>Biological weathering</strong> — weathering caused by living organisms. Example: plant roots grow into cracks and break rocks apart; animals and microorganisms also disturb and break down rock material.</li></ul><h4>Key Points</h4><ul><li>Weathering breaks rocks in place; there are three types: physical, chemical and biological.</li><li>Physical weathering is also called mechanical weathering.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Erosion and Its Agents",
+     "notes_html": "<p><strong>Erosion</strong> is the natural process of removal and transportation of weathered materials. Weathering breaks the rock; erosion carries the pieces away.</p><h4>Agents of Erosion</h4><ul><li><strong>Water</strong> — rivers, rain and sea waves (a major factor)</li><li><strong>Ice</strong> — glaciers</li><li><strong>Wind</strong> — a major factor, especially in dry areas</li></ul><h4>River Erosion</h4><p><strong>River erosion</strong> is the process by which rivers and streams wear away their banks and beds, transport sediment downstream and reshape the landscape. It is a key part of the fluvial system and shapes river valleys, floodplains and deltas.</p><h4>Key Points</h4><ul><li>Erosion = removal + transport of weathered material.</li><li>Water, ice and wind are its agents; water and wind are the biggest factors.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Landforms Made by Rivers",
+     "notes_html": "<ul><li><strong>V-shaped valleys</strong> — steep, straight sides and a narrow valley floor, cut by the river as it wears away its banks and bed.</li><li><strong>Waterfalls</strong> — formed when a river meets a sudden change in elevation or a resistant rock layer it cannot easily erode, so the water drops vertically over a cliff edge.</li><li><strong>Rapids</strong> — where a river flows fast over a shallow gradient or an uneven riverbed.</li><li><strong>Ox-bow lakes</strong> — formed when a meander (bend) is cut off from the main river channel; the cut-off loop remains as a standing body of water shaped like an ox-bow.</li><li><strong>Floodplains and deltas</strong> — built where the river deposits the sediment it carries.</li></ul><h4>Key Points</h4><ul><li>Rivers carve V-shaped valleys, waterfalls and rapids.</li><li>A cut-off meander becomes an ox-bow lake.</li><li>Deposition by rivers builds floodplains and deltas.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Landforms Made by Wind",
+     "notes_html": "<ul><li><strong>Dunes</strong> — accumulations of sand shaped by the wind into various forms.</li><li><strong>Mushroom rocks</strong> — the base of the rock erodes faster than the top (because of differences in rock hardness), leaving a narrow stem and a wider top, like a mushroom.</li><li><strong>Yardangs</strong> — streamlined, extended ridges formed by wind abrasion and deflation, aligned with the direction of the prevailing wind.</li><li><strong>Deflation basins (blowout basins)</strong> — depressions formed when wind removes fine sediment such as sand or silt from the surface over time. <strong>Deflation</strong> means this removal of loose, fine particles by wind, which lowers the ground surface.</li></ul><h4>Key Points</h4><ul><li>Wind shapes dunes, mushroom rocks and yardangs.</li><li>Deflation lowers the surface and can form blowout basins.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "How Human Activities Increase Erosion",
+     "notes_html": "<p>Human activities can greatly speed up erosion:</p><ul><li><strong>Deforestation</strong> — removes the vegetation that protects the soil, so rain runs off the surface instead of being absorbed, increasing floods and landslides.</li><li><strong>Agriculture</strong> — turning the soil for planting exposes it, leading to soil compaction and erosion.</li><li><strong>Construction and development</strong> — paved surfaces reduce infiltration and increase surface runoff; excavation and grading disturb the soil.</li><li><strong>Mining</strong> — clearing vegetation, removing topsoil and excavating land expose the ground to erosion by wind and water.</li><li><strong>Poor land management</strong> — especially overgrazing, which compacts the soil and removes vegetation cover.</li><li><strong>Coastal activities</strong> — building harbours and embankments alters coastal processes and can increase erosion in nearby areas.</li></ul><h4>Key Points</h4><ul><li>Deforestation, farming, construction, mining, overgrazing and coastal building all increase erosion.</li><li>Plants and roots protect the soil; removing them is the root cause in most cases.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  }
+ ]
+}
