@@ -1,0 +1,285 @@
+{
+ "book": "pctb-c5-general-science-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Classification of Living Organisms",
+   "lessons": [
+    {
+     "title": "Classification of Organisms",
+     "notes_html": "<p>To put organisms into groups on the basis of similarities and differences is called <strong>classification</strong>.</p><h4>Importance of Classification</h4><p>Due to the structure and other characteristics of organisms, we can identify and study them and know the relationships among them. Classification also helps us conserve biodiversity.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "The Five Kingdoms",
+     "notes_html": "<p>Organisms are divided into five kingdoms on the basis of similarities and differences: <strong>Monera</strong>, <strong>Protista</strong>, <strong>Fungi</strong>, <strong>Plantae</strong> and <strong>Animalia</strong>.</p><h4>Monera and Protista</h4><p>Monera: These organisms are made of one cell and their structure is very simple, for example bacteria.</p><p>Protista: Most of them live in water, for example amoeba and paramecium.</p><h4>Fungi and Animals</h4><p>Both fungi and animals cannot make their own food. They depend on other organisms or dead matter for their food.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Monocot and Dicot Plants",
+     "notes_html": "<p>Flowering plants whose seeds have <strong>one cotyledon</strong> are called <strong>monocot plants</strong> — for example sugarcane, wheat, rice, bamboo and maize. Flowering plants whose seeds have <strong>two cotyledons</strong> are called <strong>dicot plants</strong> — for example mango, guava, rose and pea. In monocot leaves the veins are parallel to each other, while dicot leaves have veins in the form of a net.</p><h4>Key Facts</h4><ul><li>A gram seed has <strong>two cotyledons</strong>, so gram is a dicot plant.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Vertebrates",
+     "notes_html": "<p>All vertebrates have a backbone in their body. They are classified into fish, amphibians, reptiles, birds and mammals on the basis of their characteristics.</p><h4>Key Facts</h4><ul><li>The foot of an aquatic bird is the <strong>webbed foot</strong> — the foot with skin between the toes, which helps the bird swim. (In the book, the options for this point are pictures of feet.)</li><li>The cat belongs to the group of <strong>mammals</strong>.</li><li>A fish respires through <strong>gills</strong>.</li></ul><h4>Amphibians and Reptiles</h4><p>Amphibians live both in water and on land, have moist skin and lay their eggs in water, for example the frog. Reptiles live on land, have dry and scaly skin and lay their eggs on land, for example the lizard and the snake.</p><h4>Importance of Cartilage</h4><p>Cartilage is light and flexible. A skeleton of cartilage makes the body of the shark and the sting ray light, so they can swim easily and move flexibly in water.</p><h4>Stripes of the Zebra</h4><p>The black and white stripes break up the zebra's outline in tall grass and confuse predators, so the stripes help the zebra hide from its enemies.</p><h4>Large Ears of the Elephant</h4><p>Elephants live in a hot climate. Their large ears help them release body heat and keep cool.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Invertebrates",
+     "notes_html": "<p>Invertebrates do not have any type of bone inside the body. Their major groups are sponges, worms, insects, molluscs and echinoderms.</p><h4>Key Facts</h4><ul><li><strong>Echinoderms</strong> are the group found only in the ocean.</li></ul><h4>Worms and Insects</h4><p>Worms have soft bodies without legs, for example the earthworm. Insects have six legs, three body parts (head, thorax and abdomen) and antennae, for example the ant and the butterfly.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Biodiversity and Its Conservation",
+     "notes_html": "<h4>Biodiversity</h4><p>The variety of plants and animals found in a particular place is called biodiversity.</p><p>Organisms that are no longer found in this world are called <strong>extinct</strong>, for example dinosaurs. Organisms that are very likely to become extinct in the near future are called <strong>endangered</strong>, for example the Bengal tiger and the rhinoceros; in Pakistan the snow leopard, green turtle, hawk, Indus dolphin and markhor are endangered.</p><h4>Activities</h4><ul><li>4. Investigate: Investigate the factors responsible for the extinction of biodiversity. Give an example of an extinct and an endangered animal. Investigate what types of animals are most likely to become extinct.</li><li>5. Project: Album of Animals — Cut pictures of two animals from each of the five groups of vertebrates, paste them in an album and write the characteristics of each animal with its picture.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Microorganisms",
+   "lessons": [
+    {
+     "title": "Microorganisms and Their Main Groups",
+     "notes_html": "<p><strong>Microorganisms</strong> are organisms so small that they can only be seen with a microscope. Their main groups include bacteria, viruses, fungi and protozoa.</p><h4>Key Facts</h4><ul><li>Mushrooms belong to the group of <strong>fungi</strong>.</li><li><strong>Penicillium</strong> is an example of fungi.</li><li>An <strong>ant</strong> is not a microorganism — it can be seen with the naked eye.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Role of Microorganisms as Decomposers",
+     "notes_html": "<h4>Decomposers</h4><p>Some bacteria and fungi break down the complex matter of dead bodies into simple materials. Because they decompose dead matter, they are called decomposers.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Spread of Infectious Diseases",
+     "notes_html": "<h4>Pathogens</h4><p>A pathogen is a microorganism that causes disease. It enters the bodies of organisms through air, water, food, animals (for example insect bites) and direct contact.</p><h4>How a Mosquito Transmits Disease</h4><p>A mosquito bites an infected person and takes the pathogen into its body. When it bites another person, it injects the pathogen into that person's body. For example, the female Anopheles mosquito spreads malaria in this way.</p><h4>Key Facts</h4><ul><li>Polio is caused by a <strong>virus</strong>.</li><li>Food is contaminated due to the presence of <strong>microorganisms</strong> in the environment.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Useful Role of Microorganisms",
+     "notes_html": "<h4>Bacteria — Benefits and Harmful Effects</h4><p>Benefits of bacteria: They are used to prepare foods like yoghurt, and they decompose dead matter and help make medicines.</p><p>Harmful effects of bacteria: They cause diseases like typhoid and cholera, and they spoil food.</p><h4>How Yeast Makes Dough Rise</h4><p>Yeast feeds on the sugar in the dough and releases carbon dioxide gas. The gas forms bubbles in the dough, which soften it and make it rise.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Preventing Infections",
+     "notes_html": "<h4>Where Fallen Leaves Decompose Faster</h4><p>Decomposition of fallen leaves will happen more quickly in the forest of hot climate. The soil there is always hot and moist, and microorganisms grow and work faster in hot and moist conditions than in cold and dry soil.</p><h4>Excessive Use of Antibacterial Soap</h4><p>Excessive use of antibacterial soap kills the useful bacteria on the skin as well, and the harmful bacteria that survive can become resistant. This disturbs the skin's natural protection, so the chance of getting an infection increases instead of decreasing.</p><h4>Activities</h4><ul><li>4. Investigate: “All microorganisms are harmful and cause diseases”. Prove that this idea is incorrect — for example, bacteria are used to make yoghurt and bread, fungi like yeast are used in baking, and many microorganisms decompose dead matter and are used to make medicines.</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Flowers and Seeds",
+   "lessons": [
+    {
+     "title": "The Flower and Its Parts",
+     "notes_html": "<h4>Four Parts of a Flower</h4><p>The four parts of a flower are: (1) Sepals — green leaflets that protect the internal structures. (2) Petals — coloured leaflets that attract insects and birds. (3) Stamens — the male reproductive part, consisting of the anther (where pollen grains are formed) and the filament (which supports the anther). (4) Carpel — the female reproductive part, consisting of the stigma (where pollen grains adhere), the style and the ovary (which has ovules).</p><h4>Labelling a Flower</h4><p>Label the parts of the flower as follows: sepal, petal, stamen (anther and filament), carpel (stigma, style and ovary), ovule and pedicel (the stalk of the flower).</p><h4>Reproductive Parts of a Flower</h4><p>The reproductive parts in the picture are A (the anther, the male part) and D (the ovary, the female part). B is the sepal and C is the petal, which are not reproductive parts. Note: the book's printed options are groups of three and none of them equals A and D exactly.</p><h4>Activities</h4><ul><li>5. Project: Collect five different types of flowers. See in which flowers sepals, petals, stamens and carpels are present and in which these are not present. Compare these structures in different flowers. Also make a model of a flower using low-cost or no-cost material.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Pollination and Its Types",
+     "notes_html": "<p><strong>Reproduction</strong> is the process by which organisms produce new organisms of their own kind for the continuation of their generation.</p><h4>Self-Pollination and Cross-Pollination</h4><p>In self-pollination, pollen grains are transferred from the anther of a flower to the stigma of the same flower or of another flower of the same plant. In cross-pollination, pollen grains are transferred from the anther of a flower to the stigma of a flower of a different plant of the same kind.</p><h4>Key Facts</h4><ul><li>For papaya, <strong>cross pollination</strong> is a must.</li></ul><h4>Activities</h4><ul><li>3. ii. Observe the given pictures of flowers. For which type of pollination are the shapes and structures of the flowers suitable? (Answer from the pictures in the book: flowers with large, coloured petals and exposed reproductive parts are suited to cross-pollination by insects.)</li><li>4. Investigate: If all the insects become extinct, what will be its effect on flowering plants? (Insects carry out pollination; without them, cross-pollination would stop and many flowering plants could not form seeds.)</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Structure of a Seed",
+     "notes_html": "<h4>Key Facts</h4><ul><li>In a dicot seed, the <strong>cotyledon stores food for the embryo</strong>.</li><li>The gram seed is covered by the <strong>seed coat</strong>.</li></ul><h4>Gram Seed and Maize Seed</h4><p>The gram seed is a dicot seed: it has two cotyledons, which store food for the embryo. The maize seed is a monocot seed: it has one cotyledon, and it consists of a seed coat and an embryo.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Germination of Seeds",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The conditions necessary for seed germination are <strong>water, suitable temperature and air</strong>.</li></ul><h4>Role of Water in Germination</h4><p>Water is necessary for seed germination. It softens the seed coat and activates the embryo, so the seed can germinate. In the pictures, seeds germinate in plain water, but they do not germinate properly in water with salts, sugar or vinegar, because these disturb germination.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Environmental Pollution",
+   "lessons": [
+    {
+     "title": "Environmental Pollution and Its Types",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The germs present in <strong>sewerage water</strong> cause typhoid.</li><li>A <strong>polythene bag</strong> is non-biodegradable — it does not decompose in the soil.</li></ul><h4>Main Cause of Pollution</h4><p>The main cause of pollution is human activity — smoke from factories and vehicles, untreated sewerage and factory waste thrown into water, and non-biodegradable wastes like polythene bags.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Effects of Pollution on Life",
+     "notes_html": "<h4>Key Facts</h4><ul><li><strong>Lung cancer</strong> is a disease caused by air pollution.</li></ul><h4>Four Effects of Pollution</h4><p>Four effects of pollution on life: it causes diseases like lung cancer, typhoid and cholera; it harms plants and animals; it disturbs the balance of nature; and it damages the environment in which we live.</p><h4>Activities</h4><ul><li>4. Investigate: What is the relationship between diseases and pollution? (Polluted air causes lung diseases, polluted water causes typhoid, cholera and diarrhea, and polluted soil and surroundings spread germs.)</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Greenhouse Effect and Global Warming",
+     "notes_html": "<h4>Key Facts</h4><ul><li><strong>Oxygen</strong> is NOT a greenhouse gas. Carbon dioxide, methane and ozone are greenhouse gases.</li></ul><h4>Greenhouse Effect</h4><p>The greenhouse effect is the warming of the Earth because greenhouse gases (like carbon dioxide, methane and ozone) trap the Sun's heat in the atmosphere and do not let it escape back into space.</p><h4>Effects of Global Warming</h4><p>Global warming raises the temperature of the Earth, melts glaciers and ice, raises the sea level, disturbs rainfall and seasons, and harms plants, animals and human life.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Preventive Measures to Reduce Pollution",
+     "notes_html": "<h4>Key Facts</h4><ul><li><strong>Burning rubber</strong> acts as a source of air pollution.</li></ul><h4>Three Preventive Measures</h4><p>Three preventive measures to reduce pollution: do not burn rubber and plastic; dispose of wastes properly instead of throwing them into water; and plant more trees and use polythene bags less.</p><h4>Why Polythene Bags Are Banned</h4><p>The Government of Pakistan has banned the use of polythene bags because they are non-biodegradable: they do not decompose, they block drains, pollute soil and water, and harm animals that eat them.</p><h4>D2W Bags</h4><p>Bags marked D2W contain an additive that makes the plastic break down into small pieces after some time, so they are degradable and are not covered by the ban on ordinary non-degradable polythene bags.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Physical and Chemical Changes of Matter",
+   "lessons": [
+    {
+     "title": "Physical Changes in Matter",
+     "notes_html": "<h4>Key Facts</h4><ul><li>Making a paper boat is <strong>not a chemical change</strong> — it is a physical change.</li><li>When metal expands on heating, the change is a <strong>physical</strong> change.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Changes in States of Matter",
+     "notes_html": "<h4>Three States of Matter and Their Interconversion</h4><p>The three states of matter are solid, liquid and gas. They can change into one another: a solid melts into a liquid on heating, a liquid evaporates into a gas, a gas condenses into a liquid on cooling, and a liquid freezes into a solid on cooling.</p><h4>Evaporation</h4><p>Evaporation is the change of a liquid into gas (vapours) from its surface, without boiling. Examples from everyday life: wet clothes dry in the Sun, water in a cup decreases when left open, and a wet floor dries after some time.</p><h4>Condensation</h4><p>Condensation is the change of a gas into a liquid. For example, water vapours in the air condense into drops of water on a cold surface.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Dissolving Substances in Water",
+     "notes_html": "<h4>Key Facts</h4><ul><li>Adding salt in water will <strong>not affect the dissolving of sugar</strong> in water. Stirring, heating, and making the sugar powder finer do affect how fast sugar dissolves.</li></ul><h4>Weight of Melted Ice</h4><p>The weight of the water will be the same as the weight of the ice. Melting is a physical change: only the state changes from solid to liquid, and no matter is added or lost, so the mass remains the same.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Chemical Changes in Matter",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The change of milk into yogurt is a <strong>chemical change</strong>.</li><li>A person paints his iron gate to save it from rusting and from water — reasons <strong>1 and 4</strong>.</li></ul><h4>Rusting</h4><p>Rusting is the change that occurs on the surface of iron due to the action of oxygen and water, which forms a brown layer on iron. It is a chemical change, because a new material with new properties is formed.</p><h4>A Chemical Change Producing Carbon Dioxide</h4><p>When vinegar is mixed with baking soda, bubbles of carbon dioxide gas are formed. Burning of wood also produces carbon dioxide.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Physical and Chemical Changes Compared",
+     "notes_html": "<h4>Loss of Weight When Vinegar Meets Baking Soda</h4><p>When vinegar and baking soda are mixed, bubbles of carbon dioxide gas are formed and the gas escapes into the air. Because the gas leaves the mixture, the weight of the mixture becomes less than before.</p><h4>Bubbles in Vinegar and in Boiling Water</h4><p>On mixing vinegar and boiling water, bubbles are formed in both cases, but they are different changes. The bubbles in vinegar are a chemical change, because vinegar reacts and a new gas (carbon dioxide) is formed. The bubbles in boiling water are a physical change, because only water changes into steam and no new material is formed.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Light and Sound",
+   "lessons": [
+    {
+     "title": "Light and Luminous Objects",
+     "notes_html": "<p>The objects which emit light are called <strong>luminous objects</strong>, for example the Sun, a lighted energy saver, an oil lamp and a candle. Objects that do not emit their own light are non-luminous.</p><h4>Key Facts</h4><ul><li>Light travels in air <strong>along a straight line</strong>.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Transparent, Opaque and Translucent Objects",
+     "notes_html": "<h4>Transparent Objects</h4><p>A transparent object is one through which light passes completely, so we can see clearly through it. Three examples: window pane (glass), clean water and clear plastic sheet.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Shadows and Reflection of Light",
+     "notes_html": "<h4>Key Facts</h4><ul><li>A <strong>mirror</strong> reflects the maximum light among white paper, coloured paper, mirror and black paper.</li></ul><h4>Shortest and Longest Shadows</h4><p>Your shadow is the shortest at noon, when the Sun is overhead, and the longest in the morning and evening, when the Sun is low in the sky.</p><h4>Running with Your Shadow</h4><p>No, you cannot be a winner while running with your shadow, because the shadow moves with you. As long as you and the source of light move together, the shadow stays with you and you cannot leave it behind.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Sound and Its Speed",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The speed of sound is maximum in a <strong>metal wire</strong> — sound travels fastest through solids.</li><li>When water comes in the way of sound travelling through air, the <strong>sound becomes fast</strong>, because sound travels faster in water than in air.</li></ul><h4>Sound of a Moving Train</h4><p>When a train is moving away from you, the intensity of its sound will decrease, because the sound has to travel a longer distance to reach you and it spreads out.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Pleasant and Unpleasant Sounds",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The sound of a <strong>tractor</strong> is called noise. The sound of a flute, the rustling of leaves and the chirping of birds are pleasant sounds.</li></ul><h4>Why the Moon Looks Luminous</h4><p>The Moon is non-luminous: it has no light of its own. It looks luminous to us because it reflects the light of the Sun towards the Earth.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7: Electricity and Magnetism",
+   "lessons": [
+    {
+     "title": "Static Electricity",
+     "notes_html": "<h4>Why a Charged Balloon Sticks to a Wall</h4><p>When a balloon is rubbed with a woollen cloth, it gets a static electric charge. When this charged balloon is brought near a wall, it attracts the opposite charge on the wall's surface, so it sticks to the wall.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Electric Circuit and Its Components",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The flow of current in an electric circuit is controlled by a <strong>switch</strong>.</li><li>Current can easily pass through a <strong>steel paperclip</strong> — metals are conductors of electricity.</li></ul><h4>Why a Bulb Lights Up</h4><p>A bulb lights up in a circuit when the circuit is complete: current flows from the cell through the wires and the filament of the bulb, the filament becomes hot and glows.</p><h4>Components Needed to Light a Bulb</h4><p>To light a bulb you also need a cell (battery), connecting wires and a switch, so that a complete circuit can be made.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Magnets and Their Properties",
+     "notes_html": "<h4>Key Facts</h4><ul><li>A ring-shaped magnet has <strong>2 poles</strong>.</li><li><strong>Like poles repel each other</strong> — the north pole repels the north pole, and unlike poles attract each other.</li></ul><h4>Why a Nail on a Magnet Attracts Another Nail</h4><p>An iron nail stuck to a magnet becomes a magnet itself for some time (magnetism is induced in it), so it attracts another nail.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Magnetic Compass and Directions",
+     "notes_html": "<h4>Key Facts</h4><ul><li>A freely suspended bar magnet always settles in the <strong>north-south direction</strong>.</li></ul><h4>Finding Directions with a Magnetic Compass</h4><p>A magnetic compass has a freely suspended needle which always points in the north-south direction. The end pointing north shows the north direction and the other end shows the south direction; the other directions are found from these.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Ring Magnets on a Stand",
+     "notes_html": "<h4>Why the Upper Magnet Floats</h4><p>The upper magnet floats in the air because the like poles of the two magnets face each other, and like poles repel. The force of repulsion balances the weight of the upper magnet, so it stays suspended.</p><p>Label the poles: the facing ends of the two magnets are like poles (for example both north poles face each other), and the outer ends are the opposite poles.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8: Structure of the Earth",
+   "lessons": [
+    {
+     "title": "Structure of the Earth",
+     "notes_html": "<p>The Earth is made of layers: the outer layer is the <strong>crust</strong>, below it is the mantle, and the innermost part is the core.</p><h4>Key Facts</h4><ul><li>The outer layer of the Earth is called the <strong>crust</strong>.</li></ul><h4>Importance of the Crust</h4><p>The outer layer of the Earth is called the crust. It is important in our life because we live on it: our houses, fields, roads and all land life exist on the crust, and the soil on it gives us food.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Water on the Earth",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The amount of fresh water on the Earth is <strong>about 1%</strong>.</li></ul><h4>Oceans and Sea Water</h4><p>About 71% of the Earth's surface consists of oceans. We cannot drink sea water because it is salty (about 97% of the Earth's water is salty) and is not fit for drinking.</p><h4>Water in Three States</h4><p>Water is found in all three states: as a solid in glaciers and ice, as a liquid in oceans, rivers, lakes and springs, and as a gas (vapours) in the air.</p><h4>The Water Cycle</h4><p>Label the water cycle as follows: water evaporates from oceans, rivers and lakes by the Sun's heat; the vapours rise and condense into clouds; the clouds release water as rain or snow (precipitation); and the rain water flows back into water bodies (collection).</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Soil and Its Types",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The main types of soil are <strong>sand, silt and clay</strong>.</li><li><strong>Silt</strong> is the type of soil good for the growth of plants.</li><li>Living organisms in the soil play the role of <strong>making the soil soft and airy</strong>.</li><li>What is important in natural manure is <strong>the decayed matter</strong> (humus).</li></ul><h4>Clay and Pottery</h4><p>Clay is useful to make pottery. Its properties: it is soft and sticky when wet, so it can be given any shape, and it becomes hard when it dries.</p><h4>Humus</h4><p>Humus is the matter obtained from decayed plants and insects. It makes the soil fertile.</p><h4>Clay for Plastering Houses</h4><p>Clay is used to plaster the houses, because it is sticky and soft when wet and becomes hard and strong when it dries.</p><h4>How Roots and Creatures in the Soil Breathe</h4><p>Plant roots and creatures inside the Earth breathe through the air present in the small pores (spaces) between the soil particles.</p><h4>Layers of Soil in the Figure</h4><p>The given figure shows the layers of soil: the top layer contains humus and small plants, below it is a layer of sand and other minerals, and the fertile (silt) part is the layer good for cultivation.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Floods",
+     "notes_html": "<h4>Activities</h4><ul><li>4. Investigate: You have heard of the devastation caused by floods. What is its reason? How can the surplus water of floods be made useful? (Floods are caused by heavy rain and overflowing rivers; the surplus water can be stored in dams and reservoirs and used for irrigation and drinking.)</li></ul>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9: Space and Satellites",
+   "lessons": [
+    {
+     "title": "Space Exploration",
+     "notes_html": "<h4>Key Facts</h4><ul><li>The countless shining lights seen at night in the sky are <strong>stars</strong>.</li><li><strong>Neil Armstrong</strong> was the first man to step on the Moon.</li><li>The first artificial satellite was sent into space in <strong>1957</strong>.</li></ul><h4>Why Astronauts Wear a Space Dress</h4><p>Astronauts wear a space dress (space suit) because there is no air, very low pressure and extreme temperature in space. The space suit provides oxygen to breathe, maintains suitable pressure and temperature, and protects them from harmful rays and small space particles.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Artificial Satellites and Their Uses",
+     "notes_html": "<h4>Five Benefits of Artificial Satellites</h4><p>Five benefits of artificial satellites: they help in communication (telephone, television and internet); weather forecasting; navigation through GPS; exploring the Earth and space; and defence and disaster management.</p><h4>The Earth as a Satellite</h4><p>Yes, the Earth is also a satellite of a bigger object: the Sun. The Earth revolves around the Sun, just as the Moon revolves around the Earth.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Geostationary Satellites and GPS",
+     "notes_html": "<h4>Key Facts</h4><ul><li>A geo-stationary satellite completes one orbit in <strong>one day</strong>.</li><li>The system that locates the position of an object on the Earth's surface is <strong>GPS</strong> (Global Positioning System).</li></ul><h4>Why a Geo-stationary Satellite Appears Stationary</h4><p>A geo-stationary satellite appears stationary because it completes one orbit in one day (24 hours), exactly the same time in which the Earth completes one rotation. So it stays over the same place on the Earth all the time.</p><h4>Telescopes on Satellites</h4><p>A telescope installed on a satellite takes clearer photographs because there is no atmosphere (air, clouds and dust) in space to disturb the light. On the Earth's surface, the atmosphere blurs the images.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10: Technology in Everyday Life",
+   "lessons": [
+    {
+     "title": "Making Technical Models",
+     "notes_html": "<h4>Making a Model of a Footbridge</h4><p>To make a model of a footbridge you need: cardboard or chart paper, sticks or reeds, glue, string, scissors and colours, as given in the chapter's activity.</p><h4>Tools for a Wooden Model</h4><p>To make a wooden model you need tools and equipment like a saw, hammer, nails, glue, measuring scale, pencil and sandpaper, along with safety precautions while using them.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "Spirit Level and Plumb Line",
+     "notes_html": "<h4>Key Facts</h4><ul><li>We check the horizontal surface level by using a <strong>spirit level</strong>.</li><li>A mason uses a <strong>plumb line</strong> to keep a wall vertical.</li></ul><h4>Spirit Level and Plumb Line Compared</h4><p>A spirit level is used to check whether a surface is horizontal (level), while a plumb line is used to check whether a wall or line is vertical (straight up and down).</p><h4>Hanging a Picture Frame Straight</h4><p>Use a spirit level to keep the frame straight horizontally, and a plumb line to keep it straight vertically. Adjust the frame until the bubble of the spirit level is in the centre and the plumb line hangs straight along the side.</p>",
+     "mcqs": []
+    },
+    {
+     "title": "LED Light Strings",
+     "notes_html": "<h4>The LED</h4><p>An LED is a Light Emitting Diode: a small electronic device that gives light when electric current passes through it. It uses very little electricity and lasts long.</p><h4>Joining the Wires of LEDs</h4><p>Long wires of LEDs and short wires must be joined together while preparing a light string so that all the LEDs are connected in the correct order (positive to negative) and the circuit is complete, otherwise the lights will not glow.</p><h4>Activities</h4><ul><li>4. Investigate: You are provided a 6 volt battery, one strip of cardboard and 12 blue colour LEDs. How will you make a light for decoration? (Connect the LEDs in a proper series/parallel circuit on the cardboard strip with the battery, joining long wires to short wires, and test the light.)</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "Sound and Models",
+     "notes_html": "<h4>How a Musical Instrument Produces Sound</h4><p>A musical instrument produces sound by vibration: when a part of the instrument vibrates (for example a string, a drum skin or air in a pipe), it makes the air around it vibrate, and these vibrations reach our ears as sound.</p><h4>Activities</h4><ul><li>5. Project: Make a model of a cot (charpai) by using two reeds of different thickness, glue, knife, steel pins and strings.</li></ul>",
+     "mcqs": []
+    },
+    {
+     "title": "First Aid",
+     "notes_html": "<h4>Key Facts</h4><ul><li>Saline water is used for <strong>cleaning wounds</strong>.</li><li>Sterilized gauze is used <strong>as a bandage on a wound</strong>.</li><li>The emergency phone call number is <strong>1122</strong>.</li></ul><h4>First Aid</h4><p>First aid is the immediate help given to an injured or sick person before proper medical treatment arrives, for example cleaning a wound, stopping bleeding and bandaging it.</p>",
+     "mcqs": []
+    }
+   ]
+  }
+ ]
+}
