@@ -1,0 +1,3394 @@
+{
+ "book": "islamiat-3-en",
+ "chapters": [
+  {
+   "title": "Al-Quran-Al-Kareem",
+   "lessons": [
+    {
+     "title": "Reading the Quran: Arabic Alphabets (Huroof) and Diacritical Marks (Harakaat)",
+     "notes_html": "<h4>Reading the Holy Quran</h4>\n<p>The first part of this chapter teaches us to read the Holy Quran correctly. For correct reading, we must first know the <b class=\"key\">Arabic Alphabets</b> and their marks.</p>\n<h4>Arabic Alphabets (Huroof-e-Hijaa)</h4>\n<ul>\n<li>There are <b class=\"key\">29 Arabic Alphabets</b>, called <b class=\"key\">Huroof-e-Hijaa</b>.</li>\n<li>Another name of these alphabets is <b class=\"key\">Huroof-e-TaHajji</b>.</li>\n<li>These alphabets (huroof) are joined together to make words.</li>\n<li>The 29 huroof in order are: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ک ل م ن و ہ ء ی</li>\n</ul>\n<h4>Letters Without Dots</h4>\n<p>Some huroof have dots (nuqta) and some have no dots at all. Five huroof which have <b class=\"key\">no dots</b> are: Alif (ا), Haa (ح), Daal (د), Seen (س) and Kaaf (ک).</p>\n<ul>\n<li>Tha is spelled as <b class=\"key\">ثا</b>, just as Baa is spelled with Alif.</li>\n<li>Suad is written as <b class=\"key\">ص</b>, Seen is written as <b class=\"key\">س</b> and Tha is written as <b class=\"key\">ث</b>.</li>\n<li>The harf which comes just before Meem (م) is <b class=\"key\">Laam (ل)</b>.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Arabic Alphabets are 29 in number and are also called Huroof-e-TaHajji.</li>\n<li>Huroof join together to make words.</li>\n<li>Alif, Haa, Daal, Seen and Kaaf have no dots (nuqta).</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "How many Arabic Alphabets (huroof-e-hijaa) are there?",
+       "options": [
+        "28",
+        "29",
+        "30",
+        "26"
+       ],
+       "answer": 1,
+       "why": "The book states that there are 29 Arabic Alphabets (huroof-e-hijaa), and these huroof are joined together to make words."
+      },
+      {
+       "q": "What is another name of the Arabic Alphabets (huroof-e-hijaa)?",
+       "options": [
+        "Huroof-e-Muqata'at",
+        "Rumooz-e-Auqaaf",
+        "Huroof-e-TaHajji",
+        "Harakaat"
+       ],
+       "answer": 2,
+       "why": "The book tells us that another name of the Arabic Alphabets (huroof-e-hijaa) is 'Huroof-e-TaHajji'."
+      },
+      {
+       "q": "Which of the following huroof has NO dot (nuqta)?",
+       "options": [
+        "ب",
+        "ت",
+        "ث",
+        "ا"
+       ],
+       "answer": 3,
+       "why": "Alif (ا) has no dot. The book lists Alif, Haa, Daal, Seen and Kaaf as the huroof which do not have any dots, while Baa, Taa and Tha carry dots."
+      },
+      {
+       "q": "How is 'Suad' written correctly?",
+       "options": [
+        "ص",
+        "س",
+        "ث",
+        "ش"
+       ],
+       "answer": 0,
+       "why": "Suad is written as ص. The book explains that س is Seen and ث is Tha, so they cannot be Suad."
+      },
+      {
+       "q": "The harf (alphabet) which comes just before Meem (م) is:",
+       "options": [
+        "Noon (ن)",
+        "Laam (ل)",
+        "Kaaf (ک)",
+        "Wow (و)"
+       ],
+       "answer": 1,
+       "why": "In the order of the huroof-e-hijaa, Laam (ل) comes just before Meem (م), so the correct answer is Laam."
+      },
+      {
+       "q": "Tha is spelled as:",
+       "options": [
+        "ث",
+        "ثا",
+        "ص",
+        "تا"
+       ],
+       "answer": 1,
+       "why": "The book states that Tha is spelled as ثا, just as Baa is spelled with Alif."
+      },
+      {
+       "q": "The huroof (alphabets) are joined together to make:",
+       "options": [
+        "Sentences only",
+        "Words",
+        "Surahs",
+        "Marks"
+       ],
+       "answer": 1,
+       "why": "The book says that the 29 alphabets (huroof) are joined together to make words, which is how the words of the Holy Quran are formed."
+      },
+      {
+       "q": "Which of these huroof has no dot (nuqta)?",
+       "options": [
+        "Seen (س)",
+        "Sheen (ش)",
+        "Jeem (ج)",
+        "Taa (ت)"
+       ],
+       "answer": 0,
+       "why": "Seen (س) is one of the five huroof without dots listed in the book: Alif, Haa, Daal, Seen and Kaaf. Sheen, Jeem and Taa all carry dots."
+      },
+      {
+       "q": "Which harf comes just after Jeem (ج) in the order of huroof-e-hijaa?",
+       "options": [
+        "Khaa (خ)",
+        "Daal (د)",
+        "Haa (ح)",
+        "Zaa (ز)"
+       ],
+       "answer": 2,
+       "why": "In the chart of the Arabic Alphabets, Haa (ح) comes just after Jeem (ج) and before Khaa (خ)."
+      },
+      {
+       "q": "Which is the last harf in the order of the 29 huroof-e-hijaa?",
+       "options": [
+        "Hamza (ء)",
+        "Wow (و)",
+        "Haa (ہ)",
+        "Yaa (ی)"
+       ],
+       "answer": 3,
+       "why": "The chart of the huroof-e-hijaa ends with Yaa (ی), which is the 29th and last harf of the Arabic Alphabets."
+      }
+     ]
+    },
+    {
+     "title": "Diacritical Marks (Harakaat / I'raab) and Jazm",
+     "notes_html": "<h4>What is a Harkat?</h4>\n<p><b class=\"key\">Harkat</b> means movement or motion. The signs <b class=\"key\">zabar</b>, <b class=\"key\">zair</b> and <b class=\"key\">pesh</b> are called <b class=\"key\">harakat</b> or <b class=\"key\">I'raab</b>. If any harkat is placed on a letter (harf), that harf is said to be <b class=\"key\">Mutaharrik</b>, because there is a movement in the voice of the speaker while pronouncing it.</p>\n<h4>Other Names of the Harakaat</h4>\n<ul>\n<li>Zabar is also called <b class=\"key\">Fat-ha</b>.</li>\n<li>Zair is also called <b class=\"key\">Kasra</b>.</li>\n<li>Pesh is also called <b class=\"key\">Dhamma / Zamma</b>.</li>\n</ul>\n<h4>Jazm (Sukoon)</h4>\n<p>The symbol ( ْ ) is called <b class=\"key\">Jazm</b>. A letter which has a Jazm upon it is known as <b class=\"key\">Majzoom</b>. Jazm is also known as <b class=\"key\">sukoon</b>, and the majzoom harf is also called 'saakin'. Jazm or sukoon can never be placed on the first harf of a word.</p>\n<h4>Reading the Harakaat in Words</h4>\n<ul>\n<li>In اَلْفَتْحُ, the huroof with Zabar are Hamza (Alif) and Faa, and the harf with Pesh is Haa.</li>\n<li>In كَبُرَ, the huroof with Zabar are Kaaf and Raa, and the harf with Pesh is Baa.</li>\n<li>In عَبَدَ, the huroof 'Aien, Baa and Daal all carry Zabar.</li>\n<li>In عُقِدَ, Daal has Zabar, Qaaf has Zair and 'Aien has Pesh.</li>\n</ul>\n<h4>Joining and Breaking Huroof</h4>\n<p>Separate huroof can be <b class=\"key\">joined</b> together to write a word, like كِتَابٌ. In the same way, a joined word can be broken into its separate huroof; for example, اَلْحَمْدُ is made of the separate huroof Alif, Laam, Haa, Meem and Daal.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Zabar, zair and pesh are the harakat (I'raab); a harf carrying one of them is Mutaharrik.</li>\n<li>Zabar = Fat-ha, Zair = Kasra, Pesh = Dhamma / Zamma.</li>\n<li>A harf with Jazm (sukoon) on it is called Majzoom.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What does 'Harkat' mean?",
+       "options": [
+        "Movement or motion",
+        "A dot",
+        "A letter",
+        "Silence"
+       ],
+       "answer": 0,
+       "why": "The book defines Harkat as movement or motion: when zabar, zair or pesh is pronounced, there is a movement in the voice of the speaker."
+      },
+      {
+       "q": "If any harkat is placed on a letter (harf), that harf is said to be:",
+       "options": [
+        "Majzoom",
+        "Mutaharrik",
+        "Saakin",
+        "Mushaddad"
+       ],
+       "answer": 1,
+       "why": "The book states that if any harkat from the harakaat is placed on a letter, that harf is said to be Mutaharrik."
+      },
+      {
+       "q": "Fat-ha refers to:",
+       "options": [
+        "Zair",
+        "Pesh",
+        "Jazm",
+        "Zabar"
+       ],
+       "answer": 3,
+       "why": "The book states that Zabar is also called Fat-ha, just as Zair is called Kasra and Pesh is called Dhamma."
+      },
+      {
+       "q": "The harf which has a Jazm upon it is called:",
+       "options": [
+        "Mutaharrik",
+        "Majzoom",
+        "Maksoor",
+        "Madhmoom"
+       ],
+       "answer": 1,
+       "why": "A letter with Jazm upon it is known as Majzoom, and it is also known as 'saakin', as the book explains."
+      },
+      {
+       "q": "Another name of Jazm is:",
+       "options": [
+        "Fat-ha",
+        "Kasra",
+        "Sukoon",
+        "Dhamma"
+       ],
+       "answer": 2,
+       "why": "The book tells us that Jazm is also known as Sukoon, and jazm or sukoon can never be placed on the first harf of a word."
+      },
+      {
+       "q": "Another name of Pesh is:",
+       "options": [
+        "Kasra",
+        "Fat-ha",
+        "Sukoon",
+        "Dhamma / Zamma"
+       ],
+       "answer": 3,
+       "why": "The book states that another name of Pesh is Dhamma / Zamma, in the same way as Zabar is called Fat-ha and Zair is called Kasra."
+      },
+      {
+       "q": "Zair is also called:",
+       "options": [
+        "Kasra",
+        "Dhamma",
+        "Fat-ha",
+        "Jazm"
+       ],
+       "answer": 0,
+       "why": "According to the book, Zair is also called Kasra, while Zabar is called Fat-ha and Pesh is called Dhamma / Zamma."
+      },
+      {
+       "q": "Jazm or sukoon can never be placed on:",
+       "options": [
+        "The last harf of a word",
+        "The middle harf of a word",
+        "The first harf of a word",
+        "A harf with a dot"
+       ],
+       "answer": 2,
+       "why": "The book clearly states that jazm or sukoon can never be placed on the first harf of a word."
+      },
+      {
+       "q": "In the word كَبُرَ, the harf with Pesh is:",
+       "options": [
+        "Kaaf",
+        "Baa",
+        "Raa",
+        "None"
+       ],
+       "answer": 1,
+       "why": "The book identifies the huroof in كَبُرَ as: Zabar on Kaaf and Raa, and Pesh on Baa, so Baa carries the Pesh."
+      },
+      {
+       "q": "In the word عَبَدَ, the huroof 'Aien, Baa and Daal all carry:",
+       "options": [
+        "Zair",
+        "Pesh",
+        "Jazm",
+        "Zabar"
+       ],
+       "answer": 3,
+       "why": "The book's answer for عَبَدَ is: Huroof with Zabar are 'Aien, Baa and Daal, and there is no Zair or Pesh in the word."
+      }
+     ]
+    },
+    {
+     "title": "Tanveen, Khara Zabar, Khari Zair and Ulta Pesh",
+     "notes_html": "<h4>What is Tanveen?</h4>\n<p><b class=\"key\">Tanveen</b> means the double harakat: double zabar ( ً ), double zair ( ٍ ) and double pesh ( ٌ ). When a tanveen is used, the sound of <b class=\"key\">Noon Sakin</b> is produced. For example, double zabar over Taa is read as 'Tann'. Tanveen is always placed on the <b class=\"key\">last letter</b> (harf) of a word, as in كِتَابٌ and نَفْسٍ.</p>\n<h4>Khara Zabar (Standing Zabar)</h4>\n<p><b class=\"key\">Khara Zabar</b> is a type of zabar, but its pronunciation is stretched more than the zabar. Because of this, it sounds like an <b class=\"key\">alif</b> when pronounced, and in place of a Khara Zabar a small symbol of alif is placed.</p>\n<h4>Khari Zair and Ulta Pesh</h4>\n<ul>\n<li><b class=\"key\">Khari Zair</b> is the standing (vertical) zair, written in the place of zair, as in بِهٖ.</li>\n<li><b class=\"key\">Ulta Pesh</b> (upside-down pesh) is a type of pesh. Its pronunciation is stretched, so it sounds like a stretched <b class=\"key\">Wow (waaw)</b> when pronounced.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Tanveen = double zabar, double zair and double pesh; it produces the sound of Noon Sakin.</li>\n<li>Khara Zabar is stretched and sounds like an alif.</li>\n<li>Ulta Pesh is stretched and sounds like a stretched Wow.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is Tanveen?",
+       "options": [
+        "A single zabar",
+        "Double zabar, double zair and double pesh",
+        "A jazm on a letter",
+        "A long madd"
+       ],
+       "answer": 1,
+       "why": "The book defines tanveen as double zabar ( ً ), double zair ( ٍ ) and double pesh ( ٌ ), from which the sound of Noon Sakin is produced."
+      },
+      {
+       "q": "Which harf's sound is produced from a tanveen?",
+       "options": [
+        "Meem Sakin",
+        "Laam Sakin",
+        "Noon Sakin",
+        "Baa Sakin"
+       ],
+       "answer": 2,
+       "why": "The book states that the sound of Noon Sakin is produced from a tanveen; for example, double zabar over Taa is read 'Tann'."
+      },
+      {
+       "q": "What is the difference between a zabar and a Khara Zabar?",
+       "options": [
+        "Khara Zabar is written below the letter",
+        "Khara Zabar is pronounced stretched, more than the zabar",
+        "Khara Zabar has no sound",
+        "Khara Zabar is a type of zair"
+       ],
+       "answer": 1,
+       "why": "Khara Zabar (standing zabar) is a type of zabar, but its pronunciation is stretched more than the zabar, so it sounds like an alif when pronounced."
+      },
+      {
+       "q": "Khara Zabar sounds like which harf when pronounced?",
+       "options": [
+        "Wow",
+        "Yaa",
+        "Alif",
+        "Haa"
+       ],
+       "answer": 2,
+       "why": "Because the Khara Zabar is stretched, it sounds like an alif when pronounced, and a small symbol of alif is placed in its place."
+      },
+      {
+       "q": "Which harf's sound is produced from Ulta Pesh?",
+       "options": [
+        "A stretched Wow (waaw)",
+        "An alif",
+        "A yaa",
+        "A noon"
+       ],
+       "answer": 0,
+       "why": "The book says Ulta Pesh is a type of pesh whose pronunciation is stretched, due to which it sounds like a stretched Wow (waaw) when pronounced."
+      },
+      {
+       "q": "Tanveen is always placed on:",
+       "options": [
+        "The first letter of the word",
+        "The middle letter of the word",
+        "Any letter of the word",
+        "The last letter of the word"
+       ],
+       "answer": 3,
+       "why": "The book notes that tanveen is always placed on the last letter (harf) of a word, as seen in the words of the exercise table."
+      },
+      {
+       "q": "Which of these words contains a double pesh (tanveen)?",
+       "options": [
+        "كِتَابٌ",
+        "كَتَبَ",
+        "كُتُب",
+        "كَاتِب"
+       ],
+       "answer": 0,
+       "why": "كِتَابٌ ends with a double pesh ( ٌ ), which is one of the three tanveen signs: double zabar, double zair and double pesh."
+      },
+      {
+       "q": "Double zabar over Taa is read as:",
+       "options": [
+        "'Tin'",
+        "'Tun'",
+        "'Tann'",
+        "'Taa'"
+       ],
+       "answer": 2,
+       "why": "The book gives this example: double zabar over Taa = Taa do Zabar 'Tann', because tanveen produces the sound of Noon Sakin."
+      },
+      {
+       "q": "'Khari Zair' is the standing zair which is written:",
+       "options": [
+        "Above the letter",
+        "In the place of zair",
+        "At the start of the word",
+        "Only on Alif"
+       ],
+       "answer": 1,
+       "why": "Khari Zair is the standing (vertical) zair placed in zair's location, so it is written as in بِهٖ, as the book's answer explains."
+      },
+      {
+       "q": "In place of a Khara Zabar, which small symbol is placed?",
+       "options": [
+        "A small Wow",
+        "A small Yaa",
+        "A small Noon",
+        "A small symbol of Alif"
+       ],
+       "answer": 3,
+       "why": "The book states that in place of a Khara Zabar, a small symbol of alif is placed, because its stretched sound is like the sound of alif."
+      }
+     ]
+    },
+    {
+     "title": "Madd and Shadd (Tashdeed)",
+     "notes_html": "<h4>What is Madd?</h4>\n<p>Literally, the word <b class=\"key\">Madd</b> means to stretch. Madd is of <b class=\"key\">two types</b>: the <b class=\"key\">long Madd</b> and the <b class=\"key\">short Madd</b>.</p>\n<ul>\n<li>The long Madd is stretched to the extent of <b class=\"key\">5 alif</b>.</li>\n<li>The short Madd is extended to the limit of <b class=\"key\">three alif</b>.</li>\n</ul>\n<h4>What is Shadd (Tashdeed)?</h4>\n<p><b class=\"key\">Shadd (Tashdeed)</b> is a sign which looks like <b class=\"key\">three teeth</b> ( ّ ). The harf on which a Shadd is placed is called <b class=\"key\">harf-e-mushaddad</b> (Mushaddad harf), such as the Daal in مَدَّ and the Laam in حَلَّ. A Mushaddad harf is pronounced with <b class=\"key\">stress</b>; we press the sound a little while reading it.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Madd means stretch; it has two types — long Madd (5 alif) and short Madd (3 alif).</li>\n<li>The Shadd sign looks like three teeth ( ّ ).</li>\n<li>A harf carrying a Shadd is called Mushaddad and is read with stress.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Literally, the word 'Madd' refers to:",
+       "options": [
+        "Stopping",
+        "Stretch",
+        "Joining",
+        "Breaking"
+       ],
+       "answer": 1,
+       "why": "The book states that literally the word Madd refers to stretch, and it is of two types: long Madd and short Madd."
+      },
+      {
+       "q": "How many types of Madd are there?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 0,
+       "why": "There are two types of Madd: one is known as long Madd and the other is short Madd, as the book teaches."
+      },
+      {
+       "q": "The long Madd is stretched to the extent of:",
+       "options": [
+        "Three alif",
+        "Two alif",
+        "Five alif",
+        "One alif"
+       ],
+       "answer": 2,
+       "why": "The book states that the long Madd is stretched to the extent of 5 alif, while the short Madd is extended to the limit of three alif."
+      },
+      {
+       "q": "The short Madd is stretched as:",
+       "options": [
+        "One alif",
+        "Two alif",
+        "Four alif",
+        "Three alif"
+       ],
+       "answer": 3,
+       "why": "The book states that the short Madd is extended to the limit of three alif, while the long Madd is stretched to 5 alif."
+      },
+      {
+       "q": "What is Shadd?",
+       "options": [
+        "A sign which looks like three teeth ( ّ )",
+        "A sign like a small circle",
+        "A double zabar",
+        "A standing zabar"
+       ],
+       "answer": 0,
+       "why": "Shadd (Tashdeed) refers to a sign which looks like three teeth ( ّ ), and the harf on which it is placed is called Mushaddad."
+      },
+      {
+       "q": "The harf on which a Shadd is placed is called:",
+       "options": [
+        "Majzoom",
+        "Mutaharrik",
+        "Harf-e-Mushaddad",
+        "Saakin"
+       ],
+       "answer": 2,
+       "why": "The book states that the harf on which a Shadd is placed is called harf-e-mushaddad (Mushaddad harf), such as in مَدَّ and حَلَّ."
+      },
+      {
+       "q": "How is a harf-e-mushaddad read?",
+       "options": [
+        "Very slowly",
+        "With stress, pressing the sound a little",
+        "Without any sound",
+        "Like a noon sakin"
+       ],
+       "answer": 1,
+       "why": "The book explains that a Mushaddad harf is pronounced with stress; we press the sound a little while reading it."
+      },
+      {
+       "q": "In the word رَبُّ, the Mushaddad harf is:",
+       "options": [
+        "Raa",
+        "Alif",
+        "Baa",
+        "There is no Mushaddad harf"
+       ],
+       "answer": 2,
+       "why": "In رَبُّ the Baa carries a Shadd ( ّ ), so Baa is the Mushaddad harf and is read with stress."
+      },
+      {
+       "q": "Shadd is also known as:",
+       "options": [
+        "Tanveen",
+        "Tashdeed",
+        "Sukoon",
+        "I'raab"
+       ],
+       "answer": 1,
+       "why": "The book calls this sign Shadd (Tashdeed); it looks like three teeth and makes the harf below it Mushaddad."
+      },
+      {
+       "q": "The small Madda is the sign of:",
+       "options": [
+        "The long Madd",
+        "The short Madd",
+        "Tanveen",
+        "Jazm"
+       ],
+       "answer": 1,
+       "why": "The book teaches two Madd signs, the long Madd and the short Madd, and the short Madd is the small Madda, stretched to three alif."
+      }
+     ]
+    },
+    {
+     "title": "Huroof-e-Muqata'at and Pronunciation Marks (Rumooz-e-Auqaaf)",
+     "notes_html": "<h4>Huroof-e-Muqata'at</h4>\n<p>The huroof written at the start of some surahs, like المصٓ, حمٓ عسق and طسمٓ, are called <b class=\"key\">Huroof-e-Muqata'at</b>. There are <b class=\"key\">14 surahs</b> in the Holy Quran which start with these huroof, and the prescribed way to read them is by <b class=\"key\">pronouncing each of the huroof separately</b>.</p>\n<h4>Rumooz-e-Auqaaf (Pronunciation Marks)</h4>\n<p><b class=\"key\">Rumooz-e-Auqaaf</b> are those signs which are written in the Holy Quran and they inform the reader as to <b class=\"key\">where to stop</b> while reciting. Some of the famous signs are <b class=\"key\">Waqf-e-Taam</b>, <b class=\"key\">Waqf-e-Lazim</b>, <b class=\"key\">Waqf-e-Mutlaq</b> and <b class=\"key\">Waqf-e-Jaiz</b>.</p>\n<ul>\n<li>The <b class=\"key\">circle sign</b> shows that the verse has finished — this is <b class=\"key\">Waqf-e-Taam</b>.</li>\n<li>The sign م shows <b class=\"key\">Waqf-e-Lazim</b> — pausing here is necessary.</li>\n<li>The sign لا shows <b class=\"key\">La Waqfa Alaihi</b> — not pausing here is necessary.</li>\n<li>The sign ج shows <b class=\"key\">Waqf-e-Jaiz</b> — it is better to pause here, and not pausing here is also permissible.</li>\n</ul>\n<h4>Al-Sajda</h4>\n<p>At some places in the Holy Quran, the word <b class=\"key\">'Al-Sajda'</b> is mentioned at the end of some verses. It means that a person needs to <b class=\"key\">prostrate (perform sajda)</b> after completing the verse.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Huroof-e-Muqata'at come at the start of 14 surahs and are read letter by letter.</li>\n<li>Rumooz-e-Auqaaf tell the reader where to stop during recitation.</li>\n<li>'Al-Sajda' at the end of a verse means: prostrate after completing the verse.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Huroof like المصٓ, حمٓ عسق and طسمٓ at the start of some surahs are called:",
+       "options": [
+        "Huroof-e-TaHajji",
+        "Huroof-e-Muqata'at",
+        "Rumooz-e-Auqaaf",
+        "Harakaat"
+       ],
+       "answer": 1,
+       "why": "The book states that these huroof are called 'Huroof-e-Muqata'at', and the prescribed way to read them is by pronouncing each of the huroof separately."
+      },
+      {
+       "q": "How many surahs in the Holy Quran start with Huroof-e-Muqata'at?",
+       "options": [
+        "10 surahs",
+        "12 surahs",
+        "14 surahs",
+        "16 surahs"
+       ],
+       "answer": 2,
+       "why": "The book tells us that there are 14 surahs in the Holy Quran which start with these huroof (Huroof-e-Muqata'at)."
+      },
+      {
+       "q": "How are the Huroof-e-Muqata'at read?",
+       "options": [
+        "By pronouncing each harf separately",
+        "By joining them into one word",
+        "Silently",
+        "Only by the teacher"
+       ],
+       "answer": 0,
+       "why": "The prescribed way to read the Huroof-e-Muqata'at is by pronouncing each of the huroof separately, as the book explains."
+      },
+      {
+       "q": "What is the meaning of Rumooz-e-Auqaaf?",
+       "options": [
+        "Signs of the Arabic alphabets",
+        "Signs that tell where to stop while reciting",
+        "Signs of tanveen",
+        "Names of the surahs"
+       ],
+       "answer": 1,
+       "why": "Rumooz-e-Auqaaf refers to those signs which are written in the Holy Quran and inform the reader as to where to stop while reciting."
+      },
+      {
+       "q": "The circle sign in the Holy Quran shows:",
+       "options": [
+        "Waqf-e-Lazim",
+        "Waqf-e-Jaiz",
+        "The verse has finished (Waqf-e-Taam)",
+        "La Waqfa Alaihi"
+       ],
+       "answer": 2,
+       "why": "The book's matching answer states: the circle is a sign that the verse has finished, which is Waqf-e-Taam."
+      },
+      {
+       "q": "The sign م (Waqf-e-Lazim) means:",
+       "options": [
+        "Do not pause here",
+        "Pausing here is necessary",
+        "Pausing is better but optional",
+        "The verse has finished"
+       ],
+       "answer": 1,
+       "why": "According to the book, the sign م means Waqf-e-Lazim: pausing here is necessary while reciting the Holy Quran."
+      },
+      {
+       "q": "The sign ج (Waqf-e-Jaiz) means:",
+       "options": [
+        "Pausing here is necessary",
+        "Never pause here",
+        "The verse has finished",
+        "It is better to pause here; not pausing is also permissible"
+       ],
+       "answer": 3,
+       "why": "The book explains the sign ج as Waqf-e-Jaiz: it is better to pause here, and not pausing here is also permissible."
+      },
+      {
+       "q": "The sign لا (La Waqfa Alaihi) means:",
+       "options": [
+        "Not pausing here is necessary",
+        "Pausing here is necessary",
+        "Prostrate here",
+        "The surah has finished"
+       ],
+       "answer": 0,
+       "why": "The book's answer for the sign لا is 'La Waqfa Alaihi', which means that not pausing here is necessary."
+      },
+      {
+       "q": "If the word 'Al-Sajda' is written at the end of a verse, it means:",
+       "options": [
+        "Stop reciting for the day",
+        "Prostrate (perform sajda) after completing the verse",
+        "Start a new surah",
+        "Repeat the verse"
+       ],
+       "answer": 1,
+       "why": "The book states that 'Al-Sajda' means a person needs to prostrate (perform sajda) after completing the verse, as given in the Benefit/Note of the lesson."
+      },
+      {
+       "q": "Which of these is one of the famous Rumooz-e-Auqaaf signs named in the book?",
+       "options": [
+        "Waqf-e-Taam",
+        "Huroof-e-TaHajji",
+        "Khara Zabar",
+        "Harf-e-Mushaddad"
+       ],
+       "answer": 0,
+       "why": "The book names Waqf-e-Taam, Waqf-e-Lazim, Waqf-e-Mutlaq and Waqf-e-Jaiz as the famous Rumooz-e-Auqaaf signs."
+      }
+     ]
+    },
+    {
+     "title": "Memorization of the Quran (Hifz-e-Quran): Surah Al-Fatiha, Surah Al-Ikhlas and Surah Al-Nasr",
+     "notes_html": "<h4>Memorization Only — No Written Exercise</h4>\n<p>This part (B) of Chapter 1 is for <b class=\"key\">memorization of the Quran (Hifz-e-Quran)</b>. The book gives <b class=\"key\">no written exercise</b> for this section; the following surahs are to be learned by heart:</p>\n<ul>\n<li><b class=\"key\">Surah Al-Fatiha</b></li>\n<li><b class=\"key\">Surah Al-Ikhlas</b></li>\n<li><b class=\"key\">Surah Al-Nasr</b></li>\n</ul>\n<p>Learn these three surahs by heart with correct pronunciation, and recite them to your teacher.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Part (B) of Chapter 1 is Hifz-e-Quran — memorization of the Quran.</li>\n<li>Three surahs are memorized: Surah Al-Fatiha, Surah Al-Ikhlas and Surah Al-Nasr.</li>\n<li>There is no written exercise for this section in the book.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Part (B) of Chapter 1 is about:",
+       "options": [
+        "Memorization of the Quran (Hifz-e-Quran)",
+        "Manners of Namaz",
+        "Seerat-e-Tayyaba",
+        "Morals and Manners"
+       ],
+       "answer": 0,
+       "why": "The book heads part (B) of Chapter 1 as 'Memorization of the Quran (Hifz-e-Quran)', in which three surahs are learned by heart."
+      },
+      {
+       "q": "How many surahs are to be memorized in this section?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "Three surahs are named in this section of the book: Surah Al-Fatiha, Surah Al-Ikhlas and Surah Al-Nasr."
+      },
+      {
+       "q": "Which surah is memorized FIRST in this section?",
+       "options": [
+        "Surah Al-Ikhlas",
+        "Surah Al-Nasr",
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah"
+       ],
+       "answer": 2,
+       "why": "The book lists the surahs of this section in the order: Surah Al-Fatiha, Surah Al-Ikhlas and Surah Al-Nasr, so Al-Fatiha comes first."
+      },
+      {
+       "q": "Which of these surahs is NOT part of this memorization section?",
+       "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas",
+        "Surah Al-Nasr",
+        "Surah Al-Hujuraat"
+       ],
+       "answer": 3,
+       "why": "This section names only Surah Al-Fatiha, Surah Al-Ikhlas and Surah Al-Nasr. Surah Al-Hujuraat is only mentioned later in the book, in the lesson on backbiting."
+      },
+      {
+       "q": "'Hifz-e-Quran' means:",
+       "options": [
+        "Writing the Quran",
+        "Memorization of the Quran",
+        "Translation of the Quran",
+        "Reading the Quran once"
+       ],
+       "answer": 1,
+       "why": "The heading of this section itself gives the meaning: 'Memorization of the Quran (Hifz-e-Quran)' — learning the surahs by heart."
+      },
+      {
+       "q": "Which pair of surahs is included in this section?",
+       "options": [
+        "Surah Al-Ikhlas and Surah Al-Nasr",
+        "Surah Al-Baqarah and Surah Al-Hujuraat",
+        "Surah Al-Fatiha and Surah Al-Baqarah",
+        "Surah Al-Nasr and Surah Al-Hujuraat"
+       ],
+       "answer": 0,
+       "why": "Surah Al-Ikhlas and Surah Al-Nasr are both among the three surahs of this section, along with Surah Al-Fatiha."
+      },
+      {
+       "q": "How many written exercises does the book give for this memorization section?",
+       "options": [
+        "One",
+        "Two",
+        "None — it is memorization only",
+        "Ten"
+       ],
+       "answer": 2,
+       "why": "The book clearly states: no exercise is given for this section, because it is memorization of the surahs only."
+      },
+      {
+       "q": "To complete this lesson, a student should:",
+       "options": [
+        "Write the surahs ten times",
+        "Memorize the three surahs by heart",
+        "Only read the names of the surahs",
+        "Draw the signs of the surahs"
+       ],
+       "answer": 1,
+       "why": "This section is Hifz-e-Quran, so its work is memorization: the student learns Surah Al-Fatiha, Surah Al-Ikhlas and Surah Al-Nasr by heart."
+      },
+      {
+       "q": "Surah Al-Nasr is:",
+       "options": [
+        "A manner of recitation",
+        "One of the three surahs memorized in this section",
+        "A sign of waqf",
+        "A chapter of this book"
+       ],
+       "answer": 1,
+       "why": "Surah Al-Nasr is the third of the three surahs named for memorization in part (B) of Chapter 1, after Al-Fatiha and Al-Ikhlas."
+      },
+      {
+       "q": "This memorization section (Hifz-e-Quran) is part of which chapter of the book?",
+       "options": [
+        "Chapter 2: Beliefs and Worship",
+        "Chapter 3: Seerat-e-Tayyaba",
+        "Chapter 1: Al-Quran-Al-Kareem",
+        "Chapter 5: Famous Personalities"
+       ],
+       "answer": 2,
+       "why": "Hifz-e-Quran is part (B) of Chapter 1, Al-Quran-Al-Kareem, which deals with reading, memorizing and understanding the Holy Quran."
+      }
+     ]
+    },
+    {
+     "title": "Memorization and Translation (Hifz wa Tarjuma)",
+     "notes_html": "<h4>Memorization with Translation — No Written Exercise</h4>\n<p>This part (C) of Chapter 1 is <b class=\"key\">Memorization and Translation (Hifz wa Tarjuma)</b>. The book gives <b class=\"key\">no written exercise</b> for this section; the following are to be memorized <b class=\"key\">with their translation</b>:</p>\n<ul>\n<li><b class=\"key\">Ta'awwuz</b></li>\n<li><b class=\"key\">Tasmiyah</b></li>\n<li><b class=\"key\">Takbeer</b></li>\n<li><b class=\"key\">Kalima Tayyaba</b></li>\n<li><b class=\"key\">Durood Shareef</b></li>\n<li><b class=\"key\">Masnoon Kalimaat</b></li>\n</ul>\n<p>Learn each of these by heart together with its translation, so that you know what you are saying.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Part (C) of Chapter 1 is Hifz wa Tarjuma — memorization with translation.</li>\n<li>Six things are memorized: Ta'awwuz, Tasmiyah, Takbeer, Kalima Tayyaba, Durood Shareef and Masnoon Kalimaat.</li>\n<li>There is no written exercise for this section in the book.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Part (C) of Chapter 1 is called:",
+       "options": [
+        "Hifz wa Tarjuma (Memorization and Translation)",
+        "Hifz-e-Quran only",
+        "Manners of Conversation",
+        "Introduction to Namaz"
+       ],
+       "answer": 0,
+       "why": "The book heads part (C) of Chapter 1 as 'Memorization and Translation (Hifz wa Tarjuma)', covering Ta'awwuz, Tasmiyah and the other kalimaat with translation."
+      },
+      {
+       "q": "How many things are memorized with translation in this section?",
+       "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Three"
+       ],
+       "answer": 2,
+       "why": "The book lists six: Ta'awwuz, Tasmiyah, Takbeer, Kalima Tayyaba, Durood Shareef and Masnoon Kalimaat."
+      },
+      {
+       "q": "'Tarjuma' means:",
+       "options": [
+        "Memorization",
+        "Translation",
+        "Recitation",
+        "Writing"
+       ],
+       "answer": 1,
+       "why": "The heading of the section is 'Memorization and Translation (Hifz wa Tarjuma)', so Tarjuma means translation."
+      },
+      {
+       "q": "Which of these is memorized in this section?",
+       "options": [
+        "Kalima Tayyaba",
+        "Times of Namaz",
+        "Names of the Ambiya",
+        "Types of neighbors"
+       ],
+       "answer": 0,
+       "why": "Kalima Tayyaba is one of the six items of this section, along with Ta'awwuz, Tasmiyah, Takbeer, Durood Shareef and Masnoon Kalimaat."
+      },
+      {
+       "q": "Which of these is NOT in this section's list?",
+       "options": [
+        "Ta'awwuz",
+        "Tasmiyah",
+        "Durood Shareef",
+        "Huroof-e-Muqata'at"
+       ],
+       "answer": 3,
+       "why": "Huroof-e-Muqata'at belongs to the reading part (A) of Chapter 1. This section (C) lists Ta'awwuz, Tasmiyah, Takbeer, Kalima Tayyaba, Durood Shareef and Masnoon Kalimaat."
+      },
+      {
+       "q": "In this section, the kalimaat are learned:",
+       "options": [
+        "Only in Arabic, without meaning",
+        "By heart with their translation",
+        "Only by writing them",
+        "Only by listening once"
+       ],
+       "answer": 1,
+       "why": "The section is Hifz wa Tarjuma: Ta'awwuz, Tasmiyah, Takbeer, Kalima Tayyaba, Durood Shareef and Masnoon Kalimaat are memorized with translation."
+      },
+      {
+       "q": "Which item comes FIRST in this section's list in the book?",
+       "options": [
+        "Takbeer",
+        "Durood Shareef",
+        "Ta'awwuz",
+        "Masnoon Kalimaat"
+       ],
+       "answer": 2,
+       "why": "The book lists the items in this order: Ta'awwuz, Tasmiyah, Takbeer, Kalima Tayyaba, Durood Shareef and Masnoon Kalimaat, so Ta'awwuz is first."
+      },
+      {
+       "q": "Durood Shareef is memorized in which part of Chapter 1?",
+       "options": [
+        "Part (A) Reading",
+        "Part (B) Hifz-e-Quran",
+        "Part (C) Hifz wa Tarjuma",
+        "It is not in Chapter 1"
+       ],
+       "answer": 2,
+       "why": "Durood Shareef is one of the six items of part (C), Memorization and Translation (Hifz wa Tarjuma), of Chapter 1."
+      },
+      {
+       "q": "How many written exercises does the book give for this section?",
+       "options": [
+        "None — memorization with translation only",
+        "One",
+        "Three",
+        "Six"
+       ],
+       "answer": 0,
+       "why": "The book states that no exercise is given for this section; it is memorization of Ta'awwuz, Tasmiyah, Takbeer, Kalima Tayyaba, Durood Shareef and Masnoon Kalimaat with translation only."
+      },
+      {
+       "q": "Tasmiyah is:",
+       "options": [
+        "A sign of waqf",
+        "One of the six items memorized with translation in this section",
+        "A type of Madd",
+        "A manner of Namaz"
+       ],
+       "answer": 1,
+       "why": "Tasmiyah is the second item in this section's list of six things to be memorized with translation, after Ta'awwuz."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Beliefs and Worship",
+   "lessons": [
+    {
+     "title": "Introduction to Tauheed, Risalat and Akhirat",
+     "notes_html": "<h4>The Three Basic Beliefs of Islam</h4>\n<p>There are <b class=\"key\">three basic beliefs</b> which form the foundation of Islam. It is necessary for every single person to believe in them to become a Muslim:</p>\n<ul>\n<li>Belief in Monotheism — <b class=\"key\">Aqeeda-e-Tauheed</b></li>\n<li>Belief in Prophethood — <b class=\"key\">Aqeeda-e-Risalat</b></li>\n<li>Belief in Hereafter — <b class=\"key\">Aqeeda-e-Akhirat</b></li>\n</ul>\n<h4>Tauheed (Monotheism)</h4>\n<p>Believing in heart that <b class=\"key\">Allah Almighty is 'One'</b> and stating it with the tongue is called <b class=\"key\">Tauheed</b>. Allah Almighty has <b class=\"key\">no partner</b>; He does not have any parents nor any children, and no one is like Him. All creatures are dependent upon Him for their <b class=\"key\">existence</b>.</p>\n<h4>Risalat (Prophethood)</h4>\n<p><b class=\"key\">Risalat</b> means that Allah Almighty has selected certain people, known as <b class=\"key\">Ambiya</b>, to deliver His teaching to humankind. The Ambiya are extremely truthful; they never lie, never indulge in sin, and deliver the orders of Allah Almighty to the people. Four famous Ambiya are Hazrat Adam, Hazrat Nooh, Hazrat Ibrahim and Hazrat Moosa (peace be upon them). In the end, our beloved <b class=\"key\">Hazrat Muhammad (PBUH)</b> was sent as the <b class=\"key\">last Nabi</b>.</p>\n<h4>Akhirat (Hereafter)</h4>\n<p><b class=\"key\">Akhirat</b> is the <b class=\"key\">day of judgement</b>, on which people will be resurrected after their death and every individual will be accountable for his/her deeds. Those who did good deeds will live in the <b class=\"key\">gardens of heaven</b>, and those who committed bad deeds will be thrown in the hellfire.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The three basic beliefs are Tauheed, Risalat and Akhirat.</li>\n<li>Allah Almighty is One; He has no partner, no parents and no children.</li>\n<li>Ambiya are the pious people sent by Allah to deliver His teachings.</li>\n<li>On the day of Akhirat, everyone will be accountable for his/her deeds.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "How many basic beliefs form the foundation of Islam?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "The book states there are three basic beliefs: Belief in Tauheed (Monotheism), Belief in Risalat (Prophethood) and Belief in Akhirat (Hereafter)."
+      },
+      {
+       "q": "What is meant by Tauheed (Monotheism)?",
+       "options": [
+        "Believing that Allah Almighty is One and stating it with the tongue",
+        "Believing in the Ambiya",
+        "Believing in the day of judgement",
+        "Offering Namaz five times a day"
+       ],
+       "answer": 0,
+       "why": "Tauheed means believing in heart that Allah Almighty is 'One' and stating it with the tongue; Allah has no partner, no parents and no children."
+      },
+      {
+       "q": "The pious people sent by Allah Almighty to deliver His teachings to human beings are called:",
+       "options": [
+        "Companions",
+        "Ambiya",
+        "Angels",
+        "Caliphs"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states that the pious people sent by Allah Almighty for delivering His teachings to human beings are called Ambiya."
+      },
+      {
+       "q": "Which of these is TRUE about the Ambiya?",
+       "options": [
+        "They sometimes lie",
+        "They indulge in small sins",
+        "They never lie and never indulge in sin",
+        "They are chosen by the people"
+       ],
+       "answer": 2,
+       "why": "The book describes the Ambiya as extremely truthful: they never lie, never indulge in sin, and deliver the orders of Allah Almighty to the people."
+      },
+      {
+       "q": "In the end, who was sent as the last Nabi?",
+       "options": [
+        "Hazrat Moosa (peace be upon him)",
+        "Hazrat Eesa (peace be upon him)",
+        "Hazrat Ibrahim (peace be upon him)",
+        "Hazrat Muhammad (PBUH)"
+       ],
+       "answer": 3,
+       "why": "The book's fill-in answer states: 'In the end, our beloved Hazrat Muhammad (PBUH) was sent as a last Nabi.'"
+      },
+      {
+       "q": "What will happen on the day of Akhirat (Hereafter)?",
+       "options": [
+        "People will be resurrected and held accountable for their deeds",
+        "A new world will be created for games",
+        "Everyone will forget his deeds",
+        "Only the Ambiya will be questioned"
+       ],
+       "answer": 0,
+       "why": "Akhirat is the day of judgement on which people will be resurrected after death and Allah Almighty will hold each individual accountable for the good and bad deeds of his previous life."
+      },
+      {
+       "q": "Those who did good deeds will live in:",
+       "options": [
+        "The hellfire",
+        "The gardens of heaven",
+        "The Cave of Hira",
+        "Masjid-e-Quba"
+       ],
+       "answer": 1,
+       "why": "The book states that those who did good deeds will live in the gardens of heaven, and those who committed bad deeds will be thrown in the hellfire."
+      },
+      {
+       "q": "All creatures are dependent upon Allah Almighty for their:",
+       "options": [
+        "Wealth",
+        "Fame",
+        "Existence",
+        "Food only"
+       ],
+       "answer": 2,
+       "why": "The book's fill-in answer is: 'All creatures are dependent upon Him for their existence', because Allah Almighty is the One Creator of everything."
+      },
+      {
+       "q": "Which of these Ambiya is named among the four famous Ambiya in the book?",
+       "options": [
+        "Hazrat Nooh (peace be upon him)",
+        "Hazrat Abu Bakr Siddiq (may Allah be pleased with him)",
+        "Hazrat Ali (may Allah be pleased with him)",
+        "Hazrat Anas (may Allah be pleased with him)"
+       ],
+       "answer": 0,
+       "why": "The four famous Ambiya named in the book are Hazrat Adam, Hazrat Nooh, Hazrat Ibrahim and Hazrat Moosa (peace be upon them). Abu Bakr, Ali and Anas are Companions, not Ambiya."
+      },
+      {
+       "q": "Allah Almighty has:",
+       "options": [
+        "One partner",
+        "No partner, no parents and no children",
+        "Many children",
+        "A likeness among creatures"
+       ],
+       "answer": 1,
+       "why": "The book teaches Tauheed: Allah Almighty has no partner, He does not have any parents nor any children, and no one is like Him."
+      }
+     ]
+    },
+    {
+     "title": "Introduction to the Holy Quran and Manners of Recitation",
+     "notes_html": "<h4>The Four Special Books</h4>\n<p>Allah Almighty revealed four special books upon His Rasools:</p>\n<ul>\n<li><b class=\"key\">Toraat</b> (Old Testament) was revealed on <b class=\"key\">Hazrat Moosa</b> (peace be upon him).</li>\n<li><b class=\"key\">Zaboor</b> (Psalms) was revealed on <b class=\"key\">Hazrat Daud</b> (peace be upon him).</li>\n<li><b class=\"key\">Injeel</b> (New Testament) was revealed on <b class=\"key\">Hazrat Issa</b> (peace be upon him).</li>\n<li><b class=\"key\">The Holy Quran</b> was revealed on our beloved Nabi <b class=\"key\">Hazrat Muhammad (PBUH)</b>.</li>\n</ul>\n<h4>What is Tilaawat?</h4>\n<p><b class=\"key\">Tilaawat</b> refers to reading anything which is written; however, normally this word is used for the <b class=\"key\">recitation of the Holy Quran</b> and not for other books. <b class=\"key\">Ten rewards</b> of good deeds are awarded for reciting a single letter (harf) from the Holy Quran.</p>\n<h4>Manners of Tilaawat (Recitation)</h4>\n<ul>\n<li>We need to cleanse ourselves by performing <b class=\"key\">ablution (wudu)</b> before recitation.</li>\n<li>When starting Tilaawat, one should start by reciting <b class=\"key\">Aaoozubillah and Bismillah</b> completely.</li>\n<li>The Holy Quran should be recited <b class=\"key\">slowly</b>, and it should be kept at a <b class=\"key\">high place</b>.</li>\n<li>When hearing recitation of the Holy Quran, one should be <b class=\"key\">silent</b> and listen attentively.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Toraat — Hazrat Moosa; Zaboor — Hazrat Daud; Injeel — Hazrat Issa; Quran — Hazrat Muhammad (PBUH).</li>\n<li>Tilaawat normally means recitation of the Holy Quran.</li>\n<li>Ten rewards are given for reciting one letter of the Holy Quran.</li>\n<li>Perform wudu before recitation and begin with Aaoozubillah and Bismillah.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "On which Rasool was Toraat (Old Testament) revealed?",
+       "options": [
+        "Hazrat Daud (peace be upon him)",
+        "Hazrat Moosa (peace be upon him)",
+        "Hazrat Issa (peace be upon him)",
+        "Hazrat Muhammad (PBUH)"
+       ],
+       "answer": 1,
+       "why": "The book states that Toraat (Old Testament) was revealed on Hazrat Moosa (peace be upon him); it is one of the four special books revealed by Allah Almighty."
+      },
+      {
+       "q": "What was the name of the book revealed on Hazrat Daud (peace be upon him)?",
+       "options": [
+        "Toraat",
+        "Injeel",
+        "Zaboor (Psalms)",
+        "The Holy Quran"
+       ],
+       "answer": 2,
+       "why": "The book's answer is that the book revealed on Hazrat Daud (peace be upon him) is Zaboor (Psalms)."
+      },
+      {
+       "q": "Injeel (New Testament) was revealed on Nabi:",
+       "options": [
+        "Hazrat Moosa (peace be upon him)",
+        "Hazrat Issa (peace be upon him)",
+        "Hazrat Daud (peace be upon him)",
+        "Hazrat Ibrahim (peace be upon him)"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states that Injeel (New Testament) was revealed on Nabi Hazrat Issa (peace be upon him)."
+      },
+      {
+       "q": "The Holy Quran was revealed on:",
+       "options": [
+        "Hazrat Moosa (peace be upon him)",
+        "Hazrat Daud (peace be upon him)",
+        "Hazrat Issa (peace be upon him)",
+        "Our beloved Nabi Hazrat Muhammad (PBUH)"
+       ],
+       "answer": 3,
+       "why": "The book states that the Holy Quran was revealed on our beloved Nabi Hazrat Muhammad (PBUH), the last of the four special books."
+      },
+      {
+       "q": "What is the meaning of Tilaawat (recitation)?",
+       "options": [
+        "To read anything which is written",
+        "To memorize by heart",
+        "To write a book",
+        "To listen silently"
+       ],
+       "answer": 0,
+       "why": "Tilaawat refers to reading anything which is written; however, normally this word is used for the recitation of the Holy Quran and not for other books."
+      },
+      {
+       "q": "How many rewards of good deeds are awarded for reciting a single letter (harf) from the Holy Quran?",
+       "options": [
+        "One",
+        "Five",
+        "Ten",
+        "Seventy"
+       ],
+       "answer": 2,
+       "why": "The book's fill-in answer states: 'Ten rewards of good deeds are awarded after reciting a single letter (harf) from the Holy Quran.'"
+      },
+      {
+       "q": "For reciting the Holy Quran, we need to perform ______ to cleanse ourselves.",
+       "options": [
+        "Ablution (wudu)",
+        "Tayammum only",
+        "Ghusl daily",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "One of the manners of Tilaawat given in the book is that we need to cleanse ourselves by performing ablution (wudu) before recitation."
+      },
+      {
+       "q": "When starting Tilaawat, one should start by reciting:",
+       "options": [
+        "Only Bismillah",
+        "Aaoozubillah and Bismillah completely",
+        "Surah Al-Fatiha only",
+        "Durood Shareef only"
+       ],
+       "answer": 1,
+       "why": "The book lists this manner of Tilaawat: when starting Tilaawat, one should start by reciting Aaoozubillah and Bismillah completely."
+      },
+      {
+       "q": "The Holy Quran should be recited ______ and kept at a ______ place.",
+       "options": [
+        "Quickly; low",
+        "Slowly; high",
+        "Loudly; hidden",
+        "Slowly; low"
+       ],
+       "answer": 1,
+       "why": "The book's manners of Tilaawat state that the Holy Quran should be recited slowly and it should be kept at a high place."
+      },
+      {
+       "q": "When hearing the recitation of the Holy Quran, one should:",
+       "options": [
+        "Keep talking",
+        "Play quietly",
+        "Be silent and listen attentively",
+        "Leave the room"
+       ],
+       "answer": 2,
+       "why": "The book teaches that when hearing recitation of the Holy Quran, one should be silent and listen attentively."
+      }
+     ]
+    },
+    {
+     "title": "Namaz: Its Time and Manners",
+     "notes_html": "<h4>Upon Whom is Namaz Compulsory?</h4>\n<p><b class=\"key\">Namaz</b> is compulsory for every <b class=\"key\">sane Muslim who has attained puberty</b>; all Muslim males and females should offer Namaz. On the day of judgement, the <b class=\"key\">first question</b> will be asked about the Namaz. Allah Almighty becomes happy with those who pray and angry with those who do not pray. <b class=\"key\">Namaz in congregation</b> has more thawab (reward) than praying at home.</p>\n<h4>Times of the Five Namaz</h4>\n<ul>\n<li><b class=\"key\">Fajr</b> — from the dawn (Subh-e-Sadiq) before the sun rises.</li>\n<li><b class=\"key\">Zuhr</b> — after the sun passes its zenith until the time of 'Asr starts.</li>\n<li><b class=\"key\">Asr</b> — after the time of Zuhr ends till the sun sets.</li>\n<li><b class=\"key\">Maghrib</b> — its time starts when the sun sets.</li>\n<li><b class=\"key\">Isha</b> — when the time of Maghrib finishes, after one hour of the sun setting, Isha time starts and continues till dawn.</li>\n</ul>\n<h4>Manners of Namaz</h4>\n<p>For Namaz, purity is necessary of <b class=\"key\">three types</b>:</p>\n<ul>\n<li>Purify the <b class=\"key\">clothes</b> — clothes need to be pure (clean).</li>\n<li>Purify the <b class=\"key\">body</b> with Ablution (Wudu).</li>\n<li>Stand on a <b class=\"key\">pure (clean) place</b> facing the Qiblah.</li>\n<li>Focus <b class=\"key\">humbly</b> on Allah Almighty during Namaz; the sight should be at the <b class=\"key\">place of prostration</b>, not here and there.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Namaz is compulsory for every sane Muslim who has attained puberty.</li>\n<li>The first question on the day of judgement will be about Namaz.</li>\n<li>Fajr is prayed at dawn, before sunrise; Maghrib starts at sunset.</li>\n<li>Purity of clothes, body (wudu) and place is necessary for Namaz.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Upon whom is Namaz compulsory?",
+       "options": [
+        "Only on old people",
+        "Every sane Muslim who has attained puberty",
+        "Only on males",
+        "Only on teachers"
+       ],
+       "answer": 1,
+       "why": "The book states that Namaz is compulsory for every sane Muslim who has attained puberty, which means all Muslim males and females should offer Namaz."
+      },
+      {
+       "q": "What question will be asked first on the day of judgement?",
+       "options": [
+        "About wealth",
+        "About Namaz",
+        "About fasting",
+        "About parents"
+       ],
+       "answer": 1,
+       "why": "The book states that on the day of judgement, when humans are held accountable for their deeds, the first question they will be asked will be about the Namaz."
+      },
+      {
+       "q": "The time of Fajr Namaz is:",
+       "options": [
+        "From the dawn (Subh-e-Sadiq) before the sun rises",
+        "After the sun passes its zenith",
+        "When the sun sets",
+        "One hour after sunset"
+       ],
+       "answer": 0,
+       "why": "The book gives the time of Fajr Namaz as from the dawn (Subh-e-Sadiq) before the sun rises."
+      },
+      {
+       "q": "The time of Zuhr Namaz starts:",
+       "options": [
+        "At dawn",
+        "At sunset",
+        "After the sun passes its zenith",
+        "At midnight"
+       ],
+       "answer": 2,
+       "why": "According to the book's chart, Zuhr time is after the sun passes its zenith and lasts until the time of 'Asr starts."
+      },
+      {
+       "q": "The time of Maghrib Namaz starts:",
+       "options": [
+        "When the sun sets",
+        "Before the sun rises",
+        "After one hour of sunset",
+        "At noon"
+       ],
+       "answer": 0,
+       "why": "The book states that the time of Maghrib Namaz starts when the sun sets."
+      },
+      {
+       "q": "For Namaz, purity is necessary of how many types?",
+       "options": [
+        "Two types",
+        "Three types",
+        "Four types",
+        "Five types"
+       ],
+       "answer": 1,
+       "why": "Three types of purification are needed: purity of clothes, purifying the body with Ablution (Wudu), and performing Namaz on a pure (clean) surface."
+      },
+      {
+       "q": "During Namaz, the sight should be:",
+       "options": [
+        "At any place in front",
+        "At our own chest",
+        "At the place of prostration",
+        "Towards the door"
+       ],
+       "answer": 2,
+       "why": "The book states that during Namaz, the person should look at the place where he/she will lay his/her head during prostration and not look here and there."
+      },
+      {
+       "q": "______ in congregation has more thawab (reward) than praying at home.",
+       "options": [
+        "Fasting",
+        "Namaz",
+        "Recitation",
+        "Charity"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states that Namaz in congregation has more thawab (reward) than praying at home."
+      },
+      {
+       "q": "The time of Isha Namaz continues till:",
+       "options": [
+        "Midnight",
+        "Sunset",
+        "Dawn",
+        "Zuhr"
+       ],
+       "answer": 2,
+       "why": "The book states that Isha time starts when Maghrib time finishes, after one hour of the sun setting, and continues till dawn."
+      },
+      {
+       "q": "For Namaz, clothes need to be:",
+       "options": [
+        "New",
+        "Pure (clean)",
+        "Expensive",
+        "White only"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answers state that for Namaz, clothes need to be pure (clean) and Namaz should be performed on a pure (clean) place."
+      }
+     ]
+    },
+    {
+     "title": "Introduction and Importance of the Qiblah",
+     "notes_html": "<h4>What is the Qiblah?</h4>\n<p>The direction which the Muslims face for offering the Namaz is known as <b class=\"key\">the Qiblah</b>. The Qiblah of Muslims is the <b class=\"key\">Khana-e-Kaabah</b>, and all Muslims face the direction of this house of Allah Almighty when they offer Namaz.</p>\n<h4>Baitullah — the House of Allah</h4>\n<ul>\n<li><b class=\"key\">Baitullah</b> means <b class=\"key\">House of Allah Almighty</b>; it is the other name of the Khana-e-Kaabah.</li>\n<li>Khana-e-Kaabah is located in <b class=\"key\">Masjid-ul-Haram</b>, which is in <b class=\"key\">Makkah Mukarramah</b>. This place is dearer to Allah Almighty than all other places.</li>\n<li><b class=\"key\">Hazrat Ibrahim</b> (peace be upon him) constructed the Khana-e-Kaabah, along with his son <b class=\"key\">Hazrat Ismaeel</b> (peace be upon him).</li>\n<li><b class=\"key\">Hajar-e-Aswad</b> is placed in the corner of the Khana-e-Kaabah.</li>\n<li>The people who perform Hajj or Umrah <b class=\"key\">kiss the Hajar-e-Aswad</b> according to the Sunnah of Hazrat Muhammad (PBUH).</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>The Qiblah is the direction faced in Namaz; our Qiblah is the Khana-e-Kaabah.</li>\n<li>Baitullah means the House of Allah Almighty.</li>\n<li>The Kaabah is in Masjid-ul-Haram, Makkah Mukarramah.</li>\n<li>Hazrat Ibrahim and Hazrat Ismaeel (peace be upon them) constructed the Khana-e-Kaabah.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is a Qiblah?",
+       "options": [
+        "A type of Namaz",
+        "The direction which Muslims face for offering Namaz",
+        "A holy book",
+        "The name of a Masjid in Madinah"
+       ],
+       "answer": 1,
+       "why": "The book defines Qiblah as the direction which the Muslims face for offering the Namaz; the Qiblah of Muslims is the Khana-e-Kaabah."
+      },
+      {
+       "q": "What is the meaning of Baitullah?",
+       "options": [
+        "House of Allah Almighty",
+        "City of the Prophet",
+        "The blessed stone",
+        "Place of prostration"
+       ],
+       "answer": 0,
+       "why": "Baitullah means House of Allah Almighty, and it is the other name for the Khana-e-Kaabah, as the book explains."
+      },
+      {
+       "q": "Where is Khana-e-Kaabah located?",
+       "options": [
+        "In Masjid-e-Nabawi, Madinah",
+        "In Masjid Al-Aqsa, Palestine",
+        "In Masjid-ul-Haram, Makkah Mukarramah",
+        "In Masjid-e-Quba"
+       ],
+       "answer": 2,
+       "why": "The book states that Khana-e-Kaabah is located in Masjid-ul-Haram, which is in Makkah Mukarramah, a place dearer to Allah Almighty than all other places."
+      },
+      {
+       "q": "Which Nabi constructed the Khana-e-Kaabah?",
+       "options": [
+        "Hazrat Nooh (peace be upon him)",
+        "Hazrat Moosa (peace be upon him)",
+        "Hazrat Daud (peace be upon him)",
+        "Hazrat Ibrahim (peace be upon him)"
+       ],
+       "answer": 3,
+       "why": "Hazrat Ibrahim (peace be upon him) constructed the Khana-e-Kaabah, along with his son Hazrat Ismaeel (peace be upon him)."
+      },
+      {
+       "q": "Who helped Hazrat Ibrahim (peace be upon him) in constructing the Khana-e-Kaabah?",
+       "options": [
+        "His son Hazrat Ismaeel (peace be upon him)",
+        "Hazrat Jibrael (peace be upon him)",
+        "Abu Talib",
+        "Hazrat Adam (peace be upon him)"
+       ],
+       "answer": 0,
+       "why": "The book states that Hazrat Ibrahim constructed the Khana-e-Kaabah along with his son Hazrat Ismaeel (peace be upon them)."
+      },
+      {
+       "q": "______ is placed in the corner of the Khana-e-Kaabah.",
+       "options": [
+        "Hajar-e-Aswad",
+        "The Maqam-e-Ibrahim",
+        "The Black Stone's cover",
+        "Zamzam well"
+       ],
+       "answer": 0,
+       "why": "The book's fill-in answer states that Hajar-e-Aswad is placed in the corner of the Khana-e-Kaabah."
+      },
+      {
+       "q": "The people who perform Hajj or Umrah ______ the Kaabah according to the Sunnah.",
+       "options": [
+        "Walk around",
+        "Kiss the Hajar-e-Aswad of",
+        "Sit inside",
+        "Clean"
+       ],
+       "answer": 1,
+       "why": "The book states that the people who perform Hajj or Umrah kiss the Hajar-e-Aswad of the Kaabah according to the Sunnah of Hazrat Muhammad (PBUH)."
+      },
+      {
+       "q": "The Qiblah of the Muslims is:",
+       "options": [
+        "Masjid-e-Nabawi",
+        "Masjid Al-Aqsa",
+        "The Khana-e-Kaabah",
+        "Masjid-e-Quba"
+       ],
+       "answer": 2,
+       "why": "All Muslims face the direction of the Khana-e-Kaabah, the house of Allah Almighty, when they offer Namaz, so it is their Qiblah."
+      },
+      {
+       "q": "The place of Khana-e-Kaabah is dearer to Allah Almighty than:",
+       "options": [
+        "Only Makkah",
+        "All other places",
+        "Only Madinah",
+        "No other place"
+       ],
+       "answer": 1,
+       "why": "The book states that Masjid-ul-Haram in Makkah Mukarramah, where the Khana-e-Kaabah is located, is dearer to Allah Almighty than all other places."
+      },
+      {
+       "q": "The direction which Muslims face while offering ______ is called the Qiblah.",
+       "options": [
+        "Hajj",
+        "Roza",
+        "Namaz",
+        "Zakat"
+       ],
+       "answer": 2,
+       "why": "The book's fill-in answer is: 'The direction which Muslims face while offering Namaz is called the Qiblah.'"
+      }
+     ]
+    },
+    {
+     "title": "Importance and Respect of a Masjid",
+     "notes_html": "<h4>What is a Masjid?</h4>\n<p><b class=\"key\">Masjid</b> refers to a <b class=\"key\">place of prostration</b>. It is the place where Muslims get together to pray five times a day collectively, recite the Holy Quran and remain in the remembrance of Allah Almighty. Masajid are the <b class=\"key\">houses of Allah Almighty</b>, and the most beloved places to Allah Almighty are the Masajid; constructing Masajid yields great thawab (reward). As long as you stay in a Masjid, remain in <b class=\"key\">ablution (wudu)</b>.</p>\n<h4>The First Masjid — Masjid-e-Quba</h4>\n<p>When our beloved Nabi Hazrat Muhammad (PBUH) immigrated from Makkah Mukarramah to Madinah Munawwarah, he first stayed in a village near Madinah named <b class=\"key\">Quba</b> and built a Masjid there, which is famous as <b class=\"key\">Masjid-e-Quba</b>. The Nabi Karim (PBUH) himself participated in the construction of the Masajid at Quba and Madinah Munawwarah. <b class=\"key\">Masjid-e-Nabawi</b>, built after Masjid-e-Quba, is located in <b class=\"key\">Madinah Munawwarah</b>.</p>\n<h4>The Most Eminent Masajid</h4>\n<ul>\n<li>Among all the Masajid, <b class=\"key\">Masjid-ul-Haraam</b> (Kabatullah Masjid) is the most eminent.</li>\n<li>After it comes <b class=\"key\">Masjid-e-Nabawi</b>.</li>\n<li>After that comes <b class=\"key\">Masjid Al-Aqsa</b>, which is located in <b class=\"key\">Palestine</b>.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Masjid means a place of prostration; Masajid are the houses of Allah.</li>\n<li>The first Masjid, Masjid-e-Quba, was built at Quba near Madinah Munawwarah.</li>\n<li>Masjid-e-Nabawi is in Madinah Munawwarah and Masjid Al-Aqsa is in Palestine.</li>\n<li>Masjid-ul-Haraam is the most eminent of all Masajid.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is meant by Masjid?",
+       "options": [
+        "A place of prostration",
+        "A place of business",
+        "A house of a Nabi",
+        "A school only"
+       ],
+       "answer": 0,
+       "why": "Masjid refers to a place of prostration, where Muslims get together to pray five times a day collectively, recite the Holy Quran and remember Allah Almighty."
+      },
+      {
+       "q": "Where did Hazrat Muhammad (PBUH) construct the first Masjid during his immigration to Madinah?",
+       "options": [
+        "In Makkah Mukarramah",
+        "At Quba, a village near Madinah Munawwarah",
+        "In Taif",
+        "In Palestine"
+       ],
+       "answer": 1,
+       "why": "During the immigration, the Nabi (PBUH) first stayed at Quba, a village near Madinah Munawwarah, and built a Masjid there, famous as Masjid-e-Quba."
+      },
+      {
+       "q": "In which city is Masjid-e-Nabawi located?",
+       "options": [
+        "Makkah Mukarramah",
+        "Quba",
+        "Madinah Munawwarah",
+        "Jerusalem"
+       ],
+       "answer": 2,
+       "why": "Masjid-e-Nabawi is located in Madinah Munawwarah, and the Nabi Karim (PBUH) himself participated in its construction."
+      },
+      {
+       "q": "In which country is Masjid Al-Aqsa located?",
+       "options": [
+        "Saudi Arabia",
+        "Palestine",
+        "Syria",
+        "Egypt"
+       ],
+       "answer": 1,
+       "why": "The book states that Masjid Al-Aqsa is located in Palestine; among the Masajid it comes after Masjid-ul-Haraam and Masjid-e-Nabawi in eminence."
+      },
+      {
+       "q": "The most beloved places to Allah Almighty are:",
+       "options": [
+        "Masajid",
+        "Playgrounds",
+        "Amusement Parks",
+        "Markets"
+       ],
+       "answer": 0,
+       "why": "Hazrat Muhammad (PBUH) said: The most beloved places to Allah Almighty are the Masajid, and constructing Masajid yields great thawab (reward)."
+      },
+      {
+       "q": "Masjid-e-Nabawi was constructed:",
+       "options": [
+        "Before Masjid-e-Quba",
+        "Together with Masjid-e-Quba",
+        "After Masjid-e-Quba",
+        "Before the Hijrat"
+       ],
+       "answer": 2,
+       "why": "The Nabi (PBUH) first constructed Masjid-e-Quba at Quba, and when he reached Madinah Munawwarah, he constructed Masjid-e-Nabawi there, so it was built after Masjid-e-Quba."
+      },
+      {
+       "q": "The most eminent Masjid among all is:",
+       "options": [
+        "Masjid-e-Nabawi",
+        "Masjid-e-Aqsa",
+        "Masjid-e-Quba",
+        "Masjid-ul-Haraam"
+       ],
+       "answer": 3,
+       "why": "Among all the Masajid, Kabatullah Masjid, which is also known as Masjid-ul-Haraam, is the most eminent, then Masjid-e-Nabawi, and after that Masjid Al-Aqsa."
+      },
+      {
+       "q": "Masajid are the houses of:",
+       "options": [
+        "The Ambiya",
+        "Allah Almighty",
+        "The Caliphs",
+        "The people"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states: 'Masajid are the houses of Allah Almighty', which is why they must be respected."
+      },
+      {
+       "q": "As long as you stay in a Masjid, remain in:",
+       "options": [
+        "Silence only",
+        "Ablution (wudu)",
+        "Fasting",
+        "Ihram"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer teaches a manner of the Masjid: 'As long as you stay in Masjid, remain in ablution (wudu).'"
+      },
+      {
+       "q": "The Nabi (PBUH) constructed Masjid-e-Quba in a village located near:",
+       "options": [
+        "Makkah Mukarramah",
+        "Taif",
+        "Madinah Munawwarah",
+        "Basra"
+       ],
+       "answer": 2,
+       "why": "Quba was a village located near Madinah Munawwarah, where the Nabi (PBUH) stayed first during his immigration and built the Masjid."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Seerat-e-Tayyaba",
+   "lessons": [
+    {
+     "title": "Guardianship of Abu Talib",
+     "notes_html": "<h4>Birth of the Nabi Karim (PBUH)</h4>\n<ul>\n<li>The Nabi Karim (PBUH) was born in <b class=\"key\">Makkah Mukarramah</b>, a city of Arabia where the house of Allah Almighty, the Kaaba, is located. He was born in the early hours of the morning.</li>\n<li>He was born in the month of <b class=\"key\">Rabi-ul-Awwal</b>.</li>\n<li>He belonged to the family of <b class=\"key\">Banu Hashim</b>, which is a branch of the <b class=\"key\">Quraish</b>. The Quraish tribe was seen with a lot of respect among the Arabs.</li>\n</ul>\n<h4>His Blessed Family</h4>\n<ul>\n<li><b class=\"key\">Hazrat Abdullah</b> — his respected father.</li>\n<li><b class=\"key\">Hazrat Aamina</b> — his respected mother.</li>\n<li><b class=\"key\">Hazrat Abdul Muttalib</b> — his respected grandfather.</li>\n<li><b class=\"key\">Hazrat Fatima bint Asad</b> — his respected paternal aunt.</li>\n<li><b class=\"key\">Hazrat Abu Talib</b> — his respected paternal uncle.</li>\n<li><b class=\"key\">Hazrat Halima Sadia</b> — his nursing lady.</li>\n</ul>\n<h4>Guardianship of Abu Talib</h4>\n<p>When the Nabi Karim (PBUH) was born, his grandfather Abdul Muttalib took him straight to the <b class=\"key\">Khana-e-Kaabah</b> and prayed for him there. After a few days, following the custom of the Arabs, he handed the child over to <b class=\"key\">Hazrat Halima</b> (may Allah be pleased with her), who had come to Makkah Mukarramah from her village searching for children to nurse. When Abdul Muttalib was about to pass away, he gave the responsibility of his blessed grandchild to his son <b class=\"key\">Abu Talib</b>, who took care of his lovely nephew and loved him more than his sons.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The Nabi Karim (PBUH) was born in Makkah Mukarramah in Rabi-ul-Awwal.</li>\n<li>He belonged to Banu Hashim, a branch of the Quraish tribe.</li>\n<li>Hazrat Halima Sadia was his nursing lady.</li>\n<li>Abdul Muttalib handed his guardianship to Abu Talib before passing away.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In which city of Arabia was the Nabi Karim (PBUH) born?",
+       "options": [
+        "Madinah Munawwarah",
+        "Makkah Mukarramah",
+        "Taif",
+        "Basra"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) was born in Makkah Mukarramah, a city of Arabia where the house of Allah Almighty, the Kaaba, is located, in the early hours of the morning."
+      },
+      {
+       "q": "To which family did the Nabi Karim (PBUH) belong?",
+       "options": [
+        "Banu Hashim, a branch of the Quraish",
+        "Banu Zubaid",
+        "Banu Umayyah",
+        "The family of Aazar"
+       ],
+       "answer": 0,
+       "why": "The Nabi Karim (PBUH) belonged to the family of Banu Hashim, which is a branch of the Quraish, a tribe seen with a lot of respect among the Arabs."
+      },
+      {
+       "q": "In which month was the Nabi Karim (PBUH) born?",
+       "options": [
+        "Ramadan",
+        "Muharram",
+        "Rabi-ul-Awwal",
+        "Rajab"
+       ],
+       "answer": 2,
+       "why": "The book states that the Nabi Karim (PBUH) was born in the month of Rabi-ul-Awwal."
+      },
+      {
+       "q": "To whom did Abdul Muttalib hand over his grandchild when he was about to pass away?",
+       "options": [
+        "Hazrat Halima",
+        "Abu Talib",
+        "Abdullah ibn Jud'aan",
+        "'Aas bin Waail"
+       ],
+       "answer": 1,
+       "why": "When Abdul Muttalib was about to die, he gave the responsibility of his blessed grandchild to his son Abu Talib, who loved his nephew more than his sons."
+      },
+      {
+       "q": "Grandfather Abdul Muttalib took his newborn grandson Hazrat Muhammad (PBUH) to:",
+       "options": [
+        "His house",
+        "The house of Abu Talib",
+        "Khana-e-Kaabah",
+        "The market"
+       ],
+       "answer": 2,
+       "why": "When the Nabi Karim (PBUH) came into this world, his grandfather Abdul Muttalib took him straight to the Khana-e-Kaabah and prayed for him there."
+      },
+      {
+       "q": "Abdul Muttalib handed the baby over to Hazrat Halima (may Allah be pleased with her):",
+       "options": [
+        "After a few days",
+        "After two years",
+        "After six years",
+        "After twelve years"
+       ],
+       "answer": 0,
+       "why": "Abdul Muttalib handed his blessed grandchild to a pious woman named Halima just after a few days, following the custom of the Arabs."
+      },
+      {
+       "q": "Hazrat Halima Sadia (may Allah be pleased with her), searching for children to nurse, came to the city of:",
+       "options": [
+        "Madinah Munawwarah",
+        "Taif",
+        "Makkah Mukarramah",
+        "Syria"
+       ],
+       "answer": 2,
+       "why": "Hazrat Halima Sadia had come to Makkah Mukarramah from her village to search for children whom she could nurse."
+      },
+      {
+       "q": "Who was the nursing lady of the Nabi Karim (PBUH)?",
+       "options": [
+        "Hazrat Aamina",
+        "Hazrat Fatima bint Asad",
+        "Hazrat Khadija",
+        "Hazrat Halima Sadia"
+       ],
+       "answer": 3,
+       "why": "In the book's matching exercise, Hazrat Halima Sadia is matched with 'Nursing lady'; Hazrat Aamina is his mother and Hazrat Fatima bint Asad his paternal aunt."
+      },
+      {
+       "q": "Hazrat Fatima bint Asad was the Nabi Karim's (PBUH):",
+       "options": [
+        "Respected mother",
+        "Respected paternal aunt",
+        "Nursing lady",
+        "Respected grandmother"
+       ],
+       "answer": 1,
+       "why": "The book matches Hazrat Fatima bint Asad with 'Respected paternal aunt', Hazrat Aamina with mother, and Hazrat Abdul Muttalib with grandfather."
+      },
+      {
+       "q": "Uncle Abu Talib loved his nephew:",
+       "options": [
+        "Less than his sons",
+        "Like other children",
+        "More than his sons",
+        "Only sometimes"
+       ],
+       "answer": 2,
+       "why": "The book states that Uncle Abu Talib took care of his lovely nephew and loved him more than his sons."
+      }
+     ]
+    },
+    {
+     "title": "The Journey to Syria",
+     "notes_html": "<h4>Abu Talib the Businessman</h4>\n<p>Hazrat Abu Talib was a <b class=\"key\">businessman</b>. Most of the people of Makkah Mukarramah were businessmen, and he used to go to <b class=\"key\">Syria</b> very frequently for business. When the Nabi Karim (PBUH) became <b class=\"key\">12 years old</b>, Abu Talib decided to visit Syria again and took his nephew along. At the time of departure, the Nabi Karim (PBUH) hugged his <b class=\"key\">uncle</b>.</p>\n<h4>The Monk Bahira</h4>\n<p>When the caravan reached <b class=\"key\">Basra</b>, a place in Syria, a Christian monk named <b class=\"key\">Bahira</b> came out of his church, looked at the Nabi Karim (PBUH) and said that this child is the <b class=\"key\">leader of the Ambiya</b>. Bahira warned them not to take this child any further, as the <b class=\"key\">Jews</b> could hurt him. So Hazrat Abu Talib sold his goods at that place and returned to <b class=\"key\">Makkah Mukarramah</b> with the Nabi Karim (PBUH).</p>\n<h4>Key Points</h4>\n<ul>\n<li>Abu Talib was a businessman who travelled to Syria for trade.</li>\n<li>The Nabi Karim (PBUH) was 12 years old on this journey.</li>\n<li>The Christian monk Bahira recognised him at Basra as the leader of the Ambiya.</li>\n<li>Abu Talib sold his goods there and returned to Makkah Mukarramah.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What was the profession of Abu Talib?",
+       "options": [
+        "Agriculture",
+        "Business",
+        "Industry",
+        "Teaching"
+       ],
+       "answer": 1,
+       "why": "Hazrat Abu Talib was a businessman; most of the people of Makkah Mukarramah were businessmen, and he used to go to Syria for business."
+      },
+      {
+       "q": "For the purpose of business, which country did Abu Talib decide to visit?",
+       "options": [
+        "Palestine",
+        "Syria",
+        "Egypt",
+        "Yemen"
+       ],
+       "answer": 1,
+       "why": "For the purpose of business, Hazrat Abu Talib decided to visit the country of Syria and took his nephew, the Nabi Karim (PBUH), along with him."
+      },
+      {
+       "q": "During this journey to Syria, the Nabi Karim (PBUH) was aged:",
+       "options": [
+        "6 years",
+        "8 years",
+        "12 years",
+        "25 years"
+       ],
+       "answer": 2,
+       "why": "When the Nabi Karim (PBUH) became 12 years old, Hazrat Abu Talib decided to visit Syria again for a business trip and took him along."
+      },
+      {
+       "q": "What was the name of the Christian monk?",
+       "options": [
+        "Bahira",
+        "Maysara",
+        "Jud'aan",
+        "Waail"
+       ],
+       "answer": 0,
+       "why": "The name of the Christian monk was Bahira; when the caravan reached Basra in Syria, he came out of his church and recognised the Nabi Karim (PBUH)."
+      },
+      {
+       "q": "At which place in Syria did the monk meet the caravan?",
+       "options": [
+        "Damascus",
+        "Basra",
+        "Quba",
+        "Taif"
+       ],
+       "answer": 1,
+       "why": "The book states that when the caravan reached 'Basra', a place in Syria, Bahira came out of his church and looked at the Nabi Karim (PBUH)."
+      },
+      {
+       "q": "Bahira said that this child is the leader of the:",
+       "options": [
+        "Quraish",
+        "Ambiya",
+        "Businessmen",
+        "Arabs"
+       ],
+       "answer": 1,
+       "why": "Bahira looked at the Nabi Karim (PBUH) and said that this child is the leader of the Ambiya, as the book's fill-in answer states."
+      },
+      {
+       "q": "Bahira warned that the child should not be taken further, as they would hurt him:",
+       "options": [
+        "Polytheists of Makkah",
+        "Christians",
+        "Jews",
+        "Romans"
+       ],
+       "answer": 2,
+       "why": "Bahira told them not to take this child any further as the Jews could hurt him, so Abu Talib sold his goods at that place and returned."
+      },
+      {
+       "q": "At the time of departure to Syria, Nabi Hazrat Muhammad (PBUH) hugged his:",
+       "options": [
+        "Grandfather",
+        "Uncle (Hazrat Abu Talib)",
+        "Friend",
+        "Brother"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states: 'At the time of departure to Syria, Nabi Hazrat Muhammad (PBUH) hugged his uncle (Hazrat Abu Talib).'"
+      },
+      {
+       "q": "After meeting Bahira, Hazrat Abu Talib returned to:",
+       "options": [
+        "Madinah Munawwarah",
+        "Basra city",
+        "Makkah Mukarramah",
+        "Taif"
+       ],
+       "answer": 2,
+       "why": "Hazrat Abu Talib took the Nabi Karim (PBUH) and returned to Makkah Mukarramah after selling his goods at Basra."
+      },
+      {
+       "q": "Most of the people of Makkah Mukarramah were:",
+       "options": [
+        "Farmers",
+        "Businessmen",
+        "Soldiers",
+        "Priests"
+       ],
+       "answer": 1,
+       "why": "The book states that most of the people of Makkah Mukarramah were businessmen, and Abu Talib also used to go to Syria many times for business."
+      }
+     ]
+    },
+    {
+     "title": "Hilf-ul-Fudul",
+     "notes_html": "<h4>What is Hilf-ul-Fudul?</h4>\n<p>The word <b class=\"key\">'Hilf' (حلف)</b> means <b class=\"key\">agreement</b>. 'Al-Fudul' is the plural of 'Al-Fadl'. The agreement was named <b class=\"key\">Hilf-ul-Fudul</b> because the people who helped to reach the consensus on this agreement had the word <b class=\"key\">Fadl</b> in the beginning of their names.</p>\n<h4>Why was the Agreement Made?</h4>\n<p>Incidentally, a man from the <b class=\"key\">Zubaid tribe</b> came to Makkah Mukarramah with some business goods. <b class=\"key\">'Aas bin Waail</b> purchased some goods from him but <b class=\"key\">refused to make the payment</b>. The stranger cried: \"I am a stranger, help me.\" Then the respectable leaders of the Quraish gathered at the house of <b class=\"key\">Abdullah ibn Jud'aan</b>, who was a pious and philanthropist person, and made this agreement. The Nabi Karim (PBUH) also participated in it.</p>\n<h4>Aim of the Agreement</h4>\n<ul>\n<li><b class=\"key\">Innocent victims</b> would be helped against the cruel people.</li>\n<li>They would not let any unjust person live in Makkah Mukarramah.</li>\n</ul>\n<h4>What the Nabi Karim (PBUH) Said</h4>\n<p>The Nabi Karim (PBUH) said that even if he was offered <b class=\"key\">crimson camels</b> in exchange for this agreement, he would have rejected the offer; and even today, if he is asked to participate in an agreement like Hilf-ul-Fudul, he is ready to accept it.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Hilf means agreement; Al-Fudul is the plural of Al-Fadl.</li>\n<li>The agreement was made at Abdullah ibn Jud'aan's house.</li>\n<li>Its aim was to help innocent victims against the cruel.</li>\n<li>'Aas bin Waail had refused to pay the Zubaid trader for his goods.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the meaning of 'Hilf'?",
+       "options": [
+        "War",
+        "Agreement",
+        "Journey",
+        "Market"
+       ],
+       "answer": 1,
+       "why": "The word 'Hilf' (حلف) means agreement. 'Al-Fudul' is the plural of 'Al-Fadl', as the book explains."
+      },
+      {
+       "q": "Why was the agreement named Hilf-ul-Fudul?",
+       "options": [
+        "It was made in the month of Fudul",
+        "The helpers had the word Fadl in the beginning of their names",
+        "It was made at Fudul's house",
+        "It was named after a tribe"
+       ],
+       "answer": 1,
+       "why": "The people who helped to reach the consensus on this agreement had the word Fadl in the beginning of their names, that is why it is called Hilf-ul-Fudul."
+      },
+      {
+       "q": "What was the aim of the Hilf-ul-Fudul agreement?",
+       "options": [
+        "To help the innocent victims against the cruel people",
+        "To build the Kaaba",
+        "To start a business",
+        "To choose a chief"
+       ],
+       "answer": 0,
+       "why": "The aim of the agreement was that they will help the innocent victims against the cruel people and will not let any unjust person live in Makkah Mukarramah."
+      },
+      {
+       "q": "A man from which tribe came to Makkah Mukarramah with business goods?",
+       "options": [
+        "Quraish",
+        "Zubaid",
+        "Banu Hashim",
+        "Thaqif"
+       ],
+       "answer": 1,
+       "why": "Incidentally, a man from the Zubaid tribe came to Makkah Mukarramah with some business goods, and 'Aas bin Waail refused to pay him."
+      },
+      {
+       "q": "Who purchased goods from the Zubaid trader but refused to make the payment?",
+       "options": [
+        "Abu Talib",
+        "Abdullah ibn Jud'aan",
+        "'Aas bin Waail",
+        "Abu Jahl"
+       ],
+       "answer": 2,
+       "why": "'Aas bin Waail purchased some goods from him but refused to make the payment, which led the leaders to make the Hilf-ul-Fudul agreement."
+      },
+      {
+       "q": "The respectable leaders of the Quraish gathered at whose house?",
+       "options": [
+        "Abu Talib's house",
+        "Abdullah ibn Jud'aan's house",
+        "The Khana-e-Kaabah",
+        "Hazrat Khadija's house"
+       ],
+       "answer": 1,
+       "why": "The leaders gathered at Abdullah ibn Jud'aan's house, who was a pious and philanthropist person, and agreed upon the agreement there."
+      },
+      {
+       "q": "What did the stranger cry out?",
+       "options": [
+        "\"I am a trader, buy from me\"",
+        "\"I am a stranger, help me\"",
+        "\"I am lost\"",
+        "\"I am a leader\""
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer records the stranger's cry: 'I am a stranger (from outside Makkah Mukarramah), help me.'"
+      },
+      {
+       "q": "What did the Nabi Karim (PBUH) say about this agreement?",
+       "options": [
+        "He would not join such an agreement again",
+        "Even for crimson camels in exchange, he would not give it up, and he is ready to accept such an agreement even today",
+        "It was only for the Quraish",
+        "It ended with his Nabi-hood"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said that even if he was offered crimson camels in exchange for this agreement, he would have rejected the offer, and even today he is ready to accept such an agreement."
+      },
+      {
+       "q": "In the Hilf-ul-Fudul, it was decided that ______ would be helped against the cruel ones.",
+       "options": [
+        "The rich",
+        "The leaders",
+        "Innocent victims",
+        "The traders only"
+       ],
+       "answer": 2,
+       "why": "In the Hilf-ul-Fudul it was decided that innocent victims would be helped against the cruel ones, as the book's fill-in answer states."
+      },
+      {
+       "q": "Did the Nabi Karim (PBUH) participate in the Hilf-ul-Fudul agreement?",
+       "options": [
+        "No, he was in Syria",
+        "Yes, he also participated in this agreement",
+        "No, he was too young to know of it",
+        "He only heard about it later"
+       ],
+       "answer": 1,
+       "why": "The book's matching exercise states: 'The Nabi Karim (PBUH) also — Participated in this agreement.'"
+      }
+     ]
+    },
+    {
+     "title": "Marriage with Hazrat Khadija (may Allah be pleased with her)",
+     "notes_html": "<h4>Sadiq and Ameen</h4>\n<p>When the Nabi Karim (PBUH) grew up, he adopted <b class=\"key\">business</b> as a profession. In business, he always worked with <b class=\"key\">honesty</b>; he never lied in his life, nor did he commit any act of dishonesty. Everyone started calling him <b class=\"key\">'Sadiq' (The Truthful)</b> and <b class=\"key\">'Ameen' (The Trustworthy)</b>.</p>\n<h4>The Business Journey for Hazrat Khadija</h4>\n<p>When his honesty and trustworthiness became famous in Makkah Mukarramah, <b class=\"key\">Hazrat Khadija</b> (may Allah be pleased with her) sent a message asking him to take her business goods to <b class=\"key\">Syria</b> to trade, and offered him a <b class=\"key\">50% share of the profit</b>. On this journey he was accompanied by her slave <b class=\"key\">Maysara</b>. When they returned, Maysara praised the <b class=\"key\">honesty and character</b> of the Nabi Karim (PBUH).</p>\n<h4>The Marriage</h4>\n<p>It was <b class=\"key\">Hazrat Khadija</b> (may Allah be pleased with her) who <b class=\"key\">sent the marriage proposal</b> to the Nabi Karim (PBUH); he accepted it after consultation with his uncle Abu Talib. At the time of the marriage, the Nabi Karim (PBUH) was <b class=\"key\">twenty-five (25) years</b> old and Hazrat Khadija (may Allah be pleased with her) was <b class=\"key\">forty (40) years</b> old.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The Nabi Karim (PBUH) adopted business and always worked with honesty.</li>\n<li>His famous titles were Sadiq (Truthful) and Ameen (Trustworthy).</li>\n<li>Hazrat Khadija offered him a 50% share of the profit for the Syria trade journey.</li>\n<li>At the marriage, he was 25 years old and Hazrat Khadija was 40 years old.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which profession did the Nabi Karim (PBUH) adopt after he grew up?",
+       "options": [
+        "Agriculture",
+        "Business",
+        "Teaching",
+        "Industry"
+       ],
+       "answer": 1,
+       "why": "After he grew up, the Nabi Karim (PBUH) adopted business as a profession, in which he always worked with honesty and never lied."
+      },
+      {
+       "q": "With what titles was the Nabi Karim (PBUH) famous?",
+       "options": [
+        "Sadiq (The Truthful) and Ameen (The Trustworthy)",
+        "Siddiq and Farooq",
+        "Leader and Chief",
+        "Scholar and Poet"
+       ],
+       "answer": 0,
+       "why": "The Nabi Karim (PBUH) was famous with the titles of 'Sadiq' (The Truthful) and 'Ameen' (The Trustworthy) because of his honesty."
+      },
+      {
+       "q": "What message did Hazrat Khadija (may Allah be pleased with her) send to the Nabi Karim (PBUH)?",
+       "options": [
+        "To lead the Namaz",
+        "To take her business goods to Syria to trade",
+        "To build a house",
+        "To teach her children"
+       ],
+       "answer": 1,
+       "why": "Hazrat Khadija asked him to take her business goods to Syria to trade and offered him a 50% share of the profit."
+      },
+      {
+       "q": "How much share of the profit did Hazrat Khadija offer him?",
+       "options": [
+        "25%",
+        "30%",
+        "50%",
+        "10%"
+       ],
+       "answer": 2,
+       "why": "The book states that Hazrat Khadija offered the Nabi Karim (PBUH) a 50% percent share of the profit for taking her goods to Syria."
+      },
+      {
+       "q": "Who accompanied the Nabi Karim (PBUH) on this business journey to Syria?",
+       "options": [
+        "Abu Talib",
+        "Maysara, the slave of Hazrat Khadija",
+        "Bahira the monk",
+        "Abdullah ibn Jud'aan"
+       ],
+       "answer": 1,
+       "why": "On this business trip to Syria, the Nabi Karim (PBUH) was accompanied by a slave of Hazrat Khadija known as 'Maysara'."
+      },
+      {
+       "q": "When they returned, Maysara praised the ______ of the Nabi Karim (PBUH).",
+       "options": [
+        "Wealth and goods",
+        "Honesty and character",
+        "Speed and strength",
+        "Family and tribe"
+       ],
+       "answer": 1,
+       "why": "When they returned, Maysara the slave praised the honesty and character of the Nabi Karim (PBUH) before Hazrat Khadija."
+      },
+      {
+       "q": "Who sent the marriage proposal?",
+       "options": [
+        "The Nabi Karim (PBUH)",
+        "Abu Talib",
+        "Hazrat Khadija (may Allah be pleased with her)",
+        "Abdul Muttalib"
+       ],
+       "answer": 2,
+       "why": "Hazrat Khadija (may Allah be pleased with her) sent a marriage proposal to the Nabi Karim (PBUH), which he accepted after consultation with his uncle Abu Talib."
+      },
+      {
+       "q": "At the time of the marriage, the age of the Nabi Karim (PBUH) was:",
+       "options": [
+        "12 years",
+        "40 years",
+        "25 years",
+        "33 years"
+       ],
+       "answer": 2,
+       "why": "At the time of the marriage, the Nabi Karim (PBUH) was twenty-five (25) years old and Hazrat Khadija (may Allah be pleased with her) was forty (40) years old."
+      },
+      {
+       "q": "At the time of the marriage, the age of Hazrat Khadija (may Allah be pleased with her) was:",
+       "options": [
+        "25 years",
+        "30 years",
+        "45 years",
+        "40 years"
+       ],
+       "answer": 3,
+       "why": "The book states that Hazrat Khadija (may Allah be pleased with her) was forty (40) years old at the time of the marriage."
+      },
+      {
+       "q": "In business, the Nabi Karim (PBUH) always worked with:",
+       "options": [
+        "Honesty",
+        "Partners from Syria",
+        "His uncle's goods",
+        "Borrowed money"
+       ],
+       "answer": 0,
+       "why": "In business, the Nabi Karim (PBUH) always worked with honesty, and due to his honesty he earned a lot more profit than other businessmen."
+      }
+     ]
+    },
+    {
+     "title": "Fixing of Hajar-e-Aswad",
+     "notes_html": "<h4>The Kaaba is Damaged</h4>\n<p>Once it rained a lot and the Khana-e-Kaabah was filled with rain water, which <b class=\"key\">damaged its structure</b>. So the Quraish decided to <b class=\"key\">construct (rebuild) the Khana-e-Kaabah</b>.</p>\n<h4>The Fight Between the Tribes</h4>\n<p>The tribes fought on <b class=\"key\">fixing the Hajar-e-Aswad back in the wall</b>. The leader of each tribe wanted the <b class=\"key\">honour</b> of fixing Hajar-e-Aswad for himself, so there was a fight amongst the tribes.</p>\n<h4>The Wise Decision</h4>\n<p>To end the conflict, it was decided that <b class=\"key\">whoever came into the Khana-e-Kaabah first</b>, he would decide how to end this conflict. With the grace of Allah Almighty, it was the <b class=\"key\">Nabi Karim (PBUH)</b> who entered the Kaaba first. When the people saw him, they exclaimed: \"The <b class=\"key\">Ameen</b> (trustworthy) is here, and we will be happy with his decision.\"</p>\n<p>The Nabi Karim (PBUH) decided to place the <b class=\"key\">Hajar-e-Aswad on a blanket</b>, which would be lifted by the leaders of all the tribes. All the leaders <b class=\"key\">happily accepted</b> his suggestion, and with his vision and strategy the <b class=\"key\">conflict ended</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Heavy rain damaged the Khana-e-Kaabah, so the Quraish rebuilt it.</li>\n<li>The tribes fought over the honour of fixing Hajar-e-Aswad in the wall.</li>\n<li>The Nabi Karim (PBUH) entered first and was chosen to decide.</li>\n<li>He placed the stone on a blanket lifted by all the tribal leaders, ending the conflict.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Due to which reason was the building of the Kaaba damaged?",
+       "options": [
+        "An earthquake",
+        "Heavy rain filled it with water and damaged its structure",
+        "A fire",
+        "Old age only"
+       ],
+       "answer": 1,
+       "why": "Once it rained a lot and the Khana-e-Kaabah was filled with rain water which damaged its structure, so the Quraish decided to construct the Khana-e-Kaabah."
+      },
+      {
+       "q": "On which issue did the tribes fight?",
+       "options": [
+        "Fixing the Hajar-e-Aswad back in the wall",
+        "Choosing a chief",
+        "Dividing the goods",
+        "Building a market"
+       ],
+       "answer": 0,
+       "why": "The tribes fought on fixing the Hajar-e-Aswad back in the wall, because the leader of each tribe wanted the honour of fixing it for himself."
+      },
+      {
+       "q": "The leader of each tribe wanted:",
+       "options": [
+        "This trust should be given to him",
+        "This wealth should be given to him",
+        "This honour should be given to him",
+        "This land should be given to him"
+       ],
+       "answer": 2,
+       "why": "The leader of each tribe wanted the honor of fixing Hajar-e-Aswad for himself, which caused the fight amongst the tribes."
+      },
+      {
+       "q": "To end the conflict, what was decided?",
+       "options": [
+        "The eldest leader would fix the stone",
+        "Whoever came into the Khana-e-Kaabah first would decide",
+        "The Quraish would vote",
+        "The stone would not be fixed"
+       ],
+       "answer": 1,
+       "why": "It was decided that whoever came into the Khana-e-Kaabah first, he would decide how to end this conflict."
+      },
+      {
+       "q": "Who entered the Kaaba first?",
+       "options": [
+        "Abu Talib",
+        "Abdullah ibn Jud'aan",
+        "The Nabi Karim (PBUH)",
+        "'Aas bin Waail"
+       ],
+       "answer": 2,
+       "why": "With the grace of Allah Almighty, it was the Nabi Karim (PBUH) who entered the Kaaba first, and the people exclaimed that the Ameen is here."
+      },
+      {
+       "q": "When the people saw the Nabi Karim (PBUH), they exclaimed: the ______ is here.",
+       "options": [
+        "Sadiq",
+        "Ameen (trustworthy)",
+        "Leader",
+        "Chief"
+       ],
+       "answer": 1,
+       "why": "The people exclaimed: the Ameen (trustworthy) is here, and we will be happy with his decision."
+      },
+      {
+       "q": "Hajar-e-Aswad was fixed in the Kaaba:",
+       "options": [
+        "On the roof",
+        "In the wall",
+        "On the door",
+        "Under the floor"
+       ],
+       "answer": 1,
+       "why": "The wall in which the sacred stone 'Hajar-e-Aswad' was fixed had broken down, and it was fixed back in the wall."
+      },
+      {
+       "q": "The Nabi Karim (PBUH) decided to place the Hajar-e-Aswad on a ______.",
+       "options": [
+        "Blanket, lifted by the leaders of all the tribes",
+        "Table",
+        "Camel",
+        "Wooden box"
+       ],
+       "answer": 0,
+       "why": "The Nabi Karim (PBUH) decided to place the Hajar-e-Aswad on a blanket, which would be lifted by the leaders of all the tribes."
+      },
+      {
+       "q": "All the leaders accepted the decision of the Nabi Karim (PBUH):",
+       "options": [
+        "Forcefully",
+        "Begrudgingly",
+        "Happily",
+        "After a long fight"
+       ],
+       "answer": 2,
+       "why": "All the leaders of the tribes happily accepted the suggestion of the Nabi Karim (PBUH), and with his vision and strategy the conflict ended."
+      },
+      {
+       "q": "Due to the Nabi Karim (PBUH), the ______ ended.",
+       "options": [
+        "Rain",
+        "Conflict",
+        "Journey",
+        "Business"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states: 'Due to the Nabi Karim (PBUH) the conflict ended', because every tribe shared in the honour through his wise plan."
+      }
+     ]
+    },
+    {
+     "title": "Isolation in the Cave of Hira",
+     "notes_html": "<h4>Mount Noor and the Cave of Hira</h4>\n<ul>\n<li><b class=\"key\">Mount Noor (Jabl-e-Noor)</b> is located on the eastern side of Makkah Mukarramah, at a distance of <b class=\"key\">4 km</b> from Masjid-ul-Haraam.</li>\n<li>The <b class=\"key\">Cave of Hira</b> is located on the top of Mount Noor, at a height of <b class=\"key\">632 meters</b>.</li>\n</ul>\n<h4>Why did he go to the Cave?</h4>\n<p>The Nabi Karim (PBUH) went to the Cave of Hira to stay away from other people and remain in <b class=\"key\">isolation</b>. Over there, he would remain busy with the <b class=\"key\">remembrance of Allah Almighty</b> and with pondering upon the greatness of Allah and the condition of his people, safe from the evils of the society. Before the bestowment of Nabi-hood, he was inclined towards remaining in isolation.</p>\n<h4>The First Revelation</h4>\n<ul>\n<li>The angel who brought revelation was <b class=\"key\">Hazrat Jibrael</b> (peace be upon him); through him the message of Allah reached the Nabi Karim (PBUH).</li>\n<li>The <b class=\"key\">first revelation</b> was revealed upon the Nabi Karim (PBUH) in the <b class=\"key\">Cave of Hira</b>, and this revelation was the initial part of the Holy Quran.</li>\n<li>When Nabi-hood was bestowed upon him, his age was <b class=\"key\">40 years</b>.</li>\n<li>He was made a Nabi <b class=\"key\">after the arrival of the revelation</b>; then he taught the people about Tauheed (Monotheism).</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>The Cave of Hira is on top of Mount Noor, 4 km from Masjid-ul-Haraam.</li>\n<li>The Nabi Karim (PBUH) went there for isolation and remembrance of Allah.</li>\n<li>Hazrat Jibrael (peace be upon him) brought the first revelation there.</li>\n<li>He was 40 years old when Nabi-hood was bestowed upon him.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Where is the Cave of Hira located?",
+       "options": [
+        "On the top of Mount Noor (Jabl-e-Noor)",
+        "In Madinah Munawwarah",
+        "Near Quba",
+        "In the valley of Arafat"
+       ],
+       "answer": 0,
+       "why": "The Cave of Hira is located on the top of Mount Noor (Jabl-e-Noor), where the Nabi Karim (PBUH) used to ponder upon the greatness of Allah Almighty."
+      },
+      {
+       "q": "At what distance is Mount Noor located from Masjid-ul-Haraam?",
+       "options": [
+        "2 km",
+        "4 km",
+        "10 km",
+        "632 km"
+       ],
+       "answer": 1,
+       "why": "Mount Noor is located at a distance of 4 km from Masjid-ul-Haraam, and the Cave of Hira on its top is at a height of 632 meters."
+      },
+      {
+       "q": "Why did the Nabi Karim (PBUH) go to the Cave of Hira?",
+       "options": [
+        "For business",
+        "To stay in isolation and remember Allah Almighty",
+        "To meet the monk Bahira",
+        "To hide his goods"
+       ],
+       "answer": 1,
+       "why": "He went to the Cave of Hira to stay away from other people and remain in isolation, busy with the remembrance of Allah Almighty and pondering upon the condition of his people."
+      },
+      {
+       "q": "The angel who brought revelation upon the Nabi Karim (PBUH) was:",
+       "options": [
+        "Hazrat Mikail (peace be upon him)",
+        "Hazrat Izrail (peace be upon him)",
+        "Hazrat Jibrael (peace be upon him)",
+        "Hazrat Israfeel (peace be upon him)"
+       ],
+       "answer": 2,
+       "why": "Allah Almighty sent His special Angel, Hazrat Jibrael (peace be upon him), who delivered the message of Allah Almighty in the form of revelation."
+      },
+      {
+       "q": "The first revelation was revealed upon the Nabi Karim (PBUH):",
+       "options": [
+        "In the Cave of Hira",
+        "In the Cave of Thawr",
+        "In the Cave of Ashab-e-Kahf",
+        "In Masjid-e-Nabawi"
+       ],
+       "answer": 0,
+       "why": "The Nabi Karim (PBUH) was present in the Cave of Hira when the first revelation came, and this revelation was the initial part of the Holy Quran."
+      },
+      {
+       "q": "When the Nabi-hood was bestowed upon the Nabi Karim (PBUH), his age was:",
+       "options": [
+        "50 years",
+        "30 years",
+        "40 years",
+        "25 years"
+       ],
+       "answer": 2,
+       "why": "At that time, the blessed age of the Nabi Karim (PBUH) was 40 years, as the book states."
+      },
+      {
+       "q": "The Nabi Karim (PBUH) was made a Nabi:",
+       "options": [
+        "Before the arrival of the revelation",
+        "After the arrival of the revelation",
+        "After Hilf-ul-Fudul",
+        "At the age of 12 years"
+       ],
+       "answer": 1,
+       "why": "It was due to the revelation that he was appointed as a Nabi and a Rasool, and then he taught the people about the concept of Tauheed (Monotheism)."
+      },
+      {
+       "q": "Before the bestowment of Nabi-hood, the Nabi Karim (PBUH) was inclined towards:",
+       "options": [
+        "Business only",
+        "Remaining in isolation",
+        "Travelling to Syria",
+        "Leading the tribes"
+       ],
+       "answer": 1,
+       "why": "The book's matching answer states: 'Before the bestowment of Nabi-hood — was inclined towards remaining in isolation.'"
+      },
+      {
+       "q": "The height of the Cave of Hira on Mount Noor is:",
+       "options": [
+        "100 meters",
+        "250 meters",
+        "632 meters",
+        "1000 meters"
+       ],
+       "answer": 2,
+       "why": "The book states that Mount Noor is 4 km from Masjid-ul-Haraam and the Cave of Hira on its top is at a height of 632 meters."
+      },
+      {
+       "q": "Mount Noor is located on which side of Makkah Mukarramah?",
+       "options": [
+        "Western side",
+        "Eastern side",
+        "Northern side",
+        "Southern side"
+       ],
+       "answer": 1,
+       "why": "Mount Noor (Jabl-e-Noor) is located on the eastern side of Makkah Mukarramah and the left side of Arafat."
+      }
+     ]
+    },
+    {
+     "title": "Truthfulness, Trustworthiness and Best Practices of Hazrat Muhammad (PBUH)",
+     "notes_html": "<h4>Al-Sadiq — the Truthful</h4>\n<p>The people of Makkah Mukarramah entitled the Nabi Karim (PBUH) as <b class=\"key\">'Al-Sadiq' (the Truthful)</b>, because he always spoke the truth and never lied in his life. When he climbed upon <b class=\"key\">Mount Safa</b> and invited the people towards Tauheed, they replied: \"You have <b class=\"key\">never told a lie</b>.\" Even Abu Jahl said: \"I do not call you a <b class=\"key\">liar</b>.\"</p>\n<h4>Lying — a Sign of a Hypocrite</h4>\n<p>The Nabi Karim (PBUH) said that there are <b class=\"key\">three signs of a hypocrite</b>, and one of them is that he always <b class=\"key\">lies</b> when he speaks. So telling lies is a sign of a hypocrite, and we should always speak the truth.</p>\n<h4>Trustworthiness — Returning the Trusts</h4>\n<p>When the polytheists of Makkah Mukarramah besieged the house of the Nabi Karim (PBUH), he nominated <b class=\"key\">Hazrat Ali Al-Murtaza</b> (may Allah be pleased with him) to return the <b class=\"key\">trusts</b> of the people; he gave those trusts to Hazrat Ali and told him to hand them over to their owners in the morning.</p>\n<h4>Husn-e-Muaamalaat — the Best Practices</h4>\n<p>Conducting transactions and all other matters in the <b class=\"key\">best way</b>, and doing well for others, is called <b class=\"key\">Husn-e-Muaamalaat</b> (the Best Practices). In matters like sale and purchase and financial dealings, the character of the Nabi Karim (PBUH) was pure and exalted. This practice of his is a great example of his Husn-e-Muaamalaat.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Al-Sadiq means the Truthful; the people of Makkah gave him this title.</li>\n<li>Lying when speaking is one of the three signs of a hypocrite.</li>\n<li>He returned the people's trusts through Hazrat Ali (may Allah be pleased with him).</li>\n<li>Dealing with others in the best way is called Husn-e-Muaamalaat.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the meaning of 'Al-Sadiq'?",
+       "options": [
+        "The Trustworthy",
+        "The Truthful",
+        "The Patient",
+        "The Generous"
+       ],
+       "answer": 1,
+       "why": "'Al-Sadiq' means the Truthful. The people of Makkah Mukarramah entitled the Nabi Karim (PBUH) as Al-Sadiq because he always spoke the truth and never lied."
+      },
+      {
+       "q": "According to the Nabi Karim (PBUH), lying when speaking is one sign of:",
+       "options": [
+        "A believer",
+        "A hypocrite",
+        "A trader",
+        "A student"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said there are three signs of a hypocrite, one of them is that he always lies when he speaks; so telling lies is a sign of a hypocrite."
+      },
+      {
+       "q": "When the Nabi Karim (PBUH) climbed Mount Safa and invited the people towards Tauheed, they replied:",
+       "options": [
+        "You always speak the truth",
+        "You never said anything wrong",
+        "You have never told a lie",
+        "We do not know you"
+       ],
+       "answer": 2,
+       "why": "When the Nabi Karim (PBUH) asked them if they would believe him, they all said: Yes, why not! We have never experienced a lie on your part."
+      },
+      {
+       "q": "When the polytheists besieged his house, the Nabi Karim (PBUH) nominated him to return the trusts of the people:",
+       "options": [
+        "Hazrat Abu Bakr Siddique (may Allah be pleased with him)",
+        "Hazrat Ali Al-Murtaza (may Allah be pleased with him)",
+        "Hazrat Usman Ghani (may Allah be pleased with him)",
+        "Hazrat Anas (may Allah be pleased with him)"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) gave those trusts to Hazrat Ali (may Allah be pleased with him) and told him to hand over the trusts to their owners in the morning."
+      },
+      {
+       "q": "What is the name of conducting transactions and other things in the best way?",
+       "options": [
+        "Husn-e-Muaamalaat (the Best Practices)",
+        "Husn-e-Ma'asharat",
+        "Hilf-ul-Fudul",
+        "Rawadari"
+       ],
+       "answer": 0,
+       "why": "Conducting transactions and all other matters in the best way, and doing well for others, is called Husn-e-Muaamalaat (the Best Practices)."
+      },
+      {
+       "q": "When the people were invited towards Tauheed, Abu Jahl said: I do not call you a ______.",
+       "options": [
+        "Stranger",
+        "Liar",
+        "Trader",
+        "Leader"
+       ],
+       "answer": 1,
+       "why": "The book's fill-in answer states: 'When the people were invited towards Tauheed (Monotheism), Abu Jahl said that I do not call you a liar.'"
+      },
+      {
+       "q": "How many signs of a hypocrite were mentioned by the Nabi Karim (PBUH)?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said that there are three signs of a hypocrite, one of them is that he always lies when he speaks."
+      },
+      {
+       "q": "The trusts given to Hazrat Ali were to be handed over to their owners:",
+       "options": [
+        "At night",
+        "In the morning",
+        "After one week",
+        "In Syria"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) told Hazrat Ali to hand over the trusts to their owners in the morning, which shows his perfect trustworthiness."
+      },
+      {
+       "q": "In sale, purchase and financial dealings, the character of the Nabi Karim (PBUH) was:",
+       "options": [
+        "Ordinary",
+        "Pure and exalted",
+        "Strict only",
+        "Unknown"
+       ],
+       "answer": 1,
+       "why": "The book states that in matters like sale and purchase and financial dealings, the character of the Nabi Karim (PBUH) was pure and exalted."
+      },
+      {
+       "q": "This practice of returning the trusts is a great example of the ______ of the Nabi Karim (PBUH).",
+       "options": [
+        "Husn-e-Muaamalaat",
+        "Patience",
+        "Tolerance",
+        "Bravery"
+       ],
+       "answer": 0,
+       "why": "The book's fill-in answer states that this practice of the Nabi Karim (PBUH) is a great example of his Husn-e-Muaamalaat (Best Practices)."
+      }
+     ]
+    },
+    {
+     "title": "Tolerance, Patience and Social Excellence of Hazrat Muhammad (PBUH)",
+     "notes_html": "<h4>Rawadari (Tolerance)</h4>\n<p><b class=\"key\">'Rawadari' (Tolerance)</b> means that if a person has some difference of opinion on a certain matter or belief, then he/she <b class=\"key\">respects the belief or opinion of the other person</b>. That person should not be forced to leave his/her belief or opinion and accept your belief or opinion. In religion there is <b class=\"key\">no compulsion</b>.</p>\n<p>An example: the Nabi Karim (PBUH) hosted a <b class=\"key\">delegation of Christians</b> in the <b class=\"key\">Masjid-e-Nabawi</b> and allowed them to pray as per their religion.</p>\n<h4>Sabr wa Tahammul (Patience)</h4>\n<p><b class=\"key\">'Sabr wa Tahammul' (Patience)</b> means that if you are hurt by anyone in any way, you <b class=\"key\">bear the pain</b> and do not take revenge even if you have the power to do it; and you never complain about it, not even a little. Allah Almighty is <b class=\"key\">with the patient people</b> (Surah Al-Baqarah: 153).</p>\n<h4>Husn-e-Ma'asharat (Social Excellence)</h4>\n<p><b class=\"key\">Hazrat Anas</b> (may Allah be pleased with him) narrates that he served the Nabi Karim (PBUH) for <b class=\"key\">ten years</b>. During this time he made some mistakes which caused some big as well as small <b class=\"key\">losses</b> to the Nabi Karim (PBUH), yet the Nabi Karim (PBUH) <b class=\"key\">never became angry</b> with him. In another example of Husn-e-Ma'asharat, the Nabi Karim (PBUH) said about a villager: you people should <b class=\"key\">side with him</b>, as he has the right to speak.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Rawadari (Tolerance) means respecting the belief or opinion of others.</li>\n<li>The Christian delegation was hosted in Masjid-e-Nabawi and allowed to pray.</li>\n<li>Patience means bearing pain without revenge and without complaint.</li>\n<li>Hazrat Anas served the Nabi Karim (PBUH) for ten years and he never became angry with him.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the meaning of 'Rawadari' (Tolerance)?",
+       "options": [
+        "Forcing others to accept your belief",
+        "Respecting the belief or opinion of the other person despite a difference",
+        "Ignoring all people",
+        "Arguing with everyone"
+       ],
+       "answer": 1,
+       "why": "Rawadari (Tolerance) means that if a person has some difference of opinion or belief, he/she respects the belief or opinion of the other person and does not force them to change it."
+      },
+      {
+       "q": "Where did the Nabi Karim (PBUH) host the Christian delegation?",
+       "options": [
+        "In the Khana-e-Kaabah",
+        "In the Masjid-e-Nabawi",
+        "In the Cave of Hira",
+        "At Quba"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) hosted a delegation of Christians in the Masjid-e-Nabawi and allowed them to pray as per their religion, which is an example of his tolerance."
+      },
+      {
+       "q": "What is the meaning of 'Sabr wa Tahammul' (Patience)?",
+       "options": [
+        "To take revenge quickly",
+        "To bear the pain inflicted by someone and not take revenge even if you have the power",
+        "To complain to everyone",
+        "To stop talking forever"
+       ],
+       "answer": 1,
+       "why": "Patience means that if you are hurt by anyone, you do not take revenge even if you have the power to do it, and you never complain about it; Allah Almighty is with the patient people."
+      },
+      {
+       "q": "For how many years did Hazrat Anas (may Allah be pleased with him) serve the Nabi Karim (PBUH)?",
+       "options": [
+        "Five years",
+        "Seven years",
+        "Ten years",
+        "Twenty years"
+       ],
+       "answer": 2,
+       "why": "Hazrat Anas (may Allah be pleased with him) narrates that he served the Nabi Karim (PBUH) for ten years, and during this time the Nabi Karim (PBUH) never became angry with him."
+      },
+      {
+       "q": "During his service, Hazrat Anas made mistakes which caused ______ to the Nabi Karim (PBUH), yet he never became angry.",
+       "options": [
+        "Big as well as small losses",
+        "Great profit",
+        "Fame",
+        "Happiness"
+       ],
+       "answer": 0,
+       "why": "Hazrat Anas made some mistakes which caused some big as well as small losses to the Nabi Karim (PBUH), yet the Nabi Karim (PBUH) never became angry with him."
+      },
+      {
+       "q": "Allah Almighty is with:",
+       "options": [
+        "The rich people",
+        "The patient people",
+        "The traders",
+        "The strong people"
+       ],
+       "answer": 1,
+       "why": "The book states, with reference to Surah Al-Baqarah: 153, that Allah Almighty is with the patient people."
+      },
+      {
+       "q": "In the example of Husn-e-Ma'asharat, the Nabi Karim (PBUH) said about the villager: you people should ______ him.",
+       "options": [
+        "Send away",
+        "Side with",
+        "Punish",
+        "Ignore"
+       ],
+       "answer": 1,
+       "why": "In the example of Husn-e-Ma'asharat, the Nabi Karim (PBUH) said: you people should side with him (the villager), as he has the right to speak."
+      },
+      {
+       "q": "'In religion, there is no ______' completes the teaching of tolerance.",
+       "options": [
+        "Compulsion",
+        "Guidance",
+        "Mercy",
+        "Order"
+       ],
+       "answer": 0,
+       "why": "The book's matching exercise pairs 'In religion' with 'There is no compulsion', which is the basis of Rawadari (tolerance)."
+      },
+      {
+       "q": "The Christian delegation was allowed to:",
+       "options": [
+        "Trade in the Masjid",
+        "Pray as per their religion",
+        "Live in Madinah forever",
+        "Lead the Muslims' Namaz"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) hosted the Christian delegation in Masjid-e-Nabawi and allowed them to pray as per their religion, an example of his tolerance."
+      },
+      {
+       "q": "'Sabr wa Tahammul' (Patience) means to ______ the pain inflicted upon you by someone else.",
+       "options": [
+        "Return",
+        "Bear",
+        "Forget the person",
+        "Announce"
+       ],
+       "answer": 1,
+       "why": "'Sabr wa Tahammul' (Patience) means to bear the pain inflicted upon you by someone else, and not take revenge even if you have the power to do it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Morals and Manners",
+   "lessons": [
+    {
+     "title": "Good Relations with Brothers and Sisters",
+     "notes_html": "<h4>Siblings Have Rights Upon One Another</h4>\n<p>In our family, after our <b class=\"key\">parents</b>, the relation that comes is of <b class=\"key\">brothers and sisters</b>. Brothers and sisters have <b class=\"key\">mutual rights</b> upon each other, which should be fulfilled. Keeping good relations with brothers and sisters makes us <b class=\"key\">prosperous</b> in the world and in the hereafter, and keeps us safe from many problems.</p>\n<h4>Duty of the Youngers towards the Elders</h4>\n<ul>\n<li>The youngers should <b class=\"key\">respect</b> their elders.</li>\n<li>They should <b class=\"key\">obey</b> their elders.</li>\n<li>They should respect the elders <b class=\"key\">like their parents</b>, sit with them respectfully, and behave well with them.</li>\n</ul>\n<h4>Duty of the Elders towards the Youngers</h4>\n<ul>\n<li>The elders should show <b class=\"key\">compassion and love</b> for the youngers <b class=\"key\">like a father</b>.</li>\n<li>They should take care of their <b class=\"key\">needs, education and upbringing</b>.</li>\n</ul>\n<h4>Hadith</h4>\n<p>The Nabi Karim (PBUH) said: \"<b class=\"key\">He is not one of us who does not have mercy on young children and does not respect the elders.</b>\"</p>\n<h4>Key Points</h4>\n<ul>\n<li>After parents, the relation of brothers and sisters comes.</li>\n<li>Siblings have mutual rights upon each other.</li>\n<li>Youngers must respect and obey the elders like parents.</li>\n<li>Elders must show compassion and love to the youngers like a father.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "In our family, after our parents, the relation that comes is of:",
+       "options": [
+        "Teachers",
+        "Friends",
+        "Brothers and sisters",
+        "Neighbors"
+       ],
+       "answer": 2,
+       "why": "The book states that in our family, after our parents, the relation that comes is of brothers and sisters, who have mutual rights upon each other."
+      },
+      {
+       "q": "Brothers and sisters have ______ rights upon each other.",
+       "options": [
+        "No",
+        "Mutual",
+        "Only financial",
+        "Temporary"
+       ],
+       "answer": 1,
+       "why": "Brothers and sisters have mutual rights upon each other, and these rights should be fulfilled; keeping good relations makes us prosperous in the world and the hereafter."
+      },
+      {
+       "q": "The youngers should ______ their elders.",
+       "options": [
+        "Ignore",
+        "Respect and obey",
+        "Compete with",
+        "Avoid"
+       ],
+       "answer": 1,
+       "why": "The youngers should respect their elders, obey their elders, and respect them like their parents, sitting with them respectfully."
+      },
+      {
+       "q": "The elders should show compassion and love for the youngers:",
+       "options": [
+        "Like a father",
+        "Like a stranger",
+        "Only sometimes",
+        "Like a teacher only"
+       ],
+       "answer": 0,
+       "why": "The elders should show compassion and love for the youngers like a father, and take care of their needs, education and upbringing."
+      },
+      {
+       "q": "The elders should take care of the youngers' ______.",
+       "options": [
+        "Games only",
+        "Needs, education and upbringing",
+        "Pocket money only",
+        "Clothes only"
+       ],
+       "answer": 1,
+       "why": "The elders should take care of the needs, education and upbringing of the youngers, as the book teaches."
+      },
+      {
+       "q": "According to the Hadith, who is not one of us?",
+       "options": [
+        "One who does not earn money",
+        "One who does not have mercy on young children and does not respect the elders",
+        "One who does not travel",
+        "One who does not trade"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said: 'He is not one of us who does not have mercy on young children and does not respect the elders.'"
+      },
+      {
+       "q": "The youngers should respect their elders like their:",
+       "options": [
+        "Friends",
+        "Parents",
+        "Teachers",
+        "Neighbors"
+       ],
+       "answer": 1,
+       "why": "The youngers should respect the elders like their parents and behave well with them, sitting respectfully with them."
+      },
+      {
+       "q": "Keeping good relations with brothers and sisters makes us ______ in the world and in the hereafter.",
+       "options": [
+        "Famous",
+        "Prosperous",
+        "Rich only",
+        "Powerful"
+       ],
+       "answer": 1,
+       "why": "Keeping good relations with brothers and sisters makes us prosperous in the world and in the hereafter and keeps us safe from many problems."
+      },
+      {
+       "q": "What should the youngers do when they sit with their elders?",
+       "options": [
+        "Sit carelessly",
+        "Sit respectfully",
+        "Sit far away",
+        "Sit silently outside"
+       ],
+       "answer": 1,
+       "why": "The youngers should sit with their elders respectfully and behave well with them, as the book teaches."
+      },
+      {
+       "q": "Mercy on young children and respect for elders are taught by:",
+       "options": [
+        "The Nabi Karim (PBUH) in a Hadith",
+        "The Quraish leaders",
+        "The monk Bahira",
+        "The Zubaid trader"
+       ],
+       "answer": 0,
+       "why": "The Nabi Karim (PBUH) said in a Hadith: 'He is not one of us who does not have mercy on young children and does not respect the elders.'"
+      }
+     ]
+    },
+    {
+     "title": "Good Relations with Relatives",
+     "notes_html": "<h4>Who are our Relatives?</h4>\n<p>Our relatives include our <b class=\"key\">paternal uncles and aunts</b> and our <b class=\"key\">maternal uncles and aunts</b>, along with their children — our <b class=\"key\">nieces, nephews and cousins</b>. Our relatives do <b class=\"key\">not</b> include only the paternal uncle and aunt; the maternal side is also included.</p>\n<h4>How to Treat Relatives</h4>\n<ul>\n<li>If a relative has a <b class=\"key\">valid need</b>, we should try our best to <b class=\"key\">fulfil it</b>.</li>\n<li>If you want to spend in the way of Allah Almighty, <b class=\"key\">first spend on your relatives</b>, because they have the most right.</li>\n</ul>\n<h4>Hadith</h4>\n<p>The Nabi Karim (PBUH) said: \"<b class=\"key\">The paternal uncle and father are two branches of the same tree.</b>\" So the paternal uncle is <b class=\"key\">like the father</b>, and his rights are <b class=\"key\">similar to the rights of the father</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Relatives include paternal and maternal uncles and aunts, nieces, nephews and cousins.</li>\n<li>We should fulfil the valid needs of our relatives.</li>\n<li>Spending in the way of Allah should begin with our relatives.</li>\n<li>The paternal uncle is like the father; his rights are like the father's rights.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Our relatives include:",
+       "options": [
+        "Only neighbors",
+        "Only paternal uncles and aunts",
+        "Paternal and maternal uncles and aunts, nieces, nephews and cousins",
+        "Only cousins"
+       ],
+       "answer": 2,
+       "why": "Our relatives include our paternal uncles and aunts and our maternal uncles and aunts, along with their children, that is, our nieces, nephews and cousins."
+      },
+      {
+       "q": "If a relative has a valid need, we should:",
+       "options": [
+        "Ignore it",
+        "Try our best to fulfil it",
+        "Ask him to go away",
+        "Wait for others"
+       ],
+       "answer": 1,
+       "why": "If our relative has some valid need, we should try our best to fulfil it, as the book teaches in this lesson."
+      },
+      {
+       "q": "If you want to spend in the way of Allah Almighty, first spend on:",
+       "options": [
+        "Strangers",
+        "Your relatives",
+        "Traders",
+        "Travellers"
+       ],
+       "answer": 1,
+       "why": "If you want to spend in the way of Allah Almighty, first spend on your relatives, because they have the most right over your spending."
+      },
+      {
+       "q": "According to the Hadith, the paternal uncle and father are:",
+       "options": [
+        "Two branches of the same tree",
+        "Two different families",
+        "Two neighbours",
+        "Two companions"
+       ],
+       "answer": 0,
+       "why": "The Nabi Karim (PBUH) said: 'The paternal uncle and father are two branches of the same tree', so the uncle is like the father."
+      },
+      {
+       "q": "The rights of the paternal uncle are similar to the rights of:",
+       "options": [
+        "The mother",
+        "The father",
+        "The brother",
+        "The neighbor"
+       ],
+       "answer": 1,
+       "why": "The paternal uncle is like the father, and his rights are similar to the rights of the father, as the book explains from the Hadith."
+      },
+      {
+       "q": "Which statement is FALSE according to the book?",
+       "options": [
+        "Relatives include maternal uncles and aunts",
+        "Our relatives only include the paternal uncle and aunt",
+        "Cousins are our relatives",
+        "We should fulfil a relative's valid need"
+       ],
+       "answer": 1,
+       "why": "The book corrects this statement as false: our relatives do NOT include only the paternal uncle and aunt; maternal uncles and aunts and their children are also relatives."
+      },
+      {
+       "q": "Nieces and nephews are the children of our:",
+       "options": [
+        "Neighbors",
+        "Uncles and aunts",
+        "Teachers",
+        "Friends"
+       ],
+       "answer": 1,
+       "why": "Our relatives include our uncles and aunts along with their children, that is, our nieces, nephews and cousins."
+      },
+      {
+       "q": "Who has the most right when we spend in the way of Allah?",
+       "options": [
+        "Our relatives",
+        "Unknown people",
+        "The rich",
+        "Businessmen"
+       ],
+       "answer": 0,
+       "why": "If you want to spend in the way of Allah Almighty, first spend on your relatives; this is the teaching of this lesson."
+      },
+      {
+       "q": "The word 'cousins' in this lesson means the children of our:",
+       "options": [
+        "Brothers",
+        "Uncles and aunts",
+        "Neighbors",
+        "Sisters only"
+       ],
+       "answer": 1,
+       "why": "The book lists our relatives as paternal and maternal uncles and aunts along with their children — our nieces, nephews and cousins."
+      },
+      {
+       "q": "A 'valid need' of a relative means a need that is:",
+       "options": [
+        "Very expensive",
+        "Genuine and rightful",
+        "Secret",
+        "Unnecessary"
+       ],
+       "answer": 1,
+       "why": "The book teaches that if a relative has a valid, that is genuine and rightful, need, we should try our best to fulfil it."
+      }
+     ]
+    },
+    {
+     "title": "Good Relations with Neighbors and Companions",
+     "notes_html": "<h4>Neighbors and Companions</h4>\n<p>After our family members, we are mostly in contact with our <b class=\"key\">neighbors and companions</b>. Our companions, who stay together with us for a while, have <b class=\"key\">rights similar to neighbors</b>, for example the students studying in a class together, or the people of the same profession who stay together for some time.</p>\n<h4>Three Types of Neighbors in the Holy Quran</h4>\n<ul>\n<li>Neighbors who are <b class=\"key\">relatives</b>.</li>\n<li>Neighbors who are <b class=\"key\">not relatives</b>.</li>\n<li>People who <b class=\"key\">stay together for a while</b> (companions).</li>\n</ul>\n<h4>Teachings of the Nabi Karim (PBUH)</h4>\n<ul>\n<li>A woman who used to <b class=\"key\">fast the whole day</b> and <b class=\"key\">pray the whole night</b> but <b class=\"key\">misbehaved with her neighbor</b> — the Nabi Karim (PBUH) said she will go to <b class=\"key\">hell</b>.</li>\n<li>\"He has <b class=\"key\">no right to be called a believer</b> who fills his belly while his <b class=\"key\">neighbor remains hungry</b>.\"</li>\n<li>About the broth (gravy), the Nabi Karim (PBUH) said: <b class=\"key\">put plenty of water in it</b>, so that the neighbor may also be given from it.</li>\n<li><b class=\"key\">Fighting and quarrels</b> between neighbors make life <b class=\"key\">miserable</b>.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Companions have rights similar to neighbors.</li>\n<li>The Quran mentions three types of neighbors.</li>\n<li>Misbehaving with a neighbor destroys the reward of worship.</li>\n<li>A believer does not eat his fill while his neighbor stays hungry.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "After our family members, we are mostly in contact with:",
+       "options": [
+        "Strangers",
+        "Traders",
+        "Our neighbors and companions",
+        "Travellers"
+       ],
+       "answer": 2,
+       "why": "After our family members, we are mostly in contact with our neighbors and companions, and companions have rights similar to neighbors."
+      },
+      {
+       "q": "How many types of neighbors are mentioned in the Holy Quran?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "Three types of neighbors are mentioned in the Holy Quran: neighbors who are relatives, neighbors who are not relatives, and people who stay together for a while."
+      },
+      {
+       "q": "Which of these is one of the three types of neighbors?",
+       "options": [
+        "Neighbors who are relatives",
+        "Neighbors who are rich",
+        "Neighbors who are traders",
+        "Neighbors who live far away"
+       ],
+       "answer": 0,
+       "why": "The three types are: neighbors who are relatives, neighbors who are not relatives, and people who stay together for a while, such as students in a class."
+      },
+      {
+       "q": "Students studying in a class together are an example of:",
+       "options": [
+        "Relatives",
+        "People who stay together for a while (companions)",
+        "Strangers",
+        "Enemies"
+       ],
+       "answer": 1,
+       "why": "Companions who stay together for a while, for example the students studying in a class, have rights similar to neighbors."
+      },
+      {
+       "q": "A woman fasted all day and prayed all night but misbehaved with her neighbor. The Nabi Karim (PBUH) said she will go to:",
+       "options": [
+        "Heaven",
+        "Hell",
+        "Her home",
+        "Madinah"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said about the woman who fasted the whole day and prayed the whole night but misbehaved her neighbor, that she will go to hell."
+      },
+      {
+       "q": "Who has no right to be called a believer?",
+       "options": [
+        "One who sleeps early",
+        "One who fills his belly while his neighbor remains hungry",
+        "One who does not trade",
+        "One who lives alone"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said: 'He has no right to be called a believer who fills his belly while his neighbor remains hungry.'"
+      },
+      {
+       "q": "About the broth (gravy), the Nabi Karim (PBUH) advised to:",
+       "options": [
+        "Add more salt",
+        "Put plenty of water in it so the neighbor may also be given",
+        "Cook it quickly",
+        "Keep it covered"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said about the broth that we should put plenty of water in it so that the neighbor may also be given from it."
+      },
+      {
+       "q": "Fighting and quarrels between neighbors make life:",
+       "options": [
+        "Happy",
+        "Miserable",
+        "Easy",
+        "Peaceful"
+       ],
+       "answer": 1,
+       "why": "The book states that fighting and quarrels between neighbors make life miserable, so we should keep good relations with them."
+      },
+      {
+       "q": "People of the same profession who stay together for some time are:",
+       "options": [
+        "Relatives",
+        "Companions with rights similar to neighbors",
+        "Strangers with no rights",
+        "Only customers"
+       ],
+       "answer": 1,
+       "why": "Our companions, who stay together with us for a while, like people of the same profession, have rights similar to neighbors."
+      },
+      {
+       "q": "The woman in the Hadith used to:",
+       "options": [
+        "Fast the whole day and pray the whole night",
+        "Give charity daily",
+        "Teach children",
+        "Cook for neighbors"
+       ],
+       "answer": 0,
+       "why": "The woman used to fast the whole day and pray the whole night, but because she misbehaved with her neighbor, the Nabi Karim (PBUH) said she will go to hell."
+      }
+     ]
+    },
+    {
+     "title": "Avoid Lying",
+     "notes_html": "<h4>Truth is the Best Habit</h4>\n<p>The <b class=\"key\">antonym of lie is truth</b>. Speaking the truth is the <b class=\"key\">best habit</b>, and it has been the <b class=\"key\">primary quality</b> of every Nabi (peace be upon them). A person should always speak the truth, because speaking the truth leads towards a <b class=\"key\">path of goodness</b>. Allah Almighty says: \"<b class=\"key\">The curse of Allah be on the liars.</b>\"</p>\n<h4>Harms of Lying</h4>\n<ul>\n<li>People <b class=\"key\">stop trusting</b> a person who tells lies.</li>\n<li>The liar's <b class=\"key\">status is lowered</b> among the people; he loses his honour.</li>\n<li>A student who lies loses his <b class=\"key\">honour</b> among his class fellows, and the <b class=\"key\">affection and respect of his teachers</b> is taken away.</li>\n<li>A liar is a <b class=\"key\">sinner</b> in front of Allah Almighty.</li>\n</ul>\n<h4>Remember</h4>\n<ul>\n<li>Lying is a <b class=\"key\">sign of the hypocrites</b>.</li>\n<li>A <b class=\"key\">believer has no relation with lying</b>.</li>\n<li>Islam has included lying among the <b class=\"key\">worst bad habits</b>.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>The antonym of lie is truth; truthfulness is the best habit.</li>\n<li>Truthfulness was the primary quality of every Nabi.</li>\n<li>People stop trusting a liar and his status is lowered.</li>\n<li>Lying is a sign of the hypocrites; a believer never lies.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is the antonym of lie?",
+       "options": [
+        "Speech",
+        "Silence",
+        "Truth",
+        "Anger"
+       ],
+       "answer": 2,
+       "why": "The antonym of lie is truth. Speaking the truth is the best habit, and truthfulness has been the primary quality of every Nabi (peace be upon them)."
+      },
+      {
+       "q": "Truthfulness has been the primary quality of:",
+       "options": [
+        "Every Nabi (peace be upon them)",
+        "Every trader",
+        "Every king",
+        "Every teacher"
+       ],
+       "answer": 0,
+       "why": "The book states that speaking the truth is the best habit, which has been the primary quality of every Nabi (peace be upon them)."
+      },
+      {
+       "q": "What does Allah Almighty say about the liars?",
+       "options": [
+        "They will be forgiven at once",
+        "The curse of Allah be on the liars",
+        "They are the best people",
+        "They will be rewarded"
+       ],
+       "answer": 1,
+       "why": "Allah Almighty says: 'The curse of Allah be on the liars', which shows how much Allah dislikes lying."
+      },
+      {
+       "q": "What happens when a person tells lies again and again?",
+       "options": [
+        "People trust him more",
+        "People stop trusting him",
+        "He becomes famous",
+        "He becomes rich"
+       ],
+       "answer": 1,
+       "why": "One disadvantage of telling lies is that people stop trusting the liar, and the liar's status is lowered among the people."
+      },
+      {
+       "q": "A student who tells lies loses:",
+       "options": [
+        "His books",
+        "His honour among class fellows and the affection and respect of teachers",
+        "His seat in class",
+        "His friends' books"
+       ],
+       "answer": 1,
+       "why": "The status of a student who tells lies is lowered; his honour among his class fellows is lost, and the affection and respect of his teachers is taken away."
+      },
+      {
+       "q": "Lying is a sign of:",
+       "options": [
+        "The believers",
+        "The hypocrites",
+        "The Ambiya",
+        "The angels"
+       ],
+       "answer": 1,
+       "why": "Lying is a sign of the hypocrites, and a believer has no relation with lying, as the book teaches."
+      },
+      {
+       "q": "Speaking the truth leads a person towards:",
+       "options": [
+        "A path of goodness",
+        "A path of loss",
+        "Loneliness",
+        "Poverty"
+       ],
+       "answer": 0,
+       "why": "A person should always speak the truth, because speaking the truth leads towards a path of goodness."
+      },
+      {
+       "q": "A liar is a ______ in front of Allah Almighty.",
+       "options": [
+        "Beloved person",
+        "Sinner",
+        "Leader",
+        "Scholar"
+       ],
+       "answer": 1,
+       "why": "The book states that a liar is a sinner in front of Allah Almighty, and Allah's curse is on the liars."
+      },
+      {
+       "q": "Islam has included lying in:",
+       "options": [
+        "Good habits",
+        "The worst bad habits",
+        "Small mistakes",
+        "Permitted acts"
+       ],
+       "answer": 1,
+       "why": "Islam has included lying in the worst bad habits, so a Muslim must always avoid lying and speak the truth."
+      },
+      {
+       "q": "Which statement is TRUE?",
+       "options": [
+        "A believer may lie sometimes",
+        "A believer has no relation with lying",
+        "Lying is a small habit",
+        "Truthfulness is only for the Ambiya"
+       ],
+       "answer": 1,
+       "why": "The book states clearly that a believer has no relation with lying; lying is a sign of the hypocrites, not of a believer."
+      }
+     ]
+    },
+    {
+     "title": "Refraining from Theft",
+     "notes_html": "<h4>What is Theft?</h4>\n<p><b class=\"key\">Theft</b> means to take or use a <b class=\"key\">protected item without the permission of its owner</b>. Theft is considered a <b class=\"key\">very bad deed</b> in every society and every religion. Islam has fixed a <b class=\"key\">severe punishment</b> for the person who steals.</p>\n<h4>Hadith</h4>\n<p>The Nabi Karim (PBUH) said: \"<b class=\"key\">When a thief steals, his faith leaves him at that time.</b>\"</p>\n<h4>More Teachings</h4>\n<ul>\n<li>Entering a person's home <b class=\"key\">without his permission</b> is <b class=\"key\">extremely bad</b>.</li>\n<li>Many other <b class=\"key\">bad things are hidden in theft</b>.</li>\n<li>When we save ourselves from theft and instruct others to stay away from it, our society becomes a <b class=\"key\">place of peace</b>.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Theft is taking or using a protected item without the owner's permission.</li>\n<li>It is a very bad deed in every society and religion.</li>\n<li>Islam fixed a severe punishment for stealing.</li>\n<li>When a thief steals, his faith leaves him at that time.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is theft?",
+       "options": [
+        "Finding a lost item",
+        "Borrowing with permission",
+        "Taking or using a protected item without the permission of its owner",
+        "Buying an item cheaply"
+       ],
+       "answer": 2,
+       "why": "Theft means to take or use a protected item without the permission of its owner; it is considered a very bad deed in every society and every religion."
+      },
+      {
+       "q": "Theft is considered a very bad deed in:",
+       "options": [
+        "Only in villages",
+        "Only in schools",
+        "Only one society",
+        "Every society and every religion"
+       ],
+       "answer": 3,
+       "why": "The book states that theft is considered a very bad deed in every society and every religion."
+      },
+      {
+       "q": "What has Islam fixed for the person who steals?",
+       "options": [
+        "A reward",
+        "A severe punishment",
+        "A warning only",
+        "A fine of money only"
+       ],
+       "answer": 1,
+       "why": "Islam has fixed a severe punishment for the person who steals, because theft is a very bad deed."
+      },
+      {
+       "q": "According to the Hadith, when a thief steals:",
+       "options": [
+        "His wealth increases",
+        "His faith leaves him at that time",
+        "People praise him",
+        "He becomes brave"
+       ],
+       "answer": 1,
+       "why": "The Nabi Karim (PBUH) said: 'When a thief steals, his faith leaves him at that time', showing the seriousness of this sin."
+      },
+      {
+       "q": "Entering a person's home without his permission is:",
+       "options": [
+        "Allowed",
+        "Extremely bad",
+        "A good habit",
+        "Necessary sometimes"
+       ],
+       "answer": 1,
+       "why": "The book states that entering a person's home without his permission is extremely bad, just as taking his things without permission is theft."
+      },
+      {
+       "q": "What is hidden in theft?",
+       "options": [
+        "Many good things",
+        "Many other bad things",
+        "Rewards",
+        "Secrets of success"
+       ],
+       "answer": 1,
+       "why": "The book states that many other bad things are hidden in theft, so a person must stay away from it completely."
+      },
+      {
+       "q": "Our society becomes a place of peace when we:",
+       "options": [
+        "Hide theft",
+        "Save ourselves from theft and instruct others to stay away from it",
+        "Ignore thieves",
+        "Steal only small things"
+       ],
+       "answer": 1,
+       "why": "When we save ourselves from theft and instruct others to stay away from theft, our society will become a place of peace."
+      },
+      {
+       "q": "Using someone's protected item with the owner's permission is:",
+       "options": [
+        "Theft",
+        "Not theft",
+        "A sin",
+        "Forbidden"
+       ],
+       "answer": 1,
+       "why": "Theft is taking or using a protected item WITHOUT the permission of its owner; using it with the owner's permission is not theft."
+      },
+      {
+       "q": "Who fixed a severe punishment for stealing?",
+       "options": [
+        "The Quraish",
+        "Islam",
+        "The traders",
+        "The neighbours"
+       ],
+       "answer": 1,
+       "why": "The book states that Islam has fixed a severe punishment for the person who steals."
+      },
+      {
+       "q": "What should we do about theft, besides saving ourselves?",
+       "options": [
+        "Teach others to steal carefully",
+        "Instruct others to stay away from theft",
+        "Say nothing to anyone",
+        "Only protect our own house"
+       ],
+       "answer": 1,
+       "why": "We should save ourselves from theft and also instruct others to stay away from theft, so that society becomes a place of peace."
+      }
+     ]
+    },
+    {
+     "title": "Refraining from Backbiting and Accusation",
+     "notes_html": "<h4>Gheebat (Backbiting)</h4>\n<p><b class=\"key\">Gheebat (backbiting)</b> means to state the <b class=\"key\">bad things or habits of a person in his absence</b>. Backbiting is not done by the tongue only; it also includes <b class=\"key\">revealing someone's faults</b>, <b class=\"key\">pointing with the eyes</b>, and <b class=\"key\">gestures with the hand</b>.</p>\n<h4>Buhtan (Accusation)</h4>\n<p><b class=\"key\">Buhtan (accusation)</b> means to accuse a person of things which he has <b class=\"key\">not committed</b>. Buhtan is <b class=\"key\">worse and more dangerous</b> than Gheebat.</p>\n<h4>Harms of Both</h4>\n<ul>\n<li>Both Gheebat and Buhtan <b class=\"key\">hurt the feelings</b> of a person and invoke the <b class=\"key\">anger of Allah Almighty</b>.</li>\n<li>The Holy Quran gives the example: backbiting is like <b class=\"key\">eating the flesh of his dead brother</b> (Surah Al-Hujuraat: 12).</li>\n<li>Hurting someone's feelings and insulting someone is an <b class=\"key\">unforgivable sin</b> unless the victim forgives.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Gheebat is stating a person's faults in his absence.</li>\n<li>Buhtan is accusing a person of what he did not do.</li>\n<li>Buhtan is worse and more dangerous than Gheebat.</li>\n<li>Backbiting is like eating the flesh of one's dead brother.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What is Gheebat (backbiting)?",
+       "options": [
+        "Praying for a person",
+        "Praising a person in his absence",
+        "Stating the bad things or habits of a person in his absence",
+        "Helping a person secretly"
+       ],
+       "answer": 2,
+       "why": "Gheebat (backbiting) means to state the bad things or habits of a person in his absence; it can also be done by pointing with the eyes or gestures with the hand."
+      },
+      {
+       "q": "What is Buhtan (accusation)?",
+       "options": [
+        "Telling the truth about a person",
+        "Accusing a person of things which he has not committed",
+        "Forgiving a person",
+        "Advising a person"
+       ],
+       "answer": 1,
+       "why": "Buhtan (accusation) means to accuse a person of things which he has not committed, and it is worse and more dangerous than Gheebat."
+      },
+      {
+       "q": "Which is worse and more dangerous?",
+       "options": [
+        "Gheebat",
+        "Buhtan (accusation)",
+        "Both are equal",
+        "Neither is bad"
+       ],
+       "answer": 1,
+       "why": "The book states that Buhtan is even worse than Gheebat and is more dangerous, because it blames a person for what he never did."
+      },
+      {
+       "q": "Backbiting can also be committed by:",
+       "options": [
+        "Writing a letter only",
+        "Pointing with the eyes and gestures with the hand",
+        "Staying silent",
+        "Walking away"
+       ],
+       "answer": 1,
+       "why": "Gheebat is not done by the tongue only; it also includes revealing someone's faults, pointing with the eyes, and gestures with the hand."
+      },
+      {
+       "q": "The Holy Quran compares backbiting to:",
+       "options": [
+        "Eating the flesh of his dead brother",
+        "Drinking bitter water",
+        "Breaking a stick",
+        "Burning a paper"
+       ],
+       "answer": 0,
+       "why": "In Surah Al-Hujuraat (verse 12), the example is given that backbiting is like eating the flesh of his dead brother, showing how hateful it is."
+      },
+      {
+       "q": "Both Gheebat and Buhtan invoke:",
+       "options": [
+        "The pleasure of Allah",
+        "The anger of Allah Almighty",
+        "The praise of people",
+        "Nothing at all"
+       ],
+       "answer": 1,
+       "why": "By committing the acts of Gheebat and Buhtan, the feelings of a person are hurt and the anger of Allah Almighty is invoked."
+      },
+      {
+       "q": "Hurting someone's feelings and insulting someone is:",
+       "options": [
+        "A small mistake",
+        "An unforgivable sin unless the victim forgives",
+        "Always forgiven at once",
+        "A good deed"
+       ],
+       "answer": 1,
+       "why": "The book states that hurting someone's feelings and insulting someone is an unforgivable sin unless and until the victim forgives the sinner."
+      },
+      {
+       "q": "In which Surah is the example of backbiting given?",
+       "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Hujuraat",
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas"
+       ],
+       "answer": 1,
+       "why": "The example of backbiting, eating the flesh of his dead brother, is given in Surah Al-Hujuraat, verse 12."
+      },
+      {
+       "q": "Revealing someone's faults in his absence is:",
+       "options": [
+        "Buhtan",
+        "Gheebat (backbiting)",
+        "A duty",
+        "Sadaqah"
+       ],
+       "answer": 1,
+       "why": "Revealing someone's faults and stating his bad habits in his absence is Gheebat (backbiting); accusing him of what he did not do is Buhtan."
+      },
+      {
+       "q": "If the faults we state about a person are NOT true, the act becomes:",
+       "options": [
+        "Gheebat only",
+        "Buhtan (accusation), which is even worse",
+        "A joke",
+        "Advice"
+       ],
+       "answer": 1,
+       "why": "Stating true faults in absence is Gheebat; accusing a person of things he has not committed is Buhtan, which the book calls worse and more dangerous."
+      }
+     ]
+    },
+    {
+     "title": "Manners of Conversation",
+     "notes_html": "<h4>The Command of the Holy Quran</h4>\n<p>Allah Almighty says in the Holy Quran (Surah Al-Baqarah: 83):</p>\n<p><b class=\"key\">وَقُولُوا لِلنَّاسِ حُسْنًا</b></p>\n<p>\"<b class=\"key\">And talk to the people in the best manner</b>\" — meaning we should talk to people <b class=\"key\">softly and with love</b>.</p>\n<h4>How the Nabi Karim (PBUH) Spoke</h4>\n<ul>\n<li>The Nabi Karim (PBUH) used to speak <b class=\"key\">slowly</b>, in a very <b class=\"key\">soft voice</b>.</li>\n<li>His words could be <b class=\"key\">counted</b>; his talk was <b class=\"key\">clear</b> and easily understood by everyone.</li>\n<li>When needed, he would <b class=\"key\">repeat a thing three times</b>.</li>\n</ul>\n<h4>Manners we should Follow</h4>\n<ul>\n<li>Speak <b class=\"key\">softly and with love</b>; soft and loving speech cajoles others to be nice and soft.</li>\n<li>With the <b class=\"key\">elders</b>, speak with <b class=\"key\">respect</b>.</li>\n<li>When someone is talking, listen with <b class=\"key\">complete focus and attention</b>.</li>\n<li>There should be <b class=\"key\">no harshness</b> in conversation; talk <b class=\"key\">according to need only</b> and avoid futile and uncivilized talks.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>The Quran commands: talk to the people in the best manner.</li>\n<li>The Nabi Karim (PBUH) spoke slowly and softly; his words could be counted.</li>\n<li>Listen with complete focus when someone talks.</li>\n<li>Avoid harshness and useless talk; speak only according to need.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What does Allah Almighty command in Surah Al-Baqarah: 83 about talking?",
+       "options": [
+        "Do not talk to people",
+        "Talk loudly to people",
+        "Talk to the people in the best manner",
+        "Talk only when asked"
+       ],
+       "answer": 2,
+       "why": "Allah Almighty says: وَقُولُوا لِلنَّاسِ حُسْنًا — 'And talk to the people in the best manner', meaning we should talk to people softly and with love."
+      },
+      {
+       "q": "How did the Nabi Karim (PBUH) speak?",
+       "options": [
+        "Only in writing",
+        "Rarely and harshly",
+        "Very fast and loud",
+        "Slowly, in a very soft voice"
+       ],
+       "answer": 3,
+       "why": "The Nabi Karim (PBUH) used to speak slowly in a very soft voice, and his words could be counted, so everyone understood him easily."
+      },
+      {
+       "q": "His words were such that they could be:",
+       "options": [
+        "Written on walls",
+        "Counted",
+        "Forgotten quickly",
+        "Heard from far away"
+       ],
+       "answer": 1,
+       "why": "The talk of the Nabi Karim (PBUH) was clear and could be counted, and it was easily understood by everyone."
+      },
+      {
+       "q": "When needed, the Nabi Karim (PBUH) would repeat a thing:",
+       "options": [
+        "Two times",
+        "Three times",
+        "Five times",
+        "Ten times"
+       ],
+       "answer": 1,
+       "why": "The book states that when needed, the Nabi Karim (PBUH) would repeat a thing three times so that the listener understood it well."
+      },
+      {
+       "q": "Speaking softly and with love ______ others.",
+       "options": [
+        "Angers",
+        "Cajoles (persuades) them to be nice and soft",
+        "Confuses",
+        "Frightens"
+       ],
+       "answer": 1,
+       "why": "If we talk softly and with love, it cajoles the other people to be nice and soft as well, as the book explains."
+      },
+      {
+       "q": "With the elders, we should speak:",
+       "options": [
+        "Casually",
+        "With respect",
+        "Loudly",
+        "Only when needed by them"
+       ],
+       "answer": 1,
+       "why": "The book teaches that with the elders we should speak with respect, and with everyone we should speak softly and with love."
+      },
+      {
+       "q": "When someone is talking to us, we should listen:",
+       "options": [
+        "While doing other work",
+        "With complete focus and attention",
+        "Only to the first words",
+        "With closed eyes"
+       ],
+       "answer": 1,
+       "why": "When someone is talking, we should listen to that person with complete focus and attention, as the book teaches."
+      },
+      {
+       "q": "Our conversation should NOT have:",
+       "options": [
+        "Clarity",
+        "Harshness",
+        "Softness",
+        "Respect"
+       ],
+       "answer": 1,
+       "why": "There should be no harshness in conversation; we should talk according to the need only and avoid futile and uncivilized talks."
+      },
+      {
+       "q": "We should talk:",
+       "options": [
+        "All the time",
+        "According to need only",
+        "Only about ourselves",
+        "In a loud voice"
+       ],
+       "answer": 1,
+       "why": "The book teaches that we should talk according to the need only and avoid futile and uncivilized talks."
+      },
+      {
+       "q": "The Arabic words وَقُولُوا لِلنَّاسِ حُسْنًا mean:",
+       "options": [
+        "Pray for the people",
+        "Talk to the people in the best manner",
+        "Help the people with wealth",
+        "Visit the people often"
+       ],
+       "answer": 1,
+       "why": "وَقُولُوا لِلنَّاسِ حُسْنًا is translated in the book as 'And talk to the people in the best manner' (Surah Al-Baqarah: 83)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bearers of Guidance — Famous Personalities of Islam",
+   "lessons": [
+    {
+     "title": "Hazrat Ibrahim (peace be upon him)",
+     "notes_html": "<h4>His Father Aazar</h4>\n<p>The name of the father of Hazrat Ibrahim (peace be upon him) was <b class=\"key\">Aazar</b>. Aazar was a <b class=\"key\">polytheist</b>; he used to <b class=\"key\">make statues</b> and was the <b class=\"key\">chief priest of the temple</b>. The people used to <b class=\"key\">worship the statues</b>.</p>\n<h4>Hazrat Ibrahim's Thinking</h4>\n<p>Hazrat Ibrahim (peace be upon him) used to think that the statue which Aazar has <b class=\"key\">made by his own hands</b>, how can it become a god? The statues have <b class=\"key\">no authority or power</b> at all. He tried to make the people understand about the <b class=\"key\">Oneness of Allah Almighty</b>.</p>\n<h4>Breaking the Statues</h4>\n<p>Once, when everyone had gone to the <b class=\"key\">festival</b>, Hazrat Ibrahim (peace be upon him) entered the <b class=\"key\">temple</b>, where there was one <b class=\"key\">big statue</b> and many <b class=\"key\">small statues</b>. He <b class=\"key\">broke the small statues</b> to pieces with an <b class=\"key\">axe</b> and hanged the axe on the <b class=\"key\">hand of the big statue</b>. When the people came back and saw this, they were <b class=\"key\">ashamed</b> of themselves, but they remained <b class=\"key\">steadfast on polytheism</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Aazar, the father of Hazrat Ibrahim, made statues and was chief priest of the temple.</li>\n<li>Hazrat Ibrahim knew that a statue made by hands cannot be a god.</li>\n<li>He broke the small statues and hanged the axe on the big statue's hand.</li>\n<li>He called the people towards the Oneness of Allah Almighty.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What was the name of the father of Hazrat Ibrahim (peace be upon him)?",
+       "options": [
+        "Abdullah",
+        "Ismaeel",
+        "Abu Talib",
+        "Aazar"
+       ],
+       "answer": 3,
+       "why": "The name of the father of Hazrat Ibrahim (peace be upon him) was Aazar, who was a polytheist and used to make statues."
+      },
+      {
+       "q": "Aazar was the ______ of the temple.",
+       "options": [
+        "Guard",
+        "Chief priest",
+        "Cleaner",
+        "Builder"
+       ],
+       "answer": 1,
+       "why": "Aazar used to make statues and was the chief priest of the temple, and the people used to worship the statues."
+      },
+      {
+       "q": "What did the people worship in the temple?",
+       "options": [
+        "The sun",
+        "The statues",
+        "The river",
+        "The fire"
+       ],
+       "answer": 1,
+       "why": "The book states that the people used to worship the statues which Aazar made in the temple."
+      },
+      {
+       "q": "Hazrat Ibrahim (peace be upon him) used to think that a statue made by Aazar's own hands:",
+       "options": [
+        "Must be worshipped",
+        "Cannot become a god",
+        "Has great power",
+        "Should be sold"
+       ],
+       "answer": 1,
+       "why": "Hazrat Ibrahim (peace be upon him) used to think that the statue which Aazar has made by his own hands, how can it become a god, because statues have no authority or power."
+      },
+      {
+       "q": "When did Hazrat Ibrahim (peace be upon him) enter the temple?",
+       "options": [
+        "At night during rain",
+        "When everyone had gone to the festival",
+        "On the day of Hajj",
+        "When Aazar called him"
+       ],
+       "answer": 1,
+       "why": "Once, when everyone had gone to the festival, Hazrat Ibrahim (peace be upon him) entered the temple where there was one big statue and many small statues."
+      },
+      {
+       "q": "With what did he break the small statues?",
+       "options": [
+        "A hammer",
+        "A stick",
+        "An axe",
+        "A sword"
+       ],
+       "answer": 2,
+       "why": "Hazrat Ibrahim (peace be upon him) broke all the small statues to pieces with an axe and hanged the axe on the hand of the big statue."
+      },
+      {
+       "q": "On whose hand did he hang the axe?",
+       "options": [
+        "Aazar's hand",
+        "The big statue's hand",
+        "A small statue's hand",
+        "The temple door"
+       ],
+       "answer": 1,
+       "why": "He broke the small statues and hanged the axe on the hand of the big statue, so the people would think about who could have done it."
+      },
+      {
+       "q": "Hazrat Ibrahim (peace be upon him) tried to make the people understand about:",
+       "options": [
+        "Business",
+        "The Oneness of Allah Almighty",
+        "Making statues",
+        "The festival"
+       ],
+       "answer": 1,
+       "why": "Hazrat Ibrahim (peace be upon him) tried to make the people understand about the Oneness of Allah Almighty, but they remained steadfast on polytheism."
+      },
+      {
+       "q": "When the people saw the broken statues, they were ______ but remained on polytheism.",
+       "options": [
+        "Happy",
+        "Ashamed of themselves",
+        "Angry at Aazar only",
+        "Silent forever"
+       ],
+       "answer": 1,
+       "why": "The book states that the people were ashamed of themselves when they saw the statues, but they remained steadfast on polytheism."
+      },
+      {
+       "q": "The statues have ______ at all.",
+       "options": [
+        "Great beauty",
+        "No authority or power",
+        "Hidden treasure",
+        "Many followers"
+       ],
+       "answer": 1,
+       "why": "Hazrat Ibrahim (peace be upon him) knew that the statues have no authority or power at all, so they cannot be gods."
+      }
+     ]
+    },
+    {
+     "title": "Hazrat Abu Bakr Siddiq (may Allah be pleased with him)",
+     "notes_html": "<h4>His Name and Family</h4>\n<ul>\n<li>His name was <b class=\"key\">Abdullah</b>, and his father's name was <b class=\"key\">Usman</b>, who was famous by his kunniyat <b class=\"key\">Abu Qahafa</b>.</li>\n<li>He was a <b class=\"key\">businessman</b> who dealt in <b class=\"key\">garments (clothes)</b>.</li>\n<li>His daughter <b class=\"key\">Hazrat Aisha Siddiqa</b> (may Allah be pleased with her) became the wife of the Nabi Karim (PBUH).</li>\n</ul>\n<h4>The Title 'Siddiq'</h4>\n<p>When the Nabi Karim (PBUH) invited him towards Islam, he <b class=\"key\">accepted Islam immediately</b>. He got the title of <b class=\"key\">'Siddiq'</b> because he <b class=\"key\">believed and confirmed the incident of Mairaj</b> (the ascension of the Nabi Karim (PBUH)). 'Siddiq' means <b class=\"key\">the one who always confirms (the truth)</b>.</p>\n<h4>Companion of the Prophet (PBUH)</h4>\n<ul>\n<li>He was the <b class=\"key\">closest companion</b> of the Nabi Karim (PBUH) and remained with him most of the time.</li>\n<li>He accompanied the Nabi Karim (PBUH) on the <b class=\"key\">journey of Hijrat</b> towards Madinah Munawwarah; on the way they stayed in the <b class=\"key\">Cave of Thawr</b> for <b class=\"key\">three days and three nights</b>.</li>\n<li>During the last illness of the Nabi Karim (PBUH), he was ordered to <b class=\"key\">lead the Namaz</b> in his place.</li>\n</ul>\n<h4>The First Caliph</h4>\n<p>After the demise of the Nabi Karim (PBUH), the Companions chose Hazrat Abu Bakr Siddiq (may Allah be pleased with him) as the <b class=\"key\">Caliph (Khalifa)</b> and ruler. He passed away at the age of <b class=\"key\">63 years</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>His name was Abdullah; his father Usman was known as Abu Qahafa.</li>\n<li>He accepted Islam immediately when invited.</li>\n<li>He got the title Siddiq for confirming the incident of Mairaj.</li>\n<li>He stayed with the Prophet (PBUH) in the Cave of Thawr for three days and three nights.</li>\n<li>After the Prophet's demise, he became the first Caliph.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "What was the real name of Hazrat Abu Bakr Siddiq (may Allah be pleased with him)?",
+       "options": [
+        "Umar",
+        "Usman",
+        "Abdullah",
+        "Ali"
+       ],
+       "answer": 2,
+       "why": "His name was Abdullah, and his father's name was Usman, who was famous by his kunniyat Abu Qahafa."
+      },
+      {
+       "q": "His father Usman was famous by which kunniyat?",
+       "options": [
+        "Abu Talib",
+        "Abu Qahafa",
+        "Abu Jahl",
+        "Abu Lahab"
+       ],
+       "answer": 1,
+       "why": "The father of Hazrat Abu Bakr Siddiq, Usman, was famous by his kunniyat Abu Qahafa, as the book states."
+      },
+      {
+       "q": "Why did he get the title of 'Siddiq'?",
+       "options": [
+        "Because he was a rich businessman",
+        "Because he believed and confirmed the incident of Mairaj",
+        "Because he led the Namaz",
+        "Because he wrote the Quran"
+       ],
+       "answer": 1,
+       "why": "He got the title of 'Siddiq' because he believed the incident of Mairaj (the ascension of the Nabi Karim (PBUH)); Siddiq means the one who always confirms."
+      },
+      {
+       "q": "What does 'Siddiq' mean?",
+       "options": [
+        "The brave one",
+        "The one who always confirms (the truth)",
+        "The generous one",
+        "The patient one"
+       ],
+       "answer": 1,
+       "why": "The book explains that 'Siddiq' means the one who always confirms, and he got this title for confirming the incident of Mairaj at once."
+      },
+      {
+       "q": "When invited towards Islam, Hazrat Abu Bakr (may Allah be pleased with him):",
+       "options": [
+        "Waited for many days",
+        "Accepted Islam immediately",
+        "Refused first",
+        "Asked his father"
+       ],
+       "answer": 1,
+       "why": "When the Nabi Karim (PBUH) invited Hazrat Abu Bakr (may Allah be pleased with him) towards Islam, he accepted Islam immediately."
+      },
+      {
+       "q": "Whose daughter became the wife of the Nabi Karim (PBUH)?",
+       "options": [
+        "Hazrat Aisha Siddiqa, daughter of Hazrat Abu Bakr",
+        "Hazrat Fatima, daughter of Hazrat Ali",
+        "Hazrat Hafsa, daughter of Hazrat Umar",
+        "Hazrat Khadija, daughter of Khuwaylid"
+       ],
+       "answer": 0,
+       "why": "The daughter of Hazrat Abu Bakr Siddiq, Hazrat Aisha Siddiqa (may Allah be pleased with her), became the wife of the Nabi Karim (PBUH)."
+      },
+      {
+       "q": "On the Hijrat journey, he stayed with the Nabi Karim (PBUH) in the Cave of Thawr for:",
+       "options": [
+        "One day and one night",
+        "Three days and three nights",
+        "Seven days",
+        "Forty days"
+       ],
+       "answer": 1,
+       "why": "Hazrat Abu Bakr accompanied the Nabi Karim (PBUH) on the journey towards Madinah, and they stayed in the Cave of Thawr for three days and three nights."
+      },
+      {
+       "q": "During the last illness of the Nabi Karim (PBUH), who was ordered to lead the Namaz in his place?",
+       "options": [
+        "Hazrat Umar (may Allah be pleased with him)",
+        "Hazrat Abu Bakr Siddiq (may Allah be pleased with him)",
+        "Hazrat Ali (may Allah be pleased with him)",
+        "Hazrat Usman (may Allah be pleased with him)"
+       ],
+       "answer": 1,
+       "why": "During the last illness of the Nabi Karim (PBUH), Hazrat Abu Bakr Siddiq (may Allah be pleased with him) was ordered to lead the Namaz in his place."
+      },
+      {
+       "q": "After the demise of the Nabi Karim (PBUH), the Companions chose him as:",
+       "options": [
+        "A judge",
+        "The Caliph (Khalifa) and ruler",
+        "A businessman",
+        "An Imam only"
+       ],
+       "answer": 1,
+       "why": "After the demise of the Nabi Karim (PBUH), the Companions chose Hazrat Abu Bakr Siddiq (may Allah be pleased with him) as the Caliph (Khalifa) and ruler."
+      },
+      {
+       "q": "Hazrat Abu Bakr Siddiq (may Allah be pleased with him) was a businessman who dealt in:",
+       "options": [
+        "Dates",
+        "Garments (clothes)",
+        "Animals",
+        "Perfumes"
+       ],
+       "answer": 1,
+       "why": "The book states that Hazrat Abu Bakr Siddiq (may Allah be pleased with him) was a businessman who dealt in garments, and he passed away at the age of 63 years."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
