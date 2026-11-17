@@ -1,0 +1,2123 @@
+{
+ "book": "pctb-c1-math-1-en",
+ "chapters": [
+  {
+   "title": "Unit 1: Whole Numbers",
+   "lessons": [
+    {
+     "title": "Counting 1 to 9",
+     "notes_html": "<h4>What counting means</h4>\n<p><b>Counting</b> means saying one number for each object, in order, without missing any object and without counting any object twice.</p>\n<h4>Counting the toys (book page 2)</h4>\n<p>On the counting page of the book we count the toys one by one:</p>\n<table><tr><th>Number</th><th>Objects</th></tr>\n<tr><td>1</td><td>1 teddy bear</td></tr>\n<tr><td>2</td><td>2 aeroplanes</td></tr>\n<tr><td>3</td><td>3 blocks</td></tr>\n<tr><td>4</td><td>4 cars</td></tr>\n<tr><td>5</td><td>5 rattles</td></tr>\n<tr><td>6</td><td>6 chicks</td></tr></table>\n<h4>Numbers 1 to 9 in words</h4>\n<p><b>1</b> one, <b>2</b> two, <b>3</b> three, <b>4</b> four, <b>5</b> five, <b>6</b> six, <b>7</b> seven, <b>8</b> eight, <b>9</b> nine. We read and write every number both in numerals and in words.</p>\n<h4>Worked example</h4>\n<p>Count the cars on the counting page.</p>\n<p>Step 1: Point to the first car and say 1.</p>\n<p>Step 2: Point to the next car and say 2.</p>\n<p>Step 3: Point to the next car and say 3.</p>\n<p>Step 4: Point to the last car and say 4. There are no more cars.</p>\n<p>Answer: There are <b>4</b> cars.</p>",
+     "mcqs": [
+      {
+       "q": "What does counting mean?",
+       "options": [
+        "Saying the numbers in any order we like",
+        "Counting the same object two times",
+        "Saying one number for each object, in order",
+        "Skipping some objects while counting"
+       ],
+       "answer": 2,
+       "why": "Counting means saying one number for each object, in order, without missing any object and without counting any object twice."
+      },
+      {
+       "q": "On the counting page of the book, how many aeroplanes are there?",
+       "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+       ],
+       "answer": 0,
+       "why": "Count the aeroplanes one by one: 1, 2. Each aeroplane adds one, and 1 + 1 = 2, so there are 2 aeroplanes."
+      },
+      {
+       "q": "On the counting page of the book, how many blocks are there?",
+       "options": [
+        "4",
+        "2",
+        "5",
+        "3"
+       ],
+       "answer": 3,
+       "why": "Count the blocks one by one: 1, 2, 3. Each block adds one, and 1 + 1 + 1 = 3, so there are 3 blocks."
+      },
+      {
+       "q": "On the counting page of the book, how many cars are there?",
+       "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+       ],
+       "answer": 1,
+       "why": "Point to each car and count: 1, 2, 3, 4. Adding one for each car gives 1 + 1 + 1 + 1 = 4, so there are 4 cars."
+      },
+      {
+       "q": "On the counting page of the book, how many rattles are there?",
+       "options": [
+        "6",
+        "4",
+        "5",
+        "3"
+       ],
+       "answer": 2,
+       "why": "Count the rattles one by one: 1, 2, 3, 4, 5. Adding one for each rattle gives 1 + 1 + 1 + 1 + 1 = 5, so there are 5 rattles."
+      },
+      {
+       "q": "On the counting page of the book, how many chicks are there?",
+       "options": [
+        "5",
+        "7",
+        "4",
+        "6"
+       ],
+       "answer": 3,
+       "why": "Count the chicks one by one: 1, 2, 3, 4, 5, 6. Adding one for each chick gives 1 + 1 + 1 + 1 + 1 + 1 = 6, so there are 6 chicks."
+      },
+      {
+       "q": "Which word matches the number 7?",
+       "options": [
+        "nine",
+        "seven",
+        "five",
+        "eight"
+       ],
+       "answer": 1,
+       "why": "The numbers 1 to 9 in words are: one, two, three, four, five, six, seven, eight, nine. So the word for 7 is seven."
+      },
+      {
+       "q": "Which numeral matches the word 'eight'?",
+       "options": [
+        "6",
+        "9",
+        "8",
+        "7"
+       ],
+       "answer": 2,
+       "why": "Counting in words goes one, two, three, four, five, six, seven, eight, nine. Eight comes just after seven, and 7 + 1 = 8, so eight is written as 8."
+      },
+      {
+       "q": "Which word matches the number 5?",
+       "options": [
+        "five",
+        "four",
+        "six",
+        "three"
+       ],
+       "answer": 0,
+       "why": "The numbers 1 to 9 in words are: one, two, three, four, five, six, seven, eight, nine. So the word for 5 is five."
+      },
+      {
+       "q": "When we count objects, what must we NOT do?",
+       "options": [
+        "Point to each object",
+        "Say the numbers in order",
+        "Say one number for each object",
+        "Count any object twice"
+       ],
+       "answer": 3,
+       "why": "While counting we must not miss any object and must not count any object twice; we say one number for each object, in order."
+      }
+     ]
+    },
+    {
+     "title": "Ascending and Descending Order",
+     "notes_html": "<h4>Ascending order</h4>\n<p><b>Ascending order</b> means writing numbers from the <b>smallest</b> number to the <b>greatest</b> number, like going up the stairs.</p>\n<h4>Worked example (Exercise 7, book page 39)</h4>\n<p>Write 21, 24, 23, 25, 22 in ascending order.</p>\n<p>Step 1: All the numbers have 2 tens, so compare the ones: 1, 4, 3, 5, 2.</p>\n<p>Step 2: The smallest ones digit is 1, so 21 comes first.</p>\n<p>Step 3: Next come 22 (ones 2), 23 (ones 3), 24 (ones 4) and 25 (ones 5).</p>\n<p>Answer: <b>21, 22, 23, 24, 25</b></p>\n<p>Write 45, 47, 49, 46, 48 in ascending order.</p>\n<p>Step 1: All the numbers have 4 tens, so compare the ones: 5, 7, 9, 6, 8.</p>\n<p>Step 2: Arrange the ones from smallest to greatest: 5, 6, 7, 8, 9.</p>\n<p>Answer: <b>45, 46, 47, 48, 49</b></p>\n<h4>Descending order</h4>\n<p><b>Descending order</b> means writing numbers from the <b>greatest</b> number to the <b>smallest</b> number, like coming down the stairs.</p>\n<h4>Worked example (Exercise 8, book page 39)</h4>\n<p>Write 63, 65, 62, 66, 64 in descending order.</p>\n<p>Step 1: All the numbers have 6 tens, so compare the ones: 3, 5, 2, 6, 4.</p>\n<p>Step 2: The greatest ones digit is 6, so 66 comes first.</p>\n<p>Step 3: Next come 65 (ones 5), 64 (ones 4), 63 (ones 3) and 62 (ones 2).</p>\n<p>Answer: <b>66, 65, 64, 63, 62</b></p>\n<p>Write 85, 83, 87, 86, 84 in descending order.</p>\n<p>Step 1: All the numbers have 8 tens, so compare the ones: 5, 3, 7, 6, 4.</p>\n<p>Step 2: Arrange the ones from greatest to smallest: 7, 6, 5, 4, 3.</p>\n<p>Answer: <b>87, 86, 85, 84, 83</b></p>",
+     "mcqs": [
+      {
+       "q": "Ascending order means writing numbers:",
+       "options": [
+        "from the greatest number to the smallest number",
+        "from the smallest number to the greatest number",
+        "in any order we like",
+        "from the middle number first"
+       ],
+       "answer": 1,
+       "why": "Ascending order means writing numbers from the smallest number to the greatest number, like going up the stairs."
+      },
+      {
+       "q": "Descending order means writing numbers:",
+       "options": [
+        "from the smallest number to the greatest number",
+        "in any order we like",
+        "from the greatest number to the smallest number",
+        "from the middle number first"
+       ],
+       "answer": 2,
+       "why": "Descending order means writing numbers from the greatest number to the smallest number, like coming down the stairs."
+      },
+      {
+       "q": "Ascending order is like:",
+       "options": [
+        "going up the stairs",
+        "coming down the stairs",
+        "standing still on the stairs",
+        "jumping over the stairs"
+       ],
+       "answer": 0,
+       "why": "Ascending order goes from the smallest number to the greatest number, just like going up the stairs step by step."
+      },
+      {
+       "q": "Descending order is like:",
+       "options": [
+        "going up the stairs",
+        "standing still on the stairs",
+        "jumping over the stairs",
+        "coming down the stairs"
+       ],
+       "answer": 3,
+       "why": "Descending order goes from the greatest number to the smallest number, just like coming down the stairs step by step."
+      },
+      {
+       "q": "Write 21, 24, 23, 25, 22 in ascending order.",
+       "options": [
+        "25, 24, 23, 22, 21",
+        "21, 22, 23, 24, 25",
+        "22, 21, 24, 23, 25",
+        "21, 23, 22, 25, 24"
+       ],
+       "answer": 1,
+       "why": "All the numbers have 2 tens, so compare the ones: 1, 4, 3, 5, 2. Arranged from smallest to greatest the ones are 1, 2, 3, 4, 5, giving 21, 22, 23, 24, 25."
+      },
+      {
+       "q": "Write 45, 47, 49, 46, 48 in ascending order.",
+       "options": [
+        "49, 48, 47, 46, 45",
+        "45, 47, 46, 49, 48",
+        "45, 46, 47, 48, 49",
+        "48, 46, 45, 47, 49"
+       ],
+       "answer": 2,
+       "why": "All the numbers have 4 tens, so compare the ones: 5, 7, 9, 6, 8. Arranged from smallest to greatest the ones are 5, 6, 7, 8, 9, giving 45, 46, 47, 48, 49."
+      },
+      {
+       "q": "Write 63, 65, 62, 66, 64 in descending order.",
+       "options": [
+        "62, 63, 64, 65, 66",
+        "66, 64, 65, 62, 63",
+        "64, 66, 63, 65, 62",
+        "66, 65, 64, 63, 62"
+       ],
+       "answer": 3,
+       "why": "All the numbers have 6 tens, so compare the ones: 3, 5, 2, 6, 4. The greatest ones digit is 6, then 5, 4, 3, 2, giving 66, 65, 64, 63, 62."
+      },
+      {
+       "q": "Write 85, 83, 87, 86, 84 in descending order.",
+       "options": [
+        "87, 86, 85, 84, 83",
+        "83, 84, 85, 86, 87",
+        "87, 85, 86, 83, 84",
+        "85, 87, 84, 86, 83"
+       ],
+       "answer": 0,
+       "why": "All the numbers have 8 tens, so compare the ones: 5, 3, 7, 6, 4. Arranged from greatest to smallest the ones are 7, 6, 5, 4, 3, giving 87, 86, 85, 84, 83."
+      },
+      {
+       "q": "In ascending order 21, 22, 23, 24, 25, which number comes first?",
+       "options": [
+        "25",
+        "23",
+        "21",
+        "24"
+       ],
+       "answer": 2,
+       "why": "Ascending order starts with the smallest number. All these numbers have 2 tens, and the smallest ones digit is 1, so 21 comes first."
+      },
+      {
+       "q": "When all the numbers have the same tens, what do we compare to arrange them?",
+       "options": [
+        "The number of letters in their words",
+        "The ones digits",
+        "The colour of the numbers",
+        "Nothing, they are all equal"
+       ],
+       "answer": 1,
+       "why": "When the tens are the same, the ones digits decide the order: we arrange the ones from smallest to greatest, or from greatest to smallest."
+      }
+     ]
+    },
+    {
+     "title": "More Than and Less Than",
+     "notes_html": "<h4>Comparing two groups</h4>\n<p>When one group has more objects, its number is <b>more than</b> (greater than) the other number. When one group has fewer objects, its number is <b>less than</b> (smaller than) the other number.</p>\n<h4>Worked example (Exercise 9, book page 39)</h4>\n<p>Count the objects and complete: 24 is ___ than 20.</p>\n<p>Step 1: Count the first group of cupcakes: there are 24.</p>\n<p>Step 2: Count the second group: there are 20.</p>\n<p>Step 3: 24 comes after 20 when we count, so 24 is greater than 20.</p>\n<p>Answer: 24 is <b>more than</b> 20, because 24 is greater than 20.</p>\n<p>Count the objects and complete: 40 is ___ than 49.</p>\n<p>Step 1: The first group shows 4 tens, which is 40.</p>\n<p>Step 2: The second group shows 4 tens and 9 ones, which is 49.</p>\n<p>Step 3: 40 comes before 49 when we count, so 40 is smaller than 49.</p>\n<p>Answer: 40 is <b>less than</b> 49, because 40 is smaller than 49.</p>",
+     "mcqs": [
+      {
+       "q": "24 is ___ than 20.",
+       "options": [
+        "less",
+        "smaller",
+        "more",
+        "equal"
+       ],
+       "answer": 2,
+       "why": "24 comes after 20 when we count, so 24 is greater than 20. That means 24 is more than 20."
+      },
+      {
+       "q": "40 is ___ than 49.",
+       "options": [
+        "more",
+        "greater",
+        "equal",
+        "less"
+       ],
+       "answer": 3,
+       "why": "40 comes before 49 when we count, so 40 is smaller than 49. That means 40 is less than 49."
+      },
+      {
+       "q": "'Greater than' means the same as:",
+       "options": [
+        "more than",
+        "less than",
+        "smaller than",
+        "equal to"
+       ],
+       "answer": 0,
+       "why": "When one group has more objects, its number is more than the other number; more than is also called greater than."
+      },
+      {
+       "q": "'Smaller than' means the same as:",
+       "options": [
+        "more than",
+        "greater than",
+        "less than",
+        "equal to"
+       ],
+       "answer": 2,
+       "why": "When one group has fewer objects, its number is less than the other number; less than is also called smaller than."
+      },
+      {
+       "q": "Which number is greater: 24 or 20?",
+       "options": [
+        "20",
+        "24",
+        "Both are equal",
+        "Neither of them"
+       ],
+       "answer": 1,
+       "why": "24 comes after 20 when we count, and 24 - 20 = 4, so 24 is the greater number."
+      },
+      {
+       "q": "Which number is smaller: 40 or 49?",
+       "options": [
+        "49",
+        "Both are equal",
+        "Neither of them",
+        "40"
+       ],
+       "answer": 3,
+       "why": "40 comes before 49 when we count, and 49 - 40 = 9, so 40 is the smaller number."
+      },
+      {
+       "q": "One group has more objects than another group. The number of the first group is:",
+       "options": [
+        "less than the other number",
+        "more than the other number",
+        "equal to the other number",
+        "always zero"
+       ],
+       "answer": 1,
+       "why": "When one group has more objects, its number is more than (greater than) the other number."
+      },
+      {
+       "q": "49 is made of 4 tens and 9 ones, while 40 is only 4 tens. So 49 is ___ than 40.",
+       "options": [
+        "less",
+        "smaller",
+        "more",
+        "equal"
+       ],
+       "answer": 2,
+       "why": "49 has 4 tens and 9 ones, which is more than 40 with only 4 tens. Also 49 - 40 = 9, so 49 is more than 40."
+      },
+      {
+       "q": "When we count in order, 24 comes ___ 20.",
+       "options": [
+        "before",
+        "after",
+        "at the same place as",
+        "nowhere near"
+       ],
+       "answer": 1,
+       "why": "Counting goes 20, 21, 22, 23, 24, so 24 comes after 20. That is why 24 is greater than 20."
+      },
+      {
+       "q": "When we count in order, 40 comes ___ 49.",
+       "options": [
+        "after",
+        "at the same place as",
+        "before",
+        "nowhere near"
+       ],
+       "answer": 2,
+       "why": "Counting reaches 40 before it reaches 49, so 40 comes before 49. That is why 40 is smaller than 49."
+      }
+     ]
+    },
+    {
+     "title": "Who Am I? — Smallest and Greatest 2-Digit Numbers",
+     "notes_html": "<h4>2-digit numbers</h4>\n<p>A <b>2-digit number</b> has two digits: the first digit shows the <b>tens</b> and the second digit shows the <b>ones</b>.</p>\n<h4>Worked example (Exercise 10, book page 39)</h4>\n<p>I am the smallest 2-digit number. I have 0 ones and 1 ten. Tell me, who am I?</p>\n<p>Step 1: The tens digit is 1, so write 1 in the tens place.</p>\n<p>Step 2: The ones digit is 0, so write 0 in the ones place.</p>\n<p>Step 3: 1 ten and 0 ones make the number 10.</p>\n<p>Answer: I am <b>10</b>. I have 1 ten and 0 ones, so I am the smallest 2-digit number.</p>\n<p>I am the greatest 2-digit number. I have 9 ones and 9 tens. 100 comes after me. Tell me, who am I?</p>\n<p>Step 1: The tens digit is 9, so write 9 in the tens place.</p>\n<p>Step 2: The ones digit is 9, so write 9 in the ones place.</p>\n<p>Step 3: 9 tens and 9 ones make the number 99, and 100 comes just after 99.</p>\n<p>Answer: I am <b>99</b>. I have 9 tens and 9 ones, and 100 comes after me, so I am the greatest 2-digit number.</p>",
+     "mcqs": [
+      {
+       "q": "What is the smallest 2-digit number?",
+       "options": [
+        "99",
+        "11",
+        "10",
+        "20"
+       ],
+       "answer": 2,
+       "why": "The smallest 2-digit number has 1 ten and 0 ones. One ten makes 10, and 10 + 0 = 10, so the number is 10."
+      },
+      {
+       "q": "What is the greatest 2-digit number?",
+       "options": [
+        "90",
+        "99",
+        "100",
+        "98"
+       ],
+       "answer": 1,
+       "why": "The greatest 2-digit number has 9 tens and 9 ones. Nine tens make 90, and 90 + 9 = 99, so the number is 99."
+      },
+      {
+       "q": "How many ones does the smallest 2-digit number have?",
+       "options": [
+        "1",
+        "9",
+        "10",
+        "0"
+       ],
+       "answer": 3,
+       "why": "The smallest 2-digit number is 10, which has 1 ten and 0 ones. Taking the ten away, 10 - 10 = 0, so it has 0 ones."
+      },
+      {
+       "q": "How many tens does the greatest 2-digit number have?",
+       "options": [
+        "9",
+        "0",
+        "1",
+        "10"
+       ],
+       "answer": 0,
+       "why": "The greatest 2-digit number is 99. Its first digit shows the tens, and 99 - 9 = 90 is made of 9 tens, so it has 9 tens."
+      },
+      {
+       "q": "Which number comes just after 99?",
+       "options": [
+        "98",
+        "100",
+        "90",
+        "101"
+       ],
+       "answer": 1,
+       "why": "Counting one more after 99 gives 100, and 99 + 1 = 100. The notes also say that 100 comes after the greatest 2-digit number."
+      },
+      {
+       "q": "In a 2-digit number, the first digit shows:",
+       "options": [
+        "the ones",
+        "the hundreds",
+        "the tens",
+        "the total"
+       ],
+       "answer": 2,
+       "why": "A 2-digit number has two digits: the first digit shows the tens and the second digit shows the ones."
+      },
+      {
+       "q": "In a 2-digit number, the second digit shows:",
+       "options": [
+        "the tens",
+        "the ones",
+        "the hundreds",
+        "the total"
+       ],
+       "answer": 1,
+       "why": "A 2-digit number has two digits: the first digit shows the tens and the second digit shows the ones."
+      },
+      {
+       "q": "I have 1 ten and 0 ones. Who am I?",
+       "options": [
+        "11",
+        "1",
+        "10",
+        "100"
+       ],
+       "answer": 2,
+       "why": "Write 1 in the tens place and 0 in the ones place. One ten and no ones make 10, and 10 + 0 = 10, so I am 10."
+      },
+      {
+       "q": "I have 9 tens and 9 ones, and 100 comes after me. Who am I?",
+       "options": [
+        "99",
+        "90",
+        "109",
+        "89"
+       ],
+       "answer": 0,
+       "why": "Write 9 in the tens place and 9 in the ones place. Nine tens make 90, and 90 + 9 = 99, so I am 99."
+      },
+      {
+       "q": "How many digits does a 2-digit number have?",
+       "options": [
+        "1",
+        "3",
+        "2",
+        "10"
+       ],
+       "answer": 2,
+       "why": "A 2-digit number has two digits: the first digit shows the tens and the second digit shows the ones."
+      }
+     ]
+    },
+    {
+     "title": "Tens and Ones",
+     "notes_html": "<h4>Place value of a 2-digit number</h4>\n<p>In a 2-digit number, the <b>first digit</b> (on the left) shows how many <b>tens</b> there are and the <b>second digit</b> shows how many <b>ones</b> there are.</p>\n<h4>Worked example</h4>\n<p>Write 45 in tens and ones.</p>\n<p>Step 1: Look at the first digit of 45. It is 4, so there are 4 tens.</p>\n<p>Step 2: Look at the second digit of 45. It is 5, so there are 5 ones.</p>\n<p>Answer: <b>45 = 4 tens and 5 ones</b></p>\n<p>Write 89 in tens and ones.</p>\n<p>Step 1: Look at the first digit of 89. It is 8, so there are 8 tens.</p>\n<p>Step 2: Look at the second digit of 89. It is 9, so there are 9 ones.</p>\n<p>Answer: <b>89 = 8 tens and 9 ones</b></p>",
+     "mcqs": [
+      {
+       "q": "How many tens are there in 45?",
+       "options": [
+        "5",
+        "4",
+        "45",
+        "9"
+       ],
+       "answer": 1,
+       "why": "The first digit of 45 is 4, so there are 4 tens. Checking: 4 tens make 40, and 40 + 5 = 45."
+      },
+      {
+       "q": "How many ones are there in 45?",
+       "options": [
+        "4",
+        "40",
+        "5",
+        "45"
+       ],
+       "answer": 2,
+       "why": "The second digit of 45 is 5, so there are 5 ones. Checking: 45 - 40 = 5, so 5 ones are left after the 4 tens."
+      },
+      {
+       "q": "How many tens are there in 89?",
+       "options": [
+        "9",
+        "89",
+        "17",
+        "8"
+       ],
+       "answer": 3,
+       "why": "The first digit of 89 is 8, so there are 8 tens. Checking: 8 tens make 80, and 80 + 9 = 89."
+      },
+      {
+       "q": "How many ones are there in 89?",
+       "options": [
+        "9",
+        "8",
+        "80",
+        "89"
+       ],
+       "answer": 0,
+       "why": "The second digit of 89 is 9, so there are 9 ones. Checking: 89 - 80 = 9, so 9 ones are left after the 8 tens."
+      },
+      {
+       "q": "4 tens and 5 ones make which number?",
+       "options": [
+        "54",
+        "405",
+        "45",
+        "95"
+       ],
+       "answer": 2,
+       "why": "4 tens make 40. Joining the 5 ones gives 40 + 5 = 45, so the number is 45."
+      },
+      {
+       "q": "8 tens and 9 ones make which number?",
+       "options": [
+        "98",
+        "17",
+        "809",
+        "89"
+       ],
+       "answer": 3,
+       "why": "8 tens make 80. Joining the 9 ones gives 80 + 9 = 89, so the number is 89."
+      },
+      {
+       "q": "In 45, the digit 4 is in which place?",
+       "options": [
+        "Ones place",
+        "Tens place",
+        "Hundreds place",
+        "No place"
+       ],
+       "answer": 1,
+       "why": "In a 2-digit number, the first digit on the left shows the tens. In 45 the first digit is 4, so 4 is in the tens place."
+      },
+      {
+       "q": "In 89, the digit 9 is in which place?",
+       "options": [
+        "Tens place",
+        "Hundreds place",
+        "Ones place",
+        "No place"
+       ],
+       "answer": 2,
+       "why": "In a 2-digit number, the second digit shows the ones. In 89 the second digit is 9, so 9 is in the ones place."
+      },
+      {
+       "q": "In a 2-digit number, the first digit (on the left) shows:",
+       "options": [
+        "how many ones there are",
+        "how many tens there are",
+        "the name of the number",
+        "nothing at all"
+       ],
+       "answer": 1,
+       "why": "The place value rule says: the first digit of a 2-digit number shows how many tens there are, and the second digit shows the ones."
+      },
+      {
+       "q": "In a 2-digit number, the second digit shows:",
+       "options": [
+        "how many tens there are",
+        "the name of the number",
+        "nothing at all",
+        "how many ones there are"
+       ],
+       "answer": 3,
+       "why": "The place value rule says: the first digit of a 2-digit number shows how many tens there are, and the second digit shows how many ones there are."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Number Operations",
+   "lessons": [
+    {
+     "title": "Addition of 1-Digit Numbers",
+     "notes_html": "<h4>What addition means</h4>\n<p><b>Addition</b> means putting two groups together and counting all the objects. The symbol <b>+</b> is called <b>plus</b> and the symbol <b>=</b> is called <b>equal</b>.</p>\n<h4>Adding with pictures (book page 43)</h4>\n<p>A boy has 2 cars in his hands and 3 cars on the table. How many cars are there in all?</p>\n<p>Step 1: Count the cars in the first group: 2.</p>\n<p>Step 2: Count the cars in the second group: 3.</p>\n<p>Step 3: Put both groups together and count all the cars: 1, 2, 3, 4, 5.</p>\n<p>Step 4: Write it with symbols: 2 + 3 = 5.</p>\n<p>Answer: 2 and 3 equal <b>5</b>, so <b>2 + 3 = 5</b>.</p>\n<h4>Worked example</h4>\n<p>Add the apples: 3 apples and 4 apples.</p>\n<p>Step 1: Count the first group of apples: 3.</p>\n<p>Step 2: Count the second group of apples: 4.</p>\n<p>Step 3: Count all the apples together: 1, 2, 3, 4, 5, 6, 7.</p>\n<p>Step 4: Write it with symbols: 3 + 4 = 7.</p>\n<p>Answer: 3 and 4 equal <b>7</b>, so <b>3 + 4 = 7</b>.</p>",
+     "mcqs": [
+      {
+       "q": "What is 2 + 3?",
+       "options": [
+        "4",
+        "6",
+        "5",
+        "3"
+       ],
+       "answer": 2,
+       "why": "Put the two groups together and count all: 1, 2, 3, 4, 5. So 2 + 3 = 5."
+      },
+      {
+       "q": "What is 3 + 4?",
+       "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+       ],
+       "answer": 0,
+       "why": "Put the two groups together and count all: 1, 2, 3, 4, 5, 6, 7. So 3 + 4 = 7."
+      },
+      {
+       "q": "The symbol + is called:",
+       "options": [
+        "equal",
+        "minus",
+        "plus",
+        "times"
+       ],
+       "answer": 2,
+       "why": "In addition, the symbol + is called plus and the symbol = is called equal."
+      },
+      {
+       "q": "The symbol = is called:",
+       "options": [
+        "plus",
+        "equal",
+        "minus",
+        "times"
+       ],
+       "answer": 1,
+       "why": "In addition, the symbol + is called plus and the symbol = is called equal."
+      },
+      {
+       "q": "Addition means:",
+       "options": [
+        "taking objects away from a group",
+        "putting two groups together and counting all the objects",
+        "counting only the first group",
+        "writing numbers in order"
+       ],
+       "answer": 1,
+       "why": "Addition means putting two groups together and counting all the objects, like 2 cars and 3 cars making 5 cars in all."
+      },
+      {
+       "q": "A boy has 2 cars in his hands and 3 cars on the table. How many cars are there in all?",
+       "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+       ],
+       "answer": 3,
+       "why": "Count the cars in the hands (2) and the cars on the table (3), then count all together: 2 + 3 = 5 cars in all."
+      },
+      {
+       "q": "There are 3 apples in one group and 4 apples in another group. How many apples are there altogether?",
+       "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+       ],
+       "answer": 0,
+       "why": "Count all the apples together: 1, 2, 3, 4, 5, 6, 7. So 3 + 4 = 7 apples altogether."
+      },
+      {
+       "q": "Which sum makes 5?",
+       "options": [
+        "3 + 4",
+        "2 + 3",
+        "4 + 4",
+        "1 + 1"
+       ],
+       "answer": 1,
+       "why": "Check each sum: 2 + 3 = 5, while 3 + 4 = 7, 4 + 4 = 8 and 1 + 1 = 2. So only 2 + 3 makes 5."
+      },
+      {
+       "q": "Which sum makes 7?",
+       "options": [
+        "2 + 3",
+        "4 + 4",
+        "3 + 4",
+        "2 + 2"
+       ],
+       "answer": 2,
+       "why": "Check each sum: 3 + 4 = 7, while 2 + 3 = 5, 4 + 4 = 8 and 2 + 2 = 4. So only 3 + 4 makes 7."
+      },
+      {
+       "q": "'2 and 3 equal 5' is written with symbols as:",
+       "options": [
+        "2 - 3 = 5",
+        "2 + 3 = 5",
+        "2 + 5 = 3",
+        "3 - 2 = 5"
+       ],
+       "answer": 1,
+       "why": "'And' here means putting the groups together, which is addition: we use the plus symbol and the equal symbol, and 2 + 3 = 5."
+      }
+     ]
+    },
+    {
+     "title": "Subtracting in Tens and Ones",
+     "notes_html": "<h4>How to subtract a 2-digit number</h4>\n<p>To subtract, first write the number in <b>tens and ones</b>. Then subtract the <b>tens</b> from the tens and the <b>ones</b> from the ones, and join the two answers.</p>\n<h4>Worked example (book page 70)</h4>\n<p>Work out 89 − 60.</p>\n<p>Step 1: Write 89 as 8 tens and 9 ones.</p>\n<p>Step 2: Subtract the tens: 8 tens − 6 tens = 2 tens.</p>\n<p>Step 3: Subtract the ones: 9 ones − 0 ones = 9 ones.</p>\n<p>Step 4: 2 tens and 9 ones make 29.</p>\n<p>Answer: <b>89 − 60 = 29</b></p>\n<p>Work out 93 − 81.</p>\n<p>Step 1: Write 93 as 9 tens and 3 ones.</p>\n<p>Step 2: Subtract the tens: 9 tens − 8 tens = 1 ten.</p>\n<p>Step 3: Subtract the ones: 3 ones − 1 one = 2 ones.</p>\n<p>Step 4: 1 ten and 2 ones make 12.</p>\n<p>Answer: <b>93 − 81 = 12</b></p>\n<p>Work out 70 − 50.</p>\n<p>Step 1: Write 70 as 7 tens and 0 ones.</p>\n<p>Step 2: Subtract the tens: 7 tens − 5 tens = 2 tens.</p>\n<p>Step 3: Subtract the ones: 0 ones − 0 ones = 0 ones.</p>\n<p>Step 4: 2 tens and 0 ones make 20.</p>\n<p>Answer: <b>70 − 50 = 20</b></p>\n<p>Work out 64 − 52.</p>\n<p>Step 1: Write 64 as 6 tens and 4 ones.</p>\n<p>Step 2: Subtract the tens: 6 tens − 5 tens = 1 ten.</p>\n<p>Step 3: Subtract the ones: 4 ones − 2 ones = 2 ones.</p>\n<p>Step 4: 1 ten and 2 ones make 12.</p>\n<p>Answer: <b>64 − 52 = 12</b></p>",
+     "mcqs": [
+      {
+       "q": "What is 89 - 60?",
+       "options": [
+        "28",
+        "30",
+        "29",
+        "19"
+       ],
+       "answer": 2,
+       "why": "Write 89 as 8 tens and 9 ones. Subtract the tens: 8 - 6 = 2 tens. Subtract the ones: 9 - 0 = 9 ones. So 89 - 60 = 29."
+      },
+      {
+       "q": "What is 93 - 81?",
+       "options": [
+        "12",
+        "11",
+        "22",
+        "14"
+       ],
+       "answer": 0,
+       "why": "Write 93 as 9 tens and 3 ones. Subtract the tens: 9 - 8 = 1 ten. Subtract the ones: 3 - 1 = 2 ones. So 93 - 81 = 12."
+      },
+      {
+       "q": "What is 70 - 50?",
+       "options": [
+        "25",
+        "20",
+        "30",
+        "15"
+       ],
+       "answer": 1,
+       "why": "Write 70 as 7 tens and 0 ones. Subtract the tens: 7 - 5 = 2 tens. Subtract the ones: 0 - 0 = 0 ones. So 70 - 50 = 20."
+      },
+      {
+       "q": "What is 64 - 52?",
+       "options": [
+        "16",
+        "12",
+        "22",
+        "11"
+       ],
+       "answer": 1,
+       "why": "Write 64 as 6 tens and 4 ones. Subtract the tens: 6 - 5 = 1 ten. Subtract the ones: 4 - 2 = 2 ones. So 64 - 52 = 12."
+      },
+      {
+       "q": "To subtract a 2-digit number, first we write the number in:",
+       "options": [
+        "words",
+        "hundreds",
+        "tens and ones",
+        "any order"
+       ],
+       "answer": 2,
+       "why": "The method in the notes is: first write the number in tens and ones, then subtract the tens from the tens and the ones from the ones."
+      },
+      {
+       "q": "In 89 - 60, the tens subtraction 8 tens - 6 tens gives:",
+       "options": [
+        "3 tens",
+        "2 tens",
+        "6 tens",
+        "8 tens"
+       ],
+       "answer": 1,
+       "why": "Subtracting the tens of 89 and 60 gives 8 - 6 = 2, so 8 tens take away 6 tens leaves 2 tens."
+      },
+      {
+       "q": "In 93 - 81, the ones subtraction 3 ones - 1 one gives:",
+       "options": [
+        "2 ones",
+        "4 ones",
+        "1 one",
+        "3 ones"
+       ],
+       "answer": 0,
+       "why": "Subtracting the ones of 93 and 81 gives 3 - 1 = 2, so 3 ones take away 1 one leaves 2 ones."
+      },
+      {
+       "q": "2 tens and 9 ones make which number?",
+       "options": [
+        "92",
+        "209",
+        "29",
+        "11"
+       ],
+       "answer": 2,
+       "why": "2 tens make 20. Joining the 9 ones gives 20 + 9 = 29, so the number is 29."
+      },
+      {
+       "q": "1 ten and 2 ones make which number?",
+       "options": [
+        "21",
+        "102",
+        "12",
+        "3"
+       ],
+       "answer": 2,
+       "why": "1 ten makes 10. Joining the 2 ones gives 10 + 2 = 12, so the number is 12."
+      },
+      {
+       "q": "When we subtract, we subtract tens from ___ and ones from ___.",
+       "options": [
+        "tens; ones",
+        "ones; tens",
+        "hundreds; ones",
+        "tens; hundreds"
+       ],
+       "answer": 0,
+       "why": "The rule in the notes is: subtract the tens from the tens and the ones from the ones, then join the two answers."
+      }
+     ]
+    },
+    {
+     "title": "Word Problems — Altogether and How Many Left",
+     "notes_html": "<h4>Words that tell us what to do</h4>\n<p>The word <b>altogether</b> tells us to <b>add</b> the numbers. When some objects are taken away, or we have to find how many are left from a total, we <b>subtract</b>.</p>\n<h4>Worked example (Exercise 9, book page 70)</h4>\n<p>Iram saw 15 parrots and 3 pigeons in the zoo. How many birds did she see altogether?</p>\n<p>Step 1: Number of parrots = 15.</p>\n<p>Step 2: Number of pigeons = 3.</p>\n<p>Step 3: Altogether means add: 15 + 3.</p>\n<p>Step 4: 15 + 3 = 18.</p>\n<p>Answer: Iram saw <b>18 birds</b> altogether.</p>\n<h4>Worked example (Exercise 10, book page 70)</h4>\n<p>Sara has two books. One book has 56 pages and the other has 42 pages. If Sara reads both books, how many pages will she read altogether?</p>\n<p>Step 1: Pages of one book = 56.</p>\n<p>Step 2: Pages of the other book = 42.</p>\n<p>Step 3: Altogether means add: 56 + 42.</p>\n<p>Step 4: Add the ones: 6 ones + 2 ones = 8 ones. Add the tens: 5 tens + 4 tens = 9 tens.</p>\n<p>Step 5: 9 tens and 8 ones make 98.</p>\n<p>Answer: Sara read <b>98 pages</b> altogether.</p>\n<h4>Worked example (Exercise 11, book page 70)</h4>\n<p>There are 45 students in Zara's class. If 23 of them are boys, how many girls are there?</p>\n<p>Step 1: Total students = 45.</p>\n<p>Step 2: Number of boys = 23.</p>\n<p>Step 3: Girls = total − boys: 45 − 23.</p>\n<p>Step 4: Subtract the ones: 5 ones − 3 ones = 2 ones. Subtract the tens: 4 tens − 2 tens = 2 tens.</p>\n<p>Step 5: 2 tens and 2 ones make 22.</p>\n<p>Answer: There are <b>22 girls</b> in the class.</p>",
+     "mcqs": [
+      {
+       "q": "The word 'altogether' tells us to:",
+       "options": [
+        "subtract",
+        "add",
+        "count backwards",
+        "do nothing"
+       ],
+       "answer": 1,
+       "why": "The notes say: the word altogether tells us to add the numbers, like adding parrots and pigeons to find all the birds."
+      },
+      {
+       "q": "When some objects are taken away, we:",
+       "options": [
+        "add",
+        "multiply",
+        "subtract",
+        "count forwards"
+       ],
+       "answer": 2,
+       "why": "When some objects are taken away, or we have to find how many are left from a total, we subtract."
+      },
+      {
+       "q": "Iram saw 15 parrots and 3 pigeons in the zoo. How many birds did she see altogether?",
+       "options": [
+        "12",
+        "17",
+        "19",
+        "18"
+       ],
+       "answer": 3,
+       "why": "Altogether means add the parrots and the pigeons: 15 + 3 = 18, so Iram saw 18 birds altogether."
+      },
+      {
+       "q": "One book has 56 pages and the other has 42 pages. How many pages are there in both books altogether?",
+       "options": [
+        "98",
+        "88",
+        "96",
+        "108"
+       ],
+       "answer": 0,
+       "why": "Altogether means add. Ones: 6 + 2 = 8 ones. Tens: 5 + 4 = 9 tens. So 56 + 42 = 98 pages altogether."
+      },
+      {
+       "q": "There are 45 students in a class and 23 of them are boys. How many girls are there?",
+       "options": [
+        "28",
+        "22",
+        "32",
+        "68"
+       ],
+       "answer": 1,
+       "why": "Girls are what is left after taking the boys from the total. Ones: 5 - 3 = 2 ones. Tens: 4 - 2 = 2 tens. So 45 - 23 = 22 girls."
+      },
+      {
+       "q": "To find how many are left from a total, we:",
+       "options": [
+        "add",
+        "count forwards",
+        "subtract",
+        "skip count"
+       ],
+       "answer": 2,
+       "why": "The notes say: when we have to find how many are left from a total, we subtract, like finding the girls from the total students."
+      },
+      {
+       "q": "In Iram's zoo problem, which two numbers are added?",
+       "options": [
+        "15 and 3",
+        "15 and 18",
+        "3 and 18",
+        "45 and 15"
+       ],
+       "answer": 0,
+       "why": "Iram saw 15 parrots and 3 pigeons, and altogether means add those two numbers: 15 + 3 = 18."
+      },
+      {
+       "q": "In Sara's pages problem, we add 56 and 42 because the question asks for the pages:",
+       "options": [
+        "left",
+        "taken away",
+        "altogether",
+        "removed"
+       ],
+       "answer": 2,
+       "why": "The question asks how many pages Sara will read altogether, and altogether tells us to add: 56 + 42 = 98."
+      },
+      {
+       "q": "In Zara's class problem, why do we subtract 23 from 45?",
+       "options": [
+        "To find the total students",
+        "To find how many girls are left from the total",
+        "To count the boys again",
+        "To make a bigger number"
+       ],
+       "answer": 1,
+       "why": "The girls are the part left after removing the 23 boys from the total of 45 students: 45 - 23 = 22."
+      },
+      {
+       "q": "What is 15 + 3?",
+       "options": [
+        "13",
+        "18",
+        "12",
+        "20"
+       ],
+       "answer": 1,
+       "why": "Adding the parrots and pigeons: 15 + 3 = 18. Count on from 15: 16, 17, 18."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Measurement",
+   "lessons": [
+    {
+     "title": "Length — Long and Short",
+     "notes_html": "<h4>Comparing lengths</h4>\n<p>In this unit we compare objects by <b>length</b> and by <b>mass</b>: length tells us how long or short an object is, and mass tells us how heavy or light an object is.</p>\n<h4>How to compare lengths</h4>\n<p>Place the two objects next to each other, starting from the same end. The object whose other end goes further is the <b>longer</b> one, and the other object is the <b>shorter</b> one. An object that stretches further is <b>long</b>, and an object that stretches less is <b>short</b>.</p>",
+     "mcqs": [
+      {
+       "q": "Length tells us:",
+       "options": [
+        "how heavy or light an object is",
+        "how long or short an object is",
+        "what colour an object is",
+        "how many objects there are"
+       ],
+       "answer": 1,
+       "why": "The notes say: length tells us how long or short an object is, while mass tells us how heavy or light an object is."
+      },
+      {
+       "q": "Mass tells us:",
+       "options": [
+        "how long or short an object is",
+        "what shape an object is",
+        "how heavy or light an object is",
+        "how many sides an object has"
+       ],
+       "answer": 2,
+       "why": "The notes say: mass tells us how heavy or light an object is, while length tells us how long or short an object is."
+      },
+      {
+       "q": "To compare the lengths of two objects, we place them:",
+       "options": [
+        "one on top of the other",
+        "next to each other, starting from the same end",
+        "far away from each other",
+        "in a circle"
+       ],
+       "answer": 1,
+       "why": "We compare lengths by placing the two objects next to each other, starting from the same end, and seeing which end goes further."
+      },
+      {
+       "q": "When two objects start from the same end, the object whose other end goes further is:",
+       "options": [
+        "the shorter one",
+        "the heavier one",
+        "the longer one",
+        "the lighter one"
+       ],
+       "answer": 2,
+       "why": "Placed from the same end, the object whose other end goes further stretches more, so it is the longer one."
+      },
+      {
+       "q": "When two objects start from the same end, the object whose other end does not go as far is:",
+       "options": [
+        "the longer one",
+        "the heavier one",
+        "the shorter one",
+        "the bigger one"
+       ],
+       "answer": 2,
+       "why": "An object that stretches less is short, so the object whose end does not go as far is the shorter one."
+      },
+      {
+       "q": "An object that stretches further is called:",
+       "options": [
+        "short",
+        "long",
+        "heavy",
+        "light"
+       ],
+       "answer": 1,
+       "why": "The notes say: an object that stretches further is long, and an object that stretches less is short."
+      },
+      {
+       "q": "An object that stretches less is called:",
+       "options": [
+        "long",
+        "heavy",
+        "short",
+        "light"
+       ],
+       "answer": 2,
+       "why": "The notes say: an object that stretches further is long, and an object that stretches less is short."
+      },
+      {
+       "q": "When comparing lengths, both objects must start from:",
+       "options": [
+        "different ends",
+        "the middle",
+        "the same end",
+        "anywhere we like"
+       ],
+       "answer": 2,
+       "why": "The method in the notes is to place the two objects next to each other starting from the same end; only then can we see which end goes further."
+      },
+      {
+       "q": "In this unit, we compare objects by:",
+       "options": [
+        "length and mass",
+        "colour and shape",
+        "numbers and letters",
+        "price and size"
+       ],
+       "answer": 0,
+       "why": "The notes say: in this unit we compare objects by length and by mass — length tells how long or short, and mass tells how heavy or light."
+      },
+      {
+       "q": "A ribbon and a stick start from the same end. The ribbon's other end goes further. The ribbon is:",
+       "options": [
+        "shorter than the stick",
+        "longer than the stick",
+        "the same length as the stick",
+        "heavier than the stick"
+       ],
+       "answer": 1,
+       "why": "Starting from the same end, the object whose other end goes further is the longer one, so the ribbon is longer than the stick."
+      }
+     ]
+    },
+    {
+     "title": "Mass — Light, Lighter, Lightest and Heavy, Heavier, Heaviest",
+     "notes_html": "<h4>Comparing mass</h4>\n<p><b>Light</b> things are easy to lift. <b>Heavy</b> things are hard to lift. When we compare three objects, the one that is easiest to lift is the <b>lightest</b> and the one that is hardest to lift is the <b>heaviest</b>.</p>\n<h4>Worked example (Exercise 6, book page 80)</h4>\n<p>Compare the leaf, the tennis ball and the jug of water. Write \"1\" for \"light\", \"2\" for \"lighter\" and \"3\" for \"the lightest\" — which is the lightest and which is the heaviest?</p>\n<p>Step 1: A leaf is very easy to lift, so the leaf is the lightest.</p>\n<p>Step 2: A tennis ball is heavier than a leaf but lighter than a jug of water, so the tennis ball is in the middle.</p>\n<p>Step 3: A jug full of water is hard to lift, so the jug of water is the heaviest.</p>\n<p>Answer: The <b>leaf</b> is the lightest, the <b>tennis ball</b> is in the middle, and the <b>jug of water</b> is the heaviest.</p>\n<h4>Worked example (Exercise 7, book page 80)</h4>\n<p>Tick (✓) the heaviest object: the cupboard, the chair or the small cabinet.</p>\n<p>Step 1: The cupboard is the biggest object and holds the most things.</p>\n<p>Step 2: The chair and the small cabinet are smaller and lighter than the cupboard.</p>\n<p>Answer: The big <b>cupboard (wardrobe)</b> is the heaviest object. It is bigger and heavier than the chair and the small cabinet.</p>\n<h4>Worked example (Exercise 8, book page 80)</h4>\n<p>Colour the lightest object blue and the heaviest object yellow: school bag, book, clipboard.</p>\n<p>Step 1: The clipboard is thin and very easy to lift, so it is the lightest.</p>\n<p>Step 2: The school bag carries many books, so it is the heaviest.</p>\n<p>Step 3: The book is in the middle.</p>\n<p>Answer: Colour the <b>clipboard</b> blue because it is the lightest object. Colour the <b>school bag</b> yellow because it is the heaviest object. The book is in the middle.</p>",
+     "mcqs": [
+      {
+       "q": "Light things are:",
+       "options": [
+        "hard to lift",
+        "easy to lift",
+        "always big",
+        "always round"
+       ],
+       "answer": 1,
+       "why": "The notes say: light things are easy to lift, and heavy things are hard to lift."
+      },
+      {
+       "q": "Heavy things are:",
+       "options": [
+        "easy to lift",
+        "always small",
+        "hard to lift",
+        "always thin"
+       ],
+       "answer": 2,
+       "why": "The notes say: light things are easy to lift, and heavy things are hard to lift."
+      },
+      {
+       "q": "When we compare three objects, the one that is easiest to lift is:",
+       "options": [
+        "the heaviest",
+        "the lightest",
+        "the longest",
+        "the shortest"
+       ],
+       "answer": 1,
+       "why": "Of three objects, the one that is easiest to lift is the lightest, and the one that is hardest to lift is the heaviest."
+      },
+      {
+       "q": "When we compare three objects, the one that is hardest to lift is:",
+       "options": [
+        "the lightest",
+        "the longest",
+        "the heaviest",
+        "the shortest"
+       ],
+       "answer": 2,
+       "why": "Of three objects, the one that is easiest to lift is the lightest, and the one that is hardest to lift is the heaviest."
+      },
+      {
+       "q": "Between a leaf, a tennis ball and a jug of water, which is the lightest?",
+       "options": [
+        "The tennis ball",
+        "The jug of water",
+        "The leaf",
+        "All are equal"
+       ],
+       "answer": 2,
+       "why": "A leaf is very easy to lift, so the leaf is the lightest; the tennis ball is in the middle and the jug of water is the heaviest."
+      },
+      {
+       "q": "Between a leaf, a tennis ball and a jug of water, which is the heaviest?",
+       "options": [
+        "The leaf",
+        "The tennis ball",
+        "All are equal",
+        "The jug of water"
+       ],
+       "answer": 3,
+       "why": "A jug full of water is hard to lift, so the jug of water is the heaviest; the leaf is the lightest and the tennis ball is in the middle."
+      },
+      {
+       "q": "Between a leaf, a tennis ball and a jug of water, which one is in the middle?",
+       "options": [
+        "The tennis ball",
+        "The leaf",
+        "The jug of water",
+        "None of them"
+       ],
+       "answer": 0,
+       "why": "The tennis ball is heavier than a leaf but lighter than a jug of water, so the tennis ball is in the middle."
+      },
+      {
+       "q": "Between a cupboard, a chair and a small cabinet, which is the heaviest?",
+       "options": [
+        "The chair",
+        "The small cabinet",
+        "The cupboard",
+        "All are equal"
+       ],
+       "answer": 2,
+       "why": "The big cupboard (wardrobe) is the biggest object and holds the most things, so it is heavier than the chair and the small cabinet."
+      },
+      {
+       "q": "Between a school bag, a book and a clipboard, which is the lightest?",
+       "options": [
+        "The school bag",
+        "The book",
+        "The clipboard",
+        "All are equal"
+       ],
+       "answer": 2,
+       "why": "The clipboard is thin and very easy to lift, so it is the lightest; the book is in the middle and the school bag is the heaviest."
+      },
+      {
+       "q": "Between a school bag, a book and a clipboard, which is the heaviest?",
+       "options": [
+        "The clipboard",
+        "The book",
+        "All are equal",
+        "The school bag"
+       ],
+       "answer": 3,
+       "why": "The school bag carries many books, so it is the heaviest; the book is in the middle and the clipboard is the lightest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Money",
+   "lessons": [
+    {
+     "title": "Counting Notes and Coins",
+     "notes_html": "<h4>Money we use</h4>\n<p>We buy things with <b>notes</b> and <b>coins</b>. To find the total amount, count each note and coin and then <b>add</b> them all.</p>\n<h4>Worked example (Exercise 3, book page 93)</h4>\n<p>Count: one Rs 50 note and three Rs 10 notes.</p>\n<p>Step 1: One Rs 50 note = Rs 50.</p>\n<p>Step 2: Three Rs 10 notes = Rs 10 + Rs 10 + Rs 10 = Rs 30.</p>\n<p>Step 3: Add them: Rs 50 + Rs 30 = Rs 80.</p>\n<p>Answer: <b>Rs 80</b></p>\n<p>Count: one Rs 20 note, one Rs 5 coin and four Rs 2 coins.</p>\n<p>Step 1: One Rs 20 note = Rs 20.</p>\n<p>Step 2: One Rs 5 coin = Rs 5.</p>\n<p>Step 3: Four Rs 2 coins = Rs 2 + Rs 2 + Rs 2 + Rs 2 = Rs 8.</p>\n<p>Step 4: Add them: Rs 20 + Rs 5 + Rs 8 = Rs 33.</p>\n<p>Answer: <b>Rs 33</b></p>\n<p>Count: one Rs 50 note, one Rs 20 note, one Rs 10 note and one Rs 5 coin.</p>\n<p>Step 1: Rs 50 + Rs 20 = Rs 70.</p>\n<p>Step 2: Rs 70 + Rs 10 = Rs 80.</p>\n<p>Step 3: Rs 80 + Rs 5 = Rs 85.</p>\n<p>Answer: <b>Rs 85</b></p>\n<p>Count: two Rs 10 coins, one Rs 5 coin and four Rs 2 coins.</p>\n<p>Step 1: Two Rs 10 coins = Rs 10 + Rs 10 = Rs 20.</p>\n<p>Step 2: One Rs 5 coin = Rs 5.</p>\n<p>Step 3: Four Rs 2 coins = Rs 8.</p>\n<p>Step 4: Add them: Rs 20 + Rs 5 + Rs 8 = Rs 33.</p>\n<p>Answer: <b>Rs 33</b></p>",
+     "mcqs": [
+      {
+       "q": "One Rs 50 note and three Rs 10 notes make how much money in all?",
+       "options": [
+        "Rs 60",
+        "Rs 80",
+        "Rs 90",
+        "Rs 53"
+       ],
+       "answer": 1,
+       "why": "Three Rs 10 notes make 10 + 10 + 10 = 30 rupees. Adding the Rs 50 note gives 50 + 30 = 80, so the total is Rs 80."
+      },
+      {
+       "q": "One Rs 20 note, one Rs 5 coin and four Rs 2 coins make how much money in all?",
+       "options": [
+        "Rs 27",
+        "Rs 30",
+        "Rs 33",
+        "Rs 35"
+       ],
+       "answer": 2,
+       "why": "Four Rs 2 coins make 2 + 2 + 2 + 2 = 8 rupees. Adding all the money gives 20 + 5 + 8 = 33, so the total is Rs 33."
+      },
+      {
+       "q": "One Rs 50 note, one Rs 20 note, one Rs 10 note and one Rs 5 coin make how much money in all?",
+       "options": [
+        "Rs 85",
+        "Rs 75",
+        "Rs 95",
+        "Rs 80"
+       ],
+       "answer": 0,
+       "why": "Add step by step: 50 + 20 = 70, then 70 + 10 = 80, then 80 + 5 = 85, so the total is Rs 85."
+      },
+      {
+       "q": "Two Rs 10 coins, one Rs 5 coin and four Rs 2 coins make how much money in all?",
+       "options": [
+        "Rs 30",
+        "Rs 28",
+        "Rs 35",
+        "Rs 33"
+       ],
+       "answer": 3,
+       "why": "Two Rs 10 coins make 10 + 10 = 20 rupees, and four Rs 2 coins make 2 + 2 + 2 + 2 = 8 rupees. Adding all gives 20 + 5 + 8 = 33, so the total is Rs 33."
+      },
+      {
+       "q": "Three Rs 10 notes make how much money?",
+       "options": [
+        "Rs 10",
+        "Rs 30",
+        "Rs 13",
+        "Rs 100"
+       ],
+       "answer": 1,
+       "why": "Add the three notes one by one: 10 + 10 + 10 = 30, so three Rs 10 notes make Rs 30."
+      },
+      {
+       "q": "Four Rs 2 coins make how much money?",
+       "options": [
+        "Rs 6",
+        "Rs 10",
+        "Rs 8",
+        "Rs 4"
+       ],
+       "answer": 2,
+       "why": "Add the four coins one by one: 2 + 2 + 2 + 2 = 8, so four Rs 2 coins make Rs 8."
+      },
+      {
+       "q": "To find the total amount of money, we:",
+       "options": [
+        "count only the biggest note",
+        "count each note and coin and add them all",
+        "throw away the coins",
+        "count the notes twice"
+       ],
+       "answer": 1,
+       "why": "The notes say: to find the total amount, count each note and coin and then add them all together."
+      },
+      {
+       "q": "We buy things with:",
+       "options": [
+        "only coins",
+        "only notes",
+        "notes and coins",
+        "sticks and stones"
+       ],
+       "answer": 2,
+       "why": "The notes say: we buy things with notes and coins, so we must learn to count both of them."
+      },
+      {
+       "q": "One Rs 50 note and one Rs 20 note make how much money?",
+       "options": [
+        "Rs 70",
+        "Rs 60",
+        "Rs 30",
+        "Rs 90"
+       ],
+       "answer": 0,
+       "why": "Add the two notes: 50 + 20 = 70, so one Rs 50 note and one Rs 20 note make Rs 70."
+      },
+      {
+       "q": "Rs 80 and one more Rs 5 coin make how much money?",
+       "options": [
+        "Rs 80",
+        "Rs 90",
+        "Rs 85",
+        "Rs 75"
+       ],
+       "answer": 2,
+       "why": "Adding the Rs 5 coin to Rs 80 gives 80 + 5 = 85, so the money becomes Rs 85."
+      }
+     ]
+    },
+    {
+     "title": "Shopping Word Problems",
+     "notes_html": "<h4>Solving money problems</h4>\n<p>When we buy two things, we <b>add</b> their prices to find the total money spent. When we have some money and need more for a thing, we <b>subtract</b> the money we have from the price.</p>\n<h4>Worked example (Exercise 4, book page 93)</h4>\n<p>Harris bought a train for Rs 63 and a duck for Rs 25 from a toy store. How much money did he spend?</p>\n<p>Step 1: Cost of the train = Rs 63.</p>\n<p>Step 2: Cost of the duck = Rs 25.</p>\n<p>Step 3: Total = Rs 63 + Rs 25.</p>\n<p>Step 4: Add the ones: 3 ones + 5 ones = 8 ones. Add the tens: 6 tens + 2 tens = 8 tens.</p>\n<p>Step 5: 8 tens and 8 ones make Rs 88.</p>\n<p>Answer: Harris spent <b>Rs 88</b>.</p>\n<p>Ayesha wants to buy a teddy bear for Rs 70. She has Rs 50. How much more money does she need?</p>\n<p>Step 1: Cost of the teddy bear = Rs 70.</p>\n<p>Step 2: Ayesha has Rs 50.</p>\n<p>Step 3: More money needed = Rs 70 − Rs 50.</p>\n<p>Step 4: 7 tens − 5 tens = 2 tens, so the answer is Rs 20.</p>\n<p>Answer: Ayesha needs <b>Rs 20</b> more.</p>",
+     "mcqs": [
+      {
+       "q": "Harris bought a train for Rs 63 and a duck for Rs 25. How much money did he spend in all?",
+       "options": [
+        "Rs 78",
+        "Rs 88",
+        "Rs 98",
+        "Rs 85"
+       ],
+       "answer": 1,
+       "why": "Buying two things means adding their prices. Ones: 3 + 5 = 8 ones. Tens: 6 + 2 = 8 tens. So 63 + 25 = 88, and Harris spent Rs 88."
+      },
+      {
+       "q": "Ayesha wants a teddy bear for Rs 70. She has Rs 50. How much more money does she need?",
+       "options": [
+        "Rs 30",
+        "Rs 10",
+        "Rs 20",
+        "Rs 120"
+       ],
+       "answer": 2,
+       "why": "More money needed means subtracting what she has from the price: 70 - 50 = 20, so Ayesha needs Rs 20 more."
+      },
+      {
+       "q": "When we buy two things, we find the total money spent by:",
+       "options": [
+        "adding their prices",
+        "subtracting their prices",
+        "counting the things only",
+        "writing the bigger price"
+       ],
+       "answer": 0,
+       "why": "The notes say: when we buy two things, we add their prices to find the total money spent."
+      },
+      {
+       "q": "When we have some money and need more for a thing, we find the money still needed by:",
+       "options": [
+        "adding the money we have to the price",
+        "subtracting the money we have from the price",
+        "counting the money twice",
+        "writing the price again"
+       ],
+       "answer": 1,
+       "why": "The notes say: when we have some money and need more for a thing, we subtract the money we have from the price of the thing."
+      },
+      {
+       "q": "In Harris's problem, what is the cost of the train?",
+       "options": [
+        "Rs 25",
+        "Rs 88",
+        "Rs 63",
+        "Rs 50"
+       ],
+       "answer": 2,
+       "why": "The problem states the train cost Rs 63 and the duck cost Rs 25. Adding them, 63 + 25 = 88 rupees spent in all."
+      },
+      {
+       "q": "In Harris's problem, what is the cost of the duck?",
+       "options": [
+        "Rs 25",
+        "Rs 63",
+        "Rs 88",
+        "Rs 35"
+       ],
+       "answer": 0,
+       "why": "The problem states the duck cost Rs 25 and the train cost Rs 63. Adding them, 63 + 25 = 88 rupees spent in all."
+      },
+      {
+       "q": "In Harris's problem, the ones add up as 3 ones + 5 ones. The answer is:",
+       "options": [
+        "5 ones",
+        "8 ones",
+        "6 ones",
+        "3 ones"
+       ],
+       "answer": 1,
+       "why": "Adding the ones of 63 and 25 gives 3 + 5 = 8, so there are 8 ones in the total."
+      },
+      {
+       "q": "In Ayesha's problem, we work out 7 tens - 5 tens. The answer is:",
+       "options": [
+        "5 tens",
+        "7 tens",
+        "2 tens",
+        "12 tens"
+       ],
+       "answer": 2,
+       "why": "Subtracting the tens gives 7 - 5 = 2, so 7 tens take away 5 tens leaves 2 tens, which is Rs 20."
+      },
+      {
+       "q": "How much money does Ayesha have with her?",
+       "options": [
+        "Rs 70",
+        "Rs 20",
+        "Rs 50",
+        "Rs 120"
+       ],
+       "answer": 2,
+       "why": "The problem states Ayesha has Rs 50 and the teddy bear costs Rs 70. The money still needed is 70 - 50 = 20 rupees."
+      },
+      {
+       "q": "Harris's total spending is written with symbols as:",
+       "options": [
+        "63 - 25",
+        "63 + 25",
+        "25 - 63",
+        "63 + 50"
+       ],
+       "answer": 1,
+       "why": "Buying two things means adding their prices with the plus symbol: 63 + 25 = 88 rupees in all."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Time",
+   "lessons": [
+    {
+     "title": "Months of the Year",
+     "notes_html": "<h4>Solar months</h4>\n<p>There are <b>12 months</b> in a year. The <b>first solar month</b> of the year is <b>January</b>. February comes after January.</p>\n<h4>Worked example</h4>\n<p>Which is the first solar month: February or January?</p>\n<p>Step 1: The year begins with its first month.</p>\n<p>Step 2: January is the first month and February is the second month.</p>\n<p>Answer: <b>January</b> is the first solar month.</p>\n<p>In which month do we celebrate Independence Day: March or August?</p>\n<p>Step 1: Pakistan's Independence Day is celebrated on 14 August.</p>\n<p>Step 2: 14 August comes in the month of August, not in March.</p>\n<p>Answer: We celebrate Independence Day in <b>August</b>.</p>",
+     "mcqs": [
+      {
+       "q": "How many months are there in a year?",
+       "options": [
+        "10",
+        "12",
+        "7",
+        "11"
+       ],
+       "answer": 1,
+       "why": "The notes say: there are 12 months in a year, and the first solar month of the year is January."
+      },
+      {
+       "q": "The first solar month of the year is:",
+       "options": [
+        "February",
+        "March",
+        "January",
+        "August"
+       ],
+       "answer": 2,
+       "why": "The year begins with its first month. January is the first month of the year, and February comes after January."
+      },
+      {
+       "q": "Which month comes just after January?",
+       "options": [
+        "February",
+        "March",
+        "August",
+        "January"
+       ],
+       "answer": 0,
+       "why": "The notes say February comes after January: January is the first month and February is the second month of the year."
+      },
+      {
+       "q": "February is which month of the year?",
+       "options": [
+        "The first month",
+        "The second month",
+        "The last month",
+        "The eighth month"
+       ],
+       "answer": 1,
+       "why": "January is the first month and February is the second month, because February comes just after January."
+      },
+      {
+       "q": "January is which month of the year?",
+       "options": [
+        "The second month",
+        "The last month",
+        "The first month",
+        "The eighth month"
+       ],
+       "answer": 2,
+       "why": "The notes say the first solar month of the year is January, so January is the first month and the year begins with it."
+      },
+      {
+       "q": "In which month do we celebrate Pakistan's Independence Day?",
+       "options": [
+        "March",
+        "January",
+        "February",
+        "August"
+       ],
+       "answer": 3,
+       "why": "Pakistan's Independence Day is celebrated on 14 August, and 14 August comes in the month of August, not in March."
+      },
+      {
+       "q": "Pakistan's Independence Day is celebrated on:",
+       "options": [
+        "14 August",
+        "14 March",
+        "1 January",
+        "1 March"
+       ],
+       "answer": 0,
+       "why": "The notes say: Pakistan's Independence Day is celebrated on 14 August, so the date is 14 August."
+      },
+      {
+       "q": "Independence Day is NOT celebrated in which month?",
+       "options": [
+        "August",
+        "March",
+        "The month of 14 August",
+        "The eighth month"
+       ],
+       "answer": 1,
+       "why": "Independence Day falls on 14 August, so it is celebrated in August. It is not celebrated in March."
+      },
+      {
+       "q": "The year begins with which month?",
+       "options": [
+        "February",
+        "August",
+        "January",
+        "March"
+       ],
+       "answer": 2,
+       "why": "The year begins with its first month, and January is the first month of the year; February is only the second month."
+      },
+      {
+       "q": "Which month comes first in the year: January or February?",
+       "options": [
+        "February",
+        "Both come together",
+        "Neither of them",
+        "January"
+       ],
+       "answer": 3,
+       "why": "January is the first month of the year and February comes after January, so January comes first."
+      }
+     ]
+    },
+    {
+     "title": "Reading the Clock — O'Clock",
+     "notes_html": "<h4>Hands of a clock</h4>\n<p>A clock has two hands. The <b>short hand</b> shows the <b>hour</b> and the <b>long hand</b> shows the minutes. When the long hand points to <b>12</b>, the time is exactly the hour shown by the short hand, and we say <b>o'clock</b>.</p>\n<h4>Worked example</h4>\n<p>What time does the clock show when the short hand points to 3 and the long hand points to 12?</p>\n<p>Step 1: Look at the long hand: it points to 12, so the minutes are 0.</p>\n<p>Step 2: Look at the short hand: it points to 3, so the hour is 3.</p>\n<p>Answer: The clock shows <b>3 o'clock</b>: the short hand points to 3 and the long hand points to 12.</p>",
+     "mcqs": [
+      {
+       "q": "How many hands does a clock have?",
+       "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+       ],
+       "answer": 2,
+       "why": "The notes say: a clock has two hands — the short hand shows the hour and the long hand shows the minutes."
+      },
+      {
+       "q": "The short hand of a clock shows:",
+       "options": [
+        "the minutes",
+        "the hour",
+        "the date",
+        "the seconds"
+       ],
+       "answer": 1,
+       "why": "A clock has two hands: the short hand shows the hour and the long hand shows the minutes."
+      },
+      {
+       "q": "The long hand of a clock shows:",
+       "options": [
+        "the hour",
+        "the date",
+        "the minutes",
+        "the day"
+       ],
+       "answer": 2,
+       "why": "A clock has two hands: the short hand shows the hour and the long hand shows the minutes."
+      },
+      {
+       "q": "When the long hand points to 12, the minutes are:",
+       "options": [
+        "12",
+        "0",
+        "30",
+        "60"
+       ],
+       "answer": 1,
+       "why": "When the long hand points to 12, the minutes are 0 and the time is exactly the hour shown by the short hand."
+      },
+      {
+       "q": "The short hand points to 3 and the long hand points to 12. What time is it?",
+       "options": [
+        "12 o'clock",
+        "3 o'clock",
+        "4 o'clock",
+        "9 o'clock"
+       ],
+       "answer": 1,
+       "why": "The long hand points to 12, so the minutes are 0. The short hand points to 3, so the hour is 3. The time is 3 o'clock."
+      },
+      {
+       "q": "When the long hand points to 12, we say the time is:",
+       "options": [
+        "half past",
+        "quarter past",
+        "o'clock",
+        "midnight"
+       ],
+       "answer": 2,
+       "why": "When the long hand points to 12, the time is exactly the hour shown by the short hand, and we say o'clock."
+      },
+      {
+       "q": "In 3 o'clock, the short hand points to:",
+       "options": [
+        "12",
+        "3",
+        "6",
+        "9"
+       ],
+       "answer": 1,
+       "why": "In 3 o'clock the short hand points to 3 to show the hour, and the long hand points to 12 to show 0 minutes."
+      },
+      {
+       "q": "In 3 o'clock, the long hand points to:",
+       "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+       ],
+       "answer": 3,
+       "why": "In 3 o'clock the long hand points to 12, which means the minutes are 0, and the short hand points to 3 for the hour."
+      },
+      {
+       "q": "When the long hand is at 12, the time is exactly the hour shown by:",
+       "options": [
+        "the long hand",
+        "both hands together",
+        "the short hand",
+        "no hand at all"
+       ],
+       "answer": 2,
+       "why": "The notes say: when the long hand points to 12, the time is exactly the hour shown by the short hand, and we say o'clock."
+      },
+      {
+       "q": "Which hand of the clock is the long one?",
+       "options": [
+        "The hand that shows the hour",
+        "The hand that shows the minutes",
+        "Both hands are equally long",
+        "A clock has no long hand"
+       ],
+       "answer": 1,
+       "why": "A clock has two hands: the short hand shows the hour and the long hand shows the minutes, so the long hand is the minutes hand."
+      }
+     ]
+    },
+    {
+     "title": "Islamic Months and Ordinal Numbers",
+     "notes_html": "<h4>Ordinal numbers</h4>\n<p><b>Ordinal numbers</b> tell us the position of something: <b>1st</b> (first), <b>2nd</b> (second), <b>3rd</b> (third), <b>4th</b> (fourth), <b>5th</b> (fifth), <b>6th</b> (sixth), <b>7th</b> (seventh), <b>8th</b> (eighth), <b>9th</b> (ninth), <b>10th</b> (tenth), <b>11th</b> (eleventh) and <b>12th</b> (twelfth).</p>\n<h4>The 12 Islamic months in order (Exercise 4, book page 106)</h4>\n<table><tr><th>Ordinal number</th><th>Islamic month</th></tr>\n<tr><td>1st</td><td>Muharram</td></tr>\n<tr><td>2nd</td><td>Safar</td></tr>\n<tr><td>3rd</td><td>Rabi-ul-Awwal</td></tr>\n<tr><td>4th</td><td>Rabi-ul-Sani</td></tr>\n<tr><td>5th</td><td>Jamadi-ul-Awwal</td></tr>\n<tr><td>6th</td><td>Jamadi-ul-Sani</td></tr>\n<tr><td>7th</td><td>Rajab</td></tr>\n<tr><td>8th</td><td>Shaaban</td></tr>\n<tr><td>9th</td><td>Ramazan</td></tr>\n<tr><td>10th</td><td>Shawwal</td></tr>\n<tr><td>11th</td><td>Ziq'ad</td></tr>\n<tr><td>12th</td><td>Zil Hajj</td></tr></table>\n<h4>Worked example</h4>\n<p>Match Ramazan with its correct ordinal number.</p>\n<p>Step 1: Count the Islamic months in order: Muharram (1st), Safar (2nd), Rabi-ul-Awwal (3rd), Rabi-ul-Sani (4th), Jamadi-ul-Awwal (5th), Jamadi-ul-Sani (6th), Rajab (7th), Shaaban (8th), Ramazan (9th).</p>\n<p>Step 2: Ramazan comes at the ninth place.</p>\n<p>Answer: <b>Ramazan — 9th</b>.</p>",
+     "mcqs": [
+      {
+       "q": "How many Islamic months are there?",
+       "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+       ],
+       "answer": 2,
+       "why": "The notes list the 12 Islamic months in order, from Muharram (1st) to Zil Hajj (12th), so there are 12 Islamic months."
+      },
+      {
+       "q": "The first Islamic month is:",
+       "options": [
+        "Safar",
+        "Ramazan",
+        "Muharram",
+        "Rajab"
+       ],
+       "answer": 2,
+       "why": "Counting the Islamic months in order, Muharram is 1st, Safar is 2nd and Rabi-ul-Awwal is 3rd, so Muharram is the first."
+      },
+      {
+       "q": "Ramazan is which Islamic month?",
+       "options": [
+        "The 8th month",
+        "The 9th month",
+        "The 10th month",
+        "The 7th month"
+       ],
+       "answer": 1,
+       "why": "Count in order: Muharram 1st, Safar 2nd, Rabi-ul-Awwal 3rd, Rabi-ul-Sani 4th, Jamadi-ul-Awwal 5th, Jamadi-ul-Sani 6th, Rajab 7th, Shaaban 8th, Ramazan 9th."
+      },
+      {
+       "q": "The 7th Islamic month is:",
+       "options": [
+        "Shaaban",
+        "Rajab",
+        "Ramazan",
+        "Shawwal"
+       ],
+       "answer": 1,
+       "why": "Count in order: Jamadi-ul-Sani is 6th, Rajab is 7th and Shaaban is 8th, so the 7th Islamic month is Rajab."
+      },
+      {
+       "q": "The last (12th) Islamic month is:",
+       "options": [
+        "Shawwal",
+        "Ziq'ad",
+        "Muharram",
+        "Zil Hajj"
+       ],
+       "answer": 3,
+       "why": "Counting the Islamic months in order, Shawwal is 10th, Ziq'ad is 11th and Zil Hajj is 12th, so Zil Hajj is the last month."
+      },
+      {
+       "q": "Which Islamic month comes just after Safar?",
+       "options": [
+        "Rabi-ul-Awwal",
+        "Muharram",
+        "Rabi-ul-Sani",
+        "Rajab"
+       ],
+       "answer": 0,
+       "why": "The order is Muharram (1st), Safar (2nd), Rabi-ul-Awwal (3rd), so Rabi-ul-Awwal comes just after Safar."
+      },
+      {
+       "q": "Shawwal is which Islamic month?",
+       "options": [
+        "The 9th month",
+        "The 11th month",
+        "The 10th month",
+        "The 12th month"
+       ],
+       "answer": 2,
+       "why": "Count in order: Ramazan is 9th and Shawwal comes right after it, so Shawwal is the 10th Islamic month."
+      },
+      {
+       "q": "Ordinal numbers tell us:",
+       "options": [
+        "how many objects there are in all",
+        "the position of something",
+        "the price of something",
+        "the size of something"
+       ],
+       "answer": 1,
+       "why": "The notes say: ordinal numbers tell us the position of something, like 1st (first), 2nd (second) and 3rd (third)."
+      },
+      {
+       "q": "The ordinal number '5th' is written in words as:",
+       "options": [
+        "five",
+        "fifth",
+        "fiveth",
+        "fifty"
+       ],
+       "answer": 1,
+       "why": "The ordinal words are: 1st first, 2nd second, 3rd third, 4th fourth, 5th fifth, so 5th is written as fifth."
+      },
+      {
+       "q": "Which Islamic month comes just before Ramazan?",
+       "options": [
+        "Rajab",
+        "Shawwal",
+        "Shaaban",
+        "Safar"
+       ],
+       "answer": 2,
+       "why": "Count in order: Rajab is 7th, Shaaban is 8th and Ramazan is 9th, so Shaaban comes just before Ramazan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Geometry",
+   "lessons": [
+    {
+     "title": "Shapes — Circle, Triangle, Square and Rectangle",
+     "notes_html": "<h4>The four shapes</h4>\n<table><tr><th>Shape</th><th>What it is like</th></tr>\n<tr><td>Circle</td><td>It is round and has no corners.</td></tr>\n<tr><td>Triangle</td><td>It has 3 sides and 3 corners.</td></tr>\n<tr><td>Square</td><td>It has 4 equal sides and 4 corners.</td></tr>\n<tr><td>Rectangle</td><td>It has 4 sides; opposite sides are equal.</td></tr></table>\n<h4>Remember</h4>\n<p>A <b>circle</b> is round and has <b>no corners</b>. A <b>triangle</b> has <b>3 sides and 3 corners</b>. A <b>square</b> has <b>4 equal sides and 4 corners</b>. A <b>rectangle</b> has <b>4 sides</b> and its <b>opposite sides are equal</b>.</p>",
+     "mcqs": [
+      {
+       "q": "A circle has how many corners?",
+       "options": [
+        "1",
+        "2",
+        "0",
+        "4"
+       ],
+       "answer": 2,
+       "why": "The notes say: a circle is round and has no corners, so the number of corners of a circle is 0."
+      },
+      {
+       "q": "A triangle has how many sides?",
+       "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+       ],
+       "answer": 0,
+       "why": "The notes say: a triangle has 3 sides and 3 corners, so a triangle has 3 sides."
+      },
+      {
+       "q": "A triangle has how many corners?",
+       "options": [
+        "4",
+        "3",
+        "2",
+        "0"
+       ],
+       "answer": 1,
+       "why": "The notes say: a triangle has 3 sides and 3 corners, so a triangle has 3 corners."
+      },
+      {
+       "q": "A square has how many sides?",
+       "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+       ],
+       "answer": 2,
+       "why": "The notes say: a square has 4 equal sides and 4 corners, so a square has 4 sides."
+      },
+      {
+       "q": "The sides of a square are:",
+       "options": [
+        "all equal",
+        "all different",
+        "only two equal",
+        "curved"
+       ],
+       "answer": 0,
+       "why": "The notes say: a square has 4 equal sides and 4 corners, so all the sides of a square are equal."
+      },
+      {
+       "q": "A square has how many corners?",
+       "options": [
+        "3",
+        "4",
+        "0",
+        "5"
+       ],
+       "answer": 1,
+       "why": "The notes say: a square has 4 equal sides and 4 corners, so a square has 4 corners."
+      },
+      {
+       "q": "A rectangle has how many sides?",
+       "options": [
+        "3",
+        "2",
+        "5",
+        "4"
+       ],
+       "answer": 3,
+       "why": "The notes say: a rectangle has 4 sides and its opposite sides are equal, so a rectangle has 4 sides."
+      },
+      {
+       "q": "In a rectangle, which sides are equal?",
+       "options": [
+        "All four sides",
+        "Opposite sides",
+        "No sides at all",
+        "Only one side"
+       ],
+       "answer": 1,
+       "why": "The notes say: a rectangle has 4 sides, and its opposite sides are equal; a square is the shape whose 4 sides are all equal."
+      },
+      {
+       "q": "Which shape is round and has no corners?",
+       "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Rectangle"
+       ],
+       "answer": 2,
+       "why": "The notes say: a circle is round and has no corners, while the triangle, square and rectangle all have corners."
+      },
+      {
+       "q": "Which shape has 3 sides and 3 corners?",
+       "options": [
+        "Circle",
+        "Square",
+        "Rectangle",
+        "Triangle"
+       ],
+       "answer": 3,
+       "why": "The notes say: a triangle has 3 sides and 3 corners; a square and a rectangle have 4 sides each, and a circle has none."
+      }
+     ]
+    },
+    {
+     "title": "Position — Over, Near and Far",
+     "notes_html": "<h4>Words for position</h4>\n<p><b>Over</b> means above something. <b>Near</b> means close to something, and <b>far</b> means a long way away from something.</p>\n<h4>Worked example (Exercise 7, book page 130)</h4>\n<p>Encircle the object that is over the pole: the bird or the cat?</p>\n<p>Step 1: Look at the picture: the bird is flying above the lamp pole.</p>\n<p>Step 2: The cat sits beside the pole on the ground, not above it.</p>\n<p>Answer: The <b>bird</b> is over the pole. The bird is flying above the lamp pole, while the cat sits beside the pole on the ground.</p>\n<h4>Worked example (Exercise 8, book page 130)</h4>\n<p>Colour the animal which is near the tree: the goat or the fox?</p>\n<p>Step 1: Look at the picture: the goat stands beside the tree.</p>\n<p>Step 2: The fox stands far away from the tree, on the other side of the field.</p>\n<p>Answer: The <b>goat</b> is near the tree. The goat stands beside the tree, while the fox stands far away from the tree.</p>",
+     "mcqs": [
+      {
+       "q": "'Over' means:",
+       "options": [
+        "below something",
+        "above something",
+        "inside something",
+        "behind something"
+       ],
+       "answer": 1,
+       "why": "The notes say: over means above something, near means close to something, and far means a long way away from something."
+      },
+      {
+       "q": "'Near' means:",
+       "options": [
+        "a long way away from something",
+        "above something",
+        "close to something",
+        "under something"
+       ],
+       "answer": 2,
+       "why": "The notes say: near means close to something, over means above something, and far means a long way away from something."
+      },
+      {
+       "q": "'Far' means:",
+       "options": [
+        "close to something",
+        "above something",
+        "beside something",
+        "a long way away from something"
+       ],
+       "answer": 3,
+       "why": "The notes say: far means a long way away from something, near means close to something, and over means above something."
+      },
+      {
+       "q": "In the book's picture, which object is over the pole?",
+       "options": [
+        "The bird",
+        "The cat",
+        "The goat",
+        "The fox"
+       ],
+       "answer": 0,
+       "why": "The bird is flying above the lamp pole, so the bird is over the pole; the cat sits beside the pole on the ground."
+      },
+      {
+       "q": "In the book's picture, the cat is:",
+       "options": [
+        "flying above the pole",
+        "beside the pole on the ground",
+        "far away in the field",
+        "over the pole"
+       ],
+       "answer": 1,
+       "why": "The notes say the cat sits beside the pole on the ground, not above it; the bird is the one flying over the pole."
+      },
+      {
+       "q": "In the book's picture, which animal is near the tree?",
+       "options": [
+        "The fox",
+        "The cat",
+        "The goat",
+        "The bird"
+       ],
+       "answer": 2,
+       "why": "The goat stands beside the tree, so the goat is near the tree; the fox stands far away from the tree."
+      },
+      {
+       "q": "In the book's picture, which animal is far from the tree?",
+       "options": [
+        "The goat",
+        "The fox",
+        "The bird",
+        "The cat"
+       ],
+       "answer": 1,
+       "why": "The fox stands far away from the tree, on the other side of the field, while the goat stands beside the tree."
+      },
+      {
+       "q": "In the book's picture, the fox stands:",
+       "options": [
+        "beside the tree",
+        "above the tree",
+        "far away from the tree",
+        "over the tree"
+       ],
+       "answer": 2,
+       "why": "The notes say the fox stands far away from the tree, on the other side of the field, so the fox is far from the tree."
+      },
+      {
+       "q": "In the book's picture, the goat stands:",
+       "options": [
+        "far away from the tree",
+        "beside the tree",
+        "above the tree",
+        "on the other side of the field"
+       ],
+       "answer": 1,
+       "why": "The notes say the goat stands beside the tree, so the goat is near the tree, not far away from it."
+      },
+      {
+       "q": "In the book's picture, the bird is flying:",
+       "options": [
+        "beside the pole on the ground",
+        "under the pole",
+        "above the lamp pole",
+        "far away in the field"
+       ],
+       "answer": 2,
+       "why": "The notes say the bird is flying above the lamp pole, which is why the bird is over the pole."
+      }
+     ]
+    },
+    {
+     "title": "Queue Positions — Just After and Just Before",
+     "notes_html": "<h4>Standing in a queue</h4>\n<p>In a queue, the child standing right behind a child is <b>just after</b> him, and the child standing right in front of a child is <b>just before</b> him.</p>\n<h4>Worked example (Exercise 9, book page 130)</h4>\n<p>Some children are queuing up to get tickets in the order: Ahmer, Umar, Amna, Fahad.</p>\n<p>Who is standing just after Amna?</p>\n<p>Step 1: Find Amna in the queue: Ahmer, Umar, <b>Amna</b>, Fahad.</p>\n<p>Step 2: The child standing just behind Amna is Fahad.</p>\n<p>Answer: Just after Amna stands <b>Fahad</b>.</p>\n<p>Who is standing just before Umar?</p>\n<p>Step 1: Find Umar in the queue: Ahmer, <b>Umar</b>, Amna, Fahad.</p>\n<p>Step 2: The child standing just in front of Umar is Ahmer.</p>\n<p>Answer: Just before Umar stands <b>Ahmer</b>.</p>\n<p>Who is standing just after Ahmer?</p>\n<p>Step 1: Find Ahmer in the queue: <b>Ahmer</b>, Umar, Amna, Fahad.</p>\n<p>Step 2: The child standing just behind Ahmer is Umar.</p>\n<p>Answer: Just after Ahmer stands <b>Umar</b>. The queue order from the ticket window is: Ahmer, Umar, Amna, Fahad.</p>",
+     "mcqs": [
+      {
+       "q": "The queue order is: Ahmer, Umar, Amna, Fahad. Who is standing just after Amna?",
+       "options": [
+        "Ahmer",
+        "Umar",
+        "Fahad",
+        "No one"
+       ],
+       "answer": 2,
+       "why": "Find Amna in the queue: Ahmer, Umar, Amna, Fahad. The child standing just behind Amna is Fahad, so Fahad is just after Amna."
+      },
+      {
+       "q": "The queue order is: Ahmer, Umar, Amna, Fahad. Who is standing just before Umar?",
+       "options": [
+        "Amna",
+        "Fahad",
+        "Umar himself",
+        "Ahmer"
+       ],
+       "answer": 3,
+       "why": "Find Umar in the queue: Ahmer, Umar, Amna, Fahad. The child standing just in front of Umar is Ahmer, so Ahmer is just before Umar."
+      },
+      {
+       "q": "The queue order is: Ahmer, Umar, Amna, Fahad. Who is standing just after Ahmer?",
+       "options": [
+        "Umar",
+        "Amna",
+        "Fahad",
+        "No one"
+       ],
+       "answer": 0,
+       "why": "Find Ahmer in the queue: Ahmer, Umar, Amna, Fahad. The child standing just behind Ahmer is Umar, so Umar is just after Ahmer."
+      },
+      {
+       "q": "In a queue, the child standing right behind a child is called:",
+       "options": [
+        "just before him",
+        "just after him",
+        "far from him",
+        "over him"
+       ],
+       "answer": 1,
+       "why": "The notes say: in a queue, the child standing right behind a child is just after him, and the child in front is just before him."
+      },
+      {
+       "q": "In a queue, the child standing right in front of a child is called:",
+       "options": [
+        "just after him",
+        "far from him",
+        "just before him",
+        "near him"
+       ],
+       "answer": 2,
+       "why": "The notes say: in a queue, the child standing right in front of a child is just before him, and the child behind is just after him."
+      },
+      {
+       "q": "The queue order from the ticket window is: Ahmer, Umar, Amna, Fahad. Who is first in the queue?",
+       "options": [
+        "Umar",
+        "Amna",
+        "Fahad",
+        "Ahmer"
+       ],
+       "answer": 3,
+       "why": "The queue order from the ticket window is Ahmer, Umar, Amna, Fahad, so the first child in the queue is Ahmer."
+      },
+      {
+       "q": "The queue order from the ticket window is: Ahmer, Umar, Amna, Fahad. Who is last in the queue?",
+       "options": [
+        "Fahad",
+        "Amna",
+        "Umar",
+        "Ahmer"
+       ],
+       "answer": 0,
+       "why": "The queue order from the ticket window is Ahmer, Umar, Amna, Fahad, so the last child in the queue is Fahad."
+      },
+      {
+       "q": "The queue order is: Ahmer, Umar, Amna, Fahad. Who is standing just before Amna?",
+       "options": [
+        "Ahmer",
+        "Fahad",
+        "Umar",
+        "No one"
+       ],
+       "answer": 2,
+       "why": "Find Amna in the queue: Ahmer, Umar, Amna, Fahad. The child standing just in front of Amna is Umar, so Umar is just before Amna."
+      },
+      {
+       "q": "The queue order is: Ahmer, Umar, Amna, Fahad. Who is standing just after Umar?",
+       "options": [
+        "Ahmer",
+        "Amna",
+        "Fahad",
+        "No one"
+       ],
+       "answer": 1,
+       "why": "Find Umar in the queue: Ahmer, Umar, Amna, Fahad. The child standing just behind Umar is Amna, so Amna is just after Umar."
+      },
+      {
+       "q": "The queue order is: Ahmer, Umar, Amna, Fahad. Who stands between Umar and Fahad?",
+       "options": [
+        "Ahmer",
+        "No one",
+        "Amna",
+        "Umar"
+       ],
+       "answer": 2,
+       "why": "In the order Ahmer, Umar, Amna, Fahad, the child standing between Umar and Fahad is Amna."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
