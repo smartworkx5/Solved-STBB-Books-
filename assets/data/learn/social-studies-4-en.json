@@ -1,0 +1,1457 @@
+{
+ "book": "social-studies-4-en",
+ "chapters": [
+  {
+   "title": "Globe and Map Skills",
+   "lessons": [
+    {
+     "title": "Globe and Map Skills",
+     "notes_html": "<h4>Map and Globe</h4>\n<p>A <b class=\"key\">globe</b> is a <b class=\"key\">model of the Earth</b>. It is made in the shape of a ball and shows the continents and oceans on it. A <b class=\"key\">map</b> is a drawing of the whole Earth or a part of it, drawn on paper as it looks from above.</p>\n<h4>Map and Globe — the Differences</h4>\n<ul><li>A globe shows the Earth in <b class=\"key\">three dimensions</b> like a ball; a map is flat and <b class=\"key\">two-dimensional</b>.</li><li>A globe shows the <b class=\"key\">true shape</b> of the Earth; a map can show one country or city in a bigger size.</li><li>A globe is difficult to carry; a map can be <b class=\"key\">folded</b> and carried easily.</li></ul>\n<h4>Elements of a Map</h4>\n<ul><li><b class=\"key\">Title</b> — tells what the map shows. The title of the Sindh map in this lesson is <b class=\"key\">Sindh Districts</b>.</li><li><b class=\"key\">Legend or key</b> — explains the symbols used in the map, such as the international boundary, the provincial boundary, the district boundary and the River Indus.</li><li><b class=\"key\">Compass rose</b> — shows the directions.</li><li><b class=\"key\">Scale</b> — helps us find actual distances from the map.</li></ul>\n<h4>Directions</h4>\n<p>The four <b class=\"key\">cardinal directions</b> are North, East, South and West. The four <b class=\"key\">intermediate directions</b> are Northeast, Southeast, Southwest and Northwest. From Shaheed Benazirabad: Naushahro Feroze is in the north, Sanghar in the east, Matiari in the south and Jamshoro in the west. Khairpur is in the northeast, Tando Allahyar in the southeast, Hyderabad in the southwest and Dadu in the northwest.</p>\n<h4>Scale and Distance</h4>\n<p>On the Sindh map, <b class=\"key\">1 centimetre = 50 kilometres</b>. The map distance between Jamshoro and Sanghar is about 3.5 centimetres, so the actual distance is about <b class=\"key\">175 kilometres</b>. When a drawing is made twice its size, both its length and width become double: a pencil box 18 cm long and 6 cm wide becomes 36 cm long and 12 cm wide.</p>\n<h4>The World Map</h4>\n<p>There are <b class=\"key\">seven continents</b>: Asia, Africa, North America, South America, Antarctica, Europe and Australia. The big oceans are the Pacific, the Atlantic, the Indian, the Southern and the Arctic Ocean. Pakistan is in <b class=\"key\">Asia</b> and the <b class=\"key\">Indian Ocean</b> lies to its south. On a map of Pakistan, Sindh is in the south-east: Balochistan is to its west, Punjab to the north, India to the east and the Arabian Sea to the south.</p>\n<h4>Key Points</h4>\n<ul><li>A globe is a ball-shaped model of the Earth; a map is a flat drawing on paper.</li><li>The four elements of a map are the title, the legend, the compass rose and the scale.</li><li>On the Sindh map, 1 cm = 50 km, so 3.5 cm on the map = 175 km on the ground.</li><li>Pakistan is in Asia, and the Indian Ocean lies to its south.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is a globe?",
+       "options": [
+        "A flat drawing on paper",
+        "A model of the Earth in the shape of a ball",
+        "A list of map symbols",
+        "A chart of directions"
+       ],
+       "answer": 1,
+       "why": "A globe is a model of the Earth. It is made in the shape of a ball and shows the continents and oceans on it."
+      },
+      {
+       "q": "How is a map drawn?",
+       "options": [
+        "On paper, as the Earth looks from above",
+        "In the shape of a ball",
+        "Only with pictures of animals",
+        "On a round board"
+       ],
+       "answer": 0,
+       "why": "A map is a drawing of the whole Earth or a part of it, drawn on paper as it looks from above, so it is flat and two-dimensional."
+      },
+      {
+       "q": "Which one can be folded and carried easily?",
+       "options": [
+        "A globe",
+        "A compass",
+        "A map",
+        "A scale"
+       ],
+       "answer": 2,
+       "why": "A globe is difficult to carry and handle because it is like a ball, while a map is flat paper and can be folded and carried easily."
+      },
+      {
+       "q": "What is the title of the Sindh map used in this lesson?",
+       "options": [
+        "Sindh Rivers",
+        "Pakistan Districts",
+        "World Map",
+        "Sindh Districts"
+       ],
+       "answer": 3,
+       "why": "The title of the map is “Sindh Districts”. It tells us that the map shows all the districts of Sindh, their boundaries and their locations."
+      },
+      {
+       "q": "What does the legend of a map do?",
+       "options": [
+        "It explains the symbols used in the map",
+        "It shows the north direction",
+        "It measures distances",
+        "It names the continents"
+       ],
+       "answer": 0,
+       "why": "The legend explains the symbols used in the map, such as the international boundary, the provincial boundary, the district boundary and the River Indus."
+      },
+      {
+       "q": "Which district is to the north of Shaheed Benazirabad?",
+       "options": [
+        "Sanghar",
+        "Matiari",
+        "Naushahro Feroze",
+        "Jamshoro"
+       ],
+       "answer": 2,
+       "why": "On the map, Naushahro Feroze is to the north of Shaheed Benazirabad, Sanghar is to the east, Matiari to the south and Jamshoro to the west."
+      },
+      {
+       "q": "Tando Allahyar lies in which intermediate direction from Shaheed Benazirabad?",
+       "options": [
+        "Northeast",
+        "Southeast",
+        "Southwest",
+        "Northwest"
+       ],
+       "answer": 1,
+       "why": "The intermediate directions lie between two cardinal directions. Tando Allahyar is in the southeast of Shaheed Benazirabad, between south and east."
+      },
+      {
+       "q": "On the Sindh map 1 cm = 50 km. What is the actual distance for 3.5 cm on the map?",
+       "options": [
+        "About 100 km",
+        "About 150 km",
+        "About 200 km",
+        "About 175 km"
+       ],
+       "answer": 3,
+       "why": "One centimetre on the map is equal to fifty kilometres on the ground, so 3.5 centimetres make 3.5 × 50 = about 175 kilometres."
+      },
+      {
+       "q": "A pencil box is 18 cm long. In a drawing of twice its size, its length becomes:",
+       "options": [
+        "36 cm",
+        "20 cm",
+        "9 cm",
+        "24 cm"
+       ],
+       "answer": 0,
+       "why": "When a drawing is made bigger, both the length and the width become double. So 18 cm becomes 36 cm and the width 6 cm becomes 12 cm."
+      },
+      {
+       "q": "Pakistan is in which continent?",
+       "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "Australia"
+       ],
+       "answer": 2,
+       "why": "On the world map, Pakistan is in the continent of Asia, and the Indian Ocean lies to the south of Pakistan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The History of Sindh",
+   "lessons": [
+    {
+     "title": "The History of Sindh",
+     "notes_html": "<h4>Important Years</h4>\n<ul><li><b class=\"key\">712</b> — Muhammad bin Qasim came to Sindh; Islam began here, so Sindh is called <b class=\"key\">Bab-ul-Islam</b> (the door of Islam).</li><li><b class=\"key\">1026</b> — Mehmood Ghaznavi conquered Sindh.</li><li><b class=\"key\">1050–1351</b> — Soomra dynasty.</li><li><b class=\"key\">1351–1520</b> — Sama dynasty; Jam Nizamuddin Samo was their famous ruler.</li><li><b class=\"key\">1591</b> — the Mughal Emperor Akbar conquered Sindh.</li><li><b class=\"key\">1701–1783</b> — Kalhora dynasty; they made Hyderabad their capital and built the Pakka Qila.</li><li><b class=\"key\">1783–1843</b> — Talpur dynasty.</li><li><b class=\"key\">1843</b> — the British conquered Sindh; <b class=\"key\">1947</b> — Pakistan came into being.</li></ul>\n<h4>Effects That Last Till Today</h4>\n<p>After Muhammad bin Qasim, mosques, madrasas and Islamic teachings spread in Sindh, and even today most people of Sindh are Muslims. After the British conquest, roads, railways, the telegraph and canals were built. In <b class=\"key\">1853</b> the British fixed the <b class=\"key\">script of the Sindhi language</b>, which is still taught in schools today. Karachi became a big city and port.</p>\n<h4>The Indus Valley Civilization</h4>\n<p>The people of <b class=\"key\">Moen-jo-Daro</b>, near Larkana, lived near the River Indus and grew wheat and cotton. Their houses were made of <b class=\"key\">baked bricks</b>, the streets were straight and clean, and they had bathrooms, wells, grain storehouses, a covered drainage system and the Great Bath. Their problems were floods, storing food grain and cleanliness.</p>\n<h4>Sindh and Punjab</h4>\n<p>Both provinces eat roti, rice and vegetables, wear shalwar kameez, celebrate Eids and play cricket. Sindh is special for the Sindhi language, the <b class=\"key\">Ajrak</b>, the Sindhi cap, the game of <b class=\"key\">Malakhro</b> and the Urs of Shah Latif. Punjab is special for the Punjabi language, sarson ka saag and makai ki roti, the game of Kabaddi, Basant and Mela Chiraghan.</p>\n<h4>Progress After Independence</h4>\n<p>After independence, Sindh progressed in education, health and farming. The University of Sindh and many schools and hospitals were opened, and more land came under farming through the <b class=\"key\">Sukkur Barrage</b> and the Kotri Barrage. Karachi became the biggest city and trade centre of Pakistan, with the country's largest seaport.</p>\n<h4>Key Points</h4>\n<ul><li>Muhammad bin Qasim came in 712, so Sindh is called Bab-ul-Islam.</li><li>Soomras, Samas, Mughals, Kalhoras and Talpurs ruled Sindh one after another.</li><li>The British conquered Sindh in 1843 and fixed the Sindhi script in 1853.</li><li>Moen-jo-Daro was a clean, well-planned city of baked-brick houses.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In which year did Muhammad bin Qasim come to Sindh?",
+       "options": [
+        "1026",
+        "712",
+        "1843",
+        "1591"
+       ],
+       "answer": 1,
+       "why": "Muhammad bin Qasim came to Sindh in 712. With his coming, Islam began in Sindh and local people accepted Islam in large numbers."
+      },
+      {
+       "q": "Why is Sindh called Bab-ul-Islam?",
+       "options": [
+        "Because the British ruled it",
+        "Because its capital is Karachi",
+        "Because Islam began in Sindh with Muhammad bin Qasim",
+        "Because the River Indus flows here"
+       ],
+       "answer": 2,
+       "why": "Bab-ul-Islam means the door of Islam. Islam began in Sindh when Muhammad bin Qasim came in 712, and mosques and madrasas spread after that."
+      },
+      {
+       "q": "Mehmood Ghaznavi conquered Sindh in:",
+       "options": [
+        "1026",
+        "712",
+        "1050",
+        "1947"
+       ],
+       "answer": 0,
+       "why": "Mehmood Ghaznavi conquered Sindh in 1026 and made Sindh a part of his empire, after which the rule of Muslim rulers continued here."
+      },
+      {
+       "q": "The Soomra dynasty ruled Sindh from:",
+       "options": [
+        "1351 to 1520",
+        "1701 to 1783",
+        "1783 to 1843",
+        "1050 to 1351"
+       ],
+       "answer": 3,
+       "why": "The dynasties ruled in this order: the Soomras from 1050 to 1351, then the Samas from 1351 to 1520, and later the Kalhoras and the Talpurs."
+      },
+      {
+       "q": "Who was the famous ruler of the Sama dynasty?",
+       "options": [
+        "Jam Nizamuddin Samo",
+        "Emperor Akbar",
+        "Mir Fateh Ali Khan",
+        "Mehmood Ghaznavi"
+       ],
+       "answer": 0,
+       "why": "The Sama dynasty ruled from 1351 to 1520, for about 175 years, and Jam Nizamuddin Samo was their famous ruler."
+      },
+      {
+       "q": "In 1591, Sindh was conquered by:",
+       "options": [
+        "The Talpurs",
+        "The Mughal Emperor Akbar",
+        "The British",
+        "The Kalhoras"
+       ],
+       "answer": 1,
+       "why": "In 1591 Sindh was conquered by the Mughal Emperor Akbar. After this Sindh became a part of the Mughal Empire and Mughal governors ruled here."
+      },
+      {
+       "q": "The Kalhoras made which city their capital and built the Pakka Qila there?",
+       "options": [
+        "Karachi",
+        "Thatta",
+        "Sukkur",
+        "Hyderabad"
+       ],
+       "answer": 3,
+       "why": "The Kalhoras ruled from 1701 to 1783. They made Hyderabad their capital and built the Pakka Qila (fort) there, which still exists today."
+      },
+      {
+       "q": "The British conquered the whole of Sindh in:",
+       "options": [
+        "1839",
+        "1843",
+        "1853",
+        "1947"
+       ],
+       "answer": 1,
+       "why": "The British captured Karachi in 1839 and conquered the whole of Sindh in 1843. Their rule lasted till 1947, when Pakistan came into being."
+      },
+      {
+       "q": "In which year did the British fix the script of the Sindhi language?",
+       "options": [
+        "1843",
+        "1913",
+        "1853",
+        "1701"
+       ],
+       "answer": 2,
+       "why": "In 1853 the British fixed the script of the Sindhi language. That same script is still taught in schools in Sindh today."
+      },
+      {
+       "q": "Which game is famous in Sindh?",
+       "options": [
+        "Kabaddi",
+        "Polo",
+        "Hockey",
+        "Malakhro"
+       ],
+       "answer": 3,
+       "why": "The people of Sindh speak Sindhi, wear the Ajrak and the Sindhi cap, and their famous game is Malakhro. Kabaddi is the famous game of Punjab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Interaction Between the Land and the People of Sindh",
+   "lessons": [
+    {
+     "title": "The Interaction Between the Land and the People of Sindh",
+     "notes_html": "<h4>Physical Features of Sindh</h4>\n<ul><li><b class=\"key\">Khirthar Mountains</b> — in the west; they form the boundary with Balochistan. People graze cattle there and go for outings.</li><li><b class=\"key\">Indus River Plain</b> — in the centre; fertile land irrigated through a network of <b class=\"key\">canals</b> and barrages. Most farming is done here.</li><li><b class=\"key\">Thar Desert</b> — in the east; people keep cattle and store rain water.</li><li><b class=\"key\">Sea coast and delta</b> — in the south; people catch fish and the Karachi port is used for trade.</li></ul>\n<h4>Lakes and Hills</h4>\n<p>The two famous lakes of Sindh are <b class=\"key\">Manchar</b> and <b class=\"key\">Keenjhar</b>. Manchar is one of the largest fresh water lakes of Pakistan, and Karachi gets its water supply from Keenjhar Lake. The hill near Hyderabad is <b class=\"key\">Ganjo Takkar</b>. The story of Noori Jam Tamachi is linked with Keenjhar Lake; it teaches us that a person is valued by character, not by caste or wealth.</p>\n<h4>Population, Census and Migration</h4>\n<ul><li><b class=\"key\">Population</b> — the total number of people living in an area.</li><li><b class=\"key\">Census</b> — the counting of all the people of a country by the government. It is held after every <b class=\"key\">ten years</b> and helps the government plan schools, hospitals, roads and water facilities.</li><li><b class=\"key\">Migration</b> — moving from one place to another to live there permanently, such as from a village to a city.</li></ul>\n<h4>Push and Pull Factors</h4>\n<p><b class=\"key\">Push factors</b> force people to leave their area, such as unemployment, drought or flood. <b class=\"key\">Pull factors</b> attract people to another place, such as jobs, good schools and hospitals. Hyderabad is thickly populated because it is in the plain near the river, with water, fertile land and jobs. Dadu is thinly populated because much of it is mountains and dry land with less water. Sindh has a much bigger population than Balochistan because Sindh has the fertile Indus plain and plenty of water, while most of Balochistan is dry mountains and desert.</p>\n<h4>Key Points</h4>\n<ul><li>Sindh has four physical features: Khirthar Mountains, Indus Plain, Thar Desert and the sea coast.</li><li>Manchar and Keenjhar are the famous lakes; Karachi gets water from Keenjhar.</li><li>A census is held every ten years to count the people and plan facilities.</li><li>People live in large numbers where water and work are easily available.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The Khirthar Mountains lie in which part of Sindh?",
+       "options": [
+        "The east",
+        "The west",
+        "The south",
+        "The centre"
+       ],
+       "answer": 1,
+       "why": "The Khirthar Mountains are in the west of Sindh and form the boundary with Balochistan. People graze cattle there and go for outings."
+      },
+      {
+       "q": "The two famous lakes of Sindh are:",
+       "options": [
+        "Haleji and Hadero",
+        "Manchar and Keenjhar",
+        "Saiful Muluk and Attabad",
+        "Keenjhar and Haleji only"
+       ],
+       "answer": 1,
+       "why": "The two famous lakes of Sindh are Manchar and Keenjhar. Manchar is one of the largest fresh water lakes of Pakistan."
+      },
+      {
+       "q": "Karachi gets its water supply from which lake?",
+       "options": [
+        "Manchar Lake",
+        "Haleji Lake",
+        "Keenjhar Lake",
+        "Hanna Lake"
+       ],
+       "answer": 2,
+       "why": "Karachi gets its water supply from Keenjhar Lake. The famous story of Noori Jam Tamachi is also linked with Keenjhar Lake."
+      },
+      {
+       "q": "What is the name of the hill near Hyderabad?",
+       "options": [
+        "Ganjo Takkar",
+        "Khirthar",
+        "Margalla",
+        "Takht-e-Sulaiman"
+       ],
+       "answer": 0,
+       "why": "The hill near Hyderabad is Ganjo Takkar. It is a low rocky hill and people go there for outings."
+      },
+      {
+       "q": "The Thar Desert lies in which part of Sindh?",
+       "options": [
+        "The west",
+        "The south",
+        "The north",
+        "The east"
+       ],
+       "answer": 3,
+       "why": "The Thar Desert lies in the eastern part of Sindh. People there keep cattle and store rain water because rainfall is very low."
+      },
+      {
+       "q": "After how many years is a census held?",
+       "options": [
+        "Every five years",
+        "Every ten years",
+        "Every two years",
+        "Every twenty years"
+       ],
+       "answer": 1,
+       "why": "A census is held after every ten years. It gives the government information about people's age, education and work so it can plan facilities."
+      },
+      {
+       "q": "Migration means:",
+       "options": [
+        "Counting all the people of a country",
+        "Building canals from a river",
+        "Moving from one place to another to live there permanently",
+        "Going on a picnic"
+       ],
+       "answer": 2,
+       "why": "Migration is the moving of people from one place to another to live there permanently, such as moving from a village to a city for work."
+      },
+      {
+       "q": "Which of these is a push factor of migration?",
+       "options": [
+        "Good schools",
+        "Jobs in factories",
+        "Drought",
+        "A big hospital"
+       ],
+       "answer": 2,
+       "why": "Push factors force people to leave their area, such as unemployment, drought or flood. Jobs, good schools and hospitals are pull factors that attract people."
+      },
+      {
+       "q": "Why is Hyderabad thickly populated?",
+       "options": [
+        "It is in the desert",
+        "It has mountains all around",
+        "It has no river near it",
+        "It is in the plain near the river, with water, fertile land and jobs"
+       ],
+       "answer": 3,
+       "why": "Hyderabad is in the plain area near the river, where water, fertile land, business and jobs are plentiful, so its population is thick."
+      },
+      {
+       "q": "How do people of the sea coast and delta area earn their living?",
+       "options": [
+        "By catching fish and through trade at the Karachi port",
+        "By growing cotton only",
+        "By grazing cattle in mountains",
+        "By storing rain water"
+       ],
+       "answer": 0,
+       "why": "The sea coast and delta are in the south of Sindh. People catch fish there and the Karachi port is used for trade with other countries."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Weather",
+   "lessons": [
+    {
+     "title": "Weather",
+     "notes_html": "<h4>Weather and Climate</h4>\n<p>The day-to-day condition of the air of a place is called <b class=\"key\">weather</b>, such as today it is hot, cloudy or raining. Weather can change in a short time and does not stay the same for long. The general condition of an area over many years is called <b class=\"key\">climate</b>. The factors that affect weather are temperature, rainfall, the speed and direction of wind, <b class=\"key\">humidity</b> and air pressure.</p>\n<h4>Measuring the Weather</h4>\n<ul><li><b class=\"key\">Temperature</b> — measured with a <b class=\"key\">thermometer</b>; units are degrees Centigrade or degrees Fahrenheit.</li><li><b class=\"key\">Rainfall</b> — measured with a <b class=\"key\">rain gauge</b>; unit is the millimetre.</li><li><b class=\"key\">Wind speed</b> — measured with an <b class=\"key\">anemometer</b>, which has a set of cups attached to a rotating shaft.</li><li><b class=\"key\">Humidity</b> — the amount of water vapour in the air; measured with a hygrometer.</li><li><b class=\"key\">Air pressure</b> — measured with a barometer.</li></ul>\n<h4>Weather and Our Life</h4>\n<p>In hot weather we wear light cotton clothes, take cold drinks and light food and play outside in the evening. In cold weather we like warm clothes, soup and hot food, and in rain the outdoor games stop. Measuring and <b class=\"key\">forecasting</b> the weather helps farmers decide about sowing and irrigation, and helps people stay safe before floods and cyclones. In July, Lahore (45 °C, 80 mm rain) is hotter and wetter than Hyderabad (42 °C, 20 mm rain), and in December Lahore (02 °C) is colder than Hyderabad (06 °C), so Lahore has stronger extremes of weather.</p>\n<h4>The Water Cycle</h4>\n<p>Water from the sea and rivers becomes vapour in the heat of the sun; this is <b class=\"key\">evaporation</b>. The vapour cools and makes clouds; this is <b class=\"key\">condensation</b>. Then rain falls from the clouds and the water collects again in rivers and the ground.</p>\n<h4>Safety in Natural Disasters</h4>\n<p>Common natural disasters are <b class=\"key\">flood, earthquake, drought and cyclone</b>. In a flood, go to a high and safe place and stay away from electric poles. In an earthquake, hide under a strong table and go to open ground away from buildings. In a cyclone, stay inside a strong house, keep doors and windows shut and stay away from the seashore.</p>\n<h4>Key Points</h4>\n<ul><li>Weather is the day-to-day condition of the air; climate is the condition over many years.</li><li>Thermometer, rain gauge, anemometer, hygrometer and barometer measure the weather.</li><li>Humidity is the amount of water vapour in the air.</li><li>Flood, earthquake, drought and cyclone are common natural disasters.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is weather?",
+       "options": [
+        "The condition of the air over many years",
+        "The day-to-day condition of the air of a place",
+        "The amount of rain in a year",
+        "The direction of the wind"
+       ],
+       "answer": 1,
+       "why": "The day-to-day condition of the air of a place is called weather, such as today it is hot, cloudy or raining. Weather can change in a short time."
+      },
+      {
+       "q": "The general condition of the air of an area over many years is called:",
+       "options": [
+        "Climate",
+        "Humidity",
+        "Forecast",
+        "Temperature"
+       ],
+       "answer": 0,
+       "why": "Weather tells the condition of a day, while the general condition of an area over many years is called climate. The two words must not be mixed up."
+      },
+      {
+       "q": "Temperature is measured with a:",
+       "options": [
+        "Rain gauge",
+        "Barometer",
+        "Thermometer",
+        "Anemometer"
+       ],
+       "answer": 2,
+       "why": "Thermometers are used to measure temperature. Temperature is told in degrees Centigrade or degrees Fahrenheit."
+      },
+      {
+       "q": "Rainfall is measured with a rain gauge. Its unit is the:",
+       "options": [
+        "Kilometre",
+        "Millimetre",
+        "Degree",
+        "Litre"
+       ],
+       "answer": 1,
+       "why": "Rainfall tells us the amount of water that falls; the instrument is the rain gauge and the unit of measurement is the millimetre."
+      },
+      {
+       "q": "An anemometer is used to measure:",
+       "options": [
+        "Air pressure",
+        "Humidity",
+        "Rainfall",
+        "Wind speed"
+       ],
+       "answer": 3,
+       "why": "Wind speed tells us how fast the wind blows, and the instrument used to measure it is the anemometer, which consists of cups attached to a rotating shaft."
+      },
+      {
+       "q": "Humidity means:",
+       "options": [
+        "The amount of water vapour in the atmosphere",
+        "The heat of the sun",
+        "The speed of the wind",
+        "The weight of the clouds"
+       ],
+       "answer": 0,
+       "why": "The amount of water vapour in the atmosphere is known as humidity. When humidity is high, the air feels heavy and sticky."
+      },
+      {
+       "q": "Air pressure is measured with a:",
+       "options": [
+        "Hygrometer",
+        "Thermometer",
+        "Barometer",
+        "Rain gauge"
+       ],
+       "answer": 2,
+       "why": "Each weather factor has its own instrument: humidity is measured with a hygrometer and air pressure is measured with a barometer."
+      },
+      {
+       "q": "In July, which city is hotter and has more rainfall?",
+       "options": [
+        "Hyderabad",
+        "Lahore",
+        "Both are equal",
+        "Karachi"
+       ],
+       "answer": 1,
+       "why": "In July, Lahore is hotter than Hyderabad (45 °C against 42 °C) and it also has more rainfall (80 mm against only 20 mm)."
+      },
+      {
+       "q": "During an earthquake, we should:",
+       "options": [
+        "Use the stairs and lifts",
+        "Stand near tall buildings",
+        "Go to open ground away from buildings",
+        "Stay near electric poles"
+       ],
+       "answer": 2,
+       "why": "In an earthquake we should hide under a strong table, go to an open ground away from buildings and avoid stairs and lifts, so that we stay safe."
+      },
+      {
+       "q": "In the water cycle, the vapour cools and makes clouds. This step is called:",
+       "options": [
+        "Evaporation",
+        "Collection",
+        "Condensation",
+        "Irrigation"
+       ],
+       "answer": 2,
+       "why": "Water becomes vapour by evaporation, the vapour cools and makes clouds by condensation, then rain falls and the water collects in rivers and the ground."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Way We Live Together",
+   "lessons": [
+    {
+     "title": "The Way We Live Together",
+     "notes_html": "<h4>What Is Culture?</h4>\n<p><b class=\"key\">Culture</b> is the way of life of a particular group of people living in a particular place. It includes their <b class=\"key\">language, dress, food, games, festivals and customs</b>. Culture keeps changing with time and passes from one generation to the next. The factors that influence culture include climate and history: in hot Thar people wear light, loose clothes, and in Sindh the fairs and Urs of Sufi saints are celebrated because of history.</p>\n<h4>Culture of Sindh</h4>\n<p>The people of Sindh speak Sindhi and wear shalwar kameez; the men also wear the <b class=\"key\">Ajrak</b> and the Sindhi cap. The Ajrak has been made in Sindh for centuries and is presented to guests with honour. Sindhis eat rice, fish and seasonal vegetables, play <b class=\"key\">Malakhro</b> and cricket, and respect their elders. Two famous Sindhi Sufi poets are <b class=\"key\">Shah Abdul Latif Bhittai</b> and <b class=\"key\">Sachal Sarmast</b>, who gave the message of peace, love and humanity.</p>\n<h4>Cultures of the Provinces</h4>\n<ul><li><b class=\"key\">Punjab</b> — Punjabi language; sarson ka saag and makai ki roti; Kabaddi.</li><li><b class=\"key\">Balochistan</b> — Balochi language; Balochi embroidered dress.</li><li><b class=\"key\">Khyber Pakhtunkhwa</b> — Pashto language; Peshawari chappal; Attan dance; Shandur Polo Festival and Kalash Chilam Joshi Festival.</li></ul>\n<p>In all the provinces people mostly wear shalwar kameez, celebrate Eids and like cricket. The <b class=\"key\">national game of Pakistan is hockey</b>. Sindhi-speaking and Urdu-speaking groups in Sindh both celebrate Eids, wear shalwar kameez and like hospitality; only their home language, wedding customs and special foods are a little different.</p>\n<h4>Key Points</h4>\n<ul><li>Culture is the way of life of a group: language, dress, food, games, festivals and customs.</li><li>The Ajrak and the Sindhi cap are the identity of Sindh.</li><li>Shah Abdul Latif Bhittai and Sachal Sarmast are famous Sindhi Sufi poets.</li><li>Hockey is the national game of Pakistan.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Culture is:",
+       "options": [
+        "Only the food of a people",
+        "The way of life of a group of people",
+        "Only the language of a place",
+        "A kind of dress"
+       ],
+       "answer": 1,
+       "why": "Culture is the way of life of a particular group of people living in a particular place. It includes their language, dress, food, games, festivals and customs."
+      },
+      {
+       "q": "The Ajrak is traditional to:",
+       "options": [
+        "Punjab",
+        "Balochistan",
+        "Sindh",
+        "Khyber Pakhtunkhwa"
+       ],
+       "answer": 2,
+       "why": "The Ajrak is traditional to Sindh. It has been made in Sindh for centuries and is presented to guests with honour."
+      },
+      {
+       "q": "Punjabis like to eat:",
+       "options": [
+        "Sarson ka saag and makai ki roti",
+        "Rice and fish",
+        "Sajji and roti",
+        "Pulao and kebab"
+       ],
+       "answer": 0,
+       "why": "Sarson ka saag and makai ki roti is the famous dish of Punjab, which is eaten especially in winter with butter."
+      },
+      {
+       "q": "The national game of Pakistan is:",
+       "options": [
+        "Cricket",
+        "Kabaddi",
+        "Hockey",
+        "Polo"
+       ],
+       "answer": 2,
+       "why": "The national game of Pakistan is hockey. Pakistan has won many World Cups and Olympic medals in hockey, so hockey has this status."
+      },
+      {
+       "q": "Two famous festivals of Khyber Pakhtunkhwa are:",
+       "options": [
+        "Basant and Mela Chiraghan",
+        "Urs of Shah Latif and Eid",
+        "Shandur Polo Festival and Kalash Chilam Joshi Festival",
+        "Nowruz and Lok Mela"
+       ],
+       "answer": 2,
+       "why": "The Shandur Polo Festival and the Kalash Chilam Joshi Festival are famous in Khyber Pakhtunkhwa. Polo is played at Shandur on the highest ground in the world."
+      },
+      {
+       "q": "Two famous Sindhi Sufi poets are:",
+       "options": [
+        "Bulleh Shah and Waris Shah",
+        "Shah Abdul Latif Bhittai and Sachal Sarmast",
+        "Iqbal and Faiz",
+        "Khushal Khan and Rahman Baba"
+       ],
+       "answer": 1,
+       "why": "Shah Abdul Latif Bhittai and Sachal Sarmast are the famous Sindhi Sufi poets. Both gave the message of peace, love and humanity in their poetry."
+      },
+      {
+       "q": "Which of these is NOT a part of culture?",
+       "options": [
+        "Language",
+        "Dress",
+        "Weather forecast",
+        "Festivals"
+       ],
+       "answer": 2,
+       "why": "Culture includes language, dress, food, games, festivals and customs of a group. A weather forecast is not a part of any group's way of life."
+      },
+      {
+       "q": "In Balochistan, the special dress is:",
+       "options": [
+        "Ajrak and cap",
+        "Balochi embroidered dress",
+        "Peshawari chappal",
+        "Lungi and kurta"
+       ],
+       "answer": 1,
+       "why": "Balochistan is special for the Balochi language and the Balochi embroidered dress, while Sindh is special for the Ajrak and Khyber Pakhtunkhwa for the Peshawari chappal."
+      },
+      {
+       "q": "People of Thar wear light and loose clothes because of:",
+       "options": [
+        "History",
+        "The hot climate",
+        "Their festivals",
+        "Their language"
+       ],
+       "answer": 1,
+       "why": "Climate is a factor that influences culture. Because of the hot climate of Thar, people wear light and loose clothes, while warm clothes are worn in cold areas."
+      },
+      {
+       "q": "The famous game of Sindh is:",
+       "options": [
+        "Attan",
+        "Kabaddi",
+        "Malakhro",
+        "Polo"
+       ],
+       "answer": 2,
+       "why": "The children and people of Sindh play Malakhro and cricket. Kabaddi is the famous game of Punjab and polo is played at Shandur."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Provincial Government",
+   "lessons": [
+    {
+     "title": "The Provincial Government",
+     "notes_html": "<h4>Three Branches of Government</h4>\n<ul><li><b class=\"key\">Legislature</b> (the Provincial Assembly) — <b class=\"key\">makes laws</b>. Its members are the elected representatives of the people, called MPAs.</li><li><b class=\"key\">Executive</b> — <b class=\"key\">carries out the laws</b> and runs the province. The Chief Minister and the ministers are its heads, and departments like education, health, police and agriculture do the daily work.</li><li><b class=\"key\">Judiciary</b> — <b class=\"key\">interprets the law</b> and gives justice. Its members are judges.</li></ul>\n<h4>How the Provincial Government Is Formed</h4>\n<p>First, the people vote and elect the members of the Provincial Assembly. Second, the party with the most members forms the government and its leader becomes the <b class=\"key\">Chief Minister</b>. Third, the Chief Minister makes his team of ministers and takes oath from the Governor.</p>\n<h4>Courts and Judges</h4>\n<p>The courts that deal with crimes are called <b class=\"key\">criminal courts</b>; cases of property and money are heard in civil courts. The work of a <b class=\"key\">judge</b> is to hear cases and give decisions according to the law after listening to both sides, so that the innocent get justice and the criminal gets punishment.</p>\n<h4>Rights and Responsibilities</h4>\n<p>As citizens of Pakistan we have the right to get education, the facility of health, and to vote and give our opinion. With every right there is a <b class=\"key\">responsibility</b>: go to school regularly, keep public places clean, respect the law and pay taxes. We can make our province better by keeping our surroundings clean, planting trees, and not wasting water and electricity. Good people like Dr Adeeb Rizvi, who set up the SIUT hospital for free treatment, and Bilquis Edhi, who made homes for orphan children, benefit others.</p>\n<h4>Key Points</h4>\n<ul><li>The legislature makes laws, the executive carries them out, and the judiciary interprets them.</li><li>The provincial government is formed through elections; the Chief Minister leads the executive.</li><li>Criminal courts decide cases of crimes; civil courts hear property and money cases.</li><li>Rights and responsibilities together make a good citizen.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many branches does the provincial government have?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "The provincial government has three branches: the legislature, the executive and the judiciary. Because their work is separate, the government runs well."
+      },
+      {
+       "q": "The executive branch carries out the:",
+       "options": [
+        "Laws",
+        "Elections",
+        "Cases",
+        "Taxes only"
+       ],
+       "answer": 0,
+       "why": "The executive branch carries out the laws. The Chief Minister and the ministers are the heads of this branch and the departments work for the people."
+      },
+      {
+       "q": "The main work of the judicial branch is to:",
+       "options": [
+        "Make laws",
+        "Interpret the law",
+        "Collect taxes",
+        "Run schools"
+       ],
+       "answer": 1,
+       "why": "The main work of the judicial branch is to interpret the law. Judges hear cases and give decisions according to the law."
+      },
+      {
+       "q": "Laws are made by the:",
+       "options": [
+        "Police",
+        "Judges",
+        "Legislature (Provincial Assembly)",
+        "Governor alone"
+       ],
+       "answer": 2,
+       "why": "Laws are made by the legislature, that is the Provincial Assembly. Its members are the elected representatives of the people."
+      },
+      {
+       "q": "The courts that deal with crimes are called:",
+       "options": [
+        "Civil courts",
+        "Criminal courts",
+        "Family courts",
+        "Revenue courts"
+       ],
+       "answer": 1,
+       "why": "Cases of theft, fighting and other crimes are decided in criminal courts, while cases of property and money are heard in civil courts."
+      },
+      {
+       "q": "Who becomes the Chief Minister after elections?",
+       "options": [
+        "The leader of the party with the most members in the Assembly",
+        "The senior-most judge",
+        "The Governor",
+        "The head of the police"
+       ],
+       "answer": 0,
+       "why": "The party with the most members in the Provincial Assembly forms the government, and its leader becomes the Chief Minister."
+      },
+      {
+       "q": "Why is the work of a judge important?",
+       "options": [
+        "So that laws are written quickly",
+        "So that the innocent get justice and the criminal gets punishment",
+        "So that elections are held",
+        "So that taxes increase"
+       ],
+       "answer": 1,
+       "why": "A judge hears both sides and decides according to the law. Through this the innocent get justice and the criminal gets punishment, and society stays peaceful."
+      },
+      {
+       "q": "With the right to get education, our responsibility is to:",
+       "options": [
+        "Pay taxes",
+        "Vote in elections",
+        "Go to school regularly and pay attention to studies",
+        "Keep hospitals clean"
+       ],
+       "answer": 2,
+       "why": "Every right has a responsibility with it. With the right to education, the responsibility is to go to school regularly and pay attention to studies."
+      },
+      {
+       "q": "Dr Adeeb Rizvi is known for:",
+       "options": [
+        "Founding the University of Sindh",
+        "Setting up SIUT, where kidney patients are treated free of cost",
+        "Making homes for orphans",
+        "Writing Sindhi poetry"
+       ],
+       "answer": 1,
+       "why": "Dr Adeeb Rizvi set up the SIUT hospital in Karachi, where kidney patients are treated free of cost and thousands of lives have been saved."
+      },
+      {
+       "q": "Which of these helps make our province a better place?",
+       "options": [
+        "Wasting water and electricity",
+        "Throwing litter on the road",
+        "Planting trees and looking after them",
+        "Breaking school property"
+       ],
+       "answer": 2,
+       "why": "Keeping our surroundings clean, planting trees and not wasting water and electricity are small actions that together take the province towards great improvement."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Means of Communication",
+   "lessons": [
+    {
+     "title": "Means of Communication",
+     "notes_html": "<h4>Means of Communication</h4>\n<p>The means of communication include speaking face-to-face, letters, the telephone, the <b class=\"key\">mobile phone</b>, fax, the <b class=\"key\">internet</b> and e-mail. Newspapers and magazines, radio and television are also means of sending messages. Nowadays most people use mobile phones to talk to others. We send and receive letters through the <b class=\"key\">post office</b>, and the <b class=\"key\">postman</b> delivers them from door to door.</p>\n<h4>Computers and the Internet</h4>\n<p>With computers and the internet we can send <b class=\"key\">e-mail</b>, which reaches another country in seconds. With video calls we can also see the person we are talking to, and through social media we stay in touch with friends all the time. The computer has ended the delay of letters and made communication fast and cheap. The internet has made communication very easy.</p>\n<h4>Advantages and Disadvantages</h4>\n<ul><li><b class=\"key\">Letter</b> — cheap and can be kept as a proof; but it takes days to reach and can be lost on the way.</li><li><b class=\"key\">Telephone</b> — talk is instant and we get a reply at once; but it does not work without electricity or signals and it costs money.</li><li><b class=\"key\">Internet</b> — fast contact with the whole world and pictures can also be sent; but wrong use wastes time and affects health.</li></ul>\n<h4>Useful Things to Make</h4>\n<p>A postcard has a picture on one side and a message with the friend's name and address on the other side. A personal telephone directory keeps friends' names in alphabetical order with their numbers. Important emergency numbers are <b class=\"key\">15 for police</b>, <b class=\"key\">1122 for rescue and ambulance</b> and <b class=\"key\">16 for the fire brigade</b>. Inventions became smaller, faster and cheaper with time: first big computers, then personal computers, laptops and tablets; first big phones, then small mobiles and today's smartphones.</p>\n<h4>Key Points</h4>\n<ul><li>Letters, telephone, mobile phone, internet and e-mail are means of communication.</li><li>E-mail reaches another country in seconds; a letter takes days.</li><li>The postman delivers letters sent through the post office.</li><li>Emergency numbers: police 15, rescue and ambulance 1122, fire brigade 16.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Nowadays, most people use which means to talk to others?",
+       "options": [
+        "Letters",
+        "Mobile phones",
+        "Fax",
+        "Postcards"
+       ],
+       "answer": 1,
+       "why": "Nowadays most people use mobile phones to talk to others, because they are instant and can be carried everywhere."
+      },
+      {
+       "q": "We send and receive letters through the:",
+       "options": [
+        "Hospital",
+        "Post office, delivered by the postman",
+        "Police station",
+        "School office"
+       ],
+       "answer": 1,
+       "why": "We send and receive letters through the post office and by the postman. The postman delivers letters from door to door."
+      },
+      {
+       "q": "The internet has made what very easy?",
+       "options": [
+        "Communication",
+        "Farming",
+        "Travelling",
+        "Cooking"
+       ],
+       "answer": 0,
+       "why": "The internet has made communication very easy. With e-mail and video calls we can reach people in other countries within seconds."
+      },
+      {
+       "q": "One disadvantage of a letter is that:",
+       "options": [
+        "It is very costly",
+        "It needs electricity",
+        "It takes days to reach and can be lost on the way",
+        "It cannot be written by hand"
+       ],
+       "answer": 2,
+       "why": "A letter is cheap and can be kept as a proof, but it takes days to reach and can be lost on the way, unlike an instant telephone call."
+      },
+      {
+       "q": "With video calls on a computer, we can:",
+       "options": [
+        "Only hear the voice",
+        "Also see the person we are talking to",
+        "Send a parcel",
+        "Print a letter"
+       ],
+       "answer": 1,
+       "why": "With Skype and video calls we can also see the person we are talking to, and through social media we stay in touch with friends all the time."
+      },
+      {
+       "q": "The emergency number for the police is:",
+       "options": [
+        "1122",
+        "16",
+        "15",
+        "911"
+       ],
+       "answer": 2,
+       "why": "Among emergency numbers, 15 is for police, 1122 for rescue and ambulance and 16 for the fire brigade. Such a list helps in calling help at once."
+      },
+      {
+       "q": "In a personal telephone directory, names are written:",
+       "options": [
+        "In alphabetical order",
+        "By age",
+        "By house number",
+        "In any random order"
+       ],
+       "answer": 0,
+       "why": "In the directory, names are written in alphabetical order so that any name can be found quickly in time of need."
+      },
+      {
+       "q": "Which of these is also a means of sending messages?",
+       "options": [
+        "A bicycle",
+        "Newspapers and television",
+        "A school bag",
+        "A water bottle"
+       ],
+       "answer": 1,
+       "why": "Besides letters and phones, newspapers and magazines, radio and television are also means of sending messages to many people at once."
+      },
+      {
+       "q": "One disadvantage of the telephone is that:",
+       "options": [
+        "It is too slow",
+        "It cannot give a reply",
+        "It does not work without electricity or signals",
+        "It can be kept as a proof"
+       ],
+       "answer": 2,
+       "why": "The telephone gives instant talk and a reply at once, but it does not work without electricity or signals and it costs money."
+      },
+      {
+       "q": "With time, inventions like computers and phones became:",
+       "options": [
+        "Bigger and slower",
+        "Smaller, faster and cheaper",
+        "Only more costly",
+        "Less useful"
+       ],
+       "answer": 1,
+       "why": "First big computers were made, then personal computers, laptops and tablets; first big phones, then small mobiles and smartphones. Inventions became smaller, faster and cheaper."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Getting Along With Others",
+   "lessons": [
+    {
+     "title": "Getting Along With Others",
+     "notes_html": "<h4>Peace and Conflict</h4>\n<p><b class=\"key\">Peace</b> means calm, safety and everyone living together with love, where there is no quarrel and no fear. <b class=\"key\">Conflict</b> means a difference of opinion and unhappiness between two or more people over something. Conflict is a normal and natural part of our lives and there are <b class=\"key\">three main causes</b> of conflict. Conflict is not bad in itself; our response makes it constructive or destructive. <b class=\"key\">Communication</b> is a constructive response to conflict.</p>\n<h4>Six Ways of Resolving Conflict</h4>\n<ul><li><b class=\"key\">Communicate</b> — talking with each other.</li><li><b class=\"key\">Negotiate</b> — sitting together and deciding.</li><li><b class=\"key\">Mediate</b> — taking the help of a <b class=\"key\">mediator</b>, the person asked to help, who listens to both sides.</li><li><b class=\"key\">Arbitrate</b> — accepting the decision of an appointed person.</li><li><b class=\"key\">Litigate</b> — going to court.</li><li><b class=\"key\">Legislate</b> — making laws.</li></ul>\n<p>Children generally use the first three ways, because they are easy and give a quick solution.</p>\n<h4>Constructive and Destructive Results</h4>\n<p>Dealing with conflict constructively increases friendship and trust, keeps peace in society, and children learn good behaviour. Dealing with it destructively spreads enmity and fear, breaks friendships, injures people, damages property and stops the work of schools and businesses. When angry, staying quiet and speaking calmly is positive behaviour; shouting is negative. Peace can be created at home by listening calmly, at school by sharing things and telling the teacher about a quarrel, and in the community by respecting neighbours. Quaid-e-Azam Muhammad Ali Jinnah and Abdul Sattar Edhi are two peace-loving people.</p>\n<h4>Key Points</h4>\n<ul><li>Conflict is a normal part of life; communication is a constructive response to it.</li><li>The six ways are: communicate, negotiate, mediate, arbitrate, litigate and legislate.</li><li>A mediator listens to both sides and helps them agree.</li><li>Constructive handling of conflict increases friendship, trust and peace.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Peace means:",
+       "options": [
+        "Winning every quarrel",
+        "Calm, safety and everyone living together with love",
+        "Living alone",
+        "Being stronger than others"
+       ],
+       "answer": 1,
+       "why": "Peace means calm, safety and everyone living together with love, where there is no quarrel and no fear."
+      },
+      {
+       "q": "Conflict is a difference of:",
+       "options": [
+        "Opinion and unhappiness between people over something",
+        "Clothes between people",
+        "Height between people",
+        "Languages only"
+       ],
+       "answer": 0,
+       "why": "Conflict means a difference of opinion and unhappiness between two or more people over something. It is a normal and natural part of our lives."
+      },
+      {
+       "q": "Communication is a constructive response to:",
+       "options": [
+        "Peace",
+        "Conflict",
+        "Happiness",
+        "Weather"
+       ],
+       "answer": 1,
+       "why": "Communication is a constructive response to conflict. When we talk with each other, misunderstanding ends and the conflict is solved before it grows."
+      },
+      {
+       "q": "In mediation, the person asked to help is called a:",
+       "options": [
+        "Judge",
+        "Mediator",
+        "Captain",
+        "Witness"
+       ],
+       "answer": 1,
+       "why": "In mediation, the person asked to help is called a mediator. The mediator listens to both sides and gives such a decision which is acceptable to both."
+      },
+      {
+       "q": "How many main causes of conflict are there?",
+       "options": [
+        "Two",
+        "Five",
+        "Three",
+        "Six"
+       ],
+       "answer": 2,
+       "why": "There are three main causes of conflict. Conflict itself is not bad; our response to it makes it constructive or destructive."
+      },
+      {
+       "q": "Which of these is NOT one of the six ways of resolving conflict?",
+       "options": [
+        "Negotiate",
+        "Arbitrate",
+        "Litigate",
+        "Fighting"
+       ],
+       "answer": 3,
+       "why": "The six constructive ways are communicate, negotiate, mediate, arbitrate, litigate and legislate. Fighting is a destructive response, not a way of resolving conflict."
+      },
+      {
+       "q": "One good result of dealing with conflict constructively is:",
+       "options": [
+        "Friendship and trust increase among people",
+        "Enmity spreads",
+        "Friendships break",
+        "Property is damaged"
+       ],
+       "answer": 0,
+       "why": "When conflict is handled constructively, friendship and trust increase, peace remains in society and people learn to solve problems together."
+      },
+      {
+       "q": "When you are angry, positive behaviour is to:",
+       "options": [
+        "Shout loudly",
+        "Stay quiet and speak calmly",
+        "Break things",
+        "Stop talking forever"
+       ],
+       "answer": 1,
+       "why": "When angry, if we stay quiet and speak calmly the behaviour is positive, but shouting is negative behaviour that makes the conflict worse."
+      },
+      {
+       "q": "Children generally use which ways to resolve conflict?",
+       "options": [
+        "Litigate and legislate",
+        "Only arbitration",
+        "Communicate, negotiate and mediate",
+        "Going to court"
+       ],
+       "answer": 2,
+       "why": "Children generally use the first three ways — communicate, negotiate and mediate — because they are easy and give a quick solution."
+      },
+      {
+       "q": "Two peace-loving people named in this lesson are:",
+       "options": [
+        "Quaid-e-Azam Muhammad Ali Jinnah and Abdul Sattar Edhi",
+        "Sachal Sarmast and Shah Latif",
+        "Dr Adeeb Rizvi and Arfa Karim",
+        "Jam Nizamuddin and Akbar"
+       ],
+       "answer": 0,
+       "why": "Quaid-e-Azam worked through law and justice and Abdul Sattar Edhi served the poor all his life, so both are known as peace-loving people."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Goods and Services",
+   "lessons": [
+    {
+     "title": "Goods and Services",
+     "notes_html": "<h4>Goods</h4>\n<p>A <b class=\"key\">good</b> is a physical item that can be bought, touched and used. People buy, use and exchange goods and services. Three goods we see in our classroom are a book, a desk and a blackboard. Two goods used in daily life are a toothbrush and a book. A good can be taken home and kept.</p>\n<h4>Services</h4>\n<p>A <b class=\"key\">service</b> is the action or work done for people who pay for it. It cannot be touched or kept; it is received only at the time when the work is done. Two services we use are <b class=\"key\">education</b> and <b class=\"key\">health care</b>. The barber cuts our hair and the tailor makes our clothes; the teacher's teaching and the doctor's treatment are services. At home we use the services of electricity, water and gas.</p>\n<h4>People Who Provide Goods and Services</h4>\n<ul><li><b class=\"key\">Factory</b> — makes goods in large quantity, such as cloth and shoes.</li><li><b class=\"key\">Producer</b> — makes a new thing from raw material.</li><li><b class=\"key\">Shopkeeper</b> — buys goods and sells them to people.</li><li><b class=\"key\">Consumer</b> — buys goods of his need.</li><li><b class=\"key\">Hospital</b> — gives the service of health; doctors treat sick people there.</li></ul>\n<h4>Choice and Opportunity Cost</h4>\n<p>Our wants are many but resources are limited, so we have to choose. The best thing we give up when we choose is the <b class=\"key\">opportunity cost</b>. For example, if you watch your favourite show instead of studying for a spelling test, your choice is the show and your opportunity cost is the preparation for the test. So important work should be done first and recreation afterwards.</p>\n<h4>Key Points</h4>\n<ul><li>A good can be bought, touched, used and kept; a service is work done for others.</li><li>Education and health care are services; a book and a desk are goods.</li><li>A consumer buys goods; a producer makes new things from raw material.</li><li>The best thing we give up when we choose is the opportunity cost.</li></ul>",
+     "mcqs": [
+      {
+       "q": "People buy, use and exchange:",
+       "options": [
+        "Only goods",
+        "Goods and services",
+        "Only services",
+        "Only money"
+       ],
+       "answer": 1,
+       "why": "People buy, use, and exchange goods and services. We buy food items and eat them, and we use the services of the doctor and the teacher."
+      },
+      {
+       "q": "A good is:",
+       "options": [
+        "A physical item that can be bought, touched and used",
+        "Work done for others",
+        "An action that cannot be seen",
+        "A feeling"
+       ],
+       "answer": 0,
+       "why": "A good is a physical item that can be bought, touched, and used, such as a book, a desk and a blackboard in our classroom."
+      },
+      {
+       "q": "A service is:",
+       "options": [
+        "A thing we keep at home",
+        "The action done for people who pay for it",
+        "A raw material",
+        "A machine in a factory"
+       ],
+       "answer": 1,
+       "why": "A service is the action done for people who pay for it. It cannot be touched or kept; it is received only when the work is done."
+      },
+      {
+       "q": "Three goods in our classroom are:",
+       "options": [
+        "Education, health care and teaching",
+        "A book, a desk and a blackboard",
+        "Electricity, water and gas",
+        "Cutting, stitching and treating"
+       ],
+       "answer": 1,
+       "why": "A book, a desk and a blackboard are goods because all three are physical things used in our studies every day. Education and health care are services."
+      },
+      {
+       "q": "Two services which we use are:",
+       "options": [
+        "A toothbrush and a book",
+        "A desk and a bell",
+        "Education and health care",
+        "Cloth and shoes"
+       ],
+       "answer": 2,
+       "why": "Two services which we use are education and health care. In school the teacher gives us education and in illness the doctor treats us."
+      },
+      {
+       "q": "What is the work of a consumer?",
+       "options": [
+        "To make goods in a factory",
+        "To buy goods of his need",
+        "To treat sick people",
+        "To grow raw material"
+       ],
+       "answer": 1,
+       "why": "A consumer buys goods of his need. A producer makes a new thing from raw material and a shopkeeper buys goods and sells them to people."
+      },
+      {
+       "q": "A factory:",
+       "options": [
+        "Gives the service of health",
+        "Teaches children",
+        "Makes goods in large quantity",
+        "Buys goods for its own use"
+       ],
+       "answer": 2,
+       "why": "A factory makes goods in large quantity, such as cloth and shoes. A hospital, not a factory, gives the service of health."
+      },
+      {
+       "q": "You watched your favourite show instead of studying for a spelling test. The opportunity cost was:",
+       "options": [
+        "The TV show",
+        "Preparing for the test, which you gave up",
+        "Your school bag",
+        "The spelling book"
+       ],
+       "answer": 1,
+       "why": "Your choice was to watch the show, and the opportunity cost was that you gave up preparing for the test. The best thing we give up is the opportunity cost."
+      },
+      {
+       "q": "Why do we have to make choices about goods and services?",
+       "options": [
+        "Because shops are closed",
+        "Because our wants are many but resources are limited",
+        "Because goods are free",
+        "Because services are not useful"
+       ],
+       "answer": 1,
+       "why": "Our wants are many but resources are limited, so we have to choose goods and services carefully and do important work first."
+      },
+      {
+       "q": "Which of these is a service used at home?",
+       "options": [
+        "A ball",
+        "A copy",
+        "Electricity",
+        "A desk"
+       ],
+       "answer": 2,
+       "why": "Three services used at home are electricity, water and gas. With electricity the bulb lights and the fan runs. A ball, copy and desk are goods."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Holy Prophet Muhammad (PBUH)",
+   "lessons": [
+    {
+     "title": "The Holy Prophet Muhammad (PBUH)",
+     "notes_html": "<h4>Birth and Family</h4>\n<p>The Holy Prophet Muhammad (PBUH) was born on <b class=\"key\">12th Rabi-ul-Awwal, 20th April 571 A.D.</b> in <b class=\"key\">Makkah</b>. He belonged to the Banu Hashim family of the Quraish tribe. His father's name was Abdullah and his mother's name was Amina. His grandfather Abdul Muttalib named him “Muhammad”, which means the one who is praised again and again.</p>\n<h4>As-Sadiq and Al-Amin</h4>\n<p>From his childhood he always spoke the truth and never broke anyone's trust. In his youth he was so honest in trade that people kept their valuable things with him as a trust. Because of these habits the people of Makkah called him <b class=\"key\">“As-Sadiq”</b>, meaning the truthful, and <b class=\"key\">“Al-Amin”</b>, meaning the trustworthy. He received prophethood at the age of forty, migrated to Madina, and passed away in Madina in 632 A.D.</p>\n<h4>Opposition of the People of Makkah</h4>\n<p>When he invited the people to leave idol worship and worship the one Allah, the disbelievers of Makkah opposed him. They did not want to leave the custom of their forefathers and feared that with the new religion their leadership and benefits would end, so they gave him and his companions many hardships.</p>\n<h4>The Last Sermon</h4>\n<p>From the last sermon we learn that all Muslims are brothers of one another and no one is greater than another because of race or colour. He said he was leaving among us the <b class=\"key\">Book of Allah (the Quran)</b> and his <b class=\"key\">Sunnah</b>; whoever holds fast to them will never go astray. He also advised us to pay the rights of others and not to be cruel to anyone. His teachings include speaking the truth, honesty, respecting elders and helping the poor. He lived a simple life and used to mend his own clothes. On the map of Saudi Arabia, Makkah is in the west near the Red Sea and Madina is to its north; the Kaaba is in Makkah and the Masjid-e-Nabawi is in Madina.</p>\n<h4>Key Points</h4>\n<ul><li>The Holy Prophet (PBUH) was born in Makkah in 571 A.D.</li><li>He was called As-Sadiq (the truthful) and Al-Amin (the trustworthy).</li><li>He received prophethood at the age of forty and migrated to Madina.</li><li>The last sermon teaches brotherhood, equality and holding fast to the Quran and Sunnah.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The Holy Prophet Muhammad (PBUH) was born in:",
+       "options": [
+        "Madina",
+        "Makkah",
+        "Taif",
+        "Jerusalem"
+       ],
+       "answer": 1,
+       "why": "The Holy Prophet Muhammad (PBUH) was born on 12th Rabi-ul-Awwal, 20th April 571 A.D. in Makkah. He belonged to the Banu Hashim family of the Quraish tribe."
+      },
+      {
+       "q": "His father's name was:",
+       "options": [
+        "Abdul Muttalib",
+        "Abu Talib",
+        "Abdullah",
+        "Hamza"
+       ],
+       "answer": 2,
+       "why": "His father's name was Abdullah and his mother's name was Amina. His grandfather Abdul Muttalib named him “Muhammad”."
+      },
+      {
+       "q": "“As-Sadiq” means:",
+       "options": [
+        "The trustworthy",
+        "The truthful",
+        "The generous",
+        "The brave"
+       ],
+       "answer": 1,
+       "why": "The people of Makkah called him “As-Sadiq”, meaning the truthful, because he always spoke the truth, and “Al-Amin”, meaning the trustworthy."
+      },
+      {
+       "q": "Why did people keep their valuable things with him?",
+       "options": [
+        "He was very rich",
+        "He was a ruler",
+        "He was so honest in trade that they trusted him",
+        "He had a big house"
+       ],
+       "answer": 2,
+       "why": "In his youth he was so honest in trade that people kept their valuable things with him as a trust, and he never broke anyone's trust."
+      },
+      {
+       "q": "At what age did he receive prophethood?",
+       "options": [
+        "Twenty-five years",
+        "Thirty years",
+        "Fifty years",
+        "Forty years"
+       ],
+       "answer": 3,
+       "why": "He received prophethood at the age of forty. Later he migrated to Madina and passed away in Madina in 632 A.D."
+      },
+      {
+       "q": "Why did the disbelievers of Makkah oppose him?",
+       "options": [
+        "They wanted to leave their forefathers' custom at once",
+        "They feared losing their leadership and benefits with the new religion",
+        "They did not know him",
+        "They wanted him to become their king"
+       ],
+       "answer": 1,
+       "why": "They did not want to leave idol worship and the custom of their forefathers, and they feared that with the new religion their leadership and benefits would end."
+      },
+      {
+       "q": "According to the last sermon, no one is greater than another because of:",
+       "options": [
+        "Wealth and family",
+        "Race or colour",
+        "Strength",
+        "Age"
+       ],
+       "answer": 1,
+       "why": "From the last sermon we get the message that all Muslims are brothers of one another and no one is greater than another because of race or colour."
+      },
+      {
+       "q": "He said he was leaving among us the Quran and his:",
+       "options": [
+        "Sunnah",
+        "House",
+        "Wealth",
+        "Letters"
+       ],
+       "answer": 0,
+       "why": "He said that he was leaving among us the Book of Allah (the Quran) and his Sunnah; whoever holds fast to them will never go astray."
+      },
+      {
+       "q": "Which teaching of the Holy Prophet (PBUH) is correct?",
+       "options": [
+        "To waste money freely",
+        "To speak the truth and help the poor",
+        "To be cruel to animals",
+        "To take others' things"
+       ],
+       "answer": 1,
+       "why": "His teachings include speaking the truth, honesty, respecting elders and helping the poor, and being kind to neighbours and animals."
+      },
+      {
+       "q": "On the map of Saudi Arabia, Madina is located:",
+       "options": [
+        "To the south of Makkah",
+        "In the east",
+        "To the north of Makkah",
+        "On an island"
+       ],
+       "answer": 2,
+       "why": "Makkah is in the western part of Saudi Arabia near the Red Sea and Madina is to its north. The Kaaba is in Makkah and the Masjid-e-Nabawi is in Madina."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Rightly Guided Caliphs",
+   "lessons": [
+    {
+     "title": "The Rightly Guided Caliphs",
+     "notes_html": "<h4>The Four Caliphs and Their Titles</h4>\n<ul><li><b class=\"key\">Hazrat Abu Bakr Siddique (RA)</b> — title “Siddique”, because he was the first to confirm the event of Mi'raj at once, without any hesitation.</li><li><b class=\"key\">Hazrat Umer Farooq (RA)</b> — title “Farooq”, because he separated truth from falsehood. His famous saying is: “Take account of yourselves before you are taken to account.”</li><li><b class=\"key\">Hazrat Usman Ghani (RA)</b> — titles “Ghani” and “Zun-Noorain”, because he was very generous and was married to two daughters of the Holy Prophet (PBUH).</li><li><b class=\"key\">Hazrat Ali (RA)</b> — title “Asadullah”, because he was very brave.</li></ul>\n<h4>Services of Hazrat Usman (RA)</h4>\n<p>Hazrat Usman (RA) spent his wealth for Islam with an open heart. He bought a well of sweet water in Madina and gave it for the Muslims, and he helped the army greatly at the time of war. In his caliphate the <b class=\"key\">Holy Quran was collected in one form</b> and sent to the whole world.</p>\n<h4>Simple Life of the Caliphs</h4>\n<p>All the rightly guided Caliphs lived a simple life. Although Hazrat Ali (RA) was the Caliph, he ate simple food, did his own work himself and no beggar went empty-handed from his door. Hazrat Abu Bakr (RA) supported the Holy Prophet (PBUH) in everything and even gave all his wealth for Islam. Their lives teach us truthfulness, justice, generosity and bravery.</p>\n<h4>Key Points</h4>\n<ul><li>Abu Bakr (RA) is Siddique, Umer (RA) is Farooq, Usman (RA) is Ghani and Zun-Noorain, and Ali (RA) is Asadullah.</li><li>Hazrat Usman (RA) bought a well for the Muslims and the Quran was collected in one form in his caliphate.</li><li>All four Caliphs lived a simple life and did their own work themselves.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Hazrat Abu Bakr (RA) got the title “Siddique” because he:",
+       "options": [
+        "Was very rich",
+        "Confirmed the event of Mi'raj at once without hesitation",
+        "Built a well in Madina",
+        "Was very brave in battle"
+       ],
+       "answer": 1,
+       "why": "When the Holy Prophet (PBUH) told about the event of Mi'raj, many people could not believe it, but Hazrat Abu Bakr (RA) confirmed it at once, so he got the title Siddique."
+      },
+      {
+       "q": "“Siddique” means:",
+       "options": [
+        "The generous one",
+        "The brave one",
+        "The great truthful one",
+        "The just one"
+       ],
+       "answer": 2,
+       "why": "Because of his truthfulness and confirmation of the Mi'raj, Hazrat Abu Bakr (RA) got the title “Siddique”, which means the great truthful one."
+      },
+      {
+       "q": "Hazrat Umer (RA) has the title “Farooq” because he:",
+       "options": [
+        "Separated truth from falsehood",
+        "Collected the Quran",
+        "Bought a well",
+        "Migrated first"
+       ],
+       "answer": 0,
+       "why": "Hazrat Umer (RA) has the title “Farooq” because he separated truth from falsehood. His justice is famous to this day."
+      },
+      {
+       "q": "A famous saying of Hazrat Umer (RA) is:",
+       "options": [
+        "“Cleanliness is half of faith”",
+        "“Take account of yourselves before you are taken to account”",
+        "“Seek knowledge from cradle to grave”",
+        "“The best of you are those who learn”"
+       ],
+       "answer": 1,
+       "why": "This saying of Hazrat Umer (RA) teaches us to think about our deeds every day, note our mistakes and not repeat them tomorrow."
+      },
+      {
+       "q": "Hazrat Usman (RA) bought what for the Muslims of Madina?",
+       "options": [
+        "A garden of dates",
+        "A well of sweet water",
+        "A market place",
+        "A fort"
+       ],
+       "answer": 1,
+       "why": "Hazrat Usman (RA) was very generous. He bought a well of sweet water in Madina and gave it for the Muslims, and he helped the army greatly at the time of war."
+      },
+      {
+       "q": "In the caliphate of Hazrat Usman (RA):",
+       "options": [
+        "The Holy Quran was collected in one form and sent to the whole world",
+        "Islam began in Sindh",
+        "The Kaaba was built",
+        "The first mosque was built"
+       ],
+       "answer": 0,
+       "why": "In his caliphate the Holy Quran was collected in one form and sent to the whole world, which is a great service of Hazrat Usman (RA) for Islam."
+      },
+      {
+       "q": "Hazrat Usman (RA) is called “Zun-Noorain” because he:",
+       "options": [
+        "Had two sons",
+        "Was married to two daughters of the Holy Prophet (PBUH)",
+        "Built two mosques",
+        "Ruled two cities"
+       ],
+       "answer": 1,
+       "why": "Hazrat Usman (RA) has the titles “Ghani” and “Zun-Noorain”, because he was very generous and was married to two daughters of the Holy Prophet (PBUH)."
+      },
+      {
+       "q": "Hazrat Ali (RA) has the title “Asadullah” because he was:",
+       "options": [
+        "Very generous",
+        "Very rich",
+        "Very brave",
+        "Very learned only"
+       ],
+       "answer": 2,
+       "why": "Hazrat Ali (RA) has the title “Asadullah” because he was very brave. He also lived a simple life and no beggar went empty-handed from his door."
+      },
+      {
+       "q": "Which quality of Hazrat Ali (RA) is described in this lesson?",
+       "options": [
+        "He lived a simple life and was generous",
+        "He loved costly food",
+        "He never did his own work",
+        "He was proud of being Caliph"
+       ],
+       "answer": 0,
+       "why": "Although he was the Caliph, Hazrat Ali (RA) ate simple food, did his own work himself and helped the poor, which teaches us not to be proud."
+      },
+      {
+       "q": "Hazrat Abu Bakr (RA) showed his love for Islam by:",
+       "options": [
+        "Building palaces",
+        "Giving all his wealth for Islam",
+        "Travelling to many lands",
+        "Writing books"
+       ],
+       "answer": 1,
+       "why": "Hazrat Abu Bakr (RA) supported the Holy Prophet (PBUH) in everything and even gave all his wealth for Islam, besides confirming the Mi'raj at once."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Our Heroes and Heroines",
+   "lessons": [
+    {
+     "title": "Our Heroes and Heroines",
+     "notes_html": "<h4>What Is Heroism?</h4>\n<p><b class=\"key\">Heroism</b> means those good qualities and great deeds because of which a person becomes an example for others. A hero does not fear difficulties, helps others and thinks of the good of everyone instead of his own benefit. Three heroes named in this lesson are Quaid-e-Azam Muhammad Ali Jinnah, who made Pakistan; Abdul Sattar Edhi, who served the poor and orphans all his life; and Dr Adeeb Rizvi, who treated kidney patients free of cost.</p>\n<h4>Heroes of Sindh</h4>\n<ul><li><b class=\"key\">Sachal Sarmast</b> (Khairpur) — gave the message of peace and humanity through his poetry; his qualities are simplicity and truthfulness.</li><li><b class=\"key\">Shah Abdul Latif Bhittai</b> (Matiari, Bhit Shah) — the great Sufi poet of Sindh.</li><li><b class=\"key\">Hyder Bux Jatoi</b> (Larkana) — struggled for the rights of farmers; because of his struggle the Sindh Tenancy Act was passed in 1950 and farmers started getting half of the produce.</li><li><b class=\"key\">Allama I. I. Kazi</b> (Hyderabad) — founded the University of Sindh in 1951 and became its first Vice Chancellor.</li><li><b class=\"key\">Begum Nusrat Haroon</b> — brought women into the Pakistan Movement and worked for the education and betterment of women.</li><li><b class=\"key\">Quaid-e-Azam Muhammad Ali Jinnah</b> — related to Karachi, the founder of Pakistan.</li><li><b class=\"key\">Rooplo Kolhi</b> — the hero of Tharparkar. Emperor Akbar was born in Umerkot.</li></ul>\n<h4>Arfa Karim</h4>\n<p>Arfa Karim was born on 2 February 1995 in a small village near Faisalabad, Punjab. At the age of only <b class=\"key\">nine years</b> she became the <b class=\"key\">world's youngest Microsoft Certified Professional</b> and made Pakistan's name bright. Her qualities were intelligence, hard work and courage. Dr Adeeb Rizvi's qualities are kindness, honesty and hard work: he spends every rupee of the hospital on the patients and even at an old age sees patients every day.</p>\n<h4>Key Points</h4>\n<ul><li>A hero helps others and thinks of everyone's good instead of his own benefit.</li><li>Allama I. I. Kazi founded the University of Sindh in 1951.</li><li>Hyder Bux Jatoi struggled for farmers' rights; the Sindh Tenancy Act was passed in 1950.</li><li>Arfa Karim became the world's youngest Microsoft expert at the age of nine.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Heroism means:",
+       "options": [
+        "Being famous and rich",
+        "Good qualities and great deeds that make a person an example for others",
+        "Winning a fight",
+        "Holding a high post"
+       ],
+       "answer": 1,
+       "why": "Heroism means those good qualities and great deeds because of which a person becomes an example for others. A hero helps others and does not fear difficulties."
+      },
+      {
+       "q": "Which of these is NOT a quality of a hero?",
+       "options": [
+        "Helping others",
+        "Thinking of everyone's good",
+        "Thinking only of his own benefit",
+        "Not fearing difficulties"
+       ],
+       "answer": 2,
+       "why": "A hero thinks of the good of everyone instead of his own benefit. Thinking only of oneself is the opposite of heroism."
+      },
+      {
+       "q": "Allama I. I. Kazi is famous because he:",
+       "options": [
+        "Founded the University of Sindh in 1951 and was its first Vice Chancellor",
+        "Made Pakistan",
+        "Treated patients free of cost",
+        "Wrote Sufi poetry"
+       ],
+       "answer": 0,
+       "why": "Allama I. I. Qazi (written Kazi in the book) founded the University of Sindh in 1951 and became its first Vice Chancellor, through which higher education spread in Sindh."
+      },
+      {
+       "q": "Hyder Bux Jatoi struggled for the rights of:",
+       "options": [
+        "Students",
+        "Farmers",
+        "Shopkeepers",
+        "Drivers"
+       ],
+       "answer": 1,
+       "why": "Hyder Bux Jatoi struggled for the rights of farmers, due to which the Sindh Tenancy Act was passed in 1950 and farmers started getting half of the produce."
+      },
+      {
+       "q": "Begum Nusrat Haroon worked for:",
+       "options": [
+        "The education and betterment of women",
+        "Building roads",
+        "The navy",
+        "Farming methods"
+       ],
+       "answer": 0,
+       "why": "Begum Nusrat Haroon brought women into the Pakistan Movement and after independence worked for the education and betterment of women and helped migrant women."
+      },
+      {
+       "q": "Arfa Karim became the world's youngest Microsoft Certified Professional at the age of:",
+       "options": [
+        "Twelve years",
+        "Fifteen years",
+        "Nine years",
+        "Seven years"
+       ],
+       "answer": 2,
+       "why": "Arfa Karim was born on 2 February 1995 near Faisalabad. At the age of only nine years she became the world's youngest Microsoft Certified Professional."
+      },
+      {
+       "q": "Sachal Sarmast gave which message through his poetry?",
+       "options": [
+        "Peace and humanity",
+        "War and victory",
+        "Trade and wealth",
+        "Farming and crops"
+       ],
+       "answer": 0,
+       "why": "Sachal Sarmast, related to Khairpur, gave the message of peace and humanity through his poetry; his qualities are simplicity and truthfulness."
+      },
+      {
+       "q": "Quaid-e-Azam Muhammad Ali Jinnah is related to which district in the map activity?",
+       "options": [
+        "Hyderabad",
+        "Karachi",
+        "Sukkur",
+        "Larkana"
+       ],
+       "answer": 1,
+       "why": "In the district personalities list, Karachi is related to Quaid-e-Azam Muhammad Ali Jinnah, Hyderabad to Allama I. I. Kazi and Larkana to Hyder Bux Jatoi."
+      },
+      {
+       "q": "Emperor Akbar was born in:",
+       "options": [
+        "Thatta",
+        "Umerkot",
+        "Delhi",
+        "Hyderabad"
+       ],
+       "answer": 1,
+       "why": "In the map activity of this lesson, Umerkot is related to Emperor Akbar, who was born in Umerkot. Thatta is related to Mirza Isa Khan Tarkhan."
+      },
+      {
+       "q": "Three qualities of Dr Adeeb Rizvi are:",
+       "options": [
+        "Kindness, honesty and hard work",
+        "Pride, anger and haste",
+        "Silence, rest and ease",
+        "Wealth, fame and power"
+       ],
+       "answer": 0,
+       "why": "Dr Adeeb Rizvi is kind-hearted, honest — he spends every rupee of the hospital on the patients — and hardworking, seeing patients every day even at an old age."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
