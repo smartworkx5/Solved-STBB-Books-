@@ -1,0 +1,3535 @@
+{
+ "book": "science-5-en",
+ "chapters": [
+  {
+   "lessons": [
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "Dividing living things into groups by similar characteristics",
+        "Giving a new name to every animal",
+        "Keeping living things in cages",
+        "Counting living things in a forest"
+       ],
+       "q": "What does classification mean?",
+       "why": "Classification means dividing living things into groups on the basis of their similar characteristics."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Plants grow very fast",
+        "It is difficult to remember every living thing separately",
+        "Animals keep moving from place to place",
+        "Living things keep changing colour"
+       ],
+       "q": "Why is it difficult to study living things without classification?",
+       "why": "There are millions of kinds of living things, so remembering every living thing separately is very difficult."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Hidden from view",
+        "Fed more easily",
+        "Identified and understood easily",
+        "Sold in markets"
+       ],
+       "q": "Scientists classify living things so that they can be what?",
+       "why": "Scientists classify living things so that millions of kinds can be identified and understood easily."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Only on their size",
+        "Only on their colour",
+        "Only on the place they are found",
+        "On their similar characteristics"
+       ],
+       "q": "On what basis are living things placed into groups?",
+       "why": "Living things are grouped on the basis of their similar characteristics, as the solved answer explains."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Its characteristics and its relation with other living things",
+        "Only the price of the living thing",
+        "Only the age of the living thing",
+        "The name of the person who found it"
+       ],
+       "q": "What does classification make clear about a living thing?",
+       "why": "Classification makes the characteristics of each living thing and its relation with other living things clear."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Only a few kinds",
+        "Only ten kinds",
+        "Millions of kinds",
+        "Only one hundred kinds"
+       ],
+       "q": "How many kinds of living things do scientists need to identify and understand?",
+       "why": "Scientists classify because there are millions of kinds of living things to identify and understand."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Germination",
+        "Classification",
+        "Digestion",
+        "Pollution"
+       ],
+       "q": "Dividing living things into groups by similar characteristics is called what?",
+       "why": "This grouping of living things by similar characteristics is called classification."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Very easy",
+        "Not needed at all",
+        "Fun and simple",
+        "Very difficult"
+       ],
+       "q": "If every living thing had to be remembered separately, the work would be what?",
+       "why": "Remembering every living thing separately would be very difficult, so scientists use classification."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Each living thing and how it relates to others",
+        "Only animals kept in a zoo",
+        "Only plants grown in a garden",
+        "Only fish living in water"
+       ],
+       "q": "Classification helps us understand which of these best?",
+       "why": "Classification helps us understand each living thing and its relation with other living things."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Outward size alone",
+        "Similar characteristics",
+        "The place where it is sold",
+        "The name of its finder"
+       ],
+       "q": "Which is the correct basis for making a group of living things?",
+       "why": "Groups are made on the basis of similar characteristics shared by the living things in the group."
+      }
+     ],
+     "notes_html": "<h4>What Is Classification?</h4><p><b class=\"key\">Classification</b> means dividing living things into groups on the basis of their <b class=\"key\">similar characteristics</b>. Living things that share similar characteristics are placed in the same group.</p><h4>Why Do Scientists Classify?</h4><p>There are millions of kinds of living things. It is very difficult to remember every living thing separately. Scientists classify living things so that they can be <b class=\"key\">identified</b> and <b class=\"key\">understood</b> easily. Classification also makes the characteristics of each living thing and its relation with other living things clear.</p><h4>Key Points</h4><ul><li>Classification groups living things by similar characteristics.</li><li>There are millions of kinds of living things.</li><li>Classification makes living things easy to identify and understand.</li><li>It shows how living things are related to each other.</li></ul>",
+     "title": "Classification and Its Purpose"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 1,
+       "options": [
+        "Invertebrates",
+        "Vertebrates",
+        "Carnivores",
+        "Herbivores"
+       ],
+       "q": "Animals which have a backbone in their body are called what?",
+       "why": "Animals with a backbone in their body are called vertebrates, such as fish, frog and snake."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Vertebrates",
+        "Mammals",
+        "Invertebrates",
+        "Birds"
+       ],
+       "q": "Animals which do not have a backbone are called what?",
+       "why": "Animals without a backbone are called invertebrates, such as insects, prawn and earthworm."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Butterfly",
+        "Earthworm",
+        "Prawn",
+        "Fish"
+       ],
+       "q": "Which of these animals is a vertebrate?",
+       "why": "A fish has a backbone, so it is a vertebrate, while the other choices do not have a backbone."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Earthworm and butterfly",
+        "Frog and lizard",
+        "Snake and sparrow",
+        "Gold fish and frog"
+       ],
+       "q": "Which pair of animals are both invertebrates?",
+       "why": "Earthworm and butterfly do not have a backbone, so both of them are invertebrates."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Vertebrates are far more in number",
+        "Invertebrates are much greater in number",
+        "Both groups are exactly equal in number",
+        "There are no invertebrates in the world"
+       ],
+       "q": "Which statement about numbers is correct?",
+       "why": "The number of invertebrates in the world is much greater than that of vertebrates."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Fish",
+        "Reptiles",
+        "Mammals",
+        "Insects"
+       ],
+       "q": "A whale and a bat are both placed in which group?",
+       "why": "The whale and the bat share mammal characteristics, so both are placed in the group of mammals."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "It cannot swim at all",
+        "It eats only plants",
+        "It has no tail",
+        "It breathes air, feeds its babies milk and has warm blood"
+       ],
+       "q": "Why is a whale not a fish?",
+       "why": "A whale breathes air, feeds its babies with milk and has warm blood, so it is not a fish."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "They feed babies with milk and have warm blood",
+        "They live only in deep water",
+        "They do not have a backbone",
+        "They eat only grass and plants"
+       ],
+       "q": "Which characteristics do a whale and a bat share?",
+       "why": "Both the whale and the bat feed their babies with milk and have warm blood, like other mammals."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Octopus",
+        "Snake",
+        "Earthworm",
+        "Butterfly"
+       ],
+       "q": "Which of these animals from the list is a vertebrate?",
+       "why": "A snake has a backbone, so in the given list it is identified as a vertebrate."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Sparrow",
+        "Gold fish",
+        "Octopus",
+        "Lizard"
+       ],
+       "q": "Which of these animals from the list is an invertebrate?",
+       "why": "An octopus does not have a backbone, so in the given list it is identified as an invertebrate."
+      }
+     ],
+     "notes_html": "<h4>Animals With and Without a Backbone</h4><p>Animals which have a <b class=\"key\">backbone</b> in their body are called <b class=\"key\">vertebrates</b>. Examples are fish, frog, snake, pigeon and cat. Animals which do not have a backbone are called <b class=\"key\">invertebrates</b>. Examples are insects, prawn, butterfly and earthworm.</p><h4>Identifying Animals and the Whale</h4><ul><li>Vertebrates: snake, sparrow, gold fish, frog and lizard.</li><li>Invertebrates: octopus, earthworm and butterfly.</li><li>The number of invertebrates in the world is much greater than that of vertebrates.</li></ul><p>A whale looks like a fish but it is not a fish. It comes to the surface of water to breathe air, feeds its babies with milk and has warm blood. A bat has the same characteristics, so both are placed with the <b class=\"key\">mammals</b>. Classification is based on real characteristics, not outward appearance.</p><h4>Key Points</h4><ul><li>Vertebrates have a backbone.</li><li>Invertebrates do not have a backbone.</li><li>Invertebrates are more in number than vertebrates.</li><li>A whale and a bat are both mammals.</li></ul>",
+     "title": "Vertebrates and Invertebrates"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 1,
+       "options": [
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Producers"
+       ],
+       "q": "Animals that eat the flesh of other animals are called what?",
+       "why": "Carnivores are meat eaters that eat the flesh of other animals, such as the eagle and the lion."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Cow",
+        "Goat",
+        "Eagle",
+        "Sparrow"
+       ],
+       "q": "Which animal is a carnivore?",
+       "why": "An eagle eats the flesh of other animals, so it is classified as a carnivore."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Carnivore",
+        "Omnivore",
+        "Insect eater only",
+        "Herbivore"
+       ],
+       "q": "A cow is placed in which group by its eating habit?",
+       "why": "A cow eats grass and plants, so it is a herbivore, which means a plant eater."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Goat",
+        "Lion",
+        "Wall lizard",
+        "Eagle"
+       ],
+       "q": "Which animal is a herbivore?",
+       "why": "A goat eats grass and plants, so it is a herbivore, which means a plant eater."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Plant eaters"
+       ],
+       "q": "A lion belongs to which eating group?",
+       "why": "A lion eats the flesh of other animals, so it belongs to the carnivores, the meat eaters."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "A herbivore",
+        "An omnivore",
+        "A carnivore",
+        "A plant eater"
+       ],
+       "q": "A wall lizard is classified as what?",
+       "why": "The wall lizard eats the flesh of other animals, so it is placed with the carnivores."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Only the flesh of big animals",
+        "Only grass and leaves",
+        "Only water plants",
+        "Seeds and plants as well as small insects"
+       ],
+       "q": "What do crow and sparrow eat?",
+       "why": "Crow and sparrow eat seeds and plants as well as small insects, so they eat both kinds of food."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Omnivores",
+        "Carnivores",
+        "Herbivores",
+        "Meat eaters only"
+       ],
+       "q": "Crow and sparrow are placed in which group?",
+       "why": "Crow and sparrow eat both plant food and small insects, so they are omnivores."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Only meat",
+        "Both plant food and other animals",
+        "Only grass",
+        "Only seeds"
+       ],
+       "q": "Omnivores are animals that eat what?",
+       "why": "Omnivores eat both, taking plant food such as seeds and also small insects and other animals."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Big and small animals",
+        "Water and land animals",
+        "Vertebrates and invertebrates",
+        "Wild and pet animals"
+       ],
+       "q": "In the flash card activity, animals are first divided into which two groups?",
+       "why": "The flash cards are first divided into vertebrates and invertebrates, then by eating habits."
+      }
+     ],
+     "notes_html": "<h4>Groups by Eating Habits</h4><p>Animals can also be classified by what they eat. <b class=\"key\">Carnivores</b> are meat eaters that eat the flesh of other animals. <b class=\"key\">Herbivores</b> are plant eaters that eat grass and plants. <b class=\"key\">Omnivores</b> eat both plants and small animals.</p><h4>Examples and Flash Cards</h4><ul><li>Carnivores: eagle, lion and wall lizard.</li><li>Herbivores: cow and goat.</li><li>Omnivores: crow and sparrow, which eat seeds and plants as well as small insects.</li></ul><p>In the <b class=\"key\">flash card</b> activity, cards of twenty animals are first divided into vertebrates and invertebrates, and then into plant eaters, meat eaters or both eaters.</p><h4>Key Points</h4><ul><li>Carnivores eat the flesh of other animals.</li><li>Herbivores eat grass and plants.</li><li>Omnivores eat both plants and small insects.</li><li>Eagle, lion and wall lizard are carnivores.</li></ul>",
+     "title": "Classification by Eating Habits"
+    }
+   ],
+   "title": "Classification of Living Things"
+  },
+  {
+   "lessons": [
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "Very tiny living things that cannot be seen with the naked eye",
+        "Big animals living in forests",
+        "Plants that grow in water only",
+        "Stones found in soil"
+       ],
+       "q": "What are microorganisms?",
+       "why": "Microorganisms are very tiny living things which cannot be seen with the naked eye."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "A telescope",
+        "A microscope",
+        "A camera",
+        "A magnifying mirror"
+       ],
+       "q": "Microorganisms can be seen only with which instrument?",
+       "why": "Microorganisms are too tiny for the naked eye and can be seen only with a microscope."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Two types",
+        "Three types",
+        "Five types",
+        "Ten types"
+       ],
+       "q": "How many main types of microorganisms are there?",
+       "why": "The main types of microorganisms are five: bacteria, virus, fungi, algae and protozoa."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Earthworm",
+        "Butterfly",
+        "Snail",
+        "Bacteria"
+       ],
+       "q": "Which of these is one of the five types of microorganisms?",
+       "why": "Bacteria are one of the five main types of microorganisms named in the solved answer."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Virus, fungi, algae and protozoa",
+        "Fish, frog, snake and cat",
+        "Ant, prawn, crab and spider",
+        "Cow, goat, crow and lion"
+       ],
+       "q": "Which set lists only types of microorganisms?",
+       "why": "Virus, fungi, algae and protozoa are all among the five main types of microorganisms."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Only inside a laboratory",
+        "Everywhere, in air, water, soil and on our body",
+        "Only in deep sea water",
+        "Only on dead plants"
+       ],
+       "q": "Where can microorganisms be found?",
+       "why": "Microorganisms can be found everywhere, in air, water, soil and inside and outside our body."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "They are the biggest in size",
+        "They never die at all",
+        "They multiply very fast",
+        "They can be seen easily"
+       ],
+       "q": "Why do microorganisms form the largest number of living things on earth?",
+       "why": "Microorganisms multiply very fast, so their total number becomes greater than other living things."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Only two",
+        "Only ten",
+        "Only one hundred",
+        "Millions"
+       ],
+       "q": "In a short time, one microorganism can become what?",
+       "why": "One microorganism can become millions in a short time because microorganisms multiply very fast."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Every drop of water and every handful of soil",
+        "Only in clean drinking water",
+        "Only in dry sand",
+        "Only in frozen ice"
+       ],
+       "q": "Microorganisms are present in which of these?",
+       "why": "Microorganisms are present in every drop of water and in every handful of soil."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "They have no colour at all",
+        "They are very tiny living things",
+        "They live only at night",
+        "They always stay underground"
+       ],
+       "q": "Why can we not see microorganisms with our eyes?",
+       "why": "Microorganisms are very tiny living things, so they cannot be seen with the naked eye."
+      }
+     ],
+     "notes_html": "<h4>Tiny Living Things</h4><p><b class=\"key\">Microorganisms</b> are very tiny living things which cannot be seen with the naked eye. They can be seen only with a <b class=\"key\">microscope</b>. Their main types are five: <b class=\"key\">bacteria</b>, virus, fungi, algae and protozoa.</p><h4>Found Everywhere and Largest in Number</h4><p>Microorganisms can be found everywhere, in air, water, soil and inside and outside our body. They are present in every drop of water and every handful of soil. They <b class=\"key\">multiply</b> very fast, and one of them can become millions in a short time. That is why they are the largest number of living things on earth.</p><h4>Key Points</h4><ul><li>Microorganisms cannot be seen with the naked eye.</li><li>They are seen only with a microscope.</li><li>Their five types are bacteria, virus, fungi, algae and protozoa.</li><li>They multiply fast and are largest in number on earth.</li></ul>",
+     "title": "What Are Microorganisms?"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "Common cold and flu",
+        "Cholera and typhoid",
+        "Malaria and ringworm",
+        "Wheat rust and smut of maize"
+       ],
+       "q": "Which pair of diseases spreads through air?",
+       "why": "Common cold and flu are the diseases named in the solved answer as spreading through air."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "By shaking hands only",
+        "By coughing and sneezing",
+        "By drinking water",
+        "By mosquito bite"
+       ],
+       "q": "How do air diseases spread from a sick person?",
+       "why": "Common cold and flu spread in the air by the coughing and sneezing of a sick person."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Common cold and flu",
+        "Athlete's foot and ringworm",
+        "Cholera and typhoid",
+        "Malaria and wheat rust"
+       ],
+       "q": "Which pair of diseases is caused by drinking polluted water?",
+       "why": "Cholera and typhoid spread through water and are caused by drinking polluted water."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Athlete's foot and ringworm",
+        "Cholera and typhoid",
+        "Common cold and flu",
+        "Wheat rust and smut of maize"
+       ],
+       "q": "Which pair are fungal diseases of plants?",
+       "why": "Wheat rust and smut of maize are fungal diseases of plants, as sorted in the solved answer."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Athlete's foot and ringworm",
+        "Wheat rust and smut of maize",
+        "Cholera and typhoid",
+        "Flu and common cold"
+       ],
+       "q": "Which pair are fungal diseases of human beings?",
+       "why": "Athlete's foot and ringworm are fungal diseases of human beings, as sorted in the solved answer."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Virus",
+        "Bacteria",
+        "Protozoa",
+        "Fungus"
+       ],
+       "q": "Which microorganism is present in yogurt?",
+       "why": "Yogurt contains bacteria, which change milk into yogurt and are useful to us."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Bacteria",
+        "Fungus",
+        "Virus",
+        "Algae"
+       ],
+       "q": "Common cold is caused by which microorganism?",
+       "why": "The solved answer states that the common cold is caused by a virus."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Bacteria in polluted water",
+        "A fungus on the skin",
+        "A virus in the air",
+        "Protozoa called plasmodium, spread by mosquito bite"
+       ],
+       "q": "Malaria is caused by which microorganism?",
+       "why": "Malaria is caused by a protozoa called plasmodium, which spreads by mosquito bite."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "A mosquito is not a microorganism",
+        "A mosquito is a type of bacteria",
+        "A mosquito is a type of fungus",
+        "A mosquito is a protozoa"
+       ],
+       "q": "Which statement about a mosquito is correct?",
+       "why": "A mosquito is not a microorganism, although its bite can spread the protozoa that cause malaria."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Clean drinking water",
+        "Unhygienic conditions",
+        "Keeping cleanliness",
+        "Using a microscope"
+       ],
+       "q": "What helps diseases to spread, according to the solved answers?",
+       "why": "Unhygienic conditions spread diseases, so clean water and cleanliness are necessary to stay safe."
+      }
+     ],
+     "notes_html": "<h4>Diseases Through Air and Water</h4><p>Diseases which spread through air are <b class=\"key\">common cold</b> and <b class=\"key\">flu</b>. They spread in the air by the coughing and sneezing of a sick person. Diseases which spread through water are <b class=\"key\">cholera</b> and <b class=\"key\">typhoid</b>, caused by drinking polluted water. Drinking clean water and keeping cleanliness is necessary to stay safe.</p><h4>Fungal Diseases and Causes</h4><ul><li>Plant fungal diseases: wheat rust damages the wheat crop, and smut of maize makes black patches on the maize plant.</li><li>Human fungal diseases: athlete's foot causes itching and cracking between the toes, and ringworm makes round red patches on the skin.</li><li>Yogurt contains bacteria, common cold is caused by a virus, malaria is caused by protozoa called plasmodium through a mosquito bite, and athlete's foot is caused by a fungus.</li></ul><p>A mosquito is not a microorganism. <b class=\"key\">Unhygienic conditions</b> spread diseases, so cleanliness helps to stop them.</p><h4>Key Points</h4><ul><li>Common cold and flu spread through air.</li><li>Cholera and typhoid spread through polluted water.</li><li>Wheat rust and smut of maize are plant fungal diseases.</li><li>Athlete's foot and ringworm are human fungal diseases.</li><li>Unhygienic conditions spread diseases.</li></ul>",
+     "title": "Microorganisms and Disease"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 1,
+       "options": [
+        "Living healthy plants only",
+        "Dead plants, animals and waste",
+        "Stones and metals",
+        "Glass and plastic only"
+       ],
+       "q": "What do helpful microorganisms decompose?",
+       "why": "Helpful microorganisms decompose dead plants, animals and waste, which keeps the environment clean."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Polluted water",
+        "Harmful gases only",
+        "Food called nutrients",
+        "Sand and stones"
+       ],
+       "q": "What does decomposition return to the soil?",
+       "why": "When microorganisms decompose dead matter, food called nutrients is returned to the soil."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "By making more waste",
+        "By hiding all the waste",
+        "By burning dead plants",
+        "By decomposing dead plants, animals and waste"
+       ],
+       "q": "How do microorganisms keep the environment clean?",
+       "why": "Microorganisms keep the environment clean by decomposing dead plants, animals and waste."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Make the soil fertile",
+        "Make the soil dry forever",
+        "Remove all nutrients from soil",
+        "Turn soil into stone"
+       ],
+       "q": "What do some bacteria do for the soil?",
+       "why": "Some bacteria make the soil fertile, which is one way microorganisms help us in the environment."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Rice only",
+        "Yogurt",
+        "Sugar only",
+        "Salt"
+       ],
+       "q": "Microorganisms are used in making which food?",
+       "why": "Some microorganisms are used in making our foods, such as yogurt and bread."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Soup",
+        "Salad",
+        "Bread",
+        "Jam"
+       ],
+       "q": "Besides yogurt, microorganisms are used in making which food?",
+       "why": "The solved answer names yogurt and bread as foods made with the help of microorganisms."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "All microorganisms are harmful",
+        "No microorganism is useful",
+        "Microorganisms help only in disease",
+        "Not all microorganisms are harmful"
+       ],
+       "q": "Which statement is correct about microorganisms?",
+       "why": "Not all microorganisms are harmful, because many of them help the environment and help make food."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "They decompose dead plants, animals and waste",
+        "They spread diseases in water",
+        "They make the air polluted",
+        "They damage wheat crops"
+       ],
+       "q": "Why are many microorganisms called friends of the environment?",
+       "why": "Many microorganisms are friends of the environment because they decompose dead matter and clean it."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "They spoil the milk at once",
+        "They change milk into yogurt",
+        "They turn yogurt into water",
+        "They make milk disappear"
+       ],
+       "q": "What do the bacteria in yogurt do?",
+       "why": "Yogurt contains bacteria which change milk into yogurt, and these bacteria are useful."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Into the air only",
+        "Into deep wells only",
+        "Back into the soil",
+        "They are lost forever"
+       ],
+       "q": "After dead plants and animals are decomposed, the nutrients go where?",
+       "why": "Decomposition returns food, called nutrients, to the soil, so the nutrients go back into the soil."
+      }
+     ],
+     "notes_html": "<h4>Friends of the Environment</h4><p>Many microorganisms are <b class=\"key\">friends of the environment</b>. They <b class=\"key\">decompose</b> dead plants, animals and waste. This keeps the environment clean and returns food, called nutrients, to the soil.</p><h4>Help in Soil and Food</h4><p>Some <b class=\"key\">bacteria</b> make the soil fertile. Some microorganisms are used in making our foods, such as <b class=\"key\">yogurt</b> and bread. Bacteria in yogurt change milk into yogurt and are useful. So not all microorganisms are harmful.</p><h4>Key Points</h4><ul><li>Microorganisms decompose dead plants, animals and waste.</li><li>Decomposition returns nutrients to the soil.</li><li>Some bacteria make the soil fertile.</li><li>Microorganisms are used in making yogurt and bread.</li><li>Not all microorganisms are harmful.</li></ul>",
+     "title": "Helpful Microorganisms"
+    }
+   ],
+   "title": "Microorganisms"
+  },
+  {
+   "title": "Seeds: Their Structure and Germination",
+   "lessons": [
+    {
+     "title": "Parts of a Seed",
+     "notes_html": "<h4>Three Main Parts</h4><p>A seed has three main parts. The <b class=\"key\">seed coat</b> covers the seed from outside and protects it. The <b class=\"key\">cotyledons</b> are inside the seed and food is stored in them. The <b class=\"key\">embryo</b> is the tiny young plant inside the seed.</p><h4>Work of Each Part</h4><p>Food stored in the cotyledons feeds the new plant at the time of germination. Maize and wheat have one cotyledon, while bean and gram have two cotyledons. The upper part of the embryo is called the <b class=\"key\">plumule</b> and it makes the shoot and leaves. The lower part is called the <b class=\"key\">radicle</b> and it makes the root.</p><h4>Key Points</h4><ul><li>Seed coat covers and protects the seed.</li><li>Cotyledons store food for germination.</li><li>Embryo is the tiny young plant.</li><li>Plumule makes shoot and leaves.</li><li>Radicle makes the root.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is the outer covering of a seed called?",
+       "options": [
+        "Embryo",
+        "Seed coat",
+        "Plumule",
+        "Cotyledon"
+       ],
+       "answer": 1,
+       "why": "The seed coat covers the seed from outside and protects it, as described in the solved answer."
+      },
+      {
+       "q": "What is stored inside the cotyledons?",
+       "options": [
+        "Water",
+        "Air",
+        "Food",
+        "Soil"
+       ],
+       "answer": 2,
+       "why": "Food is stored inside the cotyledons, which feeds the new plant at the time of germination."
+      },
+      {
+       "q": "Which part of the seed is the tiny young plant?",
+       "options": [
+        "Embryo",
+        "Seed coat",
+        "Radicle",
+        "Plumule"
+       ],
+       "answer": 0,
+       "why": "The embryo is the tiny young plant inside the seed, with plumule above and radicle below."
+      },
+      {
+       "q": "How many cotyledons does maize have?",
+       "options": [
+        "Two",
+        "Three",
+        "None",
+        "One"
+       ],
+       "answer": 3,
+       "why": "Maize has one cotyledon, and wheat also has one cotyledon, according to the solved answer."
+      },
+      {
+       "q": "How many cotyledons does bean have?",
+       "options": [
+        "One",
+        "Two",
+        "Four",
+        "None"
+       ],
+       "answer": 1,
+       "why": "Bean has two cotyledons, and gram also has two cotyledons, as stated in the solved answer."
+      },
+      {
+       "q": "What does the plumule make?",
+       "options": [
+        "Root only",
+        "Seed coat",
+        "Shoot and leaves",
+        "Food store"
+       ],
+       "answer": 2,
+       "why": "The plumule is the upper part of the embryo and it makes the shoot and leaves of the plant."
+      },
+      {
+       "q": "What does the radicle make?",
+       "options": [
+        "Root",
+        "Leaves",
+        "Flower",
+        "Fruit"
+       ],
+       "answer": 0,
+       "why": "The radicle is the lower part of the embryo and it makes the root of the new plant."
+      },
+      {
+       "q": "When does the stored food in cotyledons feed the new plant?",
+       "options": [
+        "At flowering time",
+        "At fruit time",
+        "At harvesting time",
+        "At germination time"
+       ],
+       "answer": 3,
+       "why": "The food in the cotyledons feeds the new plant at the time of germination, when it starts growing."
+      },
+      {
+       "q": "Which of these seeds has one cotyledon?",
+       "options": [
+        "Bean",
+        "Wheat",
+        "Gram",
+        "Pea"
+       ],
+       "answer": 1,
+       "why": "Wheat has one cotyledon, like maize, while bean and gram have two cotyledons each."
+      },
+      {
+       "q": "What is the main work of the seed coat?",
+       "options": [
+        "Storing food",
+        "Making leaves",
+        "Protecting the seed",
+        "Making the root"
+       ],
+       "answer": 2,
+       "why": "The seed coat covers the seed from outside and its main work is to protect the seed inside."
+      }
+     ]
+    },
+    {
+     "title": "Germination and Its Conditions",
+     "notes_html": "<h4>What Germination Needs</h4><p><b class=\"key\">Germination</b> is the start of growth of a seed. Three things are necessary for germination: <b class=\"key\">water</b>, <b class=\"key\">air</b> and <b class=\"key\">suitable warmth</b>. Germination stops if any one of these conditions is missing.</p><h4>Work of Water, Air and Warmth</h4><p>Water makes the seed soft and the young plant inside starts growing. Air means oxygen, which is needed by the seed for breathing and getting energy. A seed germinates quickly in suitable warmth. In too much cold or too much heat, it cannot germinate.</p><h4>Steps of Germination</h4><ul><li>The seed absorbs water and becomes soft.</li><li>The seed coat breaks.</li><li>The root comes out downwards.</li><li>The shoot and leaves come out upwards.</li></ul><h4>Key Points</h4><ul><li>Water, air and suitable warmth are all needed.</li><li>Water softens the seed so growth can start.</li><li>Oxygen in air gives energy for breathing.</li><li>Root grows downwards and shoot grows upwards.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many conditions are necessary for germination?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "Three things are necessary for germination: water, air and suitable warmth, as the solved answer states."
+      },
+      {
+       "q": "What does water do to a seed during germination?",
+       "options": [
+        "It hardens the seed",
+        "It dries the seed",
+        "It makes the seed soft",
+        "It colours the seed"
+       ],
+       "answer": 2,
+       "why": "Water makes the seed soft and then the young plant inside the seed starts growing."
+      },
+      {
+       "q": "Why does a seed need air during germination?",
+       "options": [
+        "For breathing and getting energy",
+        "For making leaves green",
+        "For attracting insects",
+        "For storing food"
+       ],
+       "answer": 0,
+       "why": "Air contains oxygen, which the seed needs for breathing and for getting energy to grow."
+      },
+      {
+       "q": "What happens if one germination condition is missing?",
+       "options": [
+        "Germination becomes faster",
+        "Germination stops",
+        "Seed makes flowers",
+        "Seed becomes bigger"
+       ],
+       "answer": 1,
+       "why": "Germination stops if any one of water, air or suitable warmth is missing, so all three are needed."
+      },
+      {
+       "q": "In which condition does a seed germinate quickly?",
+       "options": [
+        "Too much cold",
+        "Too much heat",
+        "No warmth at all",
+        "Suitable warmth"
+       ],
+       "answer": 3,
+       "why": "A seed germinates quickly in suitable warmth, while too much cold or too much heat stops it."
+      },
+      {
+       "q": "What is the first step in the germination of a seed?",
+       "options": [
+        "Shoot comes out",
+        "Seed absorbs water and becomes soft",
+        "Leaves open fully",
+        "Flower is formed"
+       ],
+       "answer": 1,
+       "why": "First the seed absorbs water and becomes soft, before the seed coat breaks and growth begins."
+      },
+      {
+       "q": "What happens after the seed becomes soft?",
+       "options": [
+        "The seed coat breaks",
+        "The seed dries up",
+        "The seed flies away",
+        "The seed rots at once"
+       ],
+       "answer": 0,
+       "why": "After absorbing water and becoming soft, the seed coat breaks so the root and shoot can come out."
+      },
+      {
+       "q": "In which direction does the root come out?",
+       "options": [
+        "Upwards",
+        "Sideways only",
+        "Downwards",
+        "In a circle"
+       ],
+       "answer": 2,
+       "why": "During germination the root comes out downwards, while the shoot and leaves come out upwards."
+      },
+      {
+       "q": "In which direction do the shoot and leaves come out?",
+       "options": [
+        "Downwards",
+        "Upwards",
+        "Under the soil only",
+        "Towards water only"
+       ],
+       "answer": 1,
+       "why": "The shoot and leaves come out upwards, opposite to the root which grows downwards into the soil."
+      },
+      {
+       "q": "Which gas in air is needed by the seed?",
+       "options": [
+        "Carbon dioxide",
+        "Smoke",
+        "Dust",
+        "Oxygen"
+       ],
+       "answer": 3,
+       "why": "Oxygen in the air is needed by the seed for breathing and getting energy during germination."
+      }
+     ]
+    },
+    {
+     "title": "Kinds of Seeds",
+     "notes_html": "<h4>Seeds Without Flowers</h4><p>Most plants, such as mango and rose, make seeds from flowers. Pine and fir do not make flowers. Their seeds are formed in <b class=\"key\">cones</b>, so they are called <b class=\"key\">cone-bearing plants</b>. Moss is different again and makes <b class=\"key\">spores</b> instead of seeds.</p><h4>Three Seeds to Know</h4><ul><li><b class=\"key\">Cotton seed</b> is small and has light hair or fibres on it, which fly in air and spread the seed far and wide.</li><li><b class=\"key\">Bean seed</b> is a big seed with two cotyledons, so it is a dicot, and food is stored inside it.</li><li><b class=\"key\">Wheat seed</b> has one cotyledon, so it is a monocot, and it is our important food.</li></ul><p>Seeds of different plants are different in shape and structure.</p><h4>Key Points</h4><ul><li>Pine and fir make seeds in cones without flowers.</li><li>Moss makes spores.</li><li>Cotton seed fibres fly in air and spread the seed.</li><li>Bean is a dicot and wheat is a monocot.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which trees produce seeds without flowers?",
+       "options": [
+        "Mango and rose",
+        "Pine and fir",
+        "Bean and gram",
+        "Wheat and maize"
+       ],
+       "answer": 1,
+       "why": "Pine and fir do not make flowers; their seeds are formed in cones, so they are cone-bearing plants."
+      },
+      {
+       "q": "Where are the seeds of pine formed?",
+       "options": [
+        "In flowers",
+        "In fruits",
+        "In cones",
+        "In roots"
+       ],
+       "answer": 2,
+       "why": "The seeds of pine are formed in cones, which is why pine is called a cone-bearing plant."
+      },
+      {
+       "q": "What does moss produce instead of seeds?",
+       "options": [
+        "Cones",
+        "Spores",
+        "Flowers",
+        "Cotyledons"
+       ],
+       "answer": 1,
+       "why": "Moss matches with spores in the solved matching exercise, not with seeds in cones or flowers."
+      },
+      {
+       "q": "Why does cotton seed spread far and wide?",
+       "options": [
+        "It is very heavy",
+        "It has light fibres that fly in air",
+        "It is eaten by birds",
+        "It floats on water only"
+       ],
+       "answer": 1,
+       "why": "Cotton seed has light hair or fibres on it, which fly in air and spread the seed far and wide."
+      },
+      {
+       "q": "A bean seed is called a dicot because it has what?",
+       "options": [
+        "One cotyledon",
+        "No cotyledon",
+        "Two cotyledons",
+        "Three cotyledons"
+       ],
+       "answer": 2,
+       "why": "Bean is a dicot because it is a big seed with two cotyledons and food stored inside it."
+      },
+      {
+       "q": "Wheat is a monocot because its seed has what?",
+       "options": [
+        "Two cotyledons",
+        "One cotyledon",
+        "No embryo",
+        "Many cones"
+       ],
+       "answer": 1,
+       "why": "Wheat seed has one cotyledon, so it is a monocot, and wheat is also our important food."
+      },
+      {
+       "q": "Which plant makes seeds from flowers?",
+       "options": [
+        "Pine",
+        "Fir",
+        "Moss",
+        "Mango"
+       ],
+       "answer": 3,
+       "why": "Mango makes seeds from flowers, like rose, while pine and fir make seeds in cones without flowers."
+      },
+      {
+       "q": "What is stored inside a bean seed?",
+       "options": [
+        "Water only",
+        "Food",
+        "Air only",
+        "Spores"
+       ],
+       "answer": 1,
+       "why": "Food is stored inside the bean seed in its two cotyledons, to feed the new plant at germination."
+      },
+      {
+       "q": "Cone-bearing plants are those that form seeds in what?",
+       "options": [
+        "Cones",
+        "Pots",
+        "Leaves",
+        "Stems"
+       ],
+       "answer": 0,
+       "why": "Cone-bearing plants form their seeds in cones without flowers, as pine and fir trees do."
+      },
+      {
+       "q": "How are seeds of different plants described in the solved answer?",
+       "options": [
+        "All exactly the same",
+        "Different only in colour",
+        "Different in shape and structure",
+        "Always very small"
+       ],
+       "answer": 2,
+       "why": "Seeds of different plants are different in shape and structure, as cotton, bean and wheat show."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Environmental Pollution",
+   "lessons": [
+    {
+     "title": "Pollution and Pollutants",
+     "notes_html": "<h4>Meaning of Pollution</h4><p>When the air, water or land around us becomes dirty and harmful, it is called <b class=\"key\">pollution</b>. The thing or substance which causes pollution is called a <b class=\"key\">pollutant</b>. Examples of pollutants are smoke, sewage water, chemicals and plastic. Pollution is harmful for human beings, animals and plants alike.</p><h4>Four Types of Pollution</h4><ul><li><b class=\"key\">Air pollution</b></li><li><b class=\"key\">Water pollution</b></li><li><b class=\"key\">Land pollution</b>, also called soil pollution</li><li><b class=\"key\">Noise pollution</b></li></ul><h4>Why Smoke Is Harmful</h4><p>Smoke contains harmful gases and tiny particles of dust. When we breathe air full of smoke, these enter our lungs and cause cough, breathing problems and diseases like asthma. Smoke makes it difficult to see and forms a layer on the leaves of plants, which stops their growth.</p><h4>Key Points</h4><ul><li>Pollution means air, water or land becomes dirty and harmful.</li><li>A pollutant is the substance that causes pollution.</li><li>There are four types: air, water, land and noise.</li><li>Smoke harms lungs and stops plant growth.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is pollution?",
+       "options": [
+        "Clean air and water",
+        "Air, water or land becoming dirty and harmful",
+        "Planting more trees",
+        "Rain falling on land"
+       ],
+       "answer": 1,
+       "why": "When the air, water or land around us becomes dirty and harmful, it is called pollution."
+      },
+      {
+       "q": "What is a pollutant?",
+       "options": [
+        "A clean substance",
+        "A plant that cleans air",
+        "The substance which causes pollution",
+        "A type of clean water"
+       ],
+       "answer": 2,
+       "why": "A pollutant is the thing or substance which causes pollution, such as smoke or chemicals."
+      },
+      {
+       "q": "Which of these is an example of a pollutant?",
+       "options": [
+        "Smoke",
+        "Clean oxygen",
+        "Fresh water",
+        "Sunlight"
+       ],
+       "answer": 0,
+       "why": "Smoke is given as an example of a pollutant, along with sewage water, chemicals and plastic."
+      },
+      {
+       "q": "How many types of pollution are shown in the solved book?",
+       "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+       ],
+       "answer": 3,
+       "why": "Four types are shown: air pollution, water pollution, land or soil pollution and noise pollution."
+      },
+      {
+       "q": "Which of these is a type of pollution?",
+       "options": [
+        "Noise pollution",
+        "Food pollution",
+        "Book pollution",
+        "Light study pollution"
+       ],
+       "answer": 0,
+       "why": "Noise pollution is one of the four types, together with air, water and land pollution."
+      },
+      {
+       "q": "Smoke contains harmful gases and what else?",
+       "options": [
+        "Clean oxygen only",
+        "Tiny particles of dust",
+        "Seeds of plants",
+        "Drops of clean water"
+       ],
+       "answer": 1,
+       "why": "Smoke contains harmful gases and tiny particles of dust that enter our lungs when we breathe."
+      },
+      {
+       "q": "What does smoky air cause in our lungs?",
+       "options": [
+        "Stronger breathing only",
+        "No effect at all",
+        "Cough, breathing problems and asthma",
+        "Better sleep"
+       ],
+       "answer": 2,
+       "why": "Breathing smoky air causes cough, breathing problems and diseases like asthma, as the answer states."
+      },
+      {
+       "q": "How does smoke harm plants?",
+       "options": [
+        "It gives them more food",
+        "It forms a layer on leaves and stops growth",
+        "It makes leaves greener",
+        "It helps roots grow faster"
+       ],
+       "answer": 1,
+       "why": "Smoke forms a layer on the leaves of plants, which stops their growth and harms the plants."
+      },
+      {
+       "q": "Pollution is harmful for whom?",
+       "options": [
+        "Only human beings",
+        "Only animals",
+        "Only plants",
+        "Human beings, animals and plants"
+       ],
+       "answer": 3,
+       "why": "Pollution is harmful for human beings, animals and plants alike, according to the solved answer."
+      },
+      {
+       "q": "Which of these can pollute water as a pollutant?",
+       "options": [
+        "Sewage water",
+        "Clean rain only",
+        "Fresh oxygen",
+        "Tree shade"
+       ],
+       "answer": 0,
+       "why": "Sewage water is listed as a pollutant, along with smoke, chemicals and plastic that dirty our surroundings."
+      }
+     ]
+    },
+    {
+     "title": "Keeping Air and Water Clean",
+     "notes_html": "<h4>Do Not Burn Crop Remains</h4><p>Farmers should not burn the <b class=\"key\">remains of crops</b>. Burning produces a lot of smoke, which pollutes the air and makes people sick. The fire also kills the useful insects and microorganisms of the soil and reduces the <b class=\"key\">fertility</b> of the soil. Instead, the remains should be mixed in the soil so they rot and become <b class=\"key\">natural manure</b>, which is useful for the crop.</p><h4>How Trees Clean the Air</h4><p>Trees absorb <b class=\"key\">carbon dioxide</b> from the air and give out <b class=\"key\">oxygen</b>, which keeps the air clean and fresh. The leaves of trees stop the dust and smoke of the air and give shade and coolness in summer. More trees mean less air pollution, so we should plant more and more trees.</p><h4>Protecting Water</h4><ul><li>Do not throw dirt, garbage and sewage into rivers, canals and wells.</li><li>Factories must not release chemical water into water without cleaning it.</li><li>Do not wash clothes and animals near sources of drinking water.</li><li>Keep cleanliness around hand pumps and wells.</li></ul><h4>Key Points</h4><ul><li>Mix crop remains in soil to make natural manure.</li><li>Burning remains kills useful soil insects and microorganisms.</li><li>Trees absorb carbon dioxide and give out oxygen.</li><li>Keep garbage, sewage and chemical water out of rivers and wells.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Why should farmers not burn the remains of crops?",
+       "options": [
+        "It produces smoke and kills useful soil life",
+        "It makes soil more fertile",
+        "It cleans the air",
+        "It gives more oxygen"
+       ],
+       "answer": 0,
+       "why": "Burning produces a lot of smoke, pollutes air, kills useful insects and microorganisms and reduces fertility."
+      },
+      {
+       "q": "What should farmers do with crop remains instead of burning them?",
+       "options": [
+        "Throw them in a river",
+        "Burn them at night",
+        "Mix them in the soil to become natural manure",
+        "Store them in plastic bags"
+       ],
+       "answer": 2,
+       "why": "Remains should be mixed in the soil so they rot and become natural manure useful for the crop."
+      },
+      {
+       "q": "What does burning crop remains do to soil fertility?",
+       "options": [
+        "It increases fertility greatly",
+        "It reduces the fertility of the soil",
+        "It has no effect on soil",
+        "It makes soil cleaner"
+       ],
+       "answer": 1,
+       "why": "The fire kills useful insects and microorganisms of the soil and reduces the fertility of the soil."
+      },
+      {
+       "q": "What do trees absorb from the air?",
+       "options": [
+        "Oxygen",
+        "Smoke only",
+        "Carbon dioxide",
+        "Dust only"
+       ],
+       "answer": 2,
+       "why": "Trees absorb carbon dioxide from the air and give out oxygen, which keeps the air clean and fresh."
+      },
+      {
+       "q": "What do trees give out that keeps air clean and fresh?",
+       "options": [
+        "Carbon dioxide",
+        "Smoke",
+        "Chemicals",
+        "Oxygen"
+       ],
+       "answer": 3,
+       "why": "Trees give out oxygen, and their leaves also stop dust and smoke and give shade and coolness."
+      },
+      {
+       "q": "How do tree leaves help with air pollution?",
+       "options": [
+        "They make more smoke",
+        "They stop dust and smoke in the air",
+        "They block all sunlight",
+        "They dry up the air"
+       ],
+       "answer": 1,
+       "why": "The leaves of trees stop the dust and smoke of the air, so more trees decrease air pollution."
+      },
+      {
+       "q": "What should not be thrown into rivers, canals and wells?",
+       "options": [
+        "Clean water",
+        "Dirt, garbage and sewage",
+        "Tree leaves for shade",
+        "Stones for banks"
+       ],
+       "answer": 1,
+       "why": "To protect water, dirt, garbage and sewage should not be thrown into rivers, canals and wells."
+      },
+      {
+       "q": "What must factories do with their chemical water?",
+       "options": [
+        "Release it directly in rivers",
+        "Mix it in drinking wells",
+        "Clean it before releasing it into water",
+        "Throw it near hand pumps"
+       ],
+       "answer": 2,
+       "why": "The chemical water of factories should not be released into water without cleaning it first."
+      },
+      {
+       "q": "Where should clothes and animals not be washed?",
+       "options": [
+        "Inside the house",
+        "Near sources of drinking water",
+        "In a separate tub at home",
+        "Far from wells"
+       ],
+       "answer": 1,
+       "why": "Clothes and animals should not be washed near sources of drinking water to keep that water clean."
+      },
+      {
+       "q": "Standing waste water in the street should be stopped because it does what?",
+       "options": [
+        "It cleans the street",
+        "It produces mosquitoes and germs and spreads bad smell",
+        "It helps children play",
+        "It makes the drain stronger"
+       ],
+       "answer": 1,
+       "why": "Waste water in the street produces mosquitoes and germs, spreads bad smell and can make neighbours sick."
+      }
+     ]
+    },
+    {
+     "title": "Germs in Water, Noise Pollution and Trees",
+     "notes_html": "<h4>How Germs Reach Drinking Water</h4><p><b class=\"key\">Germs</b> mix in water along with dirt. If open wells and hand pumps are near a dirty drain, dirty water seeps into the water. Rain water washes dirt into ponds and rivers. Germs also reach water through dirty hands and dirty pots. Drinking such polluted water causes diseases like <b class=\"key\">cholera</b>, <b class=\"key\">typhoid</b> and <b class=\"key\">diarrhoea</b>.</p><h4>Noise Pollution</h4><p>Sources of <b class=\"key\">noise pollution</b> are horns of vehicles, loud sound of loudspeakers, noise of factories and generators, sound of aeroplanes and construction work. Too much noise reduces hearing power and causes headache and lack of sleep. Students cannot concentrate on their studies and people remain irritable and sick.</p><h4>Cutting Trees Harms Animals</h4><p>Trees are the homes of animals and birds and a source of their food. By cutting trees, birds lose their nests and animals lose their shelter. Many animals die due to lack of food or move to other places, and some kinds of animals are finished forever. Cutting trees also increases <b class=\"key\">soil erosion</b> and disturbs the whole <b class=\"key\">food chain</b>.</p><h4>Key Points</h4><ul><li>Germs reach water from dirty drains, rain-washed dirt and dirty hands and pots.</li><li>Polluted water causes cholera, typhoid and diarrhoea.</li><li>Noise harms hearing, sleep and study concentration.</li><li>Cutting trees takes away nests, shelter and food of animals.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How do germs reach water near a dirty drain?",
+       "options": [
+        "Dirty water seeps into wells and hand pumps nearby",
+        "Germs fly in clean air only",
+        "Germs grow in clean pots",
+        "Rain removes all germs"
+       ],
+       "answer": 0,
+       "why": "If wells and hand pumps are near a dirty drain, dirty water seeps in and germs mix with the water."
+      },
+      {
+       "q": "How does rain spread germs into ponds and rivers?",
+       "options": [
+        "Rain cleans all dirt away safely",
+        "Rain washes dirt into ponds and rivers",
+        "Rain kills all germs at once",
+        "Rain stops germs from moving"
+       ],
+       "answer": 1,
+       "why": "Rain water washes dirt into ponds and rivers, and germs mix in water along with that dirt."
+      },
+      {
+       "q": "Germs can also reach drinking water through what?",
+       "options": [
+        "Clean hands and clean pots",
+        "Dirty hands and dirty pots",
+        "Boiled water",
+        "Covered wells only"
+       ],
+       "answer": 1,
+       "why": "Germs reach water through dirty hands and dirty pots, as well as through drains and rain-washed dirt."
+      },
+      {
+       "q": "Which disease can be caused by drinking polluted water?",
+       "options": [
+        "Cholera",
+        "Headache from noise",
+        "Asthma from smoke",
+        "Hearing loss"
+       ],
+       "answer": 0,
+       "why": "Drinking polluted water causes diseases like cholera, typhoid and diarrhoea, according to the answer."
+      },
+      {
+       "q": "Which of these is a source of noise pollution?",
+       "options": [
+        "Tree plantation",
+        "Horns of vehicles",
+        "Clean rivers",
+        "Natural manure"
+       ],
+       "answer": 1,
+       "why": "Horns of vehicles are a source of noise pollution, along with loudspeakers, factories and aeroplanes."
+      },
+      {
+       "q": "Loudspeakers, factories and generators are sources of what?",
+       "options": [
+        "Water pollution only",
+        "Noise pollution",
+        "Land cleaning",
+        "Air cleaning"
+       ],
+       "answer": 1,
+       "why": "Loud sound of loudspeakers and noise of factories and generators are listed as sources of noise pollution."
+      },
+      {
+       "q": "What does too much noise do to hearing?",
+       "options": [
+        "It improves hearing power",
+        "It reduces the hearing power",
+        "It has no effect on ears",
+        "It makes sleep deeper"
+       ],
+       "answer": 1,
+       "why": "Too much noise reduces the hearing power and also causes headache and lack of sleep."
+      },
+      {
+       "q": "Why is noise pollution harmful for students?",
+       "options": [
+        "Students cannot concentrate on their studies",
+        "Students get more marks easily",
+        "Students sleep better in class",
+        "Students hear lessons more clearly"
+       ],
+       "answer": 0,
+       "why": "Students cannot concentrate on their studies because of noise, and people remain irritable and sick."
+      },
+      {
+       "q": "What do birds lose when trees are cut?",
+       "options": [
+        "Their food chain only",
+        "Their nests",
+        "Their ability to fly",
+        "Their feathers"
+       ],
+       "answer": 1,
+       "why": "By cutting trees, birds lose their nests and animals lose their shelter, since trees are their homes."
+      },
+      {
+       "q": "Cutting trees also increases which problem?",
+       "options": [
+        "Soil fertility",
+        "Oxygen in air",
+        "Soil erosion",
+        "Clean water supply"
+       ],
+       "answer": 2,
+       "why": "Cutting trees increases soil erosion and disturbs the whole food chain, besides harming animals and birds."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "lessons": [
+    {
+     "notes_html": "<h4>Three States of Matter</h4><p>Matter is found in three states: <b class=\"key\">solid</b>, <b class=\"key\">liquid</b> and <b class=\"key\">gas</b>. Ice is a solid, water is a liquid and steam is a gas. Each state behaves in its own way because its particles are arranged differently.</p><h4>Particles in Gases</h4><p>In gases, the particles of matter <b class=\"key\">move freely in all directions</b>. In a solid such as ice, the particles stay in fixed positions. When ice gets heat, its particles start moving more, leave their fixed positions and begin to flow.</p><h4>Key Points</h4><ul><li>Matter has three states: solid, liquid and gas.</li><li>Gas particles move freely in all directions.</li><li>On heating, a solid changes to liquid and then to gas.</li><li>The order of change is melting and then evaporation.</li></ul>",
+     "title": "States of Matter and Their Particles",
+     "mcqs": [
+      {
+       "q": "In gases, how do the particles of matter move?",
+       "options": [
+        "They do not move",
+        "They stay close together",
+        "They move in two directions only",
+        "They move freely in all directions"
+       ],
+       "answer": 3,
+       "why": "The solved answers state that in gases the particles move freely in all directions."
+      },
+      {
+       "q": "What is the first change when a solid is heated and changes into a liquid?",
+       "options": [
+        "Freezing",
+        "Evaporation",
+        "Melting",
+        "Condensation"
+       ],
+       "answer": 2,
+       "why": "Melting is the process in which a solid changes into a liquid on heating."
+      },
+      {
+       "q": "What is the correct order when solids change into liquid and then into gas on heating?",
+       "options": [
+        "Melting, evaporation",
+        "Freezing, evaporation",
+        "Evaporation, condensation",
+        "Melting, freezing"
+       ],
+       "answer": 0,
+       "why": "On increasing temperature a solid first melts into a liquid and then evaporates into a gas."
+      },
+      {
+       "q": "When ice gets heat, what do its particles begin to do?",
+       "options": [
+        "Stay fixed forever",
+        "Begin to flow",
+        "Stop moving",
+        "Become colder"
+       ],
+       "answer": 1,
+       "why": "The solved answer says heated ice particles leave their fixed positions and begin to flow."
+      },
+      {
+       "q": "In ice, where are the particles before melting starts?",
+       "options": [
+        "Moving freely everywhere",
+        "Spread far apart",
+        "In fixed positions",
+        "Only on the surface"
+       ],
+       "answer": 2,
+       "why": "Ice particles are in fixed positions and leave them only when they get heat and melt."
+      },
+      {
+       "q": "Water is which state of matter?",
+       "options": [
+        "Solid",
+        "Gas",
+        "Steam",
+        "Liquid"
+       ],
+       "answer": 3,
+       "why": "Water is the liquid state, while ice is solid and steam is the gas form."
+      },
+      {
+       "q": "What happens to a solid on increasing temperature?",
+       "options": [
+        "It changes to liquid and then to gas",
+        "It only freezes",
+        "Nothing changes",
+        "It changes straight to ice"
+       ],
+       "answer": 0,
+       "why": "The chapter states that solids change into liquid and then into gas on increasing temperature."
+      },
+      {
+       "q": "Ice is an example of which state of matter?",
+       "options": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Vapour"
+       ],
+       "answer": 1,
+       "why": "Ice is water in its solid state, formed when water freezes at zero degrees Celsius."
+      },
+      {
+       "q": "A liquid changing into a gas on heating is called what?",
+       "options": [
+        "Melting",
+        "Freezing",
+        "Evaporation",
+        "Cooling"
+       ],
+       "answer": 2,
+       "why": "Evaporation is the change from liquid to gas, the second step after melting on heating."
+      },
+      {
+       "q": "Which of these is a gas behaviour?",
+       "options": [
+        "Particles in fixed positions",
+        "Particles do not move",
+        "Particles flow as ice",
+        "Particles move freely in all directions"
+       ],
+       "answer": 3,
+       "why": "Only gas particles move freely in all directions, as given in the solved MCQs."
+      }
+     ]
+    },
+    {
+     "notes_html": "<h4>Melting and Freezing</h4><p><b class=\"key\">Melting</b> is the process in which a solid changes into a liquid on heating, for example ice changing into water. It happens at a fixed temperature called the <b class=\"key\">melting point</b>. Ice melts at 0°C. <b class=\"key\">Freezing</b> is the opposite process, in which a liquid changes into a solid on cooling. Water freezes into ice at 0°C.</p><h4>What Happens to an Ice Cube</h4><p>An ice cube absorbs heat from the surrounding air and slowly melts into water. Until the ice melts completely, its temperature stays at 0°C, although its mass remains the same. In the cooling curve of ice formation, the flat part parallel to the time axis shows water changing into ice at a constant 0°C. To carry ice home without melting, wrap it in thick cloth, newspaper or sawdust, keep it in a thermos or closed box away from sunlight, and buy one big piece because it melts more slowly.</p><h4>Key Points</h4><ul><li>Melting is solid to liquid on heating at a fixed melting point.</li><li>Ice melts at 0°C and water freezes at 0°C.</li><li>While ice melts, its temperature stays at 0°C.</li><li>Thick cloth, newspaper or a thermos slows down melting.</li><li>One big piece of ice melts more slowly than small pieces.</li></ul>",
+     "title": "Melting and Freezing",
+     "mcqs": [
+      {
+       "q": "What is the melting point of ice?",
+       "options": [
+        "20°C",
+        "0°C",
+        "32°C",
+        "100°C"
+       ],
+       "answer": 1,
+       "why": "The solved MCQ gives the melting point of ice as zero degrees Celsius."
+      },
+      {
+       "q": "At what temperature does water freeze to form ice?",
+       "options": [
+        "100°C",
+        "20°C",
+        "0°C",
+        "37°C"
+       ],
+       "answer": 2,
+       "why": "Water freezes to form ice at zero degrees Celsius, as stated in the chapter."
+      },
+      {
+       "q": "Melting is the change of a solid into what on heating?",
+       "options": [
+        "A liquid",
+        "A gas directly",
+        "Another solid",
+        "Ice"
+       ],
+       "answer": 0,
+       "why": "Melting is defined as a solid changing into a liquid on heating, like ice into water."
+      },
+      {
+       "q": "Freezing is the change of a liquid into what on cooling?",
+       "options": [
+        "A gas",
+        "Steam",
+        "Water vapour",
+        "A solid"
+       ],
+       "answer": 3,
+       "why": "Freezing is the opposite of melting, where a liquid changes into a solid on cooling."
+      },
+      {
+       "q": "What happens to the temperature of an ice cube while it is melting?",
+       "options": [
+        "It rises quickly",
+        "It stays at 0°C",
+        "It falls below 0°C",
+        "It reaches 100°C"
+       ],
+       "answer": 1,
+       "why": "Until ice melts completely its temperature stays at zero degrees Celsius."
+      },
+      {
+       "q": "An ice cube kept outside melts because it does what?",
+       "options": [
+        "Loses heat to air",
+        "Gives cold to air",
+        "Absorbs heat from surrounding air",
+        "Stops its particles"
+       ],
+       "answer": 2,
+       "why": "The ice cube absorbs heat from the surrounding air and slowly melts into water."
+      },
+      {
+       "q": "In the cooling curve, the part parallel to the time axis shows what?",
+       "options": [
+        "Temperature rising fast",
+        "State changing at constant 0°C",
+        "Water boiling",
+        "Ice getting warmer"
+       ],
+       "answer": 1,
+       "why": "That flat part represents water changing into ice while temperature stays the same at 0°C."
+      },
+      {
+       "q": "Which wrapping helps carry ice home without melting?",
+       "options": [
+        "Thin wet cloth",
+        "Thick cloth, newspaper or sawdust",
+        "Open basket in sunlight",
+        "Warm blanket of cotton only"
+       ],
+       "answer": 1,
+       "why": "Thick cloth, newspaper or sawdust do not let heat pass in easily, so ice melts slowly."
+      },
+      {
+       "q": "Why does one big piece of ice melt more slowly than small pieces?",
+       "options": [
+        "It is heavier to carry",
+        "It melts slowly as one big piece",
+        "It is colder than small pieces",
+        "It has no heat in it"
+       ],
+       "answer": 1,
+       "why": "The solved answer says one big piece melts more slowly, so buy ice in one big piece."
+      },
+      {
+       "q": "Where should ice be kept while carrying it home?",
+       "options": [
+        "In sunlight",
+        "In an open tray",
+        "In a thermos or closed box",
+        "Near a fire"
+       ],
+       "answer": 2,
+       "why": "Keeping ice in a thermos or closed box away from sunlight saves it from melting quickly."
+      }
+     ]
+    },
+    {
+     "notes_html": "<h4>Evaporation and Boiling</h4><p><b class=\"key\">Evaporation</b> is the change of a liquid into a gas. When a solid is heated, it first melts into a liquid and then changes into a gas by evaporation. Water boils at <b class=\"key\">100°C</b>.</p><h4>Sublimation and Cooling</h4><p><b class=\"key\">Camphor</b> is an example of <b class=\"key\">sublimation</b>. We feel cooling near an ice-cream cart because melting ice absorbs heat from its surroundings, and salt mixed with the ice keeps the ice cream frozen. An ice lolly melts faster in a warm place and slowly in a cool place, and its temperature stays the same while it is melting.</p><h4>Key Points</h4><ul><li>Evaporation changes a liquid into a gas.</li><li>Water boils at 100°C.</li><li>Camphor is an example of sublimation.</li><li>Melting ice absorbs heat, so the air near an ice-cream cart feels cool.</li><li>An ice lolly melts faster in a warm place.</li></ul>",
+     "title": "Evaporation, Boiling and Sublimation",
+     "mcqs": [
+      {
+       "q": "At what temperature does water boil?",
+       "options": [
+        "0°C",
+        "37°C",
+        "100°C",
+        "20°C"
+       ],
+       "answer": 2,
+       "why": "The solved MCQ states that water boils at one hundred degrees Celsius."
+      },
+      {
+       "q": "Evaporation is the change of a liquid into what?",
+       "options": [
+        "A solid",
+        "A gas",
+        "Ice",
+        "A new liquid"
+       ],
+       "answer": 1,
+       "why": "Evaporation changes a liquid into a gas, after melting in the heating order."
+      },
+      {
+       "q": "Which of the following is an example of sublimation?",
+       "options": [
+        "Water",
+        "Milk",
+        "Juice",
+        "Camphor"
+       ],
+       "answer": 3,
+       "why": "Camphor is given in the solved MCQs as the example of sublimation."
+      },
+      {
+       "q": "Why do we feel cooling around an ice-cream cart?",
+       "options": [
+        "Salt makes cold air",
+        "Melting ice absorbs heat from surroundings",
+        "The cart fan blows air",
+        "Ice cream is sweet"
+       ],
+       "answer": 1,
+       "why": "Melting ice absorbs heat from its surroundings, which makes the air around the cart cool."
+      },
+      {
+       "q": "Why is salt mixed with ice in an ice-cream cart?",
+       "options": [
+        "To make ice melt faster for drinking",
+        "To keep the ice cream frozen",
+        "To sweeten the ice cream",
+        "To colour the ice"
+       ],
+       "answer": 1,
+       "why": "The chapter says salt is mixed in the ice so that the ice cream stays frozen."
+      },
+      {
+       "q": "An ice lolly melts faster in which place?",
+       "options": [
+        "A cool place",
+        "A freezer",
+        "A warm place",
+        "A closed fridge"
+       ],
+       "answer": 2,
+       "why": "Observations show the lolly melts quickly in a warm place and slowly in a cool place."
+      },
+      {
+       "q": "What happens to the temperature of an ice lolly while it is melting?",
+       "options": [
+        "It rises at once",
+        "It stays the same at first",
+        "It falls to minus ten",
+        "It reaches boiling point"
+       ],
+       "answer": 1,
+       "why": "During melting the temperature does not seem to rise at first; only the state changes."
+      },
+      {
+       "q": "An ice lolly kept outside changes back into what?",
+       "options": [
+        "Dry powder",
+        "Sweet liquid",
+        "Hard ice",
+        "Steam only"
+       ],
+       "answer": 1,
+       "why": "Outside the freezer the lolly absorbs heat, melts and changes back into a sweet liquid."
+      },
+      {
+       "q": "How is an ice lolly made in the investigation?",
+       "options": [
+        "Boiling coloured water",
+        "Freezing sweetened coloured water in a mould",
+        "Drying sweet water in sun",
+        "Mixing ice with salt"
+       ],
+       "answer": 1,
+       "why": "Fill sweetened coloured water in a mould and keep it in a freezer until it freezes."
+      },
+      {
+       "q": "After melting, evaporation changes water into what?",
+       "options": [
+        "Ice",
+        "Snow",
+        "Gas",
+        "Solid"
+       ],
+       "answer": 2,
+       "why": "Evaporation is the liquid to gas change, completing the solid to liquid to gas order."
+      }
+     ]
+    }
+   ],
+   "title": "Matter and Changes in Its States"
+  },
+  {
+   "lessons": [
+    {
+     "notes_html": "<h4>What Are Simple Machines</h4><p><b class=\"key\">Lever</b>, <b class=\"key\">inclined plane</b>, <b class=\"key\">pulley</b>, <b class=\"key\">screw</b> and <b class=\"key\">wedge</b> are <b class=\"key\">simple machines</b>. Simple machines make our work easier. A computer is not a simple machine.</p><h4>The Inclined Plane</h4><p>An <b class=\"key\">inclined plane</b> is a sloping surface and it has no moving parts. A box can be slid up a slope on an inclined plane. Winding roads in hilly areas are also an example of an inclined plane.</p><h4>Key Points</h4><ul><li>Lever, inclined plane, pulley, screw and wedge are simple machines.</li><li>A computer is not a simple machine.</li><li>An inclined plane has no moving parts.</li><li>A box is slid up a slope on an inclined plane.</li></ul>",
+     "title": "Simple Machines",
+     "mcqs": [
+      {
+       "q": "Which of the following is NOT a simple machine?",
+       "options": [
+        "Lever",
+        "Inclined plane",
+        "Pulley",
+        "Computer"
+       ],
+       "answer": 3,
+       "why": "Lever, inclined plane and pulley are simple machines, but a computer is not one."
+      },
+      {
+       "q": "Which machine has no moving parts?",
+       "options": [
+        "Screw",
+        "Inclined plane",
+        "Wedge",
+        "Lever"
+       ],
+       "answer": 1,
+       "why": "The solved MCQ says the inclined plane is the machine with no moving parts."
+      },
+      {
+       "q": "Which machine can we use for sliding a box up a slope?",
+       "options": [
+        "Pulley",
+        "Screw",
+        "Inclined plane",
+        "Lever"
+       ],
+       "answer": 2,
+       "why": "A box is slid up a slope on an inclined plane, which makes the work easier."
+      },
+      {
+       "q": "Which of these is a simple machine?",
+       "options": [
+        "Lever",
+        "Television",
+        "Car engine",
+        "Mobile phone"
+       ],
+       "answer": 0,
+       "why": "A lever is listed as a simple machine in the chapter review questions."
+      },
+      {
+       "q": "Winding roads in hilly areas are an example of what?",
+       "options": [
+        "Pulley",
+        "Inclined plane",
+        "Screw",
+        "Wedge"
+       ],
+       "answer": 1,
+       "why": "Winding roads in hilly areas are given as an example of an inclined plane."
+      },
+      {
+       "q": "Which list contains only simple machines?",
+       "options": [
+        "Computer and lever",
+        "Lever, pulley and screw",
+        "Phone, pulley and wedge",
+        "Screw and computer"
+       ],
+       "answer": 1,
+       "why": "Lever, pulley and screw are all simple machines named in the chapter."
+      },
+      {
+       "q": "A wedge is which type of machine?",
+       "options": [
+        "Not a machine",
+        "Electronic machine",
+        "Simple machine",
+        "Complex computer"
+       ],
+       "answer": 2,
+       "why": "The wedge is one of the simple machines along with lever, pulley, screw and inclined plane."
+      },
+      {
+       "q": "Simple machines make our work what?",
+       "options": [
+        "Harder",
+        "Easier",
+        "Slower always",
+        "Impossible"
+       ],
+       "answer": 1,
+       "why": "Simple machines make work easier by getting it done with less force or in an easier way."
+      },
+      {
+       "q": "An inclined plane is best described as what?",
+       "options": [
+        "A sloping surface",
+        "A small grooved wheel",
+        "A rigid bar",
+        "A pointed screw"
+       ],
+       "answer": 0,
+       "why": "An inclined plane is a sloping surface used to move heavy loads up or down."
+      },
+      {
+       "q": "Which machine is used to slide a heavy box upward?",
+       "options": [
+        "Wedge only",
+        "Screw only",
+        "Pulley only",
+        "Inclined plane"
+       ],
+       "answer": 3,
+       "why": "Sliding a box up a slope uses an inclined plane, as given in the solved MCQ."
+      }
+     ]
+    },
+    {
+     "notes_html": "<h4>Parts of a Lever</h4><p>A <b class=\"key\">lever</b> is a rigid bar or plank which can turn around a fixed point and helps in lifting a load. The <b class=\"key\">fulcrum</b> is the fixed point on which the lever rests and turns. The <b class=\"key\">load</b> is the heavy object to be lifted or moved. The <b class=\"key\">effort</b> is the force applied by us to lift the load. So the statement that load is the point where a lever is supported is false; that point is the fulcrum.</p><h4>Three Kinds of Lever</h4><ul><li>First kind: the <b class=\"key\">fulcrum in the middle</b>.</li><li>Second kind: the <b class=\"key\">load in the middle</b>, as in a wheelbarrow and a nail cutter.</li><li>Third kind: the <b class=\"key\">effort in the middle</b>, as in tongs.</li></ul><h4>Key Points</h4><ul><li>A lever turns around a fixed point called the fulcrum.</li><li>Load is the heavy object and effort is the force we apply.</li><li>First kind has the fulcrum in the middle.</li><li>Second kind has the load in the middle, like a wheelbarrow.</li><li>Third kind has the effort in the middle, like tongs.</li></ul>",
+     "title": "The Lever and Its Three Kinds",
+     "mcqs": [
+      {
+       "q": "A lever is best defined as what?",
+       "options": [
+        "A small grooved wheel",
+        "A rigid bar turning around a fixed point",
+        "A sloping surface",
+        "A rope over a wheel"
+       ],
+       "answer": 1,
+       "why": "A lever is a rigid bar or plank which can turn around a fixed point to lift a load."
+      },
+      {
+       "q": "What is the fulcrum of a lever?",
+       "options": [
+        "The heavy object",
+        "The force we apply",
+        "The fixed point it turns on",
+        "The end of the bar"
+       ],
+       "answer": 2,
+       "why": "Fulcrum is the fixed point on which the lever rests and turns."
+      },
+      {
+       "q": "In a lever, what is the load?",
+       "options": [
+        "The heavy object to be lifted or moved",
+        "The fixed support point",
+        "The force applied by us",
+        "The middle of the bar"
+       ],
+       "answer": 0,
+       "why": "Load is defined as the heavy object which is to be lifted or moved."
+      },
+      {
+       "q": "In a lever, what is effort?",
+       "options": [
+        "The fixed point",
+        "The heavy object",
+        "The support",
+        "The force applied by us to lift the load"
+       ],
+       "answer": 3,
+       "why": "Effort is the force applied by us to lift the load, as defined in the chapter."
+      },
+      {
+       "q": "In the first kind of lever, what is in the middle?",
+       "options": [
+        "Load",
+        "Effort",
+        "Fulcrum",
+        "Rope"
+       ],
+       "answer": 2,
+       "why": "In the first kind of lever the fulcrum is in the middle, as shown in the diagram notes."
+      },
+      {
+       "q": "A wheelbarrow is an example of which kind of lever?",
+       "options": [
+        "First kind",
+        "Second kind",
+        "Third kind",
+        "Fourth kind"
+       ],
+       "answer": 1,
+       "why": "A wheelbarrow is given as a second kind lever, where the load is in the middle."
+      },
+      {
+       "q": "In the second kind of lever, what is in the middle?",
+       "options": [
+        "Fulcrum",
+        "Effort",
+        "Load",
+        "Wheel"
+       ],
+       "answer": 2,
+       "why": "Second kind levers have the load in the middle, between fulcrum and effort."
+      },
+      {
+       "q": "A nail cutter is an example of which lever?",
+       "options": [
+        "Second kind lever",
+        "First kind only",
+        "Third kind only",
+        "Not a lever"
+       ],
+       "answer": 0,
+       "why": "A nail cutter is an example of a second kind lever that cuts with less effort."
+      },
+      {
+       "q": "The statement load is the point where a lever is supported is what?",
+       "options": [
+        "True, that is the load",
+        "False, that point is the fulcrum",
+        "True for all levers",
+        "Cannot be known"
+       ],
+       "answer": 1,
+       "why": "That statement is false because the point where a lever is supported is called the fulcrum, not the load."
+      },
+      {
+       "q": "In the third kind of lever, what is in the middle?",
+       "options": [
+        "Fulcrum",
+        "Load",
+        "Effort",
+        "Groove"
+       ],
+       "answer": 2,
+       "why": "In a third kind lever the effort is in the middle of the fulcrum and the load."
+      }
+     ]
+    },
+    {
+     "notes_html": "<h4>The Pulley</h4><p>A <b class=\"key\">pulley</b> is a small wheel with a <b class=\"key\">groove</b> around its rim. A rope passes over it, which makes lifting a load easier and changes the direction of force. A pulley is used to draw water from a well.</p><h4>Inclined Plane and Work</h4><p>An <b class=\"key\">inclined plane</b> helps us push a heavy load up and also take it down safely with less force. Machines make work easier by reducing the force, but they do not reduce the total work done, because the load has to travel a longer distance.</p><h4>Key Points</h4><ul><li>A pulley is a small wheel with a groove and a rope over it.</li><li>A pulley lifts a load and changes the direction of force.</li><li>An inclined plane helps to push a load up and take it down.</li><li>Machines reduce force but do not reduce total work.</li></ul>",
+     "title": "Pulley and Inclined Plane",
+     "mcqs": [
+      {
+       "q": "A pulley is best described as what?",
+       "options": [
+        "A rigid bar",
+        "A sloping surface",
+        "A small wheel with a groove around its rim",
+        "A pointed wedge"
+       ],
+       "answer": 2,
+       "why": "A pulley is a small wheel with a groove around its rim and a rope passes over it."
+      },
+      {
+       "q": "What passes over a pulley in its groove?",
+       "options": [
+        "A rigid bar",
+        "A rope",
+        "A screw",
+        "A wedge"
+       ],
+       "answer": 1,
+       "why": "The definition says a rope passes over the pulley, making lifting easier."
+      },
+      {
+       "q": "A pulley is used to draw water from where?",
+       "options": [
+        "A river",
+        "A tap",
+        "A well",
+        "A tank on roof"
+       ],
+       "answer": 2,
+       "why": "The chapter states a pulley is used to draw water from the well."
+      },
+      {
+       "q": "How does a pulley help besides lifting a load?",
+       "options": [
+        "It reduces total work to zero",
+        "It changes the direction of force",
+        "It makes load disappear",
+        "It stops all friction"
+       ],
+       "answer": 1,
+       "why": "A pulley makes lifting a load and changing the direction of force easier."
+      },
+      {
+       "q": "An inclined plane is helpful for what?",
+       "options": [
+        "Pushing up a heavy load only",
+        "Taking down a heavy load only",
+        "Both pushing up and taking down a heavy load",
+        "Neither up nor down"
+       ],
+       "answer": 2,
+       "why": "The solved answer is both: a heavy load can be pushed up and brought down on a slope."
+      },
+      {
+       "q": "Machines make work easier by doing what?",
+       "options": [
+        "Reducing the force needed",
+        "Reducing total work to nothing",
+        "Making distance shorter always",
+        "Removing the load"
+       ],
+       "answer": 0,
+       "why": "Machines reduce the force needed, but the total work remains the same."
+      },
+      {
+       "q": "Why does total work not reduce when using an inclined plane?",
+       "options": [
+        "The load travels a longer distance",
+        "The load becomes heavier",
+        "More force is needed",
+        "The slope is steep"
+       ],
+       "answer": 0,
+       "why": "Less force is needed but the load travels a longer distance, so total work stays the same."
+      },
+      {
+       "q": "On a sloping surface, a heavy load can be pushed up with what?",
+       "options": [
+        "More force",
+        "Less force",
+        "No hands",
+        "Double force"
+       ],
+       "answer": 1,
+       "why": "On a sloping surface a heavy load can be pushed up with less force and brought down safely."
+      },
+      {
+       "q": "Which machine helps lift water from a well by changing force direction?",
+       "options": [
+        "Inclined plane",
+        "Wedge",
+        "Pulley",
+        "Screw"
+       ],
+       "answer": 2,
+       "why": "A pulley over a well lifts the bucket and changes the direction of the pulling force."
+      },
+      {
+       "q": "What is the correct conclusion about machines and work?",
+       "options": [
+        "Machines reduce total work",
+        "Machines make work easier but do not reduce total work",
+        "Machines increase total work",
+        "Machines do no work"
+       ],
+       "answer": 1,
+       "why": "The activity conclusion is that machines make work easier but do not reduce the amount of work done."
+      }
+     ]
+    }
+   ],
+   "title": "Force and Machines"
+  },
+  {
+   "lessons": [
+    {
+     "mcqs": [
+      {
+       "answer": 1,
+       "options": [
+        "Light from our eyes falls on it",
+        "Light reflects from the object into our eyes",
+        "The object makes its own light in our eyes",
+        "Sound from the object reaches our eyes"
+       ],
+       "q": "How do we see an object?",
+       "why": "Rays from a source of light fall on objects and reflect from them into our eyes, so we can see the objects."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Objects disappear in the dark",
+        "Our eyes stop working at night",
+        "No light reflects from objects into our eyes",
+        "The air becomes thick in the dark"
+       ],
+       "q": "Why is nothing visible in a dark room?",
+       "why": "There is no light in a dark room, so there are no rays to reflect from the objects and no light reaches our eyes."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "They are very small and transparent",
+        "They move too fast to be seen",
+        "They are hidden behind the wall",
+        "They shine too brightly to look at"
+       ],
+       "q": "Why can we not see the particles of air?",
+       "why": "The particles of air are very small and transparent, and light hardly reflects from them, so they cannot be seen."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "The wall makes its own light",
+        "The wall is transparent",
+        "The wall is very small",
+        "A lot of light reflects from the solid wall to our eyes"
+       ],
+       "q": "Why can we see the wall of a room clearly?",
+       "why": "The wall is solid and a lot of light reflects from it to our eyes, so the wall is clearly visible."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "A wall",
+        "The Sun",
+        "A chair",
+        "Clear glass"
+       ],
+       "q": "Which of these is a source of light?",
+       "why": "The Sun is a source of light. Its rays fall on objects and reflect from them into our eyes."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "The objects become visible",
+        "The objects become transparent",
+        "The room becomes darker",
+        "The air particles become visible"
+       ],
+       "q": "What happens as soon as a lamp is lit in a dark room?",
+       "why": "When a lamp is lit, light falls on the objects and reflects into our eyes, so the objects become visible."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Block all the light",
+        "Make their own light",
+        "Allow light to pass through them",
+        "Change light into sound"
+       ],
+       "q": "Transparent materials are materials that:",
+       "why": "Transparent materials allow light to pass through them, and clear glass is an example of such a material."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "A wooden door",
+        "A brick wall",
+        "A metal plate",
+        "Clear glass"
+       ],
+       "q": "Which material is transparent?",
+       "why": "Clear glass is a transparent material because it allows light to pass through it."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "A straight line",
+        "A circle",
+        "A wavy line only",
+        "All directions at random"
+       ],
+       "q": "Light travels in:",
+       "why": "Light travels in a straight line from its source until it falls on an object and reflects."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Darkness",
+        "Light",
+        "Air particles",
+        "A prism"
+       ],
+       "q": "What is necessary for seeing anything?",
+       "why": "Light is necessary for seeing. If there is no light, no rays reflect from objects and we cannot see anything."
+      }
+     ],
+     "notes_html": "<h4>Light Falls on Objects</h4><p>We see a thing when light from a <b class=\"key\">source of light</b>, such as the Sun or a bulb, falls on it. The light then <b class=\"key\">reflects</b> from the object into our eyes. When this reflected light reaches our eyes, we can see the object.</p><h4>Why Some Things Cannot Be Seen</h4><p>In a <b class=\"key\">dark room</b> there is no light, so no rays reflect from the objects and no light reaches our eyes. That is why nothing is visible in the dark. As soon as a lamp is lit, the objects become visible. We also cannot see the particles of air because they are very small and <b class=\"key\">transparent</b>. Light hardly reflects from them, so they cannot be seen. The wall of a room is solid and a lot of light reflects from it, so it is clearly visible.</p><h4>Transparent Materials and Straight Lines</h4><ul><li><b class=\"key\">Transparent materials</b> allow light to pass through them.</li><li>Clear glass is a transparent material.</li><li>Light travels in a <b class=\"key\">straight line</b>.</li></ul><h4>Key Points</h4><ul><li>Light from a source falls on objects and reflects into our eyes.</li><li>Nothing is visible in a dark room because no light reflects.</li><li>Air particles are too small and transparent to be seen.</li><li>Transparent materials let light pass through them.</li><li>Light travels in a straight line.</li></ul>",
+     "title": "How We See Things"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "An object blocks light",
+        "Light bends around a corner",
+        "An object makes light",
+        "The eyes are closed"
+       ],
+       "q": "A shadow forms when:",
+       "why": "A shadow forms when an object blocks the rays of light, so the part behind the object stays dark."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Smaller",
+        "Bigger",
+        "Coloured",
+        "Invisible"
+       ],
+       "q": "When we go near a source of light, our shadow becomes:",
+       "why": "Near a source of light, an object blocks more rays of light, so its shadow is formed bigger."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Bigger",
+        "Darker blue",
+        "Smaller",
+        "Round"
+       ],
+       "q": "As we go away from a source of light, our shadow becomes:",
+       "why": "As we go away from the source, the object blocks fewer rays of light and the shadow becomes smaller."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Only big objects make shadows",
+        "Only the Sun can make shadows",
+        "Shadows are made of light",
+        "Small objects can also make shadows"
+       ],
+       "q": "Which statement about shadows is true?",
+       "why": "It is false that only big objects make shadows. Any object that blocks light, big or small, makes a shadow."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "The time of day",
+        "The colour of light",
+        "The size of the Sun",
+        "The speed of light"
+       ],
+       "q": "By noting the length of a shadow, we can tell:",
+       "why": "The length of a shadow changes during the day, so by noting its length we can tell the time."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "The object grows bigger near light",
+        "The object blocks more rays of light",
+        "The light becomes weaker there",
+        "The ground becomes darker there"
+       ],
+       "q": "Why is the shadow bigger near the light source?",
+       "why": "When an object is near a source of light, it blocks more rays of light, so its shadow is formed bigger."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Reflect all light into our eyes",
+        "Make its own light",
+        "Block the path of light",
+        "Pass all light through itself"
+       ],
+       "q": "What must an object do to make a shadow?",
+       "why": "An object makes a shadow by blocking light. The light cannot pass through it, so a dark shadow forms behind it."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Very big and black",
+        "The same as a wall",
+        "Bigger than the object",
+        "Very faint, because light passes through it"
+       ],
+       "q": "A transparent object like clear glass makes a shadow that is:",
+       "why": "Clear glass is transparent and allows light to pass through it, so it does not block light like a solid object does."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "False",
+        "True",
+        "True only at night",
+        "True only for the Sun"
+       ],
+       "q": "The statement 'Only big objects make shadows' is:",
+       "why": "This statement is false. Small objects also block rays of light and form shadows, just like big objects."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Bigger",
+        "Smaller",
+        "Seven coloured",
+        "Full of light"
+       ],
+       "q": "If an object blocks fewer rays of light, its shadow will be:",
+       "why": "An object far from the light source blocks fewer rays, and the fewer rays it blocks, the smaller its shadow becomes."
+      }
+     ],
+     "notes_html": "<h4>How a Shadow Forms</h4><p>A <b class=\"key\">shadow</b> forms when an object blocks the path of light. Light travels in a straight line, so it cannot pass through the object. The dark part behind the object, where the light cannot reach, is its shadow.</p><h4>Big and Small Shadows</h4><p>When an object is near a <b class=\"key\">source of light</b>, it blocks more rays of light, so its shadow is formed <b class=\"key\">bigger</b>. As the object goes away from the source, it blocks fewer rays and the shadow becomes <b class=\"key\">smaller</b>. It is not true that only big objects make shadows. Small objects also block light and make shadows.</p><h4>Shadows Tell the Time</h4><ul><li>The Sun changes its place during the day, so shadows change too.</li><li>By noting the <b class=\"key\">length of the shadow</b> we can tell the time of day.</li></ul><h4>Key Points</h4><ul><li>A shadow forms when an object blocks light.</li><li>Near the light source, the shadow is bigger.</li><li>Far from the light source, the shadow is smaller.</li><li>Not only big objects make shadows.</li><li>The length of a shadow can tell the time of day.</li></ul>",
+     "title": "Shadows"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 1,
+       "options": [
+        "Five colours",
+        "Seven colours",
+        "Ten colours",
+        "Three colours"
+       ],
+       "q": "Sunlight is a mixture of how many colours?",
+       "why": "When sunlight passes through a prism it splits into seven colours, which proves sunlight is a mixture of seven colours."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Shadow",
+        "Mirror",
+        "Spectrum",
+        "Circuit"
+       ],
+       "q": "A prism splits sunlight into a band of colours called a:",
+       "why": "When white sunlight passes through a prism, it bends and splits into seven colours, forming a band called a spectrum."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Red",
+        "Violet",
+        "Green",
+        "Yellow"
+       ],
+       "q": "Which colour comes first in the spectrum of sunlight?",
+       "why": "The spectrum begins with red, followed by orange, yellow, green, sky blue, indigo and violet."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Pink",
+        "Brown",
+        "Black",
+        "Indigo"
+       ],
+       "q": "Which of these is one of the seven colours of sunlight?",
+       "why": "Indigo, also called deep blue, is one of the seven colours: red, orange, yellow, green, sky blue, indigo and violet."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "It reflects all colours at once",
+        "It absorbs all colours and reflects none",
+        "It makes black light",
+        "It is transparent"
+       ],
+       "q": "Why does a black shirt appear black?",
+       "why": "A black surface absorbs all the colours of light and reflects no colour back, so it appears black to us."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "White",
+        "Red",
+        "Black",
+        "Shiny"
+       ],
+       "q": "When no light reflects from a shirt into our eyes, the shirt looks:",
+       "why": "A black shirt reflects no colour back. When no light reflects from it into our eyes, it appears black."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Tiny drops of rain",
+        "A wooden door",
+        "Clear glass windows only",
+        "Thick smoke"
+       ],
+       "q": "A rainbow is formed when sunlight passes through:",
+       "why": "When sunlight passes through the tiny drops of rain, it bends and splits into seven colours, forming a rainbow."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "The Sun is round",
+        "Rain falls in a circle",
+        "The clouds bend it",
+        "Countless rain drops split the light in the form of a big arc"
+       ],
+       "q": "Why does a rainbow appear in the shape of an arc?",
+       "why": "Countless drops in the sky bend and split sunlight in this way in the form of a big arc, so the rainbow looks like an arc."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Ten",
+        "Seven",
+        "Five",
+        "Twelve"
+       ],
+       "q": "How many colours are there in a rainbow?",
+       "why": "A rainbow has seven colours, the same seven colours that a prism splits sunlight into. The idea of ten colours is false."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "It blocks it completely",
+        "It turns it into sound",
+        "It bends and splits it into seven colours",
+        "It makes it brighter white"
+       ],
+       "q": "What does a prism do to white sunlight?",
+       "why": "When white sunlight passes through a prism, it bends and splits into seven different colours, forming a spectrum."
+      }
+     ],
+     "notes_html": "<h4>Sunlight Has Seven Colours</h4><p>White sunlight is a mixture of <b class=\"key\">seven colours</b>. When sunlight passes through a <b class=\"key\">prism</b>, it bends and splits into seven different colours. This band of colours is called a <b class=\"key\">spectrum</b>.</p><ul><li>Red</li><li>Orange</li><li>Yellow</li><li>Green</li><li>Sky blue</li><li>Indigo, also called deep blue</li><li>Violet</li></ul><h4>Why a Shirt Looks Black</h4><p>A black surface <b class=\"key\">absorbs</b> all the colours of light and reflects no colour back. When no light reflects from the shirt into our eyes, it appears <b class=\"key\">black</b> to us.</p><h4>The Rainbow</h4><p>When sunlight passes through the tiny drops of rain, it bends and splits into seven colours. Countless drops in the sky split the light in this way, so a <b class=\"key\">rainbow</b> always appears in the shape of a big coloured arc. A rainbow has seven colours, not ten.</p><h4>Key Points</h4><ul><li>Sunlight is a mixture of seven colours.</li><li>A prism splits sunlight into a spectrum.</li><li>A black shirt absorbs all colours and reflects none.</li><li>Countless rain drops bend and split sunlight to form a rainbow.</li><li>A rainbow is an arc and has seven colours.</li></ul>",
+     "title": "Colours of Light and the Rainbow"
+    }
+   ],
+   "title": "Light and Its Properties"
+  },
+  {
+   "lessons": [
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "Friction",
+        "Burning wood",
+        "Flowing water",
+        "A magnet alone"
+       ],
+       "q": "Static electricity is produced by:",
+       "why": "Static electricity is produced by friction, for example by rubbing a plastic comb in dry hair or a balloon on a woollen cloth."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Glow like a bulb",
+        "Attract small pieces of paper",
+        "Point towards the North",
+        "Melt the paper"
+       ],
+       "q": "A plastic comb rubbed in dry hair will:",
+       "why": "Rubbing a plastic comb in dry hair produces static electricity in it, and the comb attracts small pieces of paper."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Burst at once",
+        "Fall down quickly",
+        "Stick to the wall",
+        "Change its colour"
+       ],
+       "q": "A balloon rubbed on hair or a woollen cloth will:",
+       "why": "Rubbing a balloon on hair or a woollen cloth produces electricity in it, and the charged balloon sticks to the wall."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Is much hotter",
+        "Flows very fast",
+        "Makes light",
+        "Stays at one place"
+       ],
+       "q": "Static electricity is different from the current in wires because it:",
+       "why": "In both examples the electricity is produced by friction and stays at one place, so it is called static electricity."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Repel each other",
+        "Attract each other",
+        "Join together",
+        "Disappear at once"
+       ],
+       "q": "Like charges placed near each other will:",
+       "why": "Like charges repel each other, which means two objects with the same kind of charge push each other away."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "No, never",
+        "Yes, hair can be electrified by friction",
+        "Only in winter rain",
+        "Only with a magnet"
+       ],
+       "q": "Can hair be electrified by friction?",
+       "why": "Hair can be electrified by friction. Rubbing a comb in dry hair produces static electricity in the comb and the hair."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Static electricity",
+        "Made only by rubbing",
+        "Not static electricity",
+        "Stored in balloons"
+       ],
+       "q": "The current that flows in the wires of our homes is:",
+       "why": "The current in the wires of our homes flows through the wires. Static electricity stays at one place, so the home current is not static."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "A bulb glowing in a circuit",
+        "A fan running on home current",
+        "A motor turning",
+        "A rubbed balloon sticking to a wall"
+       ],
+       "q": "Which of these is an example of static electricity?",
+       "why": "A rubbed balloon sticking to the wall is static electricity, because the charge is made by friction and stays at one place."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "In dry hair",
+        "In water",
+        "On a magnet",
+        "On a battery"
+       ],
+       "q": "In the comb example, the static electricity is produced by rubbing the comb:",
+       "why": "Rubbing a plastic comb in dry hair produces static electricity by friction, and then the comb attracts small pieces of paper."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Attract strongly",
+        "Push each other away",
+        "Glow brightly",
+        "Become magnets"
+       ],
+       "q": "Two objects with the same charge are brought close. They will:",
+       "why": "Like charges repel each other, so two objects carrying the same kind of charge push each other away."
+      }
+     ],
+     "notes_html": "<h4>Electricity Made by Friction</h4><p><b class=\"key\">Static electricity</b> is produced by <b class=\"key\">friction</b>, that is, by rubbing two things together. This electricity stays at one place and does not flow like the current in wires.</p><h4>Two Examples</h4><ul><li>Rubbing a plastic comb in dry hair produces static electricity, and the comb <b class=\"key\">attracts</b> small pieces of paper.</li><li>Rubbing a balloon on hair or a woollen cloth produces electricity in it, and the balloon sticks to the wall.</li><li>Hair can also be electrified by friction.</li></ul><h4>Charges</h4><p>Objects that carry the same kind of charge push each other away. <b class=\"key\">Like charges repel</b> each other. The current that flows in the wires of our homes is not static electricity, because static electricity stays at one place.</p><h4>Key Points</h4><ul><li>Static electricity is produced by friction.</li><li>It stays at one place and does not flow.</li><li>A rubbed comb attracts small pieces of paper.</li><li>A rubbed balloon sticks to the wall.</li><li>Like charges repel each other.</li></ul>",
+     "title": "Static Electricity"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "The path of electricity is broken somewhere",
+        "The path is complete and unbroken",
+        "The bulb glows brightly",
+        "Two batteries are used"
+       ],
+       "q": "An open circuit is a circuit in which:",
+       "why": "An open circuit is a circuit in which the path of electricity is broken somewhere, so current does not flow in it."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Glows brightly",
+        "Does not glow",
+        "Glows and then bursts",
+        "Changes colour"
+       ],
+       "q": "In an open circuit, the bulb:",
+       "why": "Current does not flow in an open circuit because the path is broken, so the bulb does not glow."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "A wire is disconnected",
+        "The switch is always off",
+        "The path is complete and unbroken",
+        "Both wires join one terminal"
+       ],
+       "q": "A closed circuit is a circuit in which:",
+       "why": "A closed circuit is a circuit in which the path is complete and unbroken, so current flows in it and the bulb glows."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Current stops flowing",
+        "The cell becomes empty",
+        "The wires break",
+        "Current flows and the bulb glows"
+       ],
+       "q": "In a closed circuit, what happens?",
+       "why": "In a closed circuit the path is complete, so current flows from the cell through the wires to the bulb and the bulb glows."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Switch",
+        "Bulb",
+        "Cell",
+        "Wire"
+       ],
+       "q": "The part that opens and closes a circuit is the:",
+       "why": "A switch is the part used to open and close the circuit. Opening and closing a switch makes the circuit open and closed."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Two",
+        "Four",
+        "Six",
+        "Eight"
+       ],
+       "q": "How many parts does a simple circuit have?",
+       "why": "A simple circuit has four parts: a cell or battery, wires, a bulb and a switch."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Bulb",
+        "Switch",
+        "Cell or battery",
+        "Table"
+       ],
+       "q": "In a simple circuit, the source of electricity is the:",
+       "why": "The cell or battery is the source of electricity in a simple circuit, and the wires form the path of the electricity."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Glow very brightly",
+        "Glow in seven colours",
+        "Glow slowly",
+        "Not glow"
+       ],
+       "q": "If both wires are joined to the same terminal of the cell, the bulb will:",
+       "why": "If both wires are connected to the same terminal of the cell, the circuit is not complete, so current cannot flow and the bulb does not glow."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "A wire is disconnected",
+        "The switch is closed",
+        "The path is complete",
+        "The cell is connected properly"
+       ],
+       "q": "A bulb does not glow when:",
+       "why": "If a wire is disconnected, the circuit is open and the path is broken, so current cannot flow and the bulb does not glow."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Only inside the cell",
+        "From the cell, through the wires to the bulb, and back to the cell",
+        "From the bulb to the switch only",
+        "Through the air to the bulb"
+       ],
+       "q": "When the switch is closed, current travels:",
+       "why": "When the switch is closed the circuit is complete. Current comes out of the cell, reaches the bulb through the wires and returns to the cell."
+      }
+     ],
+     "notes_html": "<h4>Open Circuit</h4><p>An <b class=\"key\">open circuit</b> is a circuit in which the path of electricity is broken somewhere. In an open circuit, current does not flow and the bulb does not glow.</p><h4>Closed Circuit</h4><p>A <b class=\"key\">closed circuit</b> is a circuit in which the path is complete and unbroken. In a closed circuit, current flows and the bulb glows. Opening and closing a <b class=\"key\">switch</b> makes the circuit open and closed.</p><h4>Parts of a Simple Circuit</h4><ul><li>A cell or battery, the source of electricity</li><li>Wires, the path of electricity</li><li>A bulb, which uses electricity</li><li>A switch, to open and close the circuit</li></ul><p>When the switch is closed, current comes out of the cell, reaches the bulb through the wires and returns to the cell, so the bulb glows. If both wires are joined to the same terminal of the cell, or a wire is disconnected, the bulb does not glow.</p><h4>Key Points</h4><ul><li>Open circuit: the path is broken, current does not flow, the bulb does not glow.</li><li>Closed circuit: the path is complete, current flows, the bulb glows.</li><li>A switch opens and closes the circuit.</li><li>A simple circuit has four parts: cell, wires, bulb and switch.</li></ul>",
+     "title": "Open and Closed Circuits"
+    },
+    {
+     "mcqs": [
+      {
+       "answer": 0,
+       "options": [
+        "Increasing the number of turns of wire around the iron nail",
+        "Using a wooden nail",
+        "Removing all the wire",
+        "Breaking the circuit"
+       ],
+       "q": "The flow of current in an electromagnet can be increased by:",
+       "why": "The flow of current in an electromagnet can be increased by increasing the number of turns of wire around an iron nail."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "A plastic ruler",
+        "An iron nail",
+        "A rubber ball",
+        "A piece of glass"
+       ],
+       "q": "An electromagnet is made by winding wire around:",
+       "why": "In an electromagnet, wire is wound around an iron nail, and increasing the turns of wire increases the flow of current."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "South",
+        "East",
+        "North",
+        "West"
+       ],
+       "q": "A compass always points towards the:",
+       "why": "A compass always points towards the North, so it helps people find direction."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "Stop completely",
+        "Stay exactly zero",
+        "Become static",
+        "Increase"
+       ],
+       "q": "If we increase the turns of wire around the iron nail, the electromagnet's current will:",
+       "why": "Increasing the number of turns of wire around the iron nail increases the flow of current in the electromagnet."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "More turns of wire around the nail",
+        "Fewer turns of wire",
+        "A broken wire",
+        "An open switch"
+       ],
+       "q": "Which change makes an electromagnet carry more current?",
+       "why": "The flow of current in an electromagnet can be increased by increasing the number of turns of wire around the iron nail."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "South",
+        "North",
+        "Nearest bulb",
+        "Nearest magnet only"
+       ],
+       "q": "The needle of a compass points to the:",
+       "why": "A compass always points towards the North. Its needle settles in the north direction wherever it is used."
+      },
+      {
+       "answer": 2,
+       "options": [
+        "Add many more turns of wire",
+        "Use a bigger battery only",
+        "Reduce the number of turns of wire",
+        "Close the switch"
+       ],
+       "q": "To make the current in an electromagnet weaker, we could:",
+       "why": "More turns of wire increase the flow of current, so reducing the number of turns of wire makes the flow of current smaller."
+      },
+      {
+       "answer": 3,
+       "options": [
+        "A compass points to the South",
+        "An electromagnet needs no wire",
+        "Turns of wire do not matter",
+        "A compass always points towards the North"
+       ],
+       "q": "Which statement is true?",
+       "why": "A compass always points towards the North. This is a fixed property of the compass needle."
+      },
+      {
+       "answer": 0,
+       "options": [
+        "Turns",
+        "Shadows",
+        "Spectrums",
+        "Prisms"
+       ],
+       "q": "The wire in an electromagnet is wound around the iron nail in:",
+       "why": "The wire is wound around the iron nail in turns, and increasing the number of turns increases the flow of current."
+      },
+      {
+       "answer": 1,
+       "options": [
+        "Glows in the dark",
+        "Always points towards the North",
+        "Attracts paper pieces",
+        "Splits sunlight"
+       ],
+       "q": "A sailor lost at sea can find direction with a compass because it:",
+       "why": "A compass always points towards the North, so knowing the north direction helps a sailor find the other directions."
+      }
+     ],
+     "notes_html": "<h4>Electromagnets</h4><p>An <b class=\"key\">electromagnet</b> can be made with wire wound around an iron nail and connected to electricity. The wire forms turns, also called coils, around the nail.</p><h4>Making It Stronger</h4><p>The flow of current in an electromagnet can be increased by increasing the <b class=\"key\">number of turns</b> of wire around the iron nail. More turns of wire means a stronger flow of current in the electromagnet.</p><h4>The Compass</h4><p>A <b class=\"key\">compass</b> is an instrument that shows direction. Its needle always points towards the <b class=\"key\">North</b>. Travellers and sailors use a compass to find their way.</p><h4>Key Points</h4><ul><li>An electromagnet uses wire wound around an iron nail.</li><li>More turns of wire increase the flow of current in an electromagnet.</li><li>A compass always points towards the North.</li></ul>",
+     "title": "Electromagnets and the Compass"
+    }
+   ],
+   "title": "Electricity and Magnetism"
+  },
+  {
+   "title": "Soils",
+   "lessons": [
+    {
+     "title": "Types and Components of Soil",
+     "notes_html": "<h4>Types of Soil</h4><p>There are three main types of soil. <b class=\"key\">Sandy soil</b> has big particles. <b class=\"key\">Clayey soil</b> has very fine particles. <b class=\"key\">Loam</b> is a complete type of soil made by mixing sand, clay and humus.</p><p>A <b class=\"key\">clay pot</b> is not a type of soil. It is a thing made from soil. Garden soil, sandy soil and clayey soil are real types of soil.</p><h4>Four Components of Soil</h4><p>Soil has four main components:</p><ul><li><b class=\"key\">Mineral particles</b>: sand, silt and clay, formed by the breaking of rocks.</li><li><b class=\"key\">Humus</b>: the matter of decayed plants and animals, which gives food to the soil.</li><li><b class=\"key\">Water</b>: it stays between the particles of soil and is available to plants.</li><li><b class=\"key\">Air</b>: it stays in the spaces between the particles and is necessary for roots and small organisms.</li></ul><p>An <b class=\"key\">earthworm</b> is a living thing, while soil, water and sunlight are non-living things.</p><h4>Key Points</h4><ul><li>The three soil types are sandy soil, clayey soil and loam.</li><li>Soil has four components: mineral particles, humus, water and air.</li><li>Humus is made of decayed plants and animals.</li><li>A clay pot is made from soil; it is not a soil type.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which of these is a type of soil?",
+       "options": [
+        "Clay pot",
+        "Sandy soil",
+        "Glass jar",
+        "Plastic bag"
+       ],
+       "answer": 1,
+       "why": "Sandy soil is a real type of soil, while a clay pot is only a thing made from soil."
+      },
+      {
+       "q": "From what are the mineral particles of soil formed?",
+       "options": [
+        "Decayed leaves",
+        "Melted ice",
+        "The breaking of rocks",
+        "Burnt wood"
+       ],
+       "answer": 2,
+       "why": "Mineral particles such as sand, silt and clay are formed by the breaking of rocks over time."
+      },
+      {
+       "q": "What is humus?",
+       "options": [
+        "A kind of stone",
+        "Decayed plants and animals",
+        "Clean drinking water",
+        "A type of rock"
+       ],
+       "answer": 1,
+       "why": "Humus is the matter of decayed plants and animals, and it gives food to the soil."
+      },
+      {
+       "q": "Garden soil, sandy soil, clayey soil, clay pot — which is the odd one out?",
+       "options": [
+        "Garden soil",
+        "Sandy soil",
+        "Clayey soil",
+        "Clay pot"
+       ],
+       "answer": 3,
+       "why": "A clay pot is a thing made from soil, while the other three are types of soil."
+      },
+      {
+       "q": "Soil, water, sunlight, earthworm — which is the odd one out?",
+       "options": [
+        "Soil",
+        "Earthworm",
+        "Water",
+        "Sunlight"
+       ],
+       "answer": 1,
+       "why": "An earthworm is a living thing, while soil, water and sunlight are all non-living things."
+      },
+      {
+       "q": "Which component of soil gives food to plants?",
+       "options": [
+        "Sand",
+        "Air",
+        "Humus",
+        "Stones"
+       ],
+       "answer": 2,
+       "why": "Humus, made from decayed plants and animals, gives food to the soil and to plants."
+      },
+      {
+       "q": "Where does air stay in the soil?",
+       "options": [
+        "In the spaces between the particles",
+        "Only on the surface",
+        "Inside stones",
+        "In the roots only"
+       ],
+       "answer": 0,
+       "why": "Air stays in the small spaces between the soil particles and is necessary for roots and small organisms."
+      },
+      {
+       "q": "Loam is best described as:",
+       "options": [
+        "Only sand",
+        "Only clay",
+        "Pure humus",
+        "A mixture of sand, clay and humus"
+       ],
+       "answer": 3,
+       "why": "Loam is a complete type of soil made by mixing sand, clay and humus together."
+      },
+      {
+       "q": "The water in soil is useful because it:",
+       "options": [
+        "Makes the soil hard",
+        "Stays between the particles for plants",
+        "Kills the roots",
+        "Turns into air"
+       ],
+       "answer": 1,
+       "why": "Water stays between the particles of soil, from where it is available to plants."
+      },
+      {
+       "q": "Which set shows the mineral particles of soil?",
+       "options": [
+        "Sand, silt and clay",
+        "Humus, water and air",
+        "Leaves, roots and seeds",
+        "Stones, glass and plastic"
+       ],
+       "answer": 0,
+       "why": "The mineral particles of soil are sand, silt and clay, all formed by the breaking of rocks."
+      }
+     ]
+    },
+    {
+     "title": "Layers of Soil and Percolation",
+     "notes_html": "<h4>The Jar Experiment</h4><p>Take soil up to half in a glass jar, fill it with water and shake it well. Then keep it still for a few hours. The heavy and big particles of <b class=\"key\">sand</b> settle at the very bottom. Above the sand comes <b class=\"key\">silt</b>, and above it the fine <b class=\"key\">clay</b>. Decayed leaves and <b class=\"key\">humus</b> keep floating on the water at the top. This shows that soil is a mixture of particles of different sizes.</p><h4>Percolation</h4><p>When water is poured on dry soil, the water goes down through the small spaces between the particles and the soil becomes wet. This process of water passing down through the soil is called <b class=\"key\">percolation</b>.</p><p>Water percolates quickly through <b class=\"key\">sandy soil</b>, while this process is very slow in <b class=\"key\">clayey soil</b>.</p><h4>Sticky and Non-Sticky Soils</h4><p><b class=\"key\">Sandy soil</b> is non-sticky. Its particles are big and water drains away quickly, so it does not stick to the hands. <b class=\"key\">Clayey soil</b> has very fine particles; it holds water and becomes soft and sticky.</p><h4>Key Points</h4><ul><li>In the jar experiment, sand settles at the bottom and humus floats on top.</li><li>Percolation is water passing down through the spaces between soil particles.</li><li>Water percolates fast in sandy soil and very slowly in clayey soil.</li><li>Sandy soil is non-sticky; clayey soil is sticky and holds water.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In the jar experiment, which particles settle at the very bottom?",
+       "options": [
+        "Clay",
+        "Sand",
+        "Humus",
+        "Decayed leaves"
+       ],
+       "answer": 1,
+       "why": "Sand particles are heavy and big, so in the jar experiment they settle at the very bottom."
+      },
+      {
+       "q": "In the jar experiment, what floats on top of the water?",
+       "options": [
+        "Sand and stones",
+        "Silt and clay",
+        "Humus and decayed leaves",
+        "Only clean water"
+       ],
+       "answer": 2,
+       "why": "Decayed leaves and humus are light, so they keep floating on the water at the top of the jar."
+      },
+      {
+       "q": "What is percolation?",
+       "options": [
+        "Water passing down through the spaces between soil particles",
+        "Water turning into ice",
+        "Soil drying in the sun",
+        "Plants drinking water"
+       ],
+       "answer": 0,
+       "why": "Percolation is the process of water passing down through the small spaces between soil particles."
+      },
+      {
+       "q": "Water percolates quickly through which soil?",
+       "options": [
+        "Clayey soil",
+        "Loam only",
+        "Sandy soil",
+        "Soil full of stones"
+       ],
+       "answer": 2,
+       "why": "Sandy soil has big particles with large spaces, so water percolates through it quickly."
+      },
+      {
+       "q": "In which soil is percolation very slow?",
+       "options": [
+        "Sandy soil",
+        "Clayey soil",
+        "Garden soil",
+        "Dry sand"
+       ],
+       "answer": 1,
+       "why": "Clayey soil has very fine particles, so water passes down through it very slowly."
+      },
+      {
+       "q": "Which soil is non-sticky?",
+       "options": [
+        "Clayey soil",
+        "Wet clay",
+        "Muddy soil",
+        "Sandy soil"
+       ],
+       "answer": 3,
+       "why": "Sandy soil is non-sticky because its particles are big and water drains away quickly."
+      },
+      {
+       "q": "Why does clayey soil become soft and sticky?",
+       "options": [
+        "It has big particles",
+        "It holds water",
+        "It has no water",
+        "It is full of air"
+       ],
+       "answer": 1,
+       "why": "Clayey soil has very fine particles and holds water, so it becomes soft and sticky."
+      },
+      {
+       "q": "In the jar, the layer just above the sand is:",
+       "options": [
+        "Clay",
+        "Humus",
+        "Silt",
+        "Stones"
+       ],
+       "answer": 2,
+       "why": "After settling, the order in the jar is sand at the bottom, then silt, then fine clay on top of them."
+      },
+      {
+       "q": "The jar experiment proves that soil is:",
+       "options": [
+        "One single material",
+        "A mixture of particles of different sizes",
+        "Made only of water",
+        "Made only of rocks"
+       ],
+       "answer": 1,
+       "why": "The different layers in the jar prove that soil is a mixture of particles of different sizes."
+      },
+      {
+       "q": "When water is poured on dry soil, the soil becomes wet because the water:",
+       "options": [
+        "Stays only on the surface",
+        "Evaporates at once",
+        "Goes down through the spaces between the particles",
+        "Turns the soil into clay"
+       ],
+       "answer": 2,
+       "why": "Water goes down through the small spaces between the soil particles, and this percolation makes the soil wet."
+      }
+     ]
+    },
+    {
+     "title": "Soil and Plant Growth",
+     "notes_html": "<h4>Loam: The Best Soil for Plants</h4><p><b class=\"key\">Soil type 4</b>, which is <b class=\"key\">loam</b>, a mixture of all the three soils, is the best for the growth of plants. It is a balanced mixture of sand, clay and humus.</p><ul><li><b class=\"key\">Sand</b> manages air and drainage of water in the soil.</li><li><b class=\"key\">Clay</b> holds water in the soil.</li><li><b class=\"key\">Humus</b> gives food to the plants.</li></ul><p>Because of this balance, roots grow easily and plants grow healthy and fast in loam.</p><h4>Dead Organic Matter</h4><p><b class=\"key\">Dead organic matter</b> comes from things that were once living, such as a dead ant, a banana peel and a fallen leaf. Such matter mixes in the soil and helps it. A <b class=\"key\">plastic</b> bag does not make soil fertile.</p><h4>Watering Plants</h4><p>When you water the plants, not all the water is absorbed. Some water drains down through the soil, so the statement that all the water is absorbed is false.</p><h4>Key Points</h4><ul><li>Loam, soil type 4, is the best soil for plant growth.</li><li>Sand manages air and drainage, clay holds water, humus gives food.</li><li>Dead ant, banana peel and fallen leaf are dead organic matter.</li><li>Plastic does not make soil fertile.</li><li>Not all water poured on plants is absorbed by them.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which type of soil is best for plant growth?",
+       "options": [
+        "Sandy soil",
+        "Clayey soil",
+        "Loam, a mixture of sand, clay and humus",
+        "Soil full of stones"
+       ],
+       "answer": 2,
+       "why": "Loam is a balanced mixture of sand, clay and humus, so it is the best soil for plant growth."
+      },
+      {
+       "q": "In loam, what does the sand do?",
+       "options": [
+        "It manages air and drainage of water",
+        "It gives food to plants",
+        "It holds all the water",
+        "It makes the soil sticky"
+       ],
+       "answer": 0,
+       "why": "In loam, the sand manages air and the drainage of water through the soil."
+      },
+      {
+       "q": "In loam, which part holds water?",
+       "options": [
+        "Sand",
+        "Humus",
+        "Air",
+        "Clay"
+       ],
+       "answer": 3,
+       "why": "The clay in loam holds water, while sand manages drainage and humus gives food."
+      },
+      {
+       "q": "Choose the dead organic matter:",
+       "options": [
+        "Small stones and broken glass",
+        "Dead ant, banana peel and fallen leaf",
+        "Plastic bag and sand",
+        "Water and sunlight"
+       ],
+       "answer": 1,
+       "why": "A dead ant, a banana peel and a fallen leaf were once living, so they are dead organic matter."
+      },
+      {
+       "q": "Which statement is true?",
+       "options": [
+        "Plastic makes soil fertile",
+        "Plastic is dead organic matter",
+        "Plastic does not make soil fertile",
+        "Plastic gives food to plants"
+       ],
+       "answer": 2,
+       "why": "Plastic is not living matter and adds no food to the soil, so it does not make soil fertile."
+      },
+      {
+       "q": "When you water the plants, what happens to the water?",
+       "options": [
+        "All of it is absorbed by the plants",
+        "Not all of it is absorbed; some drains down",
+        "None of it is absorbed",
+        "All of it turns into air"
+       ],
+       "answer": 1,
+       "why": "Not all the water poured on plants is absorbed; some of it drains down through the soil."
+      },
+      {
+       "q": "Why do roots grow easily in loam?",
+       "options": [
+        "Because it is a balanced mixture of sand, clay and humus",
+        "Because it has no water",
+        "Because it is made of stones",
+        "Because it has no air"
+       ],
+       "answer": 0,
+       "why": "Loam is balanced: sand gives air and drainage, clay holds water and humus gives food, so roots grow easily."
+      },
+      {
+       "q": "Soil type 4 is:",
+       "options": [
+        "Pure sand",
+        "Pure clay",
+        "A mixture of all the three soils",
+        "Soil with plastic"
+       ],
+       "answer": 2,
+       "why": "Soil type 4 is loam, a mixture of all the three soils: sand, clay and humus."
+      },
+      {
+       "q": "Which soil would be a poor choice for healthy plant growth?",
+       "options": [
+        "Loam",
+        "Soil full of stones",
+        "Soil rich in humus",
+        "Balanced garden soil"
+       ],
+       "answer": 1,
+       "why": "Soil full of stones lacks the balanced mix of sand, clay and humus that plants need to grow well."
+      },
+      {
+       "q": "In loam, humus helps plants by:",
+       "options": [
+        "Blocking the air",
+        "Draining all the water",
+        "Making the soil sticky",
+        "Giving food to the plants"
+       ],
+       "answer": 3,
+       "why": "Humus in loam gives food to the plants, which helps them grow healthy and fast."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Our Solar System",
+   "lessons": [
+    {
+     "title": "The Sun and the Planets",
+     "notes_html": "<h4>The Eight Planets</h4><p>Our solar system has <b class=\"key\">eight planets</b>. In order from the Sun they are: <b class=\"key\">Mercury</b>, <b class=\"key\">Venus</b>, <b class=\"key\">Earth</b>, <b class=\"key\">Mars</b>, <b class=\"key\">Jupiter</b>, <b class=\"key\">Saturn</b>, <b class=\"key\">Uranus</b> and <b class=\"key\">Neptune</b>.</p><h4>How Planets Move</h4><p>Planets move around the Sun in <b class=\"key\">elliptical orbits</b>. The <b class=\"key\">Moon</b> is not a planet or a star; it is a <b class=\"key\">satellite of the Earth</b>.</p><h4>Smallest and Largest</h4><p><b class=\"key\">Mercury</b> is the smallest planet, and it is also the closest planet to the Sun. <b class=\"key\">Jupiter</b> is the largest planet of the solar system.</p><h4>Key Points</h4><ul><li>There are eight planets, from Mercury nearest the Sun to Neptune farthest.</li><li>Planets move around the Sun in elliptical orbits.</li><li>The Moon is a satellite of the Earth.</li><li>Mercury is the smallest planet; Jupiter is the largest.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many planets are there in our solar system?",
+       "options": [
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten"
+       ],
+       "answer": 1,
+       "why": "Our solar system has eight planets, from Mercury nearest the Sun to Neptune farthest from it."
+      },
+      {
+       "q": "Which planet is nearest to the Sun?",
+       "options": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+       ],
+       "answer": 2,
+       "why": "Mercury is the first planet from the Sun, so it is the closest planet to the Sun."
+      },
+      {
+       "q": "Planets move around the Sun in:",
+       "options": [
+        "Elliptical orbits",
+        "Circular orbits",
+        "Rectangular orbits",
+        "Triangular orbits"
+       ],
+       "answer": 0,
+       "why": "Planets move around the Sun in elliptical orbits, not in circular or other shaped paths."
+      },
+      {
+       "q": "The Moon is a:",
+       "options": [
+        "Star",
+        "Planet",
+        "Comet",
+        "Satellite of the Earth"
+       ],
+       "answer": 3,
+       "why": "The Moon is a satellite of the Earth because it moves around the Earth."
+      },
+      {
+       "q": "Which is the smallest planet?",
+       "options": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Earth"
+       ],
+       "answer": 1,
+       "why": "Mercury is the smallest planet of the solar system, smaller than Mars, Venus and Earth."
+      },
+      {
+       "q": "Which is the largest planet?",
+       "options": [
+        "Saturn",
+        "Earth",
+        "Jupiter",
+        "Neptune"
+       ],
+       "answer": 2,
+       "why": "Jupiter is the largest planet, bigger than Saturn, Earth and Neptune."
+      },
+      {
+       "q": "Which planet comes third from the Sun?",
+       "options": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+       ],
+       "answer": 0,
+       "why": "The order from the Sun is Mercury, Venus and then Earth, so Earth is third from the Sun."
+      },
+      {
+       "q": "Which planet is farthest from the Sun?",
+       "options": [
+        "Uranus",
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+       ],
+       "answer": 3,
+       "why": "Neptune is the eighth planet, so it is the farthest planet from the Sun."
+      },
+      {
+       "q": "Which planet comes just after Mars in order from the Sun?",
+       "options": [
+        "Venus",
+        "Jupiter",
+        "Mercury",
+        "Saturn"
+       ],
+       "answer": 1,
+       "why": "The order is Mercury, Venus, Earth, Mars and then Jupiter, so Jupiter comes just after Mars."
+      },
+      {
+       "q": "Mercury is special because it is:",
+       "options": [
+        "The largest planet",
+        "The coldest planet",
+        "The smallest planet and closest to the Sun",
+        "The planet with most moons"
+       ],
+       "answer": 2,
+       "why": "Mercury is both the smallest planet and the closest planet to the Sun."
+      }
+     ]
+    },
+    {
+     "title": "Special Features of the Planets",
+     "notes_html": "<h4>Venus and Mars</h4><p><b class=\"key\">Venus</b> is called the <b class=\"key\">morning star</b>. It is the <b class=\"key\">hottest planet</b> because its thick atmosphere of carbon dioxide works like a blanket: it lets the heat of the Sun come in but does not let it go out. This is called the <b class=\"key\">greenhouse effect</b>. So Venus is hotter than Mercury, even though Mercury is closer to the Sun.</p><p><b class=\"key\">Mars</b> is the <b class=\"key\">red planet</b>. It has a thin atmosphere and the largest volcano of the solar system, <b class=\"key\">Olympus Mons</b>.</p><h4>Earth and Jupiter</h4><p>The atmosphere of <b class=\"key\">Earth</b> is mostly nitrogen and oxygen. Earth has liquid water on its surface and life exists on it. It is the third planet from the Sun and has only one moon.</p><p><b class=\"key\">Jupiter</b> is the biggest planet. Its atmosphere is hydrogen and helium, it has a <b class=\"key\">Great Red Spot</b>, and its moon <b class=\"key\">Ganymede</b> is the biggest moon.</p><h4>Saturn and Neptune</h4><p><b class=\"key\">Saturn</b> appears yellowish. It has the most moons, 82 in total, and its rings are made of ice and dust particles.</p><p><b class=\"key\">Neptune</b> is the coldest planet. It is deep blue in colour, eighth from the Sun, has six rings, and takes about 165 years to revolve around the Sun.</p><h4>Key Points</h4><ul><li>Venus is the morning star and the hottest planet, due to the greenhouse effect.</li><li>Mars is the red planet with the largest volcano, Olympus Mons.</li><li>Saturn has the most moons, 82, and rings of ice and dust.</li><li>Neptune is the coldest planet, with six rings and about 165 years per revolution.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which planet is known as the morning star?",
+       "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+       ],
+       "answer": 1,
+       "why": "Venus shines brightly in the morning sky, so it is known as the morning star."
+      },
+      {
+       "q": "Which is the hottest planet?",
+       "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Jupiter"
+       ],
+       "answer": 2,
+       "why": "Venus is the hottest planet because its thick carbon dioxide atmosphere traps the heat of the Sun."
+      },
+      {
+       "q": "Why is Venus hotter than Mercury, which is closer to the Sun?",
+       "options": [
+        "Its thick carbon dioxide atmosphere traps heat by the greenhouse effect",
+        "It has many volcanoes",
+        "It moves very fast",
+        "It has no atmosphere at all"
+       ],
+       "answer": 0,
+       "why": "The thick carbon dioxide atmosphere of Venus works like a blanket and traps heat, which is the greenhouse effect."
+      },
+      {
+       "q": "The largest volcano of the solar system, Olympus Mons, is on:",
+       "options": [
+        "Venus",
+        "Earth",
+        "Jupiter",
+        "Mars"
+       ],
+       "answer": 3,
+       "why": "Mars, the red planet, has the largest volcano of the solar system, called Olympus Mons."
+      },
+      {
+       "q": "The atmosphere of Earth is mostly made of:",
+       "options": [
+        "Carbon dioxide only",
+        "Nitrogen and oxygen",
+        "Hydrogen and helium",
+        "Only oxygen"
+       ],
+       "answer": 1,
+       "why": "Earth is the planet whose atmosphere is mostly nitrogen and oxygen, with liquid water and life on it."
+      },
+      {
+       "q": "The biggest moon of Jupiter is:",
+       "options": [
+        "Titan",
+        "Ganymede",
+        "Europa",
+        "Phobos"
+       ],
+       "answer": 1,
+       "why": "Ganymede, a moon of Jupiter, is the biggest moon; Jupiter also has the Great Red Spot."
+      },
+      {
+       "q": "Which planet has the most number of moons?",
+       "options": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Earth"
+       ],
+       "answer": 2,
+       "why": "Saturn has the most moons, 82 in total, more than Jupiter, Uranus or Earth."
+      },
+      {
+       "q": "Which is the coldest planet?",
+       "options": [
+        "Neptune",
+        "Mercury",
+        "Earth",
+        "Mars"
+       ],
+       "answer": 0,
+       "why": "Neptune, the farthest and deep blue planet, is the coldest planet of the solar system."
+      },
+      {
+       "q": "How many rings does Neptune have?",
+       "options": [
+        "Four",
+        "Five",
+        "Ten",
+        "Six"
+       ],
+       "answer": 3,
+       "why": "According to the book, Neptune has six rings, and it is the eighth planet from the Sun."
+      },
+      {
+       "q": "About how long does Neptune take to revolve around the Sun?",
+       "options": [
+        "About 1 year",
+        "About 165 years",
+        "About 12 years",
+        "About 30 years"
+       ],
+       "answer": 1,
+       "why": "Neptune is very far from the Sun, so it takes about 165 years to complete one revolution."
+      }
+     ]
+    },
+    {
+     "title": "Moons, Dwarf Planets and Space Objects",
+     "notes_html": "<h4>Moons of the Planets</h4><p><b class=\"key\">Mercury</b> has no moon at all, and <b class=\"key\">Venus</b> also has no moon. <b class=\"key\">Earth</b> has one moon, and <b class=\"key\">Mars</b> has two moons. Saturn has the most moons, 82 in total.</p><h4>Dwarf Planets</h4><p><b class=\"key\">Pluto</b> is a <b class=\"key\">dwarf planet</b>. It is much smaller than the eight main planets, so it is not counted among them.</p><h4>Asteroids and Comets</h4><p><b class=\"key\">Asteroids</b> are small rocky pieces which revolve around the Sun. Most of them are found between Mars and Jupiter. A <b class=\"key\">comet</b> is a ball of ice, dust and rock. When a comet comes near the Sun, its ice melts and forms a long shining tail.</p><h4>Studying Space</h4><p>A <b class=\"key\">telescope</b> is an instrument with which distant objects appear big and clear. Astronomers study the Moon, planets, stars and other objects in space with a telescope.</p><h4>Key Points</h4><ul><li>Mercury and Venus have no moons; Earth has one and Mars has two.</li><li>Pluto is a dwarf planet.</li><li>Asteroids are small rocky pieces, mostly between Mars and Jupiter.</li><li>Comets are balls of ice, dust and rock that grow a shining tail near the Sun.</li><li>A telescope makes distant objects appear big and clear.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many moons does Mercury have?",
+       "options": [
+        "One",
+        "Two",
+        "None",
+        "Eighty-two"
+       ],
+       "answer": 2,
+       "why": "Mercury has no moon at all; Venus also has no moon, while Earth has one and Mars has two."
+      },
+      {
+       "q": "Which planet has exactly two moons?",
+       "options": [
+        "Mars",
+        "Earth",
+        "Venus",
+        "Mercury"
+       ],
+       "answer": 0,
+       "why": "Mars has two moons, while Earth has one and Mercury and Venus have none."
+      },
+      {
+       "q": "Which of these is a dwarf planet?",
+       "options": [
+        "Neptune",
+        "Mercury",
+        "Earth",
+        "Pluto"
+       ],
+       "answer": 3,
+       "why": "Pluto is a dwarf planet, while Neptune, Mercury and Earth are among the eight main planets."
+      },
+      {
+       "q": "Asteroids are:",
+       "options": [
+        "Balls of ice and dust",
+        "Small rocky pieces revolving around the Sun",
+        "Stars near the Sun",
+        "Moons of Jupiter"
+       ],
+       "answer": 1,
+       "why": "Asteroids are small rocky pieces which revolve around the Sun, mostly between Mars and Jupiter."
+      },
+      {
+       "q": "Most asteroids are found between which two planets?",
+       "options": [
+        "Venus and Earth",
+        "Earth and Mars",
+        "Mars and Jupiter",
+        "Saturn and Uranus"
+       ],
+       "answer": 2,
+       "why": "Most asteroids are found in the region between the orbits of Mars and Jupiter."
+      },
+      {
+       "q": "A comet is made of:",
+       "options": [
+        "Only rock",
+        "Only metal",
+        "Ice, dust and rock",
+        "Only gases"
+       ],
+       "answer": 2,
+       "why": "A comet is a ball of ice, dust and rock, unlike an asteroid which is made of rock."
+      },
+      {
+       "q": "When does a comet form a long shining tail?",
+       "options": [
+        "When it comes near the Sun",
+        "When it goes far from the Sun",
+        "When it hits a planet",
+        "When it is behind the Moon"
+       ],
+       "answer": 0,
+       "why": "When a comet comes near the Sun, its ice melts and forms a long shining tail."
+      },
+      {
+       "q": "What is the function of a telescope?",
+       "options": [
+        "It measures the heat of planets",
+        "It makes sound from space louder",
+        "It weighs the planets",
+        "It makes distant objects appear big and clear"
+       ],
+       "answer": 3,
+       "why": "A telescope makes distant objects appear big and clear, so astronomers can study space objects with it."
+      },
+      {
+       "q": "Which pair of planets has no moons at all?",
+       "options": [
+        "Earth and Mars",
+        "Mercury and Venus",
+        "Jupiter and Saturn",
+        "Mars and Jupiter"
+       ],
+       "answer": 1,
+       "why": "Mercury and Venus are the two planets with no moons at all; they have the least number of moons."
+      },
+      {
+       "q": "Earth has how many moons?",
+       "options": [
+        "One",
+        "Two",
+        "Six",
+        "Eighty-two"
+       ],
+       "answer": 0,
+       "why": "Earth has only one moon, while Mars has two and Saturn has the most, with 82 moons."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
