@@ -1,0 +1,1578 @@
+{
+ "book": "social-studies-5-en",
+ "chapters": [
+  {
+   "title": "Globe and Map Skills",
+   "lessons": [
+    {
+     "title": "Globe and Map Skills",
+     "notes_html": "<h4>Lines of Latitude and Longitude</h4>\n<p>The lines drawn on a globe from the North Pole to the South Pole are called <b class=\"key\">longitudes</b>. There are <b class=\"key\">180 lines of latitude</b> in all: 90 in the Northern Hemisphere and 90 in the Southern Hemisphere. The lines of longitude are <b class=\"key\">360</b> in all: 180 towards the east and 180 towards the west, starting from the <b class=\"key\">Prime Meridian (0°)</b>. Latitudes are measured from the Equator and longitudes from the Prime Meridian.</p>\n<h4>The Main Lines</h4>\n<ul><li>The main lines of latitude are: the <b class=\"key\">Equator (0°)</b>, the <b class=\"key\">Tropic of Cancer (23.5°N)</b>, the <b class=\"key\">Tropic of Capricorn (23.5°S)</b>, the <b class=\"key\">Arctic Circle (66.5°N)</b>, the <b class=\"key\">Antarctic Circle (66.5°S)</b> and the Poles (90°).</li><li>The main lines of longitude are the <b class=\"key\">Prime Meridian (0°)</b>, which passes through <b class=\"key\">Greenwich in England</b>, and the <b class=\"key\">International Date Line (180°)</b>.</li><li>There are <b class=\"key\">24 time zones</b> in the world.</li></ul>\n<h4>Finding the Location of a Place</h4>\n<p>When a grid of squares is drawn on a map, every square gets a letter and a number, like <b class=\"key\">B3</b>. The <b class=\"key\">index of an atlas</b> tells the page number, the grid square and the latitude and longitude of every city. To find a place, we first read its <b class=\"key\">latitude</b> and then its <b class=\"key\">longitude</b>; the point where the two lines meet is the location of the place. For example, Peshawar is at about 34.01°N latitude and 71.58°E longitude, and Hyderabad is at about 25.38°N latitude and 68.37°E longitude. The city at 31.25°N, 73.9°E is Faisalabad.</p>\n<h4>Kinds of Maps</h4>\n<ul><li><b class=\"key\">Political maps</b> show the boundaries of countries, provinces and districts.</li><li><b class=\"key\">Physical maps</b> show natural features such as mountains, rivers, plains and deserts.</li><li>There are also relief maps, road maps and weather maps; we choose the best map for the purpose at hand.</li></ul>\n<h4>Map Scales and Measuring Distances</h4>\n<p>There are three types of map scale. (1) <b class=\"key\">Statement scale</b>: the scale is written in words, for example \"1 cm on the map = 10 km on the ground\". (2) <b class=\"key\">Line or bar scale</b>: a line divided into parts, each part showing a ground distance. (3) <b class=\"key\">Ratio or fractional scale</b>: written as a ratio or fraction, for example 1:100. To measure a distance, we measure it on the map with a ruler and multiply by the scale. The straight-line distance between Karachi and Islamabad is about 1,150 km, while the road distance is about 1,400 km. A winding line like a river is measured with a <b class=\"key\">piece of thread</b>; measured this way, the River Indus is about 2,700 km long. It rises in Tibet and falls into the Arabian Sea in Sindh.</p>\n<h4>Why the Location of Pakistan Is Important</h4>\n<ul><li>Pakistan lies between about 25°N and 37°N latitudes, so it has all <b class=\"key\">four seasons</b> and a great variety of crops and livestock can be raised here.</li><li>It is situated in <b class=\"key\">South Asia</b>; it is a member of SAARC, and industrial China is its neighbour in the north.</li><li>The <b class=\"key\">Arabian Sea lies to its south</b>, so Pakistan can carry on international trade by sea through its ports.</li></ul>\n<h4>Key Points</h4>\n<ul><li>Longitudes run from pole to pole; latitudes are measured from the Equator.</li><li>Read the latitude first and the longitude second to locate a place.</li><li>Political maps show boundaries; physical maps show natural features.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The lines drawn on a globe from the North Pole to the South Pole are called:",
+       "options": [
+        "Latitudes",
+        "Longitudes",
+        "The Equator",
+        "Time zones"
+       ],
+       "answer": 1,
+       "why": "Longitudes are the lines drawn on a globe from the North Pole to the South Pole. Latitudes are measured from the Equator, and there are 360 lines of longitude in all."
+      },
+      {
+       "q": "The line of latitude at 23.5°S is called:",
+       "options": [
+        "Tropic of Cancer",
+        "Arctic Circle",
+        "Tropic of Capricorn",
+        "The Equator"
+       ],
+       "answer": 2,
+       "why": "The Tropic of Capricorn is the line of latitude at 23.5°S. The Tropic of Cancer is at 23.5°N, the Arctic Circle is at 66.5°N and the Equator is at 0°."
+      },
+      {
+       "q": "How many time zones are there in the world?",
+       "options": [
+        "12",
+        "20",
+        "24",
+        "36"
+       ],
+       "answer": 2,
+       "why": "There are 24 time zones in the world. Time zones are related to the lines of longitude, which are 360 in all, starting from the Prime Meridian."
+      },
+      {
+       "q": "The maps which show the boundaries of countries, provinces and districts are called:",
+       "options": [
+        "Physical maps",
+        "Political maps",
+        "Relief maps",
+        "Weather maps"
+       ],
+       "answer": 1,
+       "why": "Political maps show the boundaries of countries, provinces and districts. Physical maps show natural features such as mountains, rivers, plains and deserts."
+      },
+      {
+       "q": "The maps which show natural features such as mountains, rivers, plains and deserts are called:",
+       "options": [
+        "Physical maps",
+        "Political maps",
+        "Relief maps",
+        "Road maps"
+       ],
+       "answer": 0,
+       "why": "Physical maps show the natural features of an area, such as mountains, rivers, plains and deserts. Political maps, in contrast, show the boundaries made by people."
+      },
+      {
+       "q": "How many lines of longitude are there in all?",
+       "options": [
+        "180",
+        "90",
+        "360",
+        "270"
+       ],
+       "answer": 2,
+       "why": "The lines of longitude are 360 in all: 180 towards the east and 180 towards the west, starting from the Prime Meridian (0°). The lines of latitude are 180 in all."
+      },
+      {
+       "q": "The Prime Meridian (0°) passes through which place?",
+       "options": [
+        "Greenwich in England",
+        "Paris in France",
+        "New York in the USA",
+        "Delhi in India"
+       ],
+       "answer": 0,
+       "why": "The Prime Meridian (0°), the main line of longitude, passes through Greenwich in England. Longitudes are counted 180 towards the east and 180 towards the west from this line."
+      },
+      {
+       "q": "A scale written as 1:100 is an example of which type of scale?",
+       "options": [
+        "Statement scale",
+        "Line or bar scale",
+        "Ratio or fractional scale",
+        "Grid scale"
+       ],
+       "answer": 2,
+       "why": "A ratio or fractional scale is written as a ratio or fraction, for example 1:100, which means 1 unit on the map is equal to 100 units on the ground."
+      },
+      {
+       "q": "What do we use to measure the length of a winding river on a map?",
+       "options": [
+        "A compass",
+        "A piece of thread",
+        "A protractor",
+        "A bar scale only"
+       ],
+       "answer": 1,
+       "why": "We lay a piece of thread carefully along all the bends of the river on the map, then straighten it, measure its length with a ruler and multiply by the scale. Measured this way, the River Indus is about 2,700 km long."
+      },
+      {
+       "q": "The Arabian Sea lies to which side of Pakistan, so it can trade by sea through its ports?",
+       "options": [
+        "North",
+        "East",
+        "West",
+        "South"
+       ],
+       "answer": 3,
+       "why": "The Arabian Sea lies to the south of Pakistan, so Pakistan can carry on international trade by sea through its ports. This is one reason why the location of Pakistan is important."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Physical Regions of Pakistan and the World",
+   "lessons": [
+    {
+     "title": "The Physical Regions of Pakistan and the World",
+     "notes_html": "<h4>What Is a Region?</h4>\n<p>A <b class=\"key\">region</b> is an area of land which has one or more features in common. There are two main kinds of regions. A <b class=\"key\">physical region</b> has a common physical feature, for example the Mountainous Region of Pakistan. A <b class=\"key\">cultural region</b> has a common cultural feature, such as <b class=\"key\">language</b>; for example, East Africa is an English-speaking region and West Africa is a French-speaking region.</p>\n<h4>The Five Physical Regions of Pakistan</h4>\n<ul><li>(1) The <b class=\"key\">Mountainous Region</b> — the mountains of the north and north-west (Himalayas, Karakoram, Hindukush).</li><li>(2) The <b class=\"key\">Plateaus</b> — Potwar and Balochistan.</li><li>(3) The <b class=\"key\">Indus Plains</b> — the Upper, Lower and Deltaic Plains.</li><li>(4) The <b class=\"key\">Coastal Region</b> — along the Arabian Sea.</li><li>(5) The <b class=\"key\">Desert Region</b> — Thar, Thal and Chaghi-Kharan.</li></ul>\n<h4>Mountains, Plateaus and Plains of the World</h4>\n<p>The famous mountainous regions of the world are the Himalayas, the Karakoram, the Hindukush, the Rockies (North America), the Andes (South America), the Alps (Europe) and the <b class=\"key\">Atlas (Africa)</b>. Mountainous regions are very high, their peaks stay covered with snow, their climate is cold and they are thinly populated; the people do lumbering, herding, mining and serve tourists. <b class=\"key\">Plateaus</b> are high lands with a flat top; they receive little rainfall and minerals like coal, gas and oil are found in them. The <b class=\"key\">Tibetan Plateau</b> is the highest plateau in the world; the Deccan Plateau is in India and the Colorado Plateau in the USA. <b class=\"key\">Plains</b> are formed by the soil brought by rivers and are very fertile, thickly populated and have big cities and industries; famous plains are the Great Plains of the USA, the Siberian Plain, the Ganges Plain, the Nile Plain and the Amazon Plain.</p>\n<h4>The Coastal Region and the Deserts</h4>\n<p>The Coastal Region of Pakistan is about <b class=\"key\">1,050 km long</b>, from Balochistan to Sijawal in Sindh. It has a natural harbour at Karachi and the ports of <b class=\"key\">Bin Qasim and Gwadar</b>; the people are mostly engaged in fishing, boat-making and trade. Five major seaports of the world are Shanghai, Singapore, Rotterdam, Karachi and New York. Hot deserts are the <b class=\"key\">Sahara</b> (the largest hot desert of the world) and the Thar; cold deserts are Antarctica and the Gobi. The <b class=\"key\">camel</b> is used for travelling in the desert and is called the \"ship of the desert\". Both kinds of desert have very little water and very few people.</p>\n<h4>Interdependence</h4>\n<p><b class=\"key\">Interdependence</b> means the reliance of the people of one area on the people of other areas for food, goods, resources, technology and knowledge. Wheat, rice and maize go from Punjab and Sindh to the whole country; coal, gas and other minerals come from Khyber Pakhtunkhwa and Balochistan; and wood and forest products from the thick forests of <b class=\"key\">Gilgit-Baltistan</b> are used all over the country. Countries also depend on each other through <b class=\"key\">exports</b> (goods sold to other countries) and <b class=\"key\">imports</b> (goods bought from other countries).</p>\n<h4>Key Points</h4>\n<ul><li>Pakistan has five physical regions: mountains, plateaus, plains, coast and deserts.</li><li>A cultural region is made on the basis of a common feature like language.</li><li>Every region of Pakistan meets the needs of the others — this is interdependence.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many physical regions are there in Pakistan?",
+       "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+       ],
+       "answer": 2,
+       "why": "Pakistan has five physical regions: the Mountainous Region, the Plateaus, the Indus Plains, the Coastal Region and the Desert Region."
+      },
+      {
+       "q": "How many main kinds of regions are there?",
+       "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+       ],
+       "answer": 1,
+       "why": "There are two main kinds of regions: physical regions, which have a common physical feature, and cultural regions, which have a common cultural feature such as language."
+      },
+      {
+       "q": "In which continent are the Atlas Mountains located?",
+       "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "South America"
+       ],
+       "answer": 0,
+       "why": "The Atlas Mountains are located in Africa (Morocco, Algeria). The Alps are in Europe, the Andes in South America and the Himalayas in Asia."
+      },
+      {
+       "q": "Which animal is most used for travelling in the desert and is called the \"ship of the desert\"?",
+       "options": [
+        "Camels",
+        "Horses",
+        "Donkeys",
+        "Oxen"
+       ],
+       "answer": 0,
+       "why": "The camel is used for travelling in the desert and is called the \"ship of the desert\". In hot deserts people rear animals and travel by camel because there is very little water."
+      },
+      {
+       "q": "On the basis of which common feature is a cultural region made?",
+       "options": [
+        "Language",
+        "Mountains",
+        "Rivers",
+        "Climate"
+       ],
+       "answer": 0,
+       "why": "A cultural region has a common cultural feature, such as language. For example, East Africa is an English-speaking region and West Africa is a French-speaking region."
+      },
+      {
+       "q": "Which is the highest plateau in the world?",
+       "options": [
+        "Deccan Plateau",
+        "Colorado Plateau",
+        "Tibetan Plateau",
+        "Potwar Plateau"
+       ],
+       "answer": 2,
+       "why": "The Tibetan Plateau in Asia is the highest plateau in the world. The Deccan Plateau is in India, the Colorado Plateau in the USA, and Pakistan has the Potwar and Balochistan Plateaus."
+      },
+      {
+       "q": "Which of these is a port in the Coastal Region of Pakistan?",
+       "options": [
+        "Shanghai",
+        "Gwadar",
+        "Rotterdam",
+        "New York"
+       ],
+       "answer": 1,
+       "why": "Gwadar is a port in the Coastal Region of Pakistan, along with Karachi, which has a natural harbour, and Bin Qasim. Shanghai, Rotterdam and New York are famous seaports of other countries."
+      },
+      {
+       "q": "Which is the largest hot desert of the world?",
+       "options": [
+        "Thar",
+        "Gobi",
+        "Sahara",
+        "Antarctica"
+       ],
+       "answer": 2,
+       "why": "The Sahara in Africa is the largest hot desert of the world. The Thar is a hot desert in Pakistan and India, while the Gobi and Antarctica are cold deserts."
+      },
+      {
+       "q": "What does interdependence mean?",
+       "options": [
+        "Living alone without any help",
+        "The reliance of the people of one area on the people of other areas",
+        "Fighting between two regions",
+        "Building walls between provinces"
+       ],
+       "answer": 1,
+       "why": "Interdependence means the reliance of the people of one area on the people of other areas for food, goods, resources, technology and knowledge. It benefits both sides."
+      },
+      {
+       "q": "The wood and forest products of which region are used all over Pakistan?",
+       "options": [
+        "Sindh",
+        "Balochistan",
+        "Punjab",
+        "Gilgit-Baltistan"
+       ],
+       "answer": 3,
+       "why": "The thick forests of Gilgit-Baltistan give wood and other forest products which are used all over the country. In the same way, food comes from Punjab and Sindh and minerals from Khyber Pakhtunkhwa and Balochistan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Climate",
+   "lessons": [
+    {
+     "title": "Climate",
+     "notes_html": "<h4>Weather and Climate</h4>\n<p><b class=\"key\">Weather</b> is the condition of the atmosphere at a particular time, which includes temperature, humidity, pressure, winds and precipitation; for example, it rained today. <b class=\"key\">Climate</b> is the average weather of a place over a long period (<b class=\"key\">30 years</b>). Meteorologists collect the records of many years to find out the climate. For example, from 30 years of December data of Appletown, the average temperature is 701.5 ÷ 30 = about 23.4°C and the average rainfall is 126.5 ÷ 30 = about 4.2 mm. Weather changes quickly, but climate changes very slowly.</p>\n<h4>Factors Which Affect the Climate</h4>\n<ul><li>(1) <b class=\"key\">Latitude</b>: at the Equator the sun's rays are concentrated on a small area, so it is hotter there.</li><li>(2) <b class=\"key\">Altitude</b>: the temperature falls by <b class=\"key\">0.6°C for every 100 metres</b> we go up; for example, if it is 30°C in the plains, at 1,000 metres it will be 24°C.</li><li>(3) <b class=\"key\">Distance from the sea</b>: water heats and cools slowly, so Karachi is less hot in summer and less cold in winter than Jacobabad.</li></ul>\n<h4>The General Types of Climate</h4>\n<ul><li>(1) <b class=\"key\">Equatorial climate</b> — between 5°N and 5°S near the Equator; hot all the year, only one season, summer.</li><li>(2) <b class=\"key\">Tropical climate</b> — a long hot summer and a short cool winter.</li><li>(3) <b class=\"key\">Temperate climate</b> — between 23.5° and 66.5° North and South; neither very hot nor very cold, and it has four seasons.</li><li>(4) <b class=\"key\">Polar climate</b> — below freezing all the year, only one season, winter.</li></ul>\n<p>In each type of climate, the dress, food and houses of the people are according to it: in the Polar Region people wear very warm woollen clothes and fur, live in insulated houses and play ice hockey, skating and skiing.</p>\n<h4>The Greenhouse Effect</h4>\n<p>A greenhouse is a house of glass which lets the heat of the sun come in but stops it from going out. In the same way, gases like <b class=\"key\">carbon dioxide</b> (the main greenhouse gas) and <b class=\"key\">methane</b> in the atmosphere trap the heat of the sun near the Earth. This process is called the <b class=\"key\">greenhouse effect</b>; when these gases increase, the Earth becomes warmer, which is called <b class=\"key\">global warming</b>. Human activities increase these gases: cutting down forests, burning fossil fuels (coal, oil, gas) in vehicles and factories, and methane released by cows and other animals.</p>\n<h4>Protecting Our Earth</h4>\n<p>Individually we can: follow the three Rs — <b class=\"key\">Reduce, Reuse, Recycle</b>; save electricity and fuel and use clean energy (sun, wind, water); and plant trees. Socially we can: spread awareness, take part in tree-planting programmes, use public transport and dispose of trash properly.</p>\n<h4>Key Points</h4>\n<ul><li>Climate is the average weather of a place over 30 years.</li><li>Latitude, altitude and distance from the sea affect the climate.</li><li>Carbon dioxide is the main greenhouse gas; its increase causes global warming.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which region lies between the latitudes 5°N and 5°S?",
+       "options": [
+        "Equatorial Region",
+        "Tropical Region",
+        "Polar Region",
+        "Temperate Region"
+       ],
+       "answer": 0,
+       "why": "The Equatorial Region lies between the latitudes 5°N and 5°S, near the Equator. It is hot all the year and has only one season, summer."
+      },
+      {
+       "q": "What is the region called which lies between the latitudes 23.5° to 66.5° North and 23.5° to 66.5° South?",
+       "options": [
+        "Equatorial Region",
+        "Polar Region",
+        "Tropical Region",
+        "Temperate Region"
+       ],
+       "answer": 3,
+       "why": "The region between 23.5° and 66.5° North and South is the Temperate Region, which is neither very hot nor very cold and has four seasons. (The correct answer was missing from the options printed in the textbook; it is given correctly here.)"
+      },
+      {
+       "q": "Which city has a moderate climate because it is near the sea?",
+       "options": [
+        "Jacobabad",
+        "Lahore",
+        "Karachi",
+        "Multan"
+       ],
+       "answer": 2,
+       "why": "Karachi has a moderate climate because it is near the sea: water heats and cools slowly, so Karachi is less hot in summer and less cold in winter than Jacobabad."
+      },
+      {
+       "q": "Which is the main greenhouse gas?",
+       "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+       ],
+       "answer": 0,
+       "why": "Carbon dioxide is the main greenhouse gas. It traps the heat of the sun near the Earth; when such gases increase, the Earth becomes warmer, which is called global warming."
+      },
+      {
+       "q": "What is the average weather of a place over 30 years called?",
+       "options": [
+        "Climate",
+        "Weather",
+        "Season",
+        "Temperature"
+       ],
+       "answer": 0,
+       "why": "Climate is the average weather of a place over a long period (30 years). Weather is the condition of the atmosphere at a particular time and changes quickly."
+      },
+      {
+       "q": "By how much does the temperature fall for every 100 metres we go up?",
+       "options": [
+        "0.6°C",
+        "1°C",
+        "6°C",
+        "0.1°C"
+       ],
+       "answer": 0,
+       "why": "The temperature falls by 0.6°C for every 100 metres we go up. For example, if it is 30°C in the plains, at 1,000 metres it will be 24°C."
+      },
+      {
+       "q": "Weather is the condition of the atmosphere:",
+       "options": [
+        "Over 30 years",
+        "At a particular time",
+        "Only in summer",
+        "Only near the sea"
+       ],
+       "answer": 1,
+       "why": "Weather is the condition of the atmosphere at a particular time, which includes temperature, humidity, pressure, winds and precipitation; for example, it rained today or it is very hot today."
+      },
+      {
+       "q": "In which type of climate is it below freezing all the year, with only one season — winter?",
+       "options": [
+        "Equatorial climate",
+        "Tropical climate",
+        "Temperate climate",
+        "Polar climate"
+       ],
+       "answer": 3,
+       "why": "The Polar climate is below freezing all the year and has only one season, winter. People there wear very warm woollen clothes and fur and live in insulated houses."
+      },
+      {
+       "q": "Which greenhouse gas is released by cows and other animals?",
+       "options": [
+        "Oxygen",
+        "Methane",
+        "Nitrogen",
+        "Hydrogen"
+       ],
+       "answer": 1,
+       "why": "Cows and other animals release methane gas. Methane and carbon dioxide increase the greenhouse effect, which makes the Earth warmer and changes the climate."
+      },
+      {
+       "q": "The three Rs for protecting our Earth are:",
+       "options": [
+        "Read, Write, Repeat",
+        "Reduce, Reuse, Recycle",
+        "Run, Rest, Return",
+        "Remove, Replace, Repair"
+       ],
+       "answer": 1,
+       "why": "The three Rs are Reduce, Reuse and Recycle. Together with saving electricity and fuel, using clean energy and planting trees, they help us protect the Earth from climate change."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Why Do We Learn History?",
+   "lessons": [
+    {
+     "title": "Why Do We Learn History?",
+     "notes_html": "<h4>Why Do We Learn History?</h4>\n<p><b class=\"key\">History</b> is the study of how people lived in the past. We learn history so that we can understand the world of today: where our language, dress, laws and government came from, and why other peoples live in ways different from ours. From history we can learn from the successes and failures of the past and make our world better, so that we do not <b class=\"key\">repeat the mistakes</b> made before. A \"time capsule\" box, filled with things that tell about life today, helps people in the future learn about our times in the same way.</p>\n<h4>BC, AD and AH</h4>\n<ul><li><b class=\"key\">BC</b> stands for \"Before Christ\", that is, the years before the birth of Jesus Christ, which are <b class=\"key\">counted backwards</b>.</li><li><b class=\"key\">AD</b> stands for the Latin words \"Anno Domini\", which mean \"the year of our Lord\"; these years are counted forward from the birth of Jesus Christ, for example Sir Syed Ahmed Khan was born in 1817 AD.</li><li><b class=\"key\">AH</b> stands for \"After Hijrah\"; the lunar calendar begins from the year when the Holy Prophet (PBUH) migrated from Makkah to Madina.</li></ul>\n<h4>The Solar and Lunar Calendars</h4>\n<p>The <b class=\"key\">solar calendar</b> is based on the Earth's revolution around the sun. Its year has <b class=\"key\">365 days</b> (366 in a leap year) and its months are January to December. The Earth completes its revolution in about 365¼ days; the quarter days add up to make one extra day every fourth year, which is called a <b class=\"key\">leap year</b>, and February has 29 days. The <b class=\"key\">lunar calendar</b> is based on the moon's revolution around the Earth; its months have 29 or 30 days and its year has about <b class=\"key\">354 days</b>, so the lunar year is 11 days shorter than the solar year. Its months are Muharram, Safar, Rabi-ul-Awwal, Rabi-ul-Sani, Jamadi-ul-Awwal, Jamadi-ul-Sani, Rajab, Shaban, Ramadan, Shawwal, Ziqaad and Zilhaj.</p>\n<h4>Counting Time</h4>\n<ul><li>There are 7 days in a week. A solar month has 28 to 31 days; a lunar month has 29 or 30 days.</li><li>A <b class=\"key\">decade</b> has 10 years, a <b class=\"key\">century</b> has 100 years and a <b class=\"key\">millennium</b> has 1000 years. Pakistan was created in the 20th century, in 1947 AD.</li><li>Remember: the years of AD go forward and the years of BC go backwards. Saleem was born in 50 AD and lived for 40 years, so he died in 90 AD. Mariam was born in 90 BC and lived for 60 years, so she died in 30 BC. Sharukh, born in 105 BC and died in 40 BC, lived for 65 years.</li></ul>\n<h4>Key Points</h4>\n<ul><li>History teaches us about the past so that we do not repeat its mistakes.</li><li>The solar year has 365 days; the lunar year has about 354 days.</li><li>A decade = 10 years, a century = 100 years, a millennium = 1000 years.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many days are there in a leap year?",
+       "options": [
+        "365",
+        "364",
+        "366",
+        "360"
+       ],
+       "answer": 2,
+       "why": "A leap year has 366 days. The Earth takes about 365¼ days to go around the sun; the quarter days add up to one extra day every fourth year, and February then has 29 days."
+      },
+      {
+       "q": "How many days are there in the month of February in a leap year?",
+       "options": [
+        "28",
+        "30",
+        "29",
+        "31"
+       ],
+       "answer": 2,
+       "why": "In a leap year February has 29 days instead of 28, because the quarter days of four years add up to make one extra day every fourth year."
+      },
+      {
+       "q": "How many years are there in a decade?",
+       "options": [
+        "10",
+        "100",
+        "1000",
+        "12"
+       ],
+       "answer": 0,
+       "why": "A decade has 10 years. A century has 100 years and a millennium has 1000 years; these long periods help us to arrange and remember events in history."
+      },
+      {
+       "q": "How many years are there in a century?",
+       "options": [
+        "10",
+        "100",
+        "1000",
+        "50"
+       ],
+       "answer": 1,
+       "why": "A century has 100 years. For example, Pakistan was created in the 20th century, in 1947 AD, and a millennium has 1000 years."
+      },
+      {
+       "q": "How many years are there in a millennium?",
+       "options": [
+        "100 years",
+        "500 years",
+        "1000 years",
+        "10 years"
+       ],
+       "answer": 2,
+       "why": "A millennium has 1000 years. A decade has 10 years and a century has 100 years; these periods help us arrange events in history."
+      },
+      {
+       "q": "In which direction are the years of BC counted?",
+       "options": [
+        "Forward",
+        "Backwards",
+        "In circles",
+        "They are not counted"
+       ],
+       "answer": 1,
+       "why": "The years of BC (Before Christ) are counted backwards, while the years of AD go forward. For example, Mariam, born in 90 BC, who lived 60 years, died in 30 BC."
+      },
+      {
+       "q": "About how many days are there in a lunar year?",
+       "options": [
+        "365",
+        "366",
+        "354",
+        "300"
+       ],
+       "answer": 2,
+       "why": "A lunar year has about 354 days, because its months have 29 or 30 days. It is 11 days shorter than the solar year of 365 days, so the lunar months move backwards in the solar calendar every year."
+      },
+      {
+       "q": "What does AH stand for?",
+       "options": [
+        "After Hijrah",
+        "Anno Domini",
+        "After History",
+        "Arabian History"
+       ],
+       "answer": 0,
+       "why": "AH stands for \"After Hijrah\". The lunar calendar begins from the year when the Holy Prophet (PBUH) migrated from Makkah to Madina. AD stands for Anno Domini."
+      },
+      {
+       "q": "Saleem was born in 50 AD and lived for 40 years. In which year did he die?",
+       "options": [
+        "10 AD",
+        "40 AD",
+        "90 AD",
+        "50 BC"
+       ],
+       "answer": 2,
+       "why": "The years of AD go forward, so we add: 50 + 40 = 90. Saleem died in 90 AD. In BC the years are counted backwards, so there we subtract."
+      },
+      {
+       "q": "The solar calendar is based on:",
+       "options": [
+        "The moon's revolution around the Earth",
+        "The Earth's revolution around the sun",
+        "The change of seasons only",
+        "The movement of the stars"
+       ],
+       "answer": 1,
+       "why": "The solar calendar is based on the Earth's revolution around the sun; its year has 365 days (366 in a leap year). The lunar calendar is based on the moon's revolution around the Earth."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Struggle for Independence",
+   "lessons": [
+    {
+     "title": "The Struggle for Independence",
+     "notes_html": "<h4>After the War of 1857</h4>\n<p>After the failure of the <b class=\"key\">War of Independence (1857)</b>, the British blamed the Muslims for it and treated them harshly: their jobs and lands began to be taken away and they were left behind in education. <b class=\"key\">Sir Syed Ahmed Khan</b> explained the real causes of the war to the British and advised the Muslims to get modern education and learn English and science. He founded the <b class=\"key\">MAO College at Aligarh</b>, which became the Aligarh Muslim University in <b class=\"key\">1920</b>.</p>\n<h4>The Muslim League and the Demand for a Homeland</h4>\n<ul><li>The <b class=\"key\">Congress was formed in 1885</b> and gradually became a Hindu party, so the rights of the Muslims began to be ignored.</li><li>In <b class=\"key\">1906</b>, Nawab Salimullah and other leaders formed the <b class=\"key\">Muslim League</b> to protect the rights of the Muslims; from 1913 it also began to demand self-government.</li><li>In the <b class=\"key\">Lucknow Pact (1916)</b>, the Congress accepted separate electorates for the Muslims.</li><li>In his <b class=\"key\">Allahabad Address of December 1930</b>, Allama Muhammad Iqbal proposed that Punjab, the North-West Frontier Province (now Khyber Pakhtunkhwa), Sindh and Balochistan should together form a separate state for the Muslims — the first time this idea was put forward.</li><li>After the elections of 1937, the Congress governments made \"Vande Mataram\" the anthem, Hindi replaced Urdu and cow slaughter was banned, so the Muslims became sure that their rights could be safe only in a <b class=\"key\">separate homeland</b>.</li></ul>\n<h4>The Road to Pakistan</h4>\n<p>The idea behind the demand was the <b class=\"key\">Two-Nation Theory</b>: the Hindus and the Muslims are two separate nations. The <b class=\"key\">Pakistan Resolution</b> was passed on 23 March <b class=\"key\">1940</b>, formally demanding independent Muslim states. The First World War lasted from 1914 to 1918 (Central Powers: Germany, Austria, Turkey; Allies: Britain, France, Japan, Russia, USA), and the Second World War (1939–1945) left Britain weak. In the elections of <b class=\"key\">1945–46</b> the Muslim League won all the Muslim seats in the Central Assembly. In 1947, <b class=\"key\">Lord Mountbatten</b> transferred power and Pakistan was created. Conflicts can be solved in these ways: Communicate, Negotiate, Mediate, Arbitrate, Litigate and Legislate.</p>\n<h4>Why Freedom Is Important</h4>\n<p>In a free country people can practise their religion and live according to their language and culture freely. A free nation takes its own decisions and makes its own laws. In slavery, the rights of the people are taken away, so freedom is the greatest blessing for every nation.</p>\n<h4>Key Points</h4>\n<ul><li>Muslim League formed in 1906; Pakistan Resolution passed in 1940.</li><li>Allama Iqbal first proposed a separate Muslim state in 1930.</li><li>Pakistan was created in 1947 after the elections of 1945–46 proved the Muslims wanted it.</li></ul>",
+     "mcqs": [
+      {
+       "q": "In which year was the War of Independence fought?",
+       "options": [
+        "1856",
+        "1857",
+        "1757",
+        "1947"
+       ],
+       "answer": 1,
+       "why": "The War of Independence was fought in 1857. After its failure, the British blamed the Muslims for it and treated them harshly, and their jobs and lands began to be taken away."
+      },
+      {
+       "q": "In which year was the Congress formed?",
+       "options": [
+        "1906",
+        "1885",
+        "1916",
+        "1940"
+       ],
+       "answer": 1,
+       "why": "The Congress was formed in 1885. It gradually became a Hindu party and the rights of the Muslims began to be ignored, so the Muslims formed their own party in 1906."
+      },
+      {
+       "q": "In which year was the Muslim League formed?",
+       "options": [
+        "1885",
+        "1906",
+        "1916",
+        "1940"
+       ],
+       "answer": 1,
+       "why": "The Muslim League was formed in 1906 by Nawab Salimullah and other leaders to protect the rights of the Muslims. From 1913 it also began to demand self-government."
+      },
+      {
+       "q": "In which year was the Pakistan Resolution passed?",
+       "options": [
+        "1930",
+        "1935",
+        "1940",
+        "1947"
+       ],
+       "answer": 2,
+       "why": "The Pakistan Resolution was passed on 23 March 1940. In it, independent Muslim states were formally demanded for the Muslims of the subcontinent."
+      },
+      {
+       "q": "Who transferred power in 1947?",
+       "options": [
+        "Lord Curzon",
+        "Lord Wavell",
+        "Lord Mountbatten",
+        "A. O. Hume"
+       ],
+       "answer": 2,
+       "why": "Lord Mountbatten transferred power in 1947, when the Indian Independence Act was passed and two separate independent countries, Pakistan and India, were created."
+      },
+      {
+       "q": "Who founded the MAO College at Aligarh?",
+       "options": [
+        "Allama Iqbal",
+        "Sir Syed Ahmed Khan",
+        "Quaid-i-Azam",
+        "Nawab Salimullah"
+       ],
+       "answer": 1,
+       "why": "Sir Syed Ahmed Khan founded the MAO College at Aligarh, which became the Aligarh Muslim University in 1920. He advised the Muslims to get modern education and learn English and science."
+      },
+      {
+       "q": "Who first proposed a separate Muslim state in the Allahabad Address of 1930?",
+       "options": [
+        "Sir Syed Ahmed Khan",
+        "Quaid-i-Azam Muhammad Ali Jinnah",
+        "Allama Muhammad Iqbal",
+        "Liaquat Ali Khan"
+       ],
+       "answer": 2,
+       "why": "In his Allahabad Address of December 1930, Allama Muhammad Iqbal proposed that Punjab, the North-West Frontier Province, Sindh and Balochistan should form a separate state for the Muslims — the first time this idea was put forward."
+      },
+      {
+       "q": "What did the Congress accept for the Muslims in the Lucknow Pact of 1916?",
+       "options": [
+        "Separate electorates",
+        "A separate country",
+        "Separate schools",
+        "A separate army"
+       ],
+       "answer": 0,
+       "why": "In the Lucknow Pact of 1916, the Congress accepted separate electorates for the Muslims. It is counted among the important decisions of the struggle for independence."
+      },
+      {
+       "q": "The MAO College at Aligarh became the Aligarh Muslim University in which year?",
+       "options": [
+        "1906",
+        "1916",
+        "1920",
+        "1947"
+       ],
+       "answer": 2,
+       "why": "The MAO College founded by Sir Syed Ahmed Khan became the Aligarh Muslim University in 1920. His educational, religious and political services gave a new life to the Muslims."
+      },
+      {
+       "q": "In the elections of 1945–46, the Muslim League:",
+       "options": [
+        "Lost most Muslim seats",
+        "Won all the Muslim seats in the Central Assembly",
+        "Did not take part",
+        "Won only in Sindh"
+       ],
+       "answer": 1,
+       "why": "In the elections of 1945–46, the Muslim League won all the Muslim seats in the Central Assembly and proved that the Muslims wanted a separate homeland, so Pakistan was created in 1947."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Important People and Events in the History of Pakistan and the World",
+   "lessons": [
+    {
+     "title": "Important People and Events in the History of Pakistan and the World",
+     "notes_html": "<h4>A Timeline of Pakistan</h4>\n<ul><li><b class=\"key\">1947</b>: Pakistan was created on 14 August; its first Prime Minister was <b class=\"key\">Liaquat Ali Khan</b>. The Quaid-i-Azam died in 1948.</li><li><b class=\"key\">1958</b>: the first Martial Law was imposed. <b class=\"key\">1960</b>: the Indus Water Treaty was signed.</li><li><b class=\"key\">1973</b>: the new Constitution was enforced and the country was named the \"Islamic Republic of Pakistan\".</li><li><b class=\"key\">1988</b>: Benazir Bhutto became the Prime Minister and democracy returned. <b class=\"key\">1992</b>: Pakistan won the Cricket World Cup.</li><li><b class=\"key\">2005</b>: a severe earthquake struck Azad Kashmir. <b class=\"key\">2014</b>: Malala Yousufzai was awarded the Nobel Peace Prize.</li><li>After the election of <b class=\"key\">2013</b>, Nawaz Sharif became the Prime Minister.</li></ul>\n<h4>Inventions and Discoveries</h4>\n<p>1949: the first computer was built, which was very big. 1950: the first modern credit card was made. 1951: colour television came. 1952: the polio vaccine was made. <b class=\"key\">1957</b>: the Russians launched the <b class=\"key\">Sputnik</b> satellite into space and the space age began. 1970: the pocket calculator was made. 1981: the personal computer (IBM) was introduced. 1994: the use of the internet began. 1996: scientists cloned the sheep Dolly. In <b class=\"key\">1969</b> the first man walked on the Moon, and in <b class=\"key\">1985</b> the hole in the ozone layer was discovered.</p>\n<h4>Great People and Their Ideas</h4>\n<ul><li><b class=\"key\">Quaid-i-Azam Muhammad Ali Jinnah</b> — a separate homeland for the Muslims on the basis of the Two-Nation Theory; today we live in a free Pakistan.</li><li><b class=\"key\">Zulfiqar Ali Bhutto</b> — \"roti, kapra aur makan\" (food, clothing and shelter), the rights of the common man.</li><li><b class=\"key\">Nelson Mandela</b> — freedom, equality and the end of racial discrimination; apartheid ended in South Africa.</li><li><b class=\"key\">Mother Teresa</b> — service to the poor and the destitute; she received the Nobel Prize for promoting peace.</li><li><b class=\"key\">Malala Yousufzai</b> — raised her voice for the education of girls; attacked but survived, and in 2014 became the youngest person to receive the Nobel Peace Prize.</li></ul>\n<h4>Problems Old and New</h4>\n<p>On <b class=\"key\">8 October 2005</b> a severe earthquake of intensity 7.6, centred in <b class=\"key\">Azad Kashmir</b>, killed more than 80,000 people and left about four million homeless; people learnt the importance of earthquake-safe buildings. The <b class=\"key\">Berlin Wall</b> was built in 1961 by East Germany in the middle of Berlin to stop people going from east to west; in 1990 it was brought down and Germany became one country again. Illiteracy is a problem that started in the past and still exists today; the government is building new schools, giving free textbooks and hiring teachers to solve it.</p>\n<h4>Key Points</h4>\n<ul><li>Liaquat Ali Khan was the first Prime Minister of Pakistan.</li><li>The first man walked on the Moon in 1969; the ozone hole was discovered in 1985.</li><li>Democracy means the people elect the government and the law is equal for everyone.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Who was the first Prime Minister of Pakistan?",
+       "options": [
+        "Quaid-i-Azam",
+        "Liaquat Ali Khan",
+        "Ayub Khan",
+        "Zulfiqar Ali Bhutto"
+       ],
+       "answer": 1,
+       "why": "Liaquat Ali Khan was the first Prime Minister of Pakistan. The Quaid-i-Azam Muhammad Ali Jinnah was the first Governor-General and led the movement that created Pakistan in 1947."
+      },
+      {
+       "q": "In which year did the first man walk on the Moon?",
+       "options": [
+        "1957",
+        "1969",
+        "1973",
+        "1992"
+       ],
+       "answer": 1,
+       "why": "The first man walked on the Moon in 1969. In 1957 the Sputnik satellite began the space age, and Neil Armstrong of the USA was the first person to step on the Moon."
+      },
+      {
+       "q": "Who became the Prime Minister of Pakistan after the election of 2013?",
+       "options": [
+        "Yousaf Raza Gilani",
+        "Nawaz Sharif",
+        "Raja Pervez Ashraf",
+        "Shaukat Aziz"
+       ],
+       "answer": 1,
+       "why": "After the election of 2013, Nawaz Sharif became the Prime Minister of Pakistan. In that election an elected government completed five years and handed over power through elections."
+      },
+      {
+       "q": "In which year was the hole in the ozone layer discovered?",
+       "options": [
+        "1979",
+        "1985",
+        "1990",
+        "2005"
+       ],
+       "answer": 1,
+       "why": "The hole in the ozone layer was discovered in 1985. Its short-term effect was that more harmful rays of the sun began to reach the Earth, so the countries of the world had to work together to save the environment."
+      },
+      {
+       "q": "For what did Mother Teresa receive the Nobel Prize?",
+       "options": [
+        "Physics",
+        "Chemistry",
+        "Promoting Peace",
+        "Literature"
+       ],
+       "answer": 2,
+       "why": "Mother Teresa received the Nobel Peace Prize for promoting peace through her service to the poor and the destitute. She was kind, selfless, patient and hardworking all her life."
+      },
+      {
+       "q": "In which year was the Indus Water Treaty signed?",
+       "options": [
+        "1947",
+        "1958",
+        "1960",
+        "1973"
+       ],
+       "answer": 2,
+       "why": "The Indus Water Treaty was signed in 1960. It was one of the important events of the 1960s in the history of Pakistan, along with the war of 1965."
+      },
+      {
+       "q": "The launching of the Sputnik satellite in 1957 began:",
+       "options": [
+        "The computer age",
+        "The space age",
+        "The internet age",
+        "The television age"
+       ],
+       "answer": 1,
+       "why": "In 1957 the Russians launched the Sputnik satellite into space and the space age began. The first computer had been built earlier, in 1949, and the use of the internet began in 1994."
+      },
+      {
+       "q": "The severe earthquake of 2005 was centred in:",
+       "options": [
+        "Karachi",
+        "Azad Kashmir",
+        "Quetta",
+        "Peshawar"
+       ],
+       "answer": 1,
+       "why": "The earthquake of 8 October 2005, of intensity 7.6, was centred in Azad Kashmir. More than 80,000 people died and about four million people became homeless."
+      },
+      {
+       "q": "In which year was the Berlin Wall built in the city of Berlin?",
+       "options": [
+        "1945",
+        "1961",
+        "1973",
+        "1990"
+       ],
+       "answer": 1,
+       "why": "The Berlin Wall was built in 1961 by the government of East Germany so that people could not go from the east to the west. In 1990 the wall was brought down and Germany became one country again."
+      },
+      {
+       "q": "Malala Yousufzai was awarded the Nobel Peace Prize in:",
+       "options": [
+        "1992",
+        "2005",
+        "2013",
+        "2014"
+       ],
+       "answer": 3,
+       "why": "Malala Yousufzai was awarded the Nobel Peace Prize in 2014 for her work for the education of girls. She became the youngest person to receive this prize."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Culture",
+   "lessons": [
+    {
+     "title": "Culture",
+     "notes_html": "<h4>What Is Culture?</h4>\n<p><b class=\"key\">Culture</b> is the ways of living which the people of a group build up and pass on <b class=\"key\">from one generation to another</b>. It includes dress, food, language, customs and traditions (marriage, religious practices), books, music, buildings and rules of behaviour. Culture also keeps changing slowly with time and with interaction with other groups. Pakistan is a <b class=\"key\">multicultural</b> society: many cultural groups — Sindhi, Punjabi, Pakhtun, Balochi and Siraiki, and also Kashmiri, Hazara and Gilgiti — live here, each with its own language, dress and foods, but all of them are Pakistanis.</p>\n<h4>What the Groups of Pakistan Share</h4>\n<p>All the groups in Pakistan speak and understand <b class=\"key\">Urdu</b>, eat vegetables and roti and wear <b class=\"key\">shalwar kameez</b>. Most of them are Muslims and celebrate the Eids and the national days (14 August, 23 March) together. The advantages of a common culture are that people understand each other easily, national unity is created, and in difficult times the whole nation stands united. The differences are also real: special foods differ, for example sarson ka saag and makai ki roti in Punjab and Sajji and Chapli Kabab among the Pakhtuns, and festivals differ, for example <b class=\"key\">Ekta Day in Sindh</b> and the <b class=\"key\">Sibi Mela in Balochistan</b>.</p>\n<h4>Handicrafts of Sindh</h4>\n<ul><li>(1) <b class=\"key\">Ajrak</b> — the traditional printed cloth.</li><li>(2) <b class=\"key\">Rilli</b> — a quilt or cover made of colourful pieces.</li><li>(3) The Sindhi topi and embroidery.</li><li>(4) The <b class=\"key\">blue pottery of Hala</b>.</li><li>(5) Calligraphy. (6) Decorated buses and truck art.</li></ul>\n<p>These handicrafts are the means of livelihood of many families and present the identity of Sindh to the world.</p>\n<h4>How a Child Learns Culture</h4>\n<p>A child learns his culture through <b class=\"key\">socialization</b>. The <b class=\"key\">family is the first institution</b> of socialization: the child learns the mother tongue, saying salaam to the elders, prayers and the manners of eating from home. In school he learns punctuality, cleanliness and teamwork, and religious institutions teach the way to pray and values. When people respect each other's culture, friendship and trust increase and peace and harmony are created; lack of respect causes quarrels, violence and loss.</p>\n<h4>Another Culture: China</h4>\n<p>China is the northern neighbour of Pakistan and, as the chapter tells us, the <b class=\"key\">most populous country of the world</b>. Its national language is <b class=\"key\">Mandarin</b>, the language spoken by the largest number of people in the world. Rice is the most common food, eaten with chopsticks, along with noodles and dumplings. The biggest festival is the <b class=\"key\">Chinese New Year</b> (Spring Festival). The two main groups of Sri Lanka are the Sinhalese and the Tamils.</p>\n<h4>Key Points</h4>\n<ul><li>Culture is passed from one generation to another; Pakistan is a multicultural society.</li><li>The family is the first institution of socialization.</li><li>Respect for other cultures creates peace, unity and progress.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What kind of society is Pakistan?",
+       "options": [
+        "One culture",
+        "Two cultures",
+        "Multicultural",
+        "No culture"
+       ],
+       "answer": 2,
+       "why": "Pakistan is a multicultural society. Many cultural groups — Sindhi, Punjabi, Pakhtun, Balochi, Siraiki and others — live here, each with its own language, dress and foods."
+      },
+      {
+       "q": "Which is the first institution of socialization?",
+       "options": [
+        "Family",
+        "School",
+        "Media",
+        "Friends"
+       ],
+       "answer": 0,
+       "why": "The family is the first institution of socialization. From home the child learns the mother tongue, saying salaam to the elders, prayers and the manners of eating."
+      },
+      {
+       "q": "Which language is spoken by the largest number of people in the world?",
+       "options": [
+        "English",
+        "Mandarin",
+        "Urdu",
+        "Hindi"
+       ],
+       "answer": 1,
+       "why": "Mandarin, the national language of China, is spoken by the largest number of people in the world. The national language of Pakistan is Urdu."
+      },
+      {
+       "q": "Which are the two main groups of Sri Lanka?",
+       "options": [
+        "Sinhalese and Tamils",
+        "Punjabis and Sindhis",
+        "Chinese and Japanese",
+        "English and French"
+       ],
+       "answer": 0,
+       "why": "The two main groups of Sri Lanka are the Sinhalese and the Tamils. Pakistan also has many cultural groups, such as Sindhi, Punjabi, Pakhtun, Balochi and Siraiki."
+      },
+      {
+       "q": "Which is the most populous country of the world, as told in this chapter?",
+       "options": [
+        "China",
+        "India",
+        "USA",
+        "Pakistan"
+       ],
+       "answer": 0,
+       "why": "The chapter tells us that China, the northern neighbour of Pakistan, is the most populous country of the world. Its national language is Mandarin and rice is its most common food."
+      },
+      {
+       "q": "Ajrak, the traditional printed cloth, is a famous handicraft of:",
+       "options": [
+        "Punjab",
+        "Sindh",
+        "Balochistan",
+        "Khyber Pakhtunkhwa"
+       ],
+       "answer": 1,
+       "why": "Ajrak is a famous handicraft of Sindh, along with Rilli, the Sindhi topi and embroidery, the blue pottery of Hala, calligraphy and truck art."
+      },
+      {
+       "q": "The blue pottery is a famous handicraft of which city?",
+       "options": [
+        "Multan",
+        "Hyderabad",
+        "Hala",
+        "Sukkur"
+       ],
+       "answer": 2,
+       "why": "The blue pottery of Hala is one of the famous handicrafts of Sindh. These handicrafts are the means of livelihood of many families and present the identity of Sindh to the world."
+      },
+      {
+       "q": "The Sibi Mela is a famous festival of:",
+       "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "Gilgit-Baltistan"
+       ],
+       "answer": 2,
+       "why": "The Sibi Mela is celebrated in Balochistan, just as Ekta Day is celebrated in Sindh. Such different festivals show the rich variety of cultures in Pakistan."
+      },
+      {
+       "q": "The biggest festival of China is:",
+       "options": [
+        "The Lantern Festival",
+        "The Chinese New Year",
+        "The Laba Festival",
+        "Eid-ul-Fitr"
+       ],
+       "answer": 1,
+       "why": "The biggest festival of China is the Chinese New Year (Spring Festival), in which houses are cleaned, fireworks are displayed and lion and dragon dances are performed."
+      },
+      {
+       "q": "Culture is passed on:",
+       "options": [
+        "Only through books",
+        "Only through schools",
+        "From one generation to another",
+        "Only through the media"
+       ],
+       "answer": 2,
+       "why": "Culture is the ways of living which the people of a group build up and pass on from one generation to another. It includes dress, food, language, customs and traditions."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Goods and Services",
+   "lessons": [
+    {
+     "title": "Goods and Services",
+     "notes_html": "<h4>Private Goods and Services</h4>\n<p><b class=\"key\">Private goods and services</b> are those which are produced by a person or a group of persons and sold to the consumers. They become the property of the buyer, and a person who does not pay cannot use them. Examples: restaurant meals, a car or a bicycle, books and clothes, a packet of chips, a pen and a haircut from a barber shop.</p>\n<h4>Public Goods and Services</h4>\n<p><b class=\"key\">Public goods and services</b> are so important that they should be available to everyone; they are provided by the <b class=\"key\">government</b>, which meets their cost from taxes and fees. In them, no one can be stopped from using them (<b class=\"key\">no excludability</b>), and one person's use does not reduce them for another (<b class=\"key\">no rivalry</b>). Examples: <b class=\"key\">street lights, police protection, parks</b>, roads, traffic lights and national defence (the army). The chapter also counts a zoo as public, because it is provided by the government like a park.</p>\n<h4>Banks and the State Bank</h4>\n<p><b class=\"key\">Commercial banks</b> accept deposits from the public, lend money and process payments. People borrow from banks to buy a house, a car or for the higher education of children, and repay the loan gradually in instalments; business persons borrow to set up or expand their business. The <b class=\"key\">State Bank of Pakistan</b> is the central bank of the country: it issues the currency notes, maintains the value of the Pakistani Rupee, is the bank of the governments and of all the commercial banks, and keeps relations with the World Bank and the IMF.</p>\n<h4>Exports and Imports</h4>\n<p><b class=\"key\">Exports</b> are the goods and services produced in one country and sold to other countries; <b class=\"key\">imports</b> are the goods bought from sellers in other countries. From the chapter's graphs, Pakistan's three largest exports are <b class=\"key\">cotton textiles</b> (28%), rice (16%) and sports goods (14%), and its three largest imports are <b class=\"key\">fuel</b> (40%), heavy machinery (18%) and edible oil (12%). Pakistan imports fuel from Saudi Arabia, heavy machinery from China, edible oil from Malaysia, tea from Kenya and cars and electronic goods from Japan. International trade is important because the country earns money from exports, factories run, people get employment, and friendship between countries increases.</p>\n<h4>Prices and the Economic System</h4>\n<p>The government controls the prices of basic needs like <b class=\"key\">wheat flour and sugar</b>, so that everyone can buy them, while the prices of things like fruits and clothes are decided by demand and supply. The economic system of Pakistan is a <b class=\"key\">mixed economy</b>.</p>\n<h4>Key Points</h4>\n<ul><li>Public goods are for everyone and are provided by the government; private goods are bought and owned.</li><li>The State Bank is the central bank; commercial banks deal with the public.</li><li>Cotton textiles are Pakistan's largest export and fuel its largest import.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Street lights, police and parks are examples of which goods?",
+       "options": [
+        "Private goods",
+        "Public goods",
+        "Exports",
+        "Imports"
+       ],
+       "answer": 1,
+       "why": "Street lights, police and parks are public goods: they are provided by the government for everyone, no one can be stopped from using them, and one person's use does not reduce them for another."
+      },
+      {
+       "q": "Which is the central bank of Pakistan?",
+       "options": [
+        "State Bank",
+        "Commercial bank",
+        "Post office",
+        "Treasury"
+       ],
+       "answer": 0,
+       "why": "The State Bank of Pakistan is the central bank of the country. It issues the currency notes, maintains the value of the Rupee and is the bank of the governments and of all the commercial banks."
+      },
+      {
+       "q": "What are the goods produced in one country and sold to other countries called?",
+       "options": [
+        "Exports",
+        "Imports",
+        "Taxes",
+        "Fees"
+       ],
+       "answer": 0,
+       "why": "Goods and services produced in one country and sold to other countries are called exports. Pakistan exports rice, cotton and cotton textiles, leather goods and sports goods."
+      },
+      {
+       "q": "Which banks accept deposits from the public, lend money and process payments?",
+       "options": [
+        "State Bank",
+        "Commercial banks",
+        "Post office",
+        "Big shops"
+       ],
+       "answer": 1,
+       "why": "Commercial banks accept deposits from the public, lend money and process payments. The State Bank is the central bank; it is the bank of the governments and of the commercial banks, not of the public."
+      },
+      {
+       "q": "What is the economic system of Pakistan?",
+       "options": [
+        "Fully government",
+        "Fully private",
+        "Mixed economy",
+        "None of these"
+       ],
+       "answer": 2,
+       "why": "Pakistan has a mixed economy: some goods and services are provided by the government, like street lights and police, and many are produced and sold by private persons and businesses."
+      },
+      {
+       "q": "According to the chapter's graphs, the largest export of Pakistan is:",
+       "options": [
+        "Rice",
+        "Sports goods",
+        "Cotton textiles",
+        "Surgical instruments"
+       ],
+       "answer": 2,
+       "why": "Cotton textiles are Pakistan's largest export, 28% of the total, followed by rice (16%) and sports goods (14%). Exports earn money with which the country buys the things it needs."
+      },
+      {
+       "q": "According to the chapter's graphs, the largest import of Pakistan is:",
+       "options": [
+        "Fuel",
+        "Edible oil",
+        "Tea",
+        "Wheat"
+       ],
+       "answer": 0,
+       "why": "Fuel is Pakistan's largest import, 40% of the total, followed by heavy machinery (18%) and edible oil (12%). Fuel is needed for vehicles and machines and is not found in enough quantity in the country."
+      },
+      {
+       "q": "In this chapter, a zoo is counted as which kind of good?",
+       "options": [
+        "Private good",
+        "Public good",
+        "Export",
+        "Import"
+       ],
+       "answer": 1,
+       "why": "The chapter counts a zoo as a public good because it is provided by the government, like a park, for all citizens, even though an entrance fee may be charged."
+      },
+      {
+       "q": "The prices of wheat flour and sugar are controlled by:",
+       "options": [
+        "The shopkeepers",
+        "Demand and supply",
+        "The government",
+        "The banks"
+       ],
+       "answer": 2,
+       "why": "The government fixes the price limits of basic needs like wheat flour and sugar so that everyone can buy them. The prices of fruits and clothes, in contrast, are determined by demand and supply."
+      },
+      {
+       "q": "According to the chapter's table, Pakistan imports tea from:",
+       "options": [
+        "China",
+        "Japan",
+        "Malaysia",
+        "Kenya"
+       ],
+       "answer": 3,
+       "why": "Pakistan imports tea from Kenya, whose currency is the Shilling, because the demand for tea is higher than the local production. Edible oil comes from Malaysia and heavy machinery from China."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Money in our Lives",
+   "lessons": [
+    {
+     "title": "Money in our Lives",
+     "notes_html": "<h4>How Money Evolved</h4>\n<ul><li><b class=\"key\">9000–6000 BC</b>: farm animals were used as a unit of exchange; after that, crops, cattle and seeds were exchanged — this system of exchanging goods for goods is called the <b class=\"key\">barter system</b>.</li><li><b class=\"key\">1200 BC</b>: sea shells became money — Cowries in Africa and Wampum in America.</li><li><b class=\"key\">1000 BC</b>: in China, metal tools and metal coins with holes in the middle.</li><li><b class=\"key\">500 BC</b>: silver coins in Turkey, later bronze and gold coins.</li><li><b class=\"key\">118 BC</b>: in China, banknotes of leather (deerskin).</li><li><b class=\"key\">9th–14th century AD</b>: the first paper money in <b class=\"key\">China</b>; then paper notes and coins all over the world.</li><li>Today: <b class=\"key\">electronic money</b> — in electronic trade no actual money changes hands; only the values of the accounts of the buyer and the seller change.</li></ul>\n<h4>Income and Expenditure</h4>\n<p>The money that is earned is called <b class=\"key\">income</b>, and the money that is spent is called <b class=\"key\">expenditure</b>. There are two basic ways of generating income: (1) making something that others will buy, called a <b class=\"key\">good</b>, for example homemade biscuits, lemonade and jewellery; and (2) doing work that others will pay for, called a <b class=\"key\">service</b>, for example cutting hair, sewing clothes and mending shoes. People also get a salary from a job, profit from a business and rent from property. A person who organizes and manages a business is called an <b class=\"key\">entrepreneur</b>, and he gets the profit. Profit is the amount left after deducting all the costs from the total sales; if the costs become more than the sales, there is a loss.</p>\n<h4>Currencies of Different Countries</h4>\n<p>Pakistan — Rupee; India — Rupee; Bangladesh — Taka; Afghanistan — Afghani; Saudi Arabia — Riyal; United Arab Emirates — Dirham; USA — Dollar; <b class=\"key\">UK — Pound</b>; China — Yuan; <b class=\"key\">Japan — Yen</b>. Every country has its own currency.</p>\n<h4>Why Wages Differ</h4>\n<p>People in different professions are paid different wages because of (1) education and training, (2) skill and experience, and (3) the nature of the work and responsibility. In the chapter's wages graph, the <b class=\"key\">cobbler earns the lowest</b> (Rs 6,000 per month) and the <b class=\"key\">bank manager the highest</b> (Rs 90,000 per month); the doctor (Rs 70,000) earns more than the engineer (Rs 60,000) and less than the bank manager, and the teacher (Rs 30,000) earns more than the bank cashier (Rs 22,000) and less than the engineer. Money must never be acquired through wrong means like stealing or overcharging: it is dishonesty, it harms others, and such money gives no peace.</p>\n<h4>Key Points</h4>\n<ul><li>Barter means exchanging goods for goods; China had paper money first.</li><li>Income is money earned; expenditure is money spent.</li><li>Wages differ because education, skill and responsibility differ.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is the system of exchanging goods for goods called?",
+       "options": [
+        "Barter",
+        "Income",
+        "Expenditure",
+        "Currency"
+       ],
+       "answer": 0,
+       "why": "Exchanging goods for goods is called the barter system. In early times farm animals, crops, cattle and seeds were exchanged in this way before coins and notes came into use."
+      },
+      {
+       "q": "What is the currency of the UK?",
+       "options": [
+        "Dollar",
+        "Dirham",
+        "Pound",
+        "Rupee"
+       ],
+       "answer": 2,
+       "why": "The currency of the UK is the Pound. The USA uses the Dollar, the United Arab Emirates the Dirham, and Pakistan and India use the Rupee."
+      },
+      {
+       "q": "What is the money that is earned called?",
+       "options": [
+        "Expenditure",
+        "Income",
+        "Loan",
+        "Tax"
+       ],
+       "answer": 1,
+       "why": "The money that is earned is called income. People generate income by making goods, providing services, getting a salary, earning profit from a business or rent from property."
+      },
+      {
+       "q": "Which country had paper money first?",
+       "options": [
+        "Pakistan",
+        "China",
+        "Turkey",
+        "India"
+       ],
+       "answer": 1,
+       "why": "China had paper money first, in the 9th–14th century AD; before that, in 118 BC, China also had banknotes of leather. Silver coins were used in Turkey in 500 BC."
+      },
+      {
+       "q": "What is the money that is spent called?",
+       "options": [
+        "Expenditure",
+        "Income",
+        "Loan",
+        "Saving"
+       ],
+       "answer": 0,
+       "why": "The money that is spent is called expenditure, while the money that is earned is called income. A businessperson compares the two: profit is what is left after deducting all costs from the total sales."
+      },
+      {
+       "q": "What is the currency of Japan?",
+       "options": [
+        "Yuan",
+        "Taka",
+        "Yen",
+        "Afghani"
+       ],
+       "answer": 2,
+       "why": "The currency of Japan is the Yen. China uses the Yuan, Bangladesh the Taka and Afghanistan the Afghani; every country has its own currency."
+      },
+      {
+       "q": "The sea shells used as money in Africa were called:",
+       "options": [
+        "Wampum",
+        "Cowries",
+        "Dirhams",
+        "Tokens"
+       ],
+       "answer": 1,
+       "why": "In 1200 BC sea shells were used as money: Cowries in Africa and Wampum in America. Before shells, animals and crops were exchanged under the barter system."
+      },
+      {
+       "q": "In the chapter's wages graph, who earns the lowest income?",
+       "options": [
+        "Labourer",
+        "Cobbler",
+        "Fruit and vegetable seller",
+        "Mason"
+       ],
+       "answer": 1,
+       "why": "In the wages graph the cobbler earns the lowest, Rs 6,000 per month, while the bank manager earns the highest, Rs 90,000. Wages differ because the education, skill and responsibility needed for every job are different."
+      },
+      {
+       "q": "A person who organizes and manages a business is called:",
+       "options": [
+        "A customer",
+        "An entrepreneur",
+        "A cashier",
+        "A labourer"
+       ],
+       "answer": 1,
+       "why": "A person who organizes and manages a business is called an entrepreneur, and he gets the profit of the business. Profit is the amount left after deducting all the costs from the total sales."
+      },
+      {
+       "q": "How is the profit of a business calculated?",
+       "options": [
+        "Total sales minus all the costs",
+        "Total sales plus all the costs",
+        "Only by counting the cash in the shop",
+        "Only from the rent of the shop"
+       ],
+       "answer": 0,
+       "why": "Profit = the amount left after deducting all the costs (raw material, rent, bills, wages) from the total sales. If the costs become more than the sales, there is a loss."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Means of Information",
+   "lessons": [
+    {
+     "title": "Means of Information",
+     "notes_html": "<h4>Communication and Mass Media</h4>\n<p>The process of sending and receiving messages is called <b class=\"key\">communication</b>. <b class=\"key\">Mass media</b> is the communication which reaches a large number of people at the same time, for example newspapers, radio, television and the internet. Non mass-media (personal communication) is with a few people, for example talking on the telephone, writing letters, SMS and e-mail to family and friends.</p>\n<h4>The Means of Information</h4>\n<ul><li>(1) <b class=\"key\">Newspapers</b> — local, national and world news, articles, stories and advertisements, published in Urdu, English, Sindhi and other languages. They are cheap and detailed and a record remains, but the news is received a day late and an illiterate person cannot read them.</li><li>(2) <b class=\"key\">Radio</b> — invented by <b class=\"key\">Guglielmo Marconi in 1895</b>. It is cheap, runs on a battery and can be listened to anywhere, and illiterate people can also benefit; but pictures cannot be seen and programmes come at fixed times. At the time of independence, Pakistan had three radio stations, and Lahore was one of them.</li><li>(3) <b class=\"key\">Television</b> — the first television station of Pakistan was established at Lahore in <b class=\"key\">1964</b>. Pictures and live events can be seen along with sound, but watching too much spoils the eyes and health and affects studies.</li><li>(4) <b class=\"key\">Internet</b> — the system of <b class=\"key\">millions of interconnected computers</b> around the world. It gives instant information on every subject and is two-way communication, but it also carries fake information and the danger of hacking.</li></ul>\n<h4>Advertisements and Points of View</h4>\n<p>The purpose of <b class=\"key\">advertisements</b> is to draw the attention of the people to the products and services for sale, so that people buy them; information about job vacancies and admissions is also given through them, and they are the main source of income for newspapers, radio, television and the internet. Remember that advertisements are usually <b class=\"key\">biased</b>: they only tell the good things about the product. In the same way, two newspapers can present the same event in different ways because of the viewpoint of the reporter, the choice of words and the policy of the newspaper — so we should check the news from more than one source before forming an opinion.</p>\n<h4>The Media in the Political Process</h4>\n<p>In a democracy, the free flow of information, ideas and opinions is critical, and the media does this work. At election time the media tells who is standing, which is his party and what the aims of his party are. The media acts as a <b class=\"key\">\"watchdog\"</b> on the three branches of government (legislature, executive, judiciary) and exposes corruption and the misuse of power. Today the internet is the most important means of information, because the news of any event in the world is received in a few seconds and a person can also give his opinion.</p>\n<h4>Key Points</h4>\n<ul><li>Newspapers, radio, television and the internet are mass media.</li><li>Advertisements are usually biased — they tell only the good things.</li><li>The media is a watchdog on the government in a democracy.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is the process of sending and receiving messages called?",
+       "options": [
+        "Communication",
+        "Advertisement",
+        "Television",
+        "Radio"
+       ],
+       "answer": 0,
+       "why": "The process of sending and receiving messages is called communication. When it reaches a large number of people at the same time, like newspapers and television, it is called mass media."
+      },
+      {
+       "q": "Newspapers are a form of which communication?",
+       "options": [
+        "Personal communication",
+        "Mass-Media",
+        "Letter writing",
+        "Telephone contact"
+       ],
+       "answer": 1,
+       "why": "Newspapers are a form of mass media, the communication which reaches a large number of people at the same time. Letters and telephone calls to family and friends are personal communication."
+      },
+      {
+       "q": "At the time of independence, Pakistan had three radio stations. Which of the following was one of them?",
+       "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Quetta"
+       ],
+       "answer": 1,
+       "why": "At the time of independence, Pakistan had three radio stations, and Lahore was one of them. The radio, invented by Guglielmo Marconi in 1895, can be listened to anywhere on a battery."
+      },
+      {
+       "q": "In which year was the first television station of Pakistan established at Lahore?",
+       "options": [
+        "1947",
+        "1964",
+        "1970",
+        "1995"
+       ],
+       "answer": 1,
+       "why": "The first television station of Pakistan was established at Lahore in 1964. On television, pictures and live events can be seen along with sound, and we get information, education and entertainment together."
+      },
+      {
+       "q": "Which is the system of millions of interconnected computers around the world?",
+       "options": [
+        "Radio",
+        "Internet",
+        "Newspaper",
+        "Dish antenna"
+       ],
+       "answer": 1,
+       "why": "The internet is the system of millions of interconnected computers around the world. It is a huge storehouse of information on all subjects and gives news within a few seconds."
+      },
+      {
+       "q": "The radio was invented by:",
+       "options": [
+        "Guglielmo Marconi",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Isaac Newton"
+       ],
+       "answer": 0,
+       "why": "The radio was invented by Guglielmo Marconi in 1895. It is cheap, runs on a battery and reaches far-off areas, so even illiterate people can listen to the news on it."
+      },
+      {
+       "q": "Advertisements are usually:",
+       "options": [
+        "Biased — they tell only the good things",
+        "Complete and fully true",
+        "Always free of cost",
+        "Made only by the government"
+       ],
+       "answer": 0,
+       "why": "Advertisements are usually biased: they only tell the good things about the product and hide its faults. That is why one should shop thoughtfully after watching advertisements."
+      },
+      {
+       "q": "The media acts as a \"watchdog\" on which of these?",
+       "options": [
+        "Only the police",
+        "The three branches of government",
+        "Only the shopkeepers",
+        "Only the schools"
+       ],
+       "answer": 1,
+       "why": "The media acts as a \"watchdog\" on the three branches of government — legislature, executive and judiciary — and exposes corruption and the misuse and abuse of power."
+      },
+      {
+       "q": "Which of these is NOT mass media?",
+       "options": [
+        "Newspaper",
+        "Radio",
+        "Television",
+        "A letter written to a friend"
+       ],
+       "answer": 3,
+       "why": "A letter written to a friend is personal communication with a few people, not mass media. Newspapers, radio, television and the internet reach a large number of people at the same time."
+      },
+      {
+       "q": "Which danger of the internet is mentioned in this chapter?",
+       "options": [
+        "Fake information",
+        "It is very slow",
+        "It works only in big cities",
+        "It has no pictures"
+       ],
+       "answer": 0,
+       "why": "The chapter warns that on the internet there is also the danger of fake information and hacking, so care is necessary. That is why we should check the news from more than one source."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Our Values, Our Behaviour",
+   "lessons": [
+    {
+     "title": "Our Values, Our Behaviour",
+     "notes_html": "<h4>What Influences Our Values?</h4>\n<p>Our <b class=\"key\">values</b> — like honesty, respect for others, punctuality, cleanliness, fairness, helping others and care for the environment — are influenced by family, school, friends, religion, society and the media. The <b class=\"key\">family influences the most</b>: it teaches us right and wrong, and from birth our role models are the family members. If respect for others is taught at home, the child will also respect others. In school, coming on time, staying neat and clean, waiting for your turn and doing work well create the values of <b class=\"key\">punctuality, cleanliness, respect for others and hard work</b>; group work gives collaboration and competitions give the spirit of competition.</p>\n<h4>Behaviours That Show Honesty</h4>\n<ul><li>If the shopkeeper gives me extra change by mistake, I return it.</li><li>In tests and classwork I do my own work; I do not copy.</li><li>If I make a mistake, I admit it and do not tell a lie.</li></ul>\n<p>Our behaviours show what our values are.</p>\n<h4>Fair or Not Fair?</h4>\n<ul><li>Everyone passes the football around but not to the weakest player — <b class=\"key\">Not Fair</b>: everyone, including the weakest player, should get a fair chance to play.</li><li>You allow someone to cut in line in front of you — <b class=\"key\">Not Fair</b>: everyone should wait for his or her turn in the line.</li><li>You wash the dishes and your brother or sister dries them — <b class=\"key\">Fair</b>: the work is shared.</li><li>Your brother shares his toys with you and then you make him pick them up all by himself — <b class=\"key\">Not Fair</b>: you should help him pick up the toys you both played with.</li><li>You change the rules in the middle of the game because your team is losing — <b class=\"key\">Not Fair</b>: the rules fixed at the start must be followed till the end.</li><li>You find some money in class; you ask whose it is and give it to him or her — <b class=\"key\">Fair</b>: returning the money to its owner is honesty and fairness.</li><li>Your classmate has an extra pencil that looks just like yours, so you take it — <b class=\"key\">Not Fair</b>: ask your classmate's permission first, or ask the teacher for a pencil.</li></ul>\n<h4>Respectful Behaviour</h4>\n<p>Saleem was very good at cricket but made negative comments about the other children, so the children voted for <b class=\"key\">Ali as captain</b>: a good player is one who respects his partners and encourages them. Saying \"Would you like my help? I can show you a good way to hold the bat\" is respectful, while taunts like \"Can't you figure out how to hold the bat?\" are disrespectful. Values learnt in school include punctuality (reaching school on time, submitting homework on time), cleanliness (keeping the uniform neat, throwing litter in the dustbin, washing hands before eating) and hard work (preparing lessons daily, not copying). Care for the environment is shown by planting a tree, keeping the school clean and not wasting water and electricity. Without values, there would be cheating and stealing everywhere, quarrels on every matter, and the strong would snatch the rights of the weak.</p>\n<h4>Key Points</h4>\n<ul><li>The family has the most influence on our values.</li><li>Our behaviours show what our values are.</li><li>Fairness means everyone gets a fair chance and the rules are the same for all.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which factor has the most influence on our values?",
+       "options": [
+        "Media",
+        "Friends",
+        "Family",
+        "Society"
+       ],
+       "answer": 2,
+       "why": "The family influences our values the most: it teaches us right and wrong, and from birth our role models are the family members. School, friends, religion, society and media also influence them."
+      },
+      {
+       "q": "If a shopkeeper gives you extra change by mistake and you return it, which value are you showing?",
+       "options": [
+        "Punctuality",
+        "Honesty",
+        "Cleanliness",
+        "Perseverance"
+       ],
+       "answer": 1,
+       "why": "Returning the extra change shows honesty. Doing your own work in tests without copying and admitting your mistakes are also behaviours that show honesty."
+      },
+      {
+       "q": "Changing the rules in the middle of a game because your team is losing is:",
+       "options": [
+        "Fair",
+        "Clever",
+        "Not Fair",
+        "Respectful"
+       ],
+       "answer": 2,
+       "why": "It is Not Fair. The rules fixed at the start of the game must be followed by both teams till the end; changing them because your team is losing is cheating."
+      },
+      {
+       "q": "You cannot find your pencil and your classmate has an extra one that looks just like yours. What is the fair thing to do?",
+       "options": [
+        "Take it quietly",
+        "Ask his permission before taking it",
+        "Take it and never return it",
+        "Complain to the teacher about him"
+       ],
+       "answer": 1,
+       "why": "The fair thing is to ask your classmate's permission before taking the extra pencil, or ask the teacher for a pencil. Taking it without asking is Not Fair, even if it looks like yours."
+      },
+      {
+       "q": "You wash the dishes and your brother dries them. This is an example of:",
+       "options": [
+        "Not Fair behaviour",
+        "Fair sharing of work",
+        "Disrespect",
+        "Cutting in line"
+       ],
+       "answer": 1,
+       "why": "This is Fair, because the work is shared: one washes and the other dries. In the same way, both children should help pick up the toys they both played with."
+      },
+      {
+       "q": "\"Would you like my help? I can show you a good way to hold the bat.\" This comment is:",
+       "options": [
+        "Disrespectful",
+        "A taunt",
+        "Respectful",
+        "Unfair"
+       ],
+       "answer": 2,
+       "why": "This comment is Respectful, because help is offered politely. Comments like \"Can't you figure out how to hold the bat?\" are disrespectful because they make fun of the partner."
+      },
+      {
+       "q": "Reaching school on time and submitting homework on time show which value?",
+       "options": [
+        "Punctuality",
+        "Forgiveness",
+        "Fairness",
+        "Health"
+       ],
+       "answer": 0,
+       "why": "These behaviours show punctuality, one of the values learnt in school. Cleanliness is shown by keeping the uniform neat and throwing litter in the dustbin, and hard work by preparing lessons daily."
+      },
+      {
+       "q": "Throwing litter in the dustbin and washing hands before eating show which value learnt in school?",
+       "options": [
+        "Punctuality",
+        "Cleanliness",
+        "Competition",
+        "Achievement"
+       ],
+       "answer": 1,
+       "why": "These behaviours show cleanliness. The school teaches us values like punctuality, cleanliness and hard work through daily habits."
+      },
+      {
+       "q": "Why did the children vote for Ali as captain instead of Saleem, who was very good at cricket?",
+       "options": [
+        "Saleem was often absent",
+        "Saleem made negative comments about the other children",
+        "Ali was the teacher's favourite",
+        "Saleem could not hold the bat"
+       ],
+       "answer": 1,
+       "why": "Saleem made negative comments about the other children and did not show respect for others' feelings, so the children voted for Ali. A good player respects his partners and encourages them."
+      },
+      {
+       "q": "If people had no fairness, what would happen in daily life?",
+       "options": [
+        "Everyone would become rich",
+        "Games would become faster",
+        "The strong would snatch the rights of the weak",
+        "Schools would close"
+       ],
+       "answer": 2,
+       "why": "Without fairness the strong would snatch the rights of the weak. Without values, life would become difficult and unsafe, with cheating, stealing and quarrels everywhere."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The System of Government in Pakistan",
+   "lessons": [
+    {
+     "title": "The System of Government in Pakistan",
+     "notes_html": "<h4>The Constitution</h4>\n<p>The <b class=\"key\">Constitution</b> is the most important law of the country. It outlines the structure of the government, defines the powers and limits of each branch, defines the relationship between the federal and provincial governments, and lists and protects the rights of all citizens. The present Constitution of Pakistan is of <b class=\"key\">1973</b>.</p>\n<h4>The Three Branches of Government</h4>\n<ul><li>(1) The <b class=\"key\">legislative</b> (Parliament): makes and changes laws and passes the budget.</li><li>(2) The <b class=\"key\">executive</b> (President, Prime Minister, cabinet and civil service): enforces the laws and runs the administration of the country.</li><li>(3) The <b class=\"key\">judiciary</b> (Supreme Court and High Courts): interprets the laws and provides justice.</li></ul>\n<p>The law-making body, the Parliament, has two houses: the <b class=\"key\">National Assembly (Lower House)</b> and the <b class=\"key\">Senate (Upper House)</b>. In the USA the legislative body is called the Congress, and in England and India it is called the Parliament. The minimum age to become a parliamentarian is <b class=\"key\">25 years</b>. MNAs are elected by the citizens' votes in their constituencies for a term of five years; the party whose most MNAs are elected forms the government and its leader becomes the Prime Minister.</p>\n<h4>The Federal System</h4>\n<p>In a <b class=\"key\">federal system</b>, power is shared between the federal and provincial governments. The federal government has powers like foreign policy, defence and finance and prepares the annual budget, while the provincial governments have powers like education, health, law and order and development. If there is a dispute between the federation and the provinces, the Supreme Court decides.</p>\n<h4>How a Bill Becomes a Law</h4>\n<p>The bill is prepared and introduced in the National Assembly; it is examined by committees, debated and voted on; then it is sent to the Senate, where it is again examined, debated and voted on; finally it is sent to the President, and <b class=\"key\">if the President signs it, the bill becomes law</b>.</p>\n<h4>The Courts and Justice</h4>\n<p>The <b class=\"key\">Supreme Court</b> is the highest court of the country; its decision is final and binding on all, and appeals against the decisions of the <b class=\"key\">five High Courts</b> are heard in it. Below the High Courts are the session courts and the civil and criminal courts. Justice is called \"blind\" because the courts do not see a person's wealth, power or status; they see only the facts and the law, so everyone is treated equally.</p>\n<h4>Rights and the Role of Citizens</h4>\n<p><b class=\"key\">Legal rights</b> are guaranteed in the law of a country and can differ from country to country. <b class=\"key\">Human rights</b> are held by <b class=\"key\">all people, all over the world, at all times</b>; they are defined in the Universal Declaration of Human Rights 1948 and the Convention on the Rights of the Child 1989. In a democracy the citizens are the real power: they elect honest representatives by voting, obey the laws, pay taxes and keep an eye on the work of the government. Political parties speak for the people, educate and mobilize public opinion, and in opposition keep a close watch on the ruling party.</p>\n<h4>Key Points</h4>\n<ul><li>The government has three branches: legislative, executive and judiciary.</li><li>The Senate is the Upper House and the National Assembly the Lower House.</li><li>A bill becomes a law when the President signs it.</li></ul>",
+     "mcqs": [
+      {
+       "q": "How many branches of government are there?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "There are three branches of government: the legislative, which makes the laws; the executive, which enforces them; and the judiciary, which interprets the laws and provides justice."
+      },
+      {
+       "q": "What is another name for the Senate?",
+       "options": [
+        "Lower House",
+        "Upper House",
+        "Cabinet",
+        "High Court"
+       ],
+       "answer": 1,
+       "why": "The Senate is the Upper House of the Parliament. The National Assembly is the Lower House; together they make the laws of the country."
+      },
+      {
+       "q": "What is the minimum age to become a parliamentarian?",
+       "options": [
+        "25 years",
+        "18 years",
+        "21 years",
+        "30 years"
+       ],
+       "answer": 0,
+       "why": "The minimum age to become a parliamentarian is 25 years. MNAs are elected by the votes of the citizens of their constituencies for a term of five years."
+      },
+      {
+       "q": "How many High Courts are there in Pakistan?",
+       "options": [
+        "Four",
+        "Five",
+        "Three",
+        "Six"
+       ],
+       "answer": 1,
+       "why": "There are five High Courts in Pakistan. Above them is the Supreme Court, the highest court of the country, whose decision is final and binding on all courts."
+      },
+      {
+       "q": "What is the function of the National Assembly?",
+       "options": [
+        "To enforce the laws",
+        "To interpret the laws",
+        "Make the laws",
+        "To collect taxes"
+       ],
+       "answer": 2,
+       "why": "The function of the National Assembly, with the Senate, is to make the laws. The executive enforces the laws and the judiciary interprets them and provides justice."
+      },
+      {
+       "q": "The present Constitution of Pakistan is of which year?",
+       "options": [
+        "1947",
+        "1956",
+        "1962",
+        "1973"
+       ],
+       "answer": 3,
+       "why": "The present Constitution of Pakistan is of 1973. The Constitution is the most important law of the country; it outlines the structure of the government and protects the rights of all citizens."
+      },
+      {
+       "q": "Which branch of the government enforces the laws?",
+       "options": [
+        "The legislative",
+        "The executive",
+        "The judiciary",
+        "The Senate only"
+       ],
+       "answer": 1,
+       "why": "The executive — the President, Prime Minister, cabinet and civil service — enforces the laws and runs the administration of the country. The legislative makes the laws and the judiciary interprets them."
+      },
+      {
+       "q": "A bill becomes a law when:",
+       "options": [
+        "It is printed in a newspaper",
+        "The President signs it",
+        "The Chief Justice reads it",
+        "The MNAs discuss it once"
+       ],
+       "answer": 1,
+       "why": "After the bill is passed by the National Assembly and the Senate, it is sent to the President; if the President signs it, the bill becomes law."
+      },
+      {
+       "q": "The legislative body of the USA is called:",
+       "options": [
+        "The Parliament",
+        "The Sansad",
+        "The Congress",
+        "The Senate only"
+       ],
+       "answer": 2,
+       "why": "In the USA the legislative body is called the Congress. In England it is called the Parliament, and in India the Parliament or Sansad; in Pakistan the law-making body is also the Parliament."
+      },
+      {
+       "q": "Human rights are held by:",
+       "options": [
+        "Only the citizens of Pakistan",
+        "Only adults",
+        "Only voters",
+        "All people, all over the world, at all times"
+       ],
+       "answer": 3,
+       "why": "Human rights are universal: they are held by all people, all over the world, at all times, even if a human right is not a legal right in a country. They are defined in the Universal Declaration of Human Rights 1948."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Explorers and Explorations",
+   "lessons": [
+    {
+     "title": "Explorers and Explorations",
+     "notes_html": "<h4>Why Explorers Explored</h4>\n<p>In the past, explorers were motivated by: (1) <b class=\"key\">Trade</b> — finding new trade partners, routes and goods; (2) <b class=\"key\">Gold</b> — the search for riches and treasure; (3) <b class=\"key\">Science</b> — learning more about nature and new species of animals and plants; (4) <b class=\"key\">Land</b> — claiming new lands in the name of their country; and (5) <b class=\"key\">Challenge</b> — the desire to be the first, for example to the Poles and the top of Mount Everest. Today, explorers are motivated by science and knowledge, challenge, and finding new resources and places in space and in the oceans.</p>\n<h4>Marco Polo and Ibn-e-Battuta</h4>\n<p><b class=\"key\">Marco Polo</b> set out from <b class=\"key\">Venice (Italy)</b> in 1271 with his <b class=\"key\">father and uncle</b>. Passing Jerusalem, Persia, the Hindukush mountains and the Gobi Desert, he reached the court of Kublai Khan in China after three years, served him as a messenger, and returned to Venice by sea in 1295. His book \"The Travels of Marco Polo\" gave Europe information about China. <b class=\"key\">Ibn-e-Battuta</b> set off from <b class=\"key\">Tangier (Morocco)</b> in 1325 at the age of 21 to perform Hajj in <b class=\"key\">Makkah</b>. He continued travelling for 25 years — through Egypt, Syria, Persia, Samarkand and Bukhara to Delhi, where King Muhammad Tughlaq appointed him a Qadhi (Judge), and on to the Maldives and China — travelling more than <b class=\"key\">75,000 miles</b> in total.</p>\n<h4>Columbus and Vasco da Gama</h4>\n<p><b class=\"key\">Christopher Columbus</b> was born in <b class=\"key\">Italy</b>; his voyage was financed by Spain. He crossed the <b class=\"key\">Atlantic Ocean</b> hoping to find a shorter route to China and East Asia, and reached America. His voyages began the age of European exploration and colonization of the Americas: new foods were exchanged (he took turkeys and pineapples to Europe), but the Native Americans suffered greatly — their lands were taken and many died from diseases brought from Europe. <b class=\"key\">Vasco da Gama</b> of Portugal was the first European to find a sea route from Europe to India around Africa. He left Lisbon on 8 July 1497 with 170 men and 4 ships, rounded the Cape of Good Hope, passed Mombasa and Malindi, crossed the Indian Ocean with the help of a local navigator and a monsoon wind, and reached Calicut (India); on the way back about half the crew died of <b class=\"key\">scurvy</b>. He made three voyages to India in all. His route made spices cheaper in Europe and Portugal rich and powerful, but European influence and control in India also grew.</p>\n<h4>Modern Explorers</h4>\n<p><b class=\"key\">Neil Armstrong</b> of the USA became the first person to walk on the Moon on 21 July 1969. <b class=\"key\">Sir Edmund Hillary</b> of New Zealand and his Sherpa partner Tenzing Norgay were the first to climb Mount Everest in 1953, crossing a 40-foot rock wall now called \"Hillary's Step\". <b class=\"key\">Samina Khayal Baig</b>, from Shimshal in Gilgit-Baltistan, trained by her brother Mirza Ali, became the first Pakistani woman to climb Mount Everest, reaching the summit on 19 May 2013; she also climbed the highest mountains of all seven continents. The future areas of exploration are space, the deep oceans, the poles and sources of new energy and medicines.</p>\n<h4>Key Points</h4>\n<ul><li>Explorers of the past were motivated by trade, gold, science, land and challenge.</li><li>Vasco da Gama found the sea route from Europe to India around Africa.</li><li>Exploration continues today — in space and in the deep oceans.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Where was Christopher Columbus born?",
+       "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "France"
+       ],
+       "answer": 2,
+       "why": "Christopher Columbus was born in Italy, although his voyage was financed by Spain. He crossed the Atlantic hoping to find a shorter route to China and East Asia, and reached America."
+      },
+      {
+       "q": "From Tangier, where did Ibn-e-Battuta want to go?",
+       "options": [
+        "Delhi",
+        "Cairo",
+        "Makkah",
+        "Baghdad"
+       ],
+       "answer": 2,
+       "why": "Ibn-e-Battuta set off from Tangier (Morocco) in 1325 at the age of 21 to perform Hajj in Makkah. After Hajj he continued his journey for 25 years and travelled more than 75,000 miles."
+      },
+      {
+       "q": "With whom did Marco Polo travel?",
+       "options": [
+        "Father only",
+        "Uncle only",
+        "Father and Uncle",
+        "His brothers"
+       ],
+       "answer": 2,
+       "why": "Marco Polo set out from Venice in 1271 with his father and uncle, who were merchants. After three years they reached the court of Kublai Khan in China."
+      },
+      {
+       "q": "Which ocean did Columbus cross?",
+       "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+       ],
+       "answer": 1,
+       "why": "Columbus crossed the Atlantic Ocean. He thought that by crossing the Atlantic he would find a shorter route to the riches of China and East Asia; instead he reached America."
+      },
+      {
+       "q": "How many voyages did Vasco da Gama make to India?",
+       "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+       ],
+       "answer": 2,
+       "why": "Vasco da Gama made three voyages to India. His first voyage (1497–1499) opened the sea route from Europe to India around Africa, reaching Calicut after rounding the Cape of Good Hope."
+      },
+      {
+       "q": "Marco Polo set out on his journey from which city?",
+       "options": [
+        "Lisbon",
+        "Venice",
+        "Tangier",
+        "Calicut"
+       ],
+       "answer": 1,
+       "why": "Marco Polo set out from Venice (Italy) in 1271 with his father and uncle. Lisbon was Vasco da Gama's starting port, Tangier was Ibn-e-Battuta's home, and Calicut was da Gama's destination in India."
+      },
+      {
+       "q": "Ibn-e-Battuta travelled more than how many miles in total?",
+       "options": [
+        "7,500 miles",
+        "25,000 miles",
+        "50,000 miles",
+        "75,000 miles"
+       ],
+       "answer": 3,
+       "why": "Ibn-e-Battuta travelled more than 75,000 miles in total during his journeys of 25 years, which was a wonder in those times. He visited Egypt, Syria, Persia, Delhi, the Maldives and China."
+      },
+      {
+       "q": "Who was the first person to walk on the Moon?",
+       "options": [
+        "Edmund Hillary",
+        "Neil Armstrong",
+        "Marco Polo",
+        "Yuri Gagarin"
+       ],
+       "answer": 1,
+       "why": "Neil Armstrong of the USA became the first person to walk on the Moon on 21 July 1969. His motivation was science, challenge and service to his country."
+      },
+      {
+       "q": "Samina Khayal Baig was the first Pakistani woman to climb:",
+       "options": [
+        "K2",
+        "Nanga Parbat",
+        "Mount Everest",
+        "Chashkin Sar"
+       ],
+       "answer": 2,
+       "why": "Samina Khayal Baig, from Shimshal in Gilgit-Baltistan, became the first Pakistani woman to climb Mount Everest (8,848 metres), reaching the summit on 19 May 2013. She had first climbed Chashkin Sar in 2010."
+      },
+      {
+       "q": "About half of Vasco da Gama's crew died on the way back from which disease?",
+       "options": [
+        "Scurvy",
+        "Fever",
+        "Plague",
+        "Cholera"
+       ],
+       "answer": 0,
+       "why": "On the way back from India, about half of Vasco da Gama's crew died of scurvy. Despite unknown seas and this disease, he succeeded in finding the sea route to India."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
