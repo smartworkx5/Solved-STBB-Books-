@@ -7,17 +7,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>Statements about the working of organs — the heart pumping blood, the stomach digesting food and the kidneys excreting wastes — belong to <strong>physiology</strong>, the study of the functions of living things.</li><li>In the scientific method, <strong>deductions</strong> are made from the hypothesis before experiments are performed: the scientist works out what should happen if the hypothesis is true.</li><li>It is NOT true that a hypothesis will always be correct: the scientific method relies on evidence, formulates hypotheses and tests them rigorously, and a hypothesis may be rejected.</li><li>The correct sequence of the steps of the scientific method is: <strong>observations → hypothesis → deduction → experiments</strong>.</li><li>People who slept near a smoky fire suffered less from malaria because <strong>mosquitoes cannot tolerate smoke and are repelled by it</strong>.</li><li>Experiments are important in the scientific method because through them a researcher <strong>disproves many hypotheses and gets some hypothesis proved</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Statements about the working of organs — the heart pumping blood, the stomach digesting food and the kidneys excreting wastes — belong to which branch of biology?",
+       "options": [
+        "Physiology",
+        "Morphology",
+        "Genetics",
+        "Palaeontology"
+       ],
+       "answer": 0,
+       "why": "Physiology is the study of the functions of living things, and these statements describe how organs work, not what they look like."
+      },
+      {
+       "q": "In the scientific method, deductions are made from the hypothesis at which stage?",
+       "options": [
+        "After the experiments are completed",
+        "Before experiments are performed",
+        "Only after the conclusion is drawn",
+        "During observation only"
+       ],
+       "answer": 1,
+       "why": "The scientist first works out what should happen if the hypothesis is true; these deductions are made before experiments are performed to test them."
+      },
+      {
+       "q": "Which statement about a hypothesis is correct?",
+       "options": [
+        "A hypothesis is always correct",
+        "A hypothesis needs no evidence",
+        "A hypothesis may be rejected after testing",
+        "A hypothesis is already a proven law"
+       ],
+       "answer": 2,
+       "why": "The scientific method relies on evidence and tests hypotheses rigorously, so a hypothesis that is not supported may be rejected."
+      },
+      {
+       "q": "What is the correct sequence of steps in the scientific method?",
+       "options": [
+        "Hypothesis → observations → experiments → deduction",
+        "Experiments → hypothesis → observations → deduction",
+        "Deduction → experiments → hypothesis → observations",
+        "Observations → hypothesis → deduction → experiments"
+       ],
+       "answer": 3,
+       "why": "The correct sequence is observations first, then hypothesis, then deduction, and finally experiments to test the deductions."
+      },
+      {
+       "q": "Why did people who slept near a smoky fire suffer less from malaria?",
+       "options": [
+        "Mosquitoes cannot tolerate smoke and are repelled by it",
+        "Smoke kills the malaria parasite in the blood",
+        "Smoke makes the blood taste bitter",
+        "The fire raises the body temperature of sleepers"
+       ],
+       "answer": 0,
+       "why": "Mosquitoes cannot tolerate smoke and are repelled by it, so people near smoky fires were bitten less and suffered less from malaria."
+      },
+      {
+       "q": "Experiments are important in the scientific method because through them a researcher:",
+       "options": [
+        "Proves every hypothesis correct",
+        "Disproves many hypotheses and gets some hypothesis proved",
+        "Avoids making any observations",
+        "Turns hypotheses directly into laws"
+       ],
+       "answer": 1,
+       "why": "Through experiments a researcher disproves many hypotheses and gets some hypothesis proved, which is how the correct explanation is found."
+      },
+      {
+       "q": "The study of the functions of living things is called:",
+       "options": [
+        "Morphology",
+        "Anatomy",
+        "Physiology",
+        "Pathology"
+       ],
+       "answer": 2,
+       "why": "Physiology is defined as the study of the functions of living things, such as how the heart pumps blood or the stomach digests food."
+      },
+      {
+       "q": "A deduction in the scientific method states:",
+       "options": [
+        "The final conclusion of the research",
+        "The history of the problem",
+        "The result already obtained from experiments",
+        "What should happen if the hypothesis is true"
+       ],
+       "answer": 3,
+       "why": "A deduction is the scientist working out what should happen if the hypothesis is true, so that experiments can be designed to test it."
+      },
+      {
+       "q": "Which of these is a function studied in physiology?",
+       "options": [
+        "The shape of a leaf",
+        "The kidneys excreting wastes",
+        "The fossil record of a species",
+        "The classification of animals into groups"
+       ],
+       "answer": 1,
+       "why": "Excreting wastes is a function performed by a living organ, so it belongs to physiology, the study of the functions of living things."
+      },
+      {
+       "q": "If experimental results do not support a hypothesis, the hypothesis is:",
+       "options": [
+        "Accepted without question",
+        "Turned into a law",
+        "Rejected",
+        "Published as a theory at once"
+       ],
+       "answer": 2,
+       "why": "The scientific method tests hypotheses rigorously against evidence, and it is not true that a hypothesis will always be correct — it may be rejected."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Branches of Biology: Genetics, Anatomy, Palaeontology, Marine Biology and Pathology</h4><p>Genetics is the study of heredity and variation, that is, how characters pass from parents to offspring. Anatomy is the study of the internal structure of organisms. Palaeontology is the study of fossils and ancient life.</p><p>Marine Biology is the study of organisms living in the sea. Pathology is the study of diseases, their causes and effects on the body.</p><h4>Morphology and Physiology</h4><p>Morphology is the study of the form and external structure of organisms, such as the shape of leaves or the body plan of an animal. Physiology is the study of the functions of living things, such as how the heart pumps blood or how the stomach digests food. In short, morphology describes what an organism looks like, while physiology explains how it works.</p><h4>Computational Biology</h4><p>Computational Biology is the branch of biology in which computers, mathematics and statistics are used to study biological data. It is used to analyse large sets of data such as DNA sequences, to model living processes and to predict how biological systems behave. It helps biologists handle data too large to study by hand.</p><h4>Observation and Experimentation in the Scientific Method</h4><p>Observation is the starting point: a scientist notices a problem or a pattern in nature and gathers facts about it, and from these observations a hypothesis is formed. Experimentation tests the hypothesis under controlled conditions, so that deductions drawn from it can be checked. If the results agree with the deductions, the hypothesis is supported; if not, it is rejected or changed.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Genetics is the study of:",
+       "options": [
+        "The internal structure of organisms",
+        "Fossils and ancient life",
+        "Heredity and variation — how characters pass from parents to offspring",
+        "Diseases and their causes"
+       ],
+       "answer": 2,
+       "why": "Genetics is the study of heredity and variation, that is, how characters pass from parents to offspring."
+      },
+      {
+       "q": "Anatomy is the study of:",
+       "options": [
+        "The internal structure of organisms",
+        "The functions of living things",
+        "Organisms living in the sea",
+        "Fossils and ancient life"
+       ],
+       "answer": 0,
+       "why": "Anatomy is the study of the internal structure of organisms, unlike physiology, which studies their functions."
+      },
+      {
+       "q": "Palaeontology is the study of:",
+       "options": [
+        "Organisms living in the sea",
+        "Heredity and variation",
+        "The internal structure of organisms",
+        "Fossils and ancient life"
+       ],
+       "answer": 3,
+       "why": "Palaeontology is the study of fossils and ancient life, using preserved remains to learn about organisms of the past."
+      },
+      {
+       "q": "Marine biology is the study of:",
+       "options": [
+        "Fossils and ancient life",
+        "Organisms living in the sea",
+        "Diseases and their effects on the body",
+        "The form and external structure of organisms"
+       ],
+       "answer": 1,
+       "why": "Marine biology is the study of organisms living in the sea, as its name (marine = of the sea) indicates."
+      },
+      {
+       "q": "Pathology is the study of:",
+       "options": [
+        "Heredity and variation",
+        "The functions of living things",
+        "Diseases, their causes and effects on the body",
+        "Organisms living in the sea"
+       ],
+       "answer": 2,
+       "why": "Pathology is the study of diseases, their causes and effects on the body."
+      },
+      {
+       "q": "Morphology is the study of:",
+       "options": [
+        "The functions of living things",
+        "The internal structure of organisms",
+        "Fossils and ancient life",
+        "The form and external structure of organisms"
+       ],
+       "answer": 3,
+       "why": "Morphology is the study of the form and external structure of organisms, such as the shape of leaves or the body plan of an animal."
+      },
+      {
+       "q": "How do morphology and physiology differ?",
+       "options": [
+        "Morphology describes what an organism looks like, while physiology explains how it works",
+        "Morphology explains how it works, while physiology describes what it looks like",
+        "Both study only the internal structure",
+        "Both study only fossils"
+       ],
+       "answer": 0,
+       "why": "In short, morphology describes what an organism looks like, while physiology explains how it works."
+      },
+      {
+       "q": "Computational biology is the branch in which:",
+       "options": [
+        "Diseases are treated in hospitals",
+        "Computers, mathematics and statistics are used to study biological data",
+        "Fossils are dug out of rocks",
+        "Sea organisms are collected and preserved"
+       ],
+       "answer": 1,
+       "why": "Computational biology uses computers, mathematics and statistics to study biological data too large to study by hand."
+      },
+      {
+       "q": "Computational biology is used to analyse large sets of data such as:",
+       "options": [
+        "Fossil layers",
+        "Sea water samples only",
+        "Hospital patient records only",
+        "DNA sequences"
+       ],
+       "answer": 3,
+       "why": "It is used to analyse large sets of data such as DNA sequences, to model living processes and to predict how biological systems behave."
+      },
+      {
+       "q": "In the scientific method, experimentation is done to:",
+       "options": [
+        "Test the hypothesis under controlled conditions so its deductions can be checked",
+        "Gather the first facts about a problem",
+        "Form the hypothesis from observations",
+        "Publish the final theory"
+       ],
+       "answer": 0,
+       "why": "Experimentation tests the hypothesis under controlled conditions; if results agree with the deductions the hypothesis is supported, otherwise it is rejected or changed."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Biology and the Professions</h4><p>Biology is the foundation of many professions. Medicine, dentistry, nursing and pharmacy all rest on knowledge of the human body, diseases and drugs. Agriculture, horticulture and veterinary science apply biology to crops and animals.</p><p>Other careers include biotechnology, food technology, fisheries, forestry and environmental science, where biological knowledge is used to improve health, food production and the environment.</p><h4>From Hypothesis to Theory, Law and Principle</h4><p>A hypothesis is a testable statement proposed to explain observations. When it is repeatedly tested by experiments and supported by evidence, it may become a theory, which is a well-tested explanation of a broad set of facts. A law or principle is a statement that describes a regular pattern in nature, such as what always happens under given conditions.</p><p>A theory explains why things happen, while a law describes what happens; neither is simply a guess.</p><h4>Steps in Solving a Scientific Problem</h4><p>The scientist first makes observations and identifies a problem, then collects information about it. Next a hypothesis is proposed to explain the problem, and deductions are drawn from the hypothesis, that is, what should happen if it is true. Experiments are then performed to test these deductions, results are analysed, and a conclusion is drawn.</p><p>If the results support the hypothesis it is accepted, otherwise it is modified and tested again.</p><h4>Discovering the Cause of Malaria</h4><p>Laveran (1880) first found the parasite Plasmodium in the blood of malaria patients. Manson suggested that mosquitoes carry the disease from person to person. Ronald Ross then showed, by experiments on birds and mosquitoes, that the parasite develops inside the mosquito and is passed on when the mosquito bites.</p><p>Later workers, including Grassi, confirmed that the female Anopheles mosquito transmits human malaria.</p><h4>The Experiments of Ronald Ross</h4><p>Ross studied malaria in birds, which is similar to human malaria. He allowed mosquitoes to feed on malaria-infected birds and then examined the stomach walls of the mosquitoes, where he found the developing parasites. He then showed that healthy birds bitten by such mosquitoes developed malaria.</p><p>This proved that mosquitoes are the carriers of malaria, and his work was later confirmed for human malaria in the Anopheles mosquito.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Medicine, dentistry, nursing and pharmacy all rest on knowledge of:",
+       "options": [
+        "Crops and farm animals",
+        "The human body, diseases and drugs",
+        "Fossils and ancient life",
+        "Sea organisms"
+       ],
+       "answer": 1,
+       "why": "These professions rest on knowledge of the human body, diseases and drugs, which comes from biology."
+      },
+      {
+       "q": "Agriculture, horticulture and veterinary science apply biology to:",
+       "options": [
+        "The human body and drugs",
+        "Fossils and rocks",
+        "Computers and statistics",
+        "Crops and animals"
+       ],
+       "answer": 3,
+       "why": "Agriculture, horticulture and veterinary science apply biology to crops and animals to improve food production."
+      },
+      {
+       "q": "A hypothesis may become a theory when it:",
+       "options": [
+        "Is repeatedly tested by experiments and supported by evidence",
+        "Is written down for the first time",
+        "Is believed by many people",
+        "Describes a regular pattern in nature"
+       ],
+       "answer": 0,
+       "why": "When a hypothesis is repeatedly tested by experiments and supported by evidence, it may become a theory."
+      },
+      {
+       "q": "A theory is best described as:",
+       "options": [
+        "A simple guess about nature",
+        "A statement of what always happens under given conditions",
+        "A well-tested explanation of a broad set of facts",
+        "An untested idea proposed to explain observations"
+       ],
+       "answer": 2,
+       "why": "A theory is a well-tested explanation of a broad set of facts; it explains why things happen and is not simply a guess."
+      },
+      {
+       "q": "A law or principle is a statement that:",
+       "options": [
+        "Explains why things happen",
+        "Is proposed before any observation",
+        "Can never be tested",
+        "Describes a regular pattern in nature — what always happens under given conditions"
+       ],
+       "answer": 3,
+       "why": "A law or principle describes what happens — a regular pattern in nature — while a theory explains why things happen."
+      },
+      {
+       "q": "What is the first step in solving a scientific problem?",
+       "options": [
+        "Making observations and identifying a problem",
+        "Performing experiments",
+        "Drawing a conclusion",
+        "Proposing a hypothesis"
+       ],
+       "answer": 0,
+       "why": "The scientist first makes observations and identifies a problem, then collects information about it before proposing a hypothesis."
+      },
+      {
+       "q": "Who first found the parasite Plasmodium in the blood of malaria patients?",
+       "options": [
+        "Manson",
+        "Ronald Ross",
+        "Laveran (1880)",
+        "Grassi"
+       ],
+       "answer": 2,
+       "why": "Laveran, in 1880, first found the parasite Plasmodium in the blood of malaria patients."
+      },
+      {
+       "q": "Who suggested that mosquitoes carry malaria from person to person?",
+       "options": [
+        "Laveran",
+        "Manson",
+        "Ronald Ross",
+        "Grassi"
+       ],
+       "answer": 1,
+       "why": "Manson suggested that mosquitoes carry the disease from person to person; Ross later proved it by experiments."
+      },
+      {
+       "q": "In his experiments, Ronald Ross found the developing malaria parasites in:",
+       "options": [
+        "The stomach walls of mosquitoes that had fed on infected birds",
+        "The blood of healthy birds",
+        "The salivary glands of all insects",
+        "The water of ponds"
+       ],
+       "answer": 0,
+       "why": "Ross allowed mosquitoes to feed on malaria-infected birds and then found the developing parasites in the stomach walls of the mosquitoes."
+      },
+      {
+       "q": "Who confirmed that the female Anopheles mosquito transmits human malaria?",
+       "options": [
+        "Laveran",
+        "Manson",
+        "Ronald Ross alone",
+        "Grassi (with other later workers)"
+       ],
+       "answer": 3,
+       "why": "Later workers, including Grassi, confirmed that the female Anopheles mosquito transmits human malaria."
+      }
+     ]
     }
    ]
   },
@@ -27,17 +360,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>The broadest (highest) taxonomic rank is the <strong>domain</strong>, which stands above the kingdom.</li><li>The characteristic unique to organisms of the domain Archaea is their <strong>ability to live in extreme environments</strong> such as hot springs and salty lakes.</li><li>The key characteristic that distinguishes eukaryotic cells from prokaryotic cells is the <strong>presence of a true nucleus</strong>.</li><li>Viruses cannot be classified within the traditional biological kingdoms because <strong>they lack cellular structure and organelles</strong>.</li><li>The scientific name of humans is written <strong><i>Homo sapiens</i></strong> — in italics, the genus name with a capital letter and the species name with a small letter.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The broadest (highest) taxonomic rank is the:",
+       "options": [
+        "Kingdom",
+        "Phylum",
+        "Species",
+        "Domain"
+       ],
+       "answer": 3,
+       "why": "In the modern system the domain is the broadest rank and stands above the kingdom."
+      },
+      {
+       "q": "The domain stands immediately above which rank?",
+       "options": [
+        "Phylum",
+        "Genus",
+        "Kingdom",
+        "Family"
+       ],
+       "answer": 2,
+       "why": "The domain is the highest rank, standing above the kingdom, which is the broadest of the seven traditional ranks."
+      },
+      {
+       "q": "The characteristic unique to organisms of the domain Archaea is their ability to:",
+       "options": [
+        "Carry out photosynthesis",
+        "Live in extreme environments such as hot springs and salty lakes",
+        "Form multicellular bodies",
+        "Live only inside host cells"
+       ],
+       "answer": 1,
+       "why": "Archaea are famous for living in extreme environments such as hot springs and salty lakes."
+      },
+      {
+       "q": "The key characteristic that distinguishes eukaryotic cells from prokaryotic cells is:",
+       "options": [
+        "The presence of a true nucleus",
+        "The presence of a cell wall",
+        "The presence of ribosomes",
+        "The ability to divide"
+       ],
+       "answer": 0,
+       "why": "Eukaryotic cells have a true nucleus, while prokaryotic cells lack one; this is the key distinguishing characteristic."
+      },
+      {
+       "q": "Viruses cannot be classified within the traditional biological kingdoms because they:",
+       "options": [
+        "Are too small to be seen",
+        "Lack cellular structure and organelles",
+        "Live in extreme environments",
+        "Have a true nucleus"
+       ],
+       "answer": 1,
+       "why": "Viruses lack cellular structure and organelles, and the kingdom system classifies cellular living organisms."
+      },
+      {
+       "q": "The scientific name of humans is:",
+       "options": [
+        "homo Sapiens",
+        "HOMO SAPIENS",
+        "Sapiens homo",
+        "Homo sapiens"
+       ],
+       "answer": 3,
+       "why": "The scientific name of humans is written Homo sapiens — the genus name with a capital letter and the species name with a small letter."
+      },
+      {
+       "q": "In a correctly written scientific name, the genus name begins with:",
+       "options": [
+        "A small letter, and the species name with a capital letter",
+        "Capital letters for both parts",
+        "A capital letter, and the species name with a small letter",
+        "Small letters for both parts"
+       ],
+       "answer": 2,
+       "why": "The genus name begins with a capital letter and the species name with a small letter, as in Homo sapiens."
+      },
+      {
+       "q": "In print, a scientific name is typed in:",
+       "options": [
+        "Italics",
+        "Bold letters",
+        "Capital letters",
+        "Underlined capital letters"
+       ],
+       "answer": 0,
+       "why": "In print the name is typed in italics; when handwritten, the two parts are underlined separately."
+      },
+      {
+       "q": "Which of the following is NOT a rule for writing a scientific name?",
+       "options": [
+        "It has two parts, genus first, then species",
+        "The genus name begins with a capital letter",
+        "Each name must be unique to one organism",
+        "It must be printed in bold letters"
+       ],
+       "answer": 3,
+       "why": "Scientific names are printed in italics, not bold; the other statements are genuine rules given in the chapter."
+      },
+      {
+       "q": "A cell that possesses a true nucleus is called a:",
+       "options": [
+        "Prokaryotic cell",
+        "Eukaryotic cell",
+        "Virus particle",
+        "Archaeal cell only"
+       ],
+       "answer": 1,
+       "why": "The presence of a true nucleus is the key characteristic of eukaryotic cells; prokaryotic cells lack a true nucleus."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Biodiversity: The Variety of Life</h4><p>The term is biodiversity. It means the variety of all living organisms, including different species, their genetic differences and the ecosystems in which they live.</p><h4>Importance of Biodiversity for Humans and the Earth</h4><p>Biodiversity keeps ecosystems stable and healthy: plants produce oxygen and food, decomposers recycle nutrients, and many species control pests and pollinate crops. For humans it provides food, medicines, timber and clean air and water. Loss of biodiversity weakens ecosystems and threatens human survival.</p><h4>The Seven Taxonomic Ranks</h4><p>From broadest to narrowest they are: kingdom, phylum, class, order, family, genus and species. In the modern three-domain system, domain stands above kingdom as the broadest rank.</p><h4>Archaea and Bacteria</h4><p>Both are single-celled prokaryotes without a nucleus, but they differ in their cell walls and chemistry. Archaeal cell walls lack peptidoglycan, which bacterial walls contain, and archaeal cell membranes and genes are different. Archaea often live in extreme environments such as hot springs and salty lakes, while bacteria live almost everywhere.</p><h4>Kingdom Animalia</h4><p>Kingdom Animalia. Animals are multicellular, they obtain food by eating other organisms (heterotrophic nutrition), and their cells have no cell walls.</p><h4>Distinguishing Characteristics of Fungi</h4><p>Fungi are eukaryotic and mostly multicellular, with cell walls made of chitin. They are heterotrophic and absorb food from dead or living organic matter rather than making it. Their bodies are made of thread-like hyphae, and they reproduce by spores.</p><h4>The Three Domains of Life</h4><p>The three domains are Archaea, Bacteria and Eukarya. Archaea and Bacteria contain prokaryotic organisms, while Eukarya contains all organisms with eukaryotic cells: protists, fungi, plants and animals.</p><h4>Why Viruses Cannot Be Classified in Any Kingdom</h4><p>Viruses are not cells: they have no cell membrane, cytoplasm or organelles, and they cannot carry out life processes on their own. They only reproduce inside a living host cell. Because the kingdom system classifies cellular living organisms, viruses fit into none of its kingdoms.</p><h4>Binomial Nomenclature and Clear Communication</h4><p>Binomial nomenclature gives every species one unique two-part Latin scientific name, a genus name followed by a species name, for example Homo sapiens. Because the same name is used by scientists in all countries, there is no confusion caused by different local or common names in different languages.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Biodiversity means:",
+       "options": [
+        "The variety of all living organisms, including different species, their genetic differences and the ecosystems in which they live",
+        "The number of animals in a zoo",
+        "The variety of rocks in an area",
+        "The classification of organisms into kingdoms"
+       ],
+       "answer": 0,
+       "why": "Biodiversity is the variety of all living organisms, including different species, their genetic differences and the ecosystems in which they live."
+      },
+      {
+       "q": "For humans, biodiversity provides:",
+       "options": [
+        "Only ornamental plants",
+        "Food, medicines, timber and clean air and water",
+        "Metals and minerals",
+        "Electricity and fuels"
+       ],
+       "answer": 1,
+       "why": "Biodiversity provides humans with food, medicines, timber and clean air and water, and its loss threatens human survival."
+      },
+      {
+       "q": "Of the seven taxonomic ranks (kingdom to species), the narrowest is:",
+       "options": [
+        "Kingdom",
+        "Genus",
+        "Species",
+        "Phylum"
+       ],
+       "answer": 2,
+       "why": "From broadest to narrowest the ranks are kingdom, phylum, class, order, family, genus and species, so species is the narrowest."
+      },
+      {
+       "q": "Archaeal cell walls differ from bacterial cell walls because archaeal walls:",
+       "options": [
+        "Are made of cellulose",
+        "Contain chitin",
+        "Are absent altogether",
+        "Lack peptidoglycan, which bacterial walls contain"
+       ],
+       "answer": 3,
+       "why": "Archaeal cell walls lack peptidoglycan, which bacterial walls contain; their membranes and genes are also different."
+      },
+      {
+       "q": "Members of Kingdom Animalia are:",
+       "options": [
+        "Multicellular, heterotrophic, and their cells have no cell walls",
+        "Multicellular, autotrophic, with cellulose cell walls",
+        "Unicellular with chitin cell walls",
+        "Unicellular and heterotrophic with cell walls"
+       ],
+       "answer": 0,
+       "why": "Animals are multicellular, they obtain food by eating other organisms (heterotrophic nutrition), and their cells have no cell walls."
+      },
+      {
+       "q": "The cell walls of fungi are made of:",
+       "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Starch"
+       ],
+       "answer": 1,
+       "why": "Fungi are eukaryotic and mostly multicellular, with cell walls made of chitin."
+      },
+      {
+       "q": "Fungi reproduce by:",
+       "options": [
+        "Binary fission only",
+        "Budding only",
+        "Spores",
+        "Seeds"
+       ],
+       "answer": 2,
+       "why": "Fungi are heterotrophic, absorb food from organic matter, have bodies made of thread-like hyphae, and reproduce by spores."
+      },
+      {
+       "q": "The three domains of life are:",
+       "options": [
+        "Protista, Fungi and Plantae",
+        "Kingdom, Phylum and Class",
+        "Plantae, Animalia and Fungi",
+        "Archaea, Bacteria and Eukarya"
+       ],
+       "answer": 3,
+       "why": "The three domains are Archaea, Bacteria and Eukarya; Eukarya contains protists, fungi, plants and animals."
+      },
+      {
+       "q": "Viruses can reproduce only:",
+       "options": [
+        "In water",
+        "Inside a living host cell",
+        "In dead organic matter",
+        "In extreme environments"
+       ],
+       "answer": 1,
+       "why": "Viruses are not cells and cannot carry out life processes on their own; they only reproduce inside a living host cell."
+      },
+      {
+       "q": "Binomial nomenclature gives every species:",
+       "options": [
+        "A different name in every country",
+        "A name based on its local language",
+        "One unique two-part Latin scientific name",
+        "Three names for its three domains"
+       ],
+       "answer": 2,
+       "why": "Binomial nomenclature gives each species one unique two-part Latin name, so scientists in all countries use the same name without confusion."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Biodiversity and the Health of Ecosystems</h4><p>Biodiversity is the variety of genes, species and ecosystems on Earth. A diverse ecosystem is more stable because different species fill different roles: producers make food, consumers transfer energy, and decomposers return nutrients to the soil. If one species declines, others can partly take its place.</p><p>Biodiversity also gives humans food, medicines and raw materials, and protects soil, water and air, so its loss makes ecosystems fragile and less able to recover from change.</p><h4>Importance of Classification in Biology</h4><p>Classification groups organisms by shared characteristics into ranks from domain to species, so that the huge variety of life can be studied in an orderly way. Organisms placed in the same group share a common ancestry and similar features, so classification reveals evolutionary relationships. It also makes identification easy and allows scientists everywhere to communicate about the same organism without confusion.</p><h4>Domains Archaea and Bacteria Compared</h4><p>Both domains contain unicellular prokaryotes with no true nucleus or membrane-bound organelles, and both reproduce mainly by binary fission. They differ in cell wall chemistry: bacterial walls contain peptidoglycan, archaeal walls do not. Their membrane lipids and ribosomal RNA are also different, and archaea are famous for living in extreme conditions such as high temperature, high salt and acidity, while bacteria are found in almost every habitat.</p><h4>The Four Kingdoms of Eukarya</h4><p>Protista contains mostly unicellular eukaryotes, some with plant-like and some with animal-like nutrition. Fungi are heterotrophic eukaryotes with chitin cell walls that absorb food, and their bodies are made of hyphae. Plantae are multicellular, autotrophic eukaryotes with cellulose cell walls that make food by photosynthesis.</p><p>Animalia are multicellular, heterotrophic eukaryotes whose cells lack cell walls and which ingest their food.</p><h4>Challenges of Classifying Viruses</h4><p>The three-domain system classifies cellular life, but viruses are acellular particles made only of genetic material in a protein coat. They show no metabolism, growth or independent reproduction, and they are inactive outside a host cell. Some scientists regard them as non-living, others as living only inside a host.</p><p>Because they share features of both, and have no ribosomes or cell structure to compare, they cannot be placed in any domain or kingdom.</p><h4>Rules for Scientific Names</h4><p>As printed in the chapter (book p. 29): every scientific name has two parts, the genus name first followed by the species name. Each name must be unique, so the same name cannot be used for two different organisms.</p><p>The genus name begins with a capital letter and the species name with a small letter. In print the name is typed in italics, and when handwritten the two parts are underlined separately.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Biodiversity is the variety of which three things on Earth?",
+       "options": [
+        "Rocks, soils and climates",
+        "Kingdoms, phyla and classes",
+        "Genes, species and ecosystems",
+        "Plants, animals and minerals"
+       ],
+       "answer": 2,
+       "why": "Biodiversity is the variety of genes, species and ecosystems on Earth."
+      },
+      {
+       "q": "A diverse ecosystem is more stable because:",
+       "options": [
+        "Different species fill different roles, and if one species declines, others can partly take its place",
+        "It contains no decomposers",
+        "All species eat the same food",
+        "It never changes at all"
+       ],
+       "answer": 0,
+       "why": "Producers make food, consumers transfer energy and decomposers return nutrients; if one species declines, others can partly take its place."
+      },
+      {
+       "q": "Classification reveals evolutionary relationships because:",
+       "options": [
+        "All organisms look identical",
+        "It gives each organism a local name",
+        "It arranges organisms by size only",
+        "Organisms placed in the same group share a common ancestry and similar features"
+       ],
+       "answer": 3,
+       "why": "Organisms in the same group share a common ancestry and similar features, so classification reveals evolutionary relationships."
+      },
+      {
+       "q": "Both Archaea and Bacteria reproduce mainly by:",
+       "options": [
+        "Spore formation",
+        "Binary fission",
+        "Budding",
+        "Producing gametes"
+       ],
+       "answer": 1,
+       "why": "Both domains contain unicellular prokaryotes with no true nucleus, and both reproduce mainly by binary fission."
+      },
+      {
+       "q": "Kingdom Protista contains:",
+       "options": [
+        "Multicellular autotrophs with cellulose walls",
+        "Heterotrophs with chitin walls and hyphae",
+        "Mostly unicellular eukaryotes, some with plant-like and some with animal-like nutrition",
+        "Prokaryotes without a nucleus"
+       ],
+       "answer": 2,
+       "why": "Protista contains mostly unicellular eukaryotes, some with plant-like and some with animal-like nutrition."
+      },
+      {
+       "q": "The cell walls of Plantae are made of:",
+       "options": [
+        "Chitin",
+        "Peptidoglycan",
+        "Protein only",
+        "Cellulose"
+       ],
+       "answer": 3,
+       "why": "Plantae are multicellular, autotrophic eukaryotes with cellulose cell walls that make food by photosynthesis."
+      },
+      {
+       "q": "Members of Kingdom Animalia obtain their food by:",
+       "options": [
+        "Ingesting it (they are heterotrophic)",
+        "Photosynthesis",
+        "Absorbing it through hyphae",
+        "Fixing it from the air"
+       ],
+       "answer": 0,
+       "why": "Animalia are multicellular, heterotrophic eukaryotes whose cells lack cell walls and which ingest their food."
+      },
+      {
+       "q": "Viruses are acellular particles made only of:",
+       "options": [
+        "A cell membrane and cytoplasm",
+        "Genetic material in a protein coat",
+        "Chitin and hyphae",
+        "A nucleus and ribosomes"
+       ],
+       "answer": 1,
+       "why": "Viruses are made only of genetic material in a protein coat; they show no metabolism, growth or independent reproduction."
+      },
+      {
+       "q": "Viruses cannot be placed in any domain or kingdom partly because they have no:",
+       "options": [
+        "Genetic material",
+        "Protein coat",
+        "Host cell",
+        "Ribosomes or cell structure to compare"
+       ],
+       "answer": 3,
+       "why": "Viruses share features of both living and non-living things and have no ribosomes or cell structure to compare, so they fit no domain or kingdom."
+      },
+      {
+       "q": "When a scientific name is handwritten, the two parts must be:",
+       "options": [
+        "Underlined separately",
+        "Written in capital letters",
+        "Joined by a hyphen",
+        "Written in bold"
+       ],
+       "answer": 0,
+       "why": "In print the name is typed in italics, and when handwritten the two parts are underlined separately (book p. 29)."
+      }
+     ]
     }
    ]
   },
@@ -47,17 +713,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>Cellular respiration occurs in the <strong>mitochondria</strong> of the cell.</li><li>The smooth endoplasmic reticulum (SER) is primarily involved in the synthesis of <strong>lipids</strong>.</li><li>The specialised region of the nucleus responsible for ribosome assembly is the <strong>nucleolus</strong>. (Note: the book prints two options labelled as chromatin; the correct region is the nucleolus.)</li><li>The primary function of ribosomes is <strong>protein synthesis</strong>.</li><li>The main function of the nuclear pores is to <strong>control the transport of molecules</strong> between the nucleus and the cytoplasm.</li><li>The cell organelle responsible for breaking down waste materials is the <strong>lysosome</strong>.</li><li>The cellular structure found in animal cells that helps in cell division is the <strong>centriole</strong>.</li><li>The sub-cellular organelle that plays a crucial role in energy production within the cell is the <strong>mitochondrion</strong>.</li><li>In a multicellular plant, the cell type responsible for the production of glucose is the <strong>mesophyll</strong> cell, which carries out photosynthesis.</li><li>The organelle that can double its number by itself is the <strong>mitochondrion</strong>, because it contains its own DNA and ribosomes.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Cellular respiration occurs in which organelle?",
+       "options": [
+        "The ribosomes",
+        "The mitochondria",
+        "The Golgi apparatus",
+        "The lysosomes"
+       ],
+       "answer": 1,
+       "why": "Cellular respiration occurs in the mitochondria of the cell, which are the sites of energy production."
+      },
+      {
+       "q": "The smooth endoplasmic reticulum (SER) is primarily involved in:",
+       "options": [
+        "Protein synthesis",
+        "Ribosome assembly",
+        "Breaking down waste materials",
+        "The synthesis of lipids"
+       ],
+       "answer": 3,
+       "why": "The smooth endoplasmic reticulum is primarily involved in the synthesis of lipids."
+      },
+      {
+       "q": "The specialised region of the nucleus responsible for ribosome assembly is the:",
+       "options": [
+        "Nucleolus",
+        "Chromatin",
+        "Nuclear pore",
+        "Nucleoplasm"
+       ],
+       "answer": 0,
+       "why": "The nucleolus is the dense region of the nucleus where ribosomes are assembled. (The book prints two options labelled as chromatin; the correct region is the nucleolus.)"
+      },
+      {
+       "q": "The primary function of ribosomes is:",
+       "options": [
+        "Lipid synthesis",
+        "Energy production",
+        "Protein synthesis",
+        "Transport of molecules"
+       ],
+       "answer": 2,
+       "why": "Ribosomes are the sites of protein synthesis in the cell."
+      },
+      {
+       "q": "The main function of the nuclear pores is to:",
+       "options": [
+        "Assemble ribosomes",
+        "Produce energy for the nucleus",
+        "Digest waste materials",
+        "Control the transport of molecules between the nucleus and the cytoplasm"
+       ],
+       "answer": 3,
+       "why": "Nuclear pores in the nuclear membrane control the transport of molecules between the nucleus and the cytoplasm."
+      },
+      {
+       "q": "The cell organelle responsible for breaking down waste materials is the:",
+       "options": [
+        "Lysosome",
+        "Centriole",
+        "Mitochondrion",
+        "Ribosome"
+       ],
+       "answer": 0,
+       "why": "Lysosomes contain digestive enzymes and break down waste materials and worn-out parts of the cell."
+      },
+      {
+       "q": "The cellular structure found in animal cells that helps in cell division is the:",
+       "options": [
+        "Mesophyll cell",
+        "Nucleolus",
+        "Centriole",
+        "Central vacuole"
+       ],
+       "answer": 2,
+       "why": "Centrioles, found in animal cells, help in cell division as part of the centrosome."
+      },
+      {
+       "q": "The sub-cellular organelle that plays a crucial role in energy production within the cell is the:",
+       "options": [
+        "Lysosome",
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Smooth endoplasmic reticulum"
+       ],
+       "answer": 1,
+       "why": "The mitochondrion plays the crucial role in energy production, carrying out cellular respiration."
+      },
+      {
+       "q": "In a multicellular plant, the cell type responsible for the production of glucose is the:",
+       "options": [
+        "Mesophyll cell, which carries out photosynthesis",
+        "Root hair cell, which absorbs water",
+        "Guard cell, which opens stomata",
+        "Xylem cell, which transports water"
+       ],
+       "answer": 0,
+       "why": "Mesophyll cells contain chloroplasts and carry out photosynthesis, producing glucose."
+      },
+      {
+       "q": "The mitochondrion can double its number by itself because it:",
+       "options": [
+        "Is surrounded by a cell wall",
+        "Receives new copies from the nucleus daily",
+        "Has no membrane of its own",
+        "Contains its own DNA and ribosomes"
+       ],
+       "answer": 3,
+       "why": "The mitochondrion contains its own DNA and ribosomes, so it can make its own proteins and double its number by itself."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Functions of the Cell Membrane</h4><p>The cell membrane separates the cell from its surroundings and protects its contents. It controls which substances enter and leave the cell, so it is selectively permeable. It also helps the cell communicate with its environment and gives the cell its shape.</p><h4>Role of the Golgi Apparatus</h4><p>The Golgi apparatus receives proteins and lipids from the endoplasmic reticulum, modifies them, packs them into vesicles and sends them to their destinations inside or outside the cell. It is therefore the packaging and dispatch centre of the cell.</p><h4>How Lysosomes Serve the Cell</h4><p>Lysosomes contain digestive enzymes that break down waste materials, worn-out organelles and foreign particles entering the cell. This cleaning and recycling keeps the cell healthy and supplies it with useful breakdown products.</p><h4>The Organelle That Detoxifies: Smooth Endoplasmic Reticulum</h4><p>The smooth endoplasmic reticulum (SER). It has no ribosomes on its surface and it synthesises lipids, detoxifies drugs and poisons, and breaks down lipids in the cell.</p><h4>Functions of the Smooth Endoplasmic Reticulum</h4><p>The SER synthesises lipids and steroids, detoxifies harmful substances, and stores and releases calcium ions in muscle cells. It also helps in the breakdown of lipids.</p><h4>Vacuoles in Plant and Animal Cells</h4><p>A plant cell usually has one large central vacuole that stores water and cell sap and keeps the cell firm. Animal cells have several small vacuoles, if any, used mainly for temporary storage and transport. The plant vacuole is therefore much larger and more permanent.</p><h4>When Lysosomal Enzymes Fail</h4><p>Waste materials and worn-out parts would pile up inside the cell instead of being digested. The cell would become damaged and could die, and in the body this leads to storage diseases in which undigested substances accumulate in tissues.</p><h4>Cristae and Cellular Respiration</h4><p>Cristae are the folds of the inner membrane of the mitochondrion. They greatly increase the surface area available for the reactions of aerobic respiration, especially the electron transport chain, so more ATP can be produced.</p><h4>Chromatin and Chromosomes</h4><p>Chromatin is the loose, thread-like form of DNA and proteins found in the nucleus when the cell is not dividing. When the cell prepares to divide, chromatin condenses and coils into thick, visible structures called chromosomes. Chromosomes are therefore the condensed form of chromatin.</p><h4>Parts of the Animal and Plant Cell: A Labelled Tour</h4><p>Animal cell (left): 1 Mitochondrion; 2 Cell membrane; 3 Lysosome; 4 Endoplasmic reticulum; 5 Lysosome (small vesicle); 6 Golgi apparatus; 7 Vacuole (small). The large dark body in the centre is the nucleus. Plant cell (right): 1 Golgi apparatus;\n2 Nucleus; 3 Endoplasmic reticulum; 4 Central vacuole; 5 Mitochondrion; 6 Mitochondrion (small body); 7 Chloroplast.</p><p>The thick outer boundary is the cell wall, and the green ovals are chloroplasts.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The cell membrane is selectively permeable, which means it:",
+       "options": [
+        "Allows every substance to pass freely",
+        "Blocks all substances completely",
+        "Produces proteins for the cell",
+        "Controls which substances enter and leave the cell"
+       ],
+       "answer": 3,
+       "why": "The cell membrane separates the cell from its surroundings and controls which substances enter and leave, so it is selectively permeable."
+      },
+      {
+       "q": "The Golgi apparatus is called the packaging and dispatch centre of the cell because it:",
+       "options": [
+        "Produces energy in the form of ATP",
+        "Digests waste materials and worn-out organelles",
+        "Receives proteins and lipids from the endoplasmic reticulum, modifies them, packs them into vesicles and sends them to their destinations",
+        "Makes ribosomes for the cell"
+       ],
+       "answer": 2,
+       "why": "The Golgi apparatus modifies, packs into vesicles and dispatches the proteins and lipids it receives from the endoplasmic reticulum."
+      },
+      {
+       "q": "Lysosomes keep the cell healthy by:",
+       "options": [
+        "Making glucose by photosynthesis",
+        "Using digestive enzymes to break down waste materials, worn-out organelles and foreign particles",
+        "Storing water and cell sap",
+        "Producing spindle fibres"
+       ],
+       "answer": 1,
+       "why": "Lysosomes contain digestive enzymes that break down waste, worn-out organelles and foreign particles; this cleaning and recycling keeps the cell healthy."
+      },
+      {
+       "q": "Which organelle detoxifies drugs and poisons in the cell?",
+       "options": [
+        "The smooth endoplasmic reticulum",
+        "The lysosome",
+        "The Golgi apparatus",
+        "The nucleolus"
+       ],
+       "answer": 0,
+       "why": "The smooth endoplasmic reticulum synthesises lipids, detoxifies drugs and poisons, and breaks down lipids in the cell."
+      },
+      {
+       "q": "The smooth endoplasmic reticulum has no ribosomes on its surface and it synthesises:",
+       "options": [
+        "Proteins",
+        "Lipids",
+        "DNA",
+        "Cellulose"
+       ],
+       "answer": 1,
+       "why": "The SER has no ribosomes on its surface; it synthesises lipids and steroids and detoxifies harmful substances."
+      },
+      {
+       "q": "In muscle cells, the smooth endoplasmic reticulum stores and releases:",
+       "options": [
+        "Oxygen molecules",
+        "Glucose molecules",
+        "Digestive enzymes",
+        "Calcium ions"
+       ],
+       "answer": 3,
+       "why": "The SER stores and releases calcium ions in muscle cells, in addition to synthesising lipids and detoxifying substances."
+      },
+      {
+       "q": "A plant cell usually has:",
+       "options": [
+        "Many large vacuoles filling the whole cell",
+        "No vacuole at all",
+        "One large central vacuole that stores water and cell sap and keeps the cell firm",
+        "One small vacuole used only for transport"
+       ],
+       "answer": 2,
+       "why": "A plant cell usually has one large central vacuole storing water and cell sap; animal cells have several small vacuoles, if any."
+      },
+      {
+       "q": "If lysosomal enzymes fail to work, the result can be:",
+       "options": [
+        "Storage diseases, in which undigested substances accumulate in tissues",
+        "Faster growth of the cell",
+        "Extra production of ATP",
+        "Formation of new chloroplasts"
+       ],
+       "answer": 0,
+       "why": "Without lysosomal digestion, waste piles up, the cell is damaged, and in the body this leads to storage diseases."
+      },
+      {
+       "q": "Cristae are:",
+       "options": [
+        "Stacks of thylakoids in the chloroplast",
+        "Pores in the nuclear membrane",
+        "Channels through the cell wall",
+        "Folds of the inner membrane of the mitochondrion that increase the surface area for aerobic respiration"
+       ],
+       "answer": 3,
+       "why": "Cristae are folds of the inner mitochondrial membrane; they greatly increase the surface area for the electron transport chain, so more ATP can be produced."
+      },
+      {
+       "q": "Chromatin condenses and coils into chromosomes when:",
+       "options": [
+        "The cell is resting permanently",
+        "The cell prepares to divide",
+        "The cell makes proteins",
+        "The cell absorbs water"
+       ],
+       "answer": 1,
+       "why": "Chromatin is the loose, thread-like form of DNA in a non-dividing cell; when the cell prepares to divide, it condenses into thick, visible chromosomes."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>The Fluid Mosaic Model of the Cell Membrane</h4><p>According to the fluid mosaic model, the cell membrane is a double layer of phospholipids in which proteins are embedded like pieces of a mosaic. The lipid layer is fluid, so the proteins can move sideways within it. Some proteins pass right through the membrane and act as channels or carriers, while others sit on the surface.</p><p>Cholesterol and carbohydrate chains are also present, and together they give a flexible, selectively permeable boundary.</p><h4>Structure and Functions of the Cell Wall</h4><p>The cell wall is a rigid layer outside the cell membrane, found in plant cells and made mainly of cellulose. It is freely permeable, so water and dissolved substances pass through it easily. It protects the cell, gives it a definite shape and prevents it from bursting when water enters.</p><p>In plant cells, neighbouring cells are connected through channels called plasmodesmata that pass through the wall.</p><h4>Components of the Nucleus</h4><p>The nucleus is bounded by a double nuclear membrane containing nuclear pores that control the passage of molecules. Inside is the nucleoplasm, a fluid containing chromatin, the DNA-protein material that carries hereditary information. The nucleolus is a dense region where ribosomes are assembled.</p><p>The nucleus controls all the activities of the cell and passes genetic information to the next generation.</p><h4>Lysosome and Endoplasmic Reticulum</h4><p>Lysosomes are small round sacs filled with digestive enzymes; they digest food particles, waste and worn-out organelles, acting as the cell's cleaning system. The endoplasmic reticulum is a network of folded membranes: the rough ER carries ribosomes and makes proteins, while the smooth ER makes lipids and detoxifies harmful substances. Both organelles work with the Golgi apparatus to process and transport cell products.</p><h4>Formation and Function of the Golgi Complex</h4><p>The Golgi complex is formed from stacks of flattened membrane sacs called cisternae, with vesicles budding from their edges. Proteins and lipids arriving from the endoplasmic reticulum enter on one side, are modified, sorted and packed into vesicles, and leave from the other side. These vesicles carry the products to the cell membrane for secretion or to other parts of the cell, and the Golgi also helps form lysosomes.</p><h4>Structure and Functions of the Chloroplast</h4><p>The chloroplast is a double-membraned organelle containing a fluid stroma and stacks of disc-like thylakoids called grana. The green pigment chlorophyll sits in the thylakoid membranes and captures light energy. In the thylakoids the light reactions of photosynthesis take place, while the dark reactions take place in the stroma, producing glucose.</p><p>Chloroplasts are therefore the sites of photosynthesis in plant cells.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "According to the fluid mosaic model, the cell membrane is:",
+       "options": [
+        "A double layer of phospholipids in which proteins are embedded like pieces of a mosaic",
+        "A rigid layer of cellulose with pores",
+        "A single layer of proteins only",
+        "A solid sheet of cholesterol"
+       ],
+       "answer": 0,
+       "why": "In the fluid mosaic model the membrane is a phospholipid double layer with proteins embedded in it like pieces of a mosaic."
+      },
+      {
+       "q": "In the fluid mosaic model, the lipid layer is fluid, so the proteins in it can:",
+       "options": [
+        "Never move at all",
+        "Move sideways within the layer",
+        "Leave the cell freely",
+        "Change into lipids"
+       ],
+       "answer": 1,
+       "why": "The lipid layer is fluid, so the embedded proteins can move sideways within it, giving a flexible boundary."
+      },
+      {
+       "q": "The plant cell wall is made mainly of:",
+       "options": [
+        "Chitin",
+        "Peptidoglycan",
+        "Cellulose",
+        "Protein"
+       ],
+       "answer": 2,
+       "why": "The cell wall is a rigid layer outside the cell membrane, found in plant cells and made mainly of cellulose."
+      },
+      {
+       "q": "The cell wall is freely permeable, which means:",
+       "options": [
+        "Nothing can pass through it",
+        "Only gases can pass through it",
+        "It selects which ions may pass",
+        "Water and dissolved substances pass through it easily"
+       ],
+       "answer": 3,
+       "why": "Unlike the selectively permeable membrane, the cell wall is freely permeable, so water and dissolved substances pass through it easily."
+      },
+      {
+       "q": "Neighbouring plant cells are connected through channels in the wall called:",
+       "options": [
+        "Plasmodesmata",
+        "Cristae",
+        "Nuclear pores",
+        "Grana"
+       ],
+       "answer": 0,
+       "why": "In plant cells, neighbouring cells are connected through channels called plasmodesmata that pass through the wall."
+      },
+      {
+       "q": "The nucleoplasm is:",
+       "options": [
+        "The dense region where ribosomes are assembled",
+        "The fluid inside the nucleus containing chromatin",
+        "The double membrane around the nucleus",
+        "The fluid of the chloroplast"
+       ],
+       "answer": 1,
+       "why": "Inside the nucleus is the nucleoplasm, a fluid containing chromatin, the DNA–protein material carrying hereditary information."
+      },
+      {
+       "q": "The rough endoplasmic reticulum makes proteins because it carries:",
+       "options": [
+        "Chlorophyll",
+        "Digestive enzymes",
+        "Ribosomes",
+        "Calcium ions"
+       ],
+       "answer": 2,
+       "why": "The rough ER carries ribosomes on its surface and makes proteins, while the smooth ER makes lipids and detoxifies substances."
+      },
+      {
+       "q": "The Golgi complex is formed from stacks of flattened membrane sacs called:",
+       "options": [
+        "Thylakoids",
+        "Cristae",
+        "Plasmodesmata",
+        "Cisternae"
+       ],
+       "answer": 3,
+       "why": "The Golgi complex is formed from stacks of flattened membrane sacs called cisternae, with vesicles budding from their edges."
+      },
+      {
+       "q": "Besides packaging cell products, the Golgi apparatus also helps to form:",
+       "options": [
+        "Chloroplasts",
+        "Lysosomes",
+        "Centrioles",
+        "Cell walls"
+       ],
+       "answer": 1,
+       "why": "Vesicles from the Golgi carry products to the membrane or other parts of the cell, and the Golgi also helps form lysosomes."
+      },
+      {
+       "q": "In the chloroplast, the light reactions of photosynthesis take place in the:",
+       "options": [
+        "Stroma",
+        "Outer membrane",
+        "Thylakoids (stacked as grana)",
+        "Cell wall"
+       ],
+       "answer": 2,
+       "why": "Chlorophyll sits in the thylakoid membranes and captures light energy; the light reactions take place in the thylakoids, while the dark reactions take place in the stroma."
+      }
+     ]
     }
    ]
   },
@@ -67,17 +1066,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>Maximum growth of the cell occurs in the <strong>G1 phase</strong> of the cell cycle.</li><li>The chromosomes duplicate (DNA replicates) in the <strong>S phase</strong> of interphase.</li><li>It is NOT a characteristic of mitosis that the chromosome number is halved in daughter cells: mitosis occurs in somatic cells and produces two genetically identical daughter cells with the same chromosome number.</li><li>Chromosomes line up in the centre (equator) of the cell during <strong>metaphase</strong> of mitosis.</li><li>When the nuclear membrane is reforming around two sets of chromosomes, the cell is in <strong>telophase</strong>.</li><li>Meiosis-II is necessary after meiosis-I in order to <strong>separate the sister chromatids</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Maximum growth of the cell occurs in which phase of the cell cycle?",
+       "options": [
+        "The S phase",
+        "The metaphase",
+        "The G1 phase",
+        "The telophase"
+       ],
+       "answer": 2,
+       "why": "Maximum growth of the cell occurs in the G1 phase, when the cell grows rapidly and carries out its normal functions."
+      },
+      {
+       "q": "The chromosomes duplicate (DNA replicates) in which phase?",
+       "options": [
+        "The S phase of interphase",
+        "The G1 phase",
+        "The prophase of mitosis",
+        "The anaphase of mitosis"
+       ],
+       "answer": 0,
+       "why": "In the S (synthesis) phase of interphase the cell copies its DNA, so each chromosome comes to consist of two sister chromatids."
+      },
+      {
+       "q": "Which of the following is NOT a characteristic of mitosis?",
+       "options": [
+        "It occurs in somatic cells",
+        "It produces two daughter cells",
+        "The daughter cells are genetically identical",
+        "The chromosome number is halved in the daughter cells"
+       ],
+       "answer": 3,
+       "why": "Mitosis produces two genetically identical daughter cells with the same chromosome number as the parent; halving of the number happens in meiosis, not mitosis."
+      },
+      {
+       "q": "Mitosis occurs in which type of cells?",
+       "options": [
+        "Only gamete-forming cells",
+        "Somatic (body) cells",
+        "Only bacterial cells",
+        "Only plant root cells"
+       ],
+       "answer": 1,
+       "why": "Mitosis occurs in somatic cells and produces two genetically identical daughter cells with the same chromosome number."
+      },
+      {
+       "q": "Mitosis produces:",
+       "options": [
+        "Four daughter cells with half the chromosome number",
+        "Two daughter cells with half the chromosome number",
+        "Two genetically identical daughter cells with the same chromosome number as the parent",
+        "Four genetically different daughter cells"
+       ],
+       "answer": 2,
+       "why": "Mitosis produces two genetically identical daughter cells, and the chromosome number stays the same as in the parent cell."
+      },
+      {
+       "q": "Chromosomes line up in the centre (equator) of the cell during:",
+       "options": [
+        "Prophase of mitosis",
+        "Anaphase of mitosis",
+        "Telophase of mitosis",
+        "Metaphase of mitosis"
+       ],
+       "answer": 3,
+       "why": "During metaphase the chromosomes line up at the equator of the cell, attached to the spindle fibres."
+      },
+      {
+       "q": "When the nuclear membrane is reforming around two sets of chromosomes, the cell is in:",
+       "options": [
+        "Telophase",
+        "Prophase",
+        "Metaphase",
+        "Anaphase"
+       ],
+       "answer": 0,
+       "why": "In telophase, nuclear membranes reform around the two sets of chromosomes and the chromosomes uncoil."
+      },
+      {
+       "q": "Meiosis-II is necessary after meiosis-I in order to:",
+       "options": [
+        "Halve the chromosome number again",
+        "Separate the sister chromatids",
+        "Duplicate the DNA",
+        "Form the spindle fibres"
+       ],
+       "answer": 1,
+       "why": "The chromosome number is halved in meiosis-I; meiosis-II is then necessary to separate the sister chromatids."
+      },
+      {
+       "q": "The S phase, in which DNA replicates, is a part of:",
+       "options": [
+        "Metaphase",
+        "Anaphase",
+        "Cytokinesis",
+        "Interphase"
+       ],
+       "answer": 3,
+       "why": "DNA replication takes place in the S phase of interphase, before the cell enters mitosis."
+      },
+      {
+       "q": "Which statement about mitosis is correct?",
+       "options": [
+        "It maintains the chromosome number in daughter cells",
+        "It produces four daughter cells",
+        "It halves the chromosome number",
+        "It produces gametes for reproduction"
+       ],
+       "answer": 0,
+       "why": "Mitosis produces two daughter cells with the same chromosome number as the parent, so it maintains the number; producing four haploid cells is the work of meiosis."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Events of the G1 Phase</h4><p>During G1 the cell grows rapidly, makes new proteins and organelles, and carries out its normal functions. It also prepares the materials needed for DNA replication in the next phase. The cell checks that conditions are suitable before it commits to dividing.</p><h4>Purpose of the S Phase</h4><p>In the S (synthesis) phase the cell copies its DNA, so that each chromosome comes to consist of two identical sister chromatids. This ensures that each daughter cell receives a complete copy of the genetic material after division.</p><h4>Separation of Sister Chromatids</h4><p>Sister chromatids separate during anaphase of mitosis. The spindle fibres pull them apart to opposite poles of the cell, so each pole receives an identical set of chromosomes.</p><h4>Crossing Over and Genetic Variation</h4><p>During prophase-I of meiosis, homologous chromosomes pair up and exchange segments of DNA, a process called crossing over. This creates new combinations of genes on the chromosomes, so the resulting gametes differ genetically from the parent and from each other.</p><h4>Role of Spindle Fibres in Mitosis</h4><p>Spindle fibres are made of microtubules and attach to the centromeres of chromosomes. During metaphase they line the chromosomes up at the equator, and during anaphase they pull the sister chromatids apart to opposite poles, ensuring an equal distribution of chromosomes.</p><h4>Cytokinesis in Animal and Plant Cells</h4><p>In animal cells cytokinesis takes place by a cleavage furrow: the cell membrane pinches inward until the cell divides into two. In plant cells a cell plate forms across the middle of the cell and grows outward to become the new cell wall and membranes, because the rigid wall prevents pinching.</p><h4>Prophase of Mitosis and Prophase-I of Meiosis</h4><p>In mitotic prophase, chromosomes condense, the nuclear membrane breaks down and the spindle forms, with no exchange of genetic material. In prophase-I of meiosis, homologous chromosomes pair up (synapsis) and crossing over takes place between them, and prophase-I is much longer, passing through leptotene, zygotene, pachytene, diplotene and diakinesis.</p><h4>Meiosis and Mitosis: Chromosome Number</h4><p>Mitosis produces two daughter cells with the same chromosome number as the parent (diploid stays diploid). Meiosis produces four daughter cells with half the chromosome number (diploid becomes haploid), because the chromosome number is halved in meiosis-I and the chromatids are then separated in meiosis-II.</p><h4>Key Events of Anaphase</h4><p>In anaphase the centromeres divide and the sister chromatids separate. Spindle fibres shorten and pull the chromatids, now called daughter chromosomes, to opposite poles of the cell. By the end of anaphase each pole has an identical set of chromosomes.</p><h4>Function of the Centrosome</h4><p>The centrosome is the microtubule-organising centre of the cell. During division it duplicates and its two copies move to opposite poles, where they organise the spindle fibres that move the chromosomes. In animal cells each centrosome contains a pair of centrioles.</p><h4>Sister Chromatids and Their Separation in Meiosis</h4><p>Sister chromatids are the two identical copies of a chromosome formed when DNA replicates in the S phase, joined at the centromere. In meiosis they stay together through meiosis-I and finally separate during anaphase-II of meiosis-II, so each gamete receives one chromatid.</p><h4>Mitosis and Regeneration</h4><p>Regeneration is the regrowth of lost or damaged body parts, and it depends on mitosis. Mitosis produces new, genetically identical cells that replace the lost cells and rebuild the tissue, as in the healing of a wound or the regrowth of a lizard's tail.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "During the G1 phase, the cell:",
+       "options": [
+        "Copies its DNA into sister chromatids",
+        "Grows rapidly, makes new proteins and organelles, and carries out its normal functions",
+        "Lines its chromosomes up at the equator",
+        "Divides its cytoplasm into two cells"
+       ],
+       "answer": 1,
+       "why": "During G1 the cell grows rapidly, makes new proteins and organelles, carries out its normal functions and prepares materials for DNA replication."
+      },
+      {
+       "q": "The purpose of the S phase is to:",
+       "options": [
+        "Separate the sister chromatids to opposite poles",
+        "Reform the nuclear membrane",
+        "Divide the cytoplasm",
+        "Copy the DNA so that each chromosome consists of two identical sister chromatids"
+       ],
+       "answer": 3,
+       "why": "In the S phase the cell copies its DNA, ensuring each daughter cell receives a complete copy of the genetic material after division."
+      },
+      {
+       "q": "Sister chromatids separate during which phase of mitosis?",
+       "options": [
+        "Anaphase",
+        "Prophase",
+        "Metaphase",
+        "Telophase"
+       ],
+       "answer": 0,
+       "why": "During anaphase the spindle fibres pull the sister chromatids apart to opposite poles of the cell."
+      },
+      {
+       "q": "Crossing over takes place during:",
+       "options": [
+        "Prophase of mitosis",
+        "Metaphase of mitosis",
+        "Prophase-I of meiosis",
+        "Anaphase-II of meiosis"
+       ],
+       "answer": 2,
+       "why": "During prophase-I of meiosis, homologous chromosomes pair up and exchange segments of DNA — this is crossing over."
+      },
+      {
+       "q": "Crossing over produces genetic variation because it:",
+       "options": [
+        "Doubles the chromosome number",
+        "Deletes whole chromosomes",
+        "Makes all gametes identical",
+        "Creates new combinations of genes on the chromosomes"
+       ],
+       "answer": 3,
+       "why": "Crossing over creates new combinations of genes, so the resulting gametes differ genetically from the parent and from each other."
+      },
+      {
+       "q": "Spindle fibres are made of:",
+       "options": [
+        "Microtubules",
+        "Cellulose fibres",
+        "Chromatin threads",
+        "Actin filaments only"
+       ],
+       "answer": 0,
+       "why": "Spindle fibres are made of microtubules and attach to the centromeres of chromosomes."
+      },
+      {
+       "q": "Spindle fibres attach to the chromosomes at the:",
+       "options": [
+        "Telomeres",
+        "Nuclear pores",
+        "Centromeres",
+        "Chromatids' free ends"
+       ],
+       "answer": 2,
+       "why": "Spindle fibres attach to the centromeres; they line chromosomes up at the equator in metaphase and pull chromatids apart in anaphase."
+      },
+      {
+       "q": "Cytokinesis in animal cells takes place by:",
+       "options": [
+        "Formation of a cell plate across the middle",
+        "A cleavage furrow — the cell membrane pinches inward until the cell divides into two",
+        "Budding of a small cell from the surface",
+        "Breaking down of the cell wall"
+       ],
+       "answer": 1,
+       "why": "In animal cells a cleavage furrow forms and the membrane pinches inward until the cell divides into two."
+      },
+      {
+       "q": "Cytokinesis in plant cells takes place by:",
+       "options": [
+        "Formation of a cell plate across the middle of the cell",
+        "A cleavage furrow pinching the cell",
+        "Dissolving of the nucleus",
+        "Separation of sister chromatids"
+       ],
+       "answer": 0,
+       "why": "In plant cells a cell plate forms across the middle and grows outward to become the new cell wall and membranes, because the rigid wall prevents pinching."
+      },
+      {
+       "q": "The centrosome is:",
+       "options": [
+        "The region where ribosomes are assembled",
+        "The sac containing digestive enzymes",
+        "The fold of the inner mitochondrial membrane",
+        "The microtubule-organising centre of the cell"
+       ],
+       "answer": 3,
+       "why": "The centrosome organises the spindle fibres; during division it duplicates and its copies move to opposite poles. In animal cells each centrosome contains a pair of centrioles."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Events of the Phases of Mitosis</h4><p>In prophase, chromosomes condense and become visible, the nuclear membrane breaks down and the spindle begins to form. In metaphase, chromosomes line up at the equator of the cell, attached to spindle fibres. In anaphase, sister chromatids separate and move to opposite poles.</p><p>In telophase, nuclear membranes reform around the two sets of chromosomes and the chromosomes uncoil. Cytokinesis then divides the cytoplasm into two daughter cells.</p><h4>Cytokinesis in Animal and Plant Cells</h4><p>In animal cells, a ring of microfilaments beneath the membrane contracts and pinches the cell inward, forming a cleavage furrow that deepens until two daughter cells are produced. In plant cells, vesicles from the Golgi apparatus gather at the equator and fuse to form a cell plate, which grows outward until it joins the parent walls and becomes the new cell wall and membranes separating the two daughter cells.</p><h4>Significance of Mitosis</h4><p>Mitosis is essential for growth, because it increases the number of cells in a multicellular organism. It replaces worn-out and damaged cells, heals wounds and allows regeneration of lost parts. Because the daughter cells are genetically identical to the parent, mitosis maintains the chromosome number and passes the same hereditary information to every body cell.</p><h4>Events of the Phases of Meiosis-I</h4><p>In prophase-I, homologous chromosomes pair up and crossing over exchanges segments between them. In metaphase-I, the homologous pairs line up at the equator, with one homologue facing each pole. In anaphase-I, the homologous chromosomes separate and move to opposite poles, while sister chromatids stay together.</p><p>In telophase-I, the cell divides into two cells, each with half the chromosome number, and the chromosomes may partially uncoil.</p><h4>Significance of Meiosis</h4><p>Meiosis halves the chromosome number, so that when two gametes fuse at fertilisation the diploid number is restored. It produces genetic variation through crossing over and the independent assortment of chromosomes, which is the raw material for evolution. Meiosis also produces the gametes needed for sexual reproduction, giving offspring new combinations of characters.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In prophase of mitosis:",
+       "options": [
+        "Chromosomes line up at the equator",
+        "Sister chromatids move to opposite poles",
+        "Nuclear membranes reform around two sets of chromosomes",
+        "Chromosomes condense and become visible, the nuclear membrane breaks down and the spindle begins to form"
+       ],
+       "answer": 3,
+       "why": "Prophase is the first phase of mitosis: chromosomes condense, the nuclear membrane breaks down and the spindle begins to form."
+      },
+      {
+       "q": "In anaphase of mitosis:",
+       "options": [
+        "Chromosomes condense and become visible",
+        "Chromosomes line up at the equator",
+        "Sister chromatids separate and move to opposite poles",
+        "The cytoplasm divides into two cells"
+       ],
+       "answer": 2,
+       "why": "In anaphase the centromeres divide and spindle fibres pull the sister chromatids, now daughter chromosomes, to opposite poles."
+      },
+      {
+       "q": "Cytokinesis is the division of the:",
+       "options": [
+        "Nucleus into two nuclei",
+        "Cytoplasm into two daughter cells",
+        "Chromosomes into chromatids",
+        "Cell wall into two layers"
+       ],
+       "answer": 1,
+       "why": "After telophase, cytokinesis divides the cytoplasm so that two separate daughter cells are produced."
+      },
+      {
+       "q": "In animal cells, the cleavage furrow is formed by:",
+       "options": [
+        "A ring of microfilaments beneath the membrane that contracts and pinches the cell inward",
+        "Vesicles from the Golgi apparatus fusing in the middle",
+        "Spindle fibres cutting the cell in two",
+        "The cell wall growing inward"
+       ],
+       "answer": 0,
+       "why": "A ring of microfilaments beneath the membrane contracts, forming a cleavage furrow that deepens until two daughter cells are produced."
+      },
+      {
+       "q": "In plant cells, the cell plate is formed from:",
+       "options": [
+        "A ring of microfilaments under the membrane",
+        "Vesicles from the Golgi apparatus that gather at the equator and fuse",
+        "Pieces of the old nuclear membrane",
+        "Condensed chromatin threads"
+       ],
+       "answer": 1,
+       "why": "Vesicles from the Golgi apparatus gather at the equator and fuse to form a cell plate, which grows outward to become the new wall and membranes."
+      },
+      {
+       "q": "Mitosis is essential for growth because it:",
+       "options": [
+        "Produces gametes for reproduction",
+        "Halves the chromosome number",
+        "Creates genetic variation",
+        "Increases the number of cells in a multicellular organism"
+       ],
+       "answer": 3,
+       "why": "Mitosis increases cell number for growth, replaces worn-out and damaged cells, heals wounds and allows regeneration of lost parts."
+      },
+      {
+       "q": "In anaphase-I of meiosis:",
+       "options": [
+        "Sister chromatids separate to opposite poles",
+        "Chromosomes line up singly at the equator",
+        "Homologous chromosomes separate and move to opposite poles, while sister chromatids stay together",
+        "The nuclear membrane reforms"
+       ],
+       "answer": 2,
+       "why": "In anaphase-I the homologous chromosomes separate, but sister chromatids stay together; they separate later, in meiosis-II."
+      },
+      {
+       "q": "After telophase-I of meiosis, the cell has divided into two cells, each with:",
+       "options": [
+        "Half the chromosome number",
+        "The full chromosome number",
+        "Twice the chromosome number",
+        "No chromosomes at all"
+       ],
+       "answer": 0,
+       "why": "In telophase-I the cell divides into two cells, each with half the chromosome number, because the homologues were separated in meiosis-I."
+      },
+      {
+       "q": "Meiosis produces genetic variation through:",
+       "options": [
+        "Exact copying of DNA only",
+        "Fusion of gametes",
+        "Division of the cytoplasm",
+        "Crossing over and the independent assortment of chromosomes"
+       ],
+       "answer": 3,
+       "why": "Crossing over and independent assortment produce new combinations of characters, which is the raw material for evolution."
+      },
+      {
+       "q": "When two gametes fuse at fertilisation, the result is that:",
+       "options": [
+        "The chromosome number is halved again",
+        "The diploid chromosome number is restored",
+        "Four new gametes are formed",
+        "Crossing over takes place"
+       ],
+       "answer": 1,
+       "why": "Meiosis halves the chromosome number in gametes, so when two gametes fuse at fertilisation the diploid number is restored."
+      }
+     ]
     }
    ]
   },
@@ -87,17 +1419,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>Gas exchange between the body and the environment takes place at the <strong>organ system level</strong>, carried out by the respiratory system as a whole. (Note: exchange across the alveolar surface itself is cellular, but the body–environment exchange is the work of the respiratory system.)</li><li>The epithelial tissue in the stomach wall produces <strong>mucus, pepsinogen and hydrochloric acid</strong> — all of these.</li><li>In the wall of the stomach, the <strong>inner connective tissue</strong> also contains blood vessels and nerves.</li><li>In a leaf, the tissue responsible for photosynthesis is the <strong>mesophyll</strong>.</li><li>The primary function of the xylem tissue in a leaf is <strong>to transport water to the parts of the leaf</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Gas exchange between the body and the environment takes place at which level of organisation?",
+       "options": [
+        "The organ system level",
+        "The tissue level",
+        "The organ level",
+        "The cellular level"
+       ],
+       "answer": 0,
+       "why": "Exchange between the body and the environment is carried out by the respiratory system as a whole, so it takes place at the organ system level. (Exchange across the alveolar surface itself is cellular.)"
+      },
+      {
+       "q": "Gas exchange between the body and the environment is carried out by:",
+       "options": [
+        "A single tissue",
+        "The respiratory system as a whole",
+        "One organ working alone",
+        "A group of similar cells"
+       ],
+       "answer": 1,
+       "why": "The respiratory system as a whole performs the exchange of gases between the body and the environment."
+      },
+      {
+       "q": "The epithelial tissue in the stomach wall produces:",
+       "options": [
+        "Bile, insulin and glucagon",
+        "Only mucus and nothing else",
+        "Mucus, pepsinogen and hydrochloric acid",
+        "Saliva and amylase"
+       ],
+       "answer": 2,
+       "why": "The stomach epithelium produces mucus, pepsinogen and hydrochloric acid — all of these — protecting the wall and starting protein digestion."
+      },
+      {
+       "q": "The inner connective tissue in the wall of the stomach also contains:",
+       "options": [
+        "Chloroplasts and vacuoles",
+        "Xylem and phloem",
+        "Spindle fibres and centrioles",
+        "Blood vessels and nerves"
+       ],
+       "answer": 3,
+       "why": "In the wall of the stomach, the inner connective tissue supports the wall and also contains blood vessels and nerves."
+      },
+      {
+       "q": "In a leaf, the tissue responsible for photosynthesis is the:",
+       "options": [
+        "Mesophyll",
+        "Epidermal tissue",
+        "Xylem tissue",
+        "Phloem tissue"
+       ],
+       "answer": 0,
+       "why": "The mesophyll tissue inside the leaf contains chloroplasts and is responsible for photosynthesis."
+      },
+      {
+       "q": "The primary function of the xylem tissue in a leaf is to:",
+       "options": [
+        "Carry out photosynthesis",
+        "Transport water to the parts of the leaf",
+        "Transport sugars away from the leaf",
+        "Protect the leaf surface"
+       ],
+       "answer": 1,
+       "why": "Xylem brings water to the parts of the leaf; photosynthesis is done by the mesophyll and sugars are carried away by the phloem."
+      },
+      {
+       "q": "Exchange of gases across the alveolar surface itself takes place at which level?",
+       "options": [
+        "The organ system level",
+        "The organism level",
+        "The cellular level",
+        "The tissue level"
+       ],
+       "answer": 2,
+       "why": "Although body–environment exchange is the work of the respiratory system, exchange across the alveolar surface itself is cellular."
+      },
+      {
+       "q": "Which of these substances is produced by the epithelial tissue of the stomach?",
+       "options": [
+        "Bile",
+        "Insulin",
+        "Saliva",
+        "Hydrochloric acid"
+       ],
+       "answer": 3,
+       "why": "The stomach epithelium produces mucus, pepsinogen and hydrochloric acid; bile, insulin and saliva are produced elsewhere."
+      },
+      {
+       "q": "The respiratory system is an example of which level of organisation?",
+       "options": [
+        "A tissue",
+        "An organ system",
+        "An organ",
+        "A cell"
+       ],
+       "answer": 1,
+       "why": "Several organs working together form an organ system; the respiratory system works as a whole to exchange gases."
+      },
+      {
+       "q": "The mesophyll tissue, which carries out photosynthesis, is found in the:",
+       "options": [
+        "Root",
+        "Stomach wall",
+        "Leaf",
+        "Stem pith only"
+       ],
+       "answer": 2,
+       "why": "In a leaf, the tissue responsible for photosynthesis is the mesophyll, lying between the upper and lower epidermis."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Levels of Organisation: Cell to Organ System</h4><p>The levels are: cell, tissue, organ, organ system and organism. Cells of the same type form a tissue, different tissues form an organ, organs working together form an organ system, and all the systems together make the organism.</p><h4>Roles of the Epithelial Tissue of the Stomach</h4><p>The epithelial tissue lines the inner wall of the stomach and protects it from the acid and enzymes of the gastric juice. Its cells secrete mucus, which coats and protects the wall, and they also produce pepsinogen and hydrochloric acid, which begin the digestion of proteins.</p><h4>Smooth Muscles of the Stomach</h4><p>The stomach wall has three layers of smooth muscle: outer longitudinal, middle circular and inner oblique. These muscles contract and relax in turn, churning the food and mixing it thoroughly with gastric juice, and they push the partially digested food onward into the small intestine.</p><h4>Function of the Palisade Mesophyll</h4><p>The palisade mesophyll is the upper layer of mesophyll tissue, made of tall, closely packed cells rich in chloroplasts. Because it lies just below the upper epidermis, it receives the most light and is the main site of photosynthesis in the leaf.</p><h4>Pairs Compared: Tissue and Organ, Root and Shoot Systems, Leaf Tissues</h4><p>Tissue and organ; ii. Root system and shoot system; iii. Epidermal and mesophyll tissue; iv.</p><p>Palisade and spongy mesophyll. i. A tissue is a group of similar cells performing one function, while an organ is made of several tissues working together for a larger function.</p><p>ii. The root system grows underground and absorbs water and salts, while the shoot system grows above ground and carries out photosynthesis and reproduction. iii.</p><p>Epidermal tissue is the protective outer layer of the leaf, while mesophyll tissue lies inside and carries out photosynthesis. iv. Palisade mesophyll consists of tall, tightly packed cells with many chloroplasts, while spongy mesophyll consists of loosely arranged cells with air spaces, which allow gas exchange.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The correct order of the levels of organisation is:",
+       "options": [
+        "Tissue → cell → organ → organism → organ system",
+        "Cell → organ → tissue → organ system → organism",
+        "Cell → tissue → organ → organ system → organism",
+        "Organism → organ system → organ → cell → tissue"
+       ],
+       "answer": 2,
+       "why": "Cells of the same type form a tissue, tissues form an organ, organs form an organ system, and all the systems together make the organism."
+      },
+      {
+       "q": "Cells of the same type working together form a:",
+       "options": [
+        "Tissue",
+        "Organ",
+        "Organ system",
+        "Organism"
+       ],
+       "answer": 0,
+       "why": "A tissue is a group of similar cells performing one function; different tissues combine to form an organ."
+      },
+      {
+       "q": "The epithelial tissue of the stomach protects the stomach wall because:",
+       "options": [
+        "It produces a thick layer of dead cells",
+        "It keeps the stomach completely dry",
+        "It absorbs the acid into the blood",
+        "Its cells secrete mucus, which coats and protects the wall from acid and enzymes"
+       ],
+       "answer": 3,
+       "why": "The epithelium lines the inner wall and secretes mucus, which coats and protects the wall from the acid and enzymes of the gastric juice."
+      },
+      {
+       "q": "Digestion of proteins begins in the stomach because its epithelium produces:",
+       "options": [
+        "Bile and pancreatic juice",
+        "Pepsinogen and hydrochloric acid",
+        "Insulin and glucagon",
+        "Saliva and amylase"
+       ],
+       "answer": 1,
+       "why": "The epithelial cells produce pepsinogen and hydrochloric acid, which begin the digestion of proteins."
+      },
+      {
+       "q": "The stomach wall has how many layers of smooth muscle?",
+       "options": [
+        "One — circular only",
+        "Two — longitudinal and circular",
+        "Three — outer longitudinal, middle circular and inner oblique",
+        "Four — including a skeletal layer"
+       ],
+       "answer": 2,
+       "why": "The stomach wall has three layers of smooth muscle: outer longitudinal, middle circular and inner oblique."
+      },
+      {
+       "q": "The smooth muscles of the stomach work to:",
+       "options": [
+        "Produce hydrochloric acid",
+        "Absorb digested food into the blood",
+        "Protect the wall with mucus",
+        "Churn the food and mix it thoroughly with gastric juice, then push it into the small intestine"
+       ],
+       "answer": 3,
+       "why": "The three muscle layers contract and relax in turn, churning food with gastric juice and pushing the partly digested food into the small intestine."
+      },
+      {
+       "q": "Palisade mesophyll cells are:",
+       "options": [
+        "Tall, closely packed cells rich in chloroplasts",
+        "Loosely arranged cells with large air spaces",
+        "Dead cells with thick walls",
+        "Cells without any chloroplasts"
+       ],
+       "answer": 0,
+       "why": "The palisade mesophyll is made of tall, closely packed cells rich in chloroplasts; the loosely arranged cells with air spaces are the spongy mesophyll."
+      },
+      {
+       "q": "The palisade mesophyll is the main site of photosynthesis in the leaf because it:",
+       "options": [
+        "Is nearest to the roots",
+        "Lies just below the upper epidermis and receives the most light",
+        "Contains the most xylem vessels",
+        "Has the largest air spaces"
+       ],
+       "answer": 1,
+       "why": "Because it lies just below the upper epidermis, the palisade layer receives the most light and is the main site of photosynthesis."
+      },
+      {
+       "q": "An organ differs from a tissue because an organ:",
+       "options": [
+        "Is made of only one type of cell",
+        "Is always smaller than a tissue",
+        "Performs no function of its own",
+        "Is made of several tissues working together for a larger function"
+       ],
+       "answer": 3,
+       "why": "A tissue is a group of similar cells performing one function, while an organ is made of several tissues working together for a larger function."
+      },
+      {
+       "q": "Spongy mesophyll differs from palisade mesophyll because its cells are:",
+       "options": [
+        "Loosely arranged with air spaces, which allow gas exchange",
+        "Tall and tightly packed with many chloroplasts",
+        "Arranged in three muscle layers",
+        "Covered by a thick cuticle"
+       ],
+       "answer": 0,
+       "why": "Spongy mesophyll consists of loosely arranged cells with air spaces for gas exchange, while palisade cells are tall, tightly packed and rich in chloroplasts."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Levels of Organisation in a Multicellular Organism</h4><p>The cell is the basic unit of life and carries out all life processes. Similar cells form a tissue, such as muscle tissue, which performs one job better than a single cell could. Different tissues combine into an organ, such as the stomach, which performs a complete function.</p><p>Organs working together form an organ system, such as the digestive system, and all the systems together make the organism. Each level adds organisation, so the whole organism can carry out complex functions efficiently.</p><h4>The Tissue Level: Plant and Animal Tissues</h4><p>Explain plant and animal tissues. The tissue level is the level at which groups of similar cells work together for a common function. In plants the main tissues are meristematic tissue, which divides and produces new cells, and permanent tissues such as epidermis, parenchyma, xylem and phloem.</p><p>In animals the four main tissues are epithelial tissue (covering and lining), connective tissue (support and binding), muscle tissue (movement) and nervous tissue (control and coordination).</p><h4>Tissue Composition of the Stomach</h4><p>The stomach wall has four layers. The innermost epithelial tissue secretes mucus, pepsinogen and hydrochloric acid, protecting the wall and starting protein digestion. Beneath it, connective tissue supports the wall and carries blood vessels, nerves and lymphatics.</p><p>Three layers of smooth muscle churn the food and mix it with gastric juice. The outermost connective tissue encircles and supports the whole organ. Together these tissues let the stomach store, churn and chemically digest food.</p><h4>Tissue Composition of the Leaf</h4><p>The leaf is covered above and below by epidermal tissue, which protects it and controls water loss through stomata. Inside lies the mesophyll: the palisade layer, rich in chloroplasts, is the main photosynthetic tissue, while the spongy layer has air spaces for gas exchange. Vascular tissue runs through the veins:\nxylem brings water to the leaf cells, and phloem carries away the sugars made in photosynthesis.</p><p>Together these tissues let the leaf make food, exchange gases and transport materials.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The basic unit of life, which carries out all life processes, is the:",
+       "options": [
+        "Tissue",
+        "Cell",
+        "Organ",
+        "Organ system"
+       ],
+       "answer": 1,
+       "why": "The cell is the basic unit of life; similar cells form a tissue, tissues form an organ, and organs form an organ system."
+      },
+      {
+       "q": "Meristematic tissue in plants is the tissue that:",
+       "options": [
+        "Transports water to the leaves",
+        "Carries out most photosynthesis",
+        "Protects the root tip from soil",
+        "Divides and produces new cells"
+       ],
+       "answer": 3,
+       "why": "In plants, meristematic tissue divides and produces new cells; the permanent tissues include epidermis, parenchyma, xylem and phloem."
+      },
+      {
+       "q": "Which of the following is a permanent plant tissue?",
+       "options": [
+        "Xylem",
+        "Apical meristem",
+        "Intercalary meristem",
+        "Cambium of the growing tip only"
+       ],
+       "answer": 0,
+       "why": "Xylem is a permanent tissue that transports water; meristems are the dividing tissues that produce new cells."
+      },
+      {
+       "q": "The animal tissue responsible for control and coordination is:",
+       "options": [
+        "Epithelial tissue",
+        "Connective tissue",
+        "Nervous tissue",
+        "Muscle tissue"
+       ],
+       "answer": 2,
+       "why": "The four main animal tissues are epithelial (covering), connective (support), muscle (movement) and nervous tissue (control and coordination)."
+      },
+      {
+       "q": "Connective tissue in animals provides:",
+       "options": [
+        "Movement of body parts",
+        "Control and coordination",
+        "Covering and lining only",
+        "Support and binding"
+       ],
+       "answer": 3,
+       "why": "Connective tissue supports and binds other tissues; in the stomach wall it also carries blood vessels, nerves and lymphatics."
+      },
+      {
+       "q": "The wall of the stomach is made of how many layers?",
+       "options": [
+        "Four layers",
+        "Two layers",
+        "Three layers",
+        "Six layers"
+       ],
+       "answer": 0,
+       "why": "The stomach wall has four layers: innermost epithelial tissue, connective tissue, three layers of smooth muscle, and an outermost connective tissue."
+      },
+      {
+       "q": "Beneath the epithelium, the connective tissue of the stomach wall carries:",
+       "options": [
+        "Chloroplasts and grana",
+        "Xylem and phloem vessels",
+        "Blood vessels, nerves and lymphatics",
+        "Air spaces for gas exchange"
+       ],
+       "answer": 2,
+       "why": "The connective tissue supports the stomach wall and carries blood vessels, nerves and lymphatics."
+      },
+      {
+       "q": "In the leaf, water loss is controlled by:",
+       "options": [
+        "Xylem vessels in the veins",
+        "Stomata in the epidermal tissue",
+        "Palisade mesophyll cells",
+        "Root hairs"
+       ],
+       "answer": 1,
+       "why": "The leaf is covered by epidermal tissue, which protects it and controls water loss through stomata."
+      },
+      {
+       "q": "In the leaf veins, the phloem:",
+       "options": [
+        "Carries away the sugars made in photosynthesis",
+        "Brings water to the leaf cells",
+        "Carries out photosynthesis itself",
+        "Stores the sugars permanently"
+       ],
+       "answer": 0,
+       "why": "Vascular tissue runs through the veins: xylem brings water to the leaf cells, and phloem carries away the sugars made in photosynthesis."
+      },
+      {
+       "q": "The outermost layer of the stomach wall is:",
+       "options": [
+        "Epithelial tissue secreting mucus",
+        "A layer of smooth muscle",
+        "A layer of nervous tissue",
+        "Connective tissue that encircles and supports the whole organ"
+       ],
+       "answer": 3,
+       "why": "The outermost connective tissue encircles and supports the whole organ, while the innermost epithelial tissue secretes mucus, pepsinogen and acid."
+      }
+     ]
     }
    ]
   },
@@ -107,17 +1772,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>Primarily, all enzymes are <strong>proteins</strong>.</li><li>An enzyme is best defined as <strong>a protein that speeds up chemical reactions</strong>.</li><li>Enzymes are specific in their action because <strong>their active sites fit specific substrates</strong>.</li><li>Prosthetic groups are <strong>tightly bound to the enzyme</strong> (non-protein helper groups permanently attached to it).</li><li>According to the induced fit model of enzyme action, the <strong>enzyme's active site changes shape to bind the substrate</strong> more closely.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Primarily, all enzymes are:",
+       "options": [
+        "Carbohydrates",
+        "Lipids",
+        "Nucleic acids",
+        "Proteins"
+       ],
+       "answer": 3,
+       "why": "Primarily, all enzymes are proteins that act as biological catalysts in living organisms."
+      },
+      {
+       "q": "An enzyme is best defined as:",
+       "options": [
+        "A protein that is used up in reactions",
+        "A substance that slows reactions down",
+        "A protein that speeds up chemical reactions",
+        "A cell organelle that stores energy"
+       ],
+       "answer": 2,
+       "why": "An enzyme is a protein that speeds up chemical reactions without being used up in them."
+      },
+      {
+       "q": "Enzymes are specific in their action because:",
+       "options": [
+        "They are found in all cells in equal amounts",
+        "Their active sites fit specific substrates",
+        "They work only at high temperatures",
+        "They are made of amino acids"
+       ],
+       "answer": 1,
+       "why": "Each enzyme's active site has a shape that fits a specific substrate, so enzymes are specific in their action."
+      },
+      {
+       "q": "Prosthetic groups are:",
+       "options": [
+        "Non-protein helper groups tightly (permanently) bound to the enzyme",
+        "Substrates waiting to be changed",
+        "Products released after a reaction",
+        "Loose molecules floating in the cytoplasm"
+       ],
+       "answer": 0,
+       "why": "Prosthetic groups are non-protein helper groups that are tightly bound — permanently attached — to the enzyme."
+      },
+      {
+       "q": "According to the induced fit model of enzyme action, the enzyme's active site:",
+       "options": [
+        "Has a completely rigid shape",
+        "Changes shape to bind the substrate more closely",
+        "Breaks the substrate before binding it",
+        "Detaches from the enzyme"
+       ],
+       "answer": 1,
+       "why": "In the induced fit model the active site is flexible and changes shape slightly to bind the substrate more closely."
+      },
+      {
+       "q": "The part of the enzyme into which the substrate fits is called the:",
+       "options": [
+        "Prosthetic group",
+        "Product site",
+        "Binding nucleus",
+        "Active site"
+       ],
+       "answer": 3,
+       "why": "The substrate fits into the enzyme's active site, and the fit between them explains enzyme specificity."
+      },
+      {
+       "q": "In enzyme action, the substrate is:",
+       "options": [
+        "The helper group attached to the enzyme",
+        "The product formed at the end",
+        "The substance on which the enzyme acts",
+        "The enzyme itself"
+       ],
+       "answer": 2,
+       "why": "Enzymes act on specific substrates: the substrate fits into the active site and is changed during the reaction."
+      },
+      {
+       "q": "Which model of enzyme action states that the active site changes shape when the substrate enters?",
+       "options": [
+        "The induced fit model",
+        "The lock-and-key model",
+        "The fluid mosaic model",
+        "The cell theory"
+       ],
+       "answer": 0,
+       "why": "The induced fit model, proposed by Daniel Koshland, states that the active site changes shape to fit the substrate more closely."
+      },
+      {
+       "q": "The specificity of an enzyme depends mainly on:",
+       "options": [
+        "The size of the cell",
+        "The amount of water present",
+        "The colour of the substrate",
+        "The shape of its active site"
+       ],
+       "answer": 3,
+       "why": "Because the active site's shape matches only a particular substrate, each enzyme is specific to its substrate."
+      },
+      {
+       "q": "Prosthetic groups differ from substrates because prosthetic groups:",
+       "options": [
+        "Are broken down during the reaction",
+        "Remain permanently attached to the enzyme as helper groups",
+        "Are released as products",
+        "Float freely in the cell sap"
+       ],
+       "answer": 1,
+       "why": "Prosthetic groups are non-protein helpers permanently attached to the enzyme, while substrates are the substances the enzyme acts on."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Metabolism: Catabolism and Anabolism</h4><p>Differentiate between catabolism and anabolism. Metabolism is the sum of all chemical reactions taking place in a living cell or body. Catabolism is the breakdown of complex molecules into simpler ones, releasing energy, for example the breakdown of glucose in respiration.</p><p>Anabolism is the building up of complex molecules from simpler ones, which needs energy, for example the synthesis of proteins from amino acids.</p><h4>Anabolism: The Metabolism That Needs Energy</h4><p>Give an example. Anabolism demands an input of energy, because small molecules are joined together to build larger ones. An example is photosynthesis, in which light energy is used to build glucose from carbon dioxide and water, or the synthesis of proteins from amino acids.</p><h4>Enzymes and Their Role in Metabolism</h4><p>An enzyme is a protein that acts as a biological catalyst: it speeds up a chemical reaction without being used up in it. In metabolism, enzymes lower the activation energy of reactions, so that the breakdown and building reactions of the cell take place fast enough to support life at body temperature.</p><h4>The Active Site and Enzyme Specificity</h4><p>State its importance in enzyme specificity. The active site is a pocket or cleft on the surface of the enzyme into which the substrate fits. Its shape and chemical nature match only a particular substrate, just as a lock fits one key, and this is why each enzyme acts on only one substrate or a small group of related substrates.</p><h4>Enzyme–Substrate Pairs</h4><p>Amylase and starch: amylase acts only on starch, breaking it down into maltose, and does not act on proteins or fats. Another example is pepsin, which acts on proteins in the stomach, and lipase, which acts on lipids.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Metabolism is:",
+       "options": [
+        "The sum of all chemical reactions taking place in a living cell or body",
+        "Only the breakdown of glucose",
+        "Only the building of proteins",
+        "The movement of food through the gut"
+       ],
+       "answer": 0,
+       "why": "Metabolism is the sum of all chemical reactions in a living cell or body, including both catabolism and anabolism."
+      },
+      {
+       "q": "Catabolism is:",
+       "options": [
+        "The building of complex molecules from simpler ones",
+        "The breakdown of complex molecules into simpler ones, releasing energy",
+        "The storage of energy in phosphate bonds",
+        "The transport of molecules across membranes"
+       ],
+       "answer": 1,
+       "why": "Catabolism breaks down complex molecules into simpler ones and releases energy, for example the breakdown of glucose in respiration."
+      },
+      {
+       "q": "An example of catabolism is:",
+       "options": [
+        "The synthesis of proteins from amino acids",
+        "The building of glucose in photosynthesis",
+        "The breakdown of glucose in respiration",
+        "The growth of new tissues"
+       ],
+       "answer": 2,
+       "why": "Respiration breaks glucose down into simpler substances and releases energy, which is a catabolic process."
+      },
+      {
+       "q": "Anabolism is the part of metabolism that:",
+       "options": [
+        "Breaks molecules down and releases energy",
+        "Takes place only in bacteria",
+        "Destroys enzymes at high temperature",
+        "Builds complex molecules from simpler ones and needs energy"
+       ],
+       "answer": 3,
+       "why": "Anabolism joins small molecules together to build larger ones, so it demands an input of energy."
+      },
+      {
+       "q": "An example of anabolism is:",
+       "options": [
+        "The synthesis of proteins from amino acids",
+        "The breakdown of glucose in respiration",
+        "The digestion of starch in the gut",
+        "The release of energy from ATP"
+       ],
+       "answer": 0,
+       "why": "Joining amino acids to build proteins needs energy, so it is an anabolic process; photosynthesis, building glucose, is another example."
+      },
+      {
+       "q": "Enzymes speed up metabolic reactions by lowering the:",
+       "options": [
+        "Temperature of the cell",
+        "Activation energy of the reactions",
+        "Amount of substrate",
+        "Number of products"
+       ],
+       "answer": 1,
+       "why": "Enzymes lower the activation energy, so the breakdown and building reactions of the cell take place fast enough at body temperature."
+      },
+      {
+       "q": "After catalysing a reaction, an enzyme:",
+       "options": [
+        "Is used up completely",
+        "Changes into the product",
+        "Remains unchanged and can be used again",
+        "Must be replaced by a new enzyme"
+       ],
+       "answer": 2,
+       "why": "An enzyme acts as a biological catalyst: it speeds up a reaction without being used up in it."
+      },
+      {
+       "q": "The active site of an enzyme is:",
+       "options": [
+        "A separate organelle inside the cell",
+        "The end of the substrate molecule",
+        "A group of amino acids floating freely",
+        "A pocket or cleft on the surface of the enzyme into which the substrate fits"
+       ],
+       "answer": 3,
+       "why": "The active site is a pocket or cleft whose shape and chemical nature match only a particular substrate, like a lock fitting one key."
+      },
+      {
+       "q": "Amylase acts only on starch, breaking it down into:",
+       "options": [
+        "Glucose units only",
+        "Maltose",
+        "Amino acids",
+        "Fatty acids"
+       ],
+       "answer": 1,
+       "why": "Amylase acts only on starch, breaking it down into maltose, and does not act on proteins or fats — an example of enzyme specificity."
+      },
+      {
+       "q": "Lipase is the enzyme that acts on:",
+       "options": [
+        "Proteins in the stomach",
+        "Starch in the mouth",
+        "Lipids",
+        "Cellulose in plant walls"
+       ],
+       "answer": 2,
+       "why": "Each enzyme acts on one substrate: pepsin acts on proteins in the stomach, and lipase acts on lipids."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Characteristics of Enzymes</h4><p>Enzymes are proteins that act as biological catalysts and are not used up in the reaction, so a small amount can catalyse many reactions. They are highly specific, each acting on a particular substrate because of the shape of its active site. They work best at an optimum temperature and pH, and are destroyed by extreme heat or pH.</p><p>They lower the activation energy of a reaction and speed it up, but do not change the products formed.</p><h4>Factors Affecting Enzyme Activity</h4><p>Temperature: activity rises with temperature up to an optimum (around body temperature in humans) and then falls sharply as the enzyme denatures. pH:\neach enzyme has an optimum pH, and strong acids or alkalis denature it. Substrate concentration: activity rises as more substrate is available, until all active sites are occupied.</p><p>Enzyme concentration, and the presence of activators, coenzymes or inhibitors, also change the rate of reaction.</p><h4>Lock-and-Key and Induced Fit Models</h4><p>In the Lock-and-Key model, proposed by Emil Fischer in 1894, the active site has a fixed, rigid shape and the substrate fits into it exactly like a key into a lock. In the Induced Fit model, proposed by Daniel Koshland in 1958, the active site is flexible: when the substrate enters, the active site changes shape slightly to fit it more closely, and this strain helps the reaction. The induced fit model explains why enzymes can act on slightly different substrates, which the rigid lock-and-key model cannot.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A small amount of enzyme can catalyse many reactions because enzymes are:",
+       "options": [
+        "Made in unlimited quantities",
+        "Able to work without substrates",
+        "Not used up in the reaction",
+        "Immune to temperature changes"
+       ],
+       "answer": 2,
+       "why": "Enzymes are biological catalysts and are not used up in the reaction, so a small amount can catalyse many reactions."
+      },
+      {
+       "q": "Enzymes are destroyed (denatured) by:",
+       "options": [
+        "Extreme heat or extreme pH",
+        "Moderate warmth near body temperature",
+        "The presence of their substrate",
+        "Being used once in a reaction"
+       ],
+       "answer": 0,
+       "why": "Enzymes work best at an optimum temperature and pH, and are destroyed by extreme heat or pH."
+      },
+      {
+       "q": "As temperature rises above the optimum, enzyme activity falls sharply because the enzyme:",
+       "options": [
+        "Runs out of substrate",
+        "Becomes a different protein",
+        "Changes into a product",
+        "Denatures (its shape is destroyed)"
+       ],
+       "answer": 3,
+       "why": "Activity rises with temperature up to an optimum (around body temperature in humans) and then falls sharply as the enzyme denatures."
+      },
+      {
+       "q": "In humans, the optimum temperature for most enzymes is around:",
+       "options": [
+        "0 °C",
+        "Body temperature",
+        "60 °C",
+        "100 °C"
+       ],
+       "answer": 1,
+       "why": "Enzyme activity rises up to an optimum around body temperature in humans, then falls as the enzyme denatures."
+      },
+      {
+       "q": "As substrate concentration rises, enzyme activity rises until:",
+       "options": [
+        "The enzyme is destroyed",
+        "The pH reaches zero",
+        "All the active sites are occupied",
+        "The products stop forming"
+       ],
+       "answer": 2,
+       "why": "Activity rises as more substrate is available, until all active sites are occupied; then adding more substrate cannot increase the rate."
+      },
+      {
+       "q": "The lock-and-key model of enzyme action was proposed by:",
+       "options": [
+        "Daniel Koshland in 1958",
+        "Ronald Ross in 1898",
+        "Laveran in 1880",
+        "Emil Fischer in 1894"
+       ],
+       "answer": 3,
+       "why": "In the lock-and-key model, proposed by Emil Fischer in 1894, the active site has a fixed, rigid shape fitting the substrate exactly."
+      },
+      {
+       "q": "In the lock-and-key model, the active site has:",
+       "options": [
+        "A fixed, rigid shape that the substrate fits exactly",
+        "A flexible shape that changes on binding",
+        "No definite shape at all",
+        "A shape that changes the products formed"
+       ],
+       "answer": 0,
+       "why": "Fischer's model treats the active site as rigid, like a lock into which the substrate fits as a key."
+      },
+      {
+       "q": "The induced fit model was proposed by:",
+       "options": [
+        "Emil Fischer in 1894",
+        "Daniel Koshland in 1958",
+        "Manson",
+        "Grassi"
+       ],
+       "answer": 1,
+       "why": "The induced fit model was proposed by Daniel Koshland in 1958; in it the active site is flexible and changes shape to fit the substrate."
+      },
+      {
+       "q": "The induced fit model explains something the lock-and-key model cannot: why enzymes can act on:",
+       "options": [
+        "No substrate at all",
+        "Only one exact substrate in all conditions",
+        "Substrates without any active site",
+        "Slightly different substrates"
+       ],
+       "answer": 3,
+       "why": "Because the active site can adjust its shape, the induced fit model explains why enzymes can act on slightly different substrates."
+      },
+      {
+       "q": "Enzymes lower the activation energy of a reaction but do not change:",
+       "options": [
+        "The products formed",
+        "The speed of the reaction",
+        "The rate at which products appear",
+        "The energy needed to start the reaction"
+       ],
+       "answer": 0,
+       "why": "Enzymes speed up a reaction and lower its activation energy, but the products formed remain the same."
+      }
+     ]
     }
    ]
   },
@@ -127,17 +2125,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>When we get energy from ATP, the <strong>P–P bonds</strong> (bonds between the phosphate groups) are broken.</li><li>The light reactions of photosynthesis occur in the <strong>thylakoids of chloroplasts</strong>.</li><li>The wavelengths of light absorbed to the maximum by chlorophylls are <strong>red and blue</strong>.</li><li>The dark reactions of photosynthesis occur in the <strong>stroma of the chloroplast</strong>.</li><li>The process in aerobic respiration that produces the most ATP is the <strong>electron transport chain</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "When we get energy from ATP, which bonds are broken?",
+       "options": [
+        "The bonds between adenine and ribose",
+        "The P–P bonds (bonds between the phosphate groups)",
+        "The bonds inside the ribose sugar",
+        "The hydrogen bonds of water"
+       ],
+       "answer": 1,
+       "why": "Energy is stored in the bonds between the phosphate groups of ATP; when these P–P bonds are broken, energy is released for cell work."
+      },
+      {
+       "q": "The light reactions of photosynthesis occur in the:",
+       "options": [
+        "Stroma of chloroplasts",
+        "Mitochondria of the cell",
+        "Nucleus of the cell",
+        "Thylakoids of chloroplasts"
+       ],
+       "answer": 3,
+       "why": "The light reactions occur in the thylakoids of chloroplasts, where chlorophyll captures light energy."
+      },
+      {
+       "q": "The wavelengths of light absorbed to the maximum by chlorophylls are:",
+       "options": [
+        "Red and blue",
+        "Green and yellow",
+        "Red and green",
+        "Blue and yellow"
+       ],
+       "answer": 0,
+       "why": "Chlorophylls absorb red and blue light to the maximum for photosynthesis."
+      },
+      {
+       "q": "The dark reactions of photosynthesis occur in the:",
+       "options": [
+        "Thylakoids of the chloroplast",
+        "Cristae of the mitochondrion",
+        "Stroma of the chloroplast",
+        "Cytoplasm of the cell"
+       ],
+       "answer": 2,
+       "why": "The dark reactions (Calvin cycle) take place in the stroma, while the light reactions take place in the thylakoids."
+      },
+      {
+       "q": "The process in aerobic respiration that produces the most ATP is the:",
+       "options": [
+        "Glycolysis",
+        "Krebs cycle alone",
+        "Photolysis",
+        "Electron transport chain"
+       ],
+       "answer": 3,
+       "why": "Most of the ATP of aerobic respiration is produced in the electron transport chain, on the inner mitochondrial membrane."
+      },
+      {
+       "q": "ATP releases its energy when:",
+       "options": [
+        "Its phosphate–phosphate bonds are broken",
+        "Its adenine base is destroyed",
+        "Its ribose sugar is split",
+        "It gains a fourth phosphate group"
+       ],
+       "answer": 0,
+       "why": "When we get energy from ATP, the bonds between the phosphate groups are broken and ATP is converted to ADP."
+      },
+      {
+       "q": "The light reactions and the dark reactions of photosynthesis take place respectively in the:",
+       "options": [
+        "Stroma and the thylakoids",
+        "Mitochondria and the cytoplasm",
+        "Thylakoids and the stroma",
+        "Nucleus and the cytoplasm"
+       ],
+       "answer": 2,
+       "why": "Light reactions occur in the thylakoids of chloroplasts and dark reactions occur in the stroma of the chloroplast."
+      },
+      {
+       "q": "The molecule whose phosphate bonds store the cell's usable energy is:",
+       "options": [
+        "DNA",
+        "ATP",
+        "Cellulose",
+        "Chlorophyll"
+       ],
+       "answer": 1,
+       "why": "ATP (adenosine triphosphate) stores energy in the bonds between its phosphate groups and releases it when they are broken."
+      },
+      {
+       "q": "The electron transport chain is a stage of:",
+       "options": [
+        "Aerobic respiration",
+        "The dark reactions",
+        "Photolysis",
+        "Fermentation in yeast"
+       ],
+       "answer": 0,
+       "why": "The electron transport chain is the stage of aerobic respiration that produces the most ATP."
+      },
+      {
+       "q": "The stroma of the chloroplast is the site of the:",
+       "options": [
+        "Light reactions of photosynthesis",
+        "Electron transport chain of respiration",
+        "Splitting of water",
+        "Dark reactions of photosynthesis"
+       ],
+       "answer": 3,
+       "why": "The dark reactions occur in the stroma, where carbon dioxide is fixed to build glucose using ATP and NADPH."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Importance of Oxidation–Reduction Reactions</h4><p>Oxidation-reduction (redox) reactions transfer energy in living cells. When a molecule is oxidised it loses electrons and energy is released, and when another is reduced it gains those electrons. Photosynthesis and respiration are both redox processes, and they drive the formation and use of ATP, the cell's energy currency.</p><h4>ATP and ADP in Cellular Metabolism</h4><p>ATP is adenosine triphosphate and ADP is adenosine diphosphate. ATP stores energy in the bonds between its phosphate groups; when the last phosphate is removed, ATP becomes ADP and energy is released for cell work such as muscle contraction and active transport. ADP is then recharged to ATP using energy from respiration, so the ATP-ADP cycle powers metabolism.</p><h4>Word Equation for Photosynthesis</h4><p>Carbon dioxide + water, in the presence of light energy and chlorophyll, gives glucose + oxygen. In symbols: 6CO2 + 6H2O gives C6H12O6 + 6O2.</p><h4>How Oxygen Is Produced in Photosynthesis</h4><p>During the light reactions in the thylakoids, light energy splits water molecules, a process called photolysis. Water splits into hydrogen ions, electrons and oxygen gas. The oxygen is released into the air through the stomata, while the hydrogen and electrons are used to make ATP and NADPH for the dark reactions.</p><h4>Organisms That Carry Out Photosynthesis</h4><p>Photosynthesis is carried out by green plants, algae and some bacteria such as cyanobacteria. In plant cells the organelle responsible for absorbing light is the chloroplast, whose pigment chlorophyll in the thylakoid membranes captures light energy.</p><h4>Main Purpose of Cellular Respiration</h4><p>The main purpose of cellular respiration is to release the energy stored in food, especially glucose, and to transfer it into ATP. ATP then supplies energy for all the activities of the cell, such as movement, growth, active transport and the synthesis of new molecules.</p><h4>Equation for Aerobic Respiration</h4><p>Glucose + oxygen gives carbon dioxide + water + energy (ATP). In symbols:\nC6H12O6 + 6O2 gives 6CO2 + 6H2O + energy. The book's Figure 7.8 gives the total as 36 ATP from one glucose molecule in aerobic respiration.</p><h4>Role of Oxygen in Aerobic Respiration</h4><p>Oxygen acts as the final acceptor of electrons and hydrogen at the end of the electron transport chain. It combines with them to form water, which keeps the chain running and allows large amounts of ATP to be made. Without oxygen, the chain stops and the cell must rely on anaerobic respiration, which yields far less energy.</p><h4>Aerobic and Anaerobic Respiration</h4><p>Aerobic respiration is the breakdown of glucose in the presence of oxygen, producing carbon dioxide, water and a large amount of energy (36 ATP per glucose in this book). Anaerobic respiration is the breakdown of glucose without oxygen, producing much less energy, and in animals lactic acid, or in yeast ethanol and carbon dioxide, as by-products.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In an oxidation–reduction (redox) reaction, a molecule that is oxidised:",
+       "options": [
+        "Gains electrons, and energy is stored",
+        "Gains protons and becomes ATP",
+        "Is split into two halves",
+        "Loses electrons, and energy is released"
+       ],
+       "answer": 3,
+       "why": "When a molecule is oxidised it loses electrons and energy is released; when another is reduced it gains those electrons."
+      },
+      {
+       "q": "When the last phosphate group is removed from ATP, it becomes:",
+       "options": [
+        "AMP, and energy is absorbed",
+        "DNA, and energy is stored",
+        "ADP, and energy is released",
+        "Glucose, and energy is released"
+       ],
+       "answer": 2,
+       "why": "ATP stores energy in its phosphate bonds; when the last phosphate is removed, ATP becomes ADP and energy is released for cell work."
+      },
+      {
+       "q": "The energy released from ATP is used for cell work such as:",
+       "options": [
+        "Making chlorophyll",
+        "Muscle contraction and active transport",
+        "Forming cell walls",
+        "Producing spores"
+       ],
+       "answer": 1,
+       "why": "ATP supplies energy for activities such as muscle contraction and active transport; ADP is then recharged to ATP using energy from respiration."
+      },
+      {
+       "q": "The word equation for photosynthesis is:",
+       "options": [
+        "Carbon dioxide + water → glucose + oxygen (in the presence of light energy and chlorophyll)",
+        "Glucose + oxygen → carbon dioxide + water + energy",
+        "Carbon dioxide + glucose → water + oxygen",
+        "Water + oxygen → glucose + carbon dioxide"
+       ],
+       "answer": 0,
+       "why": "In symbols, photosynthesis is 6CO2 + 6H2O → C6H12O6 + 6O2, taking place in the presence of light energy and chlorophyll."
+      },
+      {
+       "q": "The oxygen released during photosynthesis comes from:",
+       "options": [
+        "The breakdown of carbon dioxide",
+        "The splitting of water molecules (photolysis)",
+        "The air taken in through stomata",
+        "The breakdown of glucose"
+       ],
+       "answer": 1,
+       "why": "During the light reactions, light energy splits water molecules — photolysis — into hydrogen ions, electrons and oxygen gas, which is released."
+      },
+      {
+       "q": "Photolysis of water takes place during:",
+       "options": [
+        "The dark reactions in the stroma",
+        "Glycolysis in the cytoplasm",
+        "The Krebs cycle in mitochondria",
+        "The light reactions in the thylakoids"
+       ],
+       "answer": 3,
+       "why": "Photolysis occurs in the light reactions in the thylakoids; the hydrogen and electrons produced are used to make ATP and NADPH."
+      },
+      {
+       "q": "Photosynthesis is carried out by:",
+       "options": [
+        "All bacteria without exception",
+        "Fungi and animals",
+        "Green plants, algae and some bacteria such as cyanobacteria",
+        "Only flowering plants"
+       ],
+       "answer": 2,
+       "why": "Photosynthesis is carried out by green plants, algae and some bacteria such as cyanobacteria, all of which possess chlorophyll."
+      },
+      {
+       "q": "The main purpose of cellular respiration is to:",
+       "options": [
+        "Release the energy stored in glucose and transfer it into ATP",
+        "Produce oxygen for the cell",
+        "Build glucose from carbon dioxide",
+        "Remove carbon dioxide from the air"
+       ],
+       "answer": 0,
+       "why": "Respiration releases the energy stored in food, especially glucose, and transfers it into ATP, which powers all cell activities."
+      },
+      {
+       "q": "According to the book's Figure 7.8, the total ATP produced from one glucose molecule in aerobic respiration is:",
+       "options": [
+        "2 ATP",
+        "8 ATP",
+        "38 ATP",
+        "36 ATP"
+       ],
+       "answer": 3,
+       "why": "The book's Figure 7.8 gives the total as 36 ATP from one glucose molecule in aerobic respiration (glycolysis contributing a net 2 ATP)."
+      },
+      {
+       "q": "In aerobic respiration, oxygen acts as:",
+       "options": [
+        "The first donor of electrons to glucose",
+        "The final acceptor of electrons and hydrogen at the end of the electron transport chain, forming water",
+        "A catalyst that is used up in glycolysis",
+        "The source of carbon for glucose"
+       ],
+       "answer": 1,
+       "why": "Oxygen combines with the electrons and hydrogen at the end of the chain to form water, keeping the chain running so large amounts of ATP can be made."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>ATP: The Energy Currency of the Cell</h4><p>ATP (adenosine triphosphate) consists of adenine, ribose sugar and three phosphate groups. Energy is stored in the bonds between the phosphate groups, especially the last one. When a cell needs energy, ATP is hydrolysed to ADP (adenosine diphosphate) and a phosphate, releasing energy for work such as contraction, transport and synthesis.</p><p>Because every cell makes ATP in respiration and spends it in the same way, ATP is called the energy currency of the cell.</p><h4>The Process of Photosynthesis</h4><p>Photosynthesis has two stages. In the light reactions, which take place in the thylakoids, chlorophyll absorbs light, water is split to release oxygen, and ATP and NADPH are formed. In the dark reactions (Calvin cycle), which take place in the stroma, carbon dioxide is fixed using the ATP and NADPH to build glucose.</p><p>Light energy is thus converted into chemical energy stored in food.</p><h4>Intake of Carbon Dioxide and Water by Plants</h4><p>Carbon dioxide enters the leaf from the air through the stomata, the small pores in the epidermis controlled by guard cells. Water is absorbed from the soil by root hairs and carried up through the xylem to the leaves. In the leaf, carbon dioxide and water meet in the chloroplasts, where they are used in photosynthesis to make glucose and release oxygen.</p><h4>Types and Importance of Anaerobic Respiration</h4><p>The two main types are lactic acid fermentation in animal muscle cells, which produces lactic acid and a little energy, and alcoholic fermentation in yeast and some bacteria, which produces ethanol and carbon dioxide. Anaerobic respiration is important because it lets cells make some ATP when oxygen is absent, for example during vigorous exercise, and it is used in industry for baking and brewing. Its drawback is the small energy yield and the harmful by-products.</p><h4>Mechanism of Aerobic Respiration</h4><p>Aerobic respiration has three main stages. In glycolysis in the cytoplasm, glucose is split into two molecules of pyruvic acid, giving a net gain of 2 ATP. Pyruvic acid enters the mitochondria, is converted to acetyl CoA, and passes through the Krebs cycle, releasing carbon dioxide and hydrogen carriers (NADH and FADH2).</p><p>In the electron transport chain on the inner mitochondrial membrane, these carriers release their energy to make most of the ATP, and oxygen accepts the final electrons to form water, giving 36 ATP in total in this book's account.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "ATP (adenosine triphosphate) consists of:",
+       "options": [
+        "Adenine, a ribose sugar and three phosphate groups",
+        "Adenine, a deoxyribose sugar and two phosphate groups",
+        "A base, a sugar and one phosphate group only",
+        "Three sugars and one phosphate group"
+       ],
+       "answer": 0,
+       "why": "ATP consists of adenine, ribose sugar and three phosphate groups, with energy stored in the bonds between the phosphate groups."
+      },
+      {
+       "q": "When ATP is hydrolysed, it forms:",
+       "options": [
+        "ATP and water, absorbing energy",
+        "ADP (adenosine diphosphate) and a phosphate, releasing energy",
+        "Glucose and oxygen",
+        "Adenine and ribose only"
+       ],
+       "answer": 1,
+       "why": "When a cell needs energy, ATP is hydrolysed to ADP and a phosphate, releasing energy for work such as contraction, transport and synthesis."
+      },
+      {
+       "q": "ATP is called the energy currency of the cell because:",
+       "options": [
+        "It is stored permanently and never used",
+        "It contains more energy than glucose itself",
+        "Every cell makes ATP in respiration and spends it in the same way",
+        "It is found only in plant cells"
+       ],
+       "answer": 2,
+       "why": "Because every cell makes ATP in respiration and spends it in the same way, ATP is called the energy currency of the cell."
+      },
+      {
+       "q": "The light reactions of photosynthesis produce:",
+       "options": [
+        "Glucose and carbon dioxide",
+        "Lactic acid and ATP",
+        "Ethanol and carbon dioxide",
+        "ATP and NADPH (and oxygen from the splitting of water)"
+       ],
+       "answer": 3,
+       "why": "In the light reactions chlorophyll absorbs light, water is split to release oxygen, and ATP and NADPH are formed for the dark reactions."
+      },
+      {
+       "q": "In the dark reactions (Calvin cycle), carbon dioxide is fixed using:",
+       "options": [
+        "The ATP and NADPH from the light reactions, to build glucose",
+        "Oxygen released from water",
+        "Energy from the Krebs cycle",
+        "Light absorbed directly by the stroma"
+       ],
+       "answer": 0,
+       "why": "The dark reactions take place in the stroma and use ATP and NADPH to fix carbon dioxide and build glucose."
+      },
+      {
+       "q": "Carbon dioxide enters the leaf from the air through the:",
+       "options": [
+        "Root hairs",
+        "Stomata, the small pores controlled by guard cells",
+        "Lenticels in the stem only",
+        "Xylem vessels"
+       ],
+       "answer": 1,
+       "why": "Carbon dioxide enters through the stomata in the epidermis, while water is absorbed by root hairs and carried up through the xylem."
+      },
+      {
+       "q": "Lactic acid fermentation takes place in:",
+       "options": [
+        "Yeast cells, producing ethanol",
+        "Leaf cells during photosynthesis",
+        "Animal muscle cells, producing lactic acid and a little energy",
+        "Bacterial cells only"
+       ],
+       "answer": 2,
+       "why": "Lactic acid fermentation occurs in animal muscle cells; alcoholic fermentation in yeast produces ethanol and carbon dioxide instead."
+      },
+      {
+       "q": "Alcoholic fermentation in yeast and some bacteria produces:",
+       "options": [
+        "Lactic acid only",
+        "Glucose and oxygen",
+        "Water and 36 ATP",
+        "Ethanol and carbon dioxide"
+       ],
+       "answer": 3,
+       "why": "Alcoholic fermentation produces ethanol and carbon dioxide and is used in industry for baking and brewing."
+      },
+      {
+       "q": "Glycolysis takes place in the cytoplasm and splits glucose into two molecules of pyruvic acid, with a net gain of:",
+       "options": [
+        "36 ATP",
+        "2 ATP",
+        "8 ATP",
+        "0 ATP"
+       ],
+       "answer": 1,
+       "why": "In glycolysis, glucose is split into two molecules of pyruvic acid, giving a net gain of 2 ATP; the remaining ATP comes from the Krebs cycle and electron transport chain."
+      },
+      {
+       "q": "Of the book's total of 36 ATP per glucose molecule, the Krebs cycle and electron transport chain together account for how many ATP?",
+       "options": [
+        "2 ATP (36 − 2 = 34)",
+        "18 ATP (36 − 2 = 34)",
+        "34 ATP (36 − 2 = 34)",
+        "36 ATP (36 − 2 = 34)"
+       ],
+       "answer": 2,
+       "why": "Glycolysis gives a net 2 ATP, so the remaining ATP = 36 − 2 = 34 ATP, produced through the Krebs cycle and mainly the electron transport chain."
+      }
+     ]
     }
    ]
   },
@@ -147,17 +2478,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li>The primary function of root hairs is to <strong>increase the surface area for absorption</strong> of water and salts.</li><li>Water moves from the soil into root cells by <strong>osmosis</strong>.</li><li>Transpiration is regulated by the <strong>guard cells</strong> that open and close the stomata.</li><li>In most plants the food is transported in the form of <strong>sucrose</strong>.</li><li>According to the pressure flow mechanism of food transport, <strong>water enters the source (leaf), creating pressure</strong> that pushes the food solution through the phloem to the sink.</li><li>Succulent (fleshy, water-storing) organs are present in <strong>xerophytes</strong>, the plants of dry habitats.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The primary function of root hairs is to:",
+       "options": [
+        "Carry out photosynthesis",
+        "Transport food to the roots",
+        "Increase the surface area for absorption of water and salts",
+        "Open and close the stomata"
+       ],
+       "answer": 2,
+       "why": "Root hairs greatly increase the surface area of the root for absorption of water and salts from the soil."
+      },
+      {
+       "q": "Water moves from the soil into root cells by:",
+       "options": [
+        "Osmosis",
+        "Active transport",
+        "Transpiration",
+        "Pressure flow"
+       ],
+       "answer": 0,
+       "why": "Water moves from the soil into root cells by osmosis, because the cell sap is more concentrated than the soil solution."
+      },
+      {
+       "q": "Transpiration is regulated by:",
+       "options": [
+        "The root hairs of the root",
+        "The xylem vessels",
+        "The cuticle alone",
+        "The guard cells that open and close the stomata"
+       ],
+       "answer": 3,
+       "why": "Guard cells open and close the stomata, and in this way regulate the loss of water vapour in transpiration."
+      },
+      {
+       "q": "In most plants, food is transported in the form of:",
+       "options": [
+        "Glucose",
+        "Sucrose",
+        "Starch",
+        "Cellulose"
+       ],
+       "answer": 1,
+       "why": "In most plants the food is transported in the form of sucrose through the phloem from source to sink."
+      },
+      {
+       "q": "According to the pressure flow mechanism, pressure is created at the source (leaf) when:",
+       "options": [
+        "Sugars are removed at the sink",
+        "Stomata close in the leaf",
+        "Water enters the source, creating pressure that pushes the food solution through the phloem",
+        "Water evaporates from the leaves"
+       ],
+       "answer": 2,
+       "why": "Water enters the source (leaf), creating pressure that pushes the food solution through the phloem to the sink."
+      },
+      {
+       "q": "In the pressure flow mechanism, the food solution is pushed through the phloem towards the:",
+       "options": [
+        "Stomata",
+        "Root hairs",
+        "Xylem vessels",
+        "Sink (roots, fruits or growing parts)"
+       ],
+       "answer": 3,
+       "why": "The pressure difference pushes the sugary sap from the source through the phloem to the sink, where sugars are used or stored."
+      },
+      {
+       "q": "Succulent (fleshy, water-storing) organs are present in:",
+       "options": [
+        "Xerophytes",
+        "Hydrophytes",
+        "Halophytes",
+        "Mesophytes of wet soils"
+       ],
+       "answer": 0,
+       "why": "Succulent, water-storing organs are present in xerophytes, the plants of dry habitats, such as cacti."
+      },
+      {
+       "q": "Xerophytes are plants that live in:",
+       "options": [
+        "Water",
+        "Dry habitats (deserts)",
+        "Salty habitats",
+        "Deep shade"
+       ],
+       "answer": 1,
+       "why": "Xerophytes live in dry habitats and conserve water; hydrophytes live in water and halophytes in salty habitats."
+      },
+      {
+       "q": "In the pressure flow mechanism, the 'source' is the:",
+       "options": [
+        "Root, where water is absorbed",
+        "Fruit, where sugars are stored",
+        "Stem, where water rises",
+        "Leaf, where sugars are made and loaded"
+       ],
+       "answer": 3,
+       "why": "The source is the leaf: sugars made there are loaded into the phloem, water enters, and the resulting pressure pushes the solution to the sink."
+      },
+      {
+       "q": "Guard cells regulate transpiration by:",
+       "options": [
+        "Opening and closing the stomata",
+        "Absorbing water from the soil",
+        "Transporting sucrose in the phloem",
+        "Thickening the cuticle"
+       ],
+       "answer": 0,
+       "why": "Transpiration is regulated by the guard cells that open and close the stomata in the leaf surface."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Transpiration and Its Types</h4><p>Transpiration is the loss of water vapour from the aerial parts of a plant, mainly through the leaves. Its types are stomatal transpiration (through stomata, the main type), cuticular transpiration (through the cuticle of the leaf surface) and lenticular transpiration (through lenticels in stems).</p><h4>Importance of the Transpirational Pull</h4><p>As water evaporates from the leaves, a pull (tension) is created that draws water upward through the xylem from the roots. This transpirational pull is the main force lifting water and dissolved salts to the top of tall plants, without any expenditure of energy by the plant.</p><h4>Transpiration: A Necessary Evil</h4><p>No, transpiration is not harmful; it is a necessary evil with important benefits. It pulls water and minerals up from the roots, cools the leaves, and helps in the distribution of salts through the plant. Although it loses water, the plant gains far more from the upward transport and cooling it provides.</p><h4>Pairs Compared: Xylem and Phloem, Transpiration and Guttation, Plant Groups, Types of Transpiration</h4><p>Xylem and phloem; ii. Transpiration and guttation; iii. Hydrophytes and halophytes; iv.</p><p>Hydrophytes and xerophytes; v. Lenticular transpiration and stomatal transpiration. i.</p><p>Xylem transports water and salts upward and is made of dead cells, while phloem transports food in both directions and is made of living cells. ii. Transpiration is the loss of water as vapour, while guttation is the loss of liquid water as droplets from leaf margins.</p><p>iii. Hydrophytes live in water, while halophytes live in salty habitats and tolerate salt. iv.</p><p>Hydrophytes live in water with abundant supply, while xerophytes live in dry deserts and conserve water. v. Lenticular transpiration takes place through lenticels in stems, while stomatal transpiration takes place through stomata in leaves.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Transpiration is:",
+       "options": [
+        "The loss of liquid water droplets from leaf margins",
+        "The loss of water vapour from the aerial parts of a plant, mainly through the leaves",
+        "The absorption of water by root hairs",
+        "The transport of food through the phloem"
+       ],
+       "answer": 1,
+       "why": "Transpiration is the loss of water vapour from aerial parts, mainly leaves; loss of liquid droplets is called guttation."
+      },
+      {
+       "q": "The main type of transpiration, through the stomata, is called:",
+       "options": [
+        "Cuticular transpiration",
+        "Lenticular transpiration",
+        "Guttation",
+        "Stomatal transpiration"
+       ],
+       "answer": 3,
+       "why": "Stomatal transpiration through the stomata is the main type; cuticular transpiration is through the cuticle and lenticular through lenticels."
+      },
+      {
+       "q": "Cuticular transpiration takes place through the:",
+       "options": [
+        "Cuticle of the leaf surface",
+        "Stomata of the leaves",
+        "Lenticels in stems",
+        "Root hairs"
+       ],
+       "answer": 0,
+       "why": "Cuticular transpiration is the loss of water vapour through the cuticle of the leaf surface."
+      },
+      {
+       "q": "Lenticular transpiration takes place through:",
+       "options": [
+        "Stomata in leaves",
+        "The cuticle of leaves",
+        "Lenticels in stems",
+        "Root hairs in soil"
+       ],
+       "answer": 2,
+       "why": "Lenticular transpiration takes place through lenticels in stems, while stomatal transpiration takes place through stomata in leaves."
+      },
+      {
+       "q": "The transpirational pull is important because it:",
+       "options": [
+        "Pushes food down to the roots",
+        "Opens the stomata at night",
+        "Absorbs salts by active transport",
+        "Draws water upward through the xylem from the roots to the top of tall plants"
+       ],
+       "answer": 3,
+       "why": "As water evaporates from the leaves, a pull is created that draws water and dissolved salts upward through the xylem."
+      },
+      {
+       "q": "The transpirational pull lifts water to the tops of tall plants:",
+       "options": [
+        "Without any expenditure of energy by the plant",
+        "Using large amounts of ATP",
+        "Only during the night",
+        "Only in short plants"
+       ],
+       "answer": 0,
+       "why": "The transpirational pull is the main force lifting water and salts to the top of tall plants, without any expenditure of energy by the plant."
+      },
+      {
+       "q": "Transpiration is called a 'necessary evil' because, although it loses water, it:",
+       "options": [
+        "Stops all water loss from the plant",
+        "Makes the plant produce seeds",
+        "Pulls water and minerals up from the roots, cools the leaves and helps distribute salts",
+        "Prevents photosynthesis from stopping"
+       ],
+       "answer": 2,
+       "why": "Transpiration loses water, but the plant gains far more: upward transport of water and minerals, cooling of leaves and distribution of salts."
+      },
+      {
+       "q": "Xylem differs from phloem because xylem:",
+       "options": [
+        "Transports food in both directions and is made of living cells",
+        "Transports water and salts upward and is made of dead cells",
+        "Is found only in roots",
+        "Carries sucrose to the sink"
+       ],
+       "answer": 1,
+       "why": "Xylem transports water and salts upward and is made of dead cells, while phloem transports food in both directions and is made of living cells."
+      },
+      {
+       "q": "Guttation is:",
+       "options": [
+        "The loss of liquid water as droplets from leaf margins",
+        "The loss of water vapour from leaves",
+        "The opening of stomata in daylight",
+        "The absorption of water by roots"
+       ],
+       "answer": 0,
+       "why": "Transpiration is the loss of water as vapour, while guttation is the loss of liquid water as droplets from leaf margins."
+      },
+      {
+       "q": "Halophytes are plants that live in:",
+       "options": [
+        "Fresh water ponds",
+        "Dry deserts",
+        "Cold mountain tops",
+        "Salty habitats and tolerate salt"
+       ],
+       "answer": 3,
+       "why": "Hydrophytes live in water, halophytes live in salty habitats and tolerate salt, and xerophytes live in dry deserts and conserve water."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Opening and Closing of Stomata</h4><p>Stomata are pores bounded by two guard cells. When guard cells take in water by osmosis they become turgid and bow outward, opening the pore. When they lose water they become flaccid and close together, shutting the pore.</p><p>Light, potassium ion movement and the water supply of the leaf control this turgor change, so stomata open in daylight for photosynthesis and gas exchange, and close to reduce water loss.</p><h4>Internal Structure of the Root and Uptake of Water and Salts</h4><p>The root in cross-section has an outer epidermis with root hairs, a cortex of parenchyma cells, an endodermis, and a central vascular cylinder containing xylem and phloem. Water enters root hairs by osmosis, because the cell sap is more concentrated than the soil solution, and passes through the cortex to the xylem. Salts are taken up mainly by active transport, using energy, and then move with the water into the xylem for transport upward.</p><h4>Mechanism of Transport of Water and Salts</h4><p>Water is absorbed by root hairs by osmosis and moves through the cortex into the xylem vessels. It then rises through the xylem by the combined forces of root pressure, capillary action, cohesion between water molecules and adhesion to vessel walls, and above all the transpirational pull from the leaves. Salts move with the water, having been taken up by the roots by active transport, and are distributed to all parts of the plant.</p><h4>Food Translocation: The Pressure Flow Mechanism</h4><p>In the pressure flow mechanism, sugars made in the leaves (the source) are actively loaded into the phloem sieve tubes. Water follows by osmosis, raising the pressure at the source end. At the sink (roots, fruits or growing parts), sugars are removed for use or storage, water leaves the phloem, and the pressure falls.</p><p>This pressure difference pushes the sugary sap from source to sink through the phloem.</p><h4>Osmotic Adjustments in Hydrophytes, Xerophytes and Halophytes</h4><p>Hydrophytes live in water, so they face no shortage: they have broad floating leaves with many stomata on the upper surface, and water moves out freely (the water lily is the book's example). Xerophytes live in deserts: they have deep roots, very few stomata and a thick waxy cuticle to cut water loss, and some, like cacti, store water in soft, juicy succulent stems or roots. Halophytes live in salty water: water tends to leave their bodies, so they absorb salts to make their cells hypertonic, and excrete excess salt through salt glands on their leaves;\nmany sea grasses belong to this group.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Stomata open when the guard cells:",
+       "options": [
+        "Lose water and become flaccid",
+        "Die and fall away",
+        "Divide to form new cells",
+        "Take in water by osmosis, become turgid and bow outward"
+       ],
+       "answer": 3,
+       "why": "When guard cells take in water by osmosis they become turgid and bow outward, opening the pore; when they lose water they become flaccid and the pore closes."
+      },
+      {
+       "q": "Stomata close when the guard cells:",
+       "options": [
+        "Take in water and swell",
+        "Absorb potassium ions and bend outward",
+        "Lose water and become flaccid, closing together",
+        "Carry out photosynthesis rapidly"
+       ],
+       "answer": 2,
+       "why": "When guard cells lose water they become flaccid and close together, shutting the pore and reducing water loss."
+      },
+      {
+       "q": "The central vascular cylinder of the root contains:",
+       "options": [
+        "Only root hairs",
+        "Xylem and phloem",
+        "Only parenchyma cells",
+        "Stomata and guard cells"
+       ],
+       "answer": 1,
+       "why": "The root in cross-section has an outer epidermis with root hairs, a cortex, an endodermis, and a central vascular cylinder containing xylem and phloem."
+      },
+      {
+       "q": "Water enters root hairs by osmosis because:",
+       "options": [
+        "The cell sap is more concentrated than the soil solution",
+        "The soil solution is more concentrated than the cell sap",
+        "Root hairs pump water using ATP",
+        "The xylem pulls water into the hairs directly"
+       ],
+       "answer": 0,
+       "why": "Water enters root hairs by osmosis because the cell sap is more concentrated than the soil solution, and then passes through the cortex to the xylem."
+      },
+      {
+       "q": "Salts are taken up by the roots mainly by:",
+       "options": [
+        "Osmosis",
+        "Active transport, using energy",
+        "Transpirational pull",
+        "Diffusion through the cuticle"
+       ],
+       "answer": 1,
+       "why": "Salts are taken up mainly by active transport, using energy, and then move with the water into the xylem for transport upward."
+      },
+      {
+       "q": "The main force that raises water through the xylem is:",
+       "options": [
+        "Root pressure alone",
+        "Capillary action alone",
+        "Active transport by xylem cells",
+        "The transpirational pull from the leaves"
+       ],
+       "answer": 3,
+       "why": "Root pressure, capillary action, cohesion and adhesion all help, but above all the transpirational pull from the leaves raises the water."
+      },
+      {
+       "q": "In the pressure flow mechanism, sugars made in the leaves are actively loaded into the:",
+       "options": [
+        "Xylem vessels",
+        "Root hairs",
+        "Phloem sieve tubes",
+        "Stomata"
+       ],
+       "answer": 2,
+       "why": "Sugars made in the leaves (the source) are actively loaded into the phloem sieve tubes; water follows by osmosis and raises the pressure."
+      },
+      {
+       "q": "At the sink, the pressure in the phloem falls because:",
+       "options": [
+        "Sugars are removed for use or storage and water leaves the phloem",
+        "Sugars are loaded into the phloem there",
+        "Water enters by osmosis there",
+        "The stomata open there"
+       ],
+       "answer": 0,
+       "why": "At the sink (roots, fruits or growing parts), sugars are removed for use or storage, water leaves the phloem, and the pressure falls — this pressure difference drives the flow."
+      },
+      {
+       "q": "Cacti, as xerophytes, store water in their:",
+       "options": [
+        "Broad floating leaves",
+        "Salt glands",
+        "Deep tap roots only",
+        "Soft, juicy succulent stems"
+       ],
+       "answer": 3,
+       "why": "Some xerophytes, like cacti, store water in soft, juicy succulent stems; they also have deep roots, few stomata and a thick waxy cuticle."
+      },
+      {
+       "q": "Halophytes excrete excess salt through:",
+       "options": [
+        "Their root hairs",
+        "Salt glands on their leaves",
+        "Their stomata only",
+        "Their flowers"
+       ],
+       "answer": 1,
+       "why": "Halophytes absorb salts to make their cells hypertonic and excrete excess salt through salt glands on their leaves; many sea grasses belong to this group."
+      }
+     ]
     }
    ]
   },
@@ -167,17 +2831,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<h4>Key Facts</h4><ul><li><strong>Bacteria</strong> commonly reproduce by binary fission.</li><li>The primary method of reproduction in yeast is <strong>budding</strong>.</li><li>During harsh conditions, some bacteria form <strong>thick-walled endospores</strong> that survive until conditions improve.</li><li>An example of vegetative propagation through runners is the <strong>strawberry</strong>.</li><li>The plant that propagates through tubers is the <strong>potato</strong>.</li><li>The <strong>flower</strong> does NOT help a plant in vegetative propagation — rhizomes, corms and runners do, but the flower is the organ of sexual reproduction.</li><li>The <strong>filament</strong> is NOT a part of the carpel: the carpel consists of stigma, style and ovary, while the filament is part of the stamen.</li><li>The structure that forms (contains) the female gametophyte in flowering plants is the <strong>ovule</strong>, inside which the embryo sac develops.</li><li>The male gametophyte in flowering plants is the <strong>pollen grain</strong>.</li><li>In the life cycle of flowering plants, the structure that is triploid (3n) is the <strong>endosperm nucleus</strong>, formed by the fusion of a sperm with the diploid fusion nucleus.</li><li>Double fertilisation involves the <strong>fertilisation of the egg and of the fusion nucleus by the two sperms</strong> (male gametes) of the same pollen grain.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Bacteria commonly reproduce by:",
+       "options": [
+        "Binary fission",
+        "Budding",
+        "Spore formation in sporangia",
+        "Fragmentation of hyphae"
+       ],
+       "answer": 0,
+       "why": "Bacteria commonly reproduce by binary fission, dividing one cell into two genetically identical cells."
+      },
+      {
+       "q": "The primary method of reproduction in yeast is:",
+       "options": [
+        "Binary fission",
+        "Budding",
+        "Runner formation",
+        "Grafting"
+       ],
+       "answer": 1,
+       "why": "Yeast reproduces mainly by budding, in which a small bud grows on the parent cell and later separates."
+      },
+      {
+       "q": "During harsh conditions, some bacteria form thick-walled structures that survive until conditions improve, called:",
+       "options": [
+        "Pollen grains",
+        "Tubers",
+        "Endospores",
+        "Bulbs"
+       ],
+       "answer": 2,
+       "why": "During harsh conditions, some bacteria form thick-walled endospores that survive heat, dryness and lack of food until conditions improve."
+      },
+      {
+       "q": "An example of vegetative propagation through runners is the:",
+       "options": [
+        "Potato",
+        "Onion",
+        "Ginger",
+        "Strawberry"
+       ],
+       "answer": 3,
+       "why": "The strawberry propagates through runners (stolons) that grow along the ground; the potato uses tubers, the onion bulbs and ginger rhizomes."
+      },
+      {
+       "q": "The plant that propagates through tubers is the:",
+       "options": [
+        "Potato",
+        "Strawberry",
+        "Gladiolus",
+        "Onion"
+       ],
+       "answer": 0,
+       "why": "A potato tuber is an underground stem swollen with stored food; its buds (eyes) sprout into new plants."
+      },
+      {
+       "q": "Which of the following is NOT a part of the carpel?",
+       "options": [
+        "The stigma",
+        "The filament",
+        "The style",
+        "The ovary"
+       ],
+       "answer": 1,
+       "why": "The carpel consists of stigma, style and ovary; the filament is part of the stamen, the male part of the flower."
+      },
+      {
+       "q": "The female gametophyte in flowering plants develops inside the:",
+       "options": [
+        "Pollen grain",
+        "Anther",
+        "Ovule (as the embryo sac)",
+        "Filament"
+       ],
+       "answer": 2,
+       "why": "The structure that contains the female gametophyte is the ovule, inside which the embryo sac develops."
+      },
+      {
+       "q": "The male gametophyte in flowering plants is the:",
+       "options": [
+        "Embryo sac",
+        "Ovule",
+        "Endosperm",
+        "Pollen grain"
+       ],
+       "answer": 3,
+       "why": "The male gametophyte is the pollen grain, while the female gametophyte is the embryo sac inside the ovule."
+      },
+      {
+       "q": "In the life cycle of flowering plants, the structure that is triploid (3n) is the:",
+       "options": [
+        "Zygote, formed by fusion of sperm and egg",
+        "Endosperm nucleus, formed by fusion of a sperm with the diploid fusion nucleus",
+        "Pollen grain, formed in the anther",
+        "Embryo sac, formed in the ovule"
+       ],
+       "answer": 1,
+       "why": "The endosperm nucleus is triploid (3n) because it is formed by the fusion of a haploid sperm with the diploid fusion nucleus."
+      },
+      {
+       "q": "Double fertilisation in flowering plants involves:",
+       "options": [
+        "Fertilisation of two eggs by one sperm",
+        "Fusion of two pollen grains with one ovule",
+        "Fertilisation of the egg and of the fusion nucleus by the two sperms of the same pollen grain",
+        "Fertilisation taking place twice in two flowers"
+       ],
+       "answer": 2,
+       "why": "In double fertilisation, one sperm fuses with the egg to form the zygote and the other fuses with the fusion nucleus to form the endosperm."
+      }
+     ]
     },
     {
      "title": "Short Notes",
      "notes_html": "<h4>Budding in Yeast</h4><p>In budding, a small outgrowth (bud) appears on the yeast cell and grows, while the nucleus divides and one daughter nucleus moves into the bud. The bud then separates from the parent cell and grows into a new yeast cell. Sometimes buds remain attached for a while, forming a chain of cells.</p><h4>Spore Formation in Fungi</h4><p>In fungi such as Rhizopus, spores are produced in sac-like sporangia at the tips of aerial hyphae. When the sporangium bursts, the light spores are scattered by wind. Each spore that lands in suitable conditions germinates and grows into a new fungal body.</p><h4>Advantages of Spore Formation</h4><p>Spores are light and easily dispersed by wind and water, so the organism spreads to new places. In bacteria, thick-walled endospores survive harsh conditions such as heat, dryness and lack of food, and germinate when conditions improve. Spore formation therefore aids both dispersal and survival.</p><h4>Vegetative Propagation Through Runners</h4><p>Runners (stolons) are horizontal stems that grow along the surface of the ground from the parent plant. At their nodes they produce roots and new shoots, which grow into independent plants. Strawberry is the common example: one parent plant can thus produce many new plants around itself.</p><h4>Potato Reproduction Through Tubers</h4><p>A potato tuber is an underground stem swollen with stored food, bearing buds in its eyes. When a tuber, or a piece of it with an eye, is planted, the buds sprout into new shoots and roots, and a new potato plant grows. The new plant is genetically identical to the parent.</p><h4>Advantages and Disadvantages of Vegetative Propagation</h4><p>Advantages: new plants are identical to the parent, so good characters are preserved; it is fast, and plants that do not produce seeds can still be multiplied. Disadvantages: there is no genetic variation, so all the plants are equally vulnerable to disease and changing conditions, and diseases of the parent are passed on to the offspring.</p><h4>The Four Whorls of a Flower</h4><p>The four whorls are: calyx, made of sepals, which protect the bud; corolla, made of petals, which attract pollinators; androecium, the male whorl, made of stamens, each with a filament and an anther; and gynoecium, the female whorl, made of carpels, each with a stigma, style and ovary.</p><h4>Formation of the Egg Cell and Polar Nuclei</h4><p>Inside the ovule, a megaspore mother cell divides by meiosis to form four megaspores, of which one survives. Its nucleus divides three times by mitosis to form eight nuclei in the embryo sac. These organise into an egg cell with two synergids at one end, three antipodal cells at the other, and two polar nuclei in the centre, which fuse to form the diploid fusion nucleus.</p><h4>Pairs Compared: Modes of Reproduction and Flower Parts</h4><p>Asexual and sexual reproduction; ii. Binary fission in bacteria and amoeba; iii. Stolon and rhizome; iv.</p><p>Bulb and corm; v. Cutting and grafting; vi. Vegetative propagation and artificial propagation; vii.</p><p>Male and female gametophytes; viii. Calyx and corolla; ix. Stamen and carpel.</p><p>i. Asexual reproduction uses one parent and produces identical offspring without gametes, while sexual reproduction uses two parents and gametes, producing varied offspring. ii.</p><p>In bacteria, binary fission is division of a single cell into two identical cells, while in Amoeba the same process is a form of asexual reproduction in a unicellular animal. iii. A stolon (runner) grows above the ground, while a rhizome is an underground horizontal stem.</p><p>iv. A bulb is a short stem with fleshy leaves (onion), while a corm is a solid swollen stem base (gladiolus). v.</p><p>In cutting, a piece of stem or leaf is planted to grow a new plant, while in grafting a scion is joined onto a rootstock. vi. Vegetative propagation is natural reproduction from plant parts, while artificial propagation is the same process carried out deliberately by humans.</p><p>vii. The male gametophyte is the pollen grain, while the female gametophyte is the embryo sac. viii.</p><p>The calyx is the whorl of sepals, while the corolla is the whorl of petals. ix. The stamen is the male part (filament + anther), while the carpel is the female part (stigma + style + ovary).</p><h4>Parts of a Flower: A Labelled Tour</h4><p>From the top downward, the labelled parts are: petal; anther (the pollen-bearing head of the stamen); filament (the stalk of the stamen); stigma (the receptive tip of the carpel); style (the stalk of the carpel); ovary (the swollen base of the carpel containing ovules); ovule (inside the ovary); sepal (the green leaf-like part below the petals); receptacle (the base on which the flower parts sit); and pedicel (the stalk of the flower).</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In budding in yeast, the new cell is formed when:",
+       "options": [
+        "The cell splits into two equal halves",
+        "A spore is released from a sporangium",
+        "A bud grows on the parent cell, receives one daughter nucleus, and then separates from the parent",
+        "Two cells fuse together"
+       ],
+       "answer": 2,
+       "why": "In budding, a small outgrowth appears and grows while the nucleus divides; one daughter nucleus moves into the bud, which then separates and grows into a new yeast cell."
+      },
+      {
+       "q": "In fungi such as Rhizopus, spores are produced in:",
+       "options": [
+        "Sac-like sporangia at the tips of aerial hyphae",
+        "The flowers of the fungus",
+        "Underground tubers",
+        "The embryo sac"
+       ],
+       "answer": 0,
+       "why": "Spores are produced in sporangia at the tips of aerial hyphae; when a sporangium bursts, the light spores are scattered by wind."
+      },
+      {
+       "q": "The light spores of fungi are scattered mainly by:",
+       "options": [
+        "Pollinating insects",
+        "Flowing blood",
+        "Exploding fruits",
+        "Wind"
+       ],
+       "answer": 3,
+       "why": "Spores are light and easily dispersed by wind and water, so the organism spreads to new places."
+      },
+      {
+       "q": "Bacterial endospores can survive harsh conditions such as:",
+       "options": [
+        "Strong light only",
+        "Heat, dryness and lack of food",
+        "Cold water only",
+        "Being eaten by animals"
+       ],
+       "answer": 1,
+       "why": "Thick-walled endospores survive heat, dryness and lack of food, and germinate when conditions improve."
+      },
+      {
+       "q": "A runner (stolon) produces roots and new shoots at its:",
+       "options": [
+        "Leaf tips",
+        "Flower stalks",
+        "Nodes",
+        "Root hairs"
+       ],
+       "answer": 2,
+       "why": "Runners are horizontal stems along the ground; at their nodes they produce roots and new shoots, which grow into independent plants, as in strawberry."
+      },
+      {
+       "q": "A potato tuber sprouts into a new plant from buds located in its:",
+       "options": [
+        "Flowers",
+        "Leaf scars",
+        "Root hairs",
+        "Eyes"
+       ],
+       "answer": 3,
+       "why": "A potato tuber is an underground stem swollen with stored food, bearing buds in its eyes; when planted, the buds sprout into new shoots and roots."
+      },
+      {
+       "q": "A disadvantage of vegetative propagation is that:",
+       "options": [
+        "There is no genetic variation, so all the plants are equally vulnerable to disease and changing conditions",
+        "It is very slow in all plants",
+        "The offspring are always different from the parent",
+        "Seeds are required for it"
+       ],
+       "answer": 0,
+       "why": "Offspring are identical to the parent, so good characters are preserved, but with no variation all plants are equally vulnerable and parental diseases are passed on."
+      },
+      {
+       "q": "The whorl of the flower that attracts pollinators is the:",
+       "options": [
+        "Calyx, made of sepals",
+        "Corolla, made of petals",
+        "Androecium, made of stamens",
+        "Gynoecium, made of carpels"
+       ],
+       "answer": 1,
+       "why": "The four whorls are: calyx (sepals, protect the bud), corolla (petals, attract pollinators), androecium (male) and gynoecium (female)."
+      },
+      {
+       "q": "The androecium, the male whorl of the flower, is made of:",
+       "options": [
+        "Carpels, each with stigma, style and ovary",
+        "Petals that attract insects",
+        "Sepals that protect the bud",
+        "Stamens, each with a filament and an anther"
+       ],
+       "answer": 3,
+       "why": "The androecium is made of stamens, each with a filament and an anther; the gynoecium is made of carpels."
+      },
+      {
+       "q": "The two polar nuclei in the centre of the embryo sac fuse to form the:",
+       "options": [
+        "Diploid fusion nucleus",
+        "Egg cell",
+        "Zygote",
+        "Endosperm directly"
+       ],
+       "answer": 0,
+       "why": "The embryo sac contains an egg cell with two synergids, three antipodal cells, and two polar nuclei in the centre, which fuse to form the diploid fusion nucleus."
+      }
+     ]
     },
     {
      "title": "Detailed Notes",
      "notes_html": "<h4>Binary Fission in Bacteria</h4><p>In binary fission, the single circular DNA of the bacterium first replicates, and the two copies move to opposite ends of the cell. A cross-wall (septum) then grows inward across the middle of the cell, and the cell membrane and wall divide. The result is two genetically identical daughter bacteria, each with its own copy of DNA, and under favourable conditions this can repeat every 20 minutes or so.</p><h4>Vegetative Propagation and Its Modified Structures</h4><p>Differentiate among different plant structures modified for vegetative propagation. Vegetative propagation is asexual reproduction in which a new plant grows from a vegetative part of the parent, such as a stem, root or leaf, without seeds. Modified stems include runners (strawberry, above ground), rhizomes (ginger, underground), tubers (potato, swollen underground stem), bulbs (onion, fleshy leaves on a short stem) and corms (solid underground stem bases).</p><p>Roots and leaves can also produce new plants in some species, and all the offspring are genetically identical to the parent.</p><h4>Artificial Propagation by Humans</h4><p>Humans use cuttings, in which a piece of stem, root or leaf is cut and planted until it roots. In layering, a branch is bent to the ground and covered with soil until it roots, then separated. In grafting, a scion (shoot) of a desired variety is joined to the rootstock of another plant so they grow as one.</p><p>Tissue culture grows many plantlets from a small piece of tissue in a laboratory medium. All these methods preserve the parent's characters exactly.</p><h4>Sporophyte and Gametophyte</h4><p>State their roles in the life cycle of plants. The sporophyte is the diploid (2n) generation that produces spores by meiosis in sporangia. The gametophyte is the haploid (n) generation that grows from a spore and produces gametes by mitosis.</p><p>In the plant life cycle these two generations alternate: the sporophyte gives rise to the gametophyte through spores, and the gametophyte gives rise to the next sporophyte when gametes fuse at fertilisation.</p><h4>Life Cycle of Flowering Plants</h4><p>The flowering plant itself is the diploid sporophyte. In its flowers, meiosis produces haploid spores: microspores in the anthers and megaspores in the ovules. These grow into the gametophytes: the pollen grain (male) and the embryo sac (female).</p><p>The pollen grain produces two male gametes, and the embryo sac contains the egg. At double fertilisation, one sperm fuses with the egg to form the diploid zygote, which grows into the new sporophyte embryo, while the other fuses with the fusion nucleus to form the triploid endosperm that feeds it.</p><h4>Development of the Female Gametophyte (Embryo Sac)</h4><p>Within the ovule, a diploid megaspore mother cell divides by meiosis into four haploid megaspores, three of which degenerate and one survives. The surviving megaspore's nucleus divides three times by mitosis, producing eight nuclei. These organise into the seven-celled embryo sac: an egg cell and two synergids at the micropylar end, three antipodal cells at the opposite end, and two polar nuclei in the centre.</p><p>This embryo sac is the female gametophyte, ready for fertilisation.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In binary fission in bacteria, the first event is that:",
+       "options": [
+        "A cross-wall grows across the cell",
+        "The single circular DNA of the bacterium replicates",
+        "The cell forms an endospore",
+        "Two cells fuse together"
+       ],
+       "answer": 1,
+       "why": "The DNA first replicates and the two copies move to opposite ends; then a septum grows inward and the cell divides into two identical bacteria."
+      },
+      {
+       "q": "Under favourable conditions, binary fission in bacteria can repeat about every:",
+       "options": [
+        "20 hours",
+        "2 days",
+        "20 seconds",
+        "20 minutes"
+       ],
+       "answer": 3,
+       "why": "Under favourable conditions binary fission can repeat every 20 minutes or so, producing two genetically identical daughter bacteria each time."
+      },
+      {
+       "q": "Starting from a single bacterium that divides every 20 minutes, how many bacteria will there be after 1 hour?",
+       "options": [
+        "8 bacteria (60 ÷ 20 = 3 divisions; 1 → 2 → 4 → 8)",
+        "3 bacteria (60 ÷ 20 = 3 divisions; 1 → 2 → 4 → 8)",
+        "6 bacteria (60 ÷ 20 = 3 divisions; 1 → 2 → 4 → 8)",
+        "20 bacteria (60 ÷ 20 = 3 divisions; 1 → 2 → 4 → 8)"
+       ],
+       "answer": 0,
+       "why": "In 1 hour there are 60 ÷ 20 = 3 rounds of division, and the number doubles each round: 1 → 2 → 4 → 8, so 2 × 2 × 2 = 8 bacteria."
+      },
+      {
+       "q": "A rhizome, such as that of ginger, is:",
+       "options": [
+        "A stem that grows along the ground surface",
+        "A short stem with fleshy leaves",
+        "An underground horizontal stem",
+        "A solid swollen leaf base"
+       ],
+       "answer": 2,
+       "why": "A stolon (runner) grows above the ground, while a rhizome is an underground horizontal stem, as in ginger."
+      },
+      {
+       "q": "In grafting, the shoot of a desired variety that is joined onto another plant is called the:",
+       "options": [
+        "Rootstock",
+        "Stolon",
+        "Corm",
+        "Scion"
+       ],
+       "answer": 3,
+       "why": "In grafting, a scion (shoot) of a desired variety is joined to the rootstock of another plant so they grow as one."
+      },
+      {
+       "q": "In layering, a new plant is produced by:",
+       "options": [
+        "Bending a branch to the ground and covering it with soil until it roots, then separating it",
+        "Planting a piece of stem in a laboratory medium",
+        "Joining a scion onto a rootstock",
+        "Sowing seeds from a fruit"
+       ],
+       "answer": 0,
+       "why": "In layering, a branch is bent to the ground and covered with soil until it roots, then separated from the parent plant."
+      },
+      {
+       "q": "The sporophyte generation of plants produces spores by:",
+       "options": [
+        "Mitosis in flowers",
+        "Fertilisation of gametes",
+        "Meiosis in sporangia",
+        "Binary fission"
+       ],
+       "answer": 2,
+       "why": "The sporophyte is the diploid (2n) generation that produces spores by meiosis in sporangia; the gametophyte then grows from a spore."
+      },
+      {
+       "q": "The gametophyte generation produces gametes by:",
+       "options": [
+        "Meiosis",
+        "Mitosis",
+        "Binary fission",
+        "Budding"
+       ],
+       "answer": 1,
+       "why": "The gametophyte is the haploid (n) generation that grows from a spore and produces gametes by mitosis."
+      },
+      {
+       "q": "In the flowering plant life cycle, microspores are produced by meiosis in the:",
+       "options": [
+        "Anthers",
+        "Ovules",
+        "Petals",
+        "Sepals"
+       ],
+       "answer": 0,
+       "why": "Meiosis produces haploid spores: microspores in the anthers and megaspores in the ovules; these grow into the pollen grain and embryo sac."
+      },
+      {
+       "q": "The nucleus of the surviving megaspore divides three times by mitosis. How many nuclei are formed?",
+       "options": [
+        "Three nuclei (2 × 2 × 2 = 8)",
+        "Four nuclei (2 × 2 × 2 = 8)",
+        "Six nuclei (2 × 2 × 2 = 8)",
+        "Eight nuclei (2 × 2 × 2 = 8)"
+       ],
+       "answer": 3,
+       "why": "Each mitotic division doubles the number of nuclei: 1 → 2 → 4 → 8, so three divisions give 2 × 2 × 2 = 8 nuclei in the embryo sac."
+      }
+     ]
     }
    ]
   }
