@@ -7,32 +7,698 @@
     {
      "title": "Geography and Modern Techniques",
      "notes_html": "<p>The word <strong>Geography</strong> is made of two Greek words: <em>Geo</em> (earth) and <em>Graphy</em> (description). So geography is the study and description of the earth: its lands, waters, climate, plants, animals and people.</p><h4>Modern Techniques in Geography</h4><p>Today geographers use computers and satellites to study the earth:</p><ul><li><strong>GIS (Geographic Information System)</strong> — a computer system that stores information about places in layers, analyses it and presents it as maps.</li><li><strong>GPS (Global Positioning System)</strong> — a satellite system. A receiver can find its exact position anywhere on earth where it has a clear line of sight to four or more satellites.</li><li><strong>Google Maps</strong> — uses GPS and map data for navigation and for finding places.</li><li><strong>Remote sensing</strong> — collecting information about distant or hard-to-reach places with special cameras carried by aircraft and satellites.</li><li><strong>Drones</strong> — unmanned aircraft guided by GPS that can reach and photograph far-off targets.</li></ul><h4>Key Points</h4><ul><li>Geography = Geo (earth) + Graphy (description), two Greek words.</li><li>GIS stores place-information in layers and makes maps.</li><li>GPS needs a clear view of four or more satellites.</li><li>Remote sensing gathers information from aircraft and satellites.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The word 'Geography' is made of two Greek words. What does 'Geo' mean?",
+       "options": [
+        "Earth",
+        "Description",
+        "Map",
+        "Sky"
+       ],
+       "answer": 0,
+       "why": "The notes explain that Geography comes from Geo, meaning earth, and Graphy, meaning description."
+      },
+      {
+       "q": "In the word 'Geography', what does 'Graphy' mean?",
+       "options": [
+        "Earth",
+        "Drawing",
+        "Description",
+        "Measurement"
+       ],
+       "answer": 2,
+       "why": "Graphy means description, so geography is the study and description of the earth."
+      },
+      {
+       "q": "Geography is the study and description of the earth — its lands, waters, climate and what else?",
+       "options": [
+        "Only its mountains and rivers",
+        "Its plants, animals and people",
+        "Only its weather and winds",
+        "Only its rocks and minerals"
+       ],
+       "answer": 1,
+       "why": "The notes define geography as the study of the earth's lands, waters, climate, plants, animals and people."
+      },
+      {
+       "q": "In GIS, information about places is stored in what form?",
+       "options": [
+        "In photographs",
+        "In tables of numbers only",
+        "In satellite signals",
+        "In layers"
+       ],
+       "answer": 3,
+       "why": "GIS is a computer system that stores information about places in layers, analyses it and presents it as maps."
+      },
+      {
+       "q": "After analysing place information, GIS presents it as what?",
+       "options": [
+        "Photographs",
+        "Maps",
+        "Graphs only",
+        "Written reports only"
+       ],
+       "answer": 1,
+       "why": "The notes say GIS stores information in layers, analyses it and presents it as maps."
+      },
+      {
+       "q": "A GPS receiver can find its exact position when it has a clear line of sight to at least how many satellites?",
+       "options": [
+        "Four or more satellites",
+        "One satellite",
+        "Two satellites",
+        "Ten satellites"
+       ],
+       "answer": 0,
+       "why": "The notes state that a GPS receiver needs a clear line of sight to four or more satellites to find its exact position."
+      },
+      {
+       "q": "GPS is a system based on what?",
+       "options": [
+        "Aircraft cameras",
+        "Ground radio towers only",
+        "Weather balloons",
+        "Satellites"
+       ],
+       "answer": 3,
+       "why": "GPS, the Global Positioning System, is a satellite system used to find exact positions on earth."
+      },
+      {
+       "q": "Google Maps uses GPS together with what for navigation and finding places?",
+       "options": [
+        "Weather data",
+        "Population data",
+        "Map data",
+        "Soil data"
+       ],
+       "answer": 2,
+       "why": "The notes say Google Maps uses GPS and map data for navigation and for finding places."
+      },
+      {
+       "q": "Remote sensing collects information about distant or hard-to-reach places using what?",
+       "options": [
+        "Ground survey teams only",
+        "Weather stations",
+        "Special cameras carried by aircraft and satellites",
+        "Ships and boats"
+       ],
+       "answer": 2,
+       "why": "Remote sensing gathers information with special cameras carried by aircraft and satellites."
+      },
+      {
+       "q": "Drones used in geography are best described as what?",
+       "options": [
+        "Small satellites in orbit",
+        "Unmanned aircraft guided by GPS",
+        "Manned survey aeroplanes",
+        "Underwater robots"
+       ],
+       "answer": 1,
+       "why": "The notes describe drones as unmanned aircraft guided by GPS that can reach and photograph far-off targets."
+      }
+     ]
     },
     {
      "title": "Internal Structure of the Earth",
      "notes_html": "<p>The earth is made of three layers, like the parts of an egg. We live on the thin outer layer.</p><table><tr><th>Layer</th><th>Depth</th><th>Important facts</th></tr><tr><td><strong>Crust</strong></td><td>Oceanic crust 5–7 km thick; continental crust 25–70 km thick</td><td>The outermost layer, made of solid rocks. We live on it.</td></tr><tr><td><strong>Mantle</strong></td><td>About 2900 km deep</td><td>Lies below the crust. Its upper molten part is called the <strong>asthenosphere</strong>; it helps the upper layer to move.</td></tr><tr><td><strong>Core</strong></td><td>2900 km to 6370 km</td><td>The innermost layer. The <strong>outer core</strong> (2900–5150 km) is molten; the <strong>inner core</strong> (5150–6370 km) is solid because of immense pressure. It is mostly iron and nickel.</td></tr></table><h4>Key Points</h4><ul><li>The crust is the outermost and thinnest layer.</li><li>The mantle is about 2900 km deep; its molten upper part is the asthenosphere.</li><li>The inner core is solid iron and nickel, even though it is the hottest part.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which layer of the earth do we live on?",
+       "options": [
+        "The mantle",
+        "The outer core",
+        "The crust",
+        "The inner core"
+       ],
+       "answer": 2,
+       "why": "We live on the crust, the thin outermost layer of the earth made of solid rocks."
+      },
+      {
+       "q": "How thick is the oceanic crust?",
+       "options": [
+        "25–70 km",
+        "5–7 km",
+        "About 2900 km",
+        "100–200 km"
+       ],
+       "answer": 1,
+       "why": "The notes give the oceanic crust as 5–7 km thick, while continental crust is 25–70 km thick."
+      },
+      {
+       "q": "How thick is the continental crust?",
+       "options": [
+        "5–7 km",
+        "About 2900 km",
+        "5150–6370 km",
+        "25–70 km"
+       ],
+       "answer": 3,
+       "why": "The continental crust is 25–70 km thick, much thicker than the oceanic crust of 5–7 km."
+      },
+      {
+       "q": "About how deep is the mantle?",
+       "options": [
+        "About 70 km",
+        "About 2900 km",
+        "About 6370 km",
+        "About 500 km"
+       ],
+       "answer": 1,
+       "why": "The mantle lies below the crust and is about 2900 km deep."
+      },
+      {
+       "q": "The molten upper part of the mantle is called what?",
+       "options": [
+        "The asthenosphere",
+        "The lithosphere",
+        "The outer core",
+        "The crust"
+       ],
+       "answer": 0,
+       "why": "The notes say the upper molten part of the mantle is called the asthenosphere, and it helps the upper layer to move."
+      },
+      {
+       "q": "The outer core extends from 2900 km to 5150 km. How thick is the outer core?",
+       "options": [
+        "1220 km",
+        "2900 km",
+        "5150 km",
+        "2250 km"
+       ],
+       "answer": 3,
+       "why": "Thickness of the outer core = 5150 − 2900 = 2250 km, using the depths given in the notes."
+      },
+      {
+       "q": "Why is the inner core solid even though it is the hottest part of the earth?",
+       "options": [
+        "Because it is made of ice",
+        "Because it receives no heat",
+        "Because of immense pressure",
+        "Because it is near the surface"
+       ],
+       "answer": 2,
+       "why": "The notes explain that the inner core (5150–6370 km) is solid because of immense pressure."
+      },
+      {
+       "q": "The core of the earth is mostly made of which metals?",
+       "options": [
+        "Copper and zinc",
+        "Gold and silver",
+        "Iron and nickel",
+        "Aluminium and tin"
+       ],
+       "answer": 2,
+       "why": "The notes state that the core is mostly iron and nickel."
+      },
+      {
+       "q": "What is the state of the outer core?",
+       "options": [
+        "It is solid",
+        "It is molten",
+        "It is made of gas",
+        "It is frozen"
+       ],
+       "answer": 1,
+       "why": "The outer core, from 2900 km to 5150 km, is molten, while the inner core is solid."
+      },
+      {
+       "q": "Which layer is the outermost and thinnest layer of the earth?",
+       "options": [
+        "The crust",
+        "The mantle",
+        "The core",
+        "The asthenosphere"
+       ],
+       "answer": 0,
+       "why": "The key points state that the crust is the outermost and thinnest layer of the earth."
+      }
+     ]
     },
     {
      "title": "Tectonic Plates",
      "notes_html": "<p>The hard outer shell of the earth is broken into large pieces called <strong>tectonic plates</strong>. These plates move very slowly on the molten asthenosphere below them.</p><p>The idea of plate tectonics was first proposed by <strong>Alfred Wegener</strong>.</p><h4>The Seven Major Plates</h4><ul><li>Pacific Plate</li><li>African Plate</li><li>North American Plate</li><li>Eurasian Plate</li><li>South American Plate</li><li>Antarctic Plate</li><li>Indo-Australian Plate</li></ul><p>When plates push, pull or slide past each other, mountains rise, and earthquakes and volcanoes occur along their edges, which are called <strong>fault lines</strong>.</p><h4>Key Points</h4><ul><li>The earth's shell is divided into moving tectonic plates.</li><li>Alfred Wegener first proposed the idea of plate tectonics.</li><li>There are seven major plates.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The hard outer shell of the earth is broken into large pieces called what?",
+       "options": [
+        "Fault blocks",
+        "Tectonic plates",
+        "Rock layers",
+        "Continents"
+       ],
+       "answer": 1,
+       "why": "The notes say the earth's hard outer shell is broken into large pieces called tectonic plates."
+      },
+      {
+       "q": "Tectonic plates move very slowly on which molten layer below them?",
+       "options": [
+        "The inner core",
+        "The crust",
+        "The outer core",
+        "The asthenosphere"
+       ],
+       "answer": 3,
+       "why": "The plates move very slowly on the molten asthenosphere below them."
+      },
+      {
+       "q": "Who first proposed the idea of plate tectonics?",
+       "options": [
+        "Isaac Newton",
+        "Alfred Wegener",
+        "Charles Darwin",
+        "Albert Einstein"
+       ],
+       "answer": 1,
+       "why": "The notes credit Alfred Wegener as the first to propose the idea of plate tectonics."
+      },
+      {
+       "q": "How many major tectonic plates are there?",
+       "options": [
+        "Seven",
+        "Five",
+        "Nine",
+        "Twelve"
+       ],
+       "answer": 0,
+       "why": "The notes list seven major plates: Pacific, African, North American, Eurasian, South American, Antarctic and Indo-Australian."
+      },
+      {
+       "q": "Which of these is one of the seven major plates?",
+       "options": [
+        "The Arabian Plate",
+        "The Philippine Plate",
+        "The Caribbean Plate",
+        "The Pacific Plate"
+       ],
+       "answer": 3,
+       "why": "The Pacific Plate is listed in the notes among the seven major tectonic plates."
+      },
+      {
+       "q": "The edges of tectonic plates, where earthquakes and volcanoes occur, are called what?",
+       "options": [
+        "Coastlines",
+        "Equators",
+        "Fault lines",
+        "Meridians"
+       ],
+       "answer": 2,
+       "why": "The notes say earthquakes and volcanoes occur along plate edges, which are called fault lines."
+      },
+      {
+       "q": "When plates push, pull or slide past each other, what happens?",
+       "options": [
+        "The oceans dry up",
+        "The plates stop moving forever",
+        "Mountains rise, and earthquakes and volcanoes occur",
+        "New crust sinks into the core"
+       ],
+       "answer": 2,
+       "why": "The notes explain that plate movements make mountains rise and cause earthquakes and volcanoes along fault lines."
+      },
+      {
+       "q": "Which of these plates is named in the notes as a major plate?",
+       "options": [
+        "The Nazca Plate",
+        "The Indo-Australian Plate",
+        "The Scotia Plate",
+        "The Juan de Fuca Plate"
+       ],
+       "answer": 1,
+       "why": "The Indo-Australian Plate is one of the seven major plates listed in the notes."
+      },
+      {
+       "q": "How fast do tectonic plates move?",
+       "options": [
+        "Very slowly",
+        "Very fast, many metres a day",
+        "They do not move at all",
+        "Only during earthquakes"
+       ],
+       "answer": 0,
+       "why": "The notes describe the plates as moving very slowly on the molten asthenosphere."
+      },
+      {
+       "q": "Which of these is one of the seven major plates?",
+       "options": [
+        "The Cocos Plate",
+        "The Somali Plate",
+        "The Eurasian Plate",
+        "The Burma Plate"
+       ],
+       "answer": 2,
+       "why": "The Eurasian Plate is listed in the notes as one of the seven major tectonic plates."
+      }
+     ]
     },
     {
      "title": "Igneous Rocks",
      "notes_html": "<p><strong>Igneous rocks</strong> are formed when hot molten material cools and becomes solid. Molten rock inside the earth is called <strong>magma</strong>; when it flows out on the surface it is called <strong>lava</strong>.</p><h4>Two Kinds of Igneous Rocks</h4><ul><li><strong>Intrusive igneous rocks</strong> — magma cools slowly <em>inside</em> the earth, so large crystals form. Examples: <strong>granite</strong> and <strong>diorite</strong>.</li><li><strong>Extrusive igneous rocks</strong> — lava cools quickly <em>on the surface</em>, so crystals are small and few. Examples: <strong>andesite</strong> and <strong>basalt</strong>.</li></ul><h4>Features of Igneous Rocks</h4><ul><li>They have no layers.</li><li>They are very hard and dense.</li><li>No fossils are found in them, because the hot magma destroys all living remains.</li></ul><h4>Key Points</h4><ul><li>Igneous rocks form from cooling magma or lava.</li><li>Slow cooling inside the earth gives large crystals (granite).</li><li>Quick cooling on the surface gives small crystals (basalt).</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Igneous rocks are formed when what happens?",
+       "options": [
+        "Sediments are pressed in layers",
+        "Rocks are changed by heat and pressure",
+        "Ice melts and refreezes",
+        "Hot molten material cools and becomes solid"
+       ],
+       "answer": 3,
+       "why": "The notes define igneous rocks as formed when hot molten material cools and becomes solid."
+      },
+      {
+       "q": "Molten rock inside the earth is called what?",
+       "options": [
+        "Lava",
+        "Magma",
+        "Sediment",
+        "Basalt"
+       ],
+       "answer": 1,
+       "why": "Molten rock inside the earth is called magma; when it flows out on the surface it is called lava."
+      },
+      {
+       "q": "When molten rock flows out on the earth's surface, it is called what?",
+       "options": [
+        "Lava",
+        "Magma",
+        "Granite",
+        "Pumice"
+       ],
+       "answer": 0,
+       "why": "The notes say molten rock that flows out on the surface is called lava."
+      },
+      {
+       "q": "Intrusive igneous rocks form where?",
+       "options": [
+        "On the surface, where lava cools quickly",
+        "At the bottom of the sea",
+        "Inside glaciers",
+        "Inside the earth, where magma cools slowly"
+       ],
+       "answer": 3,
+       "why": "Intrusive igneous rocks form when magma cools slowly inside the earth."
+      },
+      {
+       "q": "Slow cooling of magma inside the earth produces what kind of crystals?",
+       "options": [
+        "Small and few crystals",
+        "No crystals at all",
+        "Large crystals",
+        "Only round crystals"
+       ],
+       "answer": 2,
+       "why": "Because magma cools slowly inside the earth, large crystals form, as in granite and diorite."
+      },
+      {
+       "q": "Which of these is an intrusive igneous rock?",
+       "options": [
+        "Basalt",
+        "Andesite",
+        "Granite",
+        "Sandstone"
+       ],
+       "answer": 2,
+       "why": "Granite and diorite are the examples of intrusive igneous rocks given in the notes."
+      },
+      {
+       "q": "Which of these is an extrusive igneous rock?",
+       "options": [
+        "Granite",
+        "Basalt",
+        "Diorite",
+        "Marble"
+       ],
+       "answer": 1,
+       "why": "Basalt and andesite are the extrusive igneous rocks named in the notes; they form from lava cooling quickly on the surface."
+      },
+      {
+       "q": "Lava cooling quickly on the surface produces crystals that are what?",
+       "options": [
+        "Small and few",
+        "Very large",
+        "The same as granite",
+        "Full of fossils"
+       ],
+       "answer": 0,
+       "why": "The notes say quick cooling on the surface means crystals are small and few."
+      },
+      {
+       "q": "Why are no fossils found in igneous rocks?",
+       "options": [
+        "Fossils sink to the core",
+        "Igneous rocks are too soft",
+        "The hot magma destroys all living remains",
+        "Fossils dissolve in rain"
+       ],
+       "answer": 2,
+       "why": "The notes explain that no fossils are found in igneous rocks because the hot magma destroys all living remains."
+      },
+      {
+       "q": "Which feature is true of igneous rocks?",
+       "options": [
+        "They are soft and full of layers",
+        "They have no layers and are very hard and dense",
+        "They always contain fossils",
+        "They form only in rivers"
+       ],
+       "answer": 1,
+       "why": "The notes list the features of igneous rocks: no layers, very hard and dense, and no fossils."
+      }
+     ]
     },
     {
      "title": "Sedimentary Rocks",
      "notes_html": "<p><strong>Sedimentary rocks</strong> are made of small pieces of older rocks, called <strong>sediments</strong>, pressed together in layers.</p><h4>How They Are Formed</h4><ul><li>Wind, water, heat and ice break igneous and metamorphic rocks into small particles.</li><li>These particles are carried away and deposited layer upon layer in low-lying water bodies.</li><li>Pressure from the layers above and cementing material turn them into solid rock.</li></ul><p>Examples of sedimentary rocks are <strong>limestone</strong>, <strong>sandstone</strong> and <strong>shale</strong>.</p><h4>Key Points</h4><ul><li>Sedimentary rocks form from sediments deposited in layers.</li><li>Erosion and deposition are the main processes behind them.</li><li>Limestone, sandstone and shale are common examples.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Sedimentary rocks are made of small pieces of older rocks called what?",
+       "options": [
+        "Crystals",
+        "Sediments",
+        "Magma",
+        "Minerals only"
+       ],
+       "answer": 1,
+       "why": "The notes define sedimentary rocks as made of small pieces of older rocks, called sediments, pressed together in layers."
+      },
+      {
+       "q": "Sediments are pressed together in what arrangement?",
+       "options": [
+        "In layers",
+        "In crystals",
+        "In round balls",
+        "In vertical columns"
+       ],
+       "answer": 0,
+       "why": "Sediments are deposited layer upon layer and pressed together in layers to form sedimentary rock."
+      },
+      {
+       "q": "Which agents break igneous and metamorphic rocks into small particles?",
+       "options": [
+        "Only earthquakes",
+        "Only volcanoes",
+        "Plants only",
+        "Wind, water, heat and ice"
+       ],
+       "answer": 3,
+       "why": "The notes say wind, water, heat and ice break igneous and metamorphic rocks into small particles."
+      },
+      {
+       "q": "The broken particles are carried away and deposited layer upon layer where?",
+       "options": [
+        "On mountain tops",
+        "Inside the mantle",
+        "In low-lying water bodies",
+        "In deserts only"
+       ],
+       "answer": 2,
+       "why": "The particles are deposited layer upon layer in low-lying water bodies, according to the notes."
+      },
+      {
+       "q": "What turns the deposited layers into solid rock?",
+       "options": [
+        "Freezing in glaciers",
+        "Melting by magma",
+        "Pressure from the layers above and cementing material",
+        "Lightning strikes"
+       ],
+       "answer": 2,
+       "why": "The notes explain that pressure from the layers above and cementing material turn the deposits into solid rock."
+      },
+      {
+       "q": "Which of these is a sedimentary rock?",
+       "options": [
+        "Granite",
+        "Limestone",
+        "Basalt",
+        "Diorite"
+       ],
+       "answer": 1,
+       "why": "Limestone, sandstone and shale are the examples of sedimentary rocks given in the notes."
+      },
+      {
+       "q": "Which of these is a sedimentary rock?",
+       "options": [
+        "Sandstone",
+        "Andesite",
+        "Granite",
+        "Marble"
+       ],
+       "answer": 0,
+       "why": "Sandstone is listed in the notes as a common sedimentary rock, along with limestone and shale."
+      },
+      {
+       "q": "Which of these is a sedimentary rock?",
+       "options": [
+        "Basalt",
+        "Diorite",
+        "Shale",
+        "Granite"
+       ],
+       "answer": 2,
+       "why": "Shale is one of the three sedimentary rock examples named in the notes."
+      },
+      {
+       "q": "What are the main processes behind the formation of sedimentary rocks?",
+       "options": [
+        "Melting and cooling",
+        "Erosion and deposition",
+        "Freezing and thawing only",
+        "Evaporation and condensation"
+       ],
+       "answer": 1,
+       "why": "The key points state that erosion and deposition are the main processes behind sedimentary rocks."
+      },
+      {
+       "q": "Sedimentary rocks begin when older rocks are broken down. Which rocks are broken into particles?",
+       "options": [
+        "Only sedimentary rocks",
+        "Only rocks from the core",
+        "Only volcanic rocks",
+        "Igneous and metamorphic rocks"
+       ],
+       "answer": 3,
+       "why": "The notes say wind, water, heat and ice break igneous and metamorphic rocks into the small particles that become sediments."
+      }
+     ]
     },
     {
      "title": "Metamorphic Rocks and the Rock Cycle",
      "notes_html": "<p><strong>Metamorphic rocks</strong> are rocks that have changed their properties because of great <strong>heat</strong>, <strong>pressure</strong> or chemical reactions deep inside the earth. A <strong>rock</strong> itself is any naturally occurring, solid, non-living material made of minerals or mineral-like substances.</p><h4>The Rock Cycle</h4><ul><li>Magma cools and forms <strong>igneous rock</strong>.</li><li>Weathering breaks igneous rock into particles; the particles are deposited in layers and pressed into <strong>sedimentary rock</strong>.</li><li>Buried deep, sedimentary rock is changed by heat and pressure into <strong>metamorphic rock</strong>.</li><li>With still more heat, metamorphic rock melts into magma again — and the cycle repeats.</li></ul><h4>Key Points</h4><ul><li>Metamorphic rocks are changed by heat, pressure or chemicals.</li><li>The rock cycle is a continuous process: igneous → sedimentary → metamorphic → magma → igneous.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Metamorphic rocks are rocks that have changed their properties because of what?",
+       "options": [
+        "Great heat, pressure or chemical reactions",
+        "Cooling of lava on the surface",
+        "Deposit of sediments in water",
+        "Freezing in cold climates"
+       ],
+       "answer": 0,
+       "why": "The notes define metamorphic rocks as changed by great heat, pressure or chemical reactions deep inside the earth."
+      },
+      {
+       "q": "Where does the change that forms metamorphic rocks take place?",
+       "options": [
+        "On the earth's surface",
+        "At the bottom of the ocean",
+        "In the atmosphere",
+        "Deep inside the earth"
+       ],
+       "answer": 3,
+       "why": "Metamorphic change happens deep inside the earth, where heat and pressure are great."
+      },
+      {
+       "q": "A rock is best defined as what?",
+       "options": [
+        "Any material made by humans",
+        "Only the hard parts of mountains",
+        "Any naturally occurring, solid, non-living material made of minerals or mineral-like substances",
+        "Only material containing fossils"
+       ],
+       "answer": 2,
+       "why": "The notes define a rock as any naturally occurring, solid, non-living material made of minerals or mineral-like substances."
+      },
+      {
+       "q": "In the rock cycle, magma cools and forms which rock?",
+       "options": [
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Igneous rock",
+        "Limestone"
+       ],
+       "answer": 2,
+       "why": "The rock cycle in the notes begins with magma cooling to form igneous rock."
+      },
+      {
+       "q": "In the rock cycle, weathering breaks igneous rock into what?",
+       "options": [
+        "Magma",
+        "Small particles",
+        "Large crystals",
+        "Fossils"
+       ],
+       "answer": 1,
+       "why": "Weathering breaks igneous rock into particles, which are then deposited in layers."
+      },
+      {
+       "q": "Particles deposited in layers and pressed together form which rock?",
+       "options": [
+        "Sedimentary rock",
+        "Igneous rock",
+        "Metamorphic rock",
+        "Granite"
+       ],
+       "answer": 0,
+       "why": "The notes say the particles are deposited in layers and pressed into sedimentary rock."
+      },
+      {
+       "q": "Buried deep, sedimentary rock is changed by heat and pressure into what?",
+       "options": [
+        "Igneous rock",
+        "Magma",
+        "Metamorphic rock",
+        "Sediments"
+       ],
+       "answer": 2,
+       "why": "In the rock cycle, buried sedimentary rock changes into metamorphic rock under heat and pressure."
+      },
+      {
+       "q": "With still more heat, metamorphic rock does what?",
+       "options": [
+        "It turns into sediments",
+        "It melts into magma again",
+        "It becomes a fossil",
+        "It floats to the surface"
+       ],
+       "answer": 1,
+       "why": "The notes complete the cycle: with still more heat, metamorphic rock melts into magma again."
+      },
+      {
+       "q": "The rock cycle is best described as what?",
+       "options": [
+        "A process that happens only once",
+        "A process found only in oceans",
+        "A process that stopped long ago",
+        "A continuous process that repeats"
+       ],
+       "answer": 3,
+       "why": "The key points call the rock cycle a continuous process: igneous, sedimentary, metamorphic, magma and back to igneous."
+      },
+      {
+       "q": "Which is the correct order in the rock cycle given in the notes?",
+       "options": [
+        "Sedimentary → igneous → magma → metamorphic",
+        "Igneous → sedimentary → metamorphic → magma → igneous",
+        "Metamorphic → sedimentary → magma → igneous",
+        "Magma → metamorphic → sedimentary → igneous"
+       ],
+       "answer": 1,
+       "why": "The notes give the cycle as magma forming igneous rock, then sedimentary, then metamorphic, then melting back to magma."
+      }
+     ]
     }
    ]
   },
@@ -42,27 +708,582 @@
     {
      "title": "Mountains and Famous Ranges",
      "notes_html": "<p>A <strong>mountain</strong> is a part of the earth that is high and sloping compared with the surrounding surface. Mountains are formed in different ways, including tectonic movements of the earth and volcanic activity.</p><h4>Famous Mountain Ranges</h4><ul><li><strong>Himalayas</strong> — the highest mountain range in the world, in Asia. <strong>Mount Everest</strong>, the highest peak in the world, is in this range.</li><li><strong>Karakoram</strong> — in Pakistan; its peak <strong>K2</strong> is the highest peak of Pakistan and the second highest in the world.</li><li><strong>Hindu Kush</strong> — in the north-west of Pakistan.</li><li><strong>Rockies</strong> — in North America.</li><li><strong>Andes</strong> — in South America.</li></ul><h4>Ranges of Pakistan and Balochistan</h4><p>Other ranges described in this chapter are the <strong>Koh-e-Sufaid</strong>, the <strong>Koh-e-Sulaiman</strong> and the <strong>Kirthar Range</strong>. In Balochistan there are the <strong>Toba Kakari Range</strong> and the <strong>Ras Koh Range</strong>.</p><h4>Key Points</h4><ul><li>The Himalayas are the highest range; Mount Everest is the highest peak.</li><li>K2, in the Karakoram, is Pakistan's highest peak.</li><li>The Rockies are in North America and the Andes in South America.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which is the highest mountain range in the world?",
+       "options": [
+        "The Himalayas",
+        "The Karakoram",
+        "The Andes",
+        "The Rockies"
+       ],
+       "answer": 0,
+       "why": "The notes call the Himalayas, in Asia, the highest mountain range in the world."
+      },
+      {
+       "q": "The highest peak in the world, Mount Everest, is found in which range?",
+       "options": [
+        "The Karakoram",
+        "The Hindu Kush",
+        "The Andes",
+        "The Himalayas"
+       ],
+       "answer": 3,
+       "why": "Mount Everest, the highest peak in the world, is in the Himalayan range."
+      },
+      {
+       "q": "K2 is found in which mountain range?",
+       "options": [
+        "The Himalayas",
+        "The Hindu Kush",
+        "The Karakoram",
+        "The Rockies"
+       ],
+       "answer": 2,
+       "why": "The notes place K2 in the Karakoram range in Pakistan."
+      },
+      {
+       "q": "K2 is best described as what?",
+       "options": [
+        "The highest peak in the world",
+        "The highest peak of South America",
+        "The highest peak of Pakistan and the second highest in the world",
+        "A peak in North America"
+       ],
+       "answer": 2,
+       "why": "The notes state that K2 is the highest peak of Pakistan and the second highest in the world."
+      },
+      {
+       "q": "The Hindu Kush range is located where?",
+       "options": [
+        "In South America",
+        "In the north-west of Pakistan",
+        "In North America",
+        "In southern Balochistan"
+       ],
+       "answer": 1,
+       "why": "The notes locate the Hindu Kush in the north-west of Pakistan."
+      },
+      {
+       "q": "The Rockies are a famous mountain range of which continent?",
+       "options": [
+        "North America",
+        "South America",
+        "Asia",
+        "Europe"
+       ],
+       "answer": 0,
+       "why": "The notes place the Rockies in North America and the Andes in South America."
+      },
+      {
+       "q": "The Andes are a famous mountain range of which continent?",
+       "options": [
+        "North America",
+        "Asia",
+        "South America",
+        "Africa"
+       ],
+       "answer": 2,
+       "why": "The notes place the Andes in South America."
+      },
+      {
+       "q": "Mountains are formed in different ways, including which processes?",
+       "options": [
+        "River deposition only",
+        "Tectonic movements of the earth and volcanic activity",
+        "Wind erosion only",
+        "Freezing of glaciers only"
+       ],
+       "answer": 1,
+       "why": "The notes say mountains form in different ways, including tectonic movements and volcanic activity."
+      },
+      {
+       "q": "Which of these ranges is found in Balochistan?",
+       "options": [
+        "The Rockies",
+        "The Andes",
+        "The Alps",
+        "The Toba Kakari Range"
+       ],
+       "answer": 3,
+       "why": "The notes name the Toba Kakari Range and the Ras Koh Range as ranges in Balochistan."
+      },
+      {
+       "q": "A mountain is best described as what?",
+       "options": [
+        "A flat lowland area",
+        "A part of the earth that is high and sloping compared with the surrounding surface",
+        "A deep valley between hills",
+        "A high flat-topped tableland"
+       ],
+       "answer": 1,
+       "why": "The notes define a mountain as a part of the earth that is high and sloping compared with the surrounding surface."
+      }
+     ]
     },
     {
      "title": "Plateaus and Their Types",
      "notes_html": "<p>A <strong>plateau</strong> is a high, flat-topped area of land. There are three types of plateaus:</p><table><tr><th>Type</th><th>Meaning</th><th>Example</th></tr><tr><td><strong>Intermountain plateau</strong></td><td>Surrounded on all sides by high mountain ranges</td><td>Tibetan Plateau</td></tr><tr><td><strong>Piedmont plateau</strong></td><td>Lies at the foot of high mountains; mountain on one side, plain or sea on the other</td><td>Patagonia Plateau (southern Argentina)</td></tr><tr><td><strong>Continental plateau</strong></td><td>Has plains or sea around it and lies far from mountain ranges</td><td>Arabian Plateau</td></tr></table><h4>Key Points</h4><ul><li>A plateau is high and flat.</li><li>Intermountain = between mountains; Piedmont = at the foot of mountains; Continental = far from mountains.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A plateau is best described as what?",
+       "options": [
+        "A low, flat plain",
+        "A narrow valley",
+        "A steep mountain peak",
+        "A high, flat-topped area of land"
+       ],
+       "answer": 3,
+       "why": "The notes define a plateau as a high, flat-topped area of land."
+      },
+      {
+       "q": "How many types of plateaus are described in the notes?",
+       "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+       ],
+       "answer": 2,
+       "why": "The notes describe three types: intermountain, piedmont and continental plateaus."
+      },
+      {
+       "q": "An intermountain plateau is one that is what?",
+       "options": [
+        "At the foot of a mountain",
+        "Far from any mountains",
+        "Surrounded on all sides by high mountain ranges",
+        "Surrounded by sea on all sides"
+       ],
+       "answer": 2,
+       "why": "Intermountain means between mountains: the plateau is surrounded on all sides by high ranges."
+      },
+      {
+       "q": "The Tibetan Plateau is an example of which type of plateau?",
+       "options": [
+        "Piedmont plateau",
+        "Intermountain plateau",
+        "Continental plateau",
+        "Coastal plateau"
+       ],
+       "answer": 1,
+       "why": "The notes give the Tibetan Plateau as the example of an intermountain plateau."
+      },
+      {
+       "q": "A piedmont plateau lies where?",
+       "options": [
+        "At the foot of high mountains",
+        "Between two mountain ranges",
+        "In the middle of an ocean",
+        "Far from mountain ranges"
+       ],
+       "answer": 0,
+       "why": "A piedmont plateau lies at the foot of high mountains, with mountain on one side and plain or sea on the other."
+      },
+      {
+       "q": "A piedmont plateau has a mountain on one side and what on the other side?",
+       "options": [
+        "Another plateau",
+        "A desert only",
+        "A plain or the sea",
+        "A glacier"
+       ],
+       "answer": 2,
+       "why": "The notes say a piedmont plateau has mountain on one side and plain or sea on the other side."
+      },
+      {
+       "q": "The Patagonia Plateau is an example of which type of plateau?",
+       "options": [
+        "Intermountain plateau",
+        "Piedmont plateau",
+        "Continental plateau",
+        "Volcanic plateau"
+       ],
+       "answer": 1,
+       "why": "The Patagonia Plateau in southern Argentina is the piedmont example given in the notes."
+      },
+      {
+       "q": "The Patagonia Plateau is located where?",
+       "options": [
+        "In Tibet",
+        "In Arabia",
+        "In North America",
+        "In southern Argentina"
+       ],
+       "answer": 3,
+       "why": "The notes place the Patagonia Plateau in southern Argentina."
+      },
+      {
+       "q": "A continental plateau is one that what?",
+       "options": [
+        "Is surrounded by high ranges",
+        "Has plains or sea around it and lies far from mountain ranges",
+        "Lies at the foot of mountains",
+        "Is found only on islands"
+       ],
+       "answer": 1,
+       "why": "The notes define a continental plateau as having plains or sea around it, far from mountain ranges."
+      },
+      {
+       "q": "The Arabian Plateau is an example of which type of plateau?",
+       "options": [
+        "Continental plateau",
+        "Intermountain plateau",
+        "Piedmont plateau",
+        "River plateau"
+       ],
+       "answer": 0,
+       "why": "The Arabian Plateau is the continental plateau example given in the notes."
+      }
+     ]
     },
     {
      "title": "Plains and Their Types",
      "notes_html": "<p><strong>Plains</strong> are wide, flat or gently rolling low areas. They are classified by how they were formed:</p><ul><li><strong>Structural plains</strong> — formed when internal movements of the earth raise a wide area whose surface is flat. Examples: the Great Plains of North America and the steppes of Asia and Eastern Europe.</li><li><strong>Erosional plains</strong> — formed when heat, ice, water and wind wear down high areas and carry the material elsewhere. Example: the plains of northern Canada.</li><li><strong>Depositional plains</strong> — formed when material carried by rivers, water, sea and glaciers is deposited layer upon layer.</li></ul><h4>Key Points</h4><ul><li>Plains are flat lowlands.</li><li>They can be structural (raised by earth movements), erosional (worn down) or depositional (built up by deposits).</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Plains are best described as what?",
+       "options": [
+        "High flat-topped tablelands",
+        "Steep sloping mountains",
+        "Wide, flat or gently rolling low areas",
+        "Deep narrow valleys"
+       ],
+       "answer": 2,
+       "why": "The notes define plains as wide, flat or gently rolling low areas."
+      },
+      {
+       "q": "Plains are classified into types according to what?",
+       "options": [
+        "Their size",
+        "Their height above sea level",
+        "How they were formed",
+        "The crops grown on them"
+       ],
+       "answer": 2,
+       "why": "The notes classify plains by how they were formed: structural, erosional and depositional."
+      },
+      {
+       "q": "Structural plains are formed when what happens?",
+       "options": [
+        "Rivers deposit material layer upon layer",
+        "Internal movements of the earth raise a wide area whose surface is flat",
+        "Wind and ice wear down high areas",
+        "Glaciers melt and flood the land"
+       ],
+       "answer": 1,
+       "why": "Structural plains form when internal earth movements raise a wide area with a flat surface."
+      },
+      {
+       "q": "The Great Plains of North America are an example of which type of plain?",
+       "options": [
+        "Structural plains",
+        "Erosional plains",
+        "Depositional plains",
+        "Coastal plains"
+       ],
+       "answer": 0,
+       "why": "The notes give the Great Plains of North America and the steppes of Asia and Eastern Europe as structural plains."
+      },
+      {
+       "q": "Erosional plains are formed when what happens?",
+       "options": [
+        "The earth raises a wide flat area",
+        "Rivers deposit layers of material",
+        "Heat, ice, water and wind wear down high areas and carry the material elsewhere",
+        "Volcanoes erupt and spread lava"
+       ],
+       "answer": 2,
+       "why": "Erosional plains form as heat, ice, water and wind wear down high areas over time."
+      },
+      {
+       "q": "The plains of northern Canada are an example of which type of plain?",
+       "options": [
+        "Structural plains",
+        "Erosional plains",
+        "Depositional plains",
+        "Delta plains"
+       ],
+       "answer": 1,
+       "why": "The notes give the plains of northern Canada as the erosional plain example."
+      },
+      {
+       "q": "Depositional plains are formed when what happens?",
+       "options": [
+        "Internal movements raise the land",
+        "Wind wears down the mountains",
+        "The sea floor sinks",
+        "Material carried by rivers, water, sea and glaciers is deposited layer upon layer"
+       ],
+       "answer": 3,
+       "why": "Depositional plains are built up by material deposited layer upon layer by rivers, water, sea and glaciers."
+      },
+      {
+       "q": "The steppes of Asia and Eastern Europe are examples of which plains?",
+       "options": [
+        "Erosional plains",
+        "Structural plains",
+        "Depositional plains",
+        "Flood plains"
+       ],
+       "answer": 1,
+       "why": "The notes list the steppes of Asia and Eastern Europe with the Great Plains as structural plains."
+      },
+      {
+       "q": "Which agents carry the material that builds depositional plains?",
+       "options": [
+        "Rivers, water, sea and glaciers",
+        "Only the wind",
+        "Only earthquakes",
+        "Only volcanoes"
+       ],
+       "answer": 0,
+       "why": "The notes name rivers, water, sea and glaciers as the carriers of material for depositional plains."
+      },
+      {
+       "q": "In erosional plains, the worn-down material is what?",
+       "options": [
+        "Pressed into layers on the spot",
+        "Melted into magma",
+        "Changed into metamorphic rock",
+        "Carried elsewhere by heat, ice, water and wind"
+       ],
+       "answer": 3,
+       "why": "Erosional plains form when agents wear down high areas and carry the material elsewhere."
+      }
+     ]
     },
     {
      "title": "V-shaped and U-shaped Valleys",
      "notes_html": "<p>A <strong>valley</strong> is a low area between mountains or hills, usually with a river or glacier flowing through it.</p><h4>V-shaped Valleys</h4><p>A V-shaped valley is formed by <strong>river erosion</strong>. The river cuts into the surface over which it flows and carries the broken material to low-lying areas, so the valley keeps getting deeper and takes the shape of the English letter <strong>V</strong>.</p><h4>U-shaped Valleys</h4><p>A U-shaped valley is formed by a <strong>glacier</strong> — a large mass of ice moving down a slope. When a glacier moves through an existing river valley, its enormous weight breaks up the ground ahead of it and carries it along. After the glacier passes, the valley is left in a <strong>U</strong> shape, wider than a V-shaped valley.</p><h4>Key Points</h4><ul><li>Rivers make narrow V-shaped valleys.</li><li>Glaciers widen valleys into U shapes.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A valley is best described as what?",
+       "options": [
+        "A high flat-topped area",
+        "A wide flat plain",
+        "A low area between mountains or hills, usually with a river or glacier flowing through it",
+        "A raised part of the crust"
+       ],
+       "answer": 2,
+       "why": "The notes define a valley as a low area between mountains or hills, usually with a river or glacier flowing through it."
+      },
+      {
+       "q": "A V-shaped valley is formed by what?",
+       "options": [
+        "A glacier",
+        "River erosion",
+        "Wind deposition",
+        "Volcanic eruption"
+       ],
+       "answer": 1,
+       "why": "The notes say a V-shaped valley is formed by river erosion as the river cuts into the surface."
+      },
+      {
+       "q": "How does a river make its valley deeper?",
+       "options": [
+        "It cuts into the surface and carries the broken material to low-lying areas",
+        "It deposits material on the valley floor",
+        "It freezes and expands",
+        "It flows underground"
+       ],
+       "answer": 0,
+       "why": "The river cuts into the surface it flows over and carries the broken material away, so the valley keeps getting deeper."
+      },
+      {
+       "q": "A U-shaped valley is formed by what?",
+       "options": [
+        "A river",
+        "The wind",
+        "A glacier",
+        "Sea waves"
+       ],
+       "answer": 2,
+       "why": "The notes say a U-shaped valley is formed by a glacier moving through an existing river valley."
+      },
+      {
+       "q": "A glacier is best described as what?",
+       "options": [
+        "A fast-flowing river",
+        "A large mass of ice moving down a slope",
+        "A pile of snow on a peak",
+        "A frozen lake"
+       ],
+       "answer": 1,
+       "why": "The notes define a glacier as a large mass of ice moving down a slope."
+      },
+      {
+       "q": "When a glacier widens a valley, it moves through what?",
+       "options": [
+        "A desert plain",
+        "A deep ocean trench",
+        "A volcanic crater",
+        "An existing river valley"
+       ],
+       "answer": 3,
+       "why": "The notes explain that a glacier moves through an existing river valley and widens it into a U shape."
+      },
+      {
+       "q": "How does a glacier break up the ground ahead of it?",
+       "options": [
+        "By melting the rock",
+        "By its enormous weight",
+        "By chemical reactions",
+        "By fast flowing water"
+       ],
+       "answer": 1,
+       "why": "The glacier's enormous weight breaks up the ground ahead of it and carries the material along."
+      },
+      {
+       "q": "Comparing the two, which valley is wider?",
+       "options": [
+        "The U-shaped valley",
+        "The V-shaped valley",
+        "Both are the same width",
+        "Neither has any width"
+       ],
+       "answer": 0,
+       "why": "The notes state that after the glacier passes, the U-shaped valley is wider than a V-shaped valley."
+      },
+      {
+       "q": "The V-shaped valley takes the shape of what?",
+       "options": [
+        "The English letter U",
+        "A circle",
+        "A triangle of rock",
+        "The English letter V"
+       ],
+       "answer": 3,
+       "why": "The notes say the deepening river valley takes the shape of the English letter V."
+      },
+      {
+       "q": "After a glacier passes through a river valley, the valley is left in what shape?",
+       "options": [
+        "A V shape",
+        "A flat plain",
+        "A U shape",
+        "A round lake"
+       ],
+       "answer": 2,
+       "why": "The notes say that after the glacier passes, the valley is left in a U shape."
+      }
+     ]
     },
     {
      "title": "Importance of the Himalayas for Pakistan",
      "notes_html": "<p>The northern mountain ranges — the Himalayas, Karakoram and Hindu Kush — are very important for Pakistan:</p><ul><li>They form natural <strong>northern and western boundaries</strong> of the country, and the Himalayas form the northern boundary of the subcontinent.</li><li>Moist <strong>monsoon winds</strong> from the Indian Ocean strike these mountains, rise and give rainfall.</li><li>All the <strong>rivers of Pakistan</strong> come through these mountains, and melting snow adds water to them.</li><li>They <strong>block the cold Siberian winds</strong> in winter.</li><li>They attract <strong>tourists and climbers</strong> from all over the world to their high peaks, lakes and valleys.</li><li>Valuable <strong>stones, plants, animals and minerals</strong> are found in them.</li></ul><h4>Key Points</h4><ul><li>The northern ranges protect Pakistan, bring rain, feed its rivers and stop cold winds.</li><li>Pakistan's prosperity depends on the river water that comes from these mountains.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The Himalayas form the northern boundary of what?",
+       "options": [
+        "Pakistan only",
+        "The subcontinent",
+        "Balochistan",
+        "The Indian Ocean"
+       ],
+       "answer": 1,
+       "why": "The notes say the northern ranges form Pakistan's northern and western boundaries, and the Himalayas form the northern boundary of the subcontinent."
+      },
+      {
+       "q": "The moist monsoon winds that bring rain to Pakistan come from where?",
+       "options": [
+        "The Indian Ocean",
+        "Siberia",
+        "The Arabian Sea only",
+        "Central Asia"
+       ],
+       "answer": 0,
+       "why": "The notes say moist monsoon winds from the Indian Ocean strike the northern mountains, rise and give rainfall."
+      },
+      {
+       "q": "How do the northern mountains cause rainfall?",
+       "options": [
+        "They melt snow into clouds",
+        "They block all winds completely",
+        "Moist monsoon winds strike them, rise and give rainfall",
+        "They cool the ocean water"
+       ],
+       "answer": 2,
+       "why": "When moist monsoon winds strike the mountains they are forced to rise, and this gives rainfall."
+      },
+      {
+       "q": "All the rivers of Pakistan come through what?",
+       "options": [
+        "The deserts of Balochistan",
+        "These northern mountains",
+        "The coastal plains",
+        "The Thar desert"
+       ],
+       "answer": 1,
+       "why": "The notes state that all the rivers of Pakistan come through the Himalayas, Karakoram and Hindu Kush, with melting snow adding water."
+      },
+      {
+       "q": "Melting snow in the northern mountains does what?",
+       "options": [
+        "Causes droughts in the plains",
+        "Blocks the rivers",
+        "Freezes the rivers",
+        "Adds water to Pakistan's rivers"
+       ],
+       "answer": 3,
+       "why": "The notes say melting snow adds water to the rivers that come through these mountains."
+      },
+      {
+       "q": "In winter, the northern mountains block cold winds from where?",
+       "options": [
+        "The Indian Ocean",
+        "Siberia",
+        "The Arabian Sea",
+        "The equator"
+       ],
+       "answer": 1,
+       "why": "The notes say the ranges block the cold Siberian winds in winter."
+      },
+      {
+       "q": "The high peaks, lakes and valleys of the northern ranges attract whom?",
+       "options": [
+        "Tourists and climbers from all over the world",
+        "Only local farmers",
+        "Only fishermen",
+        "Nobody at all"
+       ],
+       "answer": 0,
+       "why": "The notes say the ranges attract tourists and climbers from all over the world."
+      },
+      {
+       "q": "Which valuable things are found in the northern mountains?",
+       "options": [
+        "Oil and gas only",
+        "Coal only",
+        "Salt only",
+        "Stones, plants, animals and minerals"
+       ],
+       "answer": 3,
+       "why": "The notes list valuable stones, plants, animals and minerals found in these mountains."
+      },
+      {
+       "q": "Pakistan's prosperity depends on what, according to the notes?",
+       "options": [
+        "Imports from other countries",
+        "Rainfall in the desert",
+        "The river water that comes from these mountains",
+        "Water from the sea"
+       ],
+       "answer": 2,
+       "why": "The key points state that Pakistan's prosperity depends on the river water coming from the northern mountains."
+      },
+      {
+       "q": "The northern ranges form which boundaries of Pakistan?",
+       "options": [
+        "Southern and eastern boundaries",
+        "Only the eastern boundary",
+        "Natural northern and western boundaries",
+        "No boundaries at all"
+       ],
+       "answer": 2,
+       "why": "The notes say the Himalayas, Karakoram and Hindu Kush form natural northern and western boundaries of the country."
+      }
+     ]
     }
    ]
   },
@@ -72,22 +1293,466 @@
     {
      "title": "Weather and Climate",
      "notes_html": "<p><strong>Weather</strong> is the atmospheric condition of a small place for a short time. It keeps changing all the time — even from hour to hour.</p><p><strong>Climate</strong> is the average condition of the weather of a wide area over many years. At least <strong>thirty years</strong> of weather information is needed to fix the climate of a place, and climate does not change as quickly as weather.</p><h4>Elements of Weather</h4><ul><li>Temperature</li><li>Rainfall</li><li>Wind speed</li><li>Clouds</li><li>Humidity</li><li>Air pressure</li></ul><p>An example of weather is the daily rise and fall of temperature; an example of climate is the average pattern of those temperatures over many years.</p><h4>Key Points</h4><ul><li>Weather = short-term state of the atmosphere of a small place.</li><li>Climate = long-term average over a wide area (at least 30 years of records).</li><li>Weather changes quickly; climate changes very slowly.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Weather is best described as what?",
+       "options": [
+        "The atmospheric condition of a small place for a short time",
+        "The average weather of a wide area over many years",
+        "The climate of a whole continent",
+        "The temperature of the oceans"
+       ],
+       "answer": 0,
+       "why": "The notes define weather as the atmospheric condition of a small place for a short time; it keeps changing."
+      },
+      {
+       "q": "Climate is best described as what?",
+       "options": [
+        "The condition of the atmosphere for one day",
+        "The weather of a small village",
+        "The average condition of the weather of a wide area over many years",
+        "The rainfall of one season"
+       ],
+       "answer": 2,
+       "why": "The notes define climate as the average condition of weather of a wide area over many years."
+      },
+      {
+       "q": "At least how many years of weather information are needed to fix the climate of a place?",
+       "options": [
+        "One year",
+        "Thirty years",
+        "Five years",
+        "Ten years"
+       ],
+       "answer": 1,
+       "why": "The notes state that at least thirty years of weather information is needed to fix the climate of a place."
+      },
+      {
+       "q": "Weather keeps changing — even over what short period?",
+       "options": [
+        "Only from year to year",
+        "Only from century to century",
+        "It never changes",
+        "From hour to hour"
+       ],
+       "answer": 3,
+       "why": "The notes say weather keeps changing all the time, even from hour to hour."
+      },
+      {
+       "q": "Which of these is an element of weather?",
+       "options": [
+        "Latitude",
+        "Temperature",
+        "Altitude",
+        "Ocean currents"
+       ],
+       "answer": 1,
+       "why": "Temperature, rainfall, wind speed, clouds, humidity and air pressure are listed as elements of weather; the others are factors affecting climate."
+      },
+      {
+       "q": "Which of these is an element of weather?",
+       "options": [
+        "Humidity",
+        "Topography",
+        "Prevailing winds",
+        "Distance from the equator"
+       ],
+       "answer": 0,
+       "why": "Humidity is listed in the notes among the elements of weather, along with temperature, rainfall, wind speed, clouds and air pressure."
+      },
+      {
+       "q": "Which of these is an element of weather?",
+       "options": [
+        "Ocean currents",
+        "Altitude",
+        "Latitude",
+        "Air pressure"
+       ],
+       "answer": 3,
+       "why": "Air pressure is one of the six elements of weather listed in the notes."
+      },
+      {
+       "q": "The daily rise and fall of temperature is an example of what?",
+       "options": [
+        "Climate",
+        "A heat zone",
+        "Weather",
+        "An ocean current"
+       ],
+       "answer": 2,
+       "why": "The notes give the daily rise and fall of temperature as an example of weather."
+      },
+      {
+       "q": "The average pattern of temperatures over many years is an example of what?",
+       "options": [
+        "Weather",
+        "A monsoon",
+        "Climate",
+        "A season"
+       ],
+       "answer": 2,
+       "why": "The notes give the average pattern of temperatures over many years as an example of climate."
+      },
+      {
+       "q": "Compared with weather, climate changes how?",
+       "options": [
+        "From hour to hour",
+        "Very slowly",
+        "Every day",
+        "It never changes at all in any way"
+       ],
+       "answer": 1,
+       "why": "The notes say climate does not change as quickly as weather; it changes very slowly."
+      }
+     ]
     },
     {
      "title": "Factors That Affect Climate",
      "notes_html": "<p>Six factors decide the climate of a place:</p><ul><li><strong>Latitude</strong> — the sun's rays fall vertically on the equator all year, so it is warm; towards the poles the rays fall slantingly, so it becomes colder. The amount of solar energy a place receives depends on its distance from the equator.</li><li><strong>Altitude</strong> — as we go higher above sea level, the air becomes less dense and absorbs less heat of the sun, so higher places are cooler.</li><li><strong>Ocean currents</strong> — warm currents warm the nearby climate and cold currents cool it. The warm <strong>Gulf Stream</strong> makes western Europe warm; the cold <strong>California current</strong> makes the west coast of North America cold.</li><li><strong>Topography</strong> — mountains block the wind, making one side moist and the other side dry.</li><li><strong>Distribution of land and sea</strong> — land heats and cools quickly; water heats and cools slowly.</li><li><strong>Prevailing winds</strong> — winds from cold areas are cold, from warm areas warm, from the sea moist, and from deserts hot and dry.</li></ul><h4>Key Points</h4><ul><li>Latitude, altitude, ocean currents, topography, land–sea distribution and prevailing winds control climate.</li><li>Near the poles is the polar zone, which experiences extremely cold temperatures.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "How many factors decide the climate of a place, according to the notes?",
+       "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Eight"
+       ],
+       "answer": 2,
+       "why": "The notes list six factors: latitude, altitude, ocean currents, topography, land–sea distribution and prevailing winds."
+      },
+      {
+       "q": "Why is it warm at the equator all year?",
+       "options": [
+        "The equator is closer to the core",
+        "The sun's rays fall vertically on the equator",
+        "Ocean currents heat the equator",
+        "There are no clouds at the equator"
+       ],
+       "answer": 1,
+       "why": "The notes explain that the sun's rays fall vertically on the equator all year, so it is warm."
+      },
+      {
+       "q": "Why does it become colder towards the poles?",
+       "options": [
+        "The poles receive no wind",
+        "The poles are higher above sea level",
+        "Cold currents surround the poles",
+        "The sun's rays fall slantingly there"
+       ],
+       "answer": 3,
+       "why": "Towards the poles the sun's rays fall slantingly, so it becomes colder."
+      },
+      {
+       "q": "The amount of solar energy a place receives depends on what?",
+       "options": [
+        "Its distance from the sea",
+        "Its distance from the equator",
+        "Its population",
+        "Its height of mountains only"
+       ],
+       "answer": 1,
+       "why": "The notes say the amount of solar energy a place receives depends on its distance from the equator — its latitude."
+      },
+      {
+       "q": "Why are higher places cooler?",
+       "options": [
+        "The air becomes less dense and absorbs less heat of the sun",
+        "The sun's rays cannot reach them",
+        "Snow covers them all year",
+        "Winds blow faster there"
+       ],
+       "answer": 0,
+       "why": "The notes explain that at altitude the air is less dense and absorbs less heat, so higher places are cooler."
+      },
+      {
+       "q": "The warm Gulf Stream makes the climate of which region warm?",
+       "options": [
+        "The west coast of North America",
+        "Eastern Asia",
+        "Northern Canada",
+        "Western Europe"
+       ],
+       "answer": 3,
+       "why": "The notes say the warm Gulf Stream makes western Europe warm."
+      },
+      {
+       "q": "The cold California current makes which coast cold?",
+       "options": [
+        "Western Europe",
+        "The coast of Arabia",
+        "The west coast of North America",
+        "Eastern Australia"
+       ],
+       "answer": 2,
+       "why": "The notes say the cold California current makes the west coast of North America cold."
+      },
+      {
+       "q": "Mountains blocking the wind is which climate factor, and what does it cause?",
+       "options": [
+        "Latitude — both sides become warm",
+        "Altitude — both sides become cold",
+        "Topography — one side becomes moist and the other side dry",
+        "Ocean currents — both sides become wet"
+       ],
+       "answer": 2,
+       "why": "Topography: mountains block the wind, making one side moist and the other side dry."
+      },
+      {
+       "q": "Land and water heat and cool at what rates?",
+       "options": [
+        "Land heats and cools slowly; water quickly",
+        "Land heats and cools quickly; water heats and cools slowly",
+        "Both heat and cool at the same rate",
+        "Neither heats nor cools"
+       ],
+       "answer": 1,
+       "why": "The notes state that land heats and cools quickly while water heats and cools slowly."
+      },
+      {
+       "q": "Winds blowing from the sea are usually what, and winds from deserts are what?",
+       "options": [
+        "From the sea moist; from deserts hot and dry",
+        "From the sea dry; from deserts moist",
+        "Both are always cold",
+        "Both are always wet"
+       ],
+       "answer": 0,
+       "why": "The notes say prevailing winds from the sea are moist, and winds from deserts are hot and dry."
+      }
+     ]
     },
     {
      "title": "The Tropical Zone",
      "notes_html": "<p>The earth is divided into heat zones. The <strong>tropical zone</strong> lies on both sides of the equator, between the <strong>Tropic of Cancer</strong> (23.5° north latitude) and the <strong>Tropic of Capricorn</strong> (23.5° south latitude).</p><ul><li>It is very hot throughout the year; the average annual temperature is more than <strong>26°C</strong>.</li><li>Rainfall is heavy — the highest annual rainfall exceeds <strong>1500 mm</strong>.</li><li><strong>Rainforests</strong> grow here, holding more than half of all the plant and animal species of the world.</li><li>The <strong>Amazon rainforests</strong> are the largest tropical rainforests in the world.</li><li>Some parts of this zone get little rain and have a semi-arid climate.</li></ul><h4>Key Points</h4><ul><li>The tropical zone lies between 23.5° N and 23.5° S.</li><li>Hot all year, heavy rain, and the richest rainforests of the world.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The tropical zone lies between which two lines of latitude?",
+       "options": [
+        "The equator and the Arctic Circle",
+        "The Tropic of Cancer and the Tropic of Capricorn",
+        "The Tropic of Cancer and the equator",
+        "The Arctic and Antarctic Circles"
+       ],
+       "answer": 1,
+       "why": "The notes place the tropical zone between the Tropic of Cancer (23.5° N) and the Tropic of Capricorn (23.5° S)."
+      },
+      {
+       "q": "The Tropic of Cancer is at which latitude?",
+       "options": [
+        "23.5° south",
+        "0°",
+        "66.5° north",
+        "23.5° north"
+       ],
+       "answer": 3,
+       "why": "The Tropic of Cancer is at 23.5° north latitude, and the Tropic of Capricorn at 23.5° south."
+      },
+      {
+       "q": "The Tropic of Capricorn is at which latitude?",
+       "options": [
+        "23.5° north",
+        "23.5° south",
+        "0°",
+        "66.5° south"
+       ],
+       "answer": 1,
+       "why": "The notes give the Tropic of Capricorn as 23.5° south latitude."
+      },
+      {
+       "q": "The tropical zone stretches from 23.5° N to 23.5° S. How wide is it in degrees of latitude?",
+       "options": [
+        "47 degrees",
+        "23.5 degrees",
+        "26 degrees",
+        "90 degrees"
+       ],
+       "answer": 0,
+       "why": "Width of the tropical zone = 23.5 + 23.5 = 47 degrees of latitude, from the values given in the notes."
+      },
+      {
+       "q": "The average annual temperature of the tropical zone is more than what?",
+       "options": [
+        "15°C",
+        "20°C",
+        "30°C exactly at all places",
+        "26°C"
+       ],
+       "answer": 3,
+       "why": "The notes state the tropical zone's average annual temperature is more than 26°C."
+      },
+      {
+       "q": "In the tropical zone, the highest annual rainfall exceeds what?",
+       "options": [
+        "500 mm",
+        "750 mm",
+        "1500 mm",
+        "1000 mm"
+       ],
+       "answer": 2,
+       "why": "The notes say rainfall in the tropical zone is heavy and the highest annual rainfall exceeds 1500 mm."
+      },
+      {
+       "q": "The rainforests of the tropical zone hold what share of the world's plant and animal species?",
+       "options": [
+        "About one quarter",
+        "About one tenth",
+        "More than half",
+        "Almost none"
+       ],
+       "answer": 2,
+       "why": "The notes say tropical rainforests hold more than half of all the plant and animal species of the world."
+      },
+      {
+       "q": "The largest tropical rainforests in the world are which?",
+       "options": [
+        "The Congo rainforests",
+        "The Amazon rainforests",
+        "The boreal forests",
+        "The temperate forests"
+       ],
+       "answer": 1,
+       "why": "The notes name the Amazon rainforests as the largest tropical rainforests in the world."
+      },
+      {
+       "q": "Some parts of the tropical zone get little rain and have what kind of climate?",
+       "options": [
+        "A semi-arid climate",
+        "A polar climate",
+        "A temperate climate",
+        "A monsoon climate only"
+       ],
+       "answer": 0,
+       "why": "The notes say some parts of the tropical zone get little rain and have a semi-arid climate."
+      },
+      {
+       "q": "What is the temperature like in the tropical zone through the year?",
+       "options": [
+        "Cold in winter and hot in summer",
+        "Always below freezing",
+        "Very hot throughout the year",
+        "Mild in all seasons"
+       ],
+       "answer": 2,
+       "why": "The key points describe the tropical zone as hot all year, with heavy rain and the richest rainforests."
+      }
+     ]
     },
     {
      "title": "Monsoon Winds",
      "notes_html": "<p>A <strong>monsoon</strong> is a system of seasonal winds. The word comes from the Arabic word <em>mausam</em>, which means season. Monsoons blow on both sides of the equator, roughly between 26° north and 23° south latitude.</p><h4>Summer Monsoon</h4><p>In summer, pressure becomes high over the sea and low over the land of the subcontinent. Winds blow from the sea towards the land. Coming from the sea, they are full of water vapour; they rise on reaching land and cause <strong>rainfall</strong>.</p><h4>Winter Monsoon</h4><p>In winter the system reverses: pressure is low over the sea and high over the land, so winds blow from land to sea. These winds are dry and cold, so the climate becomes dry and cold with almost no rain.</p><h4>Why Monsoons Matter</h4><ul><li>Summer monsoon rains supply water to the rivers.</li><li>They benefit agriculture, because the crops get water.</li><li>Sometimes these heavy rains can also cause floods.</li></ul><h4>Key Points</h4><ul><li>Monsoon winds change direction with the season.</li><li>Summer monsoon: sea → land, brings rain. Winter monsoon: land → sea, dry and cold.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A monsoon is best described as what?",
+       "options": [
+        "A type of ocean current",
+        "A kind of mountain wind only",
+        "A single heavy rainstorm",
+        "A system of seasonal winds"
+       ],
+       "answer": 3,
+       "why": "The notes define a monsoon as a system of seasonal winds that change direction with the season."
+      },
+      {
+       "q": "The word 'monsoon' comes from the Arabic word 'mausam', which means what?",
+       "options": [
+        "Rain",
+        "Season",
+        "Wind",
+        "Sea"
+       ],
+       "answer": 1,
+       "why": "The notes say monsoon comes from the Arabic word mausam, which means season."
+      },
+      {
+       "q": "In summer, what is the pressure over the sea and over the land of the subcontinent?",
+       "options": [
+        "High over the sea and low over the land",
+        "Low over the sea and high over the land",
+        "High over both",
+        "Low over both"
+       ],
+       "answer": 0,
+       "why": "In summer, pressure becomes high over the sea and low over the land, so winds blow from sea to land."
+      },
+      {
+       "q": "In the summer monsoon, winds blow in which direction?",
+       "options": [
+        "From the land towards the sea",
+        "From the poles to the equator",
+        "From east to west only",
+        "From the sea towards the land"
+       ],
+       "answer": 3,
+       "why": "Summer monsoon winds blow from the sea towards the land, full of water vapour."
+      },
+      {
+       "q": "Why do summer monsoon winds cause rainfall?",
+       "options": [
+        "They are cold and dry",
+        "They blow over deserts first",
+        "They are full of water vapour and rise on reaching land",
+        "They push clouds away to the sea"
+       ],
+       "answer": 2,
+       "why": "Coming from the sea, the winds are full of water vapour; they rise on reaching land and cause rainfall."
+      },
+      {
+       "q": "In the winter monsoon, winds blow in which direction?",
+       "options": [
+        "From sea to land",
+        "From the equator to the poles",
+        "From land to sea",
+        "In circles over the ocean"
+       ],
+       "answer": 2,
+       "why": "In winter the system reverses: winds blow from land to sea."
+      },
+      {
+       "q": "Winter monsoon winds are what?",
+       "options": [
+        "Moist and warm",
+        "Dry and cold, with almost no rain",
+        "Full of water vapour",
+        "The cause of heavy floods"
+       ],
+       "answer": 1,
+       "why": "The notes describe winter monsoon winds as dry and cold, so the climate becomes dry and cold with almost no rain."
+      },
+      {
+       "q": "Summer monsoon rains benefit agriculture how?",
+       "options": [
+        "The crops get water",
+        "They wash away the fields",
+        "They bring cold weather for crops",
+        "They stop rivers from flowing"
+       ],
+       "answer": 0,
+       "why": "The notes say summer monsoon rains supply water to rivers and benefit agriculture because the crops get water."
+      },
+      {
+       "q": "Sometimes the heavy summer monsoon rains can also cause what?",
+       "options": [
+        "Droughts",
+        "Earthquakes",
+        "Floods",
+        "Snowfall"
+       ],
+       "answer": 2,
+       "why": "The notes warn that sometimes these heavy rains can also cause floods."
+      },
+      {
+       "q": "Monsoons blow on both sides of the equator, roughly between which latitudes?",
+       "options": [
+        "10° north and 10° south",
+        "26° north and 23° south",
+        "40° north and 40° south",
+        "Only exactly on the equator"
+       ],
+       "answer": 1,
+       "why": "The notes say monsoons blow roughly between 26° north and 23° south latitude — a span of 26 + 23 = 49 degrees."
+      }
+     ]
     }
    ]
   },
@@ -97,27 +1762,582 @@
     {
      "title": "Forests — Lungs of the Earth",
      "notes_html": "<p>Forests are called the <strong>lungs of the Earth</strong> because they produce <strong>oxygen</strong> through photosynthesis, which all living things need to breathe.</p><ul><li>Forests absorb <strong>carbon</strong> from the atmosphere every year. This reduces greenhouse gases and slows down global climate change.</li><li>When forests are cut down, the stored carbon is released back into the atmosphere and adds to <strong>global warming</strong>.</li><li>Forests are home to a very large number of plant and animal species.</li></ul><h4>Key Points</h4><ul><li>Forests give oxygen and take in carbon — that is why they are called the lungs of the Earth.</li><li>Cutting forests releases carbon and increases global warming.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Why are forests called the lungs of the Earth?",
+       "options": [
+        "They produce oxygen through photosynthesis, which all living things need to breathe",
+        "They look like lungs in shape",
+        "They store water like lungs store air",
+        "They grow only near the equator"
+       ],
+       "answer": 0,
+       "why": "The notes explain that forests produce oxygen through photosynthesis, which all living things need to breathe."
+      },
+      {
+       "q": "Forests produce oxygen through which process?",
+       "options": [
+        "Respiration",
+        "Erosion",
+        "Evaporation",
+        "Photosynthesis"
+       ],
+       "answer": 3,
+       "why": "The notes say forests produce oxygen through photosynthesis."
+      },
+      {
+       "q": "What do forests absorb from the atmosphere every year?",
+       "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Water vapour"
+       ],
+       "answer": 2,
+       "why": "The notes state that forests absorb carbon from the atmosphere every year, reducing greenhouse gases."
+      },
+      {
+       "q": "By absorbing carbon, forests reduce greenhouse gases and slow down what?",
+       "options": [
+        "Rainfall",
+        "River flow",
+        "Global climate change",
+        "Soil erosion only"
+       ],
+       "answer": 2,
+       "why": "Absorbing carbon reduces greenhouse gases and slows down global climate change, according to the notes."
+      },
+      {
+       "q": "When forests are cut down, what happens to the stored carbon?",
+       "options": [
+        "It stays locked in the soil forever",
+        "It is released back into the atmosphere and adds to global warming",
+        "It turns into oxygen",
+        "It sinks into the oceans"
+       ],
+       "answer": 1,
+       "why": "The notes say that when forests are cut down, the stored carbon is released back into the atmosphere and adds to global warming."
+      },
+      {
+       "q": "Forests are home to what?",
+       "options": [
+        "A very large number of plant and animal species",
+        "Only a few common species",
+        "No wild animals",
+        "Only trees and grasses"
+       ],
+       "answer": 0,
+       "why": "The notes state that forests are home to a very large number of plant and animal species."
+      },
+      {
+       "q": "All living things need oxygen for what?",
+       "options": [
+        "To make food",
+        "To grow taller",
+        "To breathe",
+        "To produce rain"
+       ],
+       "answer": 2,
+       "why": "The notes say forests produce the oxygen which all living things need to breathe."
+      },
+      {
+       "q": "Forests take in carbon and give out oxygen. Which gas do they give out?",
+       "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+       ],
+       "answer": 1,
+       "why": "Forests give oxygen and take in carbon — that is why they are called the lungs of the Earth."
+      },
+      {
+       "q": "Cutting forests increases global warming mainly because what?",
+       "options": [
+        "Trees stop producing rain",
+        "The soil becomes colder",
+        "Rivers stop flowing",
+        "Stored carbon is released into the atmosphere"
+       ],
+       "answer": 3,
+       "why": "The key points state that cutting forests releases carbon and increases global warming."
+      },
+      {
+       "q": "Forests absorb carbon from the atmosphere how often?",
+       "options": [
+        "Only once",
+        "Every year",
+        "Only in summer",
+        "Only when it rains"
+       ],
+       "answer": 1,
+       "why": "The notes say forests absorb carbon from the atmosphere every year."
+      }
+     ]
     },
     {
      "title": "Tropical and Subtropical Forests",
      "notes_html": "<p><strong>Tropical rainforests</strong> grow near the equator, where temperatures and humidity are high and rainfall is abundant throughout the year. Because of this, they have a great diversity of species.</p><p><strong>Subtropical forests</strong> lie just north and south of the tropical rainforests. They are so similar that it is difficult to distinguish them from true rainforests.</p><h4>The Amazon Rainforest</h4><p>The <strong>Amazon</strong> is the largest rainforest in the world. It produces a significant portion of the world's oxygen. But it is under immense pressure from:</p><ul><li>Agriculture, especially beef and soy production</li><li>Logging operations</li><li>Population growth — more people need land for housing, farming and roads</li></ul><h4>Key Points</h4><ul><li>Tropical rainforests: near the equator, hot, wet, richest in species.</li><li>The Amazon is the largest rainforest and is threatened by farming, logging and settlement.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Tropical rainforests grow where?",
+       "options": [
+        "Near the poles",
+        "In high mountains",
+        "In deserts",
+        "Near the equator"
+       ],
+       "answer": 3,
+       "why": "The notes say tropical rainforests grow near the equator, where temperatures and humidity are high."
+      },
+      {
+       "q": "What are the conditions in tropical rainforests?",
+       "options": [
+        "Cold and dry all year",
+        "Four distinct seasons",
+        "High temperatures and humidity, with abundant rainfall throughout the year",
+        "Long winters with snow"
+       ],
+       "answer": 2,
+       "why": "Near the equator, temperatures and humidity are high and rainfall is abundant throughout the year."
+      },
+      {
+       "q": "Because of their hot, wet conditions, tropical rainforests have what?",
+       "options": [
+        "Very few species",
+        "Only coniferous trees",
+        "A great diversity of species",
+        "No animal life"
+       ],
+       "answer": 2,
+       "why": "The notes say tropical rainforests have a great diversity of species because of their conditions."
+      },
+      {
+       "q": "Subtropical forests lie where?",
+       "options": [
+        "Near the North Pole",
+        "Just north and south of the tropical rainforests",
+        "In the far south only",
+        "On high plateaus"
+       ],
+       "answer": 1,
+       "why": "The notes place subtropical forests just north and south of the tropical rainforests."
+      },
+      {
+       "q": "Why is it difficult to distinguish subtropical forests from true rainforests?",
+       "options": [
+        "They are very similar to them",
+        "They grow in the same national parks",
+        "They have the same name",
+        "They are found only in one country"
+       ],
+       "answer": 0,
+       "why": "The notes say subtropical forests are so similar that it is difficult to distinguish them from true rainforests."
+      },
+      {
+       "q": "Which is the largest rainforest in the world?",
+       "options": [
+        "The Congo rainforest",
+        "The taiga",
+        "The Amazon rainforest",
+        "The Changa Manga forest"
+       ],
+       "answer": 2,
+       "why": "The notes name the Amazon as the largest rainforest in the world."
+      },
+      {
+       "q": "The Amazon rainforest produces what?",
+       "options": [
+        "Most of the world's rainfall",
+        "A significant portion of the world's oxygen",
+        "Half of the world's timber",
+        "All of the world's carbon"
+       ],
+       "answer": 1,
+       "why": "The notes state that the Amazon produces a significant portion of the world's oxygen."
+      },
+      {
+       "q": "Agriculture threatening the Amazon is especially for which products?",
+       "options": [
+        "Rice and wheat",
+        "Cotton and tea",
+        "Dates and olives",
+        "Beef and soy production"
+       ],
+       "answer": 3,
+       "why": "The notes list agriculture, especially beef and soy production, as a pressure on the Amazon."
+      },
+      {
+       "q": "Which human activity is listed as a pressure on the Amazon?",
+       "options": [
+        "Fishing",
+        "Logging operations",
+        "Mining for gold only",
+        "Tourism"
+       ],
+       "answer": 1,
+       "why": "Logging operations are listed in the notes among the pressures on the Amazon, along with agriculture and population growth."
+      },
+      {
+       "q": "Population growth threatens the Amazon because more people need land for what?",
+       "options": [
+        "Housing, farming and roads",
+        "Factories only",
+        "Airports only",
+        "Dams only"
+       ],
+       "answer": 0,
+       "why": "The notes say population growth means more people need land for housing, farming and roads."
+      }
+     ]
     },
     {
      "title": "Temperate and Boreal Forests",
      "notes_html": "<p><strong>Temperate forests</strong> grow in regions like North America, Europe and East Asia. They experience <strong>four distinct seasons</strong> — spring, summer, autumn and winter.</p><p><strong>Boreal forests</strong>, also called <strong>taiga</strong>, stretch across northern Russia, Scandinavia and Canada. They lie in high northern latitudes with extremely cold temperatures and long winters, and are dominated by <strong>coniferous trees</strong> (trees with cones and needle-like leaves, such as pine and fir).</p><table><tr><th>Forest type</th><th>Where</th><th>Main feature</th></tr><tr><td>Tropical rainforest</td><td>Near the equator</td><td>High biodiversity, rain all year</td></tr><tr><td>Subtropical forest</td><td>Just north and south of the tropics</td><td>Very similar to rainforest</td></tr><tr><td>Temperate forest</td><td>North America, Europe, East Asia</td><td>Four distinct seasons</td></tr><tr><td>Boreal forest (taiga)</td><td>Northern Russia, Scandinavia, Canada</td><td>Coniferous trees, very cold</td></tr></table><h4>Key Points</h4><ul><li>Temperate forests have four seasons.</li><li>Boreal forests (taiga) are cold coniferous forests of the far north.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Temperate forests grow in which regions?",
+       "options": [
+        "Northern Russia and Canada only",
+        "Near the equator",
+        "North America, Europe and East Asia",
+        "In the Amazon basin"
+       ],
+       "answer": 2,
+       "why": "The notes say temperate forests grow in regions like North America, Europe and East Asia."
+      },
+      {
+       "q": "Temperate forests experience what?",
+       "options": [
+        "Rain throughout the year",
+        "Extremely cold temperatures all year",
+        "Four distinct seasons — spring, summer, autumn and winter",
+        "Only two seasons"
+       ],
+       "answer": 2,
+       "why": "The notes state that temperate forests experience four distinct seasons."
+      },
+      {
+       "q": "Boreal forests are also called what?",
+       "options": [
+        "Bela",
+        "Taiga",
+        "Savanna",
+        "Mangrove"
+       ],
+       "answer": 1,
+       "why": "The notes say boreal forests are also called taiga."
+      },
+      {
+       "q": "Boreal forests stretch across which regions?",
+       "options": [
+        "Northern Russia, Scandinavia and Canada",
+        "North America, Europe and East Asia",
+        "The Amazon and Congo basins",
+        "Pakistan and India"
+       ],
+       "answer": 0,
+       "why": "The notes place boreal forests across northern Russia, Scandinavia and Canada."
+      },
+      {
+       "q": "What is the climate of boreal forests?",
+       "options": [
+        "Hot and wet all year",
+        "Mild with four seasons",
+        "Extremely cold temperatures and long winters",
+        "Dry and desert-like"
+       ],
+       "answer": 2,
+       "why": "Boreal forests lie in high northern latitudes with extremely cold temperatures and long winters."
+      },
+      {
+       "q": "Boreal forests are dominated by which trees?",
+       "options": [
+        "Mangrove trees",
+        "Coniferous trees",
+        "Broad-leaved rainforest trees",
+        "Palm trees"
+       ],
+       "answer": 1,
+       "why": "The notes say boreal forests are dominated by coniferous trees such as pine and fir."
+      },
+      {
+       "q": "Coniferous trees are trees that have what?",
+       "options": [
+        "Large flat leaves",
+        "No leaves at all",
+        "Fruits and flowers only",
+        "Cones and needle-like leaves"
+       ],
+       "answer": 3,
+       "why": "The notes describe coniferous trees as trees with cones and needle-like leaves."
+      },
+      {
+       "q": "Which of these are coniferous trees named in the notes?",
+       "options": [
+        "Teak and rosewood",
+        "Pine and fir",
+        "Mango and neem",
+        "Acacia and palm"
+       ],
+       "answer": 1,
+       "why": "Pine and fir are the coniferous examples given in the notes."
+      },
+      {
+       "q": "Boreal forests lie in which latitudes?",
+       "options": [
+        "High northern latitudes",
+        "Near the equator",
+        "In southern latitudes",
+        "At sea level everywhere"
+       ],
+       "answer": 0,
+       "why": "The notes say boreal forests lie in high northern latitudes."
+      },
+      {
+       "q": "Which forest type is found near the equator with high biodiversity and rain all year?",
+       "options": [
+        "Temperate forest",
+        "Boreal forest",
+        "Subtropical forest only",
+        "Tropical rainforest"
+       ],
+       "answer": 3,
+       "why": "The comparison table in the notes describes the tropical rainforest as near the equator with high biodiversity and rain all year."
+      }
+     ]
     },
     {
      "title": "Forests of Pakistan",
      "notes_html": "<p>Pakistan has several kinds of forests:</p><ul><li><strong>Riverine forests</strong> — locally called <strong>bela</strong>. They grow along riverbanks, mainly along the Indus River and its tributaries in Sindh, on active flood plains.</li><li><strong>Mangrove forests</strong> — grow in coastal and delta regions, in both brackish and fresh water, including the <strong>Indus Delta</strong>.</li><li><strong>Alpine forests</strong> — occur at high altitudes above the tree line (about 4000 metres), with dwarf shrubs, grasses and hardy plants.</li><li><strong>Irrigated plantations</strong> — man-made forests grown where canal water is available. The famous example is <strong>Changa Manga</strong>.</li><li><strong>Coniferous forests</strong> — in the northern areas.</li><li><strong>Juniper forest of Ziarat</strong> — in Balochistan.</li></ul><p>Forests matter for Pakistan because they regulate temperature, humidity and rainfall, take part in the carbon cycle, and significantly affect the economy.</p><h4>Key Points</h4><ul><li>Bela (riverine), mangrove, alpine, coniferous and irrigated plantations are Pakistan's main forest types.</li><li>Changa Manga is a man-made irrigated plantation; Ziarat's juniper forest is in Balochistan.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Riverine forests of Pakistan are locally called what?",
+       "options": [
+        "Taiga",
+        "Changa Manga",
+        "Bela",
+        "Bega"
+       ],
+       "answer": 2,
+       "why": "The notes say riverine forests are locally called bela."
+      },
+      {
+       "q": "Riverine (bela) forests grow where?",
+       "options": [
+        "On high mountain tops",
+        "Along riverbanks, mainly along the Indus River and its tributaries in Sindh",
+        "In coastal deltas",
+        "In deserts"
+       ],
+       "answer": 1,
+       "why": "Bela forests grow along riverbanks on active flood plains, mainly along the Indus and its tributaries in Sindh."
+      },
+      {
+       "q": "Mangrove forests grow where?",
+       "options": [
+        "In coastal and delta regions",
+        "In northern mountains",
+        "Along canal banks",
+        "On high plateaus"
+       ],
+       "answer": 0,
+       "why": "The notes say mangrove forests grow in coastal and delta regions, including the Indus Delta."
+      },
+      {
+       "q": "Mangrove forests grow in which kinds of water?",
+       "options": [
+        "Only sea water",
+        "Only river water",
+        "Both brackish and fresh water",
+        "Only canal water"
+       ],
+       "answer": 2,
+       "why": "The notes state that mangroves grow in both brackish and fresh water."
+      },
+      {
+       "q": "Alpine forests occur where?",
+       "options": [
+        "At sea level",
+        "At high altitudes above the tree line, about 4000 metres",
+        "In river flood plains",
+        "In the Indus Delta"
+       ],
+       "answer": 1,
+       "why": "The notes place alpine forests at high altitudes above the tree line (about 4000 metres)."
+      },
+      {
+       "q": "What kind of plants grow in alpine forests?",
+       "options": [
+        "Tall coniferous trees",
+        "Mangrove trees",
+        "Tropical rainforest trees",
+        "Dwarf shrubs, grasses and hardy plants"
+       ],
+       "answer": 3,
+       "why": "Alpine forests have dwarf shrubs, grasses and hardy plants, according to the notes."
+      },
+      {
+       "q": "Irrigated plantations are what kind of forests?",
+       "options": [
+        "Natural forests along rivers",
+        "Man-made forests grown where canal water is available",
+        "Forests grown by rainfall only",
+        "Coastal forests"
+       ],
+       "answer": 1,
+       "why": "The notes define irrigated plantations as man-made forests grown where canal water is available."
+      },
+      {
+       "q": "The famous example of an irrigated plantation in Pakistan is what?",
+       "options": [
+        "Changa Manga",
+        "Ziarat",
+        "The Indus Delta",
+        "Bela"
+       ],
+       "answer": 0,
+       "why": "Changa Manga is the famous example of an irrigated plantation given in the notes."
+      },
+      {
+       "q": "The juniper forest of Ziarat is in which province?",
+       "options": [
+        "Sindh",
+        "Punjab",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+       ],
+       "answer": 3,
+       "why": "The notes state that the juniper forest of Ziarat is in Balochistan."
+      },
+      {
+       "q": "Coniferous forests of Pakistan are found where?",
+       "options": [
+        "In the Indus Delta",
+        "In southern Sindh",
+        "In the northern areas",
+        "Along the coast"
+       ],
+       "answer": 2,
+       "why": "The notes list coniferous forests in the northern areas of Pakistan."
+      }
+     ]
     },
     {
      "title": "Deforestation",
      "notes_html": "<p><strong>Deforestation</strong> is the permanent removal or clearing of forests to use the land for other purposes, such as agriculture, urban development or infrastructure projects.</p><h4>Harms of Deforestation</h4><ul><li>Loss of trees and <strong>biodiversity</strong> (many species lose their homes).</li><li>Harm to ecosystems, climate and wildlife.</li><li>Stored carbon is released, which increases global warming.</li><li>Without tree roots, soil is washed away and flood risk increases.</li></ul><h4>Key Points</h4><ul><li>Deforestation means clearing forests permanently for other land uses.</li><li>It harms species, climate and soil, and increases flooding.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Deforestation is best defined as what?",
+       "options": [
+        "Planting new forests",
+        "The permanent removal or clearing of forests to use the land for other purposes",
+        "Temporary cutting of a few trees",
+        "Protecting forests by law"
+       ],
+       "answer": 1,
+       "why": "The notes define deforestation as the permanent removal or clearing of forests for other land uses."
+      },
+      {
+       "q": "Forests are cleared to use the land for purposes such as what?",
+       "options": [
+        "Agriculture, urban development and infrastructure projects",
+        "Wildlife sanctuaries",
+        "National parks",
+        "Forest research only"
+       ],
+       "answer": 0,
+       "why": "The notes list agriculture, urban development and infrastructure projects as purposes for clearing forests."
+      },
+      {
+       "q": "One harm of deforestation is the loss of trees and biodiversity, which means what?",
+       "options": [
+        "Trees grow back faster",
+        "New species appear at once",
+        "Many species lose their homes",
+        "Rivers become cleaner"
+       ],
+       "answer": 2,
+       "why": "The notes say deforestation causes loss of biodiversity because many species lose their homes."
+      },
+      {
+       "q": "Deforestation increases global warming because what?",
+       "options": [
+        "The sun becomes hotter",
+        "Stored carbon is released into the atmosphere",
+        "Oxygen increases in the air",
+        "Rainfall stops completely"
+       ],
+       "answer": 1,
+       "why": "When forests are cleared, the stored carbon is released, which increases global warming."
+      },
+      {
+       "q": "Without tree roots, what happens to the soil?",
+       "options": [
+        "It becomes more fertile",
+        "It turns into rock",
+        "It absorbs more water",
+        "It is washed away"
+       ],
+       "answer": 3,
+       "why": "The notes say that without tree roots, soil is washed away."
+      },
+      {
+       "q": "Deforestation increases the risk of which disaster?",
+       "options": [
+        "Earthquakes",
+        "Flooding",
+        "Cyclones",
+        "Volcanoes"
+       ],
+       "answer": 1,
+       "why": "With soil washed away and water running off, flood risk increases, according to the notes."
+      },
+      {
+       "q": "Deforestation harms which of these?",
+       "options": [
+        "Ecosystems, climate and wildlife",
+        "Only the timber industry",
+        "Only farmers",
+        "Only city buildings"
+       ],
+       "answer": 0,
+       "why": "The notes list harm to ecosystems, climate and wildlife among the harms of deforestation."
+      },
+      {
+       "q": "Is deforestation a temporary or a permanent clearing of forests?",
+       "options": [
+        "Temporary",
+        "Seasonal",
+        "Accidental only",
+        "Permanent"
+       ],
+       "answer": 3,
+       "why": "The definition in the notes stresses that deforestation is the permanent removal or clearing of forests."
+      },
+      {
+       "q": "Tree roots protect the land mainly by doing what?",
+       "options": [
+        "Producing oxygen",
+        "Blocking the wind",
+        "Holding the soil so it is not washed away",
+        "Making the soil dry"
+       ],
+       "answer": 2,
+       "why": "The notes imply roots hold the soil: without tree roots, soil is washed away and flood risk increases."
+      },
+      {
+       "q": "Which land use is named in the notes as a reason for clearing forests?",
+       "options": [
+        "Forest conservation",
+        "Wildlife protection",
+        "Urban development",
+        "River management"
+       ],
+       "answer": 2,
+       "why": "Urban development is named in the notes, along with agriculture and infrastructure projects."
+      }
+     ]
     }
    ]
   },
@@ -127,27 +2347,582 @@
     {
      "title": "What Is a Natural Disaster?",
      "notes_html": "<p>A <strong>natural disaster</strong> is any adverse event caused by natural processes — such as weather or geologic activity — that negatively impacts human life, property or the environment. Disasters cause loss of life, destruction of infrastructure and economic setbacks, and they disturb the smooth working of society.</p><h4>Why Developing Countries Suffer More</h4><ul><li>Their buildings often do not follow strict <strong>building codes</strong>, so they are more likely to collapse in earthquakes or floods.</li><li>Poor roads and bridges hinder evacuation and rescue work.</li><li>They lack the money to invest in disaster preparedness.</li><li>Rapid, unplanned urbanisation crowds people into informal settlements that are very vulnerable.</li><li>Environmental damage, such as deforestation, increases the risk of landslides and flooding.</li></ul><h4>Key Points</h4><ul><li>A natural disaster is a harmful event caused by natural processes.</li><li>Weak buildings, poor roads, less money and unplanned cities make developing countries more vulnerable.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A natural disaster is best defined as what?",
+       "options": [
+        "Any adverse event caused by natural processes that negatively impacts human life, property or the environment",
+        "Any event caused by human mistakes",
+        "Any event that happens in cities only",
+        "Any sudden change in the weather"
+       ],
+       "answer": 0,
+       "why": "The notes define a natural disaster as an adverse event caused by natural processes — such as weather or geologic activity."
+      },
+      {
+       "q": "Natural processes that cause disasters include what?",
+       "options": [
+        "Wars and accidents",
+        "Pollution only",
+        "Weather and geologic activity",
+        "Deforestation only"
+       ],
+       "answer": 2,
+       "why": "The notes name weather and geologic activity as the natural processes behind natural disasters."
+      },
+      {
+       "q": "Disasters cause which of these?",
+       "options": [
+        "Growth of forests",
+        "Loss of life, destruction of infrastructure and economic setbacks",
+        "Increase in rainfall",
+        "Building of new roads"
+       ],
+       "answer": 1,
+       "why": "The notes say disasters cause loss of life, destruction of infrastructure and economic setbacks, and disturb society."
+      },
+      {
+       "q": "Why do buildings in developing countries collapse more easily in earthquakes or floods?",
+       "options": [
+        "They are built too tall",
+        "They are made of wood only",
+        "They are built near rivers only",
+        "They often do not follow strict building codes"
+       ],
+       "answer": 3,
+       "why": "The notes say buildings in developing countries often do not follow strict building codes, so they are more likely to collapse."
+      },
+      {
+       "q": "Poor roads and bridges in developing countries hinder what?",
+       "options": [
+        "Farming",
+        "Evacuation and rescue work",
+        "Tourism",
+        "Trade only"
+       ],
+       "answer": 1,
+       "why": "The notes state that poor roads and bridges hinder evacuation and rescue work during disasters."
+      },
+      {
+       "q": "Developing countries lack money to invest in what?",
+       "options": [
+        "Disaster preparedness",
+        "Luxury buildings",
+        "Sports stadiums",
+        "Shopping centres"
+       ],
+       "answer": 0,
+       "why": "The notes say developing countries lack the money to invest in disaster preparedness."
+      },
+      {
+       "q": "Rapid, unplanned urbanisation crowds people into what?",
+       "options": [
+        "Planned housing schemes",
+        "Mountain villages",
+        "Coastal towns",
+        "Informal settlements that are very vulnerable"
+       ],
+       "answer": 3,
+       "why": "The notes say unplanned urbanisation crowds people into informal settlements that are very vulnerable to disasters."
+      },
+      {
+       "q": "Environmental damage such as deforestation increases the risk of what?",
+       "options": [
+        "Earthquakes and volcanoes",
+        "Droughts only",
+        "Landslides and flooding",
+        "Cyclones only"
+       ],
+       "answer": 2,
+       "why": "The notes give deforestation as environmental damage that increases the risk of landslides and flooding."
+      },
+      {
+       "q": "Disasters disturb what, according to the notes?",
+       "options": [
+        "The rotation of the earth",
+        "The flow of rivers only",
+        "The smooth working of society",
+        "The seasons"
+       ],
+       "answer": 2,
+       "why": "The notes say disasters disturb the smooth working of society."
+      },
+      {
+       "q": "Which weakness makes developing countries suffer more in disasters?",
+       "options": [
+        "Having too many forests",
+        "Weak buildings, poor roads, less money and unplanned cities",
+        "Having cold climates",
+        "Being far from the sea"
+       ],
+       "answer": 1,
+       "why": "The key points summarise: weak buildings, poor roads, less money and unplanned cities make developing countries more vulnerable."
+      }
+     ]
     },
     {
      "title": "Earthquakes",
      "notes_html": "<p>An <strong>earthquake</strong> is the shaking of the earth. It is caused when stress built up along a <strong>fault line</strong> — a zone of weakness in the earth's crust — is suddenly released.</p><ul><li>Several major fault lines run through Pakistan, including the <strong>Chaman Fault</strong> and the <strong>Ornach Fault</strong>.</li><li>Balochistan is highly vulnerable to earthquakes because of these fault lines.</li><li>In <strong>1935</strong>, a powerful earthquake demolished the whole city of <strong>Quetta</strong> and caused widespread destruction and loss of life.</li></ul><h4>Key Points</h4><ul><li>Earthquakes happen when stress along a fault line is released.</li><li>The Chaman and Ornach faults pass through Balochistan.</li><li>The 1935 earthquake destroyed Quetta.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "An earthquake is best described as what?",
+       "options": [
+        "A powerful storm",
+        "A flood of water",
+        "The shaking of the earth",
+        "A volcanic eruption"
+       ],
+       "answer": 2,
+       "why": "The notes define an earthquake simply as the shaking of the earth."
+      },
+      {
+       "q": "An earthquake is caused when what happens?",
+       "options": [
+        "Heavy rain falls for many days",
+        "Stress built up along a fault line is suddenly released",
+        "A glacier melts suddenly",
+        "Winds blow at high speed"
+       ],
+       "answer": 1,
+       "why": "The notes say earthquakes happen when stress built up along a fault line is suddenly released."
+      },
+      {
+       "q": "A fault line is what?",
+       "options": [
+        "A crack in a building",
+        "A line on a map only",
+        "A river channel",
+        "A zone of weakness in the earth's crust"
+       ],
+       "answer": 3,
+       "why": "The notes define a fault line as a zone of weakness in the earth's crust."
+      },
+      {
+       "q": "Which major fault line runs through Pakistan?",
+       "options": [
+        "The San Andreas Fault",
+        "The Chaman Fault",
+        "The Himalayan Front",
+        "The Mid-Atlantic Ridge"
+       ],
+       "answer": 1,
+       "why": "The notes name the Chaman Fault and the Ornach Fault as major fault lines running through Pakistan."
+      },
+      {
+       "q": "Which other major fault line is named in the notes?",
+       "options": [
+        "The Ornach Fault",
+        "The Alpine Fault",
+        "The Dead Sea Fault",
+        "The Anatolian Fault"
+       ],
+       "answer": 0,
+       "why": "The Ornach Fault is named with the Chaman Fault as a major fault line through Pakistan."
+      },
+      {
+       "q": "Why is Balochistan highly vulnerable to earthquakes?",
+       "options": [
+        "Because of its coastline",
+        "Because of its deserts",
+        "Because of its high mountains",
+        "Because of the fault lines that run through it"
+       ],
+       "answer": 3,
+       "why": "The notes say Balochistan is highly vulnerable to earthquakes because of the Chaman and Ornach fault lines."
+      },
+      {
+       "q": "In which year did a powerful earthquake demolish the whole city of Quetta?",
+       "options": [
+        "2005",
+        "2010",
+        "1935",
+        "2022"
+       ],
+       "answer": 2,
+       "why": "The notes record that in 1935 a powerful earthquake demolished the whole city of Quetta."
+      },
+      {
+       "q": "The 1935 earthquake destroyed which city?",
+       "options": [
+        "Gwadar",
+        "Karachi",
+        "Quetta",
+        "Lahore"
+       ],
+       "answer": 2,
+       "why": "The 1935 earthquake demolished the whole city of Quetta and caused widespread destruction and loss of life."
+      },
+      {
+       "q": "Stress that causes earthquakes builds up where?",
+       "options": [
+        "Inside volcanoes",
+        "Along a fault line",
+        "Under the oceans only",
+        "In the atmosphere"
+       ],
+       "answer": 1,
+       "why": "The notes explain that stress builds up along a fault line and is suddenly released."
+      },
+      {
+       "q": "The 1935 Quetta earthquake caused what?",
+       "options": [
+        "Widespread destruction and loss of life",
+        "Only minor damage",
+        "A flood in the city",
+        "No damage at all"
+       ],
+       "answer": 0,
+       "why": "The notes say the 1935 earthquake caused widespread destruction and loss of life."
+      }
+     ]
     },
     {
      "title": "Floods and Droughts",
      "notes_html": "<p>A <strong>flood</strong> is water overflowing from its channel due to heavy rainfall. Intense monsoon rains cause widespread flooding that harms homes and infrastructure. In mountain areas, quick runoff can also cause sudden <strong>flash floods</strong>.</p><p>A <strong>drought</strong> is a long dry period that leads to water scarcity.</p><h4>Examples from Balochistan</h4><ul><li>From <strong>1998 to 2004</strong>, Balochistan faced one of the worst droughts of its history. It destroyed crops, killed many animals and forced many people to leave their homes.</li><li>In <strong>2022</strong>, intense monsoon rains led to disastrous floods in Balochistan; heavy rains in 2010 and 2020 also flooded various districts.</li></ul><h4>Key Points</h4><ul><li>Flood = water overflowing its channel; drought = long dry period with water scarcity.</li><li>Balochistan has suffered both: the 1998–2004 drought and the floods of 2010, 2020 and 2022.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A flood is best described as what?",
+       "options": [
+        "A long period without rain",
+        "Water overflowing from its channel due to heavy rainfall",
+        "Water frozen in a channel",
+        "A storm at sea"
+       ],
+       "answer": 1,
+       "why": "The notes define a flood as water overflowing from its channel due to heavy rainfall."
+      },
+      {
+       "q": "Intense monsoon rains cause widespread flooding that harms what?",
+       "options": [
+        "Only crops in fields",
+        "Only mountain forests",
+        "Only fishing boats",
+        "Homes and infrastructure"
+       ],
+       "answer": 3,
+       "why": "The notes say intense monsoon rains cause widespread flooding that harms homes and infrastructure."
+      },
+      {
+       "q": "Sudden floods in mountain areas, caused by quick runoff, are called what?",
+       "options": [
+        "Tidal floods",
+        "Flash floods",
+        "River floods",
+        "Seasonal floods"
+       ],
+       "answer": 1,
+       "why": "The notes say quick runoff in mountain areas can cause sudden flash floods."
+      },
+      {
+       "q": "A drought is best described as what?",
+       "options": [
+        "A long dry period that leads to water scarcity",
+        "A heavy rainstorm",
+        "Water overflowing its channel",
+        "A powerful coastal storm"
+       ],
+       "answer": 0,
+       "why": "The notes define a drought as a long dry period that leads to water scarcity."
+      },
+      {
+       "q": "From 1998 to 2004, Balochistan faced what?",
+       "options": [
+        "Its worst earthquake",
+        "A great flood",
+        "A cyclone",
+        "One of the worst droughts of its history"
+       ],
+       "answer": 3,
+       "why": "The notes record that from 1998 to 2004 Balochistan faced one of the worst droughts of its history."
+      },
+      {
+       "q": "The 1998–2004 drought in Balochistan did what?",
+       "options": [
+        "Filled all the dams",
+        "Increased the harvest",
+        "Destroyed crops, killed many animals and forced many people to leave their homes",
+        "Caused heavy snowfall"
+       ],
+       "answer": 2,
+       "why": "The notes list these effects of the great drought: crops destroyed, animals killed and people forced to leave their homes."
+      },
+      {
+       "q": "In which year did intense monsoon rains lead to disastrous floods in Balochistan?",
+       "options": [
+        "1998",
+        "2004",
+        "2022",
+        "1935"
+       ],
+       "answer": 2,
+       "why": "The notes say that in 2022 intense monsoon rains led to disastrous floods in Balochistan."
+      },
+      {
+       "q": "Heavy rains in which other years also flooded districts of Balochistan?",
+       "options": [
+        "2001 and 2002",
+        "2010 and 2020",
+        "2015 and 2016",
+        "1990 and 1995"
+       ],
+       "answer": 1,
+       "why": "The notes add that heavy rains in 2010 and 2020 also flooded various districts of Balochistan."
+      },
+      {
+       "q": "Flash floods in mountain areas are caused by what?",
+       "options": [
+        "Quick runoff of water",
+        "Slow melting of snow",
+        "Earthquakes",
+        "High tides"
+       ],
+       "answer": 0,
+       "why": "The notes attribute flash floods to quick runoff in mountain areas."
+      },
+      {
+       "q": "Water scarcity is the result of which disaster?",
+       "options": [
+        "Flood",
+        "Cyclone",
+        "Drought",
+        "Earthquake"
+       ],
+       "answer": 2,
+       "why": "A drought is a long dry period that leads to water scarcity, according to the notes."
+      }
+     ]
     },
     {
      "title": "Cyclones and Disasters in Balochistan",
      "notes_html": "<p><strong>Cyclones</strong> are powerful storms that mostly occur in coastal areas. In Balochistan, the coastal areas near <strong>Gwadar</strong> and <strong>Pasni</strong> are threatened by cyclones from the Arabian Sea, which can cause storm surges and flooding.</p><h4>The Four Common Disasters of Balochistan</h4><ul><li><strong>Earthquakes</strong> — because of the Chaman and Ornach fault lines.</li><li><strong>Droughts</strong> — because of its arid and semi-arid climate.</li><li><strong>Floods</strong> — after intense monsoon rains.</li><li><strong>Cyclones</strong> — along the coast near Gwadar and Pasni.</li></ul><h4>Key Points</h4><ul><li>Balochistan commonly faces earthquakes, droughts, floods and cyclones.</li><li>Cyclones threaten the coast near Gwadar and Pasni.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Cyclones are best described as what?",
+       "options": [
+        "Long dry periods",
+        "Shaking of the earth",
+        "River floods",
+        "Powerful storms that mostly occur in coastal areas"
+       ],
+       "answer": 3,
+       "why": "The notes describe cyclones as powerful storms that mostly occur in coastal areas."
+      },
+      {
+       "q": "In Balochistan, which coastal areas are threatened by cyclones?",
+       "options": [
+        "The areas near Quetta",
+        "The areas near Gwadar and Pasni",
+        "The areas near Ziarat",
+        "The areas near Khuzdar"
+       ],
+       "answer": 1,
+       "why": "The notes say the coastal areas near Gwadar and Pasni are threatened by cyclones from the Arabian Sea."
+      },
+      {
+       "q": "Cyclones threatening Balochistan's coast come from which sea?",
+       "options": [
+        "The Arabian Sea",
+        "The Bay of Bengal",
+        "The Red Sea",
+        "The Caspian Sea"
+       ],
+       "answer": 0,
+       "why": "The notes say cyclones from the Arabian Sea threaten the coast near Gwadar and Pasni."
+      },
+      {
+       "q": "Cyclones can cause what along the coast?",
+       "options": [
+        "Droughts and dust storms",
+        "Earthquakes",
+        "Landslides only",
+        "Storm surges and flooding"
+       ],
+       "answer": 3,
+       "why": "The notes say cyclones can cause storm surges and flooding in coastal areas."
+      },
+      {
+       "q": "How many common disasters of Balochistan are listed in the notes?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+       ],
+       "answer": 2,
+       "why": "The notes list four common disasters of Balochistan: earthquakes, droughts, floods and cyclones."
+      },
+      {
+       "q": "Balochistan faces earthquakes mainly because of what?",
+       "options": [
+        "Its coastal location",
+        "Its arid climate",
+        "The Chaman and Ornach fault lines",
+        "Monsoon rains"
+       ],
+       "answer": 2,
+       "why": "Earthquakes are listed first among Balochistan's disasters because of the Chaman and Ornach fault lines."
+      },
+      {
+       "q": "Balochistan faces droughts mainly because of what?",
+       "options": [
+        "Its fault lines",
+        "Its arid and semi-arid climate",
+        "Cyclones from the sea",
+        "Heavy monsoon rains"
+       ],
+       "answer": 1,
+       "why": "The notes attribute Balochistan's droughts to its arid and semi-arid climate."
+      },
+      {
+       "q": "Balochistan faces floods mainly after what?",
+       "options": [
+        "Intense monsoon rains",
+        "Cyclones only",
+        "Melting of glaciers only",
+        "Earthquakes"
+       ],
+       "answer": 0,
+       "why": "The notes list floods after intense monsoon rains among Balochistan's common disasters."
+      },
+      {
+       "q": "Which disaster threatens Balochistan along its coast?",
+       "options": [
+        "Volcanoes",
+        "Avalanches",
+        "Cyclones",
+        "Tornadoes"
+       ],
+       "answer": 2,
+       "why": "Cyclones along the coast near Gwadar and Pasni complete the list of Balochistan's four common disasters."
+      },
+      {
+       "q": "A storm surge is a danger that comes with which disaster?",
+       "options": [
+        "A drought",
+        "A cyclone",
+        "An earthquake",
+        "A landslide"
+       ],
+       "answer": 1,
+       "why": "The notes say cyclones from the Arabian Sea can cause storm surges and flooding."
+      }
+     ]
     },
     {
      "title": "Effects of Disasters and Global Warming",
      "notes_html": "<h4>How Disasters Affect Human Life</h4><ul><li>Loss of life and destruction of homes, businesses, roads and other infrastructure.</li><li>Economic losses: farmers lose crops, fishermen lose boats in storms, and shop owners lose their livelihoods.</li><li>People are displaced from their homes — the 2022 Balochistan floods displaced thousands of people and badly damaged agriculture.</li><li>Environmental degradation: deforestation increases landslides and flooding, and poor land management intensifies disasters.</li></ul><h4>Global Warming and Disasters</h4><p><strong>Global warming</strong> increases both the frequency and the intensity of natural disasters. Greenhouse gas emissions from fossil fuels and deforestation drive climate change, which affects weather, sea levels and ecosystems. With climate change, heavy rains become heavier: the intense monsoon rains of 2022 caused disastrous floods in Balochistan, as did the heavy rains of 2010 and 2020. Removing trees also reduces the land's ability to absorb rainfall, so more water runs off the surface and causes floods, and slopes without roots become prone to landslides.</p><h4>Key Points</h4><ul><li>Disasters take lives, homes, livelihoods and displace people.</li><li>Global warming makes disasters more frequent and more intense.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Disasters affect human life by causing loss of life and destruction of what?",
+       "options": [
+        "Only crops",
+        "Homes, businesses, roads and other infrastructure",
+        "Only forests",
+        "Only fishing boats"
+       ],
+       "answer": 1,
+       "why": "The notes list loss of life and destruction of homes, businesses, roads and other infrastructure as disaster effects."
+      },
+      {
+       "q": "In disasters, farmers lose crops and fishermen lose what?",
+       "options": [
+        "Their boats in storms",
+        "Their houses only",
+        "Their nets only",
+        "Their markets only"
+       ],
+       "answer": 0,
+       "why": "The notes give economic losses: farmers lose crops, fishermen lose boats in storms, and shop owners lose their livelihoods."
+      },
+      {
+       "q": "Shop owners lose what in disasters?",
+       "options": [
+        "Their boats",
+        "Their crops",
+        "Their animals",
+        "Their livelihoods"
+       ],
+       "answer": 3,
+       "why": "The notes say shop owners lose their livelihoods as part of the economic losses from disasters."
+      },
+      {
+       "q": "The 2022 Balochistan floods displaced how many people?",
+       "options": [
+        "A few dozen people",
+        "Hundreds of people only in one village",
+        "Thousands of people",
+        "No people at all"
+       ],
+       "answer": 2,
+       "why": "The notes say the 2022 Balochistan floods displaced thousands of people and badly damaged agriculture."
+      },
+      {
+       "q": "Global warming increases which aspects of natural disasters?",
+       "options": [
+        "Only their frequency",
+        "Only their intensity",
+        "Both their frequency and their intensity",
+        "Neither frequency nor intensity"
+       ],
+       "answer": 2,
+       "why": "The notes state that global warming increases both the frequency and the intensity of natural disasters."
+      },
+      {
+       "q": "Greenhouse gas emissions that drive climate change come from what?",
+       "options": [
+        "Volcanoes only",
+        "Fossil fuels and deforestation",
+        "Ocean currents",
+        "Earthquakes"
+       ],
+       "answer": 1,
+       "why": "The notes say greenhouse gas emissions from fossil fuels and deforestation drive climate change."
+      },
+      {
+       "q": "Climate change affects which of these?",
+       "options": [
+        "Weather, sea levels and ecosystems",
+        "Only mountain heights",
+        "Only river lengths",
+        "Only desert sizes"
+       ],
+       "answer": 0,
+       "why": "The notes say climate change affects weather, sea levels and ecosystems."
+      },
+      {
+       "q": "Removing trees reduces the land's ability to do what?",
+       "options": [
+        "Produce oxygen only",
+        "Stop the wind",
+        "Absorb rainfall",
+        "Hold groundwater"
+       ],
+       "answer": 2,
+       "why": "The notes explain that removing trees reduces the land's ability to absorb rainfall, so more water runs off and causes floods."
+      },
+      {
+       "q": "When more rainwater runs off the surface instead of being absorbed, it causes what?",
+       "options": [
+        "Droughts",
+        "Floods",
+        "Earthquakes",
+        "Snowfall"
+       ],
+       "answer": 1,
+       "why": "More surface runoff causes floods, according to the notes."
+      },
+      {
+       "q": "Slopes without tree roots become prone to what?",
+       "options": [
+        "Cyclones",
+        "Droughts",
+        "Volcanoes",
+        "Landslides"
+       ],
+       "answer": 3,
+       "why": "The notes say slopes without roots become prone to landslides."
+      }
+     ]
     }
    ]
   },
@@ -157,27 +2932,582 @@
     {
      "title": "Weathering and Its Types",
      "notes_html": "<p><strong>Weathering</strong> is the disintegration (breaking down) of rocks into smaller particles. It happens in place, before any removal or transport of the material.</p><h4>Three Types of Weathering</h4><ul><li><strong>Physical (mechanical) weathering</strong> — rocks break without any change in their chemical composition. Example: water enters cracks in a rock, freezes, expands and splits the rock; heat and pressure changes also break rocks.</li><li><strong>Chemical weathering</strong> — the chemical composition of rocks and minerals is modified by chemical reactions. Example: <strong>solution</strong>, in which water dissolves limestone or other soluble rocks.</li><li><strong>Biological weathering</strong> — weathering caused by living organisms. Example: plant roots grow into cracks and break rocks apart; animals and microorganisms also disturb and break down rock material.</li></ul><h4>Key Points</h4><ul><li>Weathering breaks rocks in place; there are three types: physical, chemical and biological.</li><li>Physical weathering is also called mechanical weathering.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Weathering is best described as what?",
+       "options": [
+        "The disintegration (breaking down) of rocks into smaller particles",
+        "The removal of rock material by rivers",
+        "The melting of rocks into magma",
+        "The pressing of sediments into layers"
+       ],
+       "answer": 0,
+       "why": "The notes define weathering as the disintegration of rocks into smaller particles."
+      },
+      {
+       "q": "Weathering happens where?",
+       "options": [
+        "Only inside rivers",
+        "Only under the sea",
+        "Only during transport by wind",
+        "In place, before any removal or transport of the material"
+       ],
+       "answer": 3,
+       "why": "The notes stress that weathering happens in place, before any removal or transport of the material."
+      },
+      {
+       "q": "Physical weathering is also called what?",
+       "options": [
+        "Chemical weathering",
+        "Biological weathering",
+        "Mechanical weathering",
+        "Solution weathering"
+       ],
+       "answer": 2,
+       "why": "The key points state that physical weathering is also called mechanical weathering."
+      },
+      {
+       "q": "In physical weathering, what happens to the rock's chemical composition?",
+       "options": [
+        "It is completely changed",
+        "It dissolves in water",
+        "It does not change",
+        "It turns into another mineral"
+       ],
+       "answer": 2,
+       "why": "The notes say physical (mechanical) weathering breaks rocks without any change in their chemical composition."
+      },
+      {
+       "q": "Water entering cracks in a rock can split the rock when it does what?",
+       "options": [
+        "Evaporates",
+        "Freezes and expands",
+        "Dissolves the rock",
+        "Turns into steam"
+       ],
+       "answer": 1,
+       "why": "The notes give this example: water enters cracks, freezes, expands and splits the rock."
+      },
+      {
+       "q": "Chemical weathering works how?",
+       "options": [
+        "The chemical composition of rocks and minerals is modified by chemical reactions",
+        "Rocks are split by freezing water",
+        "Roots break rocks apart",
+        "Heat expands and cracks rocks"
+       ],
+       "answer": 0,
+       "why": "The notes define chemical weathering as the modification of the chemical composition of rocks by chemical reactions."
+      },
+      {
+       "q": "Solution, in which water dissolves limestone or other soluble rocks, is an example of which weathering?",
+       "options": [
+        "Physical weathering",
+        "Biological weathering",
+        "Chemical weathering",
+        "Mechanical weathering"
+       ],
+       "answer": 2,
+       "why": "Solution is given in the notes as the example of chemical weathering."
+      },
+      {
+       "q": "Biological weathering is caused by what?",
+       "options": [
+        "Freezing water",
+        "Living organisms",
+        "Chemical reactions",
+        "Changes in pressure"
+       ],
+       "answer": 1,
+       "why": "The notes define biological weathering as weathering caused by living organisms."
+      },
+      {
+       "q": "Plant roots cause biological weathering how?",
+       "options": [
+        "They dissolve rocks with acid rain",
+        "They freeze water in cracks",
+        "They carry rocks away",
+        "They grow into cracks and break rocks apart"
+       ],
+       "answer": 3,
+       "why": "The notes give plant roots growing into cracks and breaking rocks apart as biological weathering."
+      },
+      {
+       "q": "Besides plant roots, which organisms take part in biological weathering?",
+       "options": [
+        "Only birds",
+        "Animals and microorganisms",
+        "Only fish",
+        "Only insects in deserts"
+       ],
+       "answer": 1,
+       "why": "The notes add that animals and microorganisms also disturb and break down rock material."
+      }
+     ]
     },
     {
      "title": "Erosion and Its Agents",
      "notes_html": "<p><strong>Erosion</strong> is the natural process of removal and transportation of weathered materials. Weathering breaks the rock; erosion carries the pieces away.</p><h4>Agents of Erosion</h4><ul><li><strong>Water</strong> — rivers, rain and sea waves (a major factor)</li><li><strong>Ice</strong> — glaciers</li><li><strong>Wind</strong> — a major factor, especially in dry areas</li></ul><h4>River Erosion</h4><p><strong>River erosion</strong> is the process by which rivers and streams wear away their banks and beds, transport sediment downstream and reshape the landscape. It is a key part of the fluvial system and shapes river valleys, floodplains and deltas.</p><h4>Key Points</h4><ul><li>Erosion = removal + transport of weathered material.</li><li>Water, ice and wind are its agents; water and wind are the biggest factors.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Erosion is best described as what?",
+       "options": [
+        "The breaking down of rocks in place",
+        "The pressing of sediments into rock",
+        "The melting of rock into magma",
+        "The natural process of removal and transportation of weathered materials"
+       ],
+       "answer": 3,
+       "why": "The notes define erosion as the removal and transportation of weathered materials."
+      },
+      {
+       "q": "What is the difference between weathering and erosion?",
+       "options": [
+        "Weathering carries pieces away; erosion breaks the rock",
+        "They are exactly the same process",
+        "Weathering breaks the rock; erosion carries the pieces away",
+        "Erosion happens in place; weathering transports material"
+       ],
+       "answer": 2,
+       "why": "The notes make the contrast clear: weathering breaks the rock, erosion carries the pieces away."
+      },
+      {
+       "q": "Which are the agents of erosion named in the notes?",
+       "options": [
+        "Heat, pressure and chemicals",
+        "Plants, animals and humans",
+        "Water, ice and wind",
+        "Earthquakes and volcanoes"
+       ],
+       "answer": 2,
+       "why": "The notes name water, ice and wind as the agents of erosion."
+      },
+      {
+       "q": "Water as an agent of erosion includes what?",
+       "options": [
+        "Only glaciers",
+        "Rivers, rain and sea waves",
+        "Only underground water",
+        "Only dew and fog"
+       ],
+       "answer": 1,
+       "why": "The notes list rivers, rain and sea waves under water, a major agent of erosion."
+      },
+      {
+       "q": "Ice causes erosion in the form of what?",
+       "options": [
+        "Glaciers",
+        "Frost in cracks",
+        "Hailstones",
+        "Frozen lakes"
+       ],
+       "answer": 0,
+       "why": "Glaciers are the ice agent of erosion named in the notes."
+      },
+      {
+       "q": "Wind is a major agent of erosion especially where?",
+       "options": [
+        "In wet forests",
+        "Under the sea",
+        "In dry areas",
+        "In polar regions only"
+       ],
+       "answer": 2,
+       "why": "The notes say wind is a major factor of erosion, especially in dry areas."
+      },
+      {
+       "q": "River erosion wears away which parts of a river?",
+       "options": [
+        "Only its surface water",
+        "Its banks and beds",
+        "Only its source",
+        "Only its mouth"
+       ],
+       "answer": 1,
+       "why": "River erosion is the process by which rivers wear away their banks and beds."
+      },
+      {
+       "q": "Rivers transport the eroded sediment where?",
+       "options": [
+        "Upstream",
+        "Into the atmosphere",
+        "Into the earth's core",
+        "Downstream"
+       ],
+       "answer": 3,
+       "why": "The notes say rivers transport sediment downstream and reshape the landscape."
+      },
+      {
+       "q": "River erosion is a key part of which system?",
+       "options": [
+        "The rock cycle",
+        "The fluvial system",
+        "The water cycle",
+        "The carbon cycle"
+       ],
+       "answer": 1,
+       "why": "The notes call river erosion a key part of the fluvial system."
+      },
+      {
+       "q": "River erosion shapes which landforms?",
+       "options": [
+        "River valleys, floodplains and deltas",
+        "Dunes and yardangs",
+        "Plateaus and mesas",
+        "Volcanoes and craters"
+       ],
+       "answer": 0,
+       "why": "The notes say river erosion shapes river valleys, floodplains and deltas."
+      }
+     ]
     },
     {
      "title": "Landforms Made by Rivers",
      "notes_html": "<ul><li><strong>V-shaped valleys</strong> — steep, straight sides and a narrow valley floor, cut by the river as it wears away its banks and bed.</li><li><strong>Waterfalls</strong> — formed when a river meets a sudden change in elevation or a resistant rock layer it cannot easily erode, so the water drops vertically over a cliff edge.</li><li><strong>Rapids</strong> — where a river flows fast over a shallow gradient or an uneven riverbed.</li><li><strong>Ox-bow lakes</strong> — formed when a meander (bend) is cut off from the main river channel; the cut-off loop remains as a standing body of water shaped like an ox-bow.</li><li><strong>Floodplains and deltas</strong> — built where the river deposits the sediment it carries.</li></ul><h4>Key Points</h4><ul><li>Rivers carve V-shaped valleys, waterfalls and rapids.</li><li>A cut-off meander becomes an ox-bow lake.</li><li>Deposition by rivers builds floodplains and deltas.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A V-shaped valley made by a river has what features?",
+       "options": [
+        "Gentle sides and a wide floor",
+        "A flat floor with a lake",
+        "Steep, straight sides and a narrow valley floor",
+        "Rounded sides like a bowl"
+       ],
+       "answer": 2,
+       "why": "The notes describe river V-shaped valleys as having steep, straight sides and a narrow valley floor."
+      },
+      {
+       "q": "A waterfall is formed when a river meets what?",
+       "options": [
+        "A bend in its course",
+        "A flat plain",
+        "A sudden change in elevation or a resistant rock layer it cannot easily erode",
+        "Another river"
+       ],
+       "answer": 2,
+       "why": "The notes say waterfalls form when a river meets a sudden change in elevation or a resistant rock layer."
+      },
+      {
+       "q": "At a waterfall, the water does what?",
+       "options": [
+        "Flows slowly sideways",
+        "Drops vertically over a cliff edge",
+        "Sinks underground",
+        "Flows backwards"
+       ],
+       "answer": 1,
+       "why": "At a waterfall the water drops vertically over a cliff edge, according to the notes."
+      },
+      {
+       "q": "Rapids form where a river does what?",
+       "options": [
+        "Flows fast over a shallow gradient or an uneven riverbed",
+        "Meets the sea",
+        "Drops over a cliff",
+        "Is cut off from its channel"
+       ],
+       "answer": 0,
+       "why": "The notes define rapids as places where a river flows fast over a shallow gradient or an uneven riverbed."
+      },
+      {
+       "q": "An ox-bow lake is formed when what happens?",
+       "options": [
+        "A glacier melts in a valley",
+        "A waterfall dries up",
+        "A meander (bend) is cut off from the main river channel",
+        "Wind piles up sand"
+       ],
+       "answer": 2,
+       "why": "The notes say ox-bow lakes form when a meander is cut off from the main river channel."
+      },
+      {
+       "q": "A meander is what?",
+       "options": [
+        "A type of waterfall",
+        "A bend in a river",
+        "A pile of sediment",
+        "A narrow valley"
+       ],
+       "answer": 1,
+       "why": "The notes explain a meander as a bend in the river, whose cut-off loop becomes an ox-bow lake."
+      },
+      {
+       "q": "The cut-off loop of an ox-bow lake remains as what?",
+       "options": [
+        "A fast-flowing stream",
+        "A dry sand bed",
+        "A delta",
+        "A standing body of water shaped like an ox-bow"
+       ],
+       "answer": 3,
+       "why": "The notes describe the cut-off loop as a standing body of water shaped like an ox-bow."
+      },
+      {
+       "q": "Floodplains are built how?",
+       "options": [
+        "Where the river erodes its banks",
+        "Where the river deposits the sediment it carries",
+        "Where a glacier passes",
+        "Where wind removes sand"
+       ],
+       "answer": 1,
+       "why": "The notes say floodplains and deltas are built where the river deposits the sediment it carries."
+      },
+      {
+       "q": "Deltas are built how?",
+       "options": [
+        "By deposition of sediment carried by the river",
+        "By erosion of the riverbed",
+        "By wind abrasion",
+        "By freezing of river water"
+       ],
+       "answer": 0,
+       "why": "Deltas are deposition landforms, built where the river deposits its sediment, according to the notes."
+      },
+      {
+       "q": "A resistant rock layer in a river's path can cause the formation of what?",
+       "options": [
+        "An ox-bow lake",
+        "A delta",
+        "A floodplain",
+        "A waterfall"
+       ],
+       "answer": 3,
+       "why": "The notes say a waterfall forms when a river meets a resistant rock layer it cannot easily erode."
+      }
+     ]
     },
     {
      "title": "Landforms Made by Wind",
      "notes_html": "<ul><li><strong>Dunes</strong> — accumulations of sand shaped by the wind into various forms.</li><li><strong>Mushroom rocks</strong> — the base of the rock erodes faster than the top (because of differences in rock hardness), leaving a narrow stem and a wider top, like a mushroom.</li><li><strong>Yardangs</strong> — streamlined, extended ridges formed by wind abrasion and deflation, aligned with the direction of the prevailing wind.</li><li><strong>Deflation basins (blowout basins)</strong> — depressions formed when wind removes fine sediment such as sand or silt from the surface over time. <strong>Deflation</strong> means this removal of loose, fine particles by wind, which lowers the ground surface.</li></ul><h4>Key Points</h4><ul><li>Wind shapes dunes, mushroom rocks and yardangs.</li><li>Deflation lowers the surface and can form blowout basins.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Dunes are best described as what?",
+       "options": [
+        "Ridges of rock cut by rivers",
+        "Depressions left by glaciers",
+        "Accumulations of sand shaped by the wind into various forms",
+        "Layers of deposited silt"
+       ],
+       "answer": 2,
+       "why": "The notes define dunes as accumulations of sand shaped by the wind."
+      },
+      {
+       "q": "A mushroom rock has what shape?",
+       "options": [
+        "A wide base and a pointed top",
+        "A narrow stem and a wider top, like a mushroom",
+        "A round ball shape",
+        "A flat table shape"
+       ],
+       "answer": 1,
+       "why": "Mushroom rocks have a narrow stem and a wider top, like a mushroom, according to the notes."
+      },
+      {
+       "q": "A mushroom rock forms because what?",
+       "options": [
+        "The base of the rock erodes faster than the top",
+        "The top erodes faster than the base",
+        "The whole rock melts evenly",
+        "Sand is deposited on top of it"
+       ],
+       "answer": 0,
+       "why": "The notes explain that the base erodes faster than the top because of differences in rock hardness."
+      },
+      {
+       "q": "The base of a mushroom rock erodes faster because of what?",
+       "options": [
+        "More rainfall at the base",
+        "Plant roots at the base",
+        "Differences in rock hardness",
+        "Freezing at the base"
+       ],
+       "answer": 2,
+       "why": "Differences in rock hardness make the base of the rock erode faster than the top."
+      },
+      {
+       "q": "Yardangs are best described as what?",
+       "options": [
+        "Piles of sand in deserts",
+        "Streamlined, extended ridges formed by wind abrasion and deflation",
+        "Depressions in the ground",
+        "Rocks shaped like mushrooms"
+       ],
+       "answer": 1,
+       "why": "The notes define yardangs as streamlined, extended ridges formed by wind abrasion and deflation."
+      },
+      {
+       "q": "Yardangs are aligned with what?",
+       "options": [
+        "The direction of river flow",
+        "The lines of latitude",
+        "The edges of tectonic plates",
+        "The direction of the prevailing wind"
+       ],
+       "answer": 3,
+       "why": "The notes say yardangs are aligned with the direction of the prevailing wind."
+      },
+      {
+       "q": "Deflation means what?",
+       "options": [
+        "The deposit of sand by wind",
+        "The removal of loose, fine particles by wind",
+        "The freezing of water in rocks",
+        "The dissolving of rock by water"
+       ],
+       "answer": 1,
+       "why": "The notes define deflation as the removal of loose, fine particles by wind, which lowers the ground surface."
+      },
+      {
+       "q": "Deflation basins are also called what?",
+       "options": [
+        "Blowout basins",
+        "Ox-bow basins",
+        "Delta basins",
+        "Drainage basins"
+       ],
+       "answer": 0,
+       "why": "The notes give deflation basins the other name blowout basins."
+      },
+      {
+       "q": "Deflation basins are depressions formed when wind removes what?",
+       "options": [
+        "Large boulders",
+        "Water from lakes",
+        "Ice from glaciers",
+        "Fine sediment such as sand or silt from the surface over time"
+       ],
+       "answer": 3,
+       "why": "The notes say deflation basins form when wind removes fine sediment such as sand or silt over time."
+      },
+      {
+       "q": "Deflation does what to the ground surface?",
+       "options": [
+        "Raises it",
+        "Covers it with water",
+        "Lowers it",
+        "Turns it into rock"
+       ],
+       "answer": 2,
+       "why": "Deflation lowers the ground surface by removing loose fine particles, according to the notes."
+      }
+     ]
     },
     {
      "title": "How Human Activities Increase Erosion",
      "notes_html": "<p>Human activities can greatly speed up erosion:</p><ul><li><strong>Deforestation</strong> — removes the vegetation that protects the soil, so rain runs off the surface instead of being absorbed, increasing floods and landslides.</li><li><strong>Agriculture</strong> — turning the soil for planting exposes it, leading to soil compaction and erosion.</li><li><strong>Construction and development</strong> — paved surfaces reduce infiltration and increase surface runoff; excavation and grading disturb the soil.</li><li><strong>Mining</strong> — clearing vegetation, removing topsoil and excavating land expose the ground to erosion by wind and water.</li><li><strong>Poor land management</strong> — especially overgrazing, which compacts the soil and removes vegetation cover.</li><li><strong>Coastal activities</strong> — building harbours and embankments alters coastal processes and can increase erosion in nearby areas.</li></ul><h4>Key Points</h4><ul><li>Deforestation, farming, construction, mining, overgrazing and coastal building all increase erosion.</li><li>Plants and roots protect the soil; removing them is the root cause in most cases.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Deforestation speeds up erosion because it removes what?",
+       "options": [
+        "The rocks under the soil",
+        "The vegetation that protects the soil",
+        "The rivers near the soil",
+        "The wind over the soil"
+       ],
+       "answer": 1,
+       "why": "The notes say deforestation removes the vegetation that protects the soil, so erosion increases."
+      },
+      {
+       "q": "Without vegetation cover, rainwater does what?",
+       "options": [
+        "Runs off the surface instead of being absorbed",
+        "Sinks deeper into the soil",
+        "Evaporates at once",
+        "Freezes on the surface"
+       ],
+       "answer": 0,
+       "why": "The notes explain that without vegetation, rain runs off the surface instead of being absorbed, increasing floods and landslides."
+      },
+      {
+       "q": "Deforestation increases which hazards?",
+       "options": [
+        "Earthquakes and volcanoes",
+        "Cyclones and storms",
+        "Floods and landslides",
+        "Droughts only"
+       ],
+       "answer": 2,
+       "why": "The notes link deforestation to increased floods and landslides through surface runoff."
+      },
+      {
+       "q": "Farming increases erosion because turning the soil for planting does what?",
+       "options": [
+        "Covers the soil with plants",
+        "Exposes the soil, leading to soil compaction and erosion",
+        "Adds roots to the soil",
+        "Slows down the rain"
+       ],
+       "answer": 1,
+       "why": "The notes say agriculture exposes the soil by turning it for planting, leading to compaction and erosion."
+      },
+      {
+       "q": "Paved surfaces in construction increase erosion how?",
+       "options": [
+        "They absorb more rainwater",
+        "They hold the soil in place",
+        "They block the wind",
+        "They reduce infiltration and increase surface runoff"
+       ],
+       "answer": 3,
+       "why": "The notes say paved surfaces reduce infiltration and increase surface runoff."
+      },
+      {
+       "q": "Excavation and grading during construction do what to the soil?",
+       "options": [
+        "Protect it",
+        "Disturb it",
+        "Fertilise it",
+        "Compact it into rock"
+       ],
+       "answer": 1,
+       "why": "The notes list excavation and grading as construction activities that disturb the soil."
+      },
+      {
+       "q": "Mining exposes the ground to erosion by doing what?",
+       "options": [
+        "Clearing vegetation, removing topsoil and excavating land",
+        "Planting trees",
+        "Building dams",
+        "Covering land with pavement only"
+       ],
+       "answer": 0,
+       "why": "The notes say mining clears vegetation, removes topsoil and excavates land, exposing the ground to wind and water erosion."
+      },
+      {
+       "q": "Overgrazing is a form of poor land management that does what?",
+       "options": [
+        "Adds vegetation cover",
+        "Increases infiltration",
+        "Protects the topsoil",
+        "Compacts the soil and removes vegetation cover"
+       ],
+       "answer": 3,
+       "why": "The notes say overgrazing compacts the soil and removes vegetation cover, increasing erosion."
+      },
+      {
+       "q": "Building harbours and embankments along the coast can increase erosion how?",
+       "options": [
+        "It stops all waves",
+        "It adds sand to beaches",
+        "It alters coastal processes and can increase erosion in nearby areas",
+        "It plants coastal forests"
+       ],
+       "answer": 2,
+       "why": "The notes say coastal activities alter coastal processes and can increase erosion in nearby areas."
+      },
+      {
+       "q": "In most cases of human-caused erosion, the root cause is what?",
+       "options": [
+        "Building too many roads",
+        "Using too much water",
+        "Removing the plants and roots that protect the soil",
+        "Having too much rainfall"
+       ],
+       "answer": 2,
+       "why": "The key points state that plants and roots protect the soil, and removing them is the root cause in most cases."
+      }
+     ]
     }
    ]
   }
