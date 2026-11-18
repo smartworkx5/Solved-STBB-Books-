@@ -1,0 +1,2304 @@
+{
+ "book": "pctb-c12-mr-chips-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Chips at Brookfield",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>Note on the Book's Exercises</h4>\n<p>The book contains no end-of-chapter question sets. Its only question set is the end-of-book EXERCISES (book p. 50), solved here in full (13 questions; Q. 13 has 6 brief notes). Earlier comprehension selections (Chapters 1-18) are retained.</p>\n<h4>Who was Mr. Chips? Where did he teach?</h4>\n<p><b>Mr. Chips</b>, whose real name was <b>Arthur Chipping</b>, was a schoolmaster. He taught Latin and Greek at <b>Brookfield</b>, an English public school. He joined Brookfield in 1870 as a young man of twenty-two. He remained connected with the school for the rest of his long life.</p>\n<h4>Why was Chips called &#x27;Mr. Chips&#x27;?</h4>\n<p>The boys shortened his name &#x27;Chipping&#x27; to &#x27;<b>Chips</b>&#x27; as a nickname. At first it was used teasingly, but later it became a title of affection. Old boys, colleagues and even the Head called him Chips. The name stuck to him for more than sixty years.</p>\n<h4>What kind of teacher was Chips in his early years?</h4>\n<p>In his early years <b>Chips</b> was a strict but dull teacher. He taught by old methods and the boys played tricks on him. He was shy and lacked confidence in dealing with boys. Yet he was kind at heart, and the boys gradually grew fond of him.</p>",
+     "mcqs": [
+      {
+       "q": "What was Mr. Chips' real name?",
+       "options": [
+        "Arthur Wetherby",
+        "Arthur Chipping",
+        "Arthur Ralston",
+        "Arthur Colley"
+       ],
+       "answer": 1,
+       "why": "The notes state plainly that Mr. Chips, whose real name was Arthur Chipping, was a schoolmaster at Brookfield."
+      },
+      {
+       "q": "Which subjects did Mr. Chips teach at Brookfield?",
+       "options": [
+        "Latin and French",
+        "Greek and History",
+        "English and Latin",
+        "Latin and Greek"
+       ],
+       "answer": 3,
+       "why": "The notes say he taught Latin and Greek at Brookfield, an English public school, for the whole of his long career."
+      },
+      {
+       "q": "In which year did Chips join Brookfield?",
+       "options": [
+        "1870",
+        "1860",
+        "1880",
+        "1900"
+       ],
+       "answer": 0,
+       "why": "The notes record that he joined Brookfield in 1870 as a young man of twenty-two and stayed connected with the school for life."
+      },
+      {
+       "q": "How old was Chips when he joined Brookfield?",
+       "options": [
+        "Twenty-five years old",
+        "Thirty years old",
+        "Twenty-two years old",
+        "Twenty years old"
+       ],
+       "answer": 2,
+       "why": "The notes say he joined Brookfield in 1870 as a young man of twenty-two, straight into the schoolmaster's life he never left."
+      },
+      {
+       "q": "Why was Chipping called 'Mr. Chips'?",
+       "options": [
+        "The Headmaster gave him the name as an honour",
+        "His wife Katherine gave him the name",
+        "He chose the name himself when he retired",
+        "The boys shortened his name 'Chipping' to 'Chips' as a nickname"
+       ],
+       "answer": 3,
+       "why": "The notes explain that the boys shortened 'Chipping' to 'Chips'; first used teasingly, it later became a title of affection."
+      },
+      {
+       "q": "Who all called him 'Chips' in later years?",
+       "options": [
+        "Only the boys in his own class",
+        "Old boys, colleagues and even the Head",
+        "Only his wife and family",
+        "Only the masters of his own house"
+       ],
+       "answer": 1,
+       "why": "The notes say old boys, colleagues and even the Head called him Chips, and the name stuck to him for more than sixty years."
+      },
+      {
+       "q": "For how long did the name 'Chips' stick to him?",
+       "options": [
+        "For about twenty years",
+        "For about forty years",
+        "For more than sixty years",
+        "Only during his schooldays there"
+       ],
+       "answer": 2,
+       "why": "The notes state that the nickname stuck to him for more than sixty years, as long as his connection with Brookfield lasted."
+      },
+      {
+       "q": "What kind of teacher was Chips in his early years?",
+       "options": [
+        "A strict but dull teacher",
+        "A brilliant and popular teacher",
+        "A careless and lazy teacher",
+        "A harsh and cruel teacher"
+       ],
+       "answer": 0,
+       "why": "The notes describe the young Chips as a strict but dull teacher who taught by old methods and was played tricks on by the boys."
+      },
+      {
+       "q": "How did the boys behave toward the young Chips in class?",
+       "options": [
+        "They feared and avoided him",
+        "They admired him from the first day",
+        "They played tricks on him",
+        "They ignored him completely"
+       ],
+       "answer": 2,
+       "why": "The notes say that in his early years he taught by old methods and the boys played tricks on him, though he was kind at heart."
+      },
+      {
+       "q": "What was Chips' weakness in his early years?",
+       "options": [
+        "He was shy and lacked confidence in dealing with boys",
+        "He was proud and quick-tempered",
+        "He knew nothing of his subjects",
+        "He disliked boys and school life"
+       ],
+       "answer": 0,
+       "why": "The notes say he was shy and lacked confidence in dealing with boys, yet he was kind at heart and the boys gradually grew fond of him."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Chips and the Boys",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did the boys treat Chips at first?</h4>\n<p>At first the boys treated <b>Chips</b> as a figure of fun. They gave him nicknames and played pranks in his class. They imitated his walk and his way of speaking. Chips bore it patiently and never lost his temper.</p>\n<h4>How did Chips win the boys&#x27; respect?</h4>\n<p><b>Chips</b> won respect by his fairness, kindness and sense of humour. He never punished unjustly and remembered every boy&#x27;s name. He took interest in their games and their troubles. Slowly the boys realised that behind the funny exterior was a good man.</p>\n<h4>What was Chips&#x27; attitude toward discipline?</h4>\n<p><b>Chips</b> believed in firm but gentle discipline. He did not rely on harsh punishment to control boys. His quiet authority and personal example kept order. Boys obeyed him because they respected and loved him.</p>",
+     "mcqs": [
+      {
+       "q": "How did the boys treat Chips at first?",
+       "options": [
+        "As a strict and feared master",
+        "As a hero and ideal",
+        "As a stranger to be ignored",
+        "As a figure of fun"
+       ],
+       "answer": 3,
+       "why": "The notes say that at first the boys treated Chips as a figure of fun, giving him nicknames and playing pranks in his class."
+      },
+      {
+       "q": "What did the boys imitate in Chips?",
+       "options": [
+        "His walk and his way of speaking",
+        "His handwriting and his dress",
+        "His jokes and his Latin tags",
+        "His games and his hobbies"
+       ],
+       "answer": 0,
+       "why": "The notes record that the boys imitated his walk and his way of speaking, yet Chips bore it all patiently."
+      },
+      {
+       "q": "How did Chips bear the boys' pranks?",
+       "options": [
+        "He punished the boys severely",
+        "He complained to the Headmaster",
+        "Patiently, and he never lost his temper",
+        "He lost his temper every day"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips bore the teasing patiently and never lost his temper, which slowly won the boys over to him."
+      },
+      {
+       "q": "How did Chips win the boys' respect?",
+       "options": [
+        "By strict punishments and fear",
+        "By giving the boys easy work",
+        "By reporting them to the Head",
+        "By his fairness, kindness and sense of humour"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips won respect by his fairness, kindness and sense of humour; he never punished unjustly and remembered every boy's name."
+      },
+      {
+       "q": "What is said about Chips' punishments?",
+       "options": [
+        "He punished boys every day",
+        "He never punished unjustly",
+        "He never punished at all",
+        "He left punishment to the Head"
+       ],
+       "answer": 1,
+       "why": "The notes stress that he never punished unjustly, and this fairness was one reason the boys came to respect and love him."
+      },
+      {
+       "q": "What did Chips remember about the boys?",
+       "options": [
+        "Every boy's marks only",
+        "Only the names of the clever boys",
+        "Every boy's name",
+        "Nothing about the boys"
+       ],
+       "answer": 2,
+       "why": "The notes say he remembered every boy's name and took interest in their games and their troubles, so the boys realised he was a good man."
+      },
+      {
+       "q": "What interest did Chips take in the boys?",
+       "options": [
+        "In their games and their troubles",
+        "Only in their examination results",
+        "Only in their family wealth",
+        "Only in their sports trophies"
+       ],
+       "answer": 0,
+       "why": "The notes say he took interest in their games and their troubles, and slowly the boys realised that behind the funny exterior was a good man."
+      },
+      {
+       "q": "What did Chips believe about discipline?",
+       "options": [
+        "It should be harsh and feared",
+        "It is not needed in a school",
+        "It should be firm but gentle",
+        "It should be left entirely to prefects"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips believed in firm but gentle discipline and did not rely on harsh punishment to control boys."
+      },
+      {
+       "q": "On what did Chips' order in class rest?",
+       "options": [
+        "His quiet authority and personal example",
+        "On harsh punishment",
+        "On fear of the Headmaster",
+        "On frequent examinations"
+       ],
+       "answer": 0,
+       "why": "The notes say his quiet authority and personal example kept order, and boys obeyed him because they respected and loved him."
+      },
+      {
+       "q": "Why did the boys obey Chips?",
+       "options": [
+        "Because they feared his punishments",
+        "Because they respected and loved him",
+        "Because the Head ordered them to",
+        "Because he gave them holidays"
+       ],
+       "answer": 1,
+       "why": "The notes conclude that boys obeyed him because they respected and loved him — discipline flowed from affection, not fear."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Katherine",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>Who was Katherine? How did Chips meet her?</h4>\n<p><b>Katherine Bridges</b> was a young woman of twenty-five whom <b>Chips</b> met on a holiday. He met her on a walking tour in the Lake District. She was lively, charming and full of modern ideas. Their meeting changed Chips&#x27; life completely.</p>\n<h4>How did Katherine change Chips?</h4>\n<p><b>Katherine</b> taught <b>Chips</b> to be less shy and more cheerful. She made him laugh, dress better and take interest in new ideas. She softened his old-fashioned manners without spoiling his goodness. Under her influence, Chips became a warmer and happier teacher.</p>\n<h4>What did Katherine think of Brookfield?</h4>\n<p><b>Katherine</b> loved <b>Brookfield</b> and took interest in its life. She attended school functions and made friends with the boys. She admired <b>Chips</b>&#x27; devotion to the school. The boys adored her and called her charming and kind.</p>",
+     "mcqs": [
+      {
+       "q": "Who was Katherine Bridges?",
+       "options": [
+        "A young woman of twenty-five whom Chips met on a holiday",
+        "A teacher at Brookfield",
+        "The Headmaster's daughter",
+        "A widow with three children"
+       ],
+       "answer": 0,
+       "why": "The notes introduce Katherine Bridges as a young woman of twenty-five whom Chips met on a holiday, and who changed his life completely."
+      },
+      {
+       "q": "Where did Chips meet Katherine?",
+       "options": [
+        "At a school function at Brookfield",
+        "On a train journey to London",
+        "On a walking tour in the Lake District",
+        "At a concert in Cambridge"
+       ],
+       "answer": 2,
+       "why": "The notes say he met her on a walking tour in the Lake District; she was lively, charming and full of modern ideas."
+      },
+      {
+       "q": "How is Katherine described when Chips met her?",
+       "options": [
+        "Shy, quiet and old-fashioned",
+        "Proud, rich and fashionable",
+        "Serious, dull and bookish",
+        "Lively, charming and full of modern ideas"
+       ],
+       "answer": 3,
+       "why": "The notes describe Katherine as lively, charming and full of modern ideas — very different from the shy, old-fashioned Chips."
+      },
+      {
+       "q": "What was the effect of meeting Katherine on Chips?",
+       "options": [
+        "It made him leave Brookfield",
+        "It changed his life completely",
+        "It made him give up teaching",
+        "It had no effect on him"
+       ],
+       "answer": 1,
+       "why": "The notes say their meeting changed Chips' life completely; under her influence he became a warmer and happier teacher."
+      },
+      {
+       "q": "How did Katherine change Chips?",
+       "options": [
+        "She taught him modern teaching methods",
+        "She persuaded him to retire early",
+        "She taught him to be less shy and more cheerful",
+        "She made him stricter with the boys"
+       ],
+       "answer": 2,
+       "why": "The notes say Katherine taught Chips to be less shy and more cheerful, and made him laugh, dress better and take interest in new ideas."
+      },
+      {
+       "q": "What did Katherine make Chips do?",
+       "options": [
+        "Laugh, dress better and take interest in new ideas",
+        "Give up Latin and Greek",
+        "Leave Brookfield for London",
+        "Stop meeting the boys"
+       ],
+       "answer": 0,
+       "why": "The notes record that she made him laugh, dress better and take interest in new ideas, softening his old-fashioned manners."
+      },
+      {
+       "q": "What did Katherine soften in Chips?",
+       "options": [
+        "His love for Brookfield",
+        "His strictness in examinations",
+        "His old-fashioned manners",
+        "His interest in Latin"
+       ],
+       "answer": 2,
+       "why": "The notes say she softened his old-fashioned manners without spoiling his goodness, making him a warmer and happier teacher."
+      },
+      {
+       "q": "What did Katherine think of Brookfield?",
+       "options": [
+        "She loved it and took interest in its life",
+        "She disliked it and wanted to leave",
+        "She thought it old and useless",
+        "She never visited the school"
+       ],
+       "answer": 0,
+       "why": "The notes say Katherine loved Brookfield, attended school functions and made friends with the boys, admiring Chips' devotion to the school."
+      },
+      {
+       "q": "How did the boys feel about Katherine?",
+       "options": [
+        "They feared her strictness",
+        "They adored her and called her charming and kind",
+        "They hardly knew her",
+        "They disliked her modern ideas"
+       ],
+       "answer": 1,
+       "why": "The notes say the boys adored her and called her charming and kind, because she took a warm interest in the school's life."
+      },
+      {
+       "q": "What did Katherine admire in Chips?",
+       "options": [
+        "His wealth and family name",
+        "His modern teaching methods",
+        "His ambition to become Head",
+        "His devotion to the school"
+       ],
+       "answer": 3,
+       "why": "The notes say she admired Chips' devotion to Brookfield, and her love and admiration completed the change in his life."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Marriage and Happiness",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>What was the effect of Chips&#x27; marriage on his teaching?</h4>\n<p>After marriage, <b>Chips</b> became a better and more popular teacher. His classes became lively because <b>Katherine</b>&#x27;s spirit entered them. He began to understand boys better and to enjoy school life. His marriage was the happiest period of his life.</p>\n<h4>How did Katherine die?</h4>\n<p><b>Katherine</b> died in childbirth, along with her baby. Her death was a terrible blow to <b>Chips</b>. He was left alone after a very short married life. He bore the loss bravely and returned to his work at <b>Brookfield</b>.</p>\n<h4>How did Chips keep Katherine&#x27;s memory alive?</h4>\n<p><b>Chips</b> never remarried and kept <b>Katherine</b>&#x27;s memory in his heart. He often thought of her advice and her laughter. Her influence remained in his teaching for the rest of his life. He felt that she was still with him in spirit.</p>",
+     "mcqs": [
+      {
+       "q": "What was the effect of Chips' marriage on his teaching?",
+       "options": [
+        "He became careless about his classes",
+        "He gave up teaching Latin",
+        "He became a better and more popular teacher",
+        "He was often absent from school"
+       ],
+       "answer": 2,
+       "why": "The notes say that after marriage Chips became a better and more popular teacher, because Katherine's spirit entered his classes."
+      },
+      {
+       "q": "Why did Chips' classes become lively after marriage?",
+       "options": [
+        "Because he used new textbooks",
+        "Because the boys feared him more",
+        "Because the Head supervised him",
+        "Because Katherine's spirit entered them"
+       ],
+       "answer": 3,
+       "why": "The notes say his classes became lively because Katherine's spirit entered them, and he began to understand boys better."
+      },
+      {
+       "q": "How is Chips' married period described?",
+       "options": [
+        "A period of worry and debt",
+        "The happiest period of his life",
+        "An ordinary, dull period",
+        "A period of illness and rest"
+       ],
+       "answer": 1,
+       "why": "The notes call his marriage the happiest period of his life, though it proved very short because Katherine died young."
+      },
+      {
+       "q": "How did Katherine die?",
+       "options": [
+        "In a road accident",
+        "Of a long illness",
+        "In childbirth, along with her baby",
+        "During the Boer War"
+       ],
+       "answer": 2,
+       "why": "The notes say Katherine died in childbirth, along with her baby, and her death was a terrible blow to Chips."
+      },
+      {
+       "q": "What did Katherine's death do to Chips?",
+       "options": [
+        "It left him alone after a very short married life",
+        "It made him leave Brookfield forever",
+        "It made him marry again quickly",
+        "It turned him against teaching"
+       ],
+       "answer": 0,
+       "why": "The notes say he was left alone after a very short married life, but he bore the loss bravely and returned to his work."
+      },
+      {
+       "q": "How did Chips bear the loss of Katherine?",
+       "options": [
+        "He broke down and left the school",
+        "He retired to the Lake District",
+        "Bravely — he returned to his work at Brookfield",
+        "He never spoke to anyone again"
+       ],
+       "answer": 2,
+       "why": "The notes say he bore the loss bravely and returned to his work at Brookfield, keeping her memory in his heart."
+      },
+      {
+       "q": "Did Chips marry again after Katherine's death?",
+       "options": [
+        "No, he never remarried",
+        "Yes, after two years",
+        "Yes, in his old age",
+        "The notes say he married a widow"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips never remarried and kept Katherine's memory in his heart for the rest of his long life."
+      },
+      {
+       "q": "How did Chips keep Katherine's memory alive?",
+       "options": [
+        "He built a chapel in her name",
+        "He often thought of her advice and her laughter",
+        "He wrote a book about her",
+        "He visited her grave every day"
+       ],
+       "answer": 1,
+       "why": "The notes say he often thought of her advice and her laughter, and her influence remained in his teaching for the rest of his life."
+      },
+      {
+       "q": "Where did Katherine's influence remain after her death?",
+       "options": [
+        "Only in his house and furniture",
+        "In a fund she left for the school",
+        "Nowhere; he forgot her slowly",
+        "In Chips' teaching, for the rest of his life"
+       ],
+       "answer": 3,
+       "why": "The notes say her influence remained in his teaching for the rest of his life, and he felt she was still with him in spirit."
+      },
+      {
+       "q": "What did Chips feel about Katherine in later years?",
+       "options": [
+        "That she was still with him in spirit",
+        "That she had been a brief dream",
+        "That her ideas were mistaken",
+        "That he should have married again"
+       ],
+       "answer": 0,
+       "why": "The notes say he felt that she was still with him in spirit — her laughter and advice guided him all his life."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Chips the Housemaster",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>What new responsibility did Chips receive?</h4>\n<p><b>Chips</b> was made a housemaster at <b>Brookfield</b>. He took charge of a house of boys and looked after their welfare. He managed their studies, games and discipline. He proved to be a kind and understanding housemaster.</p>\n<h4>How did Chips deal with new boys?</h4>\n<p><b>Chips</b> welcomed new boys warmly and put them at ease. He remembered their names and their families. He helped them settle down in the strange new school. Many old boys remembered his kindness all their lives.</p>\n<h4>Why did boys love Chips as housemaster?</h4>\n<p>Boys loved him because he treated them as individuals. He listened to their problems and gave wise advice. He was strict when needed but never unkind. His house became like a family under his care.</p>",
+     "mcqs": [
+      {
+       "q": "What new responsibility did Chips receive at Brookfield?",
+       "options": [
+        "He was made Headmaster",
+        "He was made games master",
+        "He was made school chaplain",
+        "He was made a housemaster"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips was made a housemaster at Brookfield and took charge of a house of boys and their welfare."
+      },
+      {
+       "q": "As housemaster, what did Chips look after?",
+       "options": [
+        "The school accounts and buildings",
+        "The welfare of the boys of his house",
+        "The school library and chapel",
+        "Only the senior boys' studies"
+       ],
+       "answer": 1,
+       "why": "The notes say he took charge of a house of boys and looked after their welfare, managing their studies, games and discipline."
+      },
+      {
+       "q": "What did the housemaster Chips manage?",
+       "options": [
+        "The school's money and staff",
+        "The kitchen and the grounds",
+        "The boys' studies, games and discipline",
+        "Only the boys' games"
+       ],
+       "answer": 2,
+       "why": "The notes record that he managed their studies, games and discipline, and proved a kind and understanding housemaster."
+      },
+      {
+       "q": "How did Chips treat new boys?",
+       "options": [
+        "He welcomed them warmly and put them at ease",
+        "He tested them strictly on the first day",
+        "He left them to the older boys",
+        "He hardly spoke to them"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips welcomed new boys warmly and put them at ease, remembering their names and their families."
+      },
+      {
+       "q": "What did Chips remember about new boys?",
+       "options": [
+        "Only their fees and forms",
+        "Only their previous schools",
+        "Their names and their families",
+        "Nothing until they grew older"
+       ],
+       "answer": 2,
+       "why": "The notes say he remembered their names and their families and helped them settle down in the strange new school."
+      },
+      {
+       "q": "How did Chips help new boys at Brookfield?",
+       "options": [
+        "He helped them settle down in the strange new school",
+        "He gave them extra homework",
+        "He sent them to the Head",
+        "He made them learn the rules by heart"
+       ],
+       "answer": 0,
+       "why": "The notes say he helped them settle down in the strange new school, and many old boys remembered his kindness all their lives."
+      },
+      {
+       "q": "Why did boys love Chips as housemaster?",
+       "options": [
+        "Because he never punished anyone",
+        "Because he treated them as individuals",
+        "Because he gave them long holidays",
+        "Because he was the Headmaster"
+       ],
+       "answer": 1,
+       "why": "The notes say boys loved him because he treated them as individuals, listened to their problems and gave wise advice."
+      },
+      {
+       "q": "How did Chips deal with the boys' problems?",
+       "options": [
+        "He sent every boy to the Head",
+        "He ignored their problems",
+        "He wrote to their parents at once",
+        "He listened to them and gave wise advice"
+       ],
+       "answer": 3,
+       "why": "The notes say he listened to their problems and gave wise advice; he was strict when needed but never unkind."
+      },
+      {
+       "q": "How is Chips' strictness as housemaster described?",
+       "options": [
+        "Strict when needed, but never unkind",
+        "Always harsh and feared",
+        "So soft that boys did as they liked",
+        "Strict only with new boys"
+       ],
+       "answer": 0,
+       "why": "The notes say he was strict when needed but never unkind, and under his care his house became like a family."
+      },
+      {
+       "q": "What did Chips' house become under his care?",
+       "options": [
+        "Like an army camp",
+        "Like a silent library",
+        "Like a family",
+        "Like a business office"
+       ],
+       "answer": 2,
+       "why": "The notes conclude that his house became like a family under his care — the result of his kindness and understanding."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: The Passing Years",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did Brookfield change over the years?</h4>\n<p><b>Brookfield</b> changed as new Heads, masters and boys came and went. New buildings were added and new methods were introduced. But the spirit of the school remained the same. <b>Chips</b> watched these changes with interest and amusement.</p>\n<h4>What remained unchanged in Chips?</h4>\n<p><b>Chips</b> remained devoted to <b>Brookfield</b> and to his boys. His old jokes, his mannerisms and his kindness never changed. He still wore his old gown and taught in his old way. He became a living tradition of the school.</p>\n<h4>How did old boys remember Chips?</h4>\n<p>Old boys remembered <b>Chips</b> with love and gratitude. They visited him when they returned to <b>Brookfield</b>. They sent their sons to his house and to his classes. For them, Chips was Brookfield itself.</p>",
+     "mcqs": [
+      {
+       "q": "How did Brookfield change over the years?",
+       "options": [
+        "It was closed and rebuilt on a new site",
+        "New Heads, masters and boys came and went, and new buildings and methods were added",
+        "It became a girls' school",
+        "Nothing at all changed at Brookfield"
+       ],
+       "answer": 1,
+       "why": "The notes say Brookfield changed as new Heads, masters and boys came and went, with new buildings added and new methods introduced."
+      },
+      {
+       "q": "What remained the same at Brookfield despite all changes?",
+       "options": [
+        "The same Headmaster",
+        "The same buildings",
+        "The spirit of the school",
+        "The same boys and masters"
+       ],
+       "answer": 2,
+       "why": "The notes say new buildings and methods came, but the spirit of the school remained the same, and Chips watched the changes with interest."
+      },
+      {
+       "q": "How did Chips watch the changes at Brookfield?",
+       "options": [
+        "With interest and amusement",
+        "With anger and protest",
+        "With fear and sadness",
+        "He did not notice them"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips watched these changes with interest and amusement, remaining himself devoted to Brookfield and to his boys."
+      },
+      {
+       "q": "What remained unchanged in Chips himself?",
+       "options": [
+        "His post as Headmaster",
+        "His young age and strength",
+        "His devotion to Brookfield and to his boys",
+        "His house and furniture"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips remained devoted to Brookfield and to his boys; his old jokes, mannerisms and kindness never changed."
+      },
+      {
+       "q": "What old habit of dress did Chips keep?",
+       "options": [
+        "He still wore his old gown",
+        "He still wore his wedding suit",
+        "He adopted the newest fashions",
+        "He stopped wearing a gown"
+       ],
+       "answer": 0,
+       "why": "The notes say he still wore his old gown and taught in his old way, becoming a living tradition of the school."
+      },
+      {
+       "q": "What did Chips become at Brookfield over the years?",
+       "options": [
+        "A forgotten old master",
+        "A living tradition of the school",
+        "A strict inspector of schools",
+        "The owner of the school"
+       ],
+       "answer": 1,
+       "why": "The notes say that with his unchanged jokes, mannerisms and kindness, Chips became a living tradition of the school."
+      },
+      {
+       "q": "How did old boys remember Chips?",
+       "options": [
+        "With fear and respect only",
+        "They hardly remembered him",
+        "With amusement only",
+        "With love and gratitude"
+       ],
+       "answer": 3,
+       "why": "The notes say old boys remembered Chips with love and gratitude and visited him when they returned to Brookfield."
+      },
+      {
+       "q": "What did old boys do when they returned to Brookfield?",
+       "options": [
+        "They visited Chips",
+        "They avoided their old master",
+        "They met only the Headmaster",
+        "They inspected the new buildings"
+       ],
+       "answer": 0,
+       "why": "The notes say they visited him when they returned to Brookfield and sent their sons to his house and to his classes."
+      },
+      {
+       "q": "Whom did old boys send to Chips' house and classes?",
+       "options": [
+        "Their servants",
+        "Their daughters",
+        "Their own sons",
+        "Their business partners"
+       ],
+       "answer": 2,
+       "why": "The notes say old boys sent their sons to his house and to his classes — for them, Chips was Brookfield itself."
+      },
+      {
+       "q": "What was Chips for the old boys?",
+       "options": [
+        "A chapter in a history book",
+        "A strict examiner",
+        "A distant memory",
+        "Brookfield itself"
+       ],
+       "answer": 3,
+       "why": "The notes conclude that for the old boys, Chips was Brookfield itself, so deep was his place in the school's life."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7: Chips and the Head",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>What was Chips&#x27; relation with the Heads of Brookfield?</h4>\n<p><b>Chips</b> served under several Heads during his long career. He respected them but was not afraid to speak his mind. Some Heads valued him, while others thought him old-fashioned. In the end, every Head recognised his worth to the school.</p>\n<h4>Why did some people think Chips was old-fashioned?</h4>\n<p><b>Chips</b> used old teaching methods and disliked unnecessary changes. He believed in Latin, discipline and tradition. Younger masters thought his methods were out of date. But his results proved that character matters more than methods.</p>\n<h4>How did Chips defend tradition?</h4>\n<p><b>Chips</b> defended tradition because it gave the school its character. He believed new ideas should be tested before being adopted. He was not against all change, only against hasty change. His wisdom often proved right in the long run.</p>",
+     "mcqs": [
+      {
+       "q": "Under how many Heads did Chips serve?",
+       "options": [
+        "Under only one Head",
+        "Under two Heads only",
+        "Under several Heads during his long career",
+        "He never served under any Head"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips served under several Heads during his long career at Brookfield, respecting them but speaking his mind."
+      },
+      {
+       "q": "What was Chips' attitude toward the Heads?",
+       "options": [
+        "He respected them but was not afraid to speak his mind",
+        "He obeyed them blindly",
+        "He quarrelled with all of them",
+        "He ignored them completely"
+       ],
+       "answer": 0,
+       "why": "The notes say he respected them but was not afraid to speak his mind; some valued him, others thought him old-fashioned."
+      },
+      {
+       "q": "What did some Heads think of Chips?",
+       "options": [
+        "That he was too modern",
+        "That he was ambitious",
+        "That he was old-fashioned",
+        "That he was careless"
+       ],
+       "answer": 2,
+       "why": "The notes say some Heads valued him while others thought him old-fashioned, but in the end every Head recognised his worth."
+      },
+      {
+       "q": "What did every Head finally recognise about Chips?",
+       "options": [
+        "His worth to the school",
+        "His great wealth",
+        "His skill in examinations",
+        "His desire to retire"
+       ],
+       "answer": 0,
+       "why": "The notes say that in the end, every Head recognised his worth to the school, however old-fashioned he had seemed."
+      },
+      {
+       "q": "Why did some people think Chips was old-fashioned?",
+       "options": [
+        "He wore modern dress",
+        "He used old teaching methods and disliked unnecessary changes",
+        "He loved new machines",
+        "He changed his methods every year"
+       ],
+       "answer": 1,
+       "why": "The notes say Chips used old teaching methods and disliked unnecessary changes, believing in Latin, discipline and tradition."
+      },
+      {
+       "q": "In what three things did Chips believe?",
+       "options": [
+        "Science, sports and music",
+        "Fame, wealth and power",
+        "Travel, books and leisure",
+        "Latin, discipline and tradition"
+       ],
+       "answer": 3,
+       "why": "The notes say he believed in Latin, discipline and tradition, and younger masters thought his methods were out of date."
+      },
+      {
+       "q": "What did younger masters think of Chips' methods?",
+       "options": [
+        "That they were out of date",
+        "That they were the best in England",
+        "That they were too severe",
+        "That they were copied from Eton"
+       ],
+       "answer": 0,
+       "why": "The notes say younger masters thought his methods were out of date, but his results proved character matters more than methods."
+      },
+      {
+       "q": "What did Chips' results prove?",
+       "options": [
+        "That new methods always fail",
+        "That examinations decide everything",
+        "That character matters more than methods",
+        "That Latin is the only subject"
+       ],
+       "answer": 2,
+       "why": "The notes say his results proved that character matters more than methods — the lasting lesson of his teaching life."
+      },
+      {
+       "q": "Why did Chips defend tradition?",
+       "options": [
+        "Because he feared all new ideas",
+        "Because the Head ordered him to",
+        "Because tradition brought money",
+        "Because it gave the school its character"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips defended tradition because it gave the school its character, and new ideas should be tested before adoption."
+      },
+      {
+       "q": "What was Chips' real attitude to change?",
+       "options": [
+        "He opposed every kind of change",
+        "He was against hasty change, not against all change",
+        "He welcomed every change at once",
+        "He never thought about change"
+       ],
+       "answer": 1,
+       "why": "The notes say he was not against all change, only against hasty change, and his wisdom often proved right in the long run."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8: The Boer War Period",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did the Boer War affect Brookfield?</h4>\n<p>The Boer War took many old boys to South Africa as soldiers. The school followed their news with pride and anxiety. Some old boys were killed, and their names were honoured. The war brought a new seriousness to school life.</p>\n<h4>How did Chips react to the war news?</h4>\n<p><b>Chips</b> read the names of old boys in the newspapers with emotion. He felt proud of their courage and sad at their deaths. He spoke to the boys about duty and sacrifice. The war deepened his love for his old pupils.</p>\n<h4>What lesson does this part of the novel teach?</h4>\n<p>It teaches that a teacher&#x27;s influence lasts beyond school. Old boys carry their school&#x27;s values into the world. <b>Chips</b>&#x27; pride in them shows the bond between teacher and pupil. True education is measured by character, not by examinations.</p>",
+     "mcqs": [
+      {
+       "q": "Where did the Boer War take many Brookfield old boys?",
+       "options": [
+        "To South Africa, as soldiers",
+        "To India, as officials",
+        "To France, as students",
+        "To Canada, as farmers"
+       ],
+       "answer": 0,
+       "why": "The notes say the Boer War took many old boys to South Africa as soldiers, and the school followed their news with pride and anxiety."
+      },
+      {
+       "q": "How did the school follow the old boys' war news?",
+       "options": [
+        "With indifference",
+        "With amusement",
+        "With pride and anxiety",
+        "With anger at the government"
+       ],
+       "answer": 2,
+       "why": "The notes say the school followed their news with pride and anxiety, and the names of the killed were honoured."
+      },
+      {
+       "q": "What happened to some old boys in the Boer War?",
+       "options": [
+        "Some were killed, and their names were honoured",
+        "All returned safely at once",
+        "All became generals",
+        "None of them fought"
+       ],
+       "answer": 0,
+       "why": "The notes say some old boys were killed and their names were honoured; the war brought a new seriousness to school life."
+      },
+      {
+       "q": "What did the Boer War bring to school life?",
+       "options": [
+        "Long holidays",
+        "A new seriousness",
+        "New games and songs",
+        "A change of Headmaster"
+       ],
+       "answer": 1,
+       "why": "The notes say the war brought a new seriousness to school life as the school shared the pride and sorrow of its old boys."
+      },
+      {
+       "q": "How did Chips react to the war news?",
+       "options": [
+        "He ignored the newspapers",
+        "He celebrated every victory loudly",
+        "He asked boys to enlist at once",
+        "He read the names of old boys in the newspapers with emotion"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips read the names of old boys in the newspapers with emotion, proud of their courage and sad at their deaths."
+      },
+      {
+       "q": "Of what did Chips speak to the boys during the war?",
+       "options": [
+        "Duty and sacrifice",
+        "Examinations and prizes",
+        "Games and holidays",
+        "Latin grammar only"
+       ],
+       "answer": 0,
+       "why": "The notes say he spoke to the boys about duty and sacrifice, and the war deepened his love for his old pupils."
+      },
+      {
+       "q": "What did the war deepen in Chips?",
+       "options": [
+        "His wish to retire",
+        "His interest in politics",
+        "His love for his old pupils",
+        "His strictness in class"
+       ],
+       "answer": 2,
+       "why": "The notes say the war deepened his love for his old pupils, whose courage he honoured and whose deaths he mourned."
+      },
+      {
+       "q": "What lesson does this part of the novel teach?",
+       "options": [
+        "That wars make schools famous",
+        "That examinations are useless",
+        "That old boys should forget school",
+        "That a teacher's influence lasts beyond school"
+       ],
+       "answer": 3,
+       "why": "The notes say it teaches that a teacher's influence lasts beyond school, for old boys carry their school's values into the world."
+      },
+      {
+       "q": "What do old boys carry into the world, according to the notes?",
+       "options": [
+        "Their school's furniture",
+        "Their school's values",
+        "Only their certificates",
+        "Nothing but memories of games"
+       ],
+       "answer": 1,
+       "why": "The notes say old boys carry their school's values into the world, and Chips' pride in them shows the bond of teacher and pupil."
+      },
+      {
+       "q": "By what is true education measured, according to the notes?",
+       "options": [
+        "By examinations, not by character",
+        "By wealth and position",
+        "By character, not by examinations",
+        "By prizes and medals"
+       ],
+       "answer": 2,
+       "why": "The notes conclude that true education is measured by character, not by examinations — a central teaching of the novel."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9: Chips Becomes Headmaster",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did Chips become Headmaster of Brookfield?</h4>\n<p>When the Headmaster fell ill, <b>Chips</b> was asked to act in his place. Later he was appointed Headmaster of <b>Brookfield</b>. It was a great honour for a man who had served the school so long. He accepted it with humility and a sense of duty.</p>\n<h4>Was Chips successful as Headmaster?</h4>\n<p><b>Chips</b> was not a great administrator, but he was loved by all. He ran the school with kindness and common sense. He avoided quarrels and kept the school united. His headmastership was remembered for its human touch.</p>\n<h4>Why did Chips retire from the headmastership?</h4>\n<p><b>Chips</b> retired because of his advancing age and weak health. He felt that a younger man should lead the school. He stepped down gracefully without bitterness. He continued to live near the school and to visit it often.</p>",
+     "mcqs": [
+      {
+       "q": "How did Chips become Headmaster of Brookfield?",
+       "options": [
+        "He was elected by the boys",
+        "He bought the post",
+        "The Headmaster fell ill, Chips acted in his place, and was later appointed Headmaster",
+        "He came from another school as Head"
+       ],
+       "answer": 2,
+       "why": "The notes say that when the Headmaster fell ill, Chips was asked to act in his place and was later appointed Headmaster of Brookfield."
+      },
+      {
+       "q": "How did Chips accept the headmastership?",
+       "options": [
+        "With humility and a sense of duty",
+        "With pride and boasting",
+        "With reluctance and anger",
+        "Only for the higher salary"
+       ],
+       "answer": 0,
+       "why": "The notes say it was a great honour for so long-serving a man, and he accepted it with humility and a sense of duty."
+      },
+      {
+       "q": "How is Chips judged as an administrator?",
+       "options": [
+        "He was the greatest administrator in England",
+        "He was not a great administrator, but he was loved by all",
+        "He was a failure whom all disliked",
+        "He ruled the school like a soldier"
+       ],
+       "answer": 1,
+       "why": "The notes say Chips was not a great administrator, but he was loved by all and ran the school with kindness and common sense."
+      },
+      {
+       "q": "With what did Chips run the school as Headmaster?",
+       "options": [
+        "Strict rules and punishments",
+        "New machinery and methods",
+        "Fear and long reports",
+        "Kindness and common sense"
+       ],
+       "answer": 3,
+       "why": "The notes say he ran the school with kindness and common sense, avoided quarrels and kept the school united."
+      },
+      {
+       "q": "For what was Chips' headmastership remembered?",
+       "options": [
+        "For its human touch",
+        "For its strict discipline",
+        "For its new buildings",
+        "For its examination results"
+       ],
+       "answer": 0,
+       "why": "The notes say his headmastership was remembered for its human touch, though he was no great administrator."
+      },
+      {
+       "q": "Why did Chips retire from the headmastership?",
+       "options": [
+        "Because the boys disliked him",
+        "Because he quarrelled with the governors",
+        "Because of his advancing age and weak health",
+        "Because he wanted to travel"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips retired because of his advancing age and weak health, feeling a younger man should lead the school."
+      },
+      {
+       "q": "What did Chips feel about leading the school in old age?",
+       "options": [
+        "That no one could replace him",
+        "That he should stay for money",
+        "That the school could close",
+        "That a younger man should lead the school"
+       ],
+       "answer": 3,
+       "why": "The notes say he felt that a younger man should lead the school, and he stepped down gracefully without bitterness."
+      },
+      {
+       "q": "How did Chips step down as Headmaster?",
+       "options": [
+        "Angrily, after a quarrel",
+        "Gracefully, without bitterness",
+        "Suddenly, without notice",
+        "He refused to step down"
+       ],
+       "answer": 1,
+       "why": "The notes say he stepped down gracefully without bitterness and continued to live near the school and visit it often."
+      },
+      {
+       "q": "What did Chips do after retiring as Headmaster?",
+       "options": [
+        "He left England for good",
+        "He never saw the school again",
+        "He lived near the school and visited it often",
+        "He started a new school"
+       ],
+       "answer": 2,
+       "why": "The notes say he continued to live near the school and to visit it often, remaining part of Brookfield's life."
+      },
+      {
+       "q": "What did Chips avoid as Headmaster?",
+       "options": [
+        "Quarrels — he kept the school united",
+        "Meetings with masters",
+        "All school functions",
+        "Speaking to the boys"
+       ],
+       "answer": 0,
+       "why": "The notes say he avoided quarrels and kept the school united, which was the strength of his kind, sensible rule."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10: Retirement",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>Where did Chips live after retirement?</h4>\n<p>After retirement, <b>Chips</b> lived in a small house across the road from <b>Brookfield</b>. From his window he could see the school chapel and playing fields. Old boys and masters visited him there regularly. He remained a part of Brookfield even in retirement.</p>\n<h4>How did Chips spend his retired life?</h4>\n<p><b>Chips</b> spent his time reading, remembering and receiving visitors. He followed school news and kept in touch with old boys. He told stories of the past to young visitors. His house became a place of pilgrimage for <b>Brookfield</b> men.</p>\n<h4>Did retirement make Chips unhappy?</h4>\n<p>No, <b>Chips</b> was content in retirement. He felt his life&#x27;s work was done and well done. The love of old boys comforted him in his old age. He looked back on his career with satisfaction and gratitude.</p>",
+     "mcqs": [
+      {
+       "q": "Where did Chips live after retirement?",
+       "options": [
+        "In a small house across the road from Brookfield",
+        "In a large house in London",
+        "In the Lake District",
+        "Inside the school hostel"
+       ],
+       "answer": 0,
+       "why": "The notes say that after retirement Chips lived in a small house across the road from Brookfield, within sight of the school."
+      },
+      {
+       "q": "What could Chips see from his window?",
+       "options": [
+        "The sea and the hills",
+        "The school chapel and the playing fields",
+        "The railway station",
+        "The town market"
+       ],
+       "answer": 1,
+       "why": "The notes say that from his window he could see the school chapel and playing fields, and old boys and masters visited him regularly."
+      },
+      {
+       "q": "Who visited the retired Chips regularly?",
+       "options": [
+        "Only his relatives",
+        "Government officials",
+        "Nobody visited him",
+        "Old boys and masters"
+       ],
+       "answer": 3,
+       "why": "The notes say old boys and masters visited him there regularly, and he remained a part of Brookfield even in retirement."
+      },
+      {
+       "q": "How did Chips spend his retired life?",
+       "options": [
+        "Reading, remembering and receiving visitors",
+        "Travelling around the world",
+        "Writing a famous novel",
+        "Running a business"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips spent his time reading, remembering and receiving visitors, following school news and keeping in touch with old boys."
+      },
+      {
+       "q": "What did Chips tell his young visitors?",
+       "options": [
+        "Lessons in Latin grammar",
+        "Plans for a new school",
+        "Stories of the past",
+        "Complaints about modern boys"
+       ],
+       "answer": 2,
+       "why": "The notes say he told stories of the past to young visitors, and his house became a place of pilgrimage for Brookfield men."
+      },
+      {
+       "q": "What did Chips' house become in his retirement?",
+       "options": [
+        "A school library",
+        "A museum of the town",
+        "A guest house for strangers",
+        "A place of pilgrimage for Brookfield men"
+       ],
+       "answer": 3,
+       "why": "The notes say his house became a place of pilgrimage for Brookfield men, so loved was the old master in retirement."
+      },
+      {
+       "q": "Did retirement make Chips unhappy?",
+       "options": [
+        "Yes, he was miserable",
+        "No, he was content in retirement",
+        "Yes, he begged to return",
+        "He never thought about it"
+       ],
+       "answer": 1,
+       "why": "The notes say Chips was content in retirement; he felt his life's work was done and well done, and old boys' love comforted him."
+      },
+      {
+       "q": "What comforted Chips in his old age?",
+       "options": [
+        "His great savings",
+        "His hope of a new post",
+        "The love of old boys",
+        "His fame in newspapers"
+       ],
+       "answer": 2,
+       "why": "The notes say the love of old boys comforted him in his old age, and he looked back on his career with satisfaction and gratitude."
+      },
+      {
+       "q": "How did Chips look back on his career?",
+       "options": [
+        "With satisfaction and gratitude",
+        "With regret and bitterness",
+        "With a wish to start again",
+        "He refused to look back"
+       ],
+       "answer": 0,
+       "why": "The notes say he looked back on his career with satisfaction and gratitude, feeling his life's work was done and well done."
+      },
+      {
+       "q": "How did Chips keep in touch with Brookfield in retirement?",
+       "options": [
+        "He taught a class every day",
+        "He attended every meeting as Head",
+        "He followed school news and kept in touch with old boys",
+        "He lived inside the school"
+       ],
+       "answer": 2,
+       "why": "The notes say he followed school news and kept in touch with old boys, remaining a part of Brookfield even in retirement."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11: The First World War",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did the First World War affect Brookfield?</h4>\n<p>The First World War took hundreds of <b>Brookfield</b> boys to the front. Many were killed, and the school mourned them deeply. Masters also left to serve, and the school was short-staffed. The war years were the saddest in Brookfield&#x27;s history.</p>\n<h4>How did Chips help during the war?</h4>\n<p><b>Chips</b>, though old, came back to help the school in wartime. He took classes and encouraged the boys and masters. He read out the names of the fallen with honour. His presence gave courage to the whole school.</p>\n<h4>What was Chips&#x27; attitude toward the war?</h4>\n<p><b>Chips</b> hated war but honoured the courage of those who fought. He believed that the boys died for duty and for their country. He never glorified war, but he respected sacrifice. His sermons on the fallen moved the whole school.</p>",
+     "mcqs": [
+      {
+       "q": "How did the First World War affect Brookfield?",
+       "options": [
+        "It closed the school for ten years",
+        "It took hundreds of Brookfield boys to the front",
+        "It turned the school into a hospital only",
+        "It had no effect on the school"
+       ],
+       "answer": 1,
+       "why": "The notes say the First World War took hundreds of Brookfield boys to the front, and many were killed, to the school's deep mourning."
+      },
+      {
+       "q": "What happened to many Brookfield boys in the First World War?",
+       "options": [
+        "All returned with honours",
+        "All became officers",
+        "None of them went to the front",
+        "Many were killed, and the school mourned them deeply"
+       ],
+       "answer": 3,
+       "why": "The notes say many were killed and the school mourned them deeply; masters also left to serve, leaving the school short-staffed."
+      },
+      {
+       "q": "Why was Brookfield short-staffed during the war?",
+       "options": [
+        "Masters also left to serve in the war",
+        "Masters resigned for better pay",
+        "The school dismissed its masters",
+        "New masters refused to come"
+       ],
+       "answer": 0,
+       "why": "The notes say masters also left to serve and the school was short-staffed, which is why old Chips came back to help."
+      },
+      {
+       "q": "How are the war years described in Brookfield's history?",
+       "options": [
+        "The happiest years of the school",
+        "The richest years of the school",
+        "The saddest years in the school's history",
+        "Ordinary years, soon forgotten"
+       ],
+       "answer": 2,
+       "why": "The notes call the war years the saddest in Brookfield's history, as hundreds of its boys went to the front and many fell."
+      },
+      {
+       "q": "How did Chips help Brookfield during the war?",
+       "options": [
+        "He joined the army as a soldier",
+        "He collected money in London",
+        "He wrote letters to the government",
+        "Though old, he came back, took classes and encouraged boys and masters"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips, though old, came back to help the school in wartime, took classes and encouraged the boys and masters."
+      },
+      {
+       "q": "What did Chips read out during the war?",
+       "options": [
+        "The examination results",
+        "The names of the fallen, with honour",
+        "The names of new boys",
+        "Letters from the Headmaster"
+       ],
+       "answer": 1,
+       "why": "The notes say he read out the names of the fallen with honour, and his presence gave courage to the whole school."
+      },
+      {
+       "q": "What did Chips' presence give the school in wartime?",
+       "options": [
+        "Wealth",
+        "New buildings",
+        "Courage",
+        "Long holidays"
+       ],
+       "answer": 2,
+       "why": "The notes say his presence gave courage to the whole school while he took classes and honoured the names of the fallen."
+      },
+      {
+       "q": "What was Chips' attitude toward the war?",
+       "options": [
+        "He hated war but honoured the courage of those who fought",
+        "He glorified war and loved it",
+        "He was indifferent to the war",
+        "He blamed the boys who fought"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips hated war but honoured the courage of those who fought, believing the boys died for duty and country."
+      },
+      {
+       "q": "For what did Chips believe the boys had died?",
+       "options": [
+        "For fame and medals",
+        "For their school's name only",
+        "For duty and for their country",
+        "For wealth and land"
+       ],
+       "answer": 2,
+       "why": "The notes say he believed that the boys died for duty and for their country, and he respected sacrifice without glorifying war."
+      },
+      {
+       "q": "What effect did Chips' sermons on the fallen have?",
+       "options": [
+        "They moved the whole school",
+        "They were soon forgotten",
+        "They annoyed the masters",
+        "They were never delivered"
+       ],
+       "answer": 0,
+       "why": "The notes say his sermons on the fallen moved the whole school — he never glorified war, but he respected sacrifice."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12: Chips and the New Head",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did Chips get on with the new Headmaster?</h4>\n<p>The new Head was young and full of modern ideas. At first he and <b>Chips</b> did not understand each other. But the Head soon recognised Chips&#x27; wisdom and worth. They became friends and worked together for the school.</p>\n<h4>What did the new Head learn from Chips?</h4>\n<p>He learned that tradition and human values matter in a school. He learned to know the boys as individuals, not as numbers. He learned that discipline comes from love, not from fear. <b>Chips</b>&#x27; example softened his strict modern methods.</p>\n<h4>Why is this chapter important in the novel?</h4>\n<p>It shows the meeting of the old and the new in education. It proves that age and experience deserve respect. It shows <b>Chips</b>&#x27; greatness in his humility and wisdom. The chapter prepares the reader for Chips&#x27; peaceful end.</p>",
+     "mcqs": [
+      {
+       "q": "How is the new Headmaster described?",
+       "options": [
+        "Old and traditional",
+        "Weak and ill",
+        "A former pupil of Chips",
+        "Young and full of modern ideas"
+       ],
+       "answer": 3,
+       "why": "The notes say the new Head was young and full of modern ideas, and at first he and Chips did not understand each other."
+      },
+      {
+       "q": "How were relations between Chips and the new Head at first?",
+       "options": [
+        "At first they did not understand each other",
+        "They were friends from the first day",
+        "They quarrelled and never spoke",
+        "The Head dismissed Chips"
+       ],
+       "answer": 0,
+       "why": "The notes say at first he and Chips did not understand each other, but the Head soon recognised Chips' wisdom and worth."
+      },
+      {
+       "q": "What did the new Head soon recognise in Chips?",
+       "options": [
+        "His wealth and influence",
+        "His desire to retire",
+        "His wisdom and worth",
+        "His modern methods"
+       ],
+       "answer": 2,
+       "why": "The notes say the Head soon recognised Chips' wisdom and worth, and they became friends and worked together for the school."
+      },
+      {
+       "q": "How did the new Head learn to treat boys?",
+       "options": [
+        "As numbers in a register",
+        "As soldiers in an army",
+        "As examination candidates only",
+        "As individuals, not as numbers"
+       ],
+       "answer": 3,
+       "why": "The notes say he learned from Chips to know the boys as individuals, not as numbers, and that discipline comes from love, not fear."
+      },
+      {
+       "q": "From what does discipline come, as the new Head learned?",
+       "options": [
+        "From fear, not from love",
+        "From love, not from fear",
+        "From punishments and fines",
+        "From examinations"
+       ],
+       "answer": 1,
+       "why": "The notes say he learned that discipline comes from love, not from fear, and Chips' example softened his strict modern methods."
+      },
+      {
+       "q": "What did Chips' example do to the new Head's methods?",
+       "options": [
+        "It made him resign",
+        "It made him stricter than before",
+        "It softened his strict modern methods",
+        "It had no effect on him"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips' example softened his strict modern methods, as he learned that tradition and human values matter in a school."
+      },
+      {
+       "q": "What does this chapter show about education?",
+       "options": [
+        "The meeting of the old and the new in education",
+        "The victory of new methods over all tradition",
+        "The failure of old teachers",
+        "The end of Brookfield"
+       ],
+       "answer": 0,
+       "why": "The notes say the chapter shows the meeting of the old and the new in education and proves that age and experience deserve respect."
+      },
+      {
+       "q": "What does the chapter prove about age and experience?",
+       "options": [
+        "That age makes a man useless",
+        "That experience does not matter",
+        "That age and experience deserve respect",
+        "That the young are always right"
+       ],
+       "answer": 2,
+       "why": "The notes say it proves that age and experience deserve respect, and it shows Chips' greatness in his humility and wisdom."
+      },
+      {
+       "q": "What greatness of Chips does the chapter show?",
+       "options": [
+        "His humility and wisdom",
+        "His ambition and pride",
+        "His learning and degrees",
+        "His strictness and temper"
+       ],
+       "answer": 0,
+       "why": "The notes say the chapter shows Chips' greatness in his humility and wisdom, preparing the reader for his peaceful end."
+      },
+      {
+       "q": "For what does this chapter prepare the reader?",
+       "options": [
+        "For a new war",
+        "For Chips' peaceful end",
+        "For Chips' return as Head",
+        "For the closing of Brookfield"
+       ],
+       "answer": 1,
+       "why": "The notes say the chapter prepares the reader for Chips' peaceful end, after showing the friendship of the old master and the new Head."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13: Old Age",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did old age affect Chips?</h4>\n<p>Old age made <b>Chips</b> weak in body but clear in mind. He walked slowly and his hearing grew poor. But his memory of boys and events remained sharp. He faced old age with humour and patience.</p>\n<h4>What were Chips&#x27; feelings about his long life?</h4>\n<p><b>Chips</b> felt grateful for his long and useful life. He believed he had done his duty as a teacher. He regretted only that he had no children of his own. But he felt that thousands of boys were his children.</p>\n<h4>How did visitors treat old Chips?</h4>\n<p>Visitors treated him with love and reverence. Old boys brought their sons to meet him. They listened to his stories with delight. For them, meeting <b>Chips</b> was like meeting <b>Brookfield</b>&#x27;s history.</p>",
+     "mcqs": [
+      {
+       "q": "How did old age affect Chips?",
+       "options": [
+        "Weak in body but clear in mind",
+        "Strong in body but forgetful",
+        "Blind and bedridden from the start",
+        "It did not affect him at all"
+       ],
+       "answer": 0,
+       "why": "The notes say old age made Chips weak in body but clear in mind; he walked slowly and his hearing grew poor."
+      },
+      {
+       "q": "What happened to Chips' hearing in old age?",
+       "options": [
+        "His hearing became sharper",
+        "He became completely deaf at once",
+        "His hearing grew poor",
+        "His hearing never changed"
+       ],
+       "answer": 2,
+       "why": "The notes say he walked slowly and his hearing grew poor, but his memory of boys and events remained sharp."
+      },
+      {
+       "q": "What remained sharp in old Chips?",
+       "options": [
+        "His eyesight",
+        "His hearing",
+        "His strength for games",
+        "His memory of boys and events"
+       ],
+       "answer": 3,
+       "why": "The notes say his memory of boys and events remained sharp, and he faced old age with humour and patience."
+      },
+      {
+       "q": "With what did Chips face old age?",
+       "options": [
+        "With complaints and anger",
+        "With humour and patience",
+        "With fear and despair",
+        "With silence and pride"
+       ],
+       "answer": 1,
+       "why": "The notes say he faced old age with humour and patience, grateful for his long and useful life as a teacher."
+      },
+      {
+       "q": "How did Chips feel about his long life?",
+       "options": [
+        "Ashamed of its failures",
+        "Tired and regretful about everything",
+        "Grateful for his long and useful life",
+        "He wished it had been shorter"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips felt grateful for his long and useful life and believed he had done his duty as a teacher."
+      },
+      {
+       "q": "What was Chips' only regret in life?",
+       "options": [
+        "That he had no children of his own",
+        "That he never became Head for long",
+        "That he never grew rich",
+        "That he never left Brookfield"
+       ],
+       "answer": 0,
+       "why": "The notes say he regretted only that he had no children of his own, but he felt that thousands of boys were his children."
+      },
+      {
+       "q": "What did Chips feel about the boys he taught?",
+       "options": [
+        "That they had forgotten him",
+        "That they owed him money",
+        "That thousands of boys were his children",
+        "That they were strangers to him"
+       ],
+       "answer": 2,
+       "why": "The notes say he felt that thousands of boys were his children — the answer he later gave on his deathbed."
+      },
+      {
+       "q": "How did visitors treat old Chips?",
+       "options": [
+        "With love and reverence",
+        "With pity and haste",
+        "They avoided visiting him",
+        "With formal respect only"
+       ],
+       "answer": 0,
+       "why": "The notes say visitors treated him with love and reverence; old boys brought their sons to meet him and listened to his stories."
+      },
+      {
+       "q": "Whom did old boys bring to meet old Chips?",
+       "options": [
+        "Their business friends",
+        "Their sons",
+        "Their daughters",
+        "School inspectors"
+       ],
+       "answer": 1,
+       "why": "The notes say old boys brought their sons to meet him, and they listened to his stories with delight."
+      },
+      {
+       "q": "What was meeting Chips like for the visitors?",
+       "options": [
+        "Like meeting a stranger",
+        "Like attending an examination",
+        "Like visiting a museum guard",
+        "Like meeting Brookfield's history"
+       ],
+       "answer": 3,
+       "why": "The notes say that for them, meeting Chips was like meeting Brookfield's history, so completely was he the school's memory."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14: The Last Days",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did Chips spend his last days?</h4>\n<p><b>Chips</b> spent his last days in his house near <b>Brookfield</b>. He was often in bed, but his mind remained active. Friends and old boys visited him and cheered him. He talked of the past and of <b>Katherine</b> with affection.</p>\n<h4>What did Chips say about his children?</h4>\n<p>Someone said it was a pity <b>Chips</b> had no children. Chips replied that he had thousands of children. He meant the boys he had taught over sixty years. They were all his children, and he was proud of them.</p>\n<h4>What is the meaning of Chips&#x27; famous remark?</h4>\n<p>The remark means that a teacher lives on in his pupils. <b>Chips</b> had no son of his own, but his influence lived in thousands. It is the finest tribute to a teacher&#x27;s life. It sums up the whole message of the novel.</p>",
+     "mcqs": [
+      {
+       "q": "Where did Chips spend his last days?",
+       "options": [
+        "In a hospital in London",
+        "At Brookfield as Headmaster",
+        "In his house near Brookfield",
+        "In the Lake District"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips spent his last days in his house near Brookfield, often in bed, but with his mind still active."
+      },
+      {
+       "q": "What was the state of Chips' mind in his last days?",
+       "options": [
+        "He had lost his memory completely",
+        "He recognised nobody",
+        "He slept all the time",
+        "His mind remained active"
+       ],
+       "answer": 3,
+       "why": "The notes say he was often in bed, but his mind remained active, and friends and old boys visited and cheered him."
+      },
+      {
+       "q": "Of what did Chips talk in his last days?",
+       "options": [
+        "Of money and property",
+        "Of the past and of Katherine, with affection",
+        "Of complaints against the school",
+        "Of plans to travel"
+       ],
+       "answer": 1,
+       "why": "The notes say he talked of the past and of Katherine with affection, as visitors cheered him in his last days."
+      },
+      {
+       "q": "What did someone say was a pity about Chips?",
+       "options": [
+        "That Chips had no wealth",
+        "That Chips had no degree",
+        "That Chips had no children",
+        "That Chips had retired"
+       ],
+       "answer": 2,
+       "why": "The notes say someone said it was a pity Chips had no children, and Chips replied that he had thousands of children."
+      },
+      {
+       "q": "What was Chips' famous reply about children?",
+       "options": [
+        "That he had thousands of children",
+        "That children did not matter",
+        "That he had one son abroad",
+        "That he regretted teaching"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips replied that he had thousands of children — he meant the boys he had taught over sixty years."
+      },
+      {
+       "q": "Whom did Chips mean by his 'thousands of children'?",
+       "options": [
+        "The boys of his own house only",
+        "His nephews and nieces",
+        "The boys he had taught over sixty years",
+        "The children of the village"
+       ],
+       "answer": 2,
+       "why": "The notes explain that he meant the boys he had taught over sixty years; they were all his children, and he was proud of them."
+      },
+      {
+       "q": "What does Chips' famous remark mean?",
+       "options": [
+        "That a teacher lives on in his pupils",
+        "That teachers should marry early",
+        "That schools should keep records",
+        "That boys never forget Latin"
+       ],
+       "answer": 0,
+       "why": "The notes say the remark means that a teacher lives on in his pupils; Chips had no son, but his influence lived in thousands."
+      },
+      {
+       "q": "Where did Chips' influence live on?",
+       "options": [
+        "In his books and papers",
+        "In thousands of his pupils",
+        "In a building named after him",
+        "Nowhere after his death"
+       ],
+       "answer": 1,
+       "why": "The notes say his influence lived in thousands, though he had no son of his own — the finest tribute to a teacher's life."
+      },
+      {
+       "q": "How is the remark judged in the notes?",
+       "options": [
+        "A sad joke of old age",
+        "A complaint against fate",
+        "A line nobody understood",
+        "The finest tribute to a teacher's life"
+       ],
+       "answer": 3,
+       "why": "The notes call it the finest tribute to a teacher's life, summing up the whole message of the novel."
+      },
+      {
+       "q": "What does the remark sum up?",
+       "options": [
+        "The whole message of the novel",
+        "The history of Brookfield's buildings",
+        "The rules of the school",
+        "The story of Katherine only"
+       ],
+       "answer": 0,
+       "why": "The notes say the remark sums up the whole message of the novel: a teacher lives on in the pupils he has shaped."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15: The Death of Chips",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>How did Chips die?</h4>\n<p><b>Chips</b> died peacefully in his sleep in November 1933. He had lived through the reigns of five kings and two wars. His death was mourned by the whole of <b>Brookfield</b>. Old boys from all over the world sent messages of grief.</p>\n<h4>What was the reaction of Brookfield to his death?</h4>\n<p><b>Brookfield</b> felt it had lost its soul and its memory. The chapel bell tolled and the school stood in silence. Masters and boys felt they had lost a father. His funeral was attended by generations of Brookfield men.</p>\n<h4>What legacy did Chips leave behind?</h4>\n<p><b>Chips</b> left no wealth, only the memory of a good life. He left the example of kindness, humour and duty. He left thousands of pupils who loved and honoured him. His name became a legend at <b>Brookfield</b>.</p>",
+     "mcqs": [
+      {
+       "q": "How did Chips die?",
+       "options": [
+        "In a road accident",
+        "Of a sudden fever in hospital",
+        "During a school function",
+        "Peacefully, in his sleep"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips died peacefully in his sleep in November 1933, mourned by the whole of Brookfield."
+      },
+      {
+       "q": "When did Chips die?",
+       "options": [
+        "In November 1918",
+        "In November 1933",
+        "In November 1925",
+        "In November 1945"
+       ],
+       "answer": 1,
+       "why": "The notes record that he died peacefully in his sleep in November 1933, having lived through five kings' reigns and two wars."
+      },
+      {
+       "q": "Through what had Chips lived, according to the notes?",
+       "options": [
+        "The reigns of two kings and one war",
+        "Three wars and a revolution",
+        "The reigns of five kings and two wars",
+        "Only peaceful times"
+       ],
+       "answer": 2,
+       "why": "The notes say he had lived through the reigns of five kings and two wars — a span covering most of Brookfield's modern history."
+      },
+      {
+       "q": "How did Brookfield feel at Chips' death?",
+       "options": [
+        "That it had lost its soul and its memory",
+        "That an ordinary master had gone",
+        "Relieved that he had retired",
+        "It hardly noticed the loss"
+       ],
+       "answer": 0,
+       "why": "The notes say Brookfield felt it had lost its soul and its memory; the chapel bell tolled and the school stood in silence."
+      },
+      {
+       "q": "What happened at the school when Chips died?",
+       "options": [
+        "The school closed for a year",
+        "A holiday was announced",
+        "The chapel bell tolled and the school stood in silence",
+        "A new Head was elected at once"
+       ],
+       "answer": 2,
+       "why": "The notes say the chapel bell tolled and the school stood in silence; masters and boys felt they had lost a father."
+      },
+      {
+       "q": "What did masters and boys feel they had lost?",
+       "options": [
+        "A father",
+        "A strict examiner",
+        "A wealthy benefactor",
+        "A distant relative"
+       ],
+       "answer": 0,
+       "why": "The notes say masters and boys felt they had lost a father, and his funeral was attended by generations of Brookfield men."
+      },
+      {
+       "q": "Who attended Chips' funeral?",
+       "options": [
+        "Only his family",
+        "Generations of Brookfield men",
+        "Only the school staff",
+        "Nobody of note"
+       ],
+       "answer": 1,
+       "why": "The notes say his funeral was attended by generations of Brookfield men, and old boys from all over the world sent messages of grief."
+      },
+      {
+       "q": "What did Chips leave behind him?",
+       "options": [
+        "A large fortune for the school",
+        "A famous book of memoirs",
+        "A new school building",
+        "No wealth — only the memory of a good life"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips left no wealth, only the memory of a good life and the example of kindness, humour and duty."
+      },
+      {
+       "q": "What example did Chips leave behind?",
+       "options": [
+        "Of kindness, humour and duty",
+        "Of ambition and success",
+        "Of scholarship and fame",
+        "Of wealth and power"
+       ],
+       "answer": 0,
+       "why": "The notes say he left the example of kindness, humour and duty, and thousands of pupils who loved and honoured him."
+      },
+      {
+       "q": "What did Chips' name become at Brookfield?",
+       "options": [
+        "A forgotten name",
+        "A warning to others",
+        "A legend",
+        "A name on a prize cup only"
+       ],
+       "answer": 2,
+       "why": "The notes conclude that his name became a legend at Brookfield, kept alive by the thousands of pupils who loved him."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16: Good-Bye, Mr. Chips — The Title",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>Why is the novel called &#x27;Good-Bye, Mr. Chips&#x27;?</h4>\n<p>The title is the farewell of generations of boys to their teacher. It expresses love, gratitude and sorrow at parting. <b>Chips</b> said goodbye to <b>Brookfield</b> many times, and finally forever. The title captures the affectionate farewell of the whole novel.</p>\n<h4>What is the theme of the novel?</h4>\n<p>The theme is the life of a simple, devoted schoolmaster. It shows how a teacher shapes the lives of thousands. It shows that greatness lies in goodness, not in fame. It celebrates the quiet heroism of ordinary duty.</p>\n<h4>Why is Mr. Chips an unforgettable character?</h4>\n<p><b>Chips</b> is unforgettable because he is human and real. He is funny, shy, kind and wise by turns. Readers see him grow from a nervous young man to a beloved old master. His love for boys and for <b>Brookfield</b> makes him immortal.</p>",
+     "mcqs": [
+      {
+       "q": "Why is the novel called 'Good-Bye, Mr. Chips'?",
+       "options": [
+        "It is the title of Chips' own book",
+        "It is the farewell of generations of boys to their teacher",
+        "It was Katherine's last words",
+        "It names the school song"
+       ],
+       "answer": 1,
+       "why": "The notes say the title is the farewell of generations of boys to their teacher, expressing love, gratitude and sorrow at parting."
+      },
+      {
+       "q": "What does the title express?",
+       "options": [
+        "Pride, victory and fame",
+        "Rules, discipline and order",
+        "Love, gratitude and sorrow at parting",
+        "Wealth, power and success"
+       ],
+       "answer": 2,
+       "why": "The notes say the title expresses love, gratitude and sorrow at parting, capturing the affectionate farewell of the whole novel."
+      },
+      {
+       "q": "How many times did Chips say goodbye to Brookfield?",
+       "options": [
+        "Many times, and finally forever",
+        "Only once, at his death",
+        "Twice, at two retirements",
+        "Never; he never left"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips said goodbye to Brookfield many times, and finally forever, which the title gathers into one farewell."
+      },
+      {
+       "q": "What is the theme of the novel?",
+       "options": [
+        "The wars of the twentieth century",
+        "The history of English schools",
+        "The life of a simple, devoted schoolmaster",
+        "The romance of Katherine Bridges"
+       ],
+       "answer": 2,
+       "why": "The notes say the theme is the life of a simple, devoted schoolmaster and how a teacher shapes the lives of thousands."
+      },
+      {
+       "q": "What does the novel show about a teacher?",
+       "options": [
+        "How a teacher shapes the lives of thousands",
+        "How a teacher grows rich",
+        "How a teacher wins fame",
+        "How a teacher escapes hard work"
+       ],
+       "answer": 0,
+       "why": "The notes say it shows how a teacher shapes the lives of thousands, though he himself remains simple and unknown."
+      },
+      {
+       "q": "Where does greatness lie, according to the novel?",
+       "options": [
+        "In fame, not in goodness",
+        "In goodness, not in fame",
+        "In wealth and position",
+        "In learning and degrees"
+       ],
+       "answer": 1,
+       "why": "The notes say the novel shows that greatness lies in goodness, not in fame, celebrating the quiet heroism of ordinary duty."
+      },
+      {
+       "q": "What does the novel celebrate?",
+       "options": [
+        "The glory of war heroes",
+        "The success of the ambitious",
+        "The romance of youth",
+        "The quiet heroism of ordinary duty"
+       ],
+       "answer": 3,
+       "why": "The notes say it celebrates the quiet heroism of ordinary duty, as shown in the long, simple life of Mr. Chips."
+      },
+      {
+       "q": "Why is Mr. Chips an unforgettable character?",
+       "options": [
+        "Because he is human and real",
+        "Because he was very rich",
+        "Because he was a great scholar",
+        "Because he became a famous Head"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips is unforgettable because he is human and real — funny, shy, kind and wise by turns."
+      },
+      {
+       "q": "How is Chips described in his different moods?",
+       "options": [
+        "Always stern and silent",
+        "Proud, rich and fashionable",
+        "Funny, shy, kind and wise by turns",
+        "Clever, cold and distant"
+       ],
+       "answer": 2,
+       "why": "The notes say he is funny, shy, kind and wise by turns, and readers see him grow from a nervous young man to a beloved old master."
+      },
+      {
+       "q": "From what to what do readers see Chips grow?",
+       "options": [
+        "From a poor boy to a rich man",
+        "From a student to a famous writer",
+        "From a soldier to a general",
+        "From a nervous young man to a beloved old master"
+       ],
+       "answer": 3,
+       "why": "The notes say readers see him grow from a nervous young man to a beloved old master, and his love for boys and Brookfield makes him immortal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 17: Characters in the Novel",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>Describe the character of Mr. Chips.</h4>\n<p><b>Chips</b> was kind, humorous, patient and devoted to duty. He was shy and old-fashioned, but wise and understanding. He loved his boys and remembered them all their lives. His character is a model of a good teacher.</p>\n<h4>Describe the character of Katherine.</h4>\n<p><b>Katherine</b> was young, lively, charming and modern. She loved <b>Chips</b> and changed his life for the better. She was kind to the boys and popular at <b>Brookfield</b>. Her early death left a lasting sorrow in Chips&#x27; life.</p>\n<h4>Who are the other important characters?</h4>\n<p>The Heads of <b>Brookfield</b>, like <b>Ralston</b>, play important roles. Old boys like Colley and others represent generations of pupils. The masters and matrons form the background of school life. Together they create the world of Brookfield.</p>",
+     "mcqs": [
+      {
+       "q": "How is Mr. Chips' character described?",
+       "options": [
+        "Proud, ambitious and severe",
+        "Rich, famous and modern",
+        "Kind, humorous, patient and devoted to duty",
+        "Careless, dull and distant"
+       ],
+       "answer": 2,
+       "why": "The notes describe Chips as kind, humorous, patient and devoted to duty — shy and old-fashioned, but wise and understanding."
+      },
+      {
+       "q": "What less obvious qualities did Chips have?",
+       "options": [
+        "He was shy and old-fashioned, but wise and understanding",
+        "He was bold and modern, but foolish",
+        "He was learned but unkind",
+        "He was strict but unjust"
+       ],
+       "answer": 0,
+       "why": "The notes say he was shy and old-fashioned, but wise and understanding, and he loved his boys and remembered them all their lives."
+      },
+      {
+       "q": "What did Chips remember about his boys?",
+       "options": [
+        "Only their examination marks",
+        "Only the boys of his house",
+        "He remembered them all their lives",
+        "He forgot them after they left"
+       ],
+       "answer": 2,
+       "why": "The notes say he loved his boys and remembered them all their lives; his character is a model of a good teacher."
+      },
+      {
+       "q": "Of what is Chips' character a model?",
+       "options": [
+        "Of a good teacher",
+        "Of a great administrator",
+        "Of a modern reformer",
+        "Of a profound scholar"
+       ],
+       "answer": 0,
+       "why": "The notes conclude that his character is a model of a good teacher — kind, patient, humorous and devoted to duty."
+      },
+      {
+       "q": "How is Katherine described as a character?",
+       "options": [
+        "Old, quiet and traditional",
+        "Young, lively, charming and modern",
+        "Proud, wealthy and stern",
+        "Shy, dull and bookish"
+       ],
+       "answer": 1,
+       "why": "The notes describe Katherine as young, lively, charming and modern; she loved Chips and changed his life for the better."
+      },
+      {
+       "q": "How did Katherine affect Chips' life?",
+       "options": [
+        "She persuaded him to leave Brookfield",
+        "She made him give up his boys",
+        "She had little effect on him",
+        "She changed his life for the better"
+       ],
+       "answer": 3,
+       "why": "The notes say she loved Chips and changed his life for the better; she was kind to the boys and popular at Brookfield."
+      },
+      {
+       "q": "What did Katherine's early death leave in Chips' life?",
+       "options": [
+        "A lasting sorrow",
+        "A wish to remarry",
+        "A hatred of Brookfield",
+        "No effect at all"
+       ],
+       "answer": 0,
+       "why": "The notes say her early death left a lasting sorrow in Chips' life, though her influence stayed with him always."
+      },
+      {
+       "q": "Which Head is named among the other important characters?",
+       "options": [
+        "Wetherby the doctor",
+        "Merivale the Head",
+        "Ralston",
+        "Colley the Head"
+       ],
+       "answer": 2,
+       "why": "The notes say the Heads of Brookfield, like Ralston, play important roles, while old boys like Colley represent generations of pupils."
+      },
+      {
+       "q": "Whom do old boys like Colley represent?",
+       "options": [
+        "The masters of Brookfield",
+        "The governors of the school",
+        "The parents of Brookfield",
+        "Generations of pupils"
+       ],
+       "answer": 3,
+       "why": "The notes say old boys like Colley and others represent generations of pupils in the world of Brookfield."
+      },
+      {
+       "q": "What do the masters and matrons form in the novel?",
+       "options": [
+        "The main heroes of the story",
+        "The background of school life",
+        "The enemies of Chips",
+        "The examiners of the school"
+       ],
+       "answer": 1,
+       "why": "The notes say the masters and matrons form the background of school life, and together all these characters create the world of Brookfield."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 18: Review of the Novel",
+   "lessons": [
+    {
+     "title": "Comprehension Questions",
+     "notes_html": "<h4>What does the novel teach about teaching?</h4>\n<p>It teaches that teaching is not only giving knowledge. It is shaping character and winning hearts. A teacher who loves his pupils succeeds even with old methods. The true reward of teaching is the love of pupils.</p>\n<h4>What does the novel teach about life?</h4>\n<p>It teaches that a quiet life of duty can be a great life. Fame and wealth are not necessary for happiness. Love, humour and service make life meaningful. <b>Chips</b>&#x27; life proves that ordinary people can be heroes.</p>\n<h4>Why is &#x27;Good-Bye, Mr. Chips&#x27; popular in Pakistan?</h4>\n<p>It is popular because its theme is universal. Pakistani students love its humour and its human story. It teaches respect for teachers, a value dear in Pakistan. It has been read by generations of students with delight.</p>",
+     "mcqs": [
+      {
+       "q": "What does the novel teach about teaching?",
+       "options": [
+        "Teaching is not only giving knowledge",
+        "Teaching is only giving knowledge",
+        "Teaching is mainly examinations",
+        "Teaching is a way to earn fame"
+       ],
+       "answer": 0,
+       "why": "The notes say the novel teaches that teaching is not only giving knowledge; it is shaping character and winning hearts."
+      },
+      {
+       "q": "What else is teaching, besides giving knowledge?",
+       "options": [
+        "Keeping discipline by fear",
+        "Finishing the syllabus quickly",
+        "Shaping character and winning hearts",
+        "Preparing boys for office jobs"
+       ],
+       "answer": 2,
+       "why": "The notes say teaching is shaping character and winning hearts, and a teacher who loves his pupils succeeds even with old methods."
+      },
+      {
+       "q": "When does a teacher succeed even with old methods?",
+       "options": [
+        "When he loves his pupils",
+        "When he is very strict",
+        "When he uses new books",
+        "When the Head supports him"
+       ],
+       "answer": 0,
+       "why": "The notes say a teacher who loves his pupils succeeds even with old methods — love, not method, is the secret of Chips' success."
+      },
+      {
+       "q": "What is the true reward of teaching?",
+       "options": [
+        "A high salary",
+        "The love of pupils",
+        "Fame in the newspapers",
+        "Promotion to Headmaster"
+       ],
+       "answer": 1,
+       "why": "The notes say the true reward of teaching is the love of pupils, which Chips received from thousands of boys."
+      },
+      {
+       "q": "What does the novel teach about life?",
+       "options": [
+        "That only famous lives are great",
+        "That wealth brings happiness",
+        "That duty is a burden to escape",
+        "That a quiet life of duty can be a great life"
+       ],
+       "answer": 3,
+       "why": "The notes say it teaches that a quiet life of duty can be a great life, and fame and wealth are not necessary for happiness."
+      },
+      {
+       "q": "What is NOT necessary for happiness, according to the novel?",
+       "options": [
+        "Fame and wealth",
+        "Love and humour",
+        "Duty and service",
+        "Friends and work"
+       ],
+       "answer": 0,
+       "why": "The notes say fame and wealth are not necessary for happiness; love, humour and service make life meaningful."
+      },
+      {
+       "q": "What three things make life meaningful, according to the notes?",
+       "options": [
+        "Fame, wealth and power",
+        "Travel, rest and pleasure",
+        "Love, humour and service",
+        "Books, games and music"
+       ],
+       "answer": 2,
+       "why": "The notes say love, humour and service make life meaningful, and Chips' life proves that ordinary people can be heroes."
+      },
+      {
+       "q": "What does Chips' life prove about ordinary people?",
+       "options": [
+        "That ordinary people are forgotten",
+        "That only scholars matter",
+        "That teachers cannot be heroes",
+        "That ordinary people can be heroes"
+       ],
+       "answer": 3,
+       "why": "The notes say Chips' life proves that ordinary people can be heroes through a quiet life of duty, love and service."
+      },
+      {
+       "q": "Why is 'Good-Bye, Mr. Chips' popular in Pakistan?",
+       "options": [
+        "Because it is a war story",
+        "Because its theme is universal",
+        "Because it is set in Pakistan",
+        "Because it is a book of poems"
+       ],
+       "answer": 1,
+       "why": "The notes say it is popular in Pakistan because its theme is universal, and students love its humour and human story."
+      },
+      {
+       "q": "Which value in the novel is dear in Pakistan?",
+       "options": [
+        "Respect for wealth",
+        "Love of travel",
+        "Respect for teachers",
+        "Interest in examinations"
+       ],
+       "answer": 2,
+       "why": "The notes say it teaches respect for teachers, a value dear in Pakistan, and it has been read by generations of students with delight."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Book Exercises — End of Book (Book p. 50)",
+   "lessons": [
+    {
+     "title": "Book Exercises — End of Book (Book p. 50)",
+     "notes_html": "<h4>Write a note on Brookfield.</h4>\n<p><b>Brookfield</b> was an old English public school, founded in the reign of Queen Elizabeth as a grammar school. It stood in beautiful fenland country, surrounded by ancient elms, with open countryside and plenty of playing grounds. Its main building was rebuilt in the reign of King George I, and under <b>Mr. Wetherby</b> in the mid-nineties it recovered much of its old glory. It never ranked with Eton or Harrow, but it was a good school of the second rank, proud of its traditions.</p>\n<h4>What contribution did Brookfield make to England?</h4>\n<p><b>Brookfield</b> produced judges, professional men, Members of Parliament, colonial administrators, peers and bishops. It also turned out merchants, manufacturers, country squires and parsons who served England in every walk of life. When the First World War broke out in 1914, many of its teachers and boys joined the Armed Forces and many died for England. Its grounds were used for training, so that in peace and in war Brookfield contributed to the glory of England.</p>\n<h4>Draw a character sketch of Mr. Chips.</h4>\n<p><b>Mr. Chips</b>, whose real name was <b>Arthur Chipping</b>, was born in 1848 and joined <b>Brookfield</b> in 1870 at the age of twenty-two. He was a Cambridge graduate, handsome and impressive as a young man, but shy, and at first a strict and rather dull teacher. He was not a profound scholar of Greek and Latin, though he liked to use Latin phrases as tags in his conversation. Over sixty years he grew into a wise, kindly and humorous master, loved by generations of boys, and at last looked upon as an institution.</p>\n<h4>Write a note on Mr. Chips as a teacher.</h4>\n<p><b>Chips</b> taught Latin and Greek at <b>Brookfield</b> for more than sixty years, from 1870 until his retirement and beyond. In his early years he taught by old methods, and the boys played tricks on him, but he bore them patiently and never lost his temper. He won respect by fairness and kindness, by remembering every boy&#x27;s name and face, and by taking interest in their games and troubles. His discipline was firm but gentle, and his quiet authority, humour and personal example kept order better than harsh punishment.</p>\n<h4>Write an account of Mr. Chips&#x27; married life.</h4>\n<p><b>Chips</b> met <b>Katherine Bridges</b> on a walking holiday in the Lake District, when he was forty-eight and she was twenty-five. After a short courtship they married, and Chips enjoyed nearly two years of idyllic married life, the happiest time of his life. Katherine made a new man of him: his discipline improved, his humour bloomed into richness, and he became gentle, wise and popular. Her life was cut short by childbirth, and the child also died; Chips never married again, and Katherine&#x27;s memory stayed with him for the rest of his life.</p>\n<h4>What influence did Katherine Bridges exercise on Mr. Chips?</h4>\n<p><b>Katherine</b> softened <b>Chips</b>&#x27; shyness and made him cheerful, better dressed and open to new ideas. She brought advanced, radical views, learned from Ibsen, Bernard Shaw and William Morris, and shared them with him in friendly argument. She drew him into school life beyond the classroom: matches, social gatherings and music concerts, where she herself was a fine musician. Her influence broadened his outlook, improved his teaching and discipline, and turned a dull old bachelor into a warm, popular master.</p>\n<h4>Describe the first encounter between Mr. Chips and Katherine Bridges.</h4>\n<p><b>Chips</b> met <b>Katherine Bridges</b> during a walking tour in the Lake District, when he was on holiday from <b>Brookfield</b>. He wrenched his ankle in a useless effort to help her, and she attended him during his illness with great kindness. She was twenty-five, a governess out of a job, who rode a bicycle and held advanced views very different from his own. In spite of the difference in age and ideas, they fell in love and married, and the meeting changed Chips&#x27; whole life.</p>\n<h4>Describe the quarrel between Ralston and Chips.</h4>\n<p><b>Mr. Ralston</b> was a young, energetic and modernising Headmaster who thought <b>Chips</b> old-fashioned and out of date. He pressed Chips to retire, believing that the school needed younger men and newer methods, and he spoke of Chips as a joke. Chips stood his ground and refused to be driven out, defending tradition and his long service to the school. In the end Ralston left <b>Brookfield</b>, while Chips remained, and the school recognised that age and experience deserved respect.</p>\n<h4>Write a note on Mr. Chips&#x27; humour.</h4>\n<p><b>Chips</b>&#x27; humour was quaint and gentle, without any malice, and it grew richer as the years passed. He joked with Latin tags, puns and his famous &#x27;umph&#x27;, and the boys laughed with him, never cruelly at him. His remarks became legends at <b>Brookfield</b>, like his answer to Lloyd George and his memory of Colley and the &#x27;Ablative Absolute&#x27;. His humour endeared him to boys and public alike, and it was one reason why everyone came to look upon him as an institution.</p>\n<h4>Can we look upon Mr. Chips as an institution of Brookfield?</h4>\n<p>Yes, <b>Mr. Chips</b> can truly be called an institution of <b>Brookfield</b>, because he served the school for more than sixty years. He taught fathers, sons and even grandsons, and he remembered them all, so that the whole history of the school lived in his memory. Boys, masters, old boys and visitors all treated him as Brookfield itself, and his room, his jokes and his sayings belonged to the school. As the book&#x27;s own notes say, everyone came to look upon him as an institution, and his death left Brookfield feeling that it had lost its soul.</p>\n<h4>Draw a character sketch of Katherine Bridges.</h4>\n<p><b>Katherine Bridges</b> was twenty-five when she met <b>Mr. Chips</b>, and she was exceedingly beautiful. She was a governess out of a job, who rode a bicycle, which was not much liked by the men of Victorian times. She held advanced and radical ideas, learned from Ibsen, Bernard Shaw and William Morris, and she could be called a radical socialist. She was more intelligent and brainy than Chips, became very popular at <b>Brookfield</b>, and her life was cut short by childbirth.</p>\n<h4>Write a short note on views and ideas of Katherine Bridges.</h4>\n<p><b>Katherine</b> believed in modern, progressive ideas and in freedom from stiff Victorian conventions. She admired Ibsen, Bernard Shaw and William Morris, and she held radical, even socialist, views on society and education. She thought education should be broad and human, and she encouraged <b>Chips</b> to take interest in games, music and social life. She put her ideas into practice at <b>Brookfield</b>, where she shared in matches, concerts and gatherings, and she won the love of boys and masters alike.</p>\n<h4>(a). Write a brief note on Mr. Wetherby.</h4>\n<p><b>Mr. Wetherby</b> was one of the early Heads of <b>Brookfield</b> in <b>Chips</b>&#x27; time, an old man when Chips joined the school. He observed that Brookfield was an old Elizabethan foundation, and under him in the mid-nineties the school recovered most of its glory. Chips remembered Brookfield in Wetherby&#x27;s time, and Wetherby&#x27;s long headship belonged to the school&#x27;s older, quieter days. He represents the traditional Brookfield that Chips himself served and loved.</p>\n<h4>(b). Write a brief note on Mr. Meldrum.</h4>\n<p><b>Mr. Meldrum</b> was a Headmaster of <b>Brookfield</b> who followed <b>Mr. Wetherby</b> in the school&#x27;s history. He belonged to the line of Heads under whom <b>Chips</b> served during his long career at the school. Like the other Heads, he presided over Brookfield while Chips quietly taught Latin and Greek and grew in the boys&#x27; affection. His headship forms part of the background of steady school life against which Chips&#x27; character develops.</p>\n<h4>(c). Write a brief note on Mr. Ralston.</h4>\n<p><b>Mr. Ralston</b> was a young, ambitious Headmaster who wanted to modernise <b>Brookfield</b> and sweep away its old ways. He regarded <b>Chips</b> as old-fashioned, pressed him to retire, and quarrelled with him over tradition and discipline. Chips refused to give way, and the quarrel ended with Ralston leaving Brookfield while Chips stayed on. Ralston stands for hasty modernisation, against which the novel sets Chips&#x27; wisdom and love of tradition.</p>\n<h4>(d). Write a brief note on Mr. Chatteris.</h4>\n<p><b>Mr. Chatteris</b> was a kind and friendly Headmaster of <b>Brookfield</b>, and a friend of <b>Chips</b>. When he fell ill and died during the First World War years, Chips was asked to take his place and help the school. Chips&#x27; service as acting Head in wartime, reading out the names of the fallen, belongs to the Chatteris period. He is remembered as a humane Head whose death brought Chips back into the full life of the school.</p>\n<h4>(e). Write a brief note on Mr. Merivale.</h4>\n<p><b>Mr. Merivale</b> was the <b>Brookfield</b> doctor and a close friend of old <b>Chips</b>. He called every fortnight or so, sipped a glass of sherry, and assured Chips that he was fitter than himself. He said Chips was past the age of horrible diseases and would die a really natural death, if he died at all. Yet he sometimes whispered to <b>Mrs. Wickett</b> to look after Chips, because his chest put a strain on his heart.</p>\n<h4>(f). Write a brief note on Mrs. Wickett.</h4>\n<p><b>Mrs. Wickett</b> was <b>Chips</b>&#x27; landlady, who kept house for him just across the road from <b>Brookfield</b>. After Chips gave up his mastership, he lived at her house for more than a decade, and she looked after him in his old age. Chips would call out to her in his jerky, high-pitched voice to bring him a cup of tea before prep. She cared for him faithfully, and <b>Merivale</b> trusted her to watch over Chips&#x27; health in his last years.</p>",
+     "mcqs": [
+      {
+       "q": "When was Brookfield founded?",
+       "options": [
+        "In the reign of King George I",
+        "In the reign of Queen Victoria",
+        "In the reign of Queen Elizabeth, as a grammar school",
+        "In the reign of King Henry VIII"
+       ],
+       "answer": 2,
+       "why": "The notes say Brookfield was an old English public school, founded in the reign of Queen Elizabeth as a grammar school."
+      },
+      {
+       "q": "In whose reign was Brookfield's main building rebuilt?",
+       "options": [
+        "In the reign of King George I",
+        "In the reign of Queen Elizabeth",
+        "In the reign of Queen Victoria",
+        "In the reign of King George V"
+       ],
+       "answer": 0,
+       "why": "The notes say its main building was rebuilt in the reign of King George I, and under Mr. Wetherby in the mid-nineties it recovered its old glory."
+      },
+      {
+       "q": "Under which Head did Brookfield recover much of its old glory in the mid-nineties?",
+       "options": [
+        "Mr. Ralston",
+        "Mr. Wetherby",
+        "Mr. Meldrum",
+        "Mr. Chatteris"
+       ],
+       "answer": 1,
+       "why": "The notes say that under Mr. Wetherby in the mid-nineties the school recovered much of its old glory, though it never ranked with Eton or Harrow."
+      },
+      {
+       "q": "How is Brookfield ranked among schools?",
+       "options": [
+        "The finest school in England",
+        "A poor school of no rank",
+        "Equal in rank to Eton and Harrow",
+        "A good school of the second rank"
+       ],
+       "answer": 3,
+       "why": "The notes say it never ranked with Eton or Harrow, but it was a good school of the second rank, proud of its traditions."
+      },
+      {
+       "q": "In which year was Mr. Chips born?",
+       "options": [
+        "1848",
+        "1850",
+        "1840",
+        "1860"
+       ],
+       "answer": 0,
+       "why": "The notes say Mr. Chips, whose real name was Arthur Chipping, was born in 1848 and joined Brookfield in 1870 at the age of twenty-two."
+      },
+      {
+       "q": "How old were Chips and Katherine when they met?",
+       "options": [
+        "He was twenty-two and she was twenty",
+        "He was sixty and she was forty",
+        "He was forty-eight and she was twenty-five",
+        "He was forty and she was thirty-five"
+       ],
+       "answer": 2,
+       "why": "The notes say Chips met Katherine Bridges on a walking holiday in the Lake District when he was forty-eight and she was twenty-five."
+      },
+      {
+       "q": "What accident happened at Chips' first meeting with Katherine?",
+       "options": [
+        "He fell into a lake",
+        "He lost his way in the hills",
+        "His bicycle broke down",
+        "He wrenched his ankle in a useless effort to help her"
+       ],
+       "answer": 3,
+       "why": "The notes say he wrenched his ankle in a useless effort to help her, and she attended him during his illness with great kindness."
+      },
+      {
+       "q": "From which writers did Katherine learn her advanced views?",
+       "options": [
+        "Shakespeare, Milton and Wordsworth",
+        "Ibsen, Bernard Shaw and William Morris",
+        "Dickens, Hardy and Kipling",
+        "Plato, Aristotle and Cicero"
+       ],
+       "answer": 1,
+       "why": "The notes say she brought advanced, radical views learned from Ibsen, Bernard Shaw and William Morris, sharing them with Chips in friendly argument."
+      },
+      {
+       "q": "What did Ralston press Chips to do?",
+       "options": [
+        "To become Headmaster",
+        "To teach modern subjects",
+        "To retire, as he thought Chips old-fashioned and out of date",
+        "To leave his house near the school"
+       ],
+       "answer": 2,
+       "why": "The notes say Mr. Ralston, a young modernising Headmaster, pressed Chips to retire, believing the school needed younger men and newer methods."
+      },
+      {
+       "q": "How did the quarrel between Ralston and Chips end?",
+       "options": [
+        "Ralston left Brookfield, while Chips remained",
+        "Chips left Brookfield in anger",
+        "Both of them resigned",
+        "The boys settled the quarrel"
+       ],
+       "answer": 0,
+       "why": "The notes say Chips stood his ground and refused to be driven out; in the end Ralston left Brookfield while Chips remained."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
