@@ -1,0 +1,2592 @@
+{
+ "book": "pctb-c6-computer-science-en",
+ "chapters": [
+  {
+   "title": "Unit 1: ICT Fundamentals",
+   "lessons": [
+    {
+     "title": "ICT and Its Devices",
+     "notes_html": "<h4>What is ICT?</h4>\n<p><b>ICT</b> stands for <b>Information and Communication Technology</b>. It is an umbrella term that includes all the computing tools and communication devices — such as computers, cell phones, television, satellite systems and the internet — that let people share information in the digital world. We use ICT to study through distance learning and video lessons, to talk through calls and video conferencing, to work and run businesses, and to get information quickly from anywhere.</p>\n<h4>Data and Information</h4>\n<p><b>Data</b> is a raw collection of facts and figures which has no proper meaning by itself, for example the marks of students written as 45, 67, 89. When this data is processed and arranged in a meaningful form, it becomes <b>information</b>, for example a result card showing that a student passed with 89 marks in Mathematics. So data is the raw input and information is the useful processed output.</p>\n<h4>Devices of ICT</h4>\n<p>Five common ICT devices are the <b>computer</b>, <b>smart phone</b>, <b>television</b>, <b>scanner</b> and <b>printer</b>. Other ICT devices include tablets, digital cameras, GPS devices and radios. All these devices are used to create, store, process and communicate information.</p>\n<h4>Functions of Some ICT Devices</h4>\n<ul>\n<li><b>Printer</b> (output device): produces a hard copy of documents and pictures on paper.</li>\n<li><b>Keyboard</b> (input device): enters data and instructions by typing letters, numbers and symbols; it also has function keys, cursor control keys and a numeric keypad.</li>\n<li><b>Scanner</b> (input device): converts hard copy documents and photographs into digital form so they can be edited, saved, printed or shared by email.</li>\n<li><b>Monitor</b> (output device): also called a visual display unit; it displays text, pictures and videos — whatever we type or draw appears on its screen.</li>\n<li><b>Smart phone</b>: combines a mobile phone with a small computer; it is used for calls and messages, the internet, photos and videos, online learning, GPS navigation and many useful apps.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "ICT stands for:",
+       "options": [
+        "Information and Computer Technology",
+        "Information and Communication Technology",
+        "Internet and Communication Tools",
+        "Information and Calculation Technology"
+       ],
+       "answer": 1,
+       "why": "ICT stands for Information and Communication Technology — the set of computing tools and communication devices used to share information in the digital world."
+      },
+      {
+       "q": "Raw facts and figures which have no proper meaning by themselves are called:",
+       "options": [
+        "Information",
+        "Software",
+        "Data",
+        "Instructions"
+       ],
+       "answer": 2,
+       "why": "Data is a raw collection of facts and figures, such as marks written as 45, 67, 89, which has no proper meaning by itself until it is processed."
+      },
+      {
+       "q": "When data is processed and arranged in a meaningful form, it becomes:",
+       "options": [
+        "Information",
+        "Hardware",
+        "A program",
+        "A device"
+       ],
+       "answer": 0,
+       "why": "Processed, meaningful data is called information — for example a result card prepared from raw marks. Data is the raw input and information is the useful processed output."
+      },
+      {
+       "q": "Which of the following is an output device?",
+       "options": [
+        "Keyboard",
+        "Scanner",
+        "Microphone",
+        "Printer"
+       ],
+       "answer": 3,
+       "why": "A printer is an output device because it produces the result of processing as a hard copy on paper. Keyboard, scanner and microphone are input devices."
+      },
+      {
+       "q": "The function of a scanner is to:",
+       "options": [
+        "Print documents on paper",
+        "Convert hard copy documents into digital form",
+        "Display output on a screen",
+        "Enter sound into the computer"
+       ],
+       "answer": 1,
+       "why": "A scanner converts hard copy documents, photographs and images into digital form and stores them in the computer, after which they can be edited, saved, printed or shared."
+      },
+      {
+       "q": "A monitor is also called a:",
+       "options": [
+        "Central Processing Unit",
+        "Visual Display Unit",
+        "Memory Unit",
+        "Control Unit"
+       ],
+       "answer": 1,
+       "why": "The monitor is also called a Visual Display Unit (VDU) because it displays the output of processing — text, pictures and videos — in a form we can see."
+      },
+      {
+       "q": "Which device combines a mobile phone with a small computer?",
+       "options": [
+        "Scanner",
+        "Television",
+        "Smart phone",
+        "Printer"
+       ],
+       "answer": 2,
+       "why": "A smart phone combines a mobile phone with a small computer; it is used for calls, messages, internet, photos, online learning and GPS navigation."
+      },
+      {
+       "q": "Which of the following is an ICT device?",
+       "options": [
+        "Electric iron",
+        "Television",
+        "Scissors",
+        "Broom"
+       ],
+       "answer": 1,
+       "why": "A television creates and communicates information, so it is an ICT device. An electric iron and scissors are ordinary household tools that neither process nor communicate information."
+      },
+      {
+       "q": "The numeric keypad and function keys are parts of the:",
+       "options": [
+        "Monitor",
+        "Mouse",
+        "Scanner",
+        "Keyboard"
+       ],
+       "answer": 3,
+       "why": "A keyboard has typewriter keys, function keys (F1-F12), cursor control keys and a numeric keypad, all used to enter data and give commands."
+      },
+      {
+       "q": "ICT helps us in everyday life because it lets us:",
+       "options": [
+        "Study through distance learning and video lessons",
+        "Avoid all school work",
+        "Stop reading books completely",
+        "Work without any device"
+       ],
+       "answer": 0,
+       "why": "ICT is helpful in everyday life: we study through distance learning and video lessons, meet through calls and video conferencing, run businesses and get information quickly from anywhere."
+      }
+     ]
+    },
+    {
+     "title": "Hardware, Software and the CPU",
+     "notes_html": "<h4>Basic Components of a Computer</h4>\n<p>The basic components of a computer are: (1) <b>Input devices</b>, used to enter data, (2) <b>Output devices</b>, used to display the result, (3) <b>Memory Unit</b>, which stores data and instructions, (4) <b>Control Unit</b>, which controls all operations, and (5) <b>Arithmetic and Logical Unit (ALU)</b>, which performs calculations and logical decisions. Together these parts accept data, process it and produce information.</p>\n<h4>Why the CPU is Called the Brain</h4>\n<p>The <b>CPU</b> (Central Processing Unit) is called the <b>brain of the computer</b> because, like the human brain, it controls and directs every activity of the computer. It receives data and instructions, performs all calculations and logical decisions through its ALU, and controls the working of all other parts through its Control Unit. No task in a computer can be done without the CPU.</p>\n<h4>What is Software?</h4>\n<p>A set of instructions given to a computer to perform a specific task is called <b>software</b>. Software cannot be touched; it only tells the hardware what to do. This unit discusses three types of software.</p>\n<h4>Three Types of Software</h4>\n<ul>\n<li><b>System software</b>: designed to run the computer's hardware and provide a platform for other programs. The <b>operating system</b> is its best example.</li>\n<li><b>Application software</b>: performs specific tasks for the user, such as MS Word for documents, MS Office, web browsers and image editors.</li>\n<li><b>Driver software</b> (device driver): controls the devices and peripherals connected to the computer, such as printers, scanners and game controllers, and enables them to perform their specific tasks.</li>\n</ul>\n<h4>Hardware and Software</h4>\n<table>\n<tr><th>Hardware</th><th>Software</th></tr>\n<tr><td>The physical and tangible parts of a computer that can be seen and touched, e.g. monitor, keyboard, mouse, CPU, printer.</td><td>A set of instructions, data or programs that cannot be touched; it tells the computer how to function, e.g. Windows, MS Office, games.</td></tr>\n</table>\n<p>Hardware and software are mutually dependent: hardware is useless without software, and software cannot run without hardware. Both must work together to produce a useful output.</p>",
+     "mcqs": [
+      {
+       "q": "A set of instructions given to a computer to perform a specific task is called:",
+       "options": [
+        "Hardware",
+        "Software",
+        "Memory",
+        "A device"
+       ],
+       "answer": 1,
+       "why": "Software is a set of instructions, data or programs that tells the computer how to function. It cannot be touched, unlike hardware which is physical."
+      },
+      {
+       "q": "Software that is designed to run the computer's hardware is called:",
+       "options": [
+        "Application software",
+        "Utility software",
+        "System software",
+        "Embedded software"
+       ],
+       "answer": 2,
+       "why": "System software is designed to run the computer hardware and provide a platform for other programs; the operating system is its best example."
+      },
+      {
+       "q": "An operating system is an example of:",
+       "options": [
+        "System software",
+        "Application software",
+        "Driver software",
+        "A game"
+       ],
+       "answer": 0,
+       "why": "The operating system is the best example of system software because it runs the computer's hardware and provides the platform on which other programs work."
+      },
+      {
+       "q": "MS Office is an example of:",
+       "options": [
+        "System software",
+        "Driver software",
+        "Operating system",
+        "Application software"
+       ],
+       "answer": 3,
+       "why": "MS Office performs specific tasks for the user, such as preparing documents and presentations, so it is application software."
+      },
+      {
+       "q": "Driver software is used to:",
+       "options": [
+        "Write documents",
+        "Control devices such as printers and scanners",
+        "Play games",
+        "Browse the internet"
+       ],
+       "answer": 1,
+       "why": "Driver software, also called a device driver, controls the devices and peripherals connected to the computer — printers, scanners, game controllers — so they can perform their tasks."
+      },
+      {
+       "q": "The CPU is called the brain of the computer because it:",
+       "options": [
+        "Stores all the files",
+        "Displays pictures on the screen",
+        "Controls and directs every activity of the computer",
+        "Prints documents"
+       ],
+       "answer": 2,
+       "why": "Like the human brain, the CPU controls and directs every activity: it performs calculations through the ALU and controls all other parts through the Control Unit."
+      },
+      {
+       "q": "Calculations and logical decisions in a computer are performed by the:",
+       "options": [
+        "ALU",
+        "Memory Unit",
+        "Monitor",
+        "Keyboard"
+       ],
+       "answer": 0,
+       "why": "The Arithmetic and Logical Unit (ALU) performs all calculations and logical decisions, while the Control Unit controls operations and the Memory Unit stores data."
+      },
+      {
+       "q": "Which of the following can be seen and touched?",
+       "options": [
+        "Windows",
+        "MS Office",
+        "Monitor",
+        "A game program"
+       ],
+       "answer": 2,
+       "why": "A monitor is hardware — a physical, tangible part that can be seen and touched. Windows, MS Office and games are software, which cannot be touched."
+      },
+      {
+       "q": "Which part of the computer stores data and instructions?",
+       "options": [
+        "Control Unit",
+        "Memory Unit",
+        "Output Unit",
+        "ALU"
+       ],
+       "answer": 1,
+       "why": "The Memory Unit stores data and instructions. The Control Unit controls all operations and the ALU performs calculations and logical decisions."
+      },
+      {
+       "q": "Hardware and software are:",
+       "options": [
+        "The same thing",
+        "Never used together",
+        "Enemies of each other",
+        "Mutually dependent on each other"
+       ],
+       "answer": 3,
+       "why": "Hardware is useless without software, and software cannot run without hardware; both must work together to produce a useful output."
+      }
+     ]
+    },
+    {
+     "title": "Generations of Computers",
+     "notes_html": "<h4>First Generation</h4>\n<p>First generation computers used <b>vacuum tubes</b>. They were very large in size, slow in speed and produced a lot of heat, and they were mainly used for scientific and military calculations. Three well-known computers of the first generation are <b>ENIAC</b>, <b>UNIVAC</b> and <b>EDVAC</b>. <b>Charles Babbage</b> is called the father of the computer.</p>\n<h4>Second and Third Generations</h4>\n<p>Second generation computers (about 1956–1963) used <b>transistors</b> instead of vacuum tubes, so they were smaller, faster, cheaper and produced less heat than first generation machines. Third generation computers (about 1964–1971) used <b>Integrated Circuits (ICs)</b>, in which many transistors were placed on a single small chip. As a result they became even smaller, more reliable and faster, and able to run many programs, while second generation computers were comparatively bigger and slower.</p>\n<h4>Fifth Generation</h4>\n<p>The fifth generation of computers is based on <b>Artificial Intelligence (AI)</b> and very large scale chips (<b>ULSI</b>). These computers can learn from experience, understand natural human language, recognise voices and images, and take decisions like experts. Examples include robots, expert systems, voice assistants and modern smart devices. Their goal is to make computers that can think and reason like humans.</p>",
+     "mcqs": [
+      {
+       "q": "First generation computers used:",
+       "options": [
+        "Transistors",
+        "Integrated Circuits",
+        "Vacuum tubes",
+        "ULSI chips"
+       ],
+       "answer": 2,
+       "why": "First generation computers used vacuum tubes; they were very large, slow and produced a lot of heat. Transistors came in the second generation and ICs in the third."
+      },
+      {
+       "q": "Which of the following is a first generation computer?",
+       "options": [
+        "ENIAC",
+        "IBM PC",
+        "A laptop",
+        "A smart phone"
+       ],
+       "answer": 0,
+       "why": "ENIAC, UNIVAC and EDVAC are the well-known first generation computers, mainly used for scientific and military calculations."
+      },
+      {
+       "q": "Second generation computers used:",
+       "options": [
+        "Vacuum tubes",
+        "Transistors",
+        "Microprocessors",
+        "Artificial Intelligence"
+       ],
+       "answer": 1,
+       "why": "Second generation computers (about 1956–1963) used transistors instead of vacuum tubes, making them smaller, faster, cheaper and cooler."
+      },
+      {
+       "q": "Third generation computers used:",
+       "options": [
+        "Vacuum tubes",
+        "Transistors",
+        "Integrated Circuits",
+        "Paper cards"
+       ],
+       "answer": 2,
+       "why": "Third generation computers (about 1964–1971) used Integrated Circuits (ICs), in which many transistors were placed on a single small chip."
+      },
+      {
+       "q": "An Integrated Circuit (IC) is:",
+       "options": [
+        "A single vacuum tube",
+        "Many transistors placed on a single small chip",
+        "A type of printer",
+        "A storage device"
+       ],
+       "answer": 1,
+       "why": "In an IC, many transistors are placed on a single small chip, which made third generation computers smaller, more reliable and faster."
+      },
+      {
+       "q": "The fifth generation of computers is based on:",
+       "options": [
+        "Vacuum tubes",
+        "Transistors",
+        "Integrated Circuits",
+        "Artificial Intelligence"
+       ],
+       "answer": 3,
+       "why": "Fifth generation computers are based on Artificial Intelligence (AI) and ULSI chips; they can learn, understand natural language and recognise voices and images."
+      },
+      {
+       "q": "ULSI chips are used in:",
+       "options": [
+        "Fifth generation computers",
+        "First generation computers",
+        "Second generation computers",
+        "Third generation computers"
+       ],
+       "answer": 0,
+       "why": "Fifth generation computers use very large scale chips (ULSI) together with Artificial Intelligence, as in robots, expert systems and voice assistants."
+      },
+      {
+       "q": "Who is called the father of the computer?",
+       "options": [
+        "Pascal",
+        "Howard Aiken",
+        "Charles Babbage",
+        "Al-Khwarizmi"
+       ],
+       "answer": 2,
+       "why": "Charles Babbage is called the father of the computer because of his pioneering work on the design of programmable computing machines."
+      },
+      {
+       "q": "Fifth generation computers can:",
+       "options": [
+        "Only add numbers",
+        "Understand natural human language and recognise voices",
+        "Work without electricity",
+        "Print without a printer"
+       ],
+       "answer": 1,
+       "why": "Fifth generation computers can learn from experience, understand natural human language, recognise voices and images, and take decisions like experts."
+      },
+      {
+       "q": "First generation computers were mainly used for:",
+       "options": [
+        "Playing games",
+        "Watching videos",
+        "Chatting with friends",
+        "Scientific and military calculations"
+       ],
+       "answer": 3,
+       "why": "Because of their huge size, slow speed and great heat, first generation computers were mainly used for scientific and military calculations."
+      }
+     ]
+    },
+    {
+     "title": "Uses and Effects of ICT",
+     "notes_html": "<h4>ICT in Business</h4>\n<p>In business, ICT devices make work faster, cheaper and more accurate. Computers are used for design, manufacturing, research and development, accounts and record keeping. The internet helps in online buying and selling, advertising and collecting customer feedback. ICT also improves decision making, increases productivity, improves customer services and helps a business compete in the market.</p>\n<h4>ICT in Manufacturing Industries</h4>\n<p>ICT devices have revolutionised the manufacturing industry. Robots and computer-controlled machines are used for welding car parts, paint spraying cars, manufacturing microchips, lifting heavy parts of cars, packing goods into boxes, CPU manufacturing, 3D printing and even washing cars. This has increased productivity, improved the quality of products and saved production time, because machines can work continuously with accuracy.</p>\n<h4>Navigation Systems</h4>\n<p>Navigation systems are used for monitoring and controlling the movement of a craft or vehicle from one place to another. They are used in land navigation (cars and trains), marine navigation (ships), aeronautic navigation (aeroplanes) and space navigation (spacecraft). The system works with the help of satellites (<b>GPS</b>): the device receives signals from satellites, finds its exact location on the Earth, and then guides the driver or pilot along the correct route on a digital map.</p>\n<h4>Advantages of ICT</h4>\n<ul>\n<li>ICT is eco-friendly because it has reduced the use of paper.</li>\n<li>It has improved teaching and learning through online classes and digital material.</li>\n<li>It has automated manual processes, so work is done quickly and with fewer mistakes.</li>\n<li>It connects students, teachers and researchers all over the world.</li>\n<li>It provides independent learning platforms, so a student can learn at his own pace from home.</li>\n</ul>\n<h4>Disadvantages of ICT</h4>\n<ul>\n<li>Misleading and wrong information can spread easily.</li>\n<li>There is a risk of cyber-attacks and hacking.</li>\n<li>Traditional book reading and handwriting habits are decreasing.</li>\n<li>Managing online courses can be difficult for teachers.</li>\n<li>ICT devices are not accessible everywhere; implementation is expensive and expert persons are needed to handle them.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The system used to control and monitor the movement of cars and craft is called:",
+       "options": [
+        "Communication system",
+        "Navigation system",
+        "Environment system",
+        "Printing system"
+       ],
+       "answer": 1,
+       "why": "A navigation system monitors and controls the movement of a vehicle or craft from one place to another, guiding it along the correct route."
+      },
+      {
+       "q": "A navigation system finds the exact location of a device with the help of:",
+       "options": [
+        "Printers",
+        "Satellites (GPS)",
+        "Scanners",
+        "Cables"
+       ],
+       "answer": 1,
+       "why": "The navigation device receives signals from satellites (GPS), finds its exact location on the Earth, and guides the driver or pilot on a digital map."
+      },
+      {
+       "q": "Navigation used in ships is called:",
+       "options": [
+        "Land navigation",
+        "Space navigation",
+        "Marine navigation",
+        "Aeronautic navigation"
+       ],
+       "answer": 2,
+       "why": "Navigation in ships is marine navigation; cars and trains use land navigation, aeroplanes use aeronautic navigation and spacecraft use space navigation."
+      },
+      {
+       "q": "In manufacturing industries, robots are used for:",
+       "options": [
+        "Welding car parts and 3D printing",
+        "Teaching students",
+        "Writing letters",
+        "Making phone calls"
+       ],
+       "answer": 0,
+       "why": "Robots and computer-controlled machines weld car parts, spray paint, manufacture microchips, lift heavy parts, pack goods and do 3D printing with accuracy."
+      },
+      {
+       "q": "ICT is eco-friendly because it has:",
+       "options": [
+        "Increased the use of paper",
+        "Reduced the use of paper",
+        "Stopped all printing forever",
+        "Planted trees itself"
+       ],
+       "answer": 1,
+       "why": "ICT has eliminated much of the use of paper — documents are shared digitally — which makes it eco-friendly, as the book's exercise also states."
+      },
+      {
+       "q": "Which of the following is an advantage of ICT?",
+       "options": [
+        "Cyber-attacks increase",
+        "Wrong information spreads easily",
+        "It connects students, teachers and researchers worldwide",
+        "Book reading habits decrease"
+       ],
+       "answer": 2,
+       "why": "Connecting students, teachers and researchers all over the world is an advantage of ICT; cyber-attacks, misleading information and declining reading habits are disadvantages."
+      },
+      {
+       "q": "Which of the following is a disadvantage of ICT?",
+       "options": [
+        "Risk of cyber-attacks and hacking",
+        "Faster work",
+        "Online classes",
+        "Learning at your own pace"
+       ],
+       "answer": 0,
+       "why": "The risk of cyber-attacks and hacking is a disadvantage of ICT devices, along with misleading information and expensive implementation."
+      },
+      {
+       "q": "In business, the internet helps in:",
+       "options": [
+        "Only printing bills",
+        "Online buying and selling and advertising",
+        "Closing the business early",
+        "Avoiding customers"
+       ],
+       "answer": 1,
+       "why": "In business the internet helps in online buying and selling, advertising and collecting customer feedback, which improves sales and customer services."
+      },
+      {
+       "q": "For attending an online class, the input devices used are:",
+       "options": [
+        "Printer and scanner",
+        "Monitor and speakers",
+        "Microphone and camera",
+        "Plotter and printer"
+       ],
+       "answer": 2,
+       "why": "In an online class the microphone and camera send our voice and picture (input), while the monitor and speakers show and play the class (output)."
+      },
+      {
+       "q": "ICT has automated manual processes, which means work is now done:",
+       "options": [
+        "More slowly",
+        "Quickly and with fewer mistakes",
+        "Only by hand",
+        "Without computers"
+       ],
+       "answer": 1,
+       "why": "Automation of manual processes is an advantage of ICT: work is done quickly and with fewer mistakes than before."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Components of Computer System",
+   "lessons": [
+    {
+     "title": "Input Devices",
+     "notes_html": "<h4>What are Input Devices?</h4>\n<p><b>Input devices</b> are the devices used to enter data and instructions into a computer. Data entered through them is converted into a form the computer can understand and process. Examples are the keyboard, mouse, scanner, microphone, joystick, light pen, digital camera and barcode reader.</p>\n<h4>The Keyboard</h4>\n<p>The keyboard is the most common and popular input device. It is used to input text, numbers and commands by pressing keys, and its layout is like that of a traditional typewriter with additional keys for special functions. It has typewriter keys, function keys (F1–F12), cursor control keys and a numeric keypad. Keyboards with 84, 101/102, 104 or 108 keys are commonly available.</p>\n<h4>Mouse and Joystick</h4>\n<p>A <b>mouse</b> is a pointing input device that moves the cursor on the screen and is used to select, click, drag and draw objects; it is used with almost every computer. A <b>joystick</b> is also a pointing device with a stick that moves in all directions, but it is mainly used for playing games and controlling machines and simulators.</p>\n<h4>Light Pen, Scanner and Barcode Reader</h4>\n<p>A <b>light pen</b> is a pen-shaped input device with a light-sensitive element called a <b>photocell</b> at its tip. When the pen touches the screen, the photocell senses the light and finds the exact position, so the user can draw, write or select objects directly on the screen. A <b>scanner</b> converts a hard copy document or photograph into digital form; we use it to save paper documents safely, edit pictures, send documents by email and make soft copies of old photographs and certificates. A <b>barcode reader</b> is used in shops: it throws a light beam on the barcode printed on a product and senses the reflected light; the pattern of black lines is converted into numbers, and the computer finds the name and price of the product instantly and prepares the bill. <b>OCR</b> stands for Optical Character Reader.</p>\n<h4>Sensors</h4>\n<p><b>Sensors</b> are special input devices that detect changes in the environment, such as light, heat, sound, pressure, motion and temperature, and send this information to a computer or machine. Types of sensors include sound sensors, pressure sensors and light sensors. We use sensors in smart phones, automatic doors, weather stations, fire alarms, cars, robots and scientific experiments. They help machines respond automatically to their surroundings without human help.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is NOT an input device?",
+       "options": [
+        "Keyboard",
+        "Speaker",
+        "Mouse",
+        "Scanner"
+       ],
+       "answer": 1,
+       "why": "A speaker gives out sound, so it is an output device. Keyboard, mouse and scanner are all used to enter data into the computer."
+      },
+      {
+       "q": "The sensing element in a light pen is called a:",
+       "options": [
+        "Photocell",
+        "Sensor chip",
+        "Light bulb",
+        "Lens"
+       ],
+       "answer": 0,
+       "why": "A light pen has a light-sensitive element called a photocell at its tip; it senses the light from the screen and finds the exact position of the pen."
+      },
+      {
+       "q": "The input device used to transfer a hard copy into a computer is the:",
+       "options": [
+        "Mouse",
+        "Joystick",
+        "Scanner",
+        "Keyboard"
+       ],
+       "answer": 2,
+       "why": "A scanner converts a hard copy document, photograph or image into digital form and sends it into the computer."
+      },
+      {
+       "q": "The device used to input sound into the computer is the:",
+       "options": [
+        "Speaker",
+        "Light pen",
+        "Joystick",
+        "Microphone"
+       ],
+       "answer": 3,
+       "why": "A microphone inputs sound into the computer. A speaker does the opposite — it is an output device that plays sound out."
+      },
+      {
+       "q": "OCR stands for:",
+       "options": [
+        "Optical Correct Reading",
+        "Optical Character Reader",
+        "Optimal Copy Reading",
+        "Online Character Reading"
+       ],
+       "answer": 1,
+       "why": "OCR stands for Optical Character Reader — the technology that reads printed characters and converts them into digital form."
+      },
+      {
+       "q": "Which of the following is a type of sensor?",
+       "options": [
+        "Light sensor",
+        "Monitor",
+        "Printer",
+        "Speaker"
+       ],
+       "answer": 0,
+       "why": "Sound sensors, pressure sensors and light sensors are types of sensors. Monitors, printers and speakers are output devices, not sensors."
+      },
+      {
+       "q": "A barcode reader finds the price of a product by:",
+       "options": [
+        "Typing the name manually",
+        "Sensing the reflected light from the barcode pattern",
+        "Taking a photograph of the shop",
+        "Asking the shopkeeper"
+       ],
+       "answer": 1,
+       "why": "The reader throws a light beam on the barcode and senses the reflected light; the pattern converts into numbers which the computer matches with its record to find the name and price."
+      },
+      {
+       "q": "A joystick is mainly used for:",
+       "options": [
+        "Typing documents",
+        "Printing pictures",
+        "Playing games and controlling simulators",
+        "Scanning photographs"
+       ],
+       "answer": 2,
+       "why": "A joystick is a pointing device with a stick that moves in all directions; it is mainly used for playing games and controlling machines and simulators."
+      },
+      {
+       "q": "Sensors are used in:",
+       "options": [
+        "Fire alarms and automatic doors",
+        "Only in televisions",
+        "Only in printers",
+        "Nowhere in daily life"
+       ],
+       "answer": 0,
+       "why": "Sensors are used in smart phones, automatic doors, weather stations, fire alarms, cars, robots and scientific experiments to detect changes in the environment."
+      },
+      {
+       "q": "Function keys on a keyboard are labelled:",
+       "options": [
+        "A1–A12",
+        "F1–F12",
+        "Z1–Z12",
+        "K1–K12"
+       ],
+       "answer": 1,
+       "why": "A keyboard has typewriter keys, function keys labelled F1 to F12, cursor control keys and a numeric keypad; keyboards commonly have 84, 101/102, 104 or 108 keys."
+      }
+     ]
+    },
+    {
+     "title": "Output Devices and Monitors",
+     "notes_html": "<h4>Output Devices</h4>\n<p>Devices that are used to display the result of processing are called <b>output devices</b>. Examples are the monitor, printer and speakers. The most important output device is the monitor, because whatever work we do on the computer is first seen on its screen.</p>\n<h4>The Monitor</h4>\n<p>A <b>monitor</b> is an output device that displays the result of processing on its screen in the form of text, pictures and videos; it is also called a <b>Visual Display Unit (VDU)</b>. Types of monitors include <b>LCD</b> (Liquid Crystal Display), <b>TFT</b> (Thin Film Transistor), <b>SMD</b> and <b>LED</b> monitors. Modern flat panel monitors are thin, light and use less electricity.</p>\n<h4>Flat Panel and SMD Monitors</h4>\n<p><b>Flat panel monitors</b> are thin and light display screens, such as LCD and LED monitors, which take less space and consume less power. <b>SMD</b> (Surface Mounted Device) monitors use small light-emitting diodes mounted closely on the screen surface, giving brighter colours and sharper pictures, and are often used for large outdoor displays. Both are modern display technologies, but SMD screens are specially known for brightness and large-size display boards.</p>",
+     "mcqs": [
+      {
+       "q": "Devices used to display the result of processing are called:",
+       "options": [
+        "Output devices",
+        "Input devices",
+        "Storage devices",
+        "Processing devices"
+       ],
+       "answer": 0,
+       "why": "Output devices display the result of processing — for example the monitor, printer and speakers. Input devices enter data and storage devices save it."
+      },
+      {
+       "q": "A monitor is also called a:",
+       "options": [
+        "CPU",
+        "VDU",
+        "ALU",
+        "UPS"
+       ],
+       "answer": 1,
+       "why": "A monitor is also called a Visual Display Unit (VDU) because it displays the output of processing as text, pictures and videos."
+      },
+      {
+       "q": "LCD stands for:",
+       "options": [
+        "Light Crystal Display",
+        "Liquid Crystal Display",
+        "Large Colour Display",
+        "Liquid Colour Device"
+       ],
+       "answer": 1,
+       "why": "LCD stands for Liquid Crystal Display. Other monitor types in the unit are TFT (Thin Film Transistor), SMD and LED."
+      },
+      {
+       "q": "TFT stands for:",
+       "options": [
+        "Thin Film Transistor",
+        "Thick Film Tube",
+        "Thin Flat Television",
+        "Total Film Technology"
+       ],
+       "answer": 0,
+       "why": "TFT stands for Thin Film Transistor, one of the types of monitors listed in the unit along with LCD, SMD and LED."
+      },
+      {
+       "q": "SMD monitors are specially known for:",
+       "options": [
+        "Very small size",
+        "Brightness and large outdoor displays",
+        "Working without electricity",
+        "Typing text"
+       ],
+       "answer": 1,
+       "why": "SMD (Surface Mounted Device) monitors use small LEDs mounted closely on the surface, giving brighter colours and sharper pictures, and are often used for large outdoor displays."
+      },
+      {
+       "q": "Flat panel monitors:",
+       "options": [
+        "Are thick and heavy",
+        "Take more space",
+        "Are thin, light and use less electricity",
+        "Cannot show colours"
+       ],
+       "answer": 2,
+       "why": "Flat panel monitors such as LCD and LED are thin and light display screens which take less space and consume less power."
+      },
+      {
+       "q": "Which of the following is an output device?",
+       "options": [
+        "Scanner",
+        "Keyboard",
+        "Joystick",
+        "Monitor"
+       ],
+       "answer": 3,
+       "why": "A monitor displays the result of processing, so it is an output device. Scanner, keyboard and joystick are input devices."
+      },
+      {
+       "q": "The result of processing is shown on the monitor as:",
+       "options": [
+        "Only numbers",
+        "Text, pictures and videos",
+        "Only sound",
+        "Printed paper"
+       ],
+       "answer": 1,
+       "why": "A monitor displays the result of processing on its screen in the form of text, pictures and videos; printed paper is the output of a printer."
+      },
+      {
+       "q": "SMD stands for:",
+       "options": [
+        "Surface Mounted Device",
+        "Small Monitor Display",
+        "Super Media Device",
+        "Surface Memory Disk"
+       ],
+       "answer": 0,
+       "why": "SMD stands for Surface Mounted Device — small light-emitting diodes mounted closely on the screen surface of these monitors."
+      },
+      {
+       "q": "Modern monitors use less electricity because they are mostly:",
+       "options": [
+        "Vacuum tube screens",
+        "Flat panel screens",
+        "Paper screens",
+        "Projector screens"
+       ],
+       "answer": 1,
+       "why": "Modern flat panel monitors (LCD, LED) are thin and light and use less electricity compared to old bulky monitors."
+      }
+     ]
+    },
+    {
+     "title": "The CPU and Memory",
+     "notes_html": "<h4>The CPU and Its Parts</h4>\n<p>The <b>CPU</b> (Central Processing Unit) is the main part of the computer and is called its brain. It has three main parts:</p>\n<ul>\n<li><b>ALU</b> (Arithmetic and Logical Unit): performs all arithmetic operations like addition and subtraction, and logical operations like comparing two values (greater than, less than, equal to).</li>\n<li><b>CU</b> (Control Unit): controls and coordinates the working of all parts. It fetches instructions from memory, decodes them, and sends signals to the ALU, memory and input/output devices so every part does its work at the right time — like a traffic controller or manager of the whole system.</li>\n<li><b>MU</b> (Memory Unit): stores data, instructions and results during processing.</li>\n</ul>\n<h4>How a Computer Works — the IPO Cycle</h4>\n<p>A computer works in three steps. Step 1 — <b>Input</b>: data is entered through input devices like keyboard and mouse. Step 2 — <b>Processing</b>: the CPU processes the data according to the instructions; the ALU calculates and the Control Unit manages the process, while memory stores data temporarily. Step 3 — <b>Output</b>: the processed result, which is information, is shown through output devices like the monitor or printer, and can be saved in storage for future use.</p>\n<h4>Primary Memory and Secondary Storage</h4>\n<p><b>Primary memory</b> (RAM and ROM) is the main memory inside the computer which is directly used by the CPU. It is fast but small in capacity, and RAM loses its data when the computer is switched off. <b>Secondary storage</b> (hard disk, SSD, USB, CD/DVD) stores data and programs permanently in large quantity; it is slower than primary memory but keeps data safe even when the computer is off.</p>\n<h4>RAM and ROM</h4>\n<table>\n<tr><th>RAM</th><th>ROM</th></tr>\n<tr><td>Random Access Memory — temporary working memory. Stores the data and programs the CPU is currently using so they can be accessed quickly. We can read and write in it, and everything is erased when the power is off.</td><td>Read Only Memory — permanent memory. Stores the start-up (boot) instructions of the computer. Its data is not erased when the power is off, and normally we can only read it, not change it.</td></tr>\n</table>\n<h4>HDD and SSD</h4>\n<p>An <b>HDD</b> (Hard Disk Drive) permanently stores the operating system, software, files and documents in large quantity inside the computer. An <b>SSD</b> (Solid State Drive) does the same job but is better than an HDD because it has no moving parts, so it is much faster, silent and more durable; a computer with an SSD starts quickly and opens programs in less time, and it is not easily damaged by shocks.</p>\n<h4>Can a Computer Work Without Secondary Storage?</h4>\n<p>A computer can start and do small temporary work without secondary storage, because programs can run in RAM. But it cannot work properly for real use, because RAM is temporary: as soon as the computer is switched off, all data and programs are lost. Secondary storage is needed to permanently save the operating system, software, files and documents, so in practice a computer cannot be used usefully without it.</p>",
+     "mcqs": [
+      {
+       "q": "All mathematical operations in a computer are performed by the:",
+       "options": [
+        "Memory unit",
+        "Control unit",
+        "Arithmetic unit",
+        "Storage unit"
+       ],
+       "answer": 2,
+       "why": "The Arithmetic and Logical Unit (ALU) performs all arithmetic operations such as addition and subtraction, and logical operations such as comparisons."
+      },
+      {
+       "q": "Which of the following is NOT a part of the CPU?",
+       "options": [
+        "AU (ALU)",
+        "MU",
+        "PU",
+        "CU"
+       ],
+       "answer": 2,
+       "why": "The CPU has three parts: ALU (Arithmetic and Logical Unit), CU (Control Unit) and MU (Memory Unit). There is no part called PU."
+      },
+      {
+       "q": "The Control Unit works like a:",
+       "options": [
+        "Printer",
+        "Traffic controller or manager of the system",
+        "Storage box",
+        "Screen"
+       ],
+       "answer": 1,
+       "why": "The Control Unit fetches and decodes instructions and sends signals to every part at the right time, so it works like a traffic controller or manager of the whole computer system."
+      },
+      {
+       "q": "In the IPO cycle, the second step is:",
+       "options": [
+        "Input",
+        "Output",
+        "Storage",
+        "Processing"
+       ],
+       "answer": 3,
+       "why": "The IPO cycle is Input, Processing, Output: data is entered, the CPU processes it according to instructions, and the result is shown as information."
+      },
+      {
+       "q": "RAM loses its data when:",
+       "options": [
+        "The computer is switched off",
+        "A file is saved",
+        "The monitor is turned off",
+        "The keyboard is pressed"
+       ],
+       "answer": 0,
+       "why": "RAM is temporary memory: it stores data while the computer is working and everything in it is erased when the power is switched off."
+      },
+      {
+       "q": "ROM stores:",
+       "options": [
+        "Games and songs",
+        "The permanent start-up instructions of the computer",
+        "Temporary calculations",
+        "Deleted files"
+       ],
+       "answer": 1,
+       "why": "ROM (Read Only Memory) stores the permanent start-up (boot) instructions; its data is not erased when the power is off and normally cannot be changed."
+      },
+      {
+       "q": "SSD is better than HDD because it:",
+       "options": [
+        "Has more moving parts",
+        "Is slower but cheaper",
+        "Has no moving parts, so it is faster and more durable",
+        "Uses more power"
+       ],
+       "answer": 2,
+       "why": "An SSD has no moving parts, so it is much faster, silent and more durable than an HDD, consumes less power and is not easily damaged by shocks."
+      },
+      {
+       "q": "Primary memory is:",
+       "options": [
+        "Directly used by the CPU and fast",
+        "Used only for printing",
+        "Always permanent",
+        "Slower than a hard disk"
+       ],
+       "answer": 0,
+       "why": "Primary memory (RAM and ROM) is the main memory inside the computer, directly used by the CPU; it is fast but small in capacity."
+      },
+      {
+       "q": "Which device permanently stores the operating system, software and files in large quantity?",
+       "options": [
+        "RAM",
+        "Hard disk (HDD)",
+        "Cache screen",
+        "Monitor"
+       ],
+       "answer": 1,
+       "why": "A hard disk is a secondary storage device that permanently stores the operating system, software, files and documents; data remains saved even when the computer is off."
+      },
+      {
+       "q": "A computer cannot be used usefully without secondary storage because:",
+       "options": [
+        "The screen stays blank",
+        "The keyboard stops working",
+        "RAM is temporary and loses everything when power is off",
+        "Programs become games"
+       ],
+       "answer": 2,
+       "why": "Programs can run in RAM temporarily, but RAM loses all data when the computer is switched off; the operating system, software and files must be saved permanently in secondary storage."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Digital Skills",
+   "lessons": [
+    {
+     "title": "System Software",
+     "notes_html": "<h4>What is Software?</h4>\n<p><b>Software</b> is a set of instructions, data and programs that are used to operate a computer and perform a specific task. It cannot be touched; it only tells the hardware what to do. Software is of two main types: <b>system software</b> and <b>application software</b>.</p>\n<h4>System Software and Its Types</h4>\n<p><b>System software</b> is designed to control and manage the computer's internal and external resources and to run the computer hardware. It works as the primary interface between the hardware and the user applications. Without system software, a computer cannot start or work at all. There are four basic types of system software:</p>\n<ul>\n<li><b>Operating System</b>: manages all operations of the computer.</li>\n<li><b>Device Drivers</b>: control hardware devices such as printers and scanners.</li>\n<li><b>Utility Programs</b>: maintain and protect the system, for example antivirus programs and disk cleanup tools.</li>\n<li><b>Language Translators</b>: convert programs into machine language.</li>\n</ul>\n<h4>Operating Systems</h4>\n<p><b>Microsoft Windows</b> is the most commonly used operating system for personal computers. It provides a graphical desktop with icons, windows, taskbar and start menu, and supports almost all kinds of software. <b>Android</b> is an operating system for mobile phones and tablets, developed by Google; it is touch-based and runs millions of apps. Other examples are macOS, Linux and iOS.</p>\n<h4>Functions of an Operating System</h4>\n<ul>\n<li>It starts the computer and manages its hardware.</li>\n<li>It provides a user interface (desktop, icons, windows) so we can use the computer easily.</li>\n<li>It manages files and folders — creating, naming, saving, copying and deleting them.</li>\n<li>It runs and manages application programs, often many at the same time.</li>\n<li>It controls input/output devices and memory.</li>\n<li>It provides security through user accounts and passwords.</li>\n</ul>\n<h4>Utility Software and Device Drivers</h4>\n<p><b>Utility software</b> helps to maintain, protect and improve the working of the whole computer, for example antivirus programs. A <b>device driver</b> has the specific job of controlling a particular hardware device, such as a printer, scanner or mouse, and letting it communicate with the computer. In short, utilities look after the whole system, while drivers look after individual devices.</p>\n<h4>Language Translators</h4>\n<p>Language translators are system software that convert programs written in a programming language into machine language which the computer understands. The main types are: (1) <b>Assembler</b> — converts assembly language into machine code. (2) <b>Compiler</b> — converts a high-level language program into machine code all at once. (3) <b>Interpreter</b> — converts and executes a high-level language program line by line.</p>",
+     "mcqs": [
+      {
+       "q": "Antivirus is an example of:",
+       "options": [
+        "Application software",
+        "Utility program",
+        "Device driver",
+        "Operating system"
+       ],
+       "answer": 1,
+       "why": "An antivirus is a utility program — system software that helps to maintain, protect and improve the working of the computer."
+      },
+      {
+       "q": "Without system software, a computer:",
+       "options": [
+        "Works faster",
+        "Cannot start or work at all",
+        "Needs no hardware",
+        "Becomes a printer"
+       ],
+       "answer": 1,
+       "why": "System software controls and manages the computer's resources and runs the hardware; without it, a computer cannot start or work at all."
+      },
+      {
+       "q": "Which operating system is most commonly used on personal computers?",
+       "options": [
+        "Android",
+        "Microsoft Windows",
+        "iOS",
+        "Linux"
+       ],
+       "answer": 1,
+       "why": "Microsoft Windows is the most commonly used operating system for personal computers; it provides a graphical desktop with icons, windows, taskbar and start menu."
+      },
+      {
+       "q": "Android is an operating system used in:",
+       "options": [
+        "Mobile phones and tablets",
+        "Printers",
+        "Washing machines",
+        "Calculators only"
+       ],
+       "answer": 0,
+       "why": "Android, developed by Google, is a touch-based operating system for mobile phones and tablets and runs millions of apps."
+      },
+      {
+       "q": "An assembler converts:",
+       "options": [
+        "High-level language line by line",
+        "Assembly language into machine code",
+        "Pictures into text",
+        "Sound into video"
+       ],
+       "answer": 1,
+       "why": "An assembler is a language translator that converts assembly language into machine code. A compiler converts all at once and an interpreter converts line by line."
+      },
+      {
+       "q": "A compiler converts a high-level language program into machine code:",
+       "options": [
+        "Line by line",
+        "All at once",
+        "Only when printed",
+        "Never"
+       ],
+       "answer": 1,
+       "why": "A compiler converts the whole high-level program into machine code all at once, while an interpreter converts and executes it line by line."
+      },
+      {
+       "q": "An interpreter converts and executes a program:",
+       "options": [
+        "All at once",
+        "Only the first line",
+        "Line by line",
+        "After one month"
+       ],
+       "answer": 2,
+       "why": "An interpreter converts and executes a high-level language program line by line, unlike a compiler which converts the complete program at once."
+      },
+      {
+       "q": "A device driver is used to:",
+       "options": [
+        "Control a particular hardware device",
+        "Write essays",
+        "Protect from viruses",
+        "Make presentations"
+       ],
+       "answer": 0,
+       "why": "A device driver controls a particular hardware device — such as a printer, scanner or mouse — and lets it communicate with the computer."
+      },
+      {
+       "q": "Which of the following is a function of an operating system?",
+       "options": [
+        "It types our homework",
+        "It manages files and folders",
+        "It prints photographs",
+        "It repairs hardware"
+       ],
+       "answer": 1,
+       "why": "The operating system manages files and folders — creating, naming, saving, copying and deleting them — along with hardware, programs, memory and security."
+      },
+      {
+       "q": "Utility software looks after:",
+       "options": [
+        "One single device only",
+        "The whole system — maintaining and protecting it",
+        "Only games",
+        "Only the internet"
+       ],
+       "answer": 1,
+       "why": "Utilities look after the whole system (antivirus, disk cleanup), while drivers look after individual devices such as a printer or scanner."
+      }
+     ]
+    },
+    {
+     "title": "Application Software",
+     "notes_html": "<h4>What is Application Software?</h4>\n<p><b>Application software</b> refers to programs written to carry out a certain task of the user, such as writing text, making calculations, editing images or browsing the internet. It always runs with the help of the operating system. Its main types are:</p>\n<ul>\n<li><b>Productivity software</b> (MS Word, Excel, PowerPoint)</li>\n<li><b>Educational software</b> (learning and teaching programs)</li>\n<li><b>Entertainment software</b> (games, music and video players)</li>\n<li><b>Web browsers</b> (Chrome, Firefox)</li>\n<li><b>Graphics software</b> (Paint, Paint 3D, Photoshop)</li>\n</ul>\n<h4>Productivity Software</h4>\n<p>Productivity software is application software used to produce information in the form of documents, presentations, spreadsheets and databases. Examples include MS Word for documents, MS PowerPoint for presentations, MS Excel for calculations and MS Access for databases. It is called productivity software because it helps offices, schools and businesses complete their daily work quickly and neatly.</p>\n<h4>Educational Software</h4>\n<p>Educational software is application software designed for teaching and learning. Teachers use it to prepare lessons, presentations and tests, and students use it to learn subjects through lessons, quizzes, videos and practice exercises. Examples include typing tutors, learning apps and encyclopaedias. It makes learning interesting, visual and easy, and students can learn at their own speed.</p>\n<h4>Web Browsers</h4>\n<p>A <b>web browser</b> is application software that opens web pages and allows us to view information from the internet. We type the address of a website in the browser, and it brings the page from the internet and displays it on the screen. Moving from one web page to another through links is called <b>browsing</b> or surfing. Famous web browsers are Google Chrome, Mozilla Firefox, Microsoft Edge, Opera and Safari. Browsers also let us use search engines, watch videos, attend online classes and use social and educational websites.</p>\n<h4>Search Engines</h4>\n<p>A <b>search engine</b> is a website that allows us to search for information on the internet. We type words about the topic, and it shows a list of related web pages within seconds. Two famous search engines are: (1) <b>Google</b> — the most widely used search engine, known for fast and accurate results. (2) <b>Bing</b> — Microsoft's search engine, which gives search results along with pictures and news. Other examples are Yahoo and DuckDuckGo. To search: open the browser, go to the search engine, type the specific words, press Enter, view the results and click the most relevant link.</p>",
+     "mcqs": [
+      {
+       "q": "A software developed to do a specific task on the computer is called:",
+       "options": [
+        "Operating system",
+        "Entertainment software",
+        "Gaming software",
+        "Application software"
+       ],
+       "answer": 3,
+       "why": "Application software is written to carry out a certain task of the user, such as writing text, making calculations, editing images or browsing the internet."
+      },
+      {
+       "q": "MS Excel is used for:",
+       "options": [
+        "Calculations and spreadsheets",
+        "Drawing pictures",
+        "Playing music",
+        "Scanning documents"
+       ],
+       "answer": 0,
+       "why": "MS Excel is productivity software used for calculations and spreadsheets; MS Word is for documents and MS PowerPoint for presentations."
+      },
+      {
+       "q": "Educational software is designed for:",
+       "options": [
+        "Only playing games",
+        "Teaching and learning",
+        "Repairing computers",
+        "Printing books"
+       ],
+       "answer": 1,
+       "why": "Educational software is designed for teaching and learning: teachers prepare lessons and tests with it, and students learn through lessons, quizzes and videos."
+      },
+      {
+       "q": "The process of moving from one web page to another is known as:",
+       "options": [
+        "Changing",
+        "Switching",
+        "Transferring",
+        "Browsing"
+       ],
+       "answer": 3,
+       "why": "Moving from one web page to another through links is called browsing (or surfing), done with the help of a web browser."
+      },
+      {
+       "q": "Which of the following is a search engine?",
+       "options": [
+        "Google Chrome",
+        "Google",
+        "MS Word",
+        "Windows"
+       ],
+       "answer": 1,
+       "why": "Google is a search engine — a website that searches for information on the internet. Chrome is a web browser, MS Word is a word processor and Windows is an operating system."
+      },
+      {
+       "q": "A web browser is used to:",
+       "options": [
+        "Open web pages and view information from the internet",
+        "Clean viruses",
+        "Type only offline documents",
+        "Charge the computer"
+       ],
+       "answer": 0,
+       "why": "A web browser opens web pages: we type a website address and it brings the page from the internet and displays it on the screen."
+      },
+      {
+       "q": "Bing is a search engine developed by:",
+       "options": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Mozilla"
+       ],
+       "answer": 2,
+       "why": "Bing is Microsoft's search engine, which gives search results along with pictures and news. Google is the most widely used search engine."
+      },
+      {
+       "q": "MS PowerPoint is used to make:",
+       "options": [
+        "Presentations",
+        "Spreadsheets",
+        "Databases",
+        "Websites"
+       ],
+       "answer": 0,
+       "why": "MS PowerPoint is productivity software for making presentations; MS Word makes documents, MS Excel spreadsheets and MS Access databases."
+      },
+      {
+       "q": "VLC media player and computer games are examples of:",
+       "options": [
+        "System software",
+        "Entertainment software",
+        "Utility software",
+        "Device drivers"
+       ],
+       "answer": 1,
+       "why": "Games, music and video players such as VLC are entertainment software — one of the types of application software listed in the unit."
+      },
+      {
+       "q": "A search engine shows us:",
+       "options": [
+        "Only advertisements",
+        "A list of related web pages within seconds",
+        "The files on our own disk only",
+        "Nothing useful"
+       ],
+       "answer": 1,
+       "why": "We type words about the topic in a search engine and it shows a list of related web pages within seconds; we then click the most relevant link."
+      }
+     ]
+    },
+    {
+     "title": "Working in Windows and Paint 3D",
+     "notes_html": "<h4>Desktop, Windows and Shortcuts</h4>\n<p>The window in use on the desktop is known as the <b>active window</b>. An <b>icon</b> is a small picture on the desktop that represents a program or file. A <b>shortcut</b> is a link to the original file — clicking it opens the original file or program. Plug and Play (PnP) technology allows the operating system to automatically detect peripheral devices, such as a USB flash drive, mouse, keyboard, printer, scanner, webcam and headphones, without installing a driver manually.</p>\n<h4>Files and Folders</h4>\n<table>\n<tr><th>File</th><th>Folder</th></tr>\n<tr><td>A common storage unit which holds one kind of information, such as a document, a picture, a song or a video. Each file has a name and an extension like .docx or .jpg.</td><td>A collection of files (and other folders) used to organise them on a storage device. Files are the actual stored material, while folders are the containers that keep files arranged.</td></tr>\n</table>\n<p>To practise: right-click the desktop, choose New and then Folder; right-click the folder and choose Rename to give it a new name; right-click and choose Delete to move it to the Recycle Bin; then empty the Recycle Bin to delete it permanently.</p>\n<h4>Notification Area and Snipping Tool</h4>\n<p>The <b>Notification Area</b> is the right side part of the taskbar, near the clock. It shows small icons of background programs, such as antivirus, network, sound and battery, and displays notifications from Windows and apps. From here we can check the time and date, adjust volume, connect to Wi-Fi and open quick settings. The <b>Snipping Tool</b> is a built-in utility program in Windows used to take screenshots: we can capture a full screen, a window, or a selected part of the screen, then save, copy, write on or share the snip.</p>\n<h4>2D and 3D Shapes in Paint 3D</h4>\n<p><b>2D</b> (two-dimensional) shapes are flat shapes which have only length and width, such as a square, circle and triangle drawn on paper or in Paint. <b>3D</b> (three-dimensional) shapes have length, width and depth (height), so they look real and solid, such as a cube, sphere and cylinder. In Paint 3D we can create and rotate 3D shapes, while ordinary Paint works with 2D shapes only. In Paint 3D, the <b>Clone stamp tool</b> is used to copy, and according to the book's answer key the size of the marker is changed with the <b>Marker</b> tool. In MS Paint we draw with tools such as Pencil, Brush, Fill and Text, using different shapes and colours.</p>",
+     "mcqs": [
+      {
+       "q": "The window in use on the desktop is known as the:",
+       "options": [
+        "Actual window",
+        "Dynamic window",
+        "Active window",
+        "Live window"
+       ],
+       "answer": 2,
+       "why": "The window currently in use on the desktop is called the active window; other open windows remain in the background until clicked."
+      },
+      {
+       "q": "A shortcut is:",
+       "options": [
+        "A copy of the file",
+        "A link to the original file",
+        "A deleted file",
+        "A folder"
+       ],
+       "answer": 1,
+       "why": "A shortcut is a link to the original file or program; clicking it opens the original, and deleting the shortcut does not delete the original file."
+      },
+      {
+       "q": "A collection of files is called a:",
+       "options": [
+        "Folder",
+        "Desktop",
+        "Icon",
+        "Application"
+       ],
+       "answer": 0,
+       "why": "A folder (directory) is a collection of files and other folders used to organise them on a storage device."
+      },
+      {
+       "q": "The Notification Area is located:",
+       "options": [
+        "On the left of the desktop",
+        "In the Recycle Bin",
+        "On the right side of the taskbar, near the clock",
+        "Inside MS Paint"
+       ],
+       "answer": 2,
+       "why": "The Notification Area is the right side part of the taskbar near the clock; it shows icons of background programs like antivirus, network, sound and battery."
+      },
+      {
+       "q": "The Snipping Tool in Windows is used to:",
+       "options": [
+        "Take screenshots",
+        "Remove viruses",
+        "Type documents",
+        "Play sounds"
+       ],
+       "answer": 0,
+       "why": "The Snipping Tool is a built-in utility used to take screenshots of a full screen, a window, or a selected part of the screen."
+      },
+      {
+       "q": "3D shapes differ from 2D shapes because 3D shapes have:",
+       "options": [
+        "Only length",
+        "Length and width only",
+        "Length, width and depth",
+        "No size at all"
+       ],
+       "answer": 2,
+       "why": "2D shapes are flat with only length and width, while 3D shapes have length, width and depth (height), so they look real and solid, like a cube or sphere."
+      },
+      {
+       "q": "In Paint 3D, the tool used to copy is the:",
+       "options": [
+        "Crop tool",
+        "Snipping tool",
+        "Clone stamp tool",
+        "Curve tool"
+       ],
+       "answer": 2,
+       "why": "In Paint 3D the Clone stamp tool is used to copy a part of the drawing, as given in the book's exercise for this unit."
+      },
+      {
+       "q": "When a folder is deleted, it first goes to the:",
+       "options": [
+        "Recycle Bin",
+        "Taskbar",
+        "Notification Area",
+        "Control Panel"
+       ],
+       "answer": 0,
+       "why": "A deleted folder moves to the Recycle Bin; choosing 'Empty Recycle Bin' deletes it permanently from the computer."
+      },
+      {
+       "q": "According to the book's answer key, the size of the marker in Paint 3D is changed using the:",
+       "options": [
+        "Marker tool",
+        "Eraser tool",
+        "Canvas tool",
+        "Crayon tool"
+       ],
+       "answer": 0,
+       "why": "The book's printed answer key for this exercise gives the Marker tool as the answer for changing the size of the marker in Paint 3D."
+      },
+      {
+       "q": "Plug and Play (PnP) technology allows the operating system to:",
+       "options": [
+        "Play games automatically",
+        "Automatically detect peripheral devices without a driver",
+        "Print without paper",
+        "Type without a keyboard"
+       ],
+       "answer": 1,
+       "why": "Plug and Play lets the operating system automatically detect devices such as a USB drive, mouse, printer or webcam, so they start working without installing a driver manually."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Algorithmic Thinking",
+   "lessons": [
+    {
+     "title": "Steps of Problem Solving",
+     "notes_html": "<h4>The Problem Solving Process</h4>\n<p>Problem solving follows a systematic, step-by-step process:</p>\n<ul>\n<li><b>Problem Identification</b>: clearly defining what the problem actually is — what is given (facts/input) and what result is required (output). It is the first and most important step; when the problem is identified correctly, we do not waste time on wrong solutions.</li>\n<li><b>Problem Analysis</b>: the process of defining and decomposing a problem — studying it deeply, collecting important facts, ignoring irrelevant material and breaking it into smaller sub-problems.</li>\n<li><b>Planning the Solution</b>: deciding the steps (algorithm) before actually solving. A good plan arranges all steps in the right order, so mistakes are found on paper before real work starts and the risk of failure is greatly reduced.</li>\n<li><b>Selecting the Best Solution</b>: comparing possible solutions and choosing the best one, considering correctness, time, cost and resources, simplicity and efficiency.</li>\n<li><b>Implementing and Testing the Solution</b>: applying the solution and checking whether it works; if not, improving the plan and trying again.</li>\n</ul>\n<h4>Benefits of the Step-by-Step Process</h4>\n<ul>\n<li>The problem becomes clear and easy to understand.</li>\n<li>No important point is missed, so the chance of failure decreases.</li>\n<li>Big problems can be divided and solved in small parts.</li>\n<li>Time and resources are saved because work is done in proper order.</li>\n<li>The solution can be tested and improved easily at each step.</li>\n</ul>\n<h4>Simple and Complex Problems</h4>\n<p>A <b>simple problem</b> is small, clear and can be solved in a few easy steps with one clear answer, for example making a cup of tea or adding two numbers. A <b>complex problem</b> is big, has many parts and conditions, and needs to be broken into sub-problems and solved step by step, for example arranging a school function or building a computer program. Complex problems need proper planning, while simple problems do not.</p>\n<h4>Problem Solving in Everyday Life</h4>\n<p>We face small and big problems daily — planning a journey, managing pocket money, repairing a bicycle, preparing for exams or cooking a meal — and all need the same steps: identify the problem, analyse it, plan, act and check the result. People who solve problems step by step make fewer mistakes, save time and money, and stay confident instead of becoming worried.</p>",
+     "mcqs": [
+      {
+       "q": "The first step of the systematic process of problem solving is:",
+       "options": [
+        "Problem analysis",
+        "Planning the solution",
+        "Problem identification",
+        "Testing the solution"
+       ],
+       "answer": 2,
+       "why": "Problem identification is the first step: clearly finding out what the problem actually is, what is given and what result is required."
+      },
+      {
+       "q": "Problem analysis is the process of:",
+       "options": [
+        "Defining and decomposing a problem",
+        "Writing the final answer",
+        "Ignoring the problem",
+        "Testing the solution"
+       ],
+       "answer": 0,
+       "why": "Problem analysis means defining and decomposing the problem: studying it deeply, collecting important facts and breaking it into smaller sub-problems."
+      },
+      {
+       "q": "Planning the solution reduces the risk of failure because:",
+       "options": [
+        "The problem disappears",
+        "Mistakes are found on paper before real work starts",
+        "No steps are needed afterwards",
+        "It is the last step"
+       ],
+       "answer": 1,
+       "why": "A good plan arranges all steps in the right order in advance, so mistakes are caught before real work starts and time and effort are not wasted."
+      },
+      {
+       "q": "While selecting the best solution, we must consider:",
+       "options": [
+        "Only the colour of the solution",
+        "Correctness, time, cost, simplicity and efficiency",
+        "Only speed, ignoring correctness",
+        "Nothing at all"
+       ],
+       "answer": 1,
+       "why": "The elements to consider are correctness, time, cost and resources, simplicity and efficiency; the solution which is correct, simple, quick and cheap is selected."
+      },
+      {
+       "q": "Which of the following is a simple problem?",
+       "options": [
+        "Arranging a school function",
+        "Building a computer program",
+        "Adding two numbers",
+        "Running a whole school"
+       ],
+       "answer": 2,
+       "why": "Adding two numbers is a simple problem — small, clear and solvable in a few easy steps with one clear answer. The others are complex problems."
+      },
+      {
+       "q": "A complex problem needs to be:",
+       "options": [
+        "Ignored",
+        "Broken into sub-problems and solved step by step",
+        "Solved without any plan",
+        "Memorised"
+       ],
+       "answer": 1,
+       "why": "A complex problem is big with many parts and conditions, so it needs proper planning and is broken into sub-problems that are solved step by step."
+      },
+      {
+       "q": "One benefit of the step-by-step process of problem solving is:",
+       "options": [
+        "No important point is missed",
+        "Problems become bigger",
+        "More time is wasted",
+        "Testing becomes impossible"
+       ],
+       "answer": 0,
+       "why": "In a systematic process no important point is missed, so the chance of failure decreases, and time and resources are saved."
+      },
+      {
+       "q": "Problem identification tells us:",
+       "options": [
+        "Only the final answer",
+        "What is given and what output is required",
+        "The history of computers",
+        "Nothing useful"
+       ],
+       "answer": 1,
+       "why": "Identification means clearly finding out what the problem is: what is given (facts/input) and what result is required (output), which makes all later steps easy."
+      },
+      {
+       "q": "Testing the solution means:",
+       "options": [
+        "Applying the solution and checking whether it works",
+        "Writing the problem again",
+        "Deleting the solution",
+        "Asking a friend"
+       ],
+       "answer": 0,
+       "why": "In the implementing and testing step, the solution is applied and checked; if it does not work, the plan is improved and tried again."
+      },
+      {
+       "q": "People who solve problems step by step:",
+       "options": [
+        "Make more mistakes",
+        "Save time and money and stay confident",
+        "Always fail",
+        "Need no planning"
+       ],
+       "answer": 1,
+       "why": "A systematic method solves everyday problems calmly and correctly, so people make fewer mistakes, save time and money, and stay confident."
+      }
+     ]
+    },
+    {
+     "title": "Computational Thinking",
+     "notes_html": "<h4>Deconstruction of a Problem</h4>\n<p><b>Deconstruction</b> (decomposition) of a problem means breaking down a big, difficult problem into smaller and simpler sub-problems, solving each sub-problem separately, and then joining their solutions to solve the main problem. Its benefits are: the problem becomes easy to understand; each part can be solved and tested separately; different people can work on different parts; mistakes can be found and fixed in a small part without disturbing the whole solution; and the same sub-solutions can be reused in other problems.</p>\n<h4>Techniques of Deconstruction</h4>\n<ul>\n<li>Identifying what is given (facts and input) and what output is required.</li>\n<li>Dividing the main problem into smaller sub-problems.</li>\n<li><b>Pattern identification</b> — looking for similarities among the sub-problems.</li>\n<li><b>Abstraction</b> — ignoring irrelevant material and keeping only the important information.</li>\n<li>Solving each sub-problem and then integrating (joining) the sub-solutions.</li>\n</ul>\n<h4>Pattern Recognition and Abstraction</h4>\n<p><b>Pattern recognition</b> (pattern identification) means looking for similarities and common features among problems or within the parts of a problem. If we have already solved a similar problem, the same method can be used again, which saves time. <b>Abstraction</b> means thinking about the important part of the problem and ignoring irrelevant material.</p>\n<h4>Computational Thinking</h4>\n<p><b>Computational thinking</b> helps us solve a problem in a logical, computer-like way. It has four main parts: <b>decomposition</b> — breaking the problem into smaller parts; <b>pattern recognition</b> — finding similarities with known problems; <b>abstraction</b> — focusing only on important information; and <b>algorithmic thinking</b> — writing a clear sequence of steps for the solution. Its benefits are that big problems become manageable, solutions can be reused, and it improves logical thinking and confidence in decision making in everyday life.</p>",
+     "mcqs": [
+      {
+       "q": "Breaking down a big problem into smaller problems is called:",
+       "options": [
+        "Problem identification",
+        "Problem decomposition",
+        "Planning the solution",
+        "Selecting the best solution"
+       ],
+       "answer": 1,
+       "why": "Decomposition (deconstruction) means breaking a big, difficult problem into smaller and simpler sub-problems and solving each one separately."
+      },
+      {
+       "q": "Looking for similarities among problems is called:",
+       "options": [
+        "Algorithmic design",
+        "Pattern identification",
+        "Problem decomposition",
+        "Abstraction"
+       ],
+       "answer": 1,
+       "why": "Pattern identification (pattern recognition) means looking for similarities and common features among problems, so a known method can be used again."
+      },
+      {
+       "q": "Thinking about the important part of a problem and ignoring irrelevant material is called:",
+       "options": [
+        "Decomposition",
+        "Pattern identification",
+        "Planning",
+        "Abstraction"
+       ],
+       "answer": 3,
+       "why": "Abstraction means focusing on the important information and ignoring irrelevant material while analysing a problem."
+      },
+      {
+       "q": "Pattern recognition saves time because:",
+       "options": [
+        "We can reuse the method of a similar solved problem",
+        "We skip the problem",
+        "We copy the answer blindly",
+        "Problems solve themselves"
+       ],
+       "answer": 0,
+       "why": "If we have already solved a similar problem, recognising the pattern lets us use the same method again instead of thinking of a completely new solution."
+      },
+      {
+       "q": "Which of the following is one of the four main parts of computational thinking?",
+       "options": [
+        "Guessing",
+        "Abstraction",
+        "Memorising",
+        "Decoration"
+       ],
+       "answer": 1,
+       "why": "The four parts of computational thinking are decomposition, pattern recognition, abstraction and algorithmic thinking."
+      },
+      {
+       "q": "One benefit of decomposition is:",
+       "options": [
+        "Each part can be solved and tested separately",
+        "The problem becomes harder",
+        "Only one person can ever work",
+        "Mistakes cannot be found"
+       ],
+       "answer": 0,
+       "why": "With decomposition, each sub-problem can be solved and tested separately, different people can work on different parts, and mistakes can be fixed in a small part."
+      },
+      {
+       "q": "The first technique of deconstruction is:",
+       "options": [
+        "Joining the sub-solutions",
+        "Identifying what is given and what output is required",
+        "Ignoring all the facts",
+        "Writing the final program"
+       ],
+       "answer": 1,
+       "why": "Deconstruction begins by identifying the given facts (input) and the required output, then divides the problem, finds patterns, applies abstraction and joins the sub-solutions."
+      },
+      {
+       "q": "Abstraction keeps:",
+       "options": [
+        "Only the important information",
+        "All the irrelevant details",
+        "Nothing at all",
+        "Only the pictures"
+       ],
+       "answer": 0,
+       "why": "Abstraction means ignoring irrelevant material and keeping only the important information needed to solve the problem."
+      },
+      {
+       "q": "Computational thinking produces solutions that:",
+       "options": [
+        "Nobody can follow",
+        "Even a computer can follow, as clear step-by-step algorithms",
+        "Work only once",
+        "Need no steps"
+       ],
+       "answer": 1,
+       "why": "Computational thinking produces clear step-by-step solutions (algorithms) through decomposition, pattern recognition, abstraction and algorithmic thinking."
+      },
+      {
+       "q": "Joining the solutions of sub-problems to solve the main problem is called:",
+       "options": [
+        "Deleting",
+        "Ignoring",
+        "Integrating the sub-solutions",
+        "Guessing"
+       ],
+       "answer": 2,
+       "why": "After solving each sub-problem, the sub-solutions are integrated (joined) to solve the main problem — the final technique of deconstruction."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms and Flow",
+     "notes_html": "<h4>What is an Algorithm?</h4>\n<p>An <b>algorithm</b> is a finite sequence of instructions to solve a specific problem. Every algorithm has a <b>start</b> and a <b>stop</b>. Algorithms must use <b>specific instructions</b> — clear, exact and complete instructions that can be followed in only one way, for example 'Add 2 and 3'. <b>Nonspecific instructions</b> are vague and incomplete, for example 'Add some numbers', which different people may follow differently, so they cannot be used in an algorithm.</p>\n<h4>Three Types of Flow</h4>\n<ul>\n<li><b>Sequential flow</b>: steps are executed in the same sequence in which they are written.</li>\n<li><b>Conditional flow</b>: steps are executed only if a certain condition is true; if the condition is false, those steps are skipped or another set is followed, for example 'If it is raining, take an umbrella'.</li>\n<li><b>Repetitive flow</b> (loop): a set of statements is executed again and again until a certain condition is met, for example 'Keep adding water until the glass is full'. Conditional flow is about choosing, while repetitive flow is about repeating.</li>\n</ul>\n<h4>Example Algorithms from the Book</h4>\n<p><b>Sum and average of three numbers:</b> 1. Start. 2. Input three numbers A, B and C. 3. Sum = A + B + C. 4. Average = Sum / 3. 5. Display Sum and Average. 6. Stop. Example: for 6, 9 and 12, Sum = 27 and Average = 27 / 3 = 9.</p>\n<p><b>Even or odd:</b> 1. Start. 2. Input a number N. 3. Divide N by 2 and find the remainder. 4. If the remainder is 0, display 'N is Even'. 5. Otherwise display 'N is Odd'. 6. Stop. This algorithm uses a conditional statement: 14 gives remainder 0, so 14 is even; 9 gives remainder 1, so 9 is odd.</p>\n<p><b>Product of two numbers — choosing the best algorithm:</b> Algorithm 1 (direct multiplication): Product = A x B in one step. Algorithm 2 (repeated addition): add A, B times. Algorithm 1 is better because it is shorter, faster and works in one step for all numbers, while Algorithm 2 needs many repetitions when B is large.</p>\n<p><b>Table of a number:</b> uses repetition — a counter goes from 1 to 10, each time Result = N x Counter is displayed, until the counter passes 10.</p>",
+     "mcqs": [
+      {
+       "q": "A finite sequence of instructions to solve a specific problem is called an:",
+       "options": [
+        "Algorithm",
+        "Unspecified instruction",
+        "Paragraph",
+        "Application"
+       ],
+       "answer": 0,
+       "why": "An algorithm is a finite sequence of instructions to solve a specific problem; every algorithm has a start and a stop."
+      },
+      {
+       "q": "Every algorithm has:",
+       "options": [
+        "Loop and condition only",
+        "Start and stop",
+        "Infinite loops",
+        "Only sequences"
+       ],
+       "answer": 1,
+       "why": "Every algorithm begins with a start and ends with a stop; between them it may use sequence, conditions and repetition."
+      },
+      {
+       "q": "In sequential flow, steps are executed:",
+       "options": [
+        "In the same sequence they are written in",
+        "Only if a condition is true",
+        "Again and again",
+        "In random order"
+       ],
+       "answer": 0,
+       "why": "In sequential flow, steps are executed one after another in the same sequence in which they are written."
+      },
+      {
+       "q": "In conditional flow, steps are executed:",
+       "options": [
+        "Always, without checking",
+        "Only if a certain condition is true",
+        "Forever",
+        "Never"
+       ],
+       "answer": 1,
+       "why": "In conditional flow a set of steps runs only if a certain condition is true; if the condition is false, those steps are skipped or another set is followed."
+      },
+      {
+       "q": "In repetitive flow, a set of statements is executed:",
+       "options": [
+        "Only once",
+        "Again and again until a condition is met",
+        "Never",
+        "In reverse order only"
+       ],
+       "answer": 1,
+       "why": "Repetitive flow (a loop) executes a set of statements again and again until a certain condition is met, for example adding water until the glass is full."
+      },
+      {
+       "q": "Which of the following is a specific instruction?",
+       "options": [
+        "Add some numbers",
+        "Go that way",
+        "Add 2 and 3",
+        "Do it quickly"
+       ],
+       "answer": 2,
+       "why": "'Add 2 and 3' is clear, exact and complete, so it can be followed in only one way. 'Add some numbers' is nonspecific and vague, so it cannot be used in an algorithm."
+      },
+      {
+       "q": "The even-or-odd algorithm uses:",
+       "options": [
+        "A conditional statement",
+        "No condition at all",
+        "Only repetition",
+        "A printer"
+       ],
+       "answer": 0,
+       "why": "The algorithm checks the remainder after dividing by 2: if it is 0 the number is even, otherwise odd — this decision is a conditional statement."
+      },
+      {
+       "q": "Direct multiplication is a better algorithm than repeated addition because it is:",
+       "options": [
+        "Longer",
+        "Shorter and faster, working in one step",
+        "More confusing",
+        "Older"
+       ],
+       "answer": 1,
+       "why": "Direct multiplication finds the product in one step for all numbers, while repeated addition needs many repetitions when the second number is large."
+      },
+      {
+       "q": "Printing the table of a number up to 10 uses which flow?",
+       "options": [
+        "Sequential only",
+        "Conditional only",
+        "Repetitive flow (loop)",
+        "No flow"
+       ],
+       "answer": 2,
+       "why": "The table algorithm repeats the step 'Result = N x Counter' while the counter goes from 1 to 10 — this repetition is a loop."
+      },
+      {
+       "q": "The average of 6, 9 and 12 is:",
+       "options": [
+        "27",
+        "9",
+        "12",
+        "7"
+       ],
+       "answer": 1,
+       "why": "Working: Sum = 6 + 9 + 12 = 27. Average = Sum / 3 = 27 / 3 = 9. So the average of 6, 9 and 12 is 9 (27 is the sum, not the average)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Programming",
+   "lessons": [
+    {
+     "title": "Programs and Programming Languages",
+     "notes_html": "<h4>What is a Program?</h4>\n<p>A <b>program</b> is a set of instructions that is used by the computer to perform a specific task. The function of a program is to instruct the computer: the computer follows the instructions step by step to take input, process it and produce the required output. Without a program, a computer cannot do any useful work.</p>\n<h4>Programming Languages</h4>\n<p>A <b>programming language</b> is a language used to write instructions (code) for a computer so that it can solve a problem or perform a task. Just as we use Urdu or English to communicate with people, we use a programming language to communicate with the computer. Every programming language has its own rules, called <b>syntax</b>. Examples are machine language, assembly language, C, Python and Scratch. A value that remains consistent (does not change) during the execution of a program is called a <b>constant</b>, while a value that can change is stored in a variable.</p>\n<h4>Three Types of Programming Language</h4>\n<ul>\n<li><b>Machine language</b>: the lowest level language, written in binary (0 and 1), which the computer understands directly without any translator. It is the fastest but the hardest for humans.</li>\n<li><b>Assembly language</b>: a low-level language that uses short words (mnemonics) instead of binary. The programmer who uses it requires a translator — an assembler — to convert the assembly language program into machine language. It is a little easier than machine language but machine-dependent.</li>\n<li><b>High-level language</b>: uses English-like words and is easy for humans to write, for example C and Python. It needs a compiler or interpreter for translation, and it can be used on different computers.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A set of instructions used by the computer to perform a specific task is called a:",
+       "options": [
+        "Decision",
+        "Program",
+        "Task list",
+        "Instruction manual"
+       ],
+       "answer": 1,
+       "why": "A program is a set of instructions written in a programming language; the computer follows them step by step to take input, process it and produce output."
+      },
+      {
+       "q": "The rules of a programming language are called its:",
+       "options": [
+        "Syntax",
+        "Blocks",
+        "Sprites",
+        "Menus"
+       ],
+       "answer": 0,
+       "why": "Every programming language has its own rules, called syntax, which must be followed when writing instructions (code) for the computer."
+      },
+      {
+       "q": "Machine language is written in:",
+       "options": [
+        "English words",
+        "Binary (0 and 1)",
+        "Pictures",
+        "Urdu script"
+       ],
+       "answer": 1,
+       "why": "Machine language is the lowest level language, written in binary 0s and 1s, which the computer understands directly without any translator."
+      },
+      {
+       "q": "Assembly language uses:",
+       "options": [
+        "Photographs",
+        "Binary only",
+        "Short words called mnemonics",
+        "English essays"
+       ],
+       "answer": 2,
+       "why": "Assembly language uses short words (mnemonics) instead of binary codes, and needs an assembler to convert it into machine language."
+      },
+      {
+       "q": "The programmer who uses a low-level (assembly) language requires a translator to:",
+       "options": [
+        "Convert the assembly program into machine language",
+        "Print the program",
+        "Draw the program",
+        "Save the program"
+       ],
+       "answer": 0,
+       "why": "As the book's exercise states, a low-level language program requires a translator (an assembler) to convert the assembly language program into machine language."
+      },
+      {
+       "q": "Which of the following is a high-level language?",
+       "options": [
+        "Binary code",
+        "Mnemonics",
+        "Machine code",
+        "Python"
+       ],
+       "answer": 3,
+       "why": "Python (like C) is a high-level language that uses English-like words and is easy for humans to write; it needs a compiler or interpreter for translation."
+      },
+      {
+       "q": "Which language needs NO translator?",
+       "options": [
+        "Machine language",
+        "Assembly language",
+        "High-level language",
+        "Scratch"
+       ],
+       "answer": 0,
+       "why": "The computer understands machine language directly, so it needs no translator. Assembly needs an assembler and high-level languages need a compiler or interpreter."
+      },
+      {
+       "q": "High-level languages are:",
+       "options": [
+        "The hardest for humans",
+        "Easy for humans and usable on different computers",
+        "Written only in binary",
+        "Machine-dependent only"
+       ],
+       "answer": 1,
+       "why": "High-level languages use English-like words, are easiest for humans to write, and can be used on different computers, unlike machine-dependent assembly language."
+      },
+      {
+       "q": "A value that remains consistent during the execution of a program is called a:",
+       "options": [
+        "Variable",
+        "Algorithm",
+        "Constant",
+        "Number list"
+       ],
+       "answer": 2,
+       "why": "A constant is a value that remains consistent (unchanged) during the execution of a program, while a variable can hold changing values."
+      },
+      {
+       "q": "Without a program, a computer:",
+       "options": [
+        "Works even better",
+        "Cannot do any useful work",
+        "Becomes faster",
+        "Turns into a television"
+       ],
+       "answer": 1,
+       "why": "The function of a program is to instruct the computer to perform a specific task; without a program, a computer cannot do any useful work."
+      }
+     ]
+    },
+    {
+     "title": "Scratch",
+     "notes_html": "<h4>What is Scratch?</h4>\n<p><b>Scratch</b> is a visual programming language and software that makes it easy to create interactive games, animations and stories. Instead of typing commands, we join colourful blocks together like a puzzle to make programs. Scratch is specially designed for beginners and students to learn programming concepts in a fun way.</p>\n<h4>Sprite, Stage and Script Area</h4>\n<p>The character in Scratch is called a <b>Sprite</b>. The <b>Stage</b> is the area where we see the result of the program — the sprites move, speak and act on the stage, like actors on a theatre stage. The <b>Script Area</b> is the working area where we create the program by joining blocks together for a sprite. In short, we write the program in the script area and watch its output on the stage. A previously saved program can be opened from the <b>File</b> menu.</p>\n<h4>Block Categories in Scratch</h4>\n<ul>\n<li><b>Motion</b>: enables the Sprite to move (move steps, go to a position, bounce if on edge).</li>\n<li><b>Looks</b>: makes the Sprite say things and change colour or costume.</li>\n<li><b>Sound</b>: has the blocks to play sounds.</li>\n<li><b>Sensing</b>: has the blocks to allow the Sprite to ask questions and to help the Sprite detect its environment.</li>\n<li><b>Control</b>: has the blocks to control the flow of instructions (forever, if-then, repeat).</li>\n<li><b>Operators</b>: blocks for calculations, joining text and random numbers.</li>\n<li><b>Events</b>: blocks that start the program, such as 'when green flag clicked' or 'when space key pressed'.</li>\n</ul>\n<h4>Example Scratch Programs from the Book</h4>\n<p><b>Bouncing ball:</b> use 'when space key pressed' (Events), add 'forever' (Control), and inside it 'move 10 steps' and 'if on edge, bounce' (Motion). The ball then moves on its own and bounces back from the boundaries. <b>Multiplication game:</b> the sprite welcomes the user, sets two variables to random numbers from 1 to 12, asks their product using Sensing, and if the answer is correct it changes colour and displays 'Well done' — using events, variables, random numbers, sensing and conditional blocks together.</p>",
+     "mcqs": [
+      {
+       "q": "Scratch is a:",
+       "options": [
+        "Word processor",
+        "Visual programming software",
+        "Web browser",
+        "Operating system"
+       ],
+       "answer": 1,
+       "why": "Scratch is a visual programming language and software in which colourful blocks are joined like a puzzle to create games, animations and stories."
+      },
+      {
+       "q": "The character in Scratch is called a:",
+       "options": [
+        "Kodu",
+        "Sprite",
+        "Cat block",
+        "Program"
+       ],
+       "answer": 1,
+       "why": "The character that acts on the stage in Scratch is called a Sprite; we build programs (scripts) for sprites by joining blocks."
+      },
+      {
+       "q": "The program in Scratch is created in the:",
+       "options": [
+        "Sprite list",
+        "Block palette",
+        "Stage",
+        "Script area"
+       ],
+       "answer": 3,
+       "why": "The Script Area is the working area where we join blocks together to create the program; the result of the program is seen on the Stage."
+      },
+      {
+       "q": "The result of a Scratch program is seen on the:",
+       "options": [
+        "Stage",
+        "Script area",
+        "File menu",
+        "Recycle Bin"
+       ],
+       "answer": 0,
+       "why": "The Stage is where sprites move, speak and act — like actors on a theatre stage — so we watch the output of the program on the stage."
+      },
+      {
+       "q": "The block category that has the blocks to play sounds is:",
+       "options": [
+        "Motion",
+        "Sound",
+        "Control",
+        "Sensing"
+       ],
+       "answer": 1,
+       "why": "The Sound block category has the blocks to play sounds, as given in the book's fill-in-the-blanks exercise for this unit."
+      },
+      {
+       "q": "The block category that enables the Sprite to move is:",
+       "options": [
+        "Looks",
+        "Sensing",
+        "Motion",
+        "Sound"
+       ],
+       "answer": 2,
+       "why": "The Motion category enables the Sprite to move — it contains blocks such as 'move steps', 'go to random position' and 'if on edge, bounce'."
+      },
+      {
+       "q": "The category in Scratch that has the blocks for the Sprite to ask questions is:",
+       "options": [
+        "Looks",
+        "Sensing",
+        "Sound",
+        "Operators"
+       ],
+       "answer": 1,
+       "why": "The Sensing category has the blocks to allow the Sprite to ask questions (ask and answer) and to help the Sprite detect its environment."
+      },
+      {
+       "q": "The block category that controls the flow of instructions is:",
+       "options": [
+        "Control",
+        "Motion",
+        "Looks",
+        "Sound"
+       ],
+       "answer": 0,
+       "why": "The Control category has the blocks to control the flow of instructions, such as forever, repeat and if-then blocks."
+      },
+      {
+       "q": "A previously saved Scratch program can be opened by clicking on the:",
+       "options": [
+        "View menu",
+        "Save menu",
+        "File menu",
+        "Edit menu"
+       ],
+       "answer": 2,
+       "why": "As the book's exercise states, a previously saved program is opened from the computer by clicking on the File menu."
+      },
+      {
+       "q": "In Scratch, programs are made by:",
+       "options": [
+        "Typing long essays",
+        "Joining colourful blocks together like a puzzle",
+        "Drawing with a pencil",
+        "Recording voice only"
+       ],
+       "answer": 1,
+       "why": "Instead of typing commands, Scratch programs are made by joining colourful blocks together like a puzzle, which makes it easy for beginners and students."
+      }
+     ]
+    },
+    {
+     "title": "Debugging",
+     "notes_html": "<h4>What is Debugging?</h4>\n<p><b>Debugging</b> is the process of testing the software to find and eliminate the errors (bugs) in it. A program may fail or give wrong output because of a wrong block, a wrong value or a wrong order of instructions; debugging locates and removes such errors.</p>\n<h4>Strategies of Debugging</h4>\n<ul>\n<li><b>Forward analysis</b>: reading the program step by step from the start to find where the error occurs.</li>\n<li><b>Backward analysis</b>: starting from the point where the failure message appears and tracing the program backward from the location of the failure message in order to identify the region of faulty code.</li>\n<li><b>Testing</b> the program with different inputs and checking the output.</li>\n<li><b>Fix and validate</b>: fixing the error and testing again to confirm the program now works correctly.</li>\n</ul>\n<h4>Steps of Debugging</h4>\n<ul>\n<li>Step 1 — <b>Identify the error</b>: run the program and note where and when it fails or gives wrong output.</li>\n<li>Step 2 — <b>Locate the faulty code</b>: use forward or backward analysis to find the exact instructions causing the problem.</li>\n<li>Step 3 — <b>Understand the cause</b>: decide why the error happened (wrong block, wrong value or wrong order).</li>\n<li>Step 4 — <b>Fix the error</b>: correct the code.</li>\n<li>Step 5 — <b>Test and validate</b>: run the program again several times to confirm the error is removed and no new error has appeared.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The process of testing the software to eliminate the errors in it is called:",
+       "options": [
+        "Problem solving",
+        "Updating",
+        "Developing",
+        "Debugging"
+       ],
+       "answer": 3,
+       "why": "Debugging is the process of finding and removing errors (bugs) from a program by testing it and correcting the faulty code."
+      },
+      {
+       "q": "Backward analysis of a program means:",
+       "options": [
+        "Tracing the program backward from the location of the failure message to find the faulty code",
+        "Reading the program from the start",
+        "Deleting the program",
+        "Running the program backwards on paper"
+       ],
+       "answer": 0,
+       "why": "Backward analysis traces the program backward from the location of the failure message in order to identify the region of faulty code, as defined in the book."
+      },
+      {
+       "q": "Forward analysis means:",
+       "options": [
+        "Jumping to the end of the program",
+        "Reading the program step by step from the start to find where the error occurs",
+        "Ignoring the error",
+        "Changing all the code at once"
+       ],
+       "answer": 1,
+       "why": "In forward analysis we read the program step by step from the start to find where the error occurs; backward analysis starts from the failure message."
+      },
+      {
+       "q": "The first step of debugging is to:",
+       "options": [
+        "Fix the error",
+        "Delete the program",
+        "Identify the error",
+        "Validate the program"
+       ],
+       "answer": 2,
+       "why": "Debugging starts by identifying the error — running the program and noting where and when it fails or gives wrong output — before locating and fixing the faulty code."
+      },
+      {
+       "q": "The last step of debugging is to:",
+       "options": [
+        "Test and validate the program",
+        "Identify the error",
+        "Locate the code",
+        "Understand the cause"
+       ],
+       "answer": 0,
+       "why": "After fixing the error, we test and validate: running the program again several times to confirm the error is removed and no new error has appeared."
+      },
+      {
+       "q": "An error in a program is also called a:",
+       "options": [
+        "Sprite",
+        "Bug",
+        "Block",
+        "Script"
+       ],
+       "answer": 1,
+       "why": "Errors in a program are called bugs, and the process of finding and removing them is called debugging."
+      },
+      {
+       "q": "Errors in a program may be caused by:",
+       "options": [
+        "A wrong block, wrong value or wrong order",
+        "The colour of the screen",
+        "The size of the room",
+        "The name of the file only"
+       ],
+       "answer": 0,
+       "why": "While understanding the cause of an error, we check whether it happened because of a wrong block, a wrong value or a wrong order of instructions."
+      },
+      {
+       "q": "Testing a program with different inputs is:",
+       "options": [
+        "A waste of time",
+        "A strategy of debugging",
+        "A type of hardware",
+        "Not allowed"
+       ],
+       "answer": 1,
+       "why": "Testing the program with different inputs and checking the output is one of the strategies of debugging, along with forward analysis, backward analysis and fix-and-validate."
+      },
+      {
+       "q": "The faulty code is located by using:",
+       "options": [
+        "Forward or backward analysis",
+        "A printer",
+        "A search engine only",
+        "Guessing randomly"
+       ],
+       "answer": 0,
+       "why": "Step 2 of debugging locates the faulty code using forward analysis (from the start) or backward analysis (from the failure message)."
+      },
+      {
+       "q": "After fixing an error, the program should be:",
+       "options": [
+        "Never run again",
+        "Run again several times to validate it",
+        "Deleted at once",
+        "Printed only"
+       ],
+       "answer": 1,
+       "why": "In the test-and-validate step, the program is run again several times to confirm the error is removed and no new error has appeared."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Digital Citizenship",
+   "lessons": [
+    {
+     "title": "Citizens and Digital Citizens",
+     "notes_html": "<h4>Citizenship</h4>\n<p><b>Citizenship</b> is the status of being a member (citizen) of a community or country. A citizen enjoys certain rights and privileges given by the nation, and in return he must obey the country's laws, respect the rights of others and defend the country against its enemies. For example, we live in Pakistan, therefore we are citizens of Pakistan.</p>\n<h4>Responsibilities of a Citizen</h4>\n<p>The responsibilities of a citizen are: to be honest and trustworthy; to follow rules and laws; to respect the rights of others; to practice tolerance; to be informed about the world around him; to respect the property of others; to be compassionate; to take responsibility for his actions; and to pay taxes. A citizen must comply with all of these.</p>\n<h4>Digital Citizenship</h4>\n<p>A person who develops the skills to effectively use the internet and other digital technology is called a <b>digital citizen</b>. <b>Digital citizenship</b> is the ability of a citizen to safely and responsibly access digital technologies while being an active and respectful member of society. Responsible digital citizenship also means behaving lawfully, protecting your privacy and that of others, and recognising your rights.</p>\n<h4>Basic Elements of Digital Citizenship</h4>\n<ul>\n<li>Safe and responsible use of technology.</li>\n<li>Respectful and lawful behaviour online.</li>\n<li>Protecting personal information and privacy.</li>\n<li>Giving credit to the owners of online work (avoiding plagiarism and piracy).</li>\n<li>Balanced and healthy use of devices, including proper posture and taking breaks.</li>\n<li>Being a positive and active member of the online community.</li>\n</ul>\n<h4>Importance of Digital Citizenship</h4>\n<p>Digital citizenship is important because today we study, communicate, shop and work through digital technology. A good digital citizen uses technology safely, lawfully and respectfully, so the online world remains safe for everyone. It protects us from dangers like hacking, fraud, cyber-bullying and harmful content, protects the rights of creators through copyright, and builds our good image (digital footprint), which matters for our future education and jobs.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is a responsibility that every citizen must comply with?",
+       "options": [
+        "Follow rules and laws",
+        "Disobey the government",
+        "Ignore the rights of others",
+        "Avoid paying taxes"
+       ],
+       "answer": 0,
+       "why": "Following rules and laws is a responsibility of a citizen, along with being honest and trustworthy, respecting the rights of others, practising tolerance and paying taxes."
+      },
+      {
+       "q": "A person who develops the skills to effectively use the internet and other digital technology is called a:",
+       "options": [
+        "Citizen",
+        "Digital citizen",
+        "New citizen",
+        "Technical citizen"
+       ],
+       "answer": 1,
+       "why": "Such a person is called a digital citizen; digital citizenship means safely and responsibly accessing digital technologies as an active and respectful member of society."
+      },
+      {
+       "q": "Responsible digital citizenship also means:",
+       "options": [
+        "Sharing others' private data freely",
+        "Behaving lawfully and protecting your privacy and that of others",
+        "Ignoring your own rights",
+        "Breaking rules when online"
+       ],
+       "answer": 1,
+       "why": "Responsible digital citizenship means behaving lawfully, protecting your privacy and that of others, and recognising your rights while using digital technology."
+      },
+      {
+       "q": "Which of the following is a responsibility of a citizen?",
+       "options": [
+        "Paying taxes",
+        "Breaking the laws",
+        "Disrespecting others",
+        "Avoiding all information"
+       ],
+       "answer": 0,
+       "why": "Paying taxes is a responsibility of a citizen, along with honesty, following laws, respecting rights and property, tolerance and taking responsibility for his actions."
+      },
+      {
+       "q": "We live in Pakistan, therefore we are citizens of:",
+       "options": [
+        "Only our city",
+        "The internet",
+        "Pakistan",
+        "No country"
+       ],
+       "answer": 2,
+       "why": "Citizenship is the status of being a member of a country; as the book's example says, we live in Pakistan, therefore we are citizens of Pakistan."
+      },
+      {
+       "q": "Which of the following is a basic element of digital citizenship?",
+       "options": [
+        "Giving credit to the owners of online work",
+        "Copying others' work freely",
+        "Sharing passwords",
+        "Using devices all night without breaks"
+       ],
+       "answer": 0,
+       "why": "Giving credit to the owners of online work — avoiding plagiarism and piracy — is a basic element of digital citizenship, together with safe use, privacy and respectful behaviour."
+      },
+      {
+       "q": "A good digital citizen builds a good digital footprint, which matters for:",
+       "options": [
+        "Only games",
+        "Future education and jobs",
+        "Nothing",
+        "Buying shoes only"
+       ],
+       "answer": 1,
+       "why": "Digital citizenship builds our good image (digital footprint) online, which matters for our future education and jobs, and protects us from hacking, fraud and cyber-bullying."
+      },
+      {
+       "q": "Citizenship gives a citizen:",
+       "options": [
+        "Only duties",
+        "Nothing at all",
+        "Only taxes",
+        "Rights and privileges from the nation"
+       ],
+       "answer": 3,
+       "why": "A citizen enjoys certain rights and privileges given by the nation, and in return he must obey the laws, respect others' rights and defend the country."
+      },
+      {
+       "q": "Balanced and healthy use of devices includes:",
+       "options": [
+        "Proper posture and taking breaks",
+        "Sitting wrongly for hours",
+        "Never blinking",
+        "Using devices in the dark"
+       ],
+       "answer": 0,
+       "why": "Balanced and healthy use of devices — proper posture and regular breaks — is one of the basic elements of digital citizenship."
+      },
+      {
+       "q": "Digital citizenship protects us from dangers such as:",
+       "options": [
+        "Rain and cold",
+        "Hacking, fraud and cyber-bullying",
+        "Homework",
+        "Sports injuries"
+       ],
+       "answer": 1,
+       "why": "A good digital citizen uses technology safely and lawfully, which protects us from hacking, fraud, cyber-bullying and harmful content online."
+      }
+     ]
+    },
+    {
+     "title": "Lab Rules, Safety and Health",
+     "notes_html": "<h4>Rules of the Computer Lab</h4>\n<ul>\n<li>No food or drinks inside the lab.</li>\n<li>Save your work often.</li>\n<li>Do not go on unapproved sites.</li>\n<li>Handle the keyboard, mouse and other equipment gently and carefully.</li>\n<li>Keep the lab neat and do not change the settings of computers without the teacher's permission.</li>\n</ul>\n<p>Note that using the printer in the lab (with permission, for your work) is allowed — 'Do not use printer in lab' is NOT a computer lab rule.</p>\n<h4>Rules for Being Safe and Responsible Online</h4>\n<ul>\n<li>Never share personal information (address, school, passwords) with strangers.</li>\n<li>Use strong passwords and do not share them.</li>\n<li>Do not download files from unknown websites.</li>\n<li>Be respectful in comments and messages; do not bully anyone.</li>\n<li>Give credit when you use someone else's work.</li>\n<li>If something makes you feel unsafe or uncomfortable, tell a trusted adult immediately.</li>\n</ul>\n<h4>NO-GO-TELL</h4>\n<p>One of the key strategies when feeling unsafe or uncomfortable, whether online or offline, is to approach a trusted adult. The <b>NO-GO-TELL</b> approach means: (1) Say <b>NO</b> when someone is making you feel uncomfortable or unsafe. (2) Then <b>GO</b>: leave or run away from that person or situation. (3) And <b>TELL</b>: talk to a trusted adult (parent or teacher) about the situation.</p>\n<h4>Proper Posture and Health Issues</h4>\n<p>Proper posture: sit straight with your back supported by the chair, feet flat on the floor, screen at eye level about 50 cm away from the eyes, elbows bent at about 90 degrees and wrists straight while typing. To reduce strain, follow the <b>20-20-20 rule</b> (after every 20 minutes, look at something 20 feet away for 20 seconds), blink often, and take a short break and stretch after every 30–40 minutes. By excessive use of ICT devices we can face health issues: eye strain and weak eyesight; back and neck ache from wrong posture; Repetitive Strain Injury (RSI), such as carpal tunnel syndrome in the wrist, from typing and using the mouse for long periods; headache and disturbed sleep; and less physical activity leading to weakness and obesity.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is NOT a computer lab rule?",
+       "options": [
+        "No food or drinks",
+        "Save your work often",
+        "Do not use printer in lab",
+        "Do not go on unapproved sites"
+       ],
+       "answer": 2,
+       "why": "Using the printer for your work is allowed in the lab; the real rules are no food or drinks, save your work often, do not go on unapproved sites and handle equipment gently."
+      },
+      {
+       "q": "In the computer lab we should:",
+       "options": [
+        "Bring food and drinks",
+        "Save our work often",
+        "Change computer settings freely",
+        "Visit any website"
+       ],
+       "answer": 1,
+       "why": "Saving your work often is a lab rule, along with no food or drinks, not visiting unapproved sites and handling the keyboard and mouse gently."
+      },
+      {
+       "q": "In the NO-GO-TELL approach, TELL means:",
+       "options": [
+        "Tell a trusted adult about the situation",
+        "Tell everyone on the internet",
+        "Tell the stranger your address",
+        "Keep it secret forever"
+       ],
+       "answer": 0,
+       "why": "NO-GO-TELL means: say NO to the uncomfortable situation, GO away from it, and TELL a trusted adult (parent or teacher) about it."
+      },
+      {
+       "q": "For online safety, we should never share with strangers our:",
+       "options": [
+        "Favourite colour",
+        "Personal information and passwords",
+        "Favourite game",
+        "Pet's name only"
+       ],
+       "answer": 1,
+       "why": "We must never share personal information (address, school, passwords) with strangers, use strong passwords and not download files from unknown websites."
+      },
+      {
+       "q": "The 20-20-20 rule says that after every 20 minutes we should:",
+       "options": [
+        "Close the computer",
+        "Look at something 20 feet away for 20 seconds",
+        "Drink 20 glasses of water",
+        "Type for 20 more minutes"
+       ],
+       "answer": 1,
+       "why": "The 20-20-20 rule reduces eye strain: after every 20 minutes of screen use, look at something 20 feet away for 20 seconds."
+      },
+      {
+       "q": "Repetitive Strain Injury (RSI), such as carpal tunnel syndrome, affects the:",
+       "options": [
+        "Wrist",
+        "Ear",
+        "Foot only",
+        "Hair"
+       ],
+       "answer": 0,
+       "why": "RSI such as carpal tunnel syndrome occurs in the wrist from typing and using the mouse for long periods without breaks."
+      },
+      {
+       "q": "While using a computer, the screen should be about:",
+       "options": [
+        "5 cm from the eyes",
+        "50 cm from the eyes, at eye level",
+        "2 metres away",
+        "Touching the face"
+       ],
+       "answer": 1,
+       "why": "Proper posture keeps the screen at eye level about 50 cm away from the eyes, with the back supported, feet flat and elbows at about 90 degrees."
+      },
+      {
+       "q": "Excessive use of ICT devices can cause:",
+       "options": [
+        "Stronger eyesight",
+        "Eye strain and weak eyesight",
+        "Better sleep always",
+        "More physical activity"
+       ],
+       "answer": 1,
+       "why": "Excessive use causes eye strain and weak eyesight, back and neck ache, RSI, headache, disturbed sleep and less physical activity leading to weakness and obesity."
+      },
+      {
+       "q": "A strong password should be:",
+       "options": [
+        "Shared with all friends",
+        "Kept private and not shared",
+        "Written on the classroom board",
+        "The same as our name"
+       ],
+       "answer": 1,
+       "why": "For online safety we use strong passwords and do not share them; passwords are personal information that must stay private."
+      },
+      {
+       "q": "If something online makes you feel unsafe or uncomfortable, you should:",
+       "options": [
+        "Stay silent",
+        "Keep using it",
+        "Tell a trusted adult immediately",
+        "Share it with strangers"
+       ],
+       "answer": 2,
+       "why": "The safety rules and the NO-GO-TELL approach both say: if something makes you feel unsafe or uncomfortable, tell a trusted adult immediately."
+      }
+     ]
+    },
+    {
+     "title": "Copyright, Plagiarism and Piracy",
+     "notes_html": "<h4>Copyright</h4>\n<p><b>Copyright</b> is a type of intellectual property right that protects the original works of an owner, such as books, computer programs, films, music and pictures. It gives the owner the legal right to copy, publish and sell his work, and no other person can reproduce or use it without permission. If someone copies it illegally, it is piracy and the owner can take legal action. In this way copyright encourages people to create new work without fear of theft.</p>\n<h4>Plagiarism and Its Types</h4>\n<p><b>Plagiarism</b> is presenting someone else's work or ideas as your own, with or without consent. It is an offence because it is a kind of theft and dishonesty: the real creator loses the credit and reward of his hard work, and the plagiarist gets marks or fame for work he did not do. In schools and universities it leads to punishment, cancellation of work and loss of trust. Its types are:</p>\n<ul>\n<li><b>Global plagiarism</b>: plagiarizing an entire text and presenting it as your own.</li>\n<li><b>Patchwork plagiarism</b>: copying phrases and ideas from different sources and joining them together.</li>\n<li><b>Self plagiarism</b>: recycling your own previous work and submitting it again as new.</li>\n<li><b>Paraphrasing plagiarism</b>: changing a few words of someone's text without giving credit to the source.</li>\n</ul>\n<h4>Piracy</h4>\n<p><b>Piracy</b> is the act of illegally reproducing copyrighted material, such as books, computer programs and films, without the permission of its owner. Downloading paid software, songs or movies free from illegal websites and selling copied CDs are examples of piracy. Piracy causes heavy loss to the creators and companies and is a punishable crime.</p>\n<h4>Ethics of Sourcing Online Information</h4>\n<p>Ethical issues while surfing online include plagiarism, piracy, spreading false information, abusive language or bullying, invading someone's privacy and visiting harmful websites. The ethical standards of sourcing online information are: always mention the name of the author and the website; do not copy large parts of text word for word — read, understand and write in your own words; take permission for pictures and other copyrighted material, or use free material; check that the information is from a reliable source; and never present downloaded assignments or projects as your own work.</p>",
+     "mcqs": [
+      {
+       "q": "A type of intellectual property right that protects the original works of an owner is called:",
+       "options": [
+        "Plagiarism",
+        "Copyright",
+        "Piracy",
+        "Paraphrasing"
+       ],
+       "answer": 1,
+       "why": "Copyright protects the original works of an owner — books, programs, films, music and pictures — and gives the owner the legal right to copy, publish and sell the work."
+      },
+      {
+       "q": "Presenting others' work or ideas as your own, with or without consent, is called:",
+       "options": [
+        "Plagiarism",
+        "Copyright",
+        "Piracy",
+        "Research"
+       ],
+       "answer": 0,
+       "why": "Plagiarism is presenting someone else's work or ideas as your own; it is an offence because it is a kind of theft and dishonesty."
+      },
+      {
+       "q": "Plagiarizing an entire text is called:",
+       "options": [
+        "Self plagiarism",
+        "Global plagiarism",
+        "Patchwork plagiarism",
+        "Paraphrasing plagiarism"
+       ],
+       "answer": 1,
+       "why": "Global plagiarism means plagiarizing an entire text and presenting it as your own; patchwork copies from different sources and self plagiarism recycles your own old work."
+      },
+      {
+       "q": "Recycling your own previous work and submitting it again as new is:",
+       "options": [
+        "Global plagiarism",
+        "Patchwork plagiarism",
+        "Self plagiarism",
+        "Copyright"
+       ],
+       "answer": 2,
+       "why": "Self plagiarism means recycling your own previous work; it is still dishonest because the work is presented as new when it is not."
+      },
+      {
+       "q": "Copying phrases and ideas from different sources and joining them together is:",
+       "options": [
+        "Self plagiarism",
+        "Global plagiarism",
+        "Patchwork plagiarism",
+        "Paraphrasing"
+       ],
+       "answer": 2,
+       "why": "Patchwork plagiarism means copying phrases and ideas from different sources and joining them together as if they were your own work."
+      },
+      {
+       "q": "The act of illegally reproducing copyrighted material is called:",
+       "options": [
+        "Plagiarism",
+        "Piracy",
+        "Accuracy",
+        "Paraphrasing"
+       ],
+       "answer": 1,
+       "why": "Piracy is the act of illegally reproducing copyrighted material without the owner's permission. (The book's printed answer key marks another option, but the unit's own summary defines exactly this act as Piracy.)"
+      },
+      {
+       "q": "Changing a few words of someone's text without giving credit is:",
+       "options": [
+        "Paraphrasing plagiarism",
+        "Copyright",
+        "Piracy",
+        "Honest research"
+       ],
+       "answer": 0,
+       "why": "Paraphrasing plagiarism means changing a few words of someone's text without giving credit to the source; we should write in our own words and name our sources."
+      },
+      {
+       "q": "Downloading paid software free from an illegal website is an example of:",
+       "options": [
+        "Copyright",
+        "Piracy",
+        "Plagiarism types",
+        "Fair study"
+       ],
+       "answer": 1,
+       "why": "Downloading paid software, songs or movies free from illegal websites is piracy — illegally reproducing copyrighted material — which causes heavy loss to creators and is a punishable crime."
+      },
+      {
+       "q": "Ethical sourcing of online information requires us to:",
+       "options": [
+        "Copy everything word for word",
+        "Mention the name of the author and the website",
+        "Hide our sources",
+        "Use unreliable websites"
+       ],
+       "answer": 1,
+       "why": "Ethical standards include mentioning the author and website, writing in our own words, taking permission for copyrighted material and checking that the source is reliable."
+      },
+      {
+       "q": "Copyright encourages people to create new work because:",
+       "options": [
+        "Anyone can copy it freely",
+        "It protects their work from theft",
+        "It removes all their rights",
+        "It makes work free for all"
+       ],
+       "answer": 1,
+       "why": "Copyright gives the owner the legal right over his work and lets him take legal action against illegal copying, so creators can work without fear of theft."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Entrepreneurship in Digital Age",
+   "lessons": [
+    {
+     "title": "Entrepreneur and Entrepreneurship",
+     "notes_html": "<h4>Who is an Entrepreneur?</h4>\n<p>An <b>entrepreneur</b> is an individual who initiates a new business and bears most of the risks associated with it and enjoys most of the rewards. He starts a business venture and is responsible for its development. An entrepreneur is also commonly known as an <b>innovator</b> who sources new ideas, goods, services and business procedures.</p>\n<h4>What is Entrepreneurship?</h4>\n<p><b>Entrepreneurship</b> is the process of setting up a business. It means identifying a need or opportunity, arranging resources, starting a new venture and running it successfully while taking risks. Entrepreneurship creates new products and services, provides jobs to people and plays a vital role in the economy of a country and its development.</p>\n<h4>Why is an Entrepreneur a Risk Taker?</h4>\n<p>An entrepreneur is called a risk taker because he invests his own money, time and effort in a new business whose success is not guaranteed. The business may earn profit or may fail and result in losses. The entrepreneur bears most of these risks himself and still starts the venture with courage and planning. If the entrepreneurship proves successful in taking on the risks of creating a startup, it is rewarded with profits, fame and continued growth opportunities.</p>\n<h4>How Entrepreneurship Develops an Economy</h4>\n<ul>\n<li>It creates new businesses and new jobs, reducing unemployment.</li>\n<li>It brings new and better products and services to the market.</li>\n<li>It increases competition, which improves quality and lowers prices.</li>\n<li>Entrepreneurs pay taxes which the government uses for development.</li>\n<li>Successful businesses earn fame and profit for the country through trade.</li>\n</ul>\n<h4>Famous Entrepreneurs</h4>\n<p>Two famous entrepreneurs are <b>Bill Gates</b>, co-founder of Microsoft, who made personal computers and Windows software popular all over the world, and <b>Steve Jobs</b>, co-founder of Apple, famous for the iPhone and other innovative products. Other examples are Elon Musk (Tesla, SpaceX) and Muhammad Yunus of Bangladesh, who introduced microfinance through Grameen Bank and helped millions of poor people start small businesses.</p>",
+     "mcqs": [
+      {
+       "q": "An individual who initiates a new business, bears most of the risks and enjoys most of the rewards is called an:",
+       "options": [
+        "Buyer",
+        "Seller",
+        "Investor",
+        "Entrepreneur"
+       ],
+       "answer": 3,
+       "why": "An entrepreneur initiates a new business, bears most of the risks associated with it and enjoys most of the rewards; he is also known as an innovator."
+      },
+      {
+       "q": "Entrepreneurship is:",
+       "options": [
+        "The process of setting up a business",
+        "A type of computer",
+        "A school subject only",
+        "A government job"
+       ],
+       "answer": 0,
+       "why": "Entrepreneurship is the process of setting up a business: identifying an opportunity, arranging resources, starting a venture and running it successfully while taking risks."
+      },
+      {
+       "q": "An entrepreneur is also commonly known as an:",
+       "options": [
+        "Employee",
+        "Innovator",
+        "Customer",
+        "Auditor"
+       ],
+       "answer": 1,
+       "why": "An entrepreneur is commonly known as an innovator who sources new ideas, goods, services and business procedures."
+      },
+      {
+       "q": "Entrepreneurship helps the economy by:",
+       "options": [
+        "Increasing unemployment",
+        "Creating new businesses and new jobs",
+        "Stopping all trade",
+        "Raising prices only"
+       ],
+       "answer": 1,
+       "why": "Entrepreneurship creates new businesses and jobs, brings better products, increases competition and generates taxes used for development."
+      },
+      {
+       "q": "Bill Gates is the co-founder of:",
+       "options": [
+        "Apple",
+        "Microsoft",
+        "Google",
+        "Tesla"
+       ],
+       "answer": 1,
+       "why": "Bill Gates co-founded Microsoft and made personal computers and Windows software popular all over the world; Steve Jobs co-founded Apple."
+      },
+      {
+       "q": "Steve Jobs is famous as the co-founder of:",
+       "options": [
+        "Microsoft",
+        "Apple",
+        "SpaceX",
+        "Grameen Bank"
+       ],
+       "answer": 1,
+       "why": "Steve Jobs co-founded Apple and is famous for the iPhone and other innovative products."
+      },
+      {
+       "q": "An entrepreneur is called a risk taker because:",
+       "options": [
+        "Success of the new business is not guaranteed",
+        "He never invests money",
+        "He always earns profit",
+        "He avoids all planning"
+       ],
+       "answer": 0,
+       "why": "He invests his own money, time and effort in a business that may earn profit or may fail; he bears most of the risks himself with courage and planning."
+      },
+      {
+       "q": "A successful startup is rewarded with:",
+       "options": [
+        "Only losses",
+        "Profits, fame and continued growth opportunities",
+        "Punishment",
+        "Nothing"
+       ],
+       "answer": 1,
+       "why": "Entrepreneurship that proves successful in taking on the risks of creating a startup is rewarded with profits, fame and continued growth opportunities."
+      },
+      {
+       "q": "Muhammad Yunus of Bangladesh is known for:",
+       "options": [
+        "Inventing the iPhone",
+        "Introducing microfinance through Grameen Bank",
+        "Founding Microsoft",
+        "Making electric cars"
+       ],
+       "answer": 1,
+       "why": "Muhammad Yunus introduced microfinance through Grameen Bank and helped millions of poor people, especially women, start small businesses."
+      },
+      {
+       "q": "Entrepreneurs pay taxes which the government uses for:",
+       "options": [
+        "Development of the country",
+        "Closing businesses",
+        "Nothing",
+        "Personal gifts"
+       ],
+       "answer": 0,
+       "why": "Entrepreneurs pay taxes which the government uses for development — one of the ways entrepreneurship helps develop an economy."
+      }
+     ]
+    },
+    {
+     "title": "Types of Entrepreneurship",
+     "notes_html": "<h4>Traditional and Digital Entrepreneurship</h4>\n<p><b>Traditional entrepreneurship</b> is based on a physical business, such as a shop or factory, which needs a proper place, serves mostly local customers and works for fixed hours. <b>Digital entrepreneurship</b> runs through the internet and digital technology, for example an online store or a mobile app; a digital online business does not require a physical existence, can serve customers all over the world at any time, and usually has less or no overhead costs. Digital businesses can also grow (scale) much faster than traditional ones. There are <b>9 types</b> of entrepreneurship in total.</p>\n<h4>Small Business and Large Company Entrepreneurship</h4>\n<p>In <b>small business entrepreneurship</b>, a person owns and runs his own small business, such as a local grocery store, hairdressing salon, small boutique or plumbing service, usually hiring local or family employees; its aim is a profit that supports the family and a modest lifestyle. <b>Large company entrepreneurship</b> is found in big established companies run by advanced professionals and teams of executives, which keep creating new products and services according to market demand, for example Microsoft, Google and Disney. A small business can turn into large company entrepreneurship when it grows rapidly or is acquired by a large company.</p>\n<h4>Some Kinds of Entrepreneurs</h4>\n<p><b>Imitators</b> are entrepreneurs who use others' business ideas as inspiration but work towards improving them. <b>Researcher</b> entrepreneurs take their good time when starting their own business, as they want to have complete knowledge of the product before offering it. <b>Hustlers</b> work very hard and are willing to work their way up. Technology has enabled business owners and leaders to stay on top of their projects by tracking time and progress.</p>\n<h4>E-commerce and the Traditional System</h4>\n<table>\n<tr><th>E-commerce</th><th>Traditional System</th></tr>\n<tr><td>Buying and selling goods and services through the internet: the customer selects products on a website or app, pays online or on delivery, and receives goods at home. It is open all the time and everywhere, and an e-business generally has less or no overhead costs.</td><td>Buying and selling at a physical shop or market: the customer visits personally, sees the goods and pays in cash during fixed shop hours. It is limited to a place and time.</td></tr>\n</table>",
+     "mcqs": [
+      {
+       "q": "A business that does not require a physical existence is a:",
+       "options": [
+        "Traditional business",
+        "Commercial business",
+        "Digital online business",
+        "Conventional business"
+       ],
+       "answer": 2,
+       "why": "A digital online business runs through the internet and digital technology, so it does not require a physical place and can serve customers worldwide at any time."
+      },
+      {
+       "q": "Entrepreneurs who use others' business ideas as inspiration but work towards improving them are called:",
+       "options": [
+        "Imitators",
+        "Hustlers",
+        "Scalable",
+        "Social"
+       ],
+       "answer": 0,
+       "why": "Imitators are entrepreneurs who use others' business ideas as inspiration but work towards improving them, as defined in the book's exercise."
+      },
+      {
+       "q": "Researcher entrepreneurs are those who:",
+       "options": [
+        "Start business in a hurry",
+        "Take their time to gain complete knowledge of the product before offering it",
+        "Never research anything",
+        "Copy others exactly"
+       ],
+       "answer": 1,
+       "why": "In researcher entrepreneurship, entrepreneurs take their good time when starting, because they want complete knowledge of the product before offering it."
+      },
+      {
+       "q": "There are how many types of entrepreneurship?",
+       "options": [
+        "4",
+        "5",
+        "7",
+        "9"
+       ],
+       "answer": 3,
+       "why": "According to the book, there are 9 types of entrepreneurship, including small business, large company, scalable startup and social entrepreneurship."
+      },
+      {
+       "q": "E-business generally has less or no:",
+       "options": [
+        "Hidden costs",
+        "Fixed costs",
+        "Overhead costs",
+        "Variable costs"
+       ],
+       "answer": 2,
+       "why": "E-business generally has less or no overhead costs because it does not need a physical shop, office and related running expenses."
+      },
+      {
+       "q": "Which of the following is an example of small business entrepreneurship?",
+       "options": [
+        "Microsoft",
+        "A local grocery store",
+        "Google",
+        "Disney"
+       ],
+       "answer": 1,
+       "why": "A local grocery store, hairdressing salon or plumbing service run by its owner is small business entrepreneurship; Microsoft, Google and Disney are large company entrepreneurship."
+      },
+      {
+       "q": "Large company entrepreneurship is found in companies such as:",
+       "options": [
+        "A street stall",
+        "A home tailor",
+        "Microsoft, Google and Disney",
+        "A village shop"
+       ],
+       "answer": 2,
+       "why": "Large company entrepreneurship is found in big established companies like Microsoft, Google and Disney, run by professionals and executives."
+      },
+      {
+       "q": "E-commerce means:",
+       "options": [
+        "Buying and selling through the internet",
+        "Buying only in cash",
+        "Selling only in villages",
+        "Trading without money"
+       ],
+       "answer": 0,
+       "why": "E-commerce means buying and selling goods and services through the internet: the customer selects products on a website or app and receives goods at home."
+      },
+      {
+       "q": "A traditional business serves mostly:",
+       "options": [
+        "The whole world at any time",
+        "Local customers during fixed hours",
+        "Only online customers",
+        "Customers on other planets"
+       ],
+       "answer": 1,
+       "why": "A traditional business such as a shop or factory needs a proper place, serves mostly local customers and works for fixed hours, unlike a digital business."
+      },
+      {
+       "q": "Technology has enabled business owners to stay on top of their projects by:",
+       "options": [
+        "Tracking time and progress",
+        "Avoiding all work",
+        "Closing projects early",
+        "Hiding information"
+       ],
+       "answer": 0,
+       "why": "As the book states, technology has enabled business owners and leaders to stay on top of their projects by tracking time and progress."
+      }
+     ]
+    },
+    {
+     "title": "The Entrepreneurial Process",
+     "notes_html": "<h4>Steps of the Entrepreneurial Process</h4>\n<ul>\n<li><b>Discovery</b>: identifying a business opportunity or a problem to solve.</li>\n<li><b>Planning</b>: making a business plan about the product, customers, resources and money needed.</li>\n<li><b>Resourcing</b>: arranging capital, people and material.</li>\n<li><b>Developing / Launching</b>: starting the business and offering the product or service.</li>\n<li><b>Managing and growing</b>: running the business successfully, earning profit and expanding it.</li>\n</ul>\n<p>An entrepreneur who succeeds in this process is rewarded with profits, fame and continued growth opportunities. In a class project, a good business plan states the idea, the investment needed, the expected income, the risks and their solutions — for example an online home tutoring service has almost no overhead cost and can grow from one town to the whole district.</p>\n<h4>Why Digital Entrepreneurship is Preferred Nowadays</h4>\n<ul>\n<li>It does not require a physical shop or office, so starting costs and overhead costs are very low.</li>\n<li>It can reach customers all over the world through the internet, 24 hours a day.</li>\n<li>Technology helps owners track time, progress and sales easily.</li>\n<li>Hiring a <b>virtual assistant</b> can give your business smart tech solutions with a human touch.</li>\n<li>A successful digital business can grow and scale much faster than a traditional business.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The first step in the entrepreneurial process is:",
+       "options": [
+        "Planning",
+        "Discovery — identifying a business opportunity",
+        "Resourcing",
+        "Launching"
+       ],
+       "answer": 1,
+       "why": "The entrepreneurial process begins with Discovery: identifying a business opportunity or a problem to solve, before planning, resourcing and launching."
+      },
+      {
+       "q": "A business plan about the product, customers, resources and money is made in the:",
+       "options": [
+        "Discovery step",
+        "Planning step",
+        "Launching step",
+        "Growing step"
+       ],
+       "answer": 1,
+       "why": "In the Planning step the entrepreneur makes a business plan about the product, customers, resources and money needed for the venture."
+      },
+      {
+       "q": "Arranging capital, people and material is called:",
+       "options": [
+        "Discovery",
+        "Planning",
+        "Resourcing",
+        "Harvesting"
+       ],
+       "answer": 2,
+       "why": "Resourcing is the step of arranging capital, people and material needed to start the business, after the plan has been made."
+      },
+      {
+       "q": "Hiring a virtual assistant can give your business:",
+       "options": [
+        "Only extra costs",
+        "Smart tech solutions with a human touch",
+        "A physical shop",
+        "Free products"
+       ],
+       "answer": 1,
+       "why": "As the book states, hiring a virtual assistant can give your business smart tech solutions with a human touch — a benefit of digital entrepreneurship."
+      },
+      {
+       "q": "Digital entrepreneurship is preferred nowadays because:",
+       "options": [
+        "It needs a big physical shop",
+        "Starting and overhead costs are very low",
+        "It works only at night",
+        "It has no customers"
+       ],
+       "answer": 1,
+       "why": "Digital entrepreneurship does not require a physical shop or office, so starting costs and overhead costs are very low, and it can reach customers worldwide 24 hours a day."
+      },
+      {
+       "q": "In the entrepreneurial process, launching means:",
+       "options": [
+        "Closing the business",
+        "Starting the business and offering the product or service",
+        "Only making the plan",
+        "Paying taxes"
+       ],
+       "answer": 1,
+       "why": "Developing/Launching is the step where the business is actually started and the product or service is offered to customers."
+      },
+      {
+       "q": "After launching, the entrepreneur focuses on:",
+       "options": [
+        "Managing and growing the business",
+        "Stopping all work",
+        "Selling the plan only",
+        "Avoiding customers"
+       ],
+       "answer": 0,
+       "why": "The process continues with managing and growing: running the business successfully, earning profit and expanding it."
+      },
+      {
+       "q": "A digital business can grow (scale) in comparison to a traditional business:",
+       "options": [
+        "Much slower",
+        "At the same fixed speed",
+        "Much faster",
+        "Never"
+       ],
+       "answer": 2,
+       "why": "A successful digital business can grow and scale much faster than a traditional business because it reaches customers all over the world through the internet."
+      },
+      {
+       "q": "In the process given in the book, resourcing comes:",
+       "options": [
+        "Before discovery",
+        "After planning",
+        "After launching",
+        "At the very beginning"
+       ],
+       "answer": 1,
+       "why": "The book's order is: Discovery, Planning, Resourcing, Developing/Launching, Managing and growing — so resourcing (arranging capital, people and material) comes after planning."
+      },
+      {
+       "q": "A good business plan should also state:",
+       "options": [
+        "Only the shop's colour",
+        "The risks and their solutions",
+        "Nothing about money",
+        "Only the owner's name"
+       ],
+       "answer": 1,
+       "why": "A convincing business plan states the idea, investment needed, expected income, the risks and their solutions — as in the book's model plan for an online tutoring service."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
