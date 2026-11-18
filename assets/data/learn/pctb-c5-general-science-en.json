@@ -7,32 +7,698 @@
     {
      "title": "Classification of Organisms",
      "notes_html": "<p>To put organisms into groups on the basis of similarities and differences is called <strong>classification</strong>.</p><h4>Importance of Classification</h4><p>Due to the structure and other characteristics of organisms, we can identify and study them and know the relationships among them. Classification also helps us conserve biodiversity.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is classification?",
+       "options": [
+        "Putting organisms into groups on the basis of similarities and differences",
+        "Putting organisms into cages for display",
+        "Giving a new name to every organism",
+        "Counting the total number of organisms"
+       ],
+       "answer": 0,
+       "why": "Classification means grouping organisms by their similarities and differences, as the lesson defines it."
+      },
+      {
+       "q": "Classification of organisms is based on their:",
+       "options": [
+        "Colours only",
+        "Sizes only",
+        "Similarities and differences",
+        "Places of birth"
+       ],
+       "answer": 2,
+       "why": "Organisms are grouped by comparing their similarities and differences in structure and other characteristics."
+      },
+      {
+       "q": "Classification helps us to:",
+       "options": [
+        "Hide organisms from view",
+        "Identify and study organisms",
+        "Make organisms extinct",
+        "Stop the study of organisms"
+       ],
+       "answer": 1,
+       "why": "Because of their structure and characteristics, classification lets us identify organisms and study them properly."
+      },
+      {
+       "q": "By classification we can know the:",
+       "options": [
+        "Age of every organism",
+        "Price of every organism",
+        "Weight of every organism",
+        "Relationships among organisms"
+       ],
+       "answer": 3,
+       "why": "Classification shows how different organisms are related to one another, which the lesson lists as its importance."
+      },
+      {
+       "q": "Classification also helps us to conserve:",
+       "options": [
+        "Buildings",
+        "Machines",
+        "Biodiversity",
+        "Minerals"
+       ],
+       "answer": 2,
+       "why": "Knowing and grouping organisms helps us protect the variety of life, so classification helps conserve biodiversity."
+      },
+      {
+       "q": "We can identify an organism by studying its:",
+       "options": [
+        "Structure and other characteristics",
+        "Shadow only",
+        "Sound only",
+        "Footprints only"
+       ],
+       "answer": 0,
+       "why": "The lesson says that due to the structure and other characteristics of organisms, we can identify and study them."
+      },
+      {
+       "q": "Which activity groups organisms by similarities and differences?",
+       "options": [
+        "Pollination",
+        "Germination",
+        "Evaporation",
+        "Classification"
+       ],
+       "answer": 3,
+       "why": "Grouping organisms on the basis of similarities and differences is exactly what classification means."
+      },
+      {
+       "q": "To put organisms into groups is called:",
+       "options": [
+        "Biodiversity",
+        "Classification",
+        "Conservation",
+        "Germination"
+       ],
+       "answer": 1,
+       "why": "The lesson's definition begins: to put organisms into groups on the basis of similarities and differences is called classification."
+      },
+      {
+       "q": "Classification is useful because it helps in:",
+       "options": [
+        "Making organisms disappear",
+        "Changing organisms into stones",
+        "Identifying organisms",
+        "Stopping biodiversity"
+       ],
+       "answer": 2,
+       "why": "Identification of organisms is one of the main uses of classification given in the lesson."
+      },
+      {
+       "q": "Similarities and differences between organisms are used for:",
+       "options": [
+        "Feeding them",
+        "Painting them",
+        "Hiding them",
+        "Grouping them"
+       ],
+       "answer": 3,
+       "why": "Similarities and differences are the basis on which organisms are put into groups in classification."
+      }
+     ]
     },
     {
      "title": "The Five Kingdoms",
      "notes_html": "<p>Organisms are divided into five kingdoms on the basis of similarities and differences: <strong>Monera</strong>, <strong>Protista</strong>, <strong>Fungi</strong>, <strong>Plantae</strong> and <strong>Animalia</strong>.</p><h4>Monera and Protista</h4><p>Monera: These organisms are made of one cell and their structure is very simple, for example bacteria.</p><p>Protista: Most of them live in water, for example amoeba and paramecium.</p><h4>Fungi and Animals</h4><p>Both fungi and animals cannot make their own food. They depend on other organisms or dead matter for their food.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Organisms are divided into how many kingdoms?",
+       "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Seven"
+       ],
+       "answer": 2,
+       "why": "On the basis of similarities and differences, organisms are divided into five kingdoms."
+      },
+      {
+       "q": "Which of these is one of the five kingdoms?",
+       "options": [
+        "Bacteria",
+        "Monera",
+        "Amoeba",
+        "Paramecium"
+       ],
+       "answer": 1,
+       "why": "The five kingdoms are Monera, Protista, Fungi, Plantae and Animalia; bacteria, amoeba and paramecium are only examples."
+      },
+      {
+       "q": "Bacteria are examples of the kingdom:",
+       "options": [
+        "Protista",
+        "Fungi",
+        "Animalia",
+        "Monera"
+       ],
+       "answer": 3,
+       "why": "The lesson gives bacteria as the example of Monera, whose organisms are made of one cell."
+      },
+      {
+       "q": "Monera organisms are made of:",
+       "options": [
+        "Two cells",
+        "Many cells",
+        "One cell",
+        "No cells"
+       ],
+       "answer": 2,
+       "why": "Monera have a very simple structure and each organism is made of only one cell, for example bacteria."
+      },
+      {
+       "q": "The structure of Monera organisms is:",
+       "options": [
+        "Very simple",
+        "Very complex",
+        "Like a tree",
+        "Like an animal"
+       ],
+       "answer": 0,
+       "why": "The lesson describes Monera as organisms made of one cell whose structure is very simple."
+      },
+      {
+       "q": "Amoeba belongs to the kingdom:",
+       "options": [
+        "Monera",
+        "Fungi",
+        "Plantae",
+        "Protista"
+       ],
+       "answer": 3,
+       "why": "Amoeba and paramecium are the examples of Protista given in the lesson."
+      },
+      {
+       "q": "Most Protista live in:",
+       "options": [
+        "Sand",
+        "Water",
+        "Air",
+        "Dry soil"
+       ],
+       "answer": 1,
+       "why": "The lesson states that most Protista live in water, like amoeba and paramecium."
+      },
+      {
+       "q": "Paramecium is an example of:",
+       "options": [
+        "Monera",
+        "Animalia",
+        "Protista",
+        "Plantae"
+       ],
+       "answer": 2,
+       "why": "Paramecium is named in the lesson as an example of the kingdom Protista."
+      },
+      {
+       "q": "Fungi cannot:",
+       "options": [
+        "Live on dead matter",
+        "Grow in damp places",
+        "Depend on others",
+        "Make their own food"
+       ],
+       "answer": 3,
+       "why": "Both fungi and animals cannot make their own food; they depend on other organisms or dead matter."
+      },
+      {
+       "q": "Animals get their food by:",
+       "options": [
+        "Depending on other organisms or dead matter",
+        "Making it themselves",
+        "Absorbing sunlight",
+        "Drinking only water"
+       ],
+       "answer": 0,
+       "why": "The lesson says animals cannot make their own food and depend on other organisms or dead matter for food."
+      }
+     ]
     },
     {
      "title": "Monocot and Dicot Plants",
      "notes_html": "<p>Flowering plants whose seeds have <strong>one cotyledon</strong> are called <strong>monocot plants</strong> — for example sugarcane, wheat, rice, bamboo and maize. Flowering plants whose seeds have <strong>two cotyledons</strong> are called <strong>dicot plants</strong> — for example mango, guava, rose and pea. In monocot leaves the veins are parallel to each other, while dicot leaves have veins in the form of a net.</p><h4>Key Facts</h4><ul><li>A gram seed has <strong>two cotyledons</strong>, so gram is a dicot plant.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The seed of a monocot plant has:",
+       "options": [
+        "Two cotyledons",
+        "One cotyledon",
+        "Three cotyledons",
+        "No cotyledon"
+       ],
+       "answer": 1,
+       "why": "Flowering plants whose seeds have one cotyledon are called monocot plants."
+      },
+      {
+       "q": "Wheat is an example of a:",
+       "options": [
+        "Dicot plant",
+        "Non-flowering plant",
+        "Fungus",
+        "Monocot plant"
+       ],
+       "answer": 3,
+       "why": "Sugarcane, wheat, rice, bamboo and maize are the monocot examples listed in the lesson."
+      },
+      {
+       "q": "Mango is an example of a:",
+       "options": [
+        "Monocot plant",
+        "Protista",
+        "Dicot plant",
+        "Monera"
+       ],
+       "answer": 2,
+       "why": "Mango, guava, rose and pea are listed as dicot plants because their seeds have two cotyledons."
+      },
+      {
+       "q": "The seed of a dicot plant has:",
+       "options": [
+        "Two cotyledons",
+        "One cotyledon",
+        "Four cotyledons",
+        "No cotyledon"
+       ],
+       "answer": 0,
+       "why": "Flowering plants whose seeds have two cotyledons are called dicot plants."
+      },
+      {
+       "q": "In monocot leaves, the veins are:",
+       "options": [
+        "In the form of a net",
+        "In circles",
+        "Absent",
+        "Parallel to each other"
+       ],
+       "answer": 3,
+       "why": "The lesson states that in monocot leaves the veins are parallel to each other."
+      },
+      {
+       "q": "In dicot leaves, the veins are:",
+       "options": [
+        "Parallel to each other",
+        "In the form of a net",
+        "In a single line",
+        "Absent"
+       ],
+       "answer": 1,
+       "why": "Dicot leaves have veins in the form of a net, unlike the parallel veins of monocot leaves."
+      },
+      {
+       "q": "Gram is a dicot plant because its seed has:",
+       "options": [
+        "One cotyledon",
+        "No seed coat",
+        "Two cotyledons",
+        "Parallel veins"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that a gram seed has two cotyledons, so gram is a dicot plant."
+      },
+      {
+       "q": "Which of these is a monocot plant?",
+       "options": [
+        "Mango",
+        "Guava",
+        "Rose",
+        "Rice"
+       ],
+       "answer": 3,
+       "why": "Rice is listed among the monocots, while mango, guava and rose are listed as dicots."
+      },
+      {
+       "q": "Which of these is a dicot plant?",
+       "options": [
+        "Pea",
+        "Sugarcane",
+        "Bamboo",
+        "Maize"
+       ],
+       "answer": 0,
+       "why": "Pea is listed as a dicot; sugarcane, bamboo and maize are all monocot examples."
+      },
+      {
+       "q": "Maize is a monocot plant because its seed has:",
+       "options": [
+        "Two cotyledons",
+        "A net of veins",
+        "One cotyledon",
+        "No embryo"
+       ],
+       "answer": 2,
+       "why": "Maize is named among the monocots, the flowering plants whose seeds have one cotyledon."
+      }
+     ]
     },
     {
      "title": "Vertebrates",
      "notes_html": "<p>All vertebrates have a backbone in their body. They are classified into fish, amphibians, reptiles, birds and mammals on the basis of their characteristics.</p><h4>Key Facts</h4><ul><li>The foot of an aquatic bird is the <strong>webbed foot</strong> — the foot with skin between the toes, which helps the bird swim. (In the book, the options for this point are pictures of feet.)</li><li>The cat belongs to the group of <strong>mammals</strong>.</li><li>A fish respires through <strong>gills</strong>.</li></ul><h4>Amphibians and Reptiles</h4><p>Amphibians live both in water and on land, have moist skin and lay their eggs in water, for example the frog. Reptiles live on land, have dry and scaly skin and lay their eggs on land, for example the lizard and the snake.</p><h4>Importance of Cartilage</h4><p>Cartilage is light and flexible. A skeleton of cartilage makes the body of the shark and the sting ray light, so they can swim easily and move flexibly in water.</p><h4>Stripes of the Zebra</h4><p>The black and white stripes break up the zebra's outline in tall grass and confuse predators, so the stripes help the zebra hide from its enemies.</p><h4>Large Ears of the Elephant</h4><p>Elephants live in a hot climate. Their large ears help them release body heat and keep cool.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "All vertebrates have a:",
+       "options": [
+        "Webbed foot",
+        "Pair of wings",
+        "Scaly skin",
+        "Backbone"
+       ],
+       "answer": 3,
+       "why": "The lesson begins by stating that all vertebrates have a backbone in their body."
+      },
+      {
+       "q": "Vertebrates are classified into which groups?",
+       "options": [
+        "Sponges, worms and insects",
+        "Monera and Protista",
+        "Fish, amphibians, reptiles, birds and mammals",
+        "Monocots and dicots"
+       ],
+       "answer": 2,
+       "why": "Vertebrates are classified into fish, amphibians, reptiles, birds and mammals on the basis of their characteristics."
+      },
+      {
+       "q": "A fish respires through:",
+       "options": [
+        "Gills",
+        "Lungs",
+        "Skin",
+        "Nose"
+       ],
+       "answer": 0,
+       "why": "The key fact in the lesson is that a fish respires through gills."
+      },
+      {
+       "q": "The cat belongs to the group of:",
+       "options": [
+        "Reptiles",
+        "Amphibians",
+        "Birds",
+        "Mammals"
+       ],
+       "answer": 3,
+       "why": "The lesson's key fact states that the cat belongs to the group of mammals."
+      },
+      {
+       "q": "The webbed foot of an aquatic bird helps it to:",
+       "options": [
+        "Fly faster",
+        "Swim",
+        "Dig the soil",
+        "Climb trees"
+       ],
+       "answer": 1,
+       "why": "A webbed foot has skin between the toes, which helps the aquatic bird swim in water."
+      },
+      {
+       "q": "Amphibians lay their eggs in:",
+       "options": [
+        "Dry sand",
+        "Tree tops",
+        "Water",
+        "Underground burrows"
+       ],
+       "answer": 2,
+       "why": "Amphibians live both in water and on land, have moist skin and lay their eggs in water, for example the frog."
+      },
+      {
+       "q": "Reptiles have skin that is:",
+       "options": [
+        "Moist and smooth",
+        "Covered with feathers",
+        "Covered with fur",
+        "Dry and scaly"
+       ],
+       "answer": 3,
+       "why": "Reptiles live on land, have dry and scaly skin and lay their eggs on land, like the lizard and the snake."
+      },
+      {
+       "q": "The skeleton of cartilage helps the shark to:",
+       "options": [
+        "Swim easily and move flexibly in water",
+        "Fly above water",
+        "Live on dry land",
+        "Dig in the mud"
+       ],
+       "answer": 0,
+       "why": "Cartilage is light and flexible, so a cartilage skeleton keeps the shark's body light for easy, flexible swimming."
+      },
+      {
+       "q": "The black and white stripes of the zebra help it to:",
+       "options": [
+        "Attract other zebras",
+        "Keep its body warm",
+        "Hide from its enemies",
+        "Find food in grass"
+       ],
+       "answer": 2,
+       "why": "The stripes break up the zebra's outline in tall grass and confuse predators, helping it hide from enemies."
+      },
+      {
+       "q": "The large ears of the elephant help it to:",
+       "options": [
+        "Hear distant sounds only",
+        "Release body heat and keep cool",
+        "Fly in hot weather",
+        "Store water"
+       ],
+       "answer": 1,
+       "why": "Elephants live in a hot climate, and their large ears help them release body heat and keep cool."
+      }
+     ]
     },
     {
      "title": "Invertebrates",
      "notes_html": "<p>Invertebrates do not have any type of bone inside the body. Their major groups are sponges, worms, insects, molluscs and echinoderms.</p><h4>Key Facts</h4><ul><li><strong>Echinoderms</strong> are the group found only in the ocean.</li></ul><h4>Worms and Insects</h4><p>Worms have soft bodies without legs, for example the earthworm. Insects have six legs, three body parts (head, thorax and abdomen) and antennae, for example the ant and the butterfly.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Invertebrates do not have any:",
+       "options": [
+        "Legs at all",
+        "Skin",
+        "Bone inside the body",
+        "Body parts"
+       ],
+       "answer": 2,
+       "why": "The lesson defines invertebrates as animals that do not have any type of bone inside the body."
+      },
+      {
+       "q": "Which of these is a major group of invertebrates?",
+       "options": [
+        "Insects",
+        "Fish",
+        "Birds",
+        "Mammals"
+       ],
+       "answer": 0,
+       "why": "The major invertebrate groups are sponges, worms, insects, molluscs and echinoderms."
+      },
+      {
+       "q": "Echinoderms are found only in the:",
+       "options": [
+        "Forest",
+        "Desert",
+        "Mountains",
+        "Ocean"
+       ],
+       "answer": 3,
+       "why": "The key fact in the lesson is that echinoderms are the group found only in the ocean."
+      },
+      {
+       "q": "Worms have bodies that are:",
+       "options": [
+        "Hard and scaly",
+        "Soft and without legs",
+        "Covered with feathers",
+        "Full of bones"
+       ],
+       "answer": 1,
+       "why": "Worms have soft bodies without legs, for example the earthworm."
+      },
+      {
+       "q": "Insects have how many legs?",
+       "options": [
+        "Four legs",
+        "Eight legs",
+        "Six legs",
+        "Ten legs"
+       ],
+       "answer": 2,
+       "why": "Insects have six legs, three body parts (head, thorax and abdomen) and antennae."
+      },
+      {
+       "q": "The body of an insect is divided into:",
+       "options": [
+        "Two parts: head and tail",
+        "Four parts",
+        "Five parts",
+        "Three parts: head, thorax and abdomen"
+       ],
+       "answer": 3,
+       "why": "The lesson states that insects have three body parts: head, thorax and abdomen."
+      },
+      {
+       "q": "Which of these is an insect?",
+       "options": [
+        "Butterfly",
+        "Earthworm",
+        "Sponge",
+        "Fish"
+       ],
+       "answer": 0,
+       "why": "The ant and the butterfly are the insect examples in the lesson; the earthworm is a worm and the sponge is a sponge."
+      },
+      {
+       "q": "Insects have which feature on their head?",
+       "options": [
+        "Gills",
+        "Webbed toes",
+        "Antennae",
+        "Scales"
+       ],
+       "answer": 2,
+       "why": "Antennae are listed in the lesson as a feature of insects, along with six legs and three body parts."
+      },
+      {
+       "q": "The earthworm is an example of:",
+       "options": [
+        "Insects",
+        "Worms",
+        "Molluscs",
+        "Echinoderms"
+       ],
+       "answer": 1,
+       "why": "The earthworm is given as the example of worms, which have soft bodies without legs."
+      },
+      {
+       "q": "Sponges belong to the group of:",
+       "options": [
+        "Vertebrates",
+        "Mammals",
+        "Reptiles",
+        "Invertebrates"
+       ],
+       "answer": 3,
+       "why": "Sponges are listed among the major groups of invertebrates, animals without any bone inside the body."
+      }
+     ]
     },
     {
      "title": "Biodiversity and Its Conservation",
      "notes_html": "<h4>Biodiversity</h4><p>The variety of plants and animals found in a particular place is called biodiversity.</p><p>Organisms that are no longer found in this world are called <strong>extinct</strong>, for example dinosaurs. Organisms that are very likely to become extinct in the near future are called <strong>endangered</strong>, for example the Bengal tiger and the rhinoceros; in Pakistan the snow leopard, green turtle, hawk, Indus dolphin and markhor are endangered.</p><h4>Activities</h4><ul><li>4. Investigate: Investigate the factors responsible for the extinction of biodiversity. Give an example of an extinct and an endangered animal. Investigate what types of animals are most likely to become extinct.</li><li>5. Project: Album of Animals — Cut pictures of two animals from each of the five groups of vertebrates, paste them in an album and write the characteristics of each animal with its picture.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The variety of plants and animals found in a particular place is called:",
+       "options": [
+        "Biodiversity",
+        "Classification",
+        "Pollination",
+        "Germination"
+       ],
+       "answer": 0,
+       "why": "The lesson defines biodiversity as the variety of plants and animals found in a particular place."
+      },
+      {
+       "q": "Organisms that are no longer found in this world are called:",
+       "options": [
+        "Endangered",
+        "Domestic",
+        "Aquatic",
+        "Extinct"
+       ],
+       "answer": 3,
+       "why": "Organisms no longer found in this world are called extinct, for example dinosaurs."
+      },
+      {
+       "q": "Dinosaurs are an example of animals that are:",
+       "options": [
+        "Endangered",
+        "Extinct",
+        "Common",
+        "Domestic"
+       ],
+       "answer": 1,
+       "why": "Dinosaurs are given in the lesson as the example of extinct organisms."
+      },
+      {
+       "q": "Organisms very likely to become extinct in the near future are called:",
+       "options": [
+        "Extinct",
+        "Harmless",
+        "Endangered",
+        "Artificial"
+       ],
+       "answer": 2,
+       "why": "Endangered organisms are those very likely to become extinct in the near future, like the Bengal tiger."
+      },
+      {
+       "q": "The Bengal tiger is an example of an animal that is:",
+       "options": [
+        "Extinct",
+        "A pet",
+        "An insect",
+        "Endangered"
+       ],
+       "answer": 3,
+       "why": "The Bengal tiger and the rhinoceros are listed as endangered animals in the lesson."
+      },
+      {
+       "q": "Which of these is endangered in Pakistan?",
+       "options": [
+        "Markhor",
+        "Dinosaur",
+        "Frog",
+        "Cat"
+       ],
+       "answer": 0,
+       "why": "In Pakistan the snow leopard, green turtle, hawk, Indus dolphin and markhor are endangered."
+      },
+      {
+       "q": "The rhinoceros is an animal that is:",
+       "options": [
+        "Extinct",
+        "A vertebrate pet",
+        "Endangered",
+        "Found everywhere"
+       ],
+       "answer": 2,
+       "why": "The rhinoceros is named with the Bengal tiger as an endangered animal."
+      },
+      {
+       "q": "The Indus dolphin is:",
+       "options": [
+        "Extinct",
+        "Endangered in Pakistan",
+        "A kind of fish pet",
+        "Found in deserts"
+       ],
+       "answer": 1,
+       "why": "The Indus dolphin is listed among the endangered animals of Pakistan in the lesson."
+      },
+      {
+       "q": "The snow leopard is endangered in:",
+       "options": [
+        "The ocean",
+        "The desert only",
+        "No country",
+        "Pakistan"
+       ],
+       "answer": 3,
+       "why": "The lesson lists the snow leopard among the animals endangered in Pakistan."
+      },
+      {
+       "q": "The green turtle is an example of an animal that is:",
+       "options": [
+        "Extinct",
+        "A mammal",
+        "Endangered",
+        "An insect"
+       ],
+       "answer": 2,
+       "why": "The green turtle is listed among the endangered animals in Pakistan in the lesson."
+      }
+     ]
     }
    ]
   },
@@ -42,27 +708,582 @@
     {
      "title": "Microorganisms and Their Main Groups",
      "notes_html": "<p><strong>Microorganisms</strong> are organisms so small that they can only be seen with a microscope. Their main groups include bacteria, viruses, fungi and protozoa.</p><h4>Key Facts</h4><ul><li>Mushrooms belong to the group of <strong>fungi</strong>.</li><li><strong>Penicillium</strong> is an example of fungi.</li><li>An <strong>ant</strong> is not a microorganism — it can be seen with the naked eye.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Microorganisms can only be seen with a:",
+       "options": [
+        "Telescope",
+        "Mirror",
+        "Camera",
+        "Microscope"
+       ],
+       "answer": 3,
+       "why": "Microorganisms are organisms so small that they can only be seen with a microscope."
+      },
+      {
+       "q": "Which of these is a main group of microorganisms?",
+       "options": [
+        "Insects",
+        "Bacteria",
+        "Worms",
+        "Plants"
+       ],
+       "answer": 1,
+       "why": "The main groups of microorganisms include bacteria, viruses, fungi and protozoa."
+      },
+      {
+       "q": "Mushrooms belong to the group of:",
+       "options": [
+        "Bacteria",
+        "Viruses",
+        "Fungi",
+        "Protozoa"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that mushrooms belong to the group of fungi."
+      },
+      {
+       "q": "Penicillium is an example of:",
+       "options": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Fungi"
+       ],
+       "answer": 3,
+       "why": "Penicillium is given in the lesson as an example of fungi."
+      },
+      {
+       "q": "Which of these is NOT a microorganism?",
+       "options": [
+        "Ant",
+        "Bacteria",
+        "Virus",
+        "Fungi"
+       ],
+       "answer": 0,
+       "why": "An ant is not a microorganism because it can be seen with the naked eye."
+      },
+      {
+       "q": "An ant can be seen with the:",
+       "options": [
+        "Microscope only",
+        "Telescope only",
+        "Naked eye",
+        "X-ray machine"
+       ],
+       "answer": 2,
+       "why": "The lesson explains that an ant is not a microorganism because it can be seen with the naked eye."
+      },
+      {
+       "q": "Viruses are included among:",
+       "options": [
+        "Insects",
+        "Microorganisms",
+        "Mammals",
+        "Flowering plants"
+       ],
+       "answer": 1,
+       "why": "Viruses are one of the main groups of microorganisms listed in the lesson."
+      },
+      {
+       "q": "Protozoa are a group of:",
+       "options": [
+        "Vertebrates",
+        "Dicot plants",
+        "Insects",
+        "Microorganisms"
+       ],
+       "answer": 3,
+       "why": "Protozoa are listed with bacteria, viruses and fungi as a main group of microorganisms."
+      },
+      {
+       "q": "An organism is called a microorganism when it is:",
+       "options": [
+        "Found only in water",
+        "Always harmful",
+        "So small it can only be seen with a microscope",
+        "Green in colour"
+       ],
+       "answer": 2,
+       "why": "By definition, microorganisms are organisms so small that they can only be seen with a microscope."
+      },
+      {
+       "q": "Which pair are both microorganisms?",
+       "options": [
+        "Bacteria and viruses",
+        "Ant and butterfly",
+        "Frog and fish",
+        "Rose and mango"
+       ],
+       "answer": 0,
+       "why": "Bacteria and viruses are both in the main groups of microorganisms; the others are large organisms."
+      }
+     ]
     },
     {
      "title": "Role of Microorganisms as Decomposers",
      "notes_html": "<h4>Decomposers</h4><p>Some bacteria and fungi break down the complex matter of dead bodies into simple materials. Because they decompose dead matter, they are called decomposers.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Decomposers break down the complex matter of:",
+       "options": [
+        "Living plants",
+        "Dead bodies",
+        "Rocks",
+        "Plastic"
+       ],
+       "answer": 1,
+       "why": "Some bacteria and fungi break down the complex matter of dead bodies into simple materials."
+      },
+      {
+       "q": "Which organisms act as decomposers?",
+       "options": [
+        "All viruses",
+        "Protozoa only",
+        "Some bacteria and fungi",
+        "Ants and butterflies"
+       ],
+       "answer": 2,
+       "why": "The lesson states that some bacteria and fungi decompose dead matter, so they are decomposers."
+      },
+      {
+       "q": "Decomposers change complex matter into:",
+       "options": [
+        "New living bodies",
+        "Hard stones",
+        "Gases only",
+        "Simple materials"
+       ],
+       "answer": 3,
+       "why": "Decomposers break down the complex matter of dead bodies into simple materials."
+      },
+      {
+       "q": "They are called decomposers because they:",
+       "options": [
+        "Decompose dead matter",
+        "Make their own food",
+        "Cause diseases",
+        "Live in water"
+       ],
+       "answer": 0,
+       "why": "The lesson says they are called decomposers because they decompose dead matter."
+      },
+      {
+       "q": "Bacteria that break down dead bodies are called:",
+       "options": [
+        "Pathogens",
+        "Producers",
+        "Decomposers",
+        "Predators"
+       ],
+       "answer": 2,
+       "why": "Bacteria that decompose dead matter are decomposers, as the lesson explains."
+      },
+      {
+       "q": "Fungi that decompose dead matter are called:",
+       "options": [
+        "Parasites",
+        "Decomposers",
+        "Hosts",
+        "Seedlings"
+       ],
+       "answer": 1,
+       "why": "Fungi that break down dead matter into simple materials are called decomposers."
+      },
+      {
+       "q": "The matter of dead bodies that decomposers act on is:",
+       "options": [
+        "Simple water",
+        "Pure oxygen",
+        "Liquid metal",
+        "Complex matter"
+       ],
+       "answer": 3,
+       "why": "Decomposers break down the complex matter of dead bodies into simple materials."
+      },
+      {
+       "q": "What happens to dead matter when decomposers act on it?",
+       "options": [
+        "It becomes alive again",
+        "It turns into plastic",
+        "It is broken down into simple materials",
+        "It catches fire"
+       ],
+       "answer": 2,
+       "why": "The work of decomposers is to break down dead matter into simple materials."
+      },
+      {
+       "q": "Which pair both contain decomposers?",
+       "options": [
+        "Bacteria and fungi",
+        "Viruses and protozoa",
+        "Ants and worms",
+        "Fish and frogs"
+       ],
+       "answer": 0,
+       "why": "The lesson names some bacteria and fungi as the organisms that decompose dead matter."
+      },
+      {
+       "q": "Decomposers act upon:",
+       "options": [
+        "Living skin",
+        "Clean water",
+        "Sunlight",
+        "Dead matter"
+       ],
+       "answer": 3,
+       "why": "Decomposers decompose dead matter, breaking its complex matter into simple materials."
+      }
+     ]
     },
     {
      "title": "Spread of Infectious Diseases",
      "notes_html": "<h4>Pathogens</h4><p>A pathogen is a microorganism that causes disease. It enters the bodies of organisms through air, water, food, animals (for example insect bites) and direct contact.</p><h4>How a Mosquito Transmits Disease</h4><p>A mosquito bites an infected person and takes the pathogen into its body. When it bites another person, it injects the pathogen into that person's body. For example, the female Anopheles mosquito spreads malaria in this way.</p><h4>Key Facts</h4><ul><li>Polio is caused by a <strong>virus</strong>.</li><li>Food is contaminated due to the presence of <strong>microorganisms</strong> in the environment.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A pathogen is a microorganism that:",
+       "options": [
+        "Makes food",
+        "Cleans water",
+        "Causes disease",
+        "Helps plants grow"
+       ],
+       "answer": 2,
+       "why": "The lesson defines a pathogen as a microorganism that causes disease."
+      },
+      {
+       "q": "A pathogen can enter the body through:",
+       "options": [
+        "Sunlight",
+        "Sound",
+        "Shadow",
+        "Air"
+       ],
+       "answer": 3,
+       "why": "Pathogens enter the bodies of organisms through air, water, food, animals and direct contact."
+      },
+      {
+       "q": "The female Anopheles mosquito spreads:",
+       "options": [
+        "Malaria",
+        "Polio",
+        "Typhoid",
+        "Cholera"
+       ],
+       "answer": 0,
+       "why": "The female Anopheles mosquito spreads malaria by injecting the pathogen when it bites."
+      },
+      {
+       "q": "Polio is caused by a:",
+       "options": [
+        "Bacterium",
+        "Fungus",
+        "Virus",
+        "Protozoan"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that polio is caused by a virus."
+      },
+      {
+       "q": "Food becomes contaminated due to the presence of:",
+       "options": [
+        "Salt in the food",
+        "Microorganisms in the environment",
+        "Sunlight on the food",
+        "Cold air"
+       ],
+       "answer": 1,
+       "why": "The lesson states that food is contaminated due to the presence of microorganisms in the environment."
+      },
+      {
+       "q": "A mosquito takes the pathogen into its body when it:",
+       "options": [
+        "Sits on a flower",
+        "Drinks clean water",
+        "Rests on a wall",
+        "Bites an infected person"
+       ],
+       "answer": 3,
+       "why": "A mosquito bites an infected person and takes the pathogen into its body."
+      },
+      {
+       "q": "The mosquito passes the pathogen to another person when it:",
+       "options": [
+        "Touches the person's clothes",
+        "Flies over the person",
+        "Bites that person and injects the pathogen",
+        "Makes a sound"
+       ],
+       "answer": 2,
+       "why": "When the mosquito bites another person, it injects the pathogen into that person's body."
+      },
+      {
+       "q": "Insect bites are a way pathogens enter the body through:",
+       "options": [
+        "Animals",
+        "Air",
+        "Direct contact",
+        "Food"
+       ],
+       "answer": 0,
+       "why": "The lesson lists animals, for example insect bites, as one route by which pathogens enter the body."
+      },
+      {
+       "q": "Pathogens can also spread from person to person by:",
+       "options": [
+        "Moonlight",
+        "Music",
+        "Rainbows",
+        "Direct contact"
+       ],
+       "answer": 3,
+       "why": "Direct contact is one of the routes of pathogen entry listed in the lesson."
+      },
+      {
+       "q": "Malaria is spread by the bite of:",
+       "options": [
+        "Housefly",
+        "Female Anopheles mosquito",
+        "Honey bee",
+        "Butterfly"
+       ],
+       "answer": 1,
+       "why": "The lesson's example is that the female Anopheles mosquito spreads malaria in this way."
+      }
+     ]
     },
     {
      "title": "Useful Role of Microorganisms",
      "notes_html": "<h4>Bacteria — Benefits and Harmful Effects</h4><p>Benefits of bacteria: They are used to prepare foods like yoghurt, and they decompose dead matter and help make medicines.</p><p>Harmful effects of bacteria: They cause diseases like typhoid and cholera, and they spoil food.</p><h4>How Yeast Makes Dough Rise</h4><p>Yeast feeds on the sugar in the dough and releases carbon dioxide gas. The gas forms bubbles in the dough, which soften it and make it rise.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Bacteria are used to prepare foods like:",
+       "options": [
+        "Bread flour",
+        "Jam",
+        "Butter",
+        "Yoghurt"
+       ],
+       "answer": 3,
+       "why": "Benefits of bacteria include their use in preparing foods like yoghurt."
+      },
+      {
+       "q": "Bacteria help in making:",
+       "options": [
+        "Medicines",
+        "Plastic",
+        "Glass",
+        "Cement"
+       ],
+       "answer": 0,
+       "why": "Bacteria decompose dead matter and help make medicines, which are listed as their benefits."
+      },
+      {
+       "q": "Typhoid is a disease caused by:",
+       "options": [
+        "Virus",
+        "Fungi",
+        "Bacteria",
+        "Protozoa"
+       ],
+       "answer": 2,
+       "why": "Typhoid and cholera are listed in the lesson as harmful effects of bacteria."
+      },
+      {
+       "q": "Cholera is a disease caused by:",
+       "options": [
+        "Virus",
+        "Bacteria",
+        "Fungi",
+        "Insects"
+       ],
+       "answer": 1,
+       "why": "Cholera is named with typhoid as a disease caused by bacteria."
+      },
+      {
+       "q": "Yeast makes dough rise by releasing:",
+       "options": [
+        "Oxygen gas",
+        "Hydrogen gas",
+        "Water vapour",
+        "Carbon dioxide gas"
+       ],
+       "answer": 3,
+       "why": "Yeast feeds on the sugar in the dough and releases carbon dioxide gas, which makes the dough rise."
+      },
+      {
+       "q": "Yeast feeds on which substance in the dough?",
+       "options": [
+        "Salt",
+        "Oil",
+        "Sugar",
+        "Water"
+       ],
+       "answer": 2,
+       "why": "The lesson explains that yeast feeds on the sugar present in the dough."
+      },
+      {
+       "q": "The gas bubbles formed in dough make it:",
+       "options": [
+        "Soft and make it rise",
+        "Hard and heavy",
+        "Sour and flat",
+        "Dry and crumbly"
+       ],
+       "answer": 0,
+       "why": "The carbon dioxide forms bubbles in the dough, which soften it and make it rise."
+      },
+      {
+       "q": "A harmful effect of bacteria is that they:",
+       "options": [
+        "Make yoghurt",
+        "Make medicines",
+        "Decompose dead matter usefully",
+        "Spoil food"
+       ],
+       "answer": 3,
+       "why": "Spoiling food is listed among the harmful effects of bacteria, along with causing typhoid and cholera."
+      },
+      {
+       "q": "A useful role of bacteria is that they:",
+       "options": [
+        "Cause cholera",
+        "Decompose dead matter",
+        "Cause typhoid",
+        "Spoil food"
+       ],
+       "answer": 1,
+       "why": "Decomposing dead matter is one of the benefits of bacteria given in the lesson."
+      },
+      {
+       "q": "Which of these is a benefit of bacteria?",
+       "options": [
+        "They cause typhoid",
+        "They cause cholera",
+        "They are used to prepare yoghurt",
+        "They spoil food"
+       ],
+       "answer": 2,
+       "why": "Preparing foods like yoghurt is a benefit of bacteria; the other options are their harmful effects."
+      }
+     ]
     },
     {
      "title": "Preventing Infections",
      "notes_html": "<h4>Where Fallen Leaves Decompose Faster</h4><p>Decomposition of fallen leaves will happen more quickly in the forest of hot climate. The soil there is always hot and moist, and microorganisms grow and work faster in hot and moist conditions than in cold and dry soil.</p><h4>Excessive Use of Antibacterial Soap</h4><p>Excessive use of antibacterial soap kills the useful bacteria on the skin as well, and the harmful bacteria that survive can become resistant. This disturbs the skin's natural protection, so the chance of getting an infection increases instead of decreasing.</p><h4>Activities</h4><ul><li>4. Investigate: “All microorganisms are harmful and cause diseases”. Prove that this idea is incorrect — for example, bacteria are used to make yoghurt and bread, fungi like yeast are used in baking, and many microorganisms decompose dead matter and are used to make medicines.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Fallen leaves will decompose faster in a forest of:",
+       "options": [
+        "Hot climate",
+        "Cold climate",
+        "Dry desert",
+        "Snowy mountains"
+       ],
+       "answer": 0,
+       "why": "Decomposition of fallen leaves happens more quickly in the forest of hot climate."
+      },
+      {
+       "q": "Microorganisms grow and work faster in conditions that are:",
+       "options": [
+        "Cold and dry",
+        "Cold and moist",
+        "Hot and moist",
+        "Hot and dry"
+       ],
+       "answer": 2,
+       "why": "Microorganisms grow and work faster in hot and moist conditions than in cold and dry soil."
+      },
+      {
+       "q": "In cold and dry soil, decomposition is:",
+       "options": [
+        "Faster",
+        "Slower",
+        "Impossible",
+        "Instant"
+       ],
+       "answer": 1,
+       "why": "The lesson contrasts hot, moist soil with cold and dry soil, where microorganisms work more slowly."
+      },
+      {
+       "q": "Excessive use of antibacterial soap also kills the:",
+       "options": [
+        "Skin cells",
+        "Hair roots",
+        "Nails",
+        "Useful bacteria on the skin"
+       ],
+       "answer": 3,
+       "why": "Excessive use of antibacterial soap kills the useful bacteria on the skin as well."
+      },
+      {
+       "q": "The harmful bacteria that survive antibacterial soap can become:",
+       "options": [
+        "Useful",
+        "Invisible",
+        "Resistant",
+        "Harmless forever"
+       ],
+       "answer": 2,
+       "why": "The lesson warns that harmful bacteria that survive can become resistant to the soap."
+      },
+      {
+       "q": "Overuse of antibacterial soap disturbs the skin's:",
+       "options": [
+        "Natural protection",
+        "Colour",
+        "Thickness",
+        "Temperature"
+       ],
+       "answer": 0,
+       "why": "Killing useful bacteria disturbs the skin's natural protection against infection."
+      },
+      {
+       "q": "Because of excessive antibacterial soap use, the chance of infection:",
+       "options": [
+        "Decreases",
+        "Stays zero",
+        "Disappears",
+        "Increases"
+       ],
+       "answer": 3,
+       "why": "The lesson concludes that the chance of getting an infection increases instead of decreasing."
+      },
+      {
+       "q": "The soil in a hot-climate forest is always:",
+       "options": [
+        "Cold and dry",
+        "Hot and moist",
+        "Frozen",
+        "Sandy and salty"
+       ],
+       "answer": 1,
+       "why": "The soil there is always hot and moist, so microorganisms grow and work faster in it."
+      },
+      {
+       "q": "Useful bacteria living on the skin provide:",
+       "options": [
+        "Diseases",
+        "Bad smell",
+        "Natural protection",
+        "Dryness"
+       ],
+       "answer": 2,
+       "why": "The skin's useful bacteria form part of its natural protection, which excessive soap use disturbs."
+      },
+      {
+       "q": "Leaves decompose faster in hot forests because microorganisms there:",
+       "options": [
+        "Are absent",
+        "Sleep longer",
+        "Become resistant",
+        "Grow and work faster"
+       ],
+       "answer": 3,
+       "why": "Hot and moist conditions make microorganisms grow and work faster, speeding up decomposition."
+      }
+     ]
     }
    ]
   },
@@ -72,22 +1293,466 @@
     {
      "title": "The Flower and Its Parts",
      "notes_html": "<h4>Four Parts of a Flower</h4><p>The four parts of a flower are: (1) Sepals — green leaflets that protect the internal structures. (2) Petals — coloured leaflets that attract insects and birds. (3) Stamens — the male reproductive part, consisting of the anther (where pollen grains are formed) and the filament (which supports the anther). (4) Carpel — the female reproductive part, consisting of the stigma (where pollen grains adhere), the style and the ovary (which has ovules).</p><h4>Labelling a Flower</h4><p>Label the parts of the flower as follows: sepal, petal, stamen (anther and filament), carpel (stigma, style and ovary), ovule and pedicel (the stalk of the flower).</p><h4>Reproductive Parts of a Flower</h4><p>The reproductive parts in the picture are A (the anther, the male part) and D (the ovary, the female part). B is the sepal and C is the petal, which are not reproductive parts. Note: the book's printed options are groups of three and none of them equals A and D exactly.</p><h4>Activities</h4><ul><li>5. Project: Collect five different types of flowers. See in which flowers sepals, petals, stamens and carpels are present and in which these are not present. Compare these structures in different flowers. Also make a model of a flower using low-cost or no-cost material.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The green leaflets that protect the internal structures of a flower are:",
+       "options": [
+        "Petals",
+        "Stamens",
+        "Sepals",
+        "Carpels"
+       ],
+       "answer": 2,
+       "why": "Sepals are the green leaflets that protect the internal structures of the flower."
+      },
+      {
+       "q": "Petals are the coloured leaflets that attract:",
+       "options": [
+        "Fish and frogs",
+        "Insects and birds",
+        "Worms and snails",
+        "Bacteria and fungi"
+       ],
+       "answer": 1,
+       "why": "Petals are coloured leaflets that attract insects and birds towards the flower."
+      },
+      {
+       "q": "The male reproductive part of a flower is the:",
+       "options": [
+        "Carpel",
+        "Sepal",
+        "Petal",
+        "Stamen"
+       ],
+       "answer": 3,
+       "why": "The stamen is the male reproductive part, consisting of the anther and the filament."
+      },
+      {
+       "q": "Pollen grains are formed in the:",
+       "options": [
+        "Filament",
+        "Stigma",
+        "Anther",
+        "Ovary"
+       ],
+       "answer": 2,
+       "why": "The anther is the part of the stamen where pollen grains are formed."
+      },
+      {
+       "q": "The filament of a stamen does what?",
+       "options": [
+        "Supports the anther",
+        "Produces ovules",
+        "Attracts insects",
+        "Protects the flower"
+       ],
+       "answer": 0,
+       "why": "The filament supports the anther, which is where pollen grains are formed."
+      },
+      {
+       "q": "The female reproductive part of a flower is the:",
+       "options": [
+        "Stamen",
+        "Sepal",
+        "Pedicel",
+        "Carpel"
+       ],
+       "answer": 3,
+       "why": "The carpel is the female reproductive part, consisting of the stigma, style and ovary."
+      },
+      {
+       "q": "Pollen grains adhere (stick) to the:",
+       "options": [
+        "Style",
+        "Stigma",
+        "Anther",
+        "Filament"
+       ],
+       "answer": 1,
+       "why": "The stigma is the part of the carpel where pollen grains adhere."
+      },
+      {
+       "q": "The ovary of a flower contains:",
+       "options": [
+        "Pollen grains",
+        "Sepals",
+        "Ovules",
+        "Antennae"
+       ],
+       "answer": 2,
+       "why": "The ovary is the part of the carpel which has ovules inside it."
+      },
+      {
+       "q": "The stalk of a flower is called the:",
+       "options": [
+        "Filament",
+        "Style",
+        "Stigma",
+        "Pedicel"
+       ],
+       "answer": 3,
+       "why": "In labelling a flower, the pedicel is the stalk of the flower."
+      },
+      {
+       "q": "Which pair are the reproductive parts of a flower?",
+       "options": [
+        "Anther and ovary",
+        "Sepal and petal",
+        "Petal and pedicel",
+        "Sepal and pedicel"
+       ],
+       "answer": 0,
+       "why": "In the book's picture, A (anther, male) and D (ovary, female) are the reproductive parts; sepal and petal are not."
+      }
+     ]
     },
     {
      "title": "Pollination and Its Types",
      "notes_html": "<p><strong>Reproduction</strong> is the process by which organisms produce new organisms of their own kind for the continuation of their generation.</p><h4>Self-Pollination and Cross-Pollination</h4><p>In self-pollination, pollen grains are transferred from the anther of a flower to the stigma of the same flower or of another flower of the same plant. In cross-pollination, pollen grains are transferred from the anther of a flower to the stigma of a flower of a different plant of the same kind.</p><h4>Key Facts</h4><ul><li>For papaya, <strong>cross pollination</strong> is a must.</li></ul><h4>Activities</h4><ul><li>3. ii. Observe the given pictures of flowers. For which type of pollination are the shapes and structures of the flowers suitable? (Answer from the pictures in the book: flowers with large, coloured petals and exposed reproductive parts are suited to cross-pollination by insects.)</li><li>4. Investigate: If all the insects become extinct, what will be its effect on flowering plants? (Insects carry out pollination; without them, cross-pollination would stop and many flowering plants could not form seeds.)</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Reproduction is the process by which organisms:",
+       "options": [
+        "Make their own food",
+        "Produce new organisms of their own kind",
+        "Move from place to place",
+        "Breathe in oxygen"
+       ],
+       "answer": 1,
+       "why": "Reproduction is defined as producing new organisms of their own kind for the continuation of their generation."
+      },
+      {
+       "q": "In self-pollination, pollen grains are transferred to the stigma of:",
+       "options": [
+        "A flower of a different plant",
+        "A flower of a different kind",
+        "A leaf of the same plant",
+        "The same flower or another flower of the same plant"
+       ],
+       "answer": 3,
+       "why": "Self-pollination transfers pollen to the stigma of the same flower or another flower of the same plant."
+      },
+      {
+       "q": "In cross-pollination, pollen grains are transferred to a flower of:",
+       "options": [
+        "The same flower",
+        "The same plant",
+        "A different plant of the same kind",
+        "A plant of a different kind"
+       ],
+       "answer": 2,
+       "why": "Cross-pollination transfers pollen from the anther of a flower to the stigma of a flower of a different plant of the same kind."
+      },
+      {
+       "q": "For papaya, which type of pollination is a must?",
+       "options": [
+        "Cross-pollination",
+        "Self-pollination",
+        "No pollination",
+        "Artificial pollination"
+       ],
+       "answer": 0,
+       "why": "The key fact in the lesson is that for papaya, cross pollination is a must."
+      },
+      {
+       "q": "Pollination is the transfer of pollen grains from the anther to the:",
+       "options": [
+        "Ovary",
+        "Filament",
+        "Sepal",
+        "Stigma"
+       ],
+       "answer": 3,
+       "why": "In both types of pollination, pollen grains are transferred from the anther of a flower to the stigma."
+      },
+      {
+       "q": "If all insects became extinct, cross-pollination would:",
+       "options": [
+        "Increase",
+        "Stop",
+        "Stay the same",
+        "Become faster"
+       ],
+       "answer": 1,
+       "why": "Insects carry out pollination; without them, cross-pollination would stop."
+      },
+      {
+       "q": "Without pollination, many flowering plants could not:",
+       "options": [
+        "Make leaves",
+        "Grow roots",
+        "Form seeds",
+        "Make food"
+       ],
+       "answer": 2,
+       "why": "The lesson explains that without insect pollination many flowering plants could not form seeds."
+      },
+      {
+       "q": "Flowers with large, coloured petals and exposed reproductive parts are suited to:",
+       "options": [
+        "Self-pollination only",
+        "Pollination by water",
+        "No pollination",
+        "Cross-pollination by insects"
+       ],
+       "answer": 3,
+       "why": "The book's answer states such flowers are suited to cross-pollination by insects."
+      },
+      {
+       "q": "The purpose of reproduction is:",
+       "options": [
+        "Continuation of the generation",
+        "Making food",
+        "Producing seeds only",
+        "Attracting insects"
+       ],
+       "answer": 0,
+       "why": "Organisms reproduce to produce new organisms of their own kind for the continuation of their generation."
+      },
+      {
+       "q": "Self-pollination and cross-pollination differ in whether the receiving flower is on:",
+       "options": [
+        "A tree or a herb",
+        "Land or water",
+        "The same plant or a different plant",
+        "The same day or night"
+       ],
+       "answer": 2,
+       "why": "Self-pollination stays on the same plant, while cross-pollination goes to a different plant of the same kind."
+      }
+     ]
     },
     {
      "title": "Structure of a Seed",
      "notes_html": "<h4>Key Facts</h4><ul><li>In a dicot seed, the <strong>cotyledon stores food for the embryo</strong>.</li><li>The gram seed is covered by the <strong>seed coat</strong>.</li></ul><h4>Gram Seed and Maize Seed</h4><p>The gram seed is a dicot seed: it has two cotyledons, which store food for the embryo. The maize seed is a monocot seed: it has one cotyledon, and it consists of a seed coat and an embryo.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In a dicot seed, food for the embryo is stored in the:",
+       "options": [
+        "Seed coat",
+        "Stigma",
+        "Filament",
+        "Cotyledon"
+       ],
+       "answer": 3,
+       "why": "The key fact is that in a dicot seed, the cotyledon stores food for the embryo."
+      },
+      {
+       "q": "The gram seed is covered by the:",
+       "options": [
+        "Petal",
+        "Sepal",
+        "Seed coat",
+        "Shell of fruit"
+       ],
+       "answer": 2,
+       "why": "The lesson states that the gram seed is covered by the seed coat."
+      },
+      {
+       "q": "The gram seed is a dicot seed because it has:",
+       "options": [
+        "Two cotyledons",
+        "One cotyledon",
+        "No cotyledons",
+        "Three cotyledons"
+       ],
+       "answer": 0,
+       "why": "The gram seed has two cotyledons, which store food for the embryo, so it is a dicot seed."
+      },
+      {
+       "q": "The maize seed has how many cotyledons?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "One"
+       ],
+       "answer": 3,
+       "why": "The maize seed is a monocot seed: it has one cotyledon."
+      },
+      {
+       "q": "Maize seed is an example of a:",
+       "options": [
+        "Dicot seed",
+        "Monocot seed",
+        "Seed without embryo",
+        "Fruit seed"
+       ],
+       "answer": 1,
+       "why": "The lesson describes the maize seed as a monocot seed with one cotyledon."
+      },
+      {
+       "q": "The maize seed consists of:",
+       "options": [
+        "Two cotyledons and a petal",
+        "A stigma and a style",
+        "A seed coat and an embryo",
+        "Roots and leaves"
+       ],
+       "answer": 2,
+       "why": "The maize seed consists of a seed coat and an embryo, with one cotyledon."
+      },
+      {
+       "q": "The two cotyledons of the gram seed store:",
+       "options": [
+        "Water for the plant",
+        "Pollen grains",
+        "Seeds of next year",
+        "Food for the embryo"
+       ],
+       "answer": 3,
+       "why": "In the gram seed, the two cotyledons store food for the embryo."
+      },
+      {
+       "q": "The embryo in a dicot seed gets its food from the:",
+       "options": [
+        "Cotyledons",
+        "Seed coat",
+        "Flower",
+        "Leaf"
+       ],
+       "answer": 0,
+       "why": "The cotyledons of a dicot seed store the food that the embryo uses."
+      },
+      {
+       "q": "Which seed has two cotyledons?",
+       "options": [
+        "Maize seed",
+        "Wheat seed",
+        "Gram seed",
+        "Rice seed"
+       ],
+       "answer": 2,
+       "why": "Gram is the dicot seed with two cotyledons; maize is the monocot example in the lesson."
+      },
+      {
+       "q": "Which seed has only one cotyledon?",
+       "options": [
+        "Gram seed",
+        "Maize seed",
+        "Pea seed",
+        "Bean seed"
+       ],
+       "answer": 1,
+       "why": "Maize is the monocot seed in the lesson, having one cotyledon."
+      }
+     ]
     },
     {
      "title": "Germination of Seeds",
      "notes_html": "<h4>Key Facts</h4><ul><li>The conditions necessary for seed germination are <strong>water, suitable temperature and air</strong>.</li></ul><h4>Role of Water in Germination</h4><p>Water is necessary for seed germination. It softens the seed coat and activates the embryo, so the seed can germinate. In the pictures, seeds germinate in plain water, but they do not germinate properly in water with salts, sugar or vinegar, because these disturb germination.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The conditions necessary for seed germination are water, suitable temperature and:",
+       "options": [
+        "Sunlight",
+        "Fertilizer",
+        "Air",
+        "Salt"
+       ],
+       "answer": 2,
+       "why": "The key fact lists water, suitable temperature and air as the conditions necessary for seed germination."
+      },
+      {
+       "q": "In germination, water softens the:",
+       "options": [
+        "Seed coat",
+        "Cotyledon",
+        "Embryo",
+        "Root"
+       ],
+       "answer": 0,
+       "why": "Water softens the seed coat and activates the embryo, so the seed can germinate."
+      },
+      {
+       "q": "Water also helps germination by activating the:",
+       "options": [
+        "Seed coat",
+        "Flower",
+        "Leaf",
+        "Embryo"
+       ],
+       "answer": 3,
+       "why": "The lesson says water softens the seed coat and activates the embryo."
+      },
+      {
+       "q": "In the book's pictures, seeds germinate properly in:",
+       "options": [
+        "Water with salts",
+        "Plain water",
+        "Water with sugar",
+        "Water with vinegar"
+       ],
+       "answer": 1,
+       "why": "Seeds germinate in plain water but not properly in water with salts, sugar or vinegar."
+      },
+      {
+       "q": "Seeds do not germinate properly in water with vinegar because such substances:",
+       "options": [
+        "Soften the coat too much",
+        "Activate the embryo",
+        "Disturb germination",
+        "Provide extra food"
+       ],
+       "answer": 2,
+       "why": "Salts, sugar and vinegar disturb germination, so seeds do not germinate properly in them."
+      },
+      {
+       "q": "Which substance added to water disturbs germination?",
+       "options": [
+        "Plain soil",
+        "Clean air",
+        "Suitable warmth",
+        "Salt"
+       ],
+       "answer": 3,
+       "why": "The lesson shows that salts (also sugar and vinegar) disturb the germination of seeds."
+      },
+      {
+       "q": "Germination needs a temperature that is:",
+       "options": [
+        "Suitable",
+        "Freezing",
+        "Boiling",
+        "Always changing"
+       ],
+       "answer": 0,
+       "why": "A suitable temperature is one of the three conditions necessary for seed germination."
+      },
+      {
+       "q": "Air is needed for:",
+       "options": [
+        "Pollination only",
+        "Making seeds colourful",
+        "Seed germination",
+        "Drying seeds"
+       ],
+       "answer": 2,
+       "why": "Air is listed with water and suitable temperature as necessary for seed germination."
+      },
+      {
+       "q": "Sugar dissolved in water affects germination by:",
+       "options": [
+        "Speeding it up",
+        "Disturbing it",
+        "Having no effect",
+        "Feeding the embryo"
+       ],
+       "answer": 1,
+       "why": "Seeds do not germinate properly in water with sugar because it disturbs germination."
+      },
+      {
+       "q": "The first role of water in germination is to:",
+       "options": [
+        "Dry the seed",
+        "Colour the seed",
+        "Break the embryo",
+        "Soften the seed coat"
+       ],
+       "answer": 3,
+       "why": "Water is necessary for germination because it softens the seed coat and activates the embryo."
+      }
+     ]
     }
    ]
   },
@@ -97,22 +1762,466 @@
     {
      "title": "Environmental Pollution and Its Types",
      "notes_html": "<h4>Key Facts</h4><ul><li>The germs present in <strong>sewerage water</strong> cause typhoid.</li><li>A <strong>polythene bag</strong> is non-biodegradable — it does not decompose in the soil.</li></ul><h4>Main Cause of Pollution</h4><p>The main cause of pollution is human activity — smoke from factories and vehicles, untreated sewerage and factory waste thrown into water, and non-biodegradable wastes like polythene bags.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The germs present in sewerage water cause:",
+       "options": [
+        "Typhoid",
+        "Lung cancer",
+        "Malaria",
+        "Polio"
+       ],
+       "answer": 0,
+       "why": "The key fact in the lesson is that the germs present in sewerage water cause typhoid."
+      },
+      {
+       "q": "A polythene bag is non-biodegradable, which means it:",
+       "options": [
+        "Decomposes in one day",
+        "Dissolves in water",
+        "Turns into fertilizer",
+        "Does not decompose in the soil"
+       ],
+       "answer": 3,
+       "why": "A polythene bag is non-biodegradable — it does not decompose in the soil."
+      },
+      {
+       "q": "The main cause of pollution is:",
+       "options": [
+        "Rainfall",
+        "Human activity",
+        "Moonlight",
+        "Ocean waves"
+       ],
+       "answer": 1,
+       "why": "The lesson states that the main cause of pollution is human activity."
+      },
+      {
+       "q": "Smoke from factories and vehicles is a form of:",
+       "options": [
+        "Natural cleaning of air",
+        "Cloud formation",
+        "Pollution caused by human activity",
+        "Rainfall"
+       ],
+       "answer": 2,
+       "why": "Smoke from factories and vehicles is listed among the human activities that cause pollution."
+      },
+      {
+       "q": "Untreated sewerage and factory waste thrown into water cause:",
+       "options": [
+        "Cleaner rivers",
+        "More fish",
+        "Fertile soil",
+        "Water pollution"
+       ],
+       "answer": 3,
+       "why": "Throwing untreated sewerage and factory waste into water is a main human cause of pollution."
+      },
+      {
+       "q": "Which of these is a non-biodegradable waste?",
+       "options": [
+        "Polythene bags",
+        "Fallen leaves",
+        "Vegetable peels",
+        "Paper scraps"
+       ],
+       "answer": 0,
+       "why": "Non-biodegradable wastes like polythene bags are named in the lesson as a cause of pollution."
+      },
+      {
+       "q": "Typhoid germs are present in:",
+       "options": [
+        "Clean drinking water",
+        "Rain water",
+        "Sewerage water",
+        "Boiled water"
+       ],
+       "answer": 2,
+       "why": "The key fact states that the germs present in sewerage water cause typhoid."
+      },
+      {
+       "q": "Factory waste should not be thrown into:",
+       "options": [
+        "Dustbins",
+        "Water",
+        "Recycling plants",
+        "Covered pits"
+       ],
+       "answer": 1,
+       "why": "Untreated factory waste thrown into water is one of the main causes of pollution."
+      },
+      {
+       "q": "Which human activity pollutes the air?",
+       "options": [
+        "Planting trees",
+        "Cleaning streets",
+        "Saving water",
+        "Smoke from vehicles"
+       ],
+       "answer": 3,
+       "why": "Smoke from factories and vehicles is a human activity that causes pollution."
+      },
+      {
+       "q": "Non-biodegradable wastes remain in the soil because they:",
+       "options": [
+        "Are too heavy",
+        "Are colourful",
+        "Do not decompose",
+        "Are made of paper"
+       ],
+       "answer": 2,
+       "why": "Polythene bags do not decompose in the soil, which is why they are called non-biodegradable."
+      }
+     ]
     },
     {
      "title": "Effects of Pollution on Life",
      "notes_html": "<h4>Key Facts</h4><ul><li><strong>Lung cancer</strong> is a disease caused by air pollution.</li></ul><h4>Four Effects of Pollution</h4><p>Four effects of pollution on life: it causes diseases like lung cancer, typhoid and cholera; it harms plants and animals; it disturbs the balance of nature; and it damages the environment in which we live.</p><h4>Activities</h4><ul><li>4. Investigate: What is the relationship between diseases and pollution? (Polluted air causes lung diseases, polluted water causes typhoid, cholera and diarrhea, and polluted soil and surroundings spread germs.)</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Lung cancer is a disease caused by:",
+       "options": [
+        "Water pollution",
+        "Noise",
+        "Soil only",
+        "Air pollution"
+       ],
+       "answer": 3,
+       "why": "The key fact in the lesson is that lung cancer is a disease caused by air pollution."
+      },
+      {
+       "q": "Polluted water causes diseases like:",
+       "options": [
+        "Lung cancer",
+        "Typhoid and cholera",
+        "Malaria",
+        "Toothache"
+       ],
+       "answer": 1,
+       "why": "Polluted water causes typhoid, cholera and diarrhea, as the lesson's investigation answer states."
+      },
+      {
+       "q": "Pollution harms:",
+       "options": [
+        "Only buildings",
+        "Only machines",
+        "Plants and animals",
+        "Nothing"
+       ],
+       "answer": 2,
+       "why": "One of the four effects of pollution on life is that it harms plants and animals."
+      },
+      {
+       "q": "Pollution disturbs the:",
+       "options": [
+        "Movement of clouds",
+        "Colour of the sky",
+        "Flow of rivers only",
+        "Balance of nature"
+       ],
+       "answer": 3,
+       "why": "Disturbing the balance of nature is listed among the effects of pollution on life."
+      },
+      {
+       "q": "Diarrhea is caused by:",
+       "options": [
+        "Polluted water",
+        "Polluted air",
+        "Loud noise",
+        "Bright light"
+       ],
+       "answer": 0,
+       "why": "The lesson relates diarrhea (with typhoid and cholera) to polluted water."
+      },
+      {
+       "q": "Cholera is linked to:",
+       "options": [
+        "Polluted air",
+        "Clean food",
+        "Polluted water",
+        "Sunlight"
+       ],
+       "answer": 2,
+       "why": "Cholera is named among the diseases caused by pollution, spread through polluted water."
+      },
+      {
+       "q": "Polluted air mainly causes diseases of the:",
+       "options": [
+        "Bones",
+        "Lungs",
+        "Teeth",
+        "Hair"
+       ],
+       "answer": 1,
+       "why": "Polluted air causes lung diseases, including lung cancer, as stated in the lesson."
+      },
+      {
+       "q": "Pollution damages the:",
+       "options": [
+        "Stars in the sky",
+        "Moon",
+        "Deep ocean floor only",
+        "Environment in which we live"
+       ],
+       "answer": 3,
+       "why": "Damaging the environment in which we live is one of the four effects of pollution listed."
+      },
+      {
+       "q": "Which of these is an effect of pollution?",
+       "options": [
+        "It makes air cleaner",
+        "It helps plants grow faster",
+        "It causes diseases like lung cancer, typhoid and cholera",
+        "It balances nature"
+       ],
+       "answer": 2,
+       "why": "Causing diseases like lung cancer, typhoid and cholera is the first effect of pollution in the lesson."
+      },
+      {
+       "q": "The balance of nature is disturbed by:",
+       "options": [
+        "Pollution",
+        "Rainfall",
+        "Photosynthesis",
+        "Germination"
+       ],
+       "answer": 0,
+       "why": "The lesson lists disturbance of the balance of nature as an effect of pollution on life."
+      }
+     ]
     },
     {
      "title": "Greenhouse Effect and Global Warming",
      "notes_html": "<h4>Key Facts</h4><ul><li><strong>Oxygen</strong> is NOT a greenhouse gas. Carbon dioxide, methane and ozone are greenhouse gases.</li></ul><h4>Greenhouse Effect</h4><p>The greenhouse effect is the warming of the Earth because greenhouse gases (like carbon dioxide, methane and ozone) trap the Sun's heat in the atmosphere and do not let it escape back into space.</p><h4>Effects of Global Warming</h4><p>Global warming raises the temperature of the Earth, melts glaciers and ice, raises the sea level, disturbs rainfall and seasons, and harms plants, animals and human life.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which of these is NOT a greenhouse gas?",
+       "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Methane",
+        "Ozone"
+       ],
+       "answer": 1,
+       "why": "The key fact is that oxygen is NOT a greenhouse gas; carbon dioxide, methane and ozone are."
+      },
+      {
+       "q": "Carbon dioxide is an example of a:",
+       "options": [
+        "Non-biodegradable waste",
+        "Decomposer",
+        "Greenhouse gas",
+        "Nutrient"
+       ],
+       "answer": 2,
+       "why": "Carbon dioxide is listed among the greenhouse gases with methane and ozone."
+      },
+      {
+       "q": "Methane is an example of a:",
+       "options": [
+        "Metal",
+        "Vitamin",
+        "Fuel gas only",
+        "Greenhouse gas"
+       ],
+       "answer": 3,
+       "why": "Methane is named in the lesson as one of the greenhouse gases."
+      },
+      {
+       "q": "Ozone is an example of a:",
+       "options": [
+        "Greenhouse gas",
+        "Pollutant-free gas",
+        "Gas in soft drinks",
+        "Noble gas"
+       ],
+       "answer": 0,
+       "why": "Ozone is listed with carbon dioxide and methane as a greenhouse gas."
+      },
+      {
+       "q": "Greenhouse gases trap which of these in the atmosphere?",
+       "options": [
+        "Rainwater",
+        "Dust",
+        "The Sun's heat",
+        "Sound"
+       ],
+       "answer": 2,
+       "why": "Greenhouse gases trap the Sun's heat in the atmosphere and do not let it escape back into space."
+      },
+      {
+       "q": "The greenhouse effect is the warming of the:",
+       "options": [
+        "Moon",
+        "Earth",
+        "Ocean floor",
+        "Mountains only"
+       ],
+       "answer": 1,
+       "why": "The greenhouse effect is the warming of the Earth because greenhouse gases trap the Sun's heat."
+      },
+      {
+       "q": "Global warming melts:",
+       "options": [
+        "Rocks",
+        "Sand",
+        "Iron gates",
+        "Glaciers and ice"
+       ],
+       "answer": 3,
+       "why": "Global warming raises the Earth's temperature and melts glaciers and ice."
+      },
+      {
+       "q": "Melting of glaciers and ice raises the:",
+       "options": [
+        "Mountain height",
+        "River speed",
+        "Sea level",
+        "Wind speed"
+       ],
+       "answer": 2,
+       "why": "One effect of global warming given in the lesson is that the sea level rises."
+      },
+      {
+       "q": "Global warming disturbs:",
+       "options": [
+        "Rainfall and seasons",
+        "The Moon's path",
+        "Day and night",
+        "Ocean colours"
+       ],
+       "answer": 0,
+       "why": "Global warming disturbs rainfall and seasons and harms plants, animals and human life."
+      },
+      {
+       "q": "The heat trapped by greenhouse gases cannot escape back into:",
+       "options": [
+        "The soil",
+        "The oceans",
+        "The clouds",
+        "Space"
+       ],
+       "answer": 3,
+       "why": "Greenhouse gases do not let the Sun's heat escape back into space, so the Earth warms up."
+      }
+     ]
     },
     {
      "title": "Preventive Measures to Reduce Pollution",
      "notes_html": "<h4>Key Facts</h4><ul><li><strong>Burning rubber</strong> acts as a source of air pollution.</li></ul><h4>Three Preventive Measures</h4><p>Three preventive measures to reduce pollution: do not burn rubber and plastic; dispose of wastes properly instead of throwing them into water; and plant more trees and use polythene bags less.</p><h4>Why Polythene Bags Are Banned</h4><p>The Government of Pakistan has banned the use of polythene bags because they are non-biodegradable: they do not decompose, they block drains, pollute soil and water, and harm animals that eat them.</p><h4>D2W Bags</h4><p>Bags marked D2W contain an additive that makes the plastic break down into small pieces after some time, so they are degradable and are not covered by the ban on ordinary non-degradable polythene bags.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Burning rubber acts as a source of:",
+       "options": [
+        "Water purification",
+        "Soil fertility",
+        "Air pollution",
+        "Clean energy"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that burning rubber acts as a source of air pollution."
+      },
+      {
+       "q": "One preventive measure to reduce pollution is to:",
+       "options": [
+        "Burn more plastic",
+        "Throw waste in rivers",
+        "Use more polythene bags",
+        "Plant more trees"
+       ],
+       "answer": 3,
+       "why": "Planting more trees and using polythene bags less are preventive measures listed in the lesson."
+      },
+      {
+       "q": "Wastes should be disposed of:",
+       "options": [
+        "Properly, instead of throwing them into water",
+        "Into rivers",
+        "On roads",
+        "In open fields"
+       ],
+       "answer": 0,
+       "why": "Disposing of wastes properly instead of throwing them into water reduces pollution."
+      },
+      {
+       "q": "The Government of Pakistan has banned polythene bags because they are:",
+       "options": [
+        "Too colourful",
+        "Too expensive",
+        "Non-biodegradable",
+        "Too light"
+       ],
+       "answer": 2,
+       "why": "Polythene bags are banned because they do not decompose, block drains and pollute soil and water."
+      },
+      {
+       "q": "Polythene bags block the:",
+       "options": [
+        "Roads",
+        "Drains",
+        "Windows",
+        "Pipes of clean water only"
+       ],
+       "answer": 1,
+       "why": "The lesson says polythene bags block drains, pollute soil and water, and harm animals that eat them."
+      },
+      {
+       "q": "Animals are harmed by polythene bags when they:",
+       "options": [
+        "See them",
+        "Smell them",
+        "Walk over them",
+        "Eat them"
+       ],
+       "answer": 3,
+       "why": "Animals that eat polythene bags are harmed, which is one reason for the ban."
+      },
+      {
+       "q": "Bags marked D2W are:",
+       "options": [
+        "Non-biodegradable",
+        "Made of glass",
+        "Degradable",
+        "Banned like ordinary bags"
+       ],
+       "answer": 2,
+       "why": "D2W bags contain an additive that makes the plastic break down, so they are degradable."
+      },
+      {
+       "q": "The D2W additive makes plastic:",
+       "options": [
+        "Break down into small pieces after some time",
+        "Last forever",
+        "Become harder",
+        "Change colour"
+       ],
+       "answer": 0,
+       "why": "Bags marked D2W have an additive that makes the plastic break down into small pieces after some time."
+      },
+      {
+       "q": "Which of these should NOT be burned to reduce pollution?",
+       "options": [
+        "Dry leaves",
+        "Wood sticks",
+        "Paper",
+        "Rubber and plastic"
+       ],
+       "answer": 3,
+       "why": "Do not burn rubber and plastic is the first preventive measure listed in the lesson."
+      },
+      {
+       "q": "To reduce water pollution, wastes should not be thrown into:",
+       "options": [
+        "Covered bins",
+        "Water",
+        "Pits",
+        "Recycling boxes"
+       ],
+       "answer": 1,
+       "why": "Disposing of wastes properly instead of throwing them into water is a preventive measure."
+      }
+     ]
     }
    ]
   },
@@ -122,27 +2231,582 @@
     {
      "title": "Physical Changes in Matter",
      "notes_html": "<h4>Key Facts</h4><ul><li>Making a paper boat is <strong>not a chemical change</strong> — it is a physical change.</li><li>When metal expands on heating, the change is a <strong>physical</strong> change.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Making a paper boat is an example of a:",
+       "options": [
+        "Chemical change",
+        "Rusting",
+        "Burning",
+        "Physical change"
+       ],
+       "answer": 3,
+       "why": "The key fact is that making a paper boat is not a chemical change — it is a physical change."
+      },
+      {
+       "q": "Which statement about making a paper boat is correct?",
+       "options": [
+        "It is not a chemical change",
+        "It is a chemical change",
+        "It forms a new material",
+        "It produces a gas"
+       ],
+       "answer": 0,
+       "why": "The lesson states clearly that making a paper boat is not a chemical change; it is a physical change."
+      },
+      {
+       "q": "When a metal is heated, it:",
+       "options": [
+        "Contracts",
+        "Rusts at once",
+        "Expands",
+        "Dissolves"
+       ],
+       "answer": 2,
+       "why": "The lesson's example of a physical change is that metal expands on heating."
+      },
+      {
+       "q": "The expansion of metal on heating is a:",
+       "options": [
+        "Chemical change",
+        "Physical change",
+        "New material formation",
+        "Kind of rusting"
+       ],
+       "answer": 1,
+       "why": "When metal expands on heating, the change is a physical change, as stated in the key facts."
+      },
+      {
+       "q": "Which of these changes is a physical change?",
+       "options": [
+        "Milk changing into yogurt",
+        "Rusting of iron",
+        "Burning of wood",
+        "Metal expanding on heating"
+       ],
+       "answer": 3,
+       "why": "Expansion of metal on heating is physical; milk into yogurt, rusting and burning are chemical changes in this chapter."
+      },
+      {
+       "q": "Which of these is NOT a chemical change?",
+       "options": [
+        "Change of milk into yogurt",
+        "Rusting of iron",
+        "Making a paper boat",
+        "Burning of wood"
+       ],
+       "answer": 2,
+       "why": "Making a paper boat is not a chemical change; the others are chemical changes described in this chapter."
+      },
+      {
+       "q": "After making a paper boat, the material of the boat is still:",
+       "options": [
+        "Paper",
+        "Plastic",
+        "Wood",
+        "Cloth"
+       ],
+       "answer": 0,
+       "why": "Only the shape of the paper changes when a boat is made; the material remains paper, so the change is physical."
+      },
+      {
+       "q": "Heating a metal rod makes the rod:",
+       "options": [
+        "Shrink",
+        "Melt at once",
+        "Turn into ash",
+        "Expand"
+       ],
+       "answer": 3,
+       "why": "Metal expands on heating, and this expansion is a physical change."
+      },
+      {
+       "q": "Which change takes place when a metal is heated?",
+       "options": [
+        "It rusts",
+        "It expands",
+        "It burns",
+        "It dissolves in air"
+       ],
+       "answer": 1,
+       "why": "The lesson gives expansion of metal on heating as its example of a physical change."
+      },
+      {
+       "q": "Both making a paper boat and expansion of metal on heating are:",
+       "options": [
+        "Chemical changes",
+        "Changes producing gas",
+        "Physical changes",
+        "Changes forming new materials"
+       ],
+       "answer": 2,
+       "why": "Both examples in the lesson are physical changes, not chemical changes."
+      }
+     ]
     },
     {
      "title": "Changes in States of Matter",
      "notes_html": "<h4>Three States of Matter and Their Interconversion</h4><p>The three states of matter are solid, liquid and gas. They can change into one another: a solid melts into a liquid on heating, a liquid evaporates into a gas, a gas condenses into a liquid on cooling, and a liquid freezes into a solid on cooling.</p><h4>Evaporation</h4><p>Evaporation is the change of a liquid into gas (vapours) from its surface, without boiling. Examples from everyday life: wet clothes dry in the Sun, water in a cup decreases when left open, and a wet floor dries after some time.</p><h4>Condensation</h4><p>Condensation is the change of a gas into a liquid. For example, water vapours in the air condense into drops of water on a cold surface.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The three states of matter are solid, liquid and:",
+       "options": [
+        "Gas",
+        "Plasma",
+        "Vapour only",
+        "Dust"
+       ],
+       "answer": 0,
+       "why": "The three states of matter are solid, liquid and gas, and they can change into one another."
+      },
+      {
+       "q": "A solid changes into a liquid by:",
+       "options": [
+        "Freezing on cooling",
+        "Condensing",
+        "Melting on heating",
+        "Evaporating"
+       ],
+       "answer": 2,
+       "why": "A solid melts into a liquid on heating, as the lesson describes the interconversion of states."
+      },
+      {
+       "q": "The change of a liquid into a gas is called:",
+       "options": [
+        "Condensation",
+        "Evaporation",
+        "Freezing",
+        "Melting"
+       ],
+       "answer": 1,
+       "why": "Evaporation is the change of a liquid into gas (vapours) from its surface, without boiling."
+      },
+      {
+       "q": "A gas changes into a liquid by:",
+       "options": [
+        "Evaporation",
+        "Melting",
+        "Freezing",
+        "Condensation on cooling"
+       ],
+       "answer": 3,
+       "why": "A gas condenses into a liquid on cooling, as stated in the lesson."
+      },
+      {
+       "q": "A liquid changes into a solid by:",
+       "options": [
+        "Melting on heating",
+        "Evaporating",
+        "Freezing on cooling",
+        "Condensing"
+       ],
+       "answer": 2,
+       "why": "A liquid freezes into a solid on cooling, completing the interconversion of the three states."
+      },
+      {
+       "q": "Evaporation takes place from the:",
+       "options": [
+        "Surface of the liquid",
+        "Bottom of the liquid",
+        "Middle of the liquid",
+        "Container walls only"
+       ],
+       "answer": 0,
+       "why": "Evaporation is the change of a liquid into gas from its surface, without boiling."
+      },
+      {
+       "q": "Evaporation takes place without:",
+       "options": [
+        "Sunlight",
+        "Air",
+        "A container",
+        "Boiling"
+       ],
+       "answer": 3,
+       "why": "The lesson defines evaporation as change of liquid into vapours from the surface, without boiling."
+      },
+      {
+       "q": "Wet clothes drying in the Sun is an example of:",
+       "options": [
+        "Condensation",
+        "Evaporation",
+        "Freezing",
+        "Rusting"
+       ],
+       "answer": 1,
+       "why": "Wet clothes drying in the Sun is one of the everyday examples of evaporation in the lesson."
+      },
+      {
+       "q": "Water vapours changing into drops on a cold surface is:",
+       "options": [
+        "Evaporation",
+        "Melting",
+        "Condensation",
+        "Freezing"
+       ],
+       "answer": 2,
+       "why": "Condensation is the change of a gas into a liquid, like vapours forming drops on a cold surface."
+      },
+      {
+       "q": "Water in an open cup decreases after some time due to:",
+       "options": [
+        "Condensation",
+        "Freezing",
+        "Dissolving",
+        "Evaporation"
+       ],
+       "answer": 3,
+       "why": "Water in a cup decreases when left open because it evaporates from the surface."
+      }
+     ]
     },
     {
      "title": "Dissolving Substances in Water",
      "notes_html": "<h4>Key Facts</h4><ul><li>Adding salt in water will <strong>not affect the dissolving of sugar</strong> in water. Stirring, heating, and making the sugar powder finer do affect how fast sugar dissolves.</li></ul><h4>Weight of Melted Ice</h4><p>The weight of the water will be the same as the weight of the ice. Melting is a physical change: only the state changes from solid to liquid, and no matter is added or lost, so the mass remains the same.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which of these will NOT affect the dissolving of sugar in water?",
+       "options": [
+        "Stirring",
+        "Heating",
+        "Adding salt in the water",
+        "Making the sugar powder finer"
+       ],
+       "answer": 2,
+       "why": "The key fact is that adding salt in water will not affect the dissolving of sugar in water."
+      },
+      {
+       "q": "Stirring the water affects:",
+       "options": [
+        "The colour of sugar",
+        "How fast sugar dissolves",
+        "The taste of salt",
+        "The weight of water"
+       ],
+       "answer": 1,
+       "why": "Stirring, heating and finer powder affect how fast sugar dissolves in water."
+      },
+      {
+       "q": "Heating the water makes sugar dissolve:",
+       "options": [
+        "Slower",
+        "Not at all",
+        "Only at night",
+        "Faster"
+       ],
+       "answer": 3,
+       "why": "Heating is one of the factors that affect how fast sugar dissolves in water."
+      },
+      {
+       "q": "Sugar dissolves faster when it is made into:",
+       "options": [
+        "Bigger lumps",
+        "Ice cubes",
+        "Finer powder",
+        "Dry crystals only"
+       ],
+       "answer": 2,
+       "why": "Making the sugar powder finer affects how fast it dissolves, making it dissolve faster."
+      },
+      {
+       "q": "The weight of water obtained from melted ice will be:",
+       "options": [
+        "The same as the weight of the ice",
+        "More than the ice",
+        "Less than the ice",
+        "Zero"
+       ],
+       "answer": 0,
+       "why": "Melting is a physical change: only the state changes, so the weight of the water is the same as the ice."
+      },
+      {
+       "q": "Melting of ice is a:",
+       "options": [
+        "Chemical change",
+        "Rusting process",
+        "Burning process",
+        "Physical change"
+       ],
+       "answer": 3,
+       "why": "The lesson explains melting is a physical change because only the state changes from solid to liquid."
+      },
+      {
+       "q": "When ice melts, its mass:",
+       "options": [
+        "Increases",
+        "Remains the same",
+        "Decreases",
+        "Disappears"
+       ],
+       "answer": 1,
+       "why": "No matter is added or lost in melting, so the mass remains the same."
+      },
+      {
+       "q": "During melting of ice, matter is:",
+       "options": [
+        "Added from air",
+        "Lost as gas",
+        "Neither added nor lost",
+        "Created newly"
+       ],
+       "answer": 2,
+       "why": "The lesson says no matter is added or lost in melting, so the mass stays the same."
+      },
+      {
+       "q": "In melting, only the state of ice changes from solid to:",
+       "options": [
+        "Gas",
+        "Vapour",
+        "Plasma",
+        "Liquid"
+       ],
+       "answer": 3,
+       "why": "Melting changes the state from solid to liquid only, which is why it is a physical change."
+      },
+      {
+       "q": "What happens to the dissolving of sugar if salt is added to the water?",
+       "options": [
+        "It is not affected",
+        "It stops completely",
+        "It becomes very fast",
+        "Sugar turns into salt"
+       ],
+       "answer": 0,
+       "why": "The key fact states that adding salt in water will not affect the dissolving of sugar in water."
+      }
+     ]
     },
     {
      "title": "Chemical Changes in Matter",
      "notes_html": "<h4>Key Facts</h4><ul><li>The change of milk into yogurt is a <strong>chemical change</strong>.</li><li>A person paints his iron gate to save it from rusting and from water — reasons <strong>1 and 4</strong>.</li></ul><h4>Rusting</h4><p>Rusting is the change that occurs on the surface of iron due to the action of oxygen and water, which forms a brown layer on iron. It is a chemical change, because a new material with new properties is formed.</p><h4>A Chemical Change Producing Carbon Dioxide</h4><p>When vinegar is mixed with baking soda, bubbles of carbon dioxide gas are formed. Burning of wood also produces carbon dioxide.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The change of milk into yogurt is a:",
+       "options": [
+        "Physical change",
+        "Chemical change",
+        "Change of state",
+        "Melting"
+       ],
+       "answer": 1,
+       "why": "The key fact in the lesson is that the change of milk into yogurt is a chemical change."
+      },
+      {
+       "q": "Rusting occurs on iron due to the action of oxygen and:",
+       "options": [
+        "Salt",
+        "Oil",
+        "Paint",
+        "Water"
+       ],
+       "answer": 3,
+       "why": "Rusting is the change on the surface of iron due to the action of oxygen and water."
+      },
+      {
+       "q": "Rust forms a layer on iron of which colour?",
+       "options": [
+        "Green",
+        "Blue",
+        "Brown",
+        "Silver"
+       ],
+       "answer": 2,
+       "why": "Rusting forms a brown layer on iron, as described in the lesson."
+      },
+      {
+       "q": "Rusting is a chemical change because:",
+       "options": [
+        "A new material with new properties is formed",
+        "Iron changes its shape",
+        "Iron becomes cold",
+        "Iron is painted"
+       ],
+       "answer": 0,
+       "why": "Rusting is a chemical change because a new material with new properties is formed on the iron."
+      },
+      {
+       "q": "When vinegar is mixed with baking soda, bubbles of which gas are formed?",
+       "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide"
+       ],
+       "answer": 3,
+       "why": "Mixing vinegar with baking soda forms bubbles of carbon dioxide gas."
+      },
+      {
+       "q": "Burning of wood also produces:",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Steam only",
+        "Hydrogen"
+       ],
+       "answer": 1,
+       "why": "The lesson states that burning of wood also produces carbon dioxide."
+      },
+      {
+       "q": "A person paints his iron gate to save it from:",
+       "options": [
+        "Dust and heat",
+        "Insects",
+        "Rusting and water",
+        "Fading colour only"
+       ],
+       "answer": 2,
+       "why": "The book's answer is that the gate is painted to save it from rusting and from water (reasons 1 and 4)."
+      },
+      {
+       "q": "Rusting takes place on the surface of:",
+       "options": [
+        "Wood",
+        "Plastic",
+        "Glass",
+        "Iron"
+       ],
+       "answer": 3,
+       "why": "Rusting is the change that occurs on the surface of iron due to oxygen and water."
+      },
+      {
+       "q": "Which of these is a chemical change?",
+       "options": [
+        "Change of milk into yogurt",
+        "Making a paper boat",
+        "Melting of ice",
+        "Expansion of metal on heating"
+       ],
+       "answer": 0,
+       "why": "Milk into yogurt is the chemical change; the others are physical changes from this chapter."
+      },
+      {
+       "q": "In rusting, the new material formed on iron is:",
+       "options": [
+        "Paint",
+        "Ice",
+        "Rust, a brown layer",
+        "Steam"
+       ],
+       "answer": 2,
+       "why": "Rusting forms a brown layer — a new material with new properties — on the surface of iron."
+      }
+     ]
     },
     {
      "title": "Physical and Chemical Changes Compared",
      "notes_html": "<h4>Loss of Weight When Vinegar Meets Baking Soda</h4><p>When vinegar and baking soda are mixed, bubbles of carbon dioxide gas are formed and the gas escapes into the air. Because the gas leaves the mixture, the weight of the mixture becomes less than before.</p><h4>Bubbles in Vinegar and in Boiling Water</h4><p>On mixing vinegar and boiling water, bubbles are formed in both cases, but they are different changes. The bubbles in vinegar are a chemical change, because vinegar reacts and a new gas (carbon dioxide) is formed. The bubbles in boiling water are a physical change, because only water changes into steam and no new material is formed.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "When vinegar is mixed with baking soda, the weight of the mixture:",
+       "options": [
+        "Becomes more than before",
+        "Stays exactly double",
+        "Becomes zero",
+        "Becomes less than before"
+       ],
+       "answer": 3,
+       "why": "Carbon dioxide gas escapes into the air, so the weight of the mixture becomes less than before."
+      },
+      {
+       "q": "The weight of the vinegar and baking soda mixture decreases because the gas:",
+       "options": [
+        "Turns into liquid",
+        "Freezes in the cup",
+        "Escapes into the air",
+        "Becomes heavier"
+       ],
+       "answer": 2,
+       "why": "The gas leaves the mixture and escapes into the air, which is why the weight becomes less."
+      },
+      {
+       "q": "The gas formed when vinegar meets baking soda is:",
+       "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+       ],
+       "answer": 0,
+       "why": "Bubbles of carbon dioxide gas are formed when vinegar and baking soda are mixed."
+      },
+      {
+       "q": "The bubbles formed in vinegar on adding baking soda show a:",
+       "options": [
+        "Physical change",
+        "Change of state only",
+        "Melting",
+        "Chemical change"
+       ],
+       "answer": 3,
+       "why": "The bubbles in vinegar are a chemical change because vinegar reacts and a new gas is formed."
+      },
+      {
+       "q": "The bubbles in boiling water show a:",
+       "options": [
+        "Chemical change",
+        "Physical change",
+        "Rusting",
+        "New material formation"
+       ],
+       "answer": 1,
+       "why": "Bubbles in boiling water are a physical change because only water changes into steam and no new material is formed."
+      },
+      {
+       "q": "In boiling water, the water changes into:",
+       "options": [
+        "Carbon dioxide",
+        "Ice",
+        "Steam",
+        "Salt"
+       ],
+       "answer": 2,
+       "why": "In boiling, only water changes into steam, so it is a physical change."
+      },
+      {
+       "q": "In the vinegar mixture, the new material formed is:",
+       "options": [
+        "Steam",
+        "Ice",
+        "Brown rust",
+        "Carbon dioxide gas"
+       ],
+       "answer": 3,
+       "why": "Vinegar reacts with baking soda and a new gas, carbon dioxide, is formed — a chemical change."
+      },
+      {
+       "q": "In boiling water, no new material is formed, so the change is:",
+       "options": [
+        "Physical",
+        "Chemical",
+        "Irreversible rusting",
+        "Burning"
+       ],
+       "answer": 0,
+       "why": "The lesson says boiling is a physical change because no new material is formed."
+      },
+      {
+       "q": "Why does the open mixture of vinegar and baking soda lose weight?",
+       "options": [
+        "Water evaporates fully",
+        "Baking soda dissolves",
+        "The carbon dioxide leaves the mixture",
+        "The cup becomes lighter"
+       ],
+       "answer": 2,
+       "why": "Because the carbon dioxide gas leaves the mixture, its weight becomes less than before."
+      },
+      {
+       "q": "Vinegar reacting to form a new gas is an example of a:",
+       "options": [
+        "Physical change",
+        "Chemical change",
+        "Change of state",
+        "Freezing"
+       ],
+       "answer": 1,
+       "why": "A reaction forming a new gas (carbon dioxide) is a chemical change, unlike boiling water."
+      }
+     ]
     }
    ]
   },
@@ -152,27 +2816,582 @@
     {
      "title": "Light and Luminous Objects",
      "notes_html": "<p>The objects which emit light are called <strong>luminous objects</strong>, for example the Sun, a lighted energy saver, an oil lamp and a candle. Objects that do not emit their own light are non-luminous.</p><h4>Key Facts</h4><ul><li>Light travels in air <strong>along a straight line</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Objects which emit light are called:",
+       "options": [
+        "Non-luminous objects",
+        "Transparent objects",
+        "Luminous objects",
+        "Opaque objects"
+       ],
+       "answer": 2,
+       "why": "The objects which emit light are called luminous objects, for example the Sun and a candle."
+      },
+      {
+       "q": "The Sun is an example of a:",
+       "options": [
+        "Luminous object",
+        "Non-luminous object",
+        "Mirror",
+        "Shadow"
+       ],
+       "answer": 0,
+       "why": "The Sun emits its own light, so it is a luminous object."
+      },
+      {
+       "q": "A lighted candle is a:",
+       "options": [
+        "Non-luminous object",
+        "Transparent object",
+        "Sound source only",
+        "Luminous object"
+       ],
+       "answer": 3,
+       "why": "A lighted energy saver, an oil lamp and a candle are listed as luminous objects."
+      },
+      {
+       "q": "Objects that do not emit their own light are called:",
+       "options": [
+        "Luminous objects",
+        "Non-luminous objects",
+        "Bright objects",
+        "Glowing objects"
+       ],
+       "answer": 1,
+       "why": "Objects that do not emit their own light are non-luminous, unlike the Sun or a candle."
+      },
+      {
+       "q": "Light travels in air along a:",
+       "options": [
+        "Curved line",
+        "Zigzag line",
+        "Straight line",
+        "Circle"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that light travels in air along a straight line."
+      },
+      {
+       "q": "A lighted oil lamp is an example of a:",
+       "options": [
+        "Non-luminous object",
+        "Shadow",
+        "Reflector only",
+        "Luminous object"
+       ],
+       "answer": 3,
+       "why": "An oil lamp is named with the Sun and candle as an object which emits light."
+      },
+      {
+       "q": "A lighted energy saver emits:",
+       "options": [
+        "Light, so it is luminous",
+        "Sound only",
+        "Heat only",
+        "Nothing"
+       ],
+       "answer": 0,
+       "why": "A lighted energy saver is listed among the luminous objects because it emits light."
+      },
+      {
+       "q": "Which of these is a luminous object?",
+       "options": [
+        "An unlit candle",
+        "A switched-off lamp",
+        "A lighted candle",
+        "A candle without a flame"
+       ],
+       "answer": 2,
+       "why": "Only a lighted candle emits light; unlit objects do not emit their own light and are non-luminous."
+      },
+      {
+       "q": "Luminous objects give out:",
+       "options": [
+        "Sound",
+        "Light",
+        "Water",
+        "Air"
+       ],
+       "answer": 1,
+       "why": "By definition, luminous objects are the objects which emit light."
+      },
+      {
+       "q": "The path of light travelling in air is:",
+       "options": [
+        "Bent",
+        "Round",
+        "Wavy",
+        "Straight"
+       ],
+       "answer": 3,
+       "why": "Light travels in air along a straight line, as the lesson's key fact states."
+      }
+     ]
     },
     {
      "title": "Transparent, Opaque and Translucent Objects",
      "notes_html": "<h4>Transparent Objects</h4><p>A transparent object is one through which light passes completely, so we can see clearly through it. Three examples: window pane (glass), clean water and clear plastic sheet.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A transparent object is one through which light:",
+       "options": [
+        "Passes completely",
+        "Does not pass at all",
+        "Passes a little only",
+        "Bounces back fully"
+       ],
+       "answer": 0,
+       "why": "A transparent object is one through which light passes completely, so we can see clearly through it."
+      },
+      {
+       "q": "Through a transparent object we can see:",
+       "options": [
+        "Nothing",
+        "Only shadows",
+        "Blurred shapes only",
+        "Clearly"
+       ],
+       "answer": 3,
+       "why": "Light passes completely through a transparent object, so we can see clearly through it."
+      },
+      {
+       "q": "A window pane (glass) is an example of a:",
+       "options": [
+        "Opaque object",
+        "Transparent object",
+        "Luminous object",
+        "Sound object"
+       ],
+       "answer": 1,
+       "why": "Window pane (glass) is one of the three examples of transparent objects in the lesson."
+      },
+      {
+       "q": "Clean water is an example of a:",
+       "options": [
+        "Opaque object",
+        "Non-luminous solid",
+        "Transparent object",
+        "Mirror"
+       ],
+       "answer": 2,
+       "why": "Clean water is listed as a transparent object because light passes completely through it."
+      },
+      {
+       "q": "A clear plastic sheet is:",
+       "options": [
+        "Opaque",
+        "Luminous",
+        "Magnetic",
+        "Transparent"
+       ],
+       "answer": 3,
+       "why": "A clear plastic sheet is given as an example of a transparent object."
+      },
+      {
+       "q": "Which of these is a transparent object?",
+       "options": [
+        "Window pane (glass)",
+        "Cardboard sheet",
+        "Wooden board",
+        "Metal plate"
+       ],
+       "answer": 0,
+       "why": "Glass window pane lets light pass completely; cardboard, wood and metal do not let us see through them."
+      },
+      {
+       "q": "Through a transparent object, light passes:",
+       "options": [
+        "Partially",
+        "Not at all",
+        "Completely",
+        "Only at night"
+       ],
+       "answer": 2,
+       "why": "The defining property of a transparent object is that light passes completely through it."
+      },
+      {
+       "q": "We can see clearly through clean water because it is:",
+       "options": [
+        "Opaque",
+        "Transparent",
+        "Coloured",
+        "Thick"
+       ],
+       "answer": 1,
+       "why": "Clean water is transparent, so light passes completely and we see clearly through it."
+      },
+      {
+       "q": "A clear plastic sheet is called transparent because light passes through it:",
+       "options": [
+        "Slowly",
+        "In curves",
+        "Only in sunlight",
+        "Completely"
+       ],
+       "answer": 3,
+       "why": "Like glass and clean water, a clear plastic sheet allows light to pass completely."
+      },
+      {
+       "q": "The property that makes an object transparent is that:",
+       "options": [
+        "It produces its own light",
+        "It reflects all light",
+        "Light passes completely and we can see clearly through it",
+        "It blocks all light"
+       ],
+       "answer": 2,
+       "why": "Transparent objects are defined by complete passage of light and clear vision through them."
+      }
+     ]
     },
     {
      "title": "Shadows and Reflection of Light",
      "notes_html": "<h4>Key Facts</h4><ul><li>A <strong>mirror</strong> reflects the maximum light among white paper, coloured paper, mirror and black paper.</li></ul><h4>Shortest and Longest Shadows</h4><p>Your shadow is the shortest at noon, when the Sun is overhead, and the longest in the morning and evening, when the Sun is low in the sky.</p><h4>Running with Your Shadow</h4><p>No, you cannot be a winner while running with your shadow, because the shadow moves with you. As long as you and the source of light move together, the shadow stays with you and you cannot leave it behind.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which of these reflects the maximum light?",
+       "options": [
+        "White paper",
+        "Coloured paper",
+        "Black paper",
+        "Mirror"
+       ],
+       "answer": 3,
+       "why": "The key fact is that a mirror reflects the maximum light among white paper, coloured paper, mirror and black paper."
+      },
+      {
+       "q": "Your shadow is the shortest at:",
+       "options": [
+        "Morning",
+        "Noon",
+        "Evening",
+        "Midnight"
+       ],
+       "answer": 1,
+       "why": "Your shadow is the shortest at noon, when the Sun is overhead."
+      },
+      {
+       "q": "At noon, the Sun is:",
+       "options": [
+        "Low in the sky",
+        "Below the horizon",
+        "Overhead",
+        "Behind the clouds"
+       ],
+       "answer": 2,
+       "why": "The shadow is shortest at noon because the Sun is overhead at that time."
+      },
+      {
+       "q": "Your shadow is the longest in the:",
+       "options": [
+        "Noon only",
+        "Afternoon only",
+        "Night",
+        "Morning and evening"
+       ],
+       "answer": 3,
+       "why": "The shadow is the longest in the morning and evening, when the Sun is low in the sky."
+      },
+      {
+       "q": "In the morning and evening, the Sun is:",
+       "options": [
+        "Low in the sky",
+        "Overhead",
+        "Hidden by the Moon",
+        "At its highest"
+       ],
+       "answer": 0,
+       "why": "When the Sun is low in the sky in the morning and evening, shadows are the longest."
+      },
+      {
+       "q": "Can you win a race against your own shadow?",
+       "options": [
+        "Yes, by running very fast",
+        "Yes, at noon only",
+        "No, because the shadow moves with you",
+        "Yes, by running east"
+       ],
+       "answer": 2,
+       "why": "You cannot be a winner while running with your shadow, because the shadow moves with you."
+      },
+      {
+       "q": "The shadow stays with you while running because:",
+       "options": [
+        "The shadow is glued to your feet",
+        "You and the source of light move together",
+        "Light stops moving",
+        "The Sun follows you"
+       ],
+       "answer": 1,
+       "why": "As long as you and the source of light move together, the shadow stays with you and you cannot leave it behind."
+      },
+      {
+       "q": "Among white paper, coloured paper and black paper, the mirror reflects:",
+       "options": [
+        "The least light",
+        "No light",
+        "The same light as black paper",
+        "The maximum light"
+       ],
+       "answer": 3,
+       "why": "The lesson's key fact is that a mirror reflects the maximum light of the four materials."
+      },
+      {
+       "q": "The length of your shadow depends on the position of the:",
+       "options": [
+        "Moon",
+        "Clouds",
+        "Sun",
+        "Stars"
+       ],
+       "answer": 2,
+       "why": "Shadow length changes with the Sun's position: shortest at noon overhead, longest when the Sun is low."
+      },
+      {
+       "q": "At noon, the length of your shadow is:",
+       "options": [
+        "The shortest",
+        "The longest",
+        "Equal to your height",
+        "Zero metres"
+       ],
+       "answer": 0,
+       "why": "The lesson states your shadow is the shortest at noon when the Sun is overhead."
+      }
+     ]
     },
     {
      "title": "Sound and Its Speed",
      "notes_html": "<h4>Key Facts</h4><ul><li>The speed of sound is maximum in a <strong>metal wire</strong> — sound travels fastest through solids.</li><li>When water comes in the way of sound travelling through air, the <strong>sound becomes fast</strong>, because sound travels faster in water than in air.</li></ul><h4>Sound of a Moving Train</h4><p>When a train is moving away from you, the intensity of its sound will decrease, because the sound has to travel a longer distance to reach you and it spreads out.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The speed of sound is maximum in a:",
+       "options": [
+        "Vacuum",
+        "Metal wire",
+        "Air",
+        "Water"
+       ],
+       "answer": 1,
+       "why": "The key fact is that the speed of sound is maximum in a metal wire — sound travels fastest through solids."
+      },
+      {
+       "q": "Sound travels fastest through:",
+       "options": [
+        "Gases",
+        "Liquids only",
+        "Solids",
+        "Empty space"
+       ],
+       "answer": 2,
+       "why": "Sound travels fastest through solids, which is why its speed is maximum in a metal wire."
+      },
+      {
+       "q": "Sound travels faster in water than in:",
+       "options": [
+        "Metal",
+        "Steel",
+        "Wood",
+        "Air"
+       ],
+       "answer": 3,
+       "why": "When water comes in the way of sound travelling through air, the sound becomes fast, because sound travels faster in water than in air."
+      },
+      {
+       "q": "When sound passes from air into water, it becomes:",
+       "options": [
+        "Fast",
+        "Slow",
+        "Silent",
+        "Reversed"
+       ],
+       "answer": 0,
+       "why": "The lesson states that when water comes in the way of sound travelling through air, the sound becomes fast."
+      },
+      {
+       "q": "When a train is moving away from you, the intensity of its sound will:",
+       "options": [
+        "Increase",
+        "Stay the same",
+        "Decrease",
+        "Become double"
+       ],
+       "answer": 2,
+       "why": "The sound has to travel a longer distance and spreads out, so its intensity decreases."
+      },
+      {
+       "q": "The sound of a departing train decreases because the sound:",
+       "options": [
+        "Stops in the air",
+        "Has to travel a longer distance and spreads out",
+        "Turns into light",
+        "Is blocked by the train"
+       ],
+       "answer": 1,
+       "why": "The lesson explains the intensity decreases because the sound travels a longer distance to reach you and spreads out."
+      },
+      {
+       "q": "Sound travels through air as compared to a solid:",
+       "options": [
+        "More quickly",
+        "At the same speed",
+        "Not at all",
+        "More slowly"
+       ],
+       "answer": 3,
+       "why": "Sound travels fastest through solids, so through air it travels more slowly than through a metal wire."
+      },
+      {
+       "q": "A metal wire carries sound at a speed that is:",
+       "options": [
+        "Minimum",
+        "Zero",
+        "Maximum",
+        "Equal to air"
+       ],
+       "answer": 2,
+       "why": "The speed of sound is maximum in a metal wire, a solid, as the key fact states."
+      },
+      {
+       "q": "As the distance between you and a sound source increases, the intensity of sound:",
+       "options": [
+        "Decreases",
+        "Increases",
+        "Remains maximum",
+        "Doubles"
+       ],
+       "answer": 0,
+       "why": "The train example shows intensity decreases as the sound travels a longer distance and spreads out."
+      },
+      {
+       "q": "Sound spreads out as it travels a long distance, so its intensity:",
+       "options": [
+        "Increases",
+        "Stays maximum",
+        "Becomes noise only",
+        "Decreases"
+       ],
+       "answer": 3,
+       "why": "Spreading out over a longer distance is the reason the intensity of the train's sound decreases."
+      }
+     ]
     },
     {
      "title": "Pleasant and Unpleasant Sounds",
      "notes_html": "<h4>Key Facts</h4><ul><li>The sound of a <strong>tractor</strong> is called noise. The sound of a flute, the rustling of leaves and the chirping of birds are pleasant sounds.</li></ul><h4>Why the Moon Looks Luminous</h4><p>The Moon is non-luminous: it has no light of its own. It looks luminous to us because it reflects the light of the Sun towards the Earth.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The sound of a tractor is called:",
+       "options": [
+        "Music",
+        "Pleasant sound",
+        "Noise",
+        "Melody"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that the sound of a tractor is called noise."
+      },
+      {
+       "q": "The sound of a flute is a:",
+       "options": [
+        "Noise",
+        "Unpleasant sound",
+        "Disturbance",
+        "Pleasant sound"
+       ],
+       "answer": 3,
+       "why": "The sound of a flute, the rustling of leaves and the chirping of birds are pleasant sounds."
+      },
+      {
+       "q": "The chirping of birds is a:",
+       "options": [
+        "Pleasant sound",
+        "Noise",
+        "Unpleasant sound",
+        "Silent sound"
+       ],
+       "answer": 0,
+       "why": "Chirping of birds is listed among the pleasant sounds in the lesson."
+      },
+      {
+       "q": "The rustling of leaves is a:",
+       "options": [
+        "Noise",
+        "Unpleasant sound",
+        "Pleasant sound",
+        "Loud sound"
+       ],
+       "answer": 2,
+       "why": "The rustling of leaves is one of the pleasant sounds named in the lesson."
+      },
+      {
+       "q": "The Moon is a:",
+       "options": [
+        "Luminous object",
+        "Non-luminous object",
+        "Star",
+        "Source of light"
+       ],
+       "answer": 1,
+       "why": "The Moon is non-luminous: it has no light of its own."
+      },
+      {
+       "q": "The Moon has light of its own:",
+       "options": [
+        "Yes, plenty",
+        "Yes, a little stored",
+        "Only at night",
+        "No, it has none"
+       ],
+       "answer": 3,
+       "why": "The lesson states the Moon has no light of its own; it only reflects the Sun's light."
+      },
+      {
+       "q": "The Moon looks luminous to us because it:",
+       "options": [
+        "Produces its own light",
+        "Glows like a bulb",
+        "Reflects the light of the Sun towards the Earth",
+        "Burns like the Sun"
+       ],
+       "answer": 2,
+       "why": "The Moon looks luminous because it reflects the light of the Sun towards the Earth."
+      },
+      {
+       "q": "The Moon reflects sunlight towards the:",
+       "options": [
+        "Earth",
+        "Sun",
+        "Mars",
+        "Stars"
+       ],
+       "answer": 0,
+       "why": "The Moon reflects the light of the Sun towards the Earth, so it looks luminous to us."
+      },
+      {
+       "q": "Which of these sounds is noise?",
+       "options": [
+        "Sound of a flute",
+        "Rustling of leaves",
+        "Chirping of birds",
+        "Sound of a tractor"
+       ],
+       "answer": 3,
+       "why": "The tractor's sound is called noise, while the flute, leaves and birds are pleasant sounds."
+      },
+      {
+       "q": "Which of these is a pleasant sound?",
+       "options": [
+        "Sound of a tractor",
+        "Sound of a flute",
+        "Sound of a horn in traffic",
+        "Sound of a drill machine"
+       ],
+       "answer": 1,
+       "why": "The sound of a flute is listed as a pleasant sound in the lesson."
+      }
+     ]
     }
    ]
   },
@@ -182,27 +3401,582 @@
     {
      "title": "Static Electricity",
      "notes_html": "<h4>Why a Charged Balloon Sticks to a Wall</h4><p>When a balloon is rubbed with a woollen cloth, it gets a static electric charge. When this charged balloon is brought near a wall, it attracts the opposite charge on the wall's surface, so it sticks to the wall.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "When a balloon is rubbed with a woollen cloth, it gets a:",
+       "options": [
+        "Magnetic pole",
+        "Beam of light",
+        "Sound vibration",
+        "Static electric charge"
+       ],
+       "answer": 3,
+       "why": "When a balloon is rubbed with a woollen cloth, it gets a static electric charge."
+      },
+      {
+       "q": "A charged balloon brought near a wall will:",
+       "options": [
+        "Stick to the wall",
+        "Fall down at once",
+        "Burst immediately",
+        "Roll away"
+       ],
+       "answer": 0,
+       "why": "The charged balloon attracts the opposite charge on the wall's surface, so it sticks to the wall."
+      },
+      {
+       "q": "The charged balloon attracts which charge on the wall's surface?",
+       "options": [
+        "The same charge",
+        "No charge",
+        "The opposite charge",
+        "A magnetic charge"
+       ],
+       "answer": 2,
+       "why": "The balloon sticks because it attracts the opposite charge on the wall's surface."
+      },
+      {
+       "q": "Static electric charge is produced on the balloon by:",
+       "options": [
+        "Washing it with water",
+        "Rubbing it with a woollen cloth",
+        "Heating it in the Sun",
+        "Painting it"
+       ],
+       "answer": 1,
+       "why": "Rubbing the balloon with a woollen cloth gives it a static electric charge."
+      },
+      {
+       "q": "The charge produced by rubbing is called:",
+       "options": [
+        "Current electricity",
+        "Magnetic charge",
+        "Light energy",
+        "Static electric charge"
+       ],
+       "answer": 3,
+       "why": "The lesson names the charge on the rubbed balloon a static electric charge."
+      },
+      {
+       "q": "The balloon sticks to the wall because it:",
+       "options": [
+        "Becomes sticky with glue",
+        "Becomes heavier",
+        "Attracts the opposite charge on the wall's surface",
+        "Turns into a magnet"
+       ],
+       "answer": 2,
+       "why": "Attraction between the balloon's charge and the opposite charge on the wall makes it stick."
+      },
+      {
+       "q": "Which cloth is used to rub the balloon in the lesson?",
+       "options": [
+        "Woollen cloth",
+        "Silk cloth",
+        "Cotton towel",
+        "Plastic sheet"
+       ],
+       "answer": 0,
+       "why": "The balloon is rubbed with a woollen cloth to give it a static electric charge."
+      },
+      {
+       "q": "Opposite charges show which behaviour?",
+       "options": [
+        "They repel each other",
+        "They ignore each other",
+        "They disappear",
+        "They attract each other"
+       ],
+       "answer": 3,
+       "why": "The balloon sticks because its charge attracts the opposite charge on the wall — opposite charges attract."
+      },
+      {
+       "q": "To make the balloon stick, it is brought near a:",
+       "options": [
+        "Magnet",
+        "Wall",
+        "Bulb",
+        "Switch"
+       ],
+       "answer": 1,
+       "why": "When the charged balloon is brought near a wall, it sticks to the wall."
+      },
+      {
+       "q": "Rubbing two objects together can produce:",
+       "options": [
+        "An electric circuit",
+        "A magnetic compass",
+        "Static electricity",
+        "Sound"
+       ],
+       "answer": 2,
+       "why": "Rubbing the balloon with wool produces static electricity in the form of a static charge."
+      }
+     ]
     },
     {
      "title": "Electric Circuit and Its Components",
      "notes_html": "<h4>Key Facts</h4><ul><li>The flow of current in an electric circuit is controlled by a <strong>switch</strong>.</li><li>Current can easily pass through a <strong>steel paperclip</strong> — metals are conductors of electricity.</li></ul><h4>Why a Bulb Lights Up</h4><p>A bulb lights up in a circuit when the circuit is complete: current flows from the cell through the wires and the filament of the bulb, the filament becomes hot and glows.</p><h4>Components Needed to Light a Bulb</h4><p>To light a bulb you also need a cell (battery), connecting wires and a switch, so that a complete circuit can be made.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The flow of current in an electric circuit is controlled by a:",
+       "options": [
+        "Switch",
+        "Magnet",
+        "Wire only",
+        "Bulb glass"
+       ],
+       "answer": 0,
+       "why": "The key fact is that the flow of current in an electric circuit is controlled by a switch."
+      },
+      {
+       "q": "Current can easily pass through a:",
+       "options": [
+        "Rubber band",
+        "Plastic ruler",
+        "Steel paperclip",
+        "Wooden stick"
+       ],
+       "answer": 2,
+       "why": "Current can easily pass through a steel paperclip because metals are conductors of electricity."
+      },
+      {
+       "q": "Metals are:",
+       "options": [
+        "Insulators of electricity",
+        "Conductors of electricity",
+        "Sources of light",
+        "Magnets only"
+       ],
+       "answer": 1,
+       "why": "The lesson states that metals are conductors of electricity, so current passes easily through a steel paperclip."
+      },
+      {
+       "q": "A bulb lights up in a circuit when the circuit is:",
+       "options": [
+        "Broken",
+        "Open",
+        "Disconnected",
+        "Complete"
+       ],
+       "answer": 3,
+       "why": "A bulb lights up when the circuit is complete and current flows through the filament."
+      },
+      {
+       "q": "The filament of the bulb glows because it becomes:",
+       "options": [
+        "Cold",
+        "Wet",
+        "Hot",
+        "Magnetic"
+       ],
+       "answer": 2,
+       "why": "Current flows through the filament of the bulb; the filament becomes hot and glows."
+      },
+      {
+       "q": "In a circuit, current flows from the:",
+       "options": [
+        "Cell",
+        "Switch only",
+        "Bulb glass",
+        "Table"
+       ],
+       "answer": 0,
+       "why": "Current flows from the cell through the wires and the filament of the bulb."
+      },
+      {
+       "q": "To light a bulb, you also need a:",
+       "options": [
+        "Magnet",
+        "Compass",
+        "Mirror",
+        "Cell (battery)"
+       ],
+       "answer": 3,
+       "why": "To light a bulb you need a cell (battery), connecting wires and a switch to make a complete circuit."
+      },
+      {
+       "q": "Connecting wires are needed in a circuit to:",
+       "options": [
+        "Decorate the bulb",
+        "Complete the circuit",
+        "Cool the filament",
+        "Hold the cell"
+       ],
+       "answer": 1,
+       "why": "Connecting wires join the cell, switch and bulb so that a complete circuit can be made."
+      },
+      {
+       "q": "Current makes the bulb glow by passing through its:",
+       "options": [
+        "Glass cover",
+        "Metal cap only",
+        "Filament",
+        "Base"
+       ],
+       "answer": 2,
+       "why": "Current flows through the filament of the bulb; the filament becomes hot and glows."
+      },
+      {
+       "q": "A switch is used in a circuit to:",
+       "options": [
+        "Produce current",
+        "Store current",
+        "Change current into light directly",
+        "Control the flow of current"
+       ],
+       "answer": 3,
+       "why": "The switch controls the flow of current in an electric circuit, as the key fact states."
+      }
+     ]
     },
     {
      "title": "Magnets and Their Properties",
      "notes_html": "<h4>Key Facts</h4><ul><li>A ring-shaped magnet has <strong>2 poles</strong>.</li><li><strong>Like poles repel each other</strong> — the north pole repels the north pole, and unlike poles attract each other.</li></ul><h4>Why a Nail on a Magnet Attracts Another Nail</h4><p>An iron nail stuck to a magnet becomes a magnet itself for some time (magnetism is induced in it), so it attracts another nail.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A ring-shaped magnet has how many poles?",
+       "options": [
+        "1 pole",
+        "3 poles",
+        "2 poles",
+        "4 poles"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that a ring-shaped magnet has 2 poles."
+      },
+      {
+       "q": "Like poles of magnets:",
+       "options": [
+        "Attract each other",
+        "Repel each other",
+        "Join together",
+        "Lose their power"
+       ],
+       "answer": 1,
+       "why": "Like poles repel each other — the north pole repels the north pole."
+      },
+      {
+       "q": "The north pole of a magnet repels the:",
+       "options": [
+        "South pole of another magnet",
+        "Iron nail",
+        "Steel paperclip",
+        "North pole of another magnet"
+       ],
+       "answer": 3,
+       "why": "Like poles repel, so the north pole repels the north pole of another magnet."
+      },
+      {
+       "q": "Unlike poles of magnets:",
+       "options": [
+        "Repel each other",
+        "Ignore each other",
+        "Attract each other",
+        "Push away"
+       ],
+       "answer": 2,
+       "why": "Unlike poles attract each other, while like poles repel each other."
+      },
+      {
+       "q": "An iron nail stuck to a magnet becomes:",
+       "options": [
+        "A magnet itself for some time",
+        "A conductor only",
+        "Non-magnetic forever",
+        "A compass"
+       ],
+       "answer": 0,
+       "why": "Magnetism is induced in the nail, so it becomes a magnet itself for some time."
+      },
+      {
+       "q": "The nail on a magnet attracts another nail because:",
+       "options": [
+        "It becomes hot",
+        "It gets an electric charge",
+        "It becomes lighter",
+        "Magnetism is induced in it"
+       ],
+       "answer": 3,
+       "why": "The nail becomes a magnet for some time due to induced magnetism, so it attracts another nail."
+      },
+      {
+       "q": "The induced magnetism in a nail lasts:",
+       "options": [
+        "Forever",
+        "For some time",
+        "For one second only",
+        "For a whole year"
+       ],
+       "answer": 1,
+       "why": "The lesson says the nail becomes a magnet itself for some time."
+      },
+      {
+       "q": "A north pole and a south pole brought together will:",
+       "options": [
+        "Repel each other",
+        "Both disappear",
+        "Attract each other",
+        "Turn into one pole"
+       ],
+       "answer": 2,
+       "why": "North and south are unlike poles, and unlike poles attract each other."
+      },
+      {
+       "q": "Two north poles brought close to each other will:",
+       "options": [
+        "Attract each other",
+        "Stick together",
+        "Form a ring",
+        "Repel each other"
+       ],
+       "answer": 3,
+       "why": "Two north poles are like poles, and like poles repel each other."
+      },
+      {
+       "q": "A magnet can turn an iron nail into a temporary:",
+       "options": [
+        "Magnet",
+        "Bulb",
+        "Switch",
+        "Cell"
+       ],
+       "answer": 0,
+       "why": "Induced magnetism makes the iron nail a magnet for some time, able to attract another nail."
+      }
+     ]
     },
     {
      "title": "Magnetic Compass and Directions",
      "notes_html": "<h4>Key Facts</h4><ul><li>A freely suspended bar magnet always settles in the <strong>north-south direction</strong>.</li></ul><h4>Finding Directions with a Magnetic Compass</h4><p>A magnetic compass has a freely suspended needle which always points in the north-south direction. The end pointing north shows the north direction and the other end shows the south direction; the other directions are found from these.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A freely suspended bar magnet always settles in the:",
+       "options": [
+        "East-west direction",
+        "North-south direction",
+        "Up-down direction",
+        "Circular direction"
+       ],
+       "answer": 1,
+       "why": "The key fact is that a freely suspended bar magnet always settles in the north-south direction."
+      },
+      {
+       "q": "The needle of a magnetic compass always points in the:",
+       "options": [
+        "East-west direction",
+        "Random direction",
+        "Direction of the wind",
+        "North-south direction"
+       ],
+       "answer": 3,
+       "why": "A magnetic compass has a freely suspended needle which always points in the north-south direction."
+      },
+      {
+       "q": "The end of the compass needle pointing north shows the:",
+       "options": [
+        "South direction",
+        "East direction",
+        "North direction",
+        "West direction"
+       ],
+       "answer": 2,
+       "why": "The end pointing north shows the north direction and the other end shows the south direction."
+      },
+      {
+       "q": "Other directions are found from the:",
+       "options": [
+        "North and south directions",
+        "Stars",
+        "Sun's shadow only",
+        "Wind direction"
+       ],
+       "answer": 0,
+       "why": "Once north and south are known from the needle, the other directions are found from these."
+      },
+      {
+       "q": "A magnetic compass is used to find:",
+       "options": [
+        "Temperature",
+        "Time",
+        "Weight",
+        "Directions"
+       ],
+       "answer": 3,
+       "why": "A magnetic compass is used for finding directions with its freely suspended needle."
+      },
+      {
+       "q": "The needle of a magnetic compass is:",
+       "options": [
+        "Fixed tightly",
+        "Freely suspended",
+        "Glued to the box",
+        "Made of wood"
+       ],
+       "answer": 1,
+       "why": "The compass needle is freely suspended so that it can settle in the north-south direction."
+      },
+      {
+       "q": "The other end of the compass needle (opposite to north) shows the:",
+       "options": [
+        "East direction",
+        "West direction",
+        "South direction",
+        "Zenith"
+       ],
+       "answer": 2,
+       "why": "The end pointing north shows north and the other end shows the south direction."
+      },
+      {
+       "q": "A bar magnet hung freely will settle along:",
+       "options": [
+        "East-west",
+        "Any random line",
+        "North-east only",
+        "North-south"
+       ],
+       "answer": 3,
+       "why": "A freely suspended bar magnet always settles in the north-south direction."
+      },
+      {
+       "q": "Which instrument has a freely suspended needle?",
+       "options": [
+        "Magnetic compass",
+        "Spirit level",
+        "Plumb line",
+        "Thermometer"
+       ],
+       "answer": 0,
+       "why": "The magnetic compass has a freely suspended needle which points north-south."
+      },
+      {
+       "q": "In a compass, directions can be found because the needle:",
+       "options": [
+        "Spins continuously",
+        "Points towards the Sun",
+        "Always points in the north-south direction",
+        "Points downwards"
+       ],
+       "answer": 2,
+       "why": "Because the needle always points north-south, north and south are known and other directions are found from these."
+      }
+     ]
     },
     {
      "title": "Ring Magnets on a Stand",
      "notes_html": "<h4>Why the Upper Magnet Floats</h4><p>The upper magnet floats in the air because the like poles of the two magnets face each other, and like poles repel. The force of repulsion balances the weight of the upper magnet, so it stays suspended.</p><p>Label the poles: the facing ends of the two magnets are like poles (for example both north poles face each other), and the outer ends are the opposite poles.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The upper ring magnet floats in the air because the two magnets':",
+       "options": [
+        "Unlike poles attract",
+        "Poles are both broken",
+        "Weights are equal",
+        "Like poles face each other and repel"
+       ],
+       "answer": 3,
+       "why": "The upper magnet floats because the like poles of the two magnets face each other, and like poles repel."
+      },
+      {
+       "q": "The facing ends of the two ring magnets are:",
+       "options": [
+        "Unlike poles",
+        "Not poles",
+        "Like poles",
+        "Charged poles"
+       ],
+       "answer": 2,
+       "why": "The facing ends of the two magnets are like poles, for example both north poles face each other."
+      },
+      {
+       "q": "The force of repulsion between the magnets balances the:",
+       "options": [
+        "Weight of the upper magnet",
+        "Weight of the stand",
+        "Force of the wind",
+        "Weight of the lower magnet"
+       ],
+       "answer": 0,
+       "why": "The force of repulsion balances the weight of the upper magnet, so it stays suspended."
+      },
+      {
+       "q": "The upper magnet stays:",
+       "options": [
+        "Stuck to the lower magnet",
+        "On the table",
+        "Inside the stand",
+        "Suspended in the air"
+       ],
+       "answer": 3,
+       "why": "Because repulsion balances its weight, the upper magnet stays suspended in the air."
+      },
+      {
+       "q": "The facing ends of the floating magnets could both be:",
+       "options": [
+        "One north and one south",
+        "North poles",
+        "South and north mixed",
+        "Without any pole"
+       ],
+       "answer": 1,
+       "why": "The facing ends are like poles — for example both north poles face each other."
+      },
+      {
+       "q": "The outer ends of the two ring magnets are:",
+       "options": [
+        "Also like poles facing out",
+        "Not magnetic",
+        "The opposite poles",
+        "Broken poles"
+       ],
+       "answer": 2,
+       "why": "The facing ends are like poles, and the outer ends are the opposite poles."
+      },
+      {
+       "q": "When like poles face each other, the magnets:",
+       "options": [
+        "Pull together",
+        "Lose magnetism",
+        "Attract iron only",
+        "Push each other away (repel)"
+       ],
+       "answer": 3,
+       "why": "Like poles repel — they push each other away, which lifts the upper magnet."
+      },
+      {
+       "q": "The upper magnet does not fall down because of the:",
+       "options": [
+        "Force of repulsion",
+        "Force of attraction",
+        "Glue on the stand",
+        "String holding it"
+       ],
+       "answer": 0,
+       "why": "The force of repulsion balances the weight of the upper magnet, so it does not fall."
+      },
+      {
+       "q": "The two facing ends of the floating magnets have:",
+       "options": [
+        "Opposite poles",
+        "No poles",
+        "The same pole",
+        "Four poles"
+       ],
+       "answer": 2,
+       "why": "The facing ends are like poles — the same pole on both magnets faces each other."
+      },
+      {
+       "q": "The floating upper magnet demonstrates that like poles:",
+       "options": [
+        "Attract each other",
+        "Repel each other",
+        "Attract iron",
+        "Make electricity"
+       ],
+       "answer": 1,
+       "why": "The upper magnet floats because like poles repel each other, balancing its weight."
+      }
+     ]
     }
    ]
   },
@@ -212,22 +3986,466 @@
     {
      "title": "Structure of the Earth",
      "notes_html": "<p>The Earth is made of layers: the outer layer is the <strong>crust</strong>, below it is the mantle, and the innermost part is the core.</p><h4>Key Facts</h4><ul><li>The outer layer of the Earth is called the <strong>crust</strong>.</li></ul><h4>Importance of the Crust</h4><p>The outer layer of the Earth is called the crust. It is important in our life because we live on it: our houses, fields, roads and all land life exist on the crust, and the soil on it gives us food.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The outer layer of the Earth is called the:",
+       "options": [
+        "Mantle",
+        "Core",
+        "Crust",
+        "Atmosphere"
+       ],
+       "answer": 2,
+       "why": "The Earth is made of layers: the outer layer is the crust, below it is the mantle, and the innermost part is the core."
+      },
+      {
+       "q": "The layer of the Earth below the crust is the:",
+       "options": [
+        "Mantle",
+        "Core",
+        "Crust",
+        "Ocean"
+       ],
+       "answer": 0,
+       "why": "Below the crust is the mantle, and the innermost part is the core."
+      },
+      {
+       "q": "The innermost part of the Earth is the:",
+       "options": [
+        "Crust",
+        "Mantle",
+        "Soil",
+        "Core"
+       ],
+       "answer": 3,
+       "why": "The innermost part of the Earth is called the core."
+      },
+      {
+       "q": "We live on which layer of the Earth?",
+       "options": [
+        "The mantle",
+        "The crust",
+        "The core",
+        "None of these"
+       ],
+       "answer": 1,
+       "why": "The crust is important in our life because we live on it."
+      },
+      {
+       "q": "The soil on the crust gives us:",
+       "options": [
+        "Light",
+        "Sound",
+        "Food",
+        "Electricity"
+       ],
+       "answer": 2,
+       "why": "Our houses, fields and roads exist on the crust, and the soil on it gives us food."
+      },
+      {
+       "q": "Houses, fields and roads all exist on the:",
+       "options": [
+        "Mantle",
+        "Core",
+        "Clouds",
+        "Crust"
+       ],
+       "answer": 3,
+       "why": "All land life, houses, fields and roads exist on the crust of the Earth."
+      },
+      {
+       "q": "From the outside to the inside, the layers of the Earth are:",
+       "options": [
+        "Crust, mantle, core",
+        "Core, mantle, crust",
+        "Mantle, crust, core",
+        "Crust, core, mantle"
+       ],
+       "answer": 0,
+       "why": "The outer layer is the crust, below it is the mantle, and the innermost part is the core."
+      },
+      {
+       "q": "All land life exists on the:",
+       "options": [
+        "Core",
+        "Mantle",
+        "Crust",
+        "Sun"
+       ],
+       "answer": 2,
+       "why": "The lesson says all land life exists on the crust, the outer layer of the Earth."
+      },
+      {
+       "q": "The core of the Earth is located:",
+       "options": [
+        "At the surface",
+        "At the innermost part",
+        "Just below the crust",
+        "In the oceans"
+       ],
+       "answer": 1,
+       "why": "The core is the innermost part of the Earth, below the mantle."
+      },
+      {
+       "q": "The mantle is located:",
+       "options": [
+        "Above the crust",
+        "Inside the core",
+        "On the surface",
+        "Below the crust"
+       ],
+       "answer": 3,
+       "why": "The mantle lies below the crust and above the innermost core."
+      }
+     ]
     },
     {
      "title": "Water on the Earth",
      "notes_html": "<h4>Key Facts</h4><ul><li>The amount of fresh water on the Earth is <strong>about 1%</strong>.</li></ul><h4>Oceans and Sea Water</h4><p>About 71% of the Earth's surface consists of oceans. We cannot drink sea water because it is salty (about 97% of the Earth's water is salty) and is not fit for drinking.</p><h4>Water in Three States</h4><p>Water is found in all three states: as a solid in glaciers and ice, as a liquid in oceans, rivers, lakes and springs, and as a gas (vapours) in the air.</p><h4>The Water Cycle</h4><p>Label the water cycle as follows: water evaporates from oceans, rivers and lakes by the Sun's heat; the vapours rise and condense into clouds; the clouds release water as rain or snow (precipitation); and the rain water flows back into water bodies (collection).</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The amount of fresh water on the Earth is about:",
+       "options": [
+        "1%",
+        "50%",
+        "71%",
+        "97%"
+       ],
+       "answer": 0,
+       "why": "The key fact in the lesson is that the amount of fresh water on the Earth is about 1%."
+      },
+      {
+       "q": "About what percentage of the Earth's surface consists of oceans?",
+       "options": [
+        "1%",
+        "50%",
+        "97%",
+        "71%"
+       ],
+       "answer": 3,
+       "why": "About 71% of the Earth's surface consists of oceans."
+      },
+      {
+       "q": "We cannot drink sea water because it is:",
+       "options": [
+        "Too cold",
+        "Salty",
+        "Too deep",
+        "Full of ice"
+       ],
+       "answer": 1,
+       "why": "We cannot drink sea water because it is salty and is not fit for drinking."
+      },
+      {
+       "q": "About 97% of the Earth's water is:",
+       "options": [
+        "Fresh",
+        "Frozen",
+        "Salty",
+        "In rivers"
+       ],
+       "answer": 2,
+       "why": "The lesson states that about 97% of the Earth's water is salty, so we cannot drink sea water."
+      },
+      {
+       "q": "Water is found as a solid in:",
+       "options": [
+        "Oceans and rivers",
+        "Air as vapours",
+        "Lakes and springs",
+        "Glaciers and ice"
+       ],
+       "answer": 3,
+       "why": "Water is found as a solid in glaciers and ice, as a liquid in oceans and rivers, and as a gas in the air."
+      },
+      {
+       "q": "Water vapour in the air is water in the state of:",
+       "options": [
+        "Gas",
+        "Solid",
+        "Liquid",
+        "Ice"
+       ],
+       "answer": 0,
+       "why": "Water is found as a gas (vapours) in the air, one of its three states."
+      },
+      {
+       "q": "In the water cycle, water evaporates from oceans and rivers due to:",
+       "options": [
+        "The Moon's light",
+        "Wind only",
+        "The Sun's heat",
+        "Cold weather"
+       ],
+       "answer": 2,
+       "why": "Water evaporates from oceans, rivers and lakes by the Sun's heat, as labelled in the water cycle."
+      },
+      {
+       "q": "In the water cycle, vapours rise and condense to form:",
+       "options": [
+        "Rivers",
+        "Clouds",
+        "Glaciers",
+        "Soil"
+       ],
+       "answer": 1,
+       "why": "The vapours rise and condense into clouds; the clouds then release water as rain or snow."
+      },
+      {
+       "q": "Rain or snow released by clouds is called:",
+       "options": [
+        "Evaporation",
+        "Condensation",
+        "Collection",
+        "Precipitation"
+       ],
+       "answer": 3,
+       "why": "The clouds release water as rain or snow, which is precipitation in the water cycle."
+      },
+      {
+       "q": "Water in oceans, rivers and lakes is in which state?",
+       "options": [
+        "Solid",
+        "Gas",
+        "Liquid",
+        "Vapour"
+       ],
+       "answer": 2,
+       "why": "Water is found as a liquid in oceans, rivers, lakes and springs."
+      }
+     ]
     },
     {
      "title": "Soil and Its Types",
      "notes_html": "<h4>Key Facts</h4><ul><li>The main types of soil are <strong>sand, silt and clay</strong>.</li><li><strong>Silt</strong> is the type of soil good for the growth of plants.</li><li>Living organisms in the soil play the role of <strong>making the soil soft and airy</strong>.</li><li>What is important in natural manure is <strong>the decayed matter</strong> (humus).</li></ul><h4>Clay and Pottery</h4><p>Clay is useful to make pottery. Its properties: it is soft and sticky when wet, so it can be given any shape, and it becomes hard when it dries.</p><h4>Humus</h4><p>Humus is the matter obtained from decayed plants and insects. It makes the soil fertile.</p><h4>Clay for Plastering Houses</h4><p>Clay is used to plaster the houses, because it is sticky and soft when wet and becomes hard and strong when it dries.</p><h4>How Roots and Creatures in the Soil Breathe</h4><p>Plant roots and creatures inside the Earth breathe through the air present in the small pores (spaces) between the soil particles.</p><h4>Layers of Soil in the Figure</h4><p>The given figure shows the layers of soil: the top layer contains humus and small plants, below it is a layer of sand and other minerals, and the fertile (silt) part is the layer good for cultivation.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The main types of soil are sand, silt and:",
+       "options": [
+        "Gravel",
+        "Stone",
+        "Ash",
+        "Clay"
+       ],
+       "answer": 3,
+       "why": "The key fact is that the main types of soil are sand, silt and clay."
+      },
+      {
+       "q": "Which type of soil is good for the growth of plants?",
+       "options": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Stone"
+       ],
+       "answer": 1,
+       "why": "Silt is the type of soil good for the growth of plants, as stated in the lesson."
+      },
+      {
+       "q": "Living organisms in the soil make the soil:",
+       "options": [
+        "Hard and dry",
+        "Salty",
+        "Soft and airy",
+        "Rocky"
+       ],
+       "answer": 2,
+       "why": "Living organisms in the soil play the role of making the soil soft and airy."
+      },
+      {
+       "q": "Humus is obtained from:",
+       "options": [
+        "Melted rocks",
+        "Sea water",
+        "Burnt wood",
+        "Decayed plants and insects"
+       ],
+       "answer": 3,
+       "why": "Humus is the matter obtained from decayed plants and insects."
+      },
+      {
+       "q": "Humus makes the soil:",
+       "options": [
+        "Fertile",
+        "Sandy",
+        "Dry",
+        "Useless"
+       ],
+       "answer": 0,
+       "why": "Humus makes the soil fertile, and it is what is important in natural manure."
+      },
+      {
+       "q": "Clay, when wet, is:",
+       "options": [
+        "Hard and dry",
+        "Loose and powdery",
+        "Soft and sticky",
+        "Light and airy"
+       ],
+       "answer": 2,
+       "why": "Clay is soft and sticky when wet, so it can be given any shape, and it becomes hard when it dries."
+      },
+      {
+       "q": "Clay becomes hard when it:",
+       "options": [
+        "Is wetted",
+        "Dries",
+        "Is heated in ice",
+        "Is mixed with sand"
+       ],
+       "answer": 1,
+       "why": "Clay becomes hard when it dries, which makes it useful for pottery and plastering."
+      },
+      {
+       "q": "Clay is useful to make:",
+       "options": [
+        "Glass",
+        "Paper",
+        "Cloth",
+        "Pottery"
+       ],
+       "answer": 3,
+       "why": "Clay is useful to make pottery because it can be shaped when wet and hardens on drying."
+      },
+      {
+       "q": "Plant roots and creatures in the soil breathe through the air present in:",
+       "options": [
+        "Rocks under the soil",
+        "Water in rivers",
+        "Small pores between the soil particles",
+        "Leaves of plants"
+       ],
+       "answer": 2,
+       "why": "Roots and creatures inside the Earth breathe through the air present in the small pores between soil particles."
+      },
+      {
+       "q": "What is important in natural manure?",
+       "options": [
+        "The decayed matter (humus)",
+        "Sand grains",
+        "Small stones",
+        "Clay lumps"
+       ],
+       "answer": 0,
+       "why": "The lesson states that what is important in natural manure is the decayed matter, the humus."
+      }
+     ]
     },
     {
      "title": "Floods",
      "notes_html": "<h4>Activities</h4><ul><li>4. Investigate: You have heard of the devastation caused by floods. What is its reason? How can the surplus water of floods be made useful? (Floods are caused by heavy rain and overflowing rivers; the surplus water can be stored in dams and reservoirs and used for irrigation and drinking.)</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Floods are caused by heavy rain and:",
+       "options": [
+        "Earthquakes only",
+        "Overflowing rivers",
+        "Melting ice only",
+        "Strong winds only"
+       ],
+       "answer": 1,
+       "why": "The investigation answer states floods are caused by heavy rain and overflowing rivers."
+      },
+      {
+       "q": "The surplus water of floods can be stored in:",
+       "options": [
+        "Open fields",
+        "Houses",
+        "Dams and reservoirs",
+        "Roads"
+       ],
+       "answer": 2,
+       "why": "The surplus water of floods can be stored in dams and reservoirs to make it useful."
+      },
+      {
+       "q": "Stored flood water can be used for:",
+       "options": [
+        "Burning waste",
+        "Making plastic",
+        "Nothing",
+        "Irrigation"
+       ],
+       "answer": 3,
+       "why": "Stored flood water can be used for irrigation and drinking, as the lesson explains."
+      },
+      {
+       "q": "Stored flood water can also be used for:",
+       "options": [
+        "Drinking",
+        "Washing cars only",
+        "Filling swimming pools only",
+        "Cooling machines only"
+       ],
+       "answer": 0,
+       "why": "The surplus flood water stored in dams and reservoirs can be used for irrigation and drinking."
+      },
+      {
+       "q": "Heavy rain is one cause of:",
+       "options": [
+        "Droughts",
+        "Earthquakes",
+        "Floods",
+        "Volcanoes"
+       ],
+       "answer": 2,
+       "why": "Floods are caused by heavy rain and overflowing rivers."
+      },
+      {
+       "q": "Rivers cause floods when they:",
+       "options": [
+        "Dry up",
+        "Overflow",
+        "Freeze",
+        "Change colour"
+       ],
+       "answer": 1,
+       "why": "Overflowing rivers, together with heavy rain, cause floods."
+      },
+      {
+       "q": "Dams are used to:",
+       "options": [
+        "Stop rain",
+        "Make rivers",
+        "Grow fish only",
+        "Store surplus water"
+       ],
+       "answer": 3,
+       "why": "Surplus flood water can be stored in dams and reservoirs and used later."
+      },
+      {
+       "q": "Reservoirs are built to:",
+       "options": [
+        "Block sunlight",
+        "Make electricity only",
+        "Store water for later use",
+        "Stop wind"
+       ],
+       "answer": 2,
+       "why": "Reservoirs store the surplus water of floods so it can be used for irrigation and drinking."
+      },
+      {
+       "q": "Flood water is made useful by:",
+       "options": [
+        "Storing it in dams and reservoirs",
+        "Letting it destroy fields",
+        "Mixing it with sewerage",
+        "Boiling it away"
+       ],
+       "answer": 0,
+       "why": "The lesson's answer is that surplus flood water stored in dams and reservoirs becomes useful."
+      },
+      {
+       "q": "Irrigation means using stored water for:",
+       "options": [
+        "Drinking only",
+        "Washing roads",
+        "Filling tanks only",
+        "Watering fields and crops"
+       ],
+       "answer": 3,
+       "why": "Stored flood water is used for irrigation — watering fields — and for drinking."
+      }
+     ]
     }
    ]
   },
@@ -237,17 +4455,350 @@
     {
      "title": "Space Exploration",
      "notes_html": "<h4>Key Facts</h4><ul><li>The countless shining lights seen at night in the sky are <strong>stars</strong>.</li><li><strong>Neil Armstrong</strong> was the first man to step on the Moon.</li><li>The first artificial satellite was sent into space in <strong>1957</strong>.</li></ul><h4>Why Astronauts Wear a Space Dress</h4><p>Astronauts wear a space dress (space suit) because there is no air, very low pressure and extreme temperature in space. The space suit provides oxygen to breathe, maintains suitable pressure and temperature, and protects them from harmful rays and small space particles.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The countless shining lights seen at night in the sky are:",
+       "options": [
+        "Satellites",
+        "Clouds",
+        "Stars",
+        "Fireflies"
+       ],
+       "answer": 2,
+       "why": "The key fact in the lesson is that the countless shining lights seen at night in the sky are stars."
+      },
+      {
+       "q": "The first man to step on the Moon was:",
+       "options": [
+        "Yuri Gagarin",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Neil Armstrong"
+       ],
+       "answer": 3,
+       "why": "Neil Armstrong was the first man to step on the Moon, as stated in the key facts."
+      },
+      {
+       "q": "The first artificial satellite was sent into space in:",
+       "options": [
+        "1957",
+        "1969",
+        "1947",
+        "2000"
+       ],
+       "answer": 0,
+       "why": "The key fact states that the first artificial satellite was sent into space in 1957."
+      },
+      {
+       "q": "Astronauts wear a space dress because in space there is no:",
+       "options": [
+        "Gravity on Earth",
+        "Sunlight",
+        "Air",
+        "Darkness"
+       ],
+       "answer": 2,
+       "why": "There is no air, very low pressure and extreme temperature in space, so astronauts wear a space dress."
+      },
+      {
+       "q": "A space suit provides the astronaut with:",
+       "options": [
+        "Food and water",
+        "Oxygen to breathe",
+        "Books to read",
+        "A telephone"
+       ],
+       "answer": 1,
+       "why": "The space suit provides oxygen to breathe, maintains suitable pressure and temperature, and protects from harmful rays."
+      },
+      {
+       "q": "The space suit maintains suitable:",
+       "options": [
+        "Speed and direction",
+        "Weight and height",
+        "Light and sound",
+        "Pressure and temperature"
+       ],
+       "answer": 3,
+       "why": "The suit maintains suitable pressure and temperature for the astronaut in space."
+      },
+      {
+       "q": "The space suit protects astronauts from:",
+       "options": [
+        "Rain and snow",
+        "Ocean water",
+        "Harmful rays and small space particles",
+        "Wild animals"
+       ],
+       "answer": 2,
+       "why": "The lesson says the space suit protects astronauts from harmful rays and small space particles."
+      },
+      {
+       "q": "The pressure in space is:",
+       "options": [
+        "Very low",
+        "Very high",
+        "Normal like Earth",
+        "Zero in all places"
+       ],
+       "answer": 0,
+       "why": "Space has very low pressure, which is one reason astronauts wear a space dress."
+      },
+      {
+       "q": "The temperature in space is:",
+       "options": [
+        "Always pleasant",
+        "Like a room",
+        "Always freezing only",
+        "Extreme"
+       ],
+       "answer": 3,
+       "why": "Extreme temperature in space is one of the reasons astronauts need a space suit."
+      },
+      {
+       "q": "Neil Armstrong stepped first on the:",
+       "options": [
+        "Mars",
+        "Moon",
+        "Sun",
+        "Earth"
+       ],
+       "answer": 1,
+       "why": "Neil Armstrong was the first man to step on the Moon."
+      }
+     ]
     },
     {
      "title": "Artificial Satellites and Their Uses",
      "notes_html": "<h4>Five Benefits of Artificial Satellites</h4><p>Five benefits of artificial satellites: they help in communication (telephone, television and internet); weather forecasting; navigation through GPS; exploring the Earth and space; and defence and disaster management.</p><h4>The Earth as a Satellite</h4><p>Yes, the Earth is also a satellite of a bigger object: the Sun. The Earth revolves around the Sun, just as the Moon revolves around the Earth.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Artificial satellites help in communication such as telephone, television and:",
+       "options": [
+        "Post letters",
+        "Radio only",
+        "Newspapers",
+        "Internet"
+       ],
+       "answer": 3,
+       "why": "Satellites help in communication (telephone, television and internet), one of their five benefits."
+      },
+      {
+       "q": "Weather forecasting is done with the help of:",
+       "options": [
+        "Artificial satellites",
+        "Plumb lines",
+        "Spirit levels",
+        "Magnets"
+       ],
+       "answer": 0,
+       "why": "Weather forecasting is one of the five benefits of artificial satellites listed in the lesson."
+      },
+      {
+       "q": "Navigation (finding the way) is done through:",
+       "options": [
+        "Compass only",
+        "Maps only",
+        "GPS",
+        "Stars only"
+       ],
+       "answer": 2,
+       "why": "Satellites help in navigation through GPS, as listed among their benefits."
+      },
+      {
+       "q": "Artificial satellites help in exploring:",
+       "options": [
+        "The oceans only",
+        "The Earth and space",
+        "Underground caves only",
+        "Forests only"
+       ],
+       "answer": 1,
+       "why": "Exploring the Earth and space is one of the five benefits of artificial satellites."
+      },
+      {
+       "q": "The Earth is also a satellite of a bigger object, the:",
+       "options": [
+        "Moon",
+        "Mars",
+        "Jupiter",
+        "Sun"
+       ],
+       "answer": 3,
+       "why": "The Earth is a satellite of the Sun because it revolves around the Sun."
+      },
+      {
+       "q": "The Earth revolves around the:",
+       "options": [
+        "Moon",
+        "Mars",
+        "Sun",
+        "Stars"
+       ],
+       "answer": 2,
+       "why": "The Earth revolves around the Sun, just as the Moon revolves around the Earth."
+      },
+      {
+       "q": "The Moon revolves around the:",
+       "options": [
+        "Earth",
+        "Sun",
+        "Mars",
+        "Venus"
+       ],
+       "answer": 0,
+       "why": "The lesson compares: the Earth revolves around the Sun, just as the Moon revolves around the Earth."
+      },
+      {
+       "q": "Artificial satellites help in defence and:",
+       "options": [
+        "Farming only",
+        "Fishing only",
+        "Mining only",
+        "Disaster management"
+       ],
+       "answer": 3,
+       "why": "Defence and disaster management is the fifth benefit of artificial satellites listed."
+      },
+      {
+       "q": "GPS, which works through satellites, helps in:",
+       "options": [
+        "Weather only",
+        "Navigation",
+        "Television",
+        "Farming"
+       ],
+       "answer": 1,
+       "why": "Navigation through GPS is one of the benefits of artificial satellites."
+      },
+      {
+       "q": "Television broadcasts reach us with the help of satellites used for:",
+       "options": [
+        "Navigation",
+        "Weather forecasting",
+        "Communication",
+        "Defence"
+       ],
+       "answer": 2,
+       "why": "Communication (telephone, television and internet) is the first benefit of artificial satellites listed."
+      }
+     ]
     },
     {
      "title": "Geostationary Satellites and GPS",
      "notes_html": "<h4>Key Facts</h4><ul><li>A geo-stationary satellite completes one orbit in <strong>one day</strong>.</li><li>The system that locates the position of an object on the Earth's surface is <strong>GPS</strong> (Global Positioning System).</li></ul><h4>Why a Geo-stationary Satellite Appears Stationary</h4><p>A geo-stationary satellite appears stationary because it completes one orbit in one day (24 hours), exactly the same time in which the Earth completes one rotation. So it stays over the same place on the Earth all the time.</p><h4>Telescopes on Satellites</h4><p>A telescope installed on a satellite takes clearer photographs because there is no atmosphere (air, clouds and dust) in space to disturb the light. On the Earth's surface, the atmosphere blurs the images.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A geo-stationary satellite completes one orbit in:",
+       "options": [
+        "One day",
+        "One hour",
+        "One week",
+        "One month"
+       ],
+       "answer": 0,
+       "why": "The key fact is that a geo-stationary satellite completes one orbit in one day."
+      },
+      {
+       "q": "The system that locates the position of an object on the Earth's surface is:",
+       "options": [
+        "LED",
+        "D2W",
+        "GPS",
+        "OMR"
+       ],
+       "answer": 2,
+       "why": "GPS (Global Positioning System) is the system that locates the position of an object on the Earth's surface."
+      },
+      {
+       "q": "GPS stands for:",
+       "options": [
+        "General Position Service",
+        "Global Positioning System",
+        "Global Planet System",
+        "Ground Position Signal"
+       ],
+       "answer": 1,
+       "why": "The lesson gives the full form of GPS as Global Positioning System."
+      },
+      {
+       "q": "A geo-stationary satellite appears:",
+       "options": [
+        "To move very fast",
+        "To fall down",
+        "To change colour",
+        "Stationary (fixed in the sky)"
+       ],
+       "answer": 3,
+       "why": "It appears stationary because its orbit time equals the Earth's rotation time, so it stays over the same place."
+      },
+      {
+       "q": "The Earth completes one rotation in:",
+       "options": [
+        "12 hours",
+        "7 days",
+        "24 hours",
+        "365 days"
+       ],
+       "answer": 2,
+       "why": "A geo-stationary satellite completes one orbit in one day (24 hours), exactly the time in which the Earth completes one rotation."
+      },
+      {
+       "q": "A geo-stationary satellite stays over:",
+       "options": [
+        "The same place on the Earth all the time",
+        "Different places every hour",
+        "The poles only",
+        "The oceans only"
+       ],
+       "answer": 0,
+       "why": "Because its orbit matches the Earth's rotation, it stays over the same place on the Earth all the time."
+      },
+      {
+       "q": "A telescope on a satellite takes clearer photographs because in space there is no:",
+       "options": [
+        "Gravity",
+        "Sunlight",
+        "Darkness",
+        "Atmosphere"
+       ],
+       "answer": 3,
+       "why": "There is no atmosphere (air, clouds and dust) in space to disturb the light, so photographs are clearer."
+      },
+      {
+       "q": "On the Earth's surface, images from telescopes are blurred by the:",
+       "options": [
+        "Ocean",
+        "Atmosphere",
+        "Soil",
+        "Moon"
+       ],
+       "answer": 1,
+       "why": "The atmosphere blurs the images on the Earth's surface, unlike in space where there is no atmosphere."
+      },
+      {
+       "q": "The orbit time of a geo-stationary satellite is equal to the Earth's:",
+       "options": [
+        "Revolution time around the Sun",
+        "Day length in summer only",
+        "Rotation time",
+        "Moon's orbit time"
+       ],
+       "answer": 2,
+       "why": "It completes one orbit in 24 hours, exactly the same time in which the Earth completes one rotation."
+      },
+      {
+       "q": "Air, clouds and dust in the atmosphere disturb:",
+       "options": [
+        "Satellite orbits",
+        "The Earth's rotation",
+        "Radio waves only",
+        "The light coming to telescopes"
+       ],
+       "answer": 3,
+       "why": "A satellite telescope is clearer because there is no atmosphere — air, clouds and dust — to disturb the light."
+      }
+     ]
     }
    ]
   },
@@ -257,27 +4808,582 @@
     {
      "title": "Making Technical Models",
      "notes_html": "<h4>Making a Model of a Footbridge</h4><p>To make a model of a footbridge you need: cardboard or chart paper, sticks or reeds, glue, string, scissors and colours, as given in the chapter's activity.</p><h4>Tools for a Wooden Model</h4><p>To make a wooden model you need tools and equipment like a saw, hammer, nails, glue, measuring scale, pencil and sandpaper, along with safety precautions while using them.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "To make a model of a footbridge, you need cardboard or:",
+       "options": [
+        "Glass sheets",
+        "Iron rods",
+        "Chart paper",
+        "Cement"
+       ],
+       "answer": 2,
+       "why": "The footbridge model needs cardboard or chart paper, sticks or reeds, glue, string, scissors and colours."
+      },
+      {
+       "q": "Sticks or reeds are used in making a model of a:",
+       "options": [
+        "Television",
+        "Footbridge",
+        "Telephone",
+        "Bicycle"
+       ],
+       "answer": 1,
+       "why": "Sticks or reeds are among the materials listed for making a model of a footbridge."
+      },
+      {
+       "q": "To join the parts of a footbridge model, we use:",
+       "options": [
+        "Nails and cement",
+        "Paint and oil",
+        "Water and sand",
+        "Glue and string"
+       ],
+       "answer": 3,
+       "why": "Glue and string are listed among the materials needed for the footbridge model."
+      },
+      {
+       "q": "To make a wooden model, the tool used to cut wood is a:",
+       "options": [
+        "Hammer",
+        "Sandpaper",
+        "Saw",
+        "Pencil"
+       ],
+       "answer": 2,
+       "why": "Tools for a wooden model include a saw, hammer, nails, glue, measuring scale, pencil and sandpaper."
+      },
+      {
+       "q": "Nails are fixed into wood with a:",
+       "options": [
+        "Hammer",
+        "Saw",
+        "Measuring scale",
+        "Sandpaper"
+       ],
+       "answer": 0,
+       "why": "A hammer is one of the tools needed to make a wooden model, used with nails."
+      },
+      {
+       "q": "A measuring scale is used in model making to:",
+       "options": [
+        "Cut wood",
+        "Fix nails",
+        "Smooth surfaces",
+        "Measure lengths"
+       ],
+       "answer": 3,
+       "why": "The measuring scale is listed among the tools and equipment for making a wooden model."
+      },
+      {
+       "q": "Sandpaper is used in making a model of:",
+       "options": [
+        "Paper only",
+        "Wood",
+        "Plastic only",
+        "Cloth only"
+       ],
+       "answer": 1,
+       "why": "Sandpaper is listed with the saw, hammer and nails as equipment for a wooden model."
+      },
+      {
+       "q": "While using tools for a wooden model, we must follow:",
+       "options": [
+        "No rules",
+        "Speed contests",
+        "Safety precautions",
+        "Guessing"
+       ],
+       "answer": 2,
+       "why": "The lesson says tools are used along with safety precautions while using them."
+      },
+      {
+       "q": "Which material is used to colour the footbridge model?",
+       "options": [
+        "Cement",
+        "Oil",
+        "Sand",
+        "Colours"
+       ],
+       "answer": 3,
+       "why": "Colours are listed among the materials needed for making a model of a footbridge."
+      },
+      {
+       "q": "Scissors are used in the footbridge model to cut:",
+       "options": [
+        "Cardboard or chart paper",
+        "Wood planks",
+        "Iron rods",
+        "Glass"
+       ],
+       "answer": 0,
+       "why": "Scissors are listed for the footbridge model, whose main material is cardboard or chart paper."
+      }
+     ]
     },
     {
      "title": "Spirit Level and Plumb Line",
      "notes_html": "<h4>Key Facts</h4><ul><li>We check the horizontal surface level by using a <strong>spirit level</strong>.</li><li>A mason uses a <strong>plumb line</strong> to keep a wall vertical.</li></ul><h4>Spirit Level and Plumb Line Compared</h4><p>A spirit level is used to check whether a surface is horizontal (level), while a plumb line is used to check whether a wall or line is vertical (straight up and down).</p><h4>Hanging a Picture Frame Straight</h4><p>Use a spirit level to keep the frame straight horizontally, and a plumb line to keep it straight vertically. Adjust the frame until the bubble of the spirit level is in the centre and the plumb line hangs straight along the side.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "We check the horizontal surface level by using a:",
+       "options": [
+        "Plumb line",
+        "Spirit level",
+        "Compass",
+        "Thermometer"
+       ],
+       "answer": 1,
+       "why": "The key fact is that we check the horizontal surface level by using a spirit level."
+      },
+      {
+       "q": "A mason uses a plumb line to keep a wall:",
+       "options": [
+        "Horizontal",
+        "Round",
+        "Slanted",
+        "Vertical"
+       ],
+       "answer": 3,
+       "why": "The key fact states that a mason uses a plumb line to keep a wall vertical."
+      },
+      {
+       "q": "A spirit level is used to check whether a surface is:",
+       "options": [
+        "Vertical",
+        "Hot or cold",
+        "Horizontal (level)",
+        "Wet or dry"
+       ],
+       "answer": 2,
+       "why": "A spirit level is used to check whether a surface is horizontal (level)."
+      },
+      {
+       "q": "A plumb line is used to check whether a wall or line is:",
+       "options": [
+        "Vertical (straight up and down)",
+        "Horizontal",
+        "Curved",
+        "Coloured"
+       ],
+       "answer": 0,
+       "why": "A plumb line is used to check whether a wall or line is vertical (straight up and down)."
+      },
+      {
+       "q": "To hang a picture frame straight horizontally, use a:",
+       "options": [
+        "Plumb line",
+        "Hammer",
+        "Saw",
+        "Spirit level"
+       ],
+       "answer": 3,
+       "why": "Use a spirit level to keep the frame straight horizontally, and a plumb line for the vertical."
+      },
+      {
+       "q": "To keep a picture frame straight vertically, use a:",
+       "options": [
+        "Spirit level",
+        "Plumb line",
+        "Measuring scale",
+        "Sandpaper"
+       ],
+       "answer": 1,
+       "why": "A plumb line is used to keep the frame straight vertically, as the lesson describes."
+      },
+      {
+       "q": "The frame is level when the bubble of the spirit level is in the:",
+       "options": [
+        "Left corner",
+        "Right corner",
+        "Centre",
+        "Tube end"
+       ],
+       "answer": 2,
+       "why": "Adjust the frame until the bubble of the spirit level is in the centre."
+      },
+      {
+       "q": "A plumb line hangs:",
+       "options": [
+        "Horizontally",
+        "In a curve",
+        "Diagonally",
+        "Straight along the side (vertically)"
+       ],
+       "answer": 3,
+       "why": "The plumb line hangs straight along the side, showing the vertical direction."
+      },
+      {
+       "q": "Who uses a plumb line in his work?",
+       "options": [
+        "A mason",
+        "A tailor",
+        "A doctor",
+        "A pilot"
+       ],
+       "answer": 0,
+       "why": "A mason uses a plumb line to keep a wall vertical."
+      },
+      {
+       "q": "The spirit level and the plumb line differ because one checks horizontal and the other checks:",
+       "options": [
+        "Temperature",
+        "Weight",
+        "Vertical",
+        "Length"
+       ],
+       "answer": 2,
+       "why": "Spirit level checks horizontal (level); plumb line checks vertical (straight up and down)."
+      }
+     ]
     },
     {
      "title": "LED Light Strings",
      "notes_html": "<h4>The LED</h4><p>An LED is a Light Emitting Diode: a small electronic device that gives light when electric current passes through it. It uses very little electricity and lasts long.</p><h4>Joining the Wires of LEDs</h4><p>Long wires of LEDs and short wires must be joined together while preparing a light string so that all the LEDs are connected in the correct order (positive to negative) and the circuit is complete, otherwise the lights will not glow.</p><h4>Activities</h4><ul><li>4. Investigate: You are provided a 6 volt battery, one strip of cardboard and 12 blue colour LEDs. How will you make a light for decoration? (Connect the LEDs in a proper series/parallel circuit on the cardboard strip with the battery, joining long wires to short wires, and test the light.)</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "LED stands for:",
+       "options": [
+        "Light Energy Device",
+        "Low Energy Display",
+        "Long Electric Diode",
+        "Light Emitting Diode"
+       ],
+       "answer": 3,
+       "why": "An LED is a Light Emitting Diode: a small electronic device that gives light when current passes through it."
+      },
+      {
+       "q": "An LED gives light when:",
+       "options": [
+        "It is heated in the Sun",
+        "It is shaken",
+        "Electric current passes through it",
+        "It is painted"
+       ],
+       "answer": 2,
+       "why": "An LED gives light when electric current passes through it."
+      },
+      {
+       "q": "An LED uses electricity that is:",
+       "options": [
+        "Very little",
+        "Very much",
+        "Equal to a bulb factory",
+        "Unlimited"
+       ],
+       "answer": 0,
+       "why": "An LED uses very little electricity and lasts long, as the lesson states."
+      },
+      {
+       "q": "An LED lasts for a time that is:",
+       "options": [
+        "Very short",
+        "One day",
+        "One hour",
+        "Long"
+       ],
+       "answer": 3,
+       "why": "The lesson states that an LED uses very little electricity and lasts long."
+      },
+      {
+       "q": "While preparing an LED light string, long wires of LEDs are joined to:",
+       "options": [
+        "Long wires only",
+        "Short wires",
+        "The battery directly",
+        "Each other randomly"
+       ],
+       "answer": 1,
+       "why": "Long wires of LEDs and short wires must be joined together so all LEDs connect in the correct order."
+      },
+      {
+       "q": "In an LED string, the LEDs are connected in the correct order, positive to:",
+       "options": [
+        "Positive",
+        "The switch",
+        "Negative",
+        "The cardboard"
+       ],
+       "answer": 2,
+       "why": "LEDs are connected positive to negative in the correct order so the circuit is complete."
+      },
+      {
+       "q": "If the circuit of an LED string is not complete, the lights will:",
+       "options": [
+        "Glow brighter",
+        "Change colour",
+        "Glow one by one",
+        "Not glow"
+       ],
+       "answer": 3,
+       "why": "The wires are joined so the circuit is complete; otherwise the lights will not glow."
+      },
+      {
+       "q": "The decoration light activity in the lesson uses a battery of:",
+       "options": [
+        "6 volts",
+        "12 volts",
+        "3 volts",
+        "220 volts"
+       ],
+       "answer": 0,
+       "why": "The activity provides a 6 volt battery, one strip of cardboard and 12 blue colour LEDs."
+      },
+      {
+       "q": "How many blue LEDs are used in the decoration light activity?",
+       "options": [
+        "6",
+        "10",
+        "12",
+        "24"
+       ],
+       "answer": 2,
+       "why": "The activity uses one strip of cardboard and 12 blue colour LEDs with a 6 volt battery."
+      },
+      {
+       "q": "For all LEDs in a string to glow, they must be connected in the correct:",
+       "options": [
+        "Colour",
+        "Order",
+        "Size",
+        "Shape"
+       ],
+       "answer": 1,
+       "why": "All the LEDs must be connected in the correct order (positive to negative) for the string to glow."
+      }
+     ]
     },
     {
      "title": "Sound and Models",
      "notes_html": "<h4>How a Musical Instrument Produces Sound</h4><p>A musical instrument produces sound by vibration: when a part of the instrument vibrates (for example a string, a drum skin or air in a pipe), it makes the air around it vibrate, and these vibrations reach our ears as sound.</p><h4>Activities</h4><ul><li>5. Project: Make a model of a cot (charpai) by using two reeds of different thickness, glue, knife, steel pins and strings.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A musical instrument produces sound by:",
+       "options": [
+        "Reflection",
+        "Evaporation",
+        "Vibration",
+        "Magnetism"
+       ],
+       "answer": 2,
+       "why": "A musical instrument produces sound by vibration of a part of the instrument."
+      },
+      {
+       "q": "When a string of an instrument vibrates, it produces:",
+       "options": [
+        "Sound",
+        "Light",
+        "Heat only",
+        "Electricity"
+       ],
+       "answer": 0,
+       "why": "When a part of the instrument vibrates (a string, a drum skin or air in a pipe), it makes sound."
+      },
+      {
+       "q": "The vibrations of an instrument reach our ears as:",
+       "options": [
+        "Light",
+        "Air pressure only",
+        "Music notes on paper",
+        "Sound"
+       ],
+       "answer": 3,
+       "why": "The vibrating part makes the air around it vibrate, and these vibrations reach our ears as sound."
+      },
+      {
+       "q": "A drum produces sound when its:",
+       "options": [
+        "Stick breaks",
+        "Skin vibrates",
+        "Body is painted",
+        "Rope is tied"
+       ],
+       "answer": 1,
+       "why": "A drum skin is one of the vibrating parts named in the lesson that produce sound."
+      },
+      {
+       "q": "In a pipe instrument, sound is produced by the vibration of:",
+       "options": [
+        "Metal keys",
+        "Wood only",
+        "Air in the pipe",
+        "Strings"
+       ],
+       "answer": 2,
+       "why": "Air in a pipe vibrates in pipe instruments, making the air around vibrate as sound."
+      },
+      {
+       "q": "The model of a cot (charpai) is made by using two reeds of:",
+       "options": [
+        "Same thickness",
+        "Gold and silver",
+        "Plastic and metal",
+        "Different thickness"
+       ],
+       "answer": 3,
+       "why": "The project is to make a model of a cot using two reeds of different thickness, glue, knife, steel pins and strings."
+      },
+      {
+       "q": "Steel pins are used in making a model of a:",
+       "options": [
+        "Cot (charpai)",
+        "Footbridge",
+        "LED string",
+        "Flower"
+       ],
+       "answer": 0,
+       "why": "Steel pins are listed among the materials for the cot (charpai) model project."
+      },
+      {
+       "q": "Sound is produced when a part of the instrument:",
+       "options": [
+        "Is painted",
+        "Is polished",
+        "Vibrates",
+        "Is kept still"
+       ],
+       "answer": 2,
+       "why": "A musical instrument produces sound by vibration: when a part vibrates, the air vibrates and we hear sound."
+      },
+      {
+       "q": "The air around a vibrating instrument part also:",
+       "options": [
+        "Freezes",
+        "Vibrates",
+        "Disappears",
+        "Becomes light"
+       ],
+       "answer": 1,
+       "why": "The vibrating part makes the air around it vibrate, and these vibrations reach our ears as sound."
+      },
+      {
+       "q": "A knife and glue are used in the project of making a model of a:",
+       "options": [
+        "Ship",
+        "House",
+        "Car",
+        "Cot (charpai)"
+       ],
+       "answer": 3,
+       "why": "The cot model project uses two reeds of different thickness, glue, knife, steel pins and strings."
+      }
+     ]
     },
     {
      "title": "First Aid",
      "notes_html": "<h4>Key Facts</h4><ul><li>Saline water is used for <strong>cleaning wounds</strong>.</li><li>Sterilized gauze is used <strong>as a bandage on a wound</strong>.</li><li>The emergency phone call number is <strong>1122</strong>.</li></ul><h4>First Aid</h4><p>First aid is the immediate help given to an injured or sick person before proper medical treatment arrives, for example cleaning a wound, stopping bleeding and bandaging it.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Wounds are cleaned with:",
+       "options": [
+        "Saline water",
+        "River water",
+        "Soap water",
+        "Hot oil"
+       ],
+       "answer": 0,
+       "why": "The key fact in the lesson is that saline water is used for cleaning wounds."
+      },
+      {
+       "q": "Sterilized gauze is used as a:",
+       "options": [
+        "Cleaning cloth",
+        "Towel",
+        "Cover for food",
+        "Bandage on a wound"
+       ],
+       "answer": 3,
+       "why": "Sterilized gauze is used as a bandage on a wound, as the key fact states."
+      },
+      {
+       "q": "The emergency phone call number is:",
+       "options": [
+        "1111",
+        "1122",
+        "999",
+        "15"
+       ],
+       "answer": 1,
+       "why": "The emergency phone call number given in the lesson is 1122."
+      },
+      {
+       "q": "First aid is the help given to an injured or sick person:",
+       "options": [
+        "After discharge from hospital",
+        "Only in hospitals",
+        "Before proper medical treatment arrives",
+        "By doctors only"
+       ],
+       "answer": 2,
+       "why": "First aid is the immediate help given to an injured or sick person before proper medical treatment arrives."
+      },
+      {
+       "q": "First aid is given to a person who is:",
+       "options": [
+        "Sleeping",
+        "Playing",
+        "Studying",
+        "Injured or sick"
+       ],
+       "answer": 3,
+       "why": "First aid is the immediate help given to an injured or sick person."
+      },
+      {
+       "q": "Stopping bleeding is an example of:",
+       "options": [
+        "First aid",
+        "Surgery",
+        "Vaccination",
+        "Physiotherapy"
+       ],
+       "answer": 0,
+       "why": "Cleaning a wound, stopping bleeding and bandaging it are examples of first aid in the lesson."
+      },
+      {
+       "q": "Bandaging a wound is part of:",
+       "options": [
+        "Cooking",
+        "Cleaning the house",
+        "First aid",
+        "Gardening"
+       ],
+       "answer": 2,
+       "why": "Bandaging a wound is one of the first aid actions listed in the lesson."
+      },
+      {
+       "q": "The gauze used on a wound should be:",
+       "options": [
+        "Ordinary and used",
+        "Sterilized",
+        "Coloured",
+        "Wet with river water"
+       ],
+       "answer": 1,
+       "why": "Sterilized gauze is used as a bandage on a wound, as the key fact states."
+      },
+      {
+       "q": "Cleaning a wound with saline water is an example of:",
+       "options": [
+        "An operation",
+        "A medical test",
+        "A vaccination",
+        "First aid"
+       ],
+       "answer": 3,
+       "why": "Cleaning a wound is listed as an example of first aid given before medical treatment arrives."
+      },
+      {
+       "q": "First aid is described as the help that is:",
+       "options": [
+        "Delayed",
+        "Weekly",
+        "Immediate",
+        "Optional and late"
+       ],
+       "answer": 2,
+       "why": "First aid is the immediate help given to an injured or sick person before proper medical treatment arrives."
+      }
+     ]
     }
    ]
   }
