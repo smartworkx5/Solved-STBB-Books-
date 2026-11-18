@@ -7,17 +7,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<ul><li>The default file extension for a Microsoft Word document is <strong>.docx</strong>.</li><li>A page break in Word <strong>moves text to the next page</strong>.</li><li>In PowerPoint, images and tables are inserted from the <strong>Insert</strong> tab.</li><li>The primary purpose of the Slide Master in PowerPoint is <strong>to create consistent layouts and themes of all slides</strong>.</li><li>The <strong>F5</strong> key starts a PowerPoint slideshow from the beginning.</li><li>A PowerPoint presentation is exported as a video in <strong>.mp4</strong> format.</li><li>The default slide layout in a new PowerPoint presentation is <strong>Title Slide</strong>.</li><li>In Word, the spelling and grammar tool is found in the <strong>Review</strong> tab.</li><li><strong>Ctrl + Z</strong> is used for <strong>undoing an action</strong> in Word and PowerPoint.</li><li>Headers and footers are added in Word from the <strong>Insert</strong> tab.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is the default file extension for a Microsoft Word document?",
+       "options": [
+        ".docx",
+        ".pptx",
+        ".xlsx",
+        ".mp4"
+       ],
+       "answer": 0,
+       "why": "The notes state that the default file extension for a Microsoft Word document is .docx; .pptx belongs to PowerPoint and .mp4 is a video format."
+      },
+      {
+       "q": "What does a page break do in Word?",
+       "options": [
+        "It deletes the current page",
+        "It moves text to the next page",
+        "It changes the page colour",
+        "It checks spelling on the page"
+       ],
+       "answer": 1,
+       "why": "According to the notes, a page break in Word moves text to the next page, so the following text starts on a fresh page."
+      },
+      {
+       "q": "In PowerPoint, from which tab are images and tables inserted?",
+       "options": [
+        "The Review tab",
+        "The Home tab",
+        "The Insert tab",
+        "The View tab"
+       ],
+       "answer": 2,
+       "why": "The notes say that in PowerPoint, images and tables are inserted from the Insert tab, not from the Review, Home or View tabs."
+      },
+      {
+       "q": "What is the primary purpose of the Slide Master in PowerPoint?",
+       "options": [
+        "To start the slideshow",
+        "To export the presentation as a video",
+        "To check spelling and grammar",
+        "To create consistent layouts and themes for all slides"
+       ],
+       "answer": 3,
+       "why": "The notes state the primary purpose of the Slide Master is to create consistent layouts and themes of all slides in the presentation."
+      },
+      {
+       "q": "Which key starts a PowerPoint slideshow from the beginning?",
+       "options": [
+        "F5",
+        "F1",
+        "F7",
+        "F12"
+       ],
+       "answer": 0,
+       "why": "The notes state that the F5 key starts a PowerPoint slideshow from the beginning, so the show opens on the first slide."
+      },
+      {
+       "q": "In which format is a PowerPoint presentation exported as a video?",
+       "options": [
+        ".docx",
+        ".mp4",
+        ".pptx",
+        ".pdf"
+       ],
+       "answer": 1,
+       "why": "The notes say a PowerPoint presentation is exported as a video in .mp4 format; .pptx is its normal editable form, not the video form."
+      },
+      {
+       "q": "What is the default slide layout in a new PowerPoint presentation?",
+       "options": [
+        "Blank",
+        "Two Content",
+        "Title Slide",
+        "Title and Content"
+       ],
+       "answer": 2,
+       "why": "The notes state that the default slide layout in a new PowerPoint presentation is the Title Slide layout."
+      },
+      {
+       "q": "In Word, in which tab is the spelling and grammar tool found?",
+       "options": [
+        "The Insert tab",
+        "The Home tab",
+        "The Layout tab",
+        "The Review tab"
+       ],
+       "answer": 3,
+       "why": "The notes say that in Word the spelling and grammar tool is found in the Review tab, which is used at the checking stage."
+      },
+      {
+       "q": "What is Ctrl + Z used for in Word and PowerPoint?",
+       "options": [
+        "Undoing an action",
+        "Saving the file",
+        "Starting the slideshow",
+        "Adding a page break"
+       ],
+       "answer": 0,
+       "why": "The notes state that Ctrl + Z is used for undoing an action in both Word and PowerPoint, reversing the last thing done."
+      },
+      {
+       "q": "From which tab are headers and footers added in Word?",
+       "options": [
+        "The Review tab",
+        "The Insert tab",
+        "The Design tab",
+        "The References tab"
+       ],
+       "answer": 1,
+       "why": "The notes state that headers and footers are added in Word from the Insert tab, not from the Review, Design or References tabs."
+      }
+     ]
     },
     {
      "title": "Word and PowerPoint Basics",
      "notes_html": "<h4>Headers and footers in Word</h4><p>A header is text or a number printed at the top of every page, and a footer is the same kind of text printed at the bottom of every page. They are used for things that repeat on all pages, such as the document title, the page number or the date, so they do not have to be typed on each page again.</p><h4>Types of text alignment in Word</h4><p>Left alignment lines up text at the left margin and leaves the right edge uneven; it is the usual default. Centre alignment puts each line in the middle of the page, which suits titles. Right alignment lines up text at the right margin, and Justified alignment spreads each line so both the left and right edges are straight, which suits formal paragraphs.</p><h4>Inserting an image into a PowerPoint slide</h4><p>Click on the slide, go to the Insert tab and choose Pictures, then pick the image file and click Insert. The picture appears on the slide, where it can be moved, resized by dragging its corners, and placed neatly beside the text.</p><h4>Transitions and animations compared</h4><p>A transition is the effect that happens when the show moves from one slide to the next, for example Fade or Push. An animation is an effect on a single object on a slide, such as a title flying in or a shape spinning. In short, transitions act on whole slides, while animations act on objects inside a slide.</p><h4>Adding bullet points to a slide</h4><p>Click inside the text box, go to the Home tab and click the Bullets button, then type each point on a new line. Each line then starts with a bullet dot, which makes a list of points easy to read at a glance.</p><h4>Two ways to save a presentation</h4><p>First, press Ctrl + S (or click File, then Save) to save the presentation in its PowerPoint (.pptx) form so it can be edited again later. Second, use File, then Export or Save As, to save it in another form, for example as a video (.mp4) or a PDF, for sharing or showing without editing.</p><h4>The purpose of the Slide Master</h4><p>The Slide Master holds the design that all slides follow: the background, colours, fonts and the places for titles and text. Changing the master changes every slide at once, so the whole presentation keeps one consistent layout and theme instead of each slide looking different.</p><h4>The purpose of a table in Word</h4><p>A table arranges information in rows and columns, for example a class timetable with days across the top and periods down the side. This keeps facts neat, lined up and easy to compare, which is much clearer than writing the same facts as a long paragraph.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is a header in a Word document?",
+       "options": [
+        "Text printed only on the first page",
+        "Text or a number printed at the top of every page",
+        "A picture placed in the middle of a page",
+        "The title of the whole document"
+       ],
+       "answer": 1,
+       "why": "The notes define a header as text or a number printed at the top of every page, such as the document title, page number or date."
+      },
+      {
+       "q": "Where is a footer printed in a Word document?",
+       "options": [
+        "At the top of every page",
+        "Only on the last page",
+        "At the bottom of every page",
+        "In the left margin of the first page"
+       ],
+       "answer": 2,
+       "why": "The notes say a footer is the same kind of repeating text as a header, but printed at the bottom of every page instead of the top."
+      },
+      {
+       "q": "Which text alignment is the usual default in Word?",
+       "options": [
+        "Centre alignment",
+        "Right alignment",
+        "Justified alignment",
+        "Left alignment"
+       ],
+       "answer": 3,
+       "why": "The notes say left alignment lines up text at the left margin and is the usual default; the other alignments are chosen for special purposes."
+      },
+      {
+       "q": "Centre alignment is especially suitable for what?",
+       "options": [
+        "Titles",
+        "Long formal paragraphs",
+        "Page numbers in a footer",
+        "Table data"
+       ],
+       "answer": 0,
+       "why": "The notes say centre alignment puts each line in the middle of the page, which suits titles, while long paragraphs normally use other alignments."
+      },
+      {
+       "q": "What does justified alignment do to each line of text?",
+       "options": [
+        "It places the line in the middle of the page",
+        "It spreads the line so both the left and right edges are straight",
+        "It lines the text up at the right margin only",
+        "It leaves both edges uneven"
+       ],
+       "answer": 1,
+       "why": "The notes explain that justified alignment spreads each line so both edges are straight, which suits formal paragraphs."
+      },
+      {
+       "q": "To insert an image into a PowerPoint slide, you go to the Insert tab and choose what?",
+       "options": [
+        "Bullets",
+        "Transitions",
+        "Pictures",
+        "Slide Master"
+       ],
+       "answer": 2,
+       "why": "The notes give the steps: click on the slide, go to the Insert tab and choose Pictures, then pick the image file and click Insert."
+      },
+      {
+       "q": "What is a transition in PowerPoint?",
+       "options": [
+        "An effect on a single object on a slide",
+        "A way of saving the presentation",
+        "A layout applied to all slides",
+        "The effect that happens when the show moves from one slide to the next"
+       ],
+       "answer": 3,
+       "why": "The notes say a transition is the effect when moving from one slide to the next, for example Fade or Push; it acts on whole slides."
+      },
+      {
+       "q": "How is an animation different from a transition?",
+       "options": [
+        "An animation is an effect on a single object on a slide",
+        "An animation changes every slide at once",
+        "An animation only works on text boxes",
+        "An animation is used when saving the file"
+       ],
+       "answer": 0,
+       "why": "The notes explain that an animation acts on one object inside a slide, such as a title flying in, while a transition acts between slides."
+      },
+      {
+       "q": "How are bullet points added to a slide?",
+       "options": [
+        "Open the Review tab and click Bullets",
+        "Click in the text box, go to the Home tab and click the Bullets button",
+        "Use the Insert tab and choose Pictures",
+        "Press F5 and type the points"
+       ],
+       "answer": 1,
+       "why": "The notes give these steps: click inside the text box, go to the Home tab and click the Bullets button, then type each point on a new line."
+      },
+      {
+       "q": "What is the purpose of a table in Word?",
+       "options": [
+        "To check the spelling of a document",
+        "To print text at the top of every page",
+        "To arrange information in rows and columns so facts stay neat and easy to compare",
+        "To add movement effects to a slide"
+       ],
+       "answer": 2,
+       "why": "The notes say a table arranges information in rows and columns, like a class timetable, keeping facts neat, lined up and easy to compare."
+      }
+     ]
     },
     {
      "title": "Word and PowerPoint in Depth",
      "notes_html": "<h4>Word and PowerPoint compared</h4><p>Microsoft Word is a word-processing program for writing and formatting text documents, and it is best for assignments, reports, letters and any work that is mainly read page by page. PowerPoint is a presentation program for making slides, and it is best for showing ideas to an audience with short text, pictures, tables, charts and spoken explanation. Word suits detailed written work, while PowerPoint suits short visual points talked through in front of others.</p><h4>Formatting a document in Word, step by step</h4><p>Step 1: Type the text, then select the part to change.</p><p>Step 2: Set the font, size and style (bold, italic or underline) from the Home tab.</p><p>Step 3: Set the alignment (left, centre, right or justified) and the line spacing so the text is easy to read.</p><p>Step 4: Add headings, bullet lists, page numbers and a header or footer if needed.</p><p>Step 5: Check spelling with the Review tab and save the document with Ctrl + S.</p><h4>How SmartArt and Charts improve a presentation</h4><p>SmartArt turns a list or a process into a diagram, such as steps in a cycle or parts of a whole, so the audience grasps the idea at a glance instead of reading a wall of text. Charts turn numbers into bars, pies or lines, so a comparison or a trend is seen at once. Together they make the message clearer, quicker to understand and more interesting to watch.</p><h4>Applying transitions and animations</h4><p>To apply a transition, select a slide, open the Transitions tab, pick an effect such as Fade or Push, and set its duration; click Apply to All to use the same transition on every slide. To apply an animation, click the object on the slide, open the Animations tab and pick an entrance, emphasis, exit or motion-path effect, then set its timing and order in the Animation Pane. Preview the show to check the effects, and keep them simple and smooth so the presentation still looks professional.</p><h4>Why consistent themes and layouts matter</h4><p>A consistent theme (the same colours, fonts and background) and the same layouts on every slide make the presentation look neat and professional, and the audience can follow the content instead of being distracted by changing designs. It also saves time, because the Slide Master sets the design once for all slides. A presentation that keeps changing style looks untidy and makes the speaker look unprepared, while a consistent one keeps attention on the message.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Microsoft Word is best suited for which kind of work?",
+       "options": [
+        "Showing short visual points to an audience",
+        "Editing videos for an event",
+        "Detailed written work such as assignments, reports and letters, read page by page",
+        "Building electronic circuits"
+       ],
+       "answer": 2,
+       "why": "The notes say Word is a word-processing program best for assignments, reports, letters and work that is mainly read page by page."
+      },
+      {
+       "q": "PowerPoint is best suited for which kind of work?",
+       "options": [
+        "Writing long detailed reports",
+        "Typing letters page by page",
+        "Storing files in folders",
+        "Showing ideas to an audience with short text, pictures, tables and charts"
+       ],
+       "answer": 3,
+       "why": "The notes say PowerPoint is a presentation program for making slides, best for showing ideas to an audience with short text and visuals."
+      },
+      {
+       "q": "What is the first step in formatting a document in Word?",
+       "options": [
+        "Type the text, then select the part to change",
+        "Check the spelling with the Review tab",
+        "Save the document with Ctrl + S",
+        "Add page numbers and a footer"
+       ],
+       "answer": 0,
+       "why": "The step-by-step method in the notes begins with typing the text and selecting the part to change, before any font or alignment is set."
+      },
+      {
+       "q": "From which tab are the font, size and style (bold, italic, underline) set in Word?",
+       "options": [
+        "The Review tab",
+        "The Home tab",
+        "The Insert tab",
+        "The Transitions tab"
+       ],
+       "answer": 1,
+       "why": "Step 2 of the notes' formatting method sets the font, size and style from the Home tab, before alignment and line spacing are set in Step 3."
+      },
+      {
+       "q": "In the formatting steps, spelling is checked using which tab?",
+       "options": [
+        "The Home tab",
+        "The Animations tab",
+        "The Review tab",
+        "The File tab"
+       ],
+       "answer": 2,
+       "why": "Step 5 of the notes' method says to check spelling with the Review tab and then save the document with Ctrl + S."
+      },
+      {
+       "q": "What does SmartArt do in a presentation?",
+       "options": [
+        "It turns numbers into bars and pies",
+        "It moves the show from one slide to the next",
+        "It saves the presentation as a video",
+        "It turns a list or a process into a diagram"
+       ],
+       "answer": 3,
+       "why": "The notes say SmartArt turns a list or process into a diagram, such as steps in a cycle, so the audience grasps the idea at a glance."
+      },
+      {
+       "q": "What do charts do with numbers in a presentation?",
+       "options": [
+        "They turn numbers into bars, pies or lines so a comparison or trend is seen at once",
+        "They turn a process into a diagram",
+        "They check the spelling of the figures",
+        "They print the numbers in a footer"
+       ],
+       "answer": 0,
+       "why": "The notes explain that charts turn numbers into bars, pies or lines, so a comparison or a trend is seen at once by the audience."
+      },
+      {
+       "q": "How can the same transition be used on every slide?",
+       "options": [
+        "Set it once in the Slide Master view only",
+        "Pick the effect on the Transitions tab and click Apply to All",
+        "Press F5 before the show starts",
+        "Save the presentation as a video"
+       ],
+       "answer": 1,
+       "why": "The notes say: select a slide, open the Transitions tab, pick an effect such as Fade or Push, and click Apply to All for every slide."
+      },
+      {
+       "q": "Where are an animation's timing and order set?",
+       "options": [
+        "In the Slide Master",
+        "On the Review tab",
+        "In the Animation Pane",
+        "In the header and footer"
+       ],
+       "answer": 2,
+       "why": "The notes say that after picking an animation effect, its timing and order are set in the Animation Pane, then the show is previewed."
+      },
+      {
+       "q": "Why do consistent themes and layouts matter in a presentation?",
+       "options": [
+        "They make each slide look different from the others",
+        "They remove the need for a Slide Master",
+        "They let the presentation be saved as .docx",
+        "They make it look neat and professional, so the audience follows the content instead of being distracted"
+       ],
+       "answer": 3,
+       "why": "The notes explain that one consistent theme and layout keep attention on the message; a presentation that keeps changing style looks untidy."
+      }
+     ]
     }
    ]
   },
@@ -27,17 +360,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<ul><li>The main function of an Arduino microcontroller is to <strong>control electronic components based on programming</strong>.</li><li>A buzzer in an Arduino project produces sound when <strong>a high signal (5V) is sent to its pin</strong>.</li><li>A 220-ohm resistor is used in an LED circuit to <strong>protect the LED from excessive current</strong>.</li><li>In an Arduino sketch, <strong>setup()</strong> runs only once when the program starts.</li><li>The <strong>Serial Monitor</strong> in the Arduino IDE monitors sensor data in real time.</li><li>An LED connected backward in a circuit <strong>will not turn on</strong>.</li><li>On a four-band resistor, red as the third band means <strong>multiply by 100 (10 to the power 2)</strong>.</li><li>A resistor with the bands yellow, violet, orange and gold has a resistance of <strong>47,000 ohms (47 kilo-ohms)</strong>.</li><li>A tolerance of plus or minus 10% is represented by the colour <strong>silver</strong>.</li><li>Green as the third band of a resistor is the multiplier <strong>10 to the power 5 (100,000)</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is the main function of an Arduino microcontroller?",
+       "options": [
+        "To store files and documents",
+        "To connect the computer to the internet",
+        "To print documents on paper",
+        "To control electronic components based on programming"
+       ],
+       "answer": 3,
+       "why": "The notes state that the main function of an Arduino microcontroller is to control electronic components based on programming."
+      },
+      {
+       "q": "When does a buzzer in an Arduino project produce sound?",
+       "options": [
+        "When a high signal (5V) is sent to its pin",
+        "When a low signal (0V) is sent to its pin",
+        "When the Serial Monitor is opened",
+        "When the board is switched off"
+       ],
+       "answer": 0,
+       "why": "The notes say a buzzer produces sound when a high signal (5V) is sent to its pin; a low signal of 0V would leave it silent."
+      },
+      {
+       "q": "Why is a 220-ohm resistor used in an LED circuit?",
+       "options": [
+        "To make the LED change colour",
+        "To protect the LED from excessive current",
+        "To store the program for the LED",
+        "To connect the LED to the Serial Monitor"
+       ],
+       "answer": 1,
+       "why": "The notes state that a 220-ohm resistor is used in an LED circuit to protect the LED from excessive current, which could damage it."
+      },
+      {
+       "q": "How many times does setup() run in an Arduino sketch?",
+       "options": [
+        "Again and again in a loop",
+        "Once every second",
+        "Only once, when the program starts",
+        "Only when a sensor value changes"
+       ],
+       "answer": 2,
+       "why": "The notes say that in an Arduino sketch, setup() runs only once when the program starts, unlike loop() which repeats."
+      },
+      {
+       "q": "What does the Serial Monitor in the Arduino IDE do?",
+       "options": [
+        "It charges the Arduino board",
+        "It solders the circuit parts together",
+        "It stores the sketch on the board",
+        "It monitors sensor data in real time"
+       ],
+       "answer": 3,
+       "why": "The notes state that the Serial Monitor in the Arduino IDE monitors sensor data in real time as the board sends it to the computer."
+      },
+      {
+       "q": "What happens if an LED is connected backward in a circuit?",
+       "options": [
+        "It will not turn on",
+        "It will glow twice as brightly",
+        "It will change its colour",
+        "It will damage the Arduino board at once"
+       ],
+       "answer": 0,
+       "why": "The notes state plainly that an LED connected backward in a circuit will not turn on, because it only lights in the correct direction."
+      },
+      {
+       "q": "On a four-band resistor, red as the third band means what?",
+       "options": [
+        "Multiply by 10 (10 to the power 1)",
+        "Multiply by 100 (10 to the power 2)",
+        "Multiply by 1,000 (10 to the power 3)",
+        "A tolerance of plus or minus 10%"
+       ],
+       "answer": 1,
+       "why": "The notes say red as the third band is the multiplier 10 to the power 2, which is 100; tolerance is shown by the fourth band, not the third."
+      },
+      {
+       "q": "A resistor has the bands yellow, violet, orange and gold. What is its resistance?",
+       "options": [
+        "4,700 ohms (4.7 kilo-ohms)",
+        "470 ohms",
+        "47,000 ohms (47 kilo-ohms)",
+        "47 ohms"
+       ],
+       "answer": 2,
+       "why": "Yellow is 4 and violet is 7, giving 47; orange is the multiplier 10 to the power 3 = 1,000, so 47 x 1,000 = 47,000 ohms, i.e. 47 kilo-ohms."
+      },
+      {
+       "q": "Which colour represents a tolerance of plus or minus 10%?",
+       "options": [
+        "Gold",
+        "Red",
+        "Green",
+        "Silver"
+       ],
+       "answer": 3,
+       "why": "The notes state that a tolerance of plus or minus 10% is represented by the colour silver on a resistor's tolerance band."
+      },
+      {
+       "q": "Green as the third band of a resistor is the multiplier for what?",
+       "options": [
+        "10 to the power 5 (100,000)",
+        "10 to the power 2 (100)",
+        "10 to the power 3 (1,000)",
+        "10 to the power 7 (10,000,000)"
+       ],
+       "answer": 0,
+       "why": "The notes say green as the third band is the multiplier 10 to the power 5, which equals 100,000, applied to the first two digits."
+      }
+     ]
     },
     {
      "title": "Arduino Components and Circuits",
      "notes_html": "<h4>The Arduino Uno board</h4><p>The Arduino Uno is a small, low-cost microcontroller board that can be programmed to control lights, motors, buzzers and sensors. It is commonly used because it is easy to program with the Arduino IDE, it has ready digital and analog pins for connecting parts, and it lets students build and test real circuits without soldering.</p><h4>The function of a resistor</h4><p>A resistor limits the electric current flowing in a circuit. In an LED circuit it stops too much current from reaching the LED, which would damage or burn it; for example a 220-ohm resistor keeps the LED at a safe brightness.</p><h4>Digital and analog pins</h4><p>Digital pins work with only two states, HIGH (5V, on) or LOW (0V, off), and are used for things like LEDs and buzzers. Analog pins can read a range of changing values, such as the varying signal from a light or temperature sensor, so they suit measurements that are not simply on or off.</p><h4>Decoding a resistor: orange, white, black, silver</h4><p>Step 1: Orange is the first digit, 3.</p><p>Step 2: White is the second digit, 9, giving 39.</p><p>Step 3: Black is the multiplier, times 1, giving 39 x 1 = 39 ohms.</p><p>Step 4: Silver is the tolerance, plus or minus 10%. So the resistor is 39 ohms, plus or minus 10%.</p><h4>How the HC-SR04 ultrasonic sensor measures distance</h4><p>The sensor sends out a short burst of ultrasound and waits for the echo to bounce back from an object. It measures the time the echo takes to return, and distance is worked out from that time: distance = (time x speed of sound) divided by 2, halved because the sound travels to the object and back.</p><h4>The pinMode function</h4><p>It sets digital pin 13 to work as an output, so the program can send a signal out of that pin. After this, digitalWrite(13, HIGH) can switch on an LED or buzzer connected to pin 13, and digitalWrite(13, LOW) can switch it off.</p><h4>Why a breadboard is used</h4><p>A breadboard lets parts be pushed in and changed quickly without soldering, so a circuit can be built, tested and corrected in minutes. Direct connections are fiddly and hard to change, while a breadboard keeps wiring tidy, lets parts be reused, and makes mistakes easy to find and fix.</p><h4>The Serial Monitor and debugging</h4><p>The Serial Monitor shows messages and sensor values sent from the Arduino to the computer in real time. When a program misbehaves, printing values there shows what the board is actually reading and doing, so a wrong reading, a loose wire or a logic mistake can be found instead of guessed at.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Why is the Arduino Uno commonly used by students?",
+       "options": [
+        "It is easy to program with the Arduino IDE and lets students build and test real circuits without soldering",
+        "It is the most expensive microcontroller board",
+        "It works without any programming at all",
+        "It can only be used with a soldering iron"
+       ],
+       "answer": 0,
+       "why": "The notes say the Uno is commonly used because it is easy to program with the Arduino IDE, has ready pins, and needs no soldering for testing circuits."
+      },
+      {
+       "q": "What is the function of a resistor in a circuit?",
+       "options": [
+        "It increases the voltage in the circuit",
+        "It limits the electric current flowing in the circuit",
+        "It stores the program code",
+        "It produces sound when current passes"
+       ],
+       "answer": 1,
+       "why": "The notes state that a resistor limits the electric current flowing in a circuit; in an LED circuit it stops too much current reaching the LED."
+      },
+      {
+       "q": "What are the two states of a digital pin?",
+       "options": [
+        "Open and closed",
+        "Positive and negative",
+        "HIGH (5V, on) and LOW (0V, off)",
+        "Fast and slow"
+       ],
+       "answer": 2,
+       "why": "The notes say digital pins work with only two states, HIGH (5V, on) or LOW (0V, off), and are used for things like LEDs and buzzers."
+      },
+      {
+       "q": "What are analog pins suited for?",
+       "options": [
+        "Switching an LED fully on or off only",
+        "Supplying power to the breadboard",
+        "Running the setup() function",
+        "Reading a range of changing values, such as the varying signal from a light or temperature sensor"
+       ],
+       "answer": 3,
+       "why": "The notes explain that analog pins can read a range of changing values from sensors, suiting measurements that are not simply on or off."
+      },
+      {
+       "q": "Decode this resistor: orange, white, black, silver. What is its value?",
+       "options": [
+        "39 ohms, plus or minus 10%",
+        "39 ohms, plus or minus 5%",
+        "390 ohms, plus or minus 10%",
+        "3,900 ohms, plus or minus 10%"
+       ],
+       "answer": 0,
+       "why": "Orange is 3 and white is 9, giving 39; black is the multiplier times 1, so 39 x 1 = 39 ohms; silver is the tolerance, plus or minus 10%."
+      },
+      {
+       "q": "How does the HC-SR04 ultrasonic sensor work out distance?",
+       "options": [
+        "Distance = time x speed of sound, with no division",
+        "Distance = (time x speed of sound) divided by 2, from the time the echo takes to return",
+        "It counts how loud the echo sounds",
+        "It measures the brightness of the reflected light"
+       ],
+       "answer": 1,
+       "why": "The notes say the sensor times the returning echo and distance = (time x speed of sound) / 2, halved because the sound travels to the object and back."
+      },
+      {
+       "q": "What does the pinMode function do in the notes' example?",
+       "options": [
+        "It reads the value of an analog sensor",
+        "It opens the Serial Monitor",
+        "It sets digital pin 13 to work as an output, so the program can send a signal out of that pin",
+        "It waits for one second before running"
+       ],
+       "answer": 2,
+       "why": "The notes say pinMode sets digital pin 13 as an output; after this, digitalWrite(13, HIGH) can switch on an LED or buzzer on that pin."
+      },
+      {
+       "q": "After pinMode, what does digitalWrite(13, HIGH) do?",
+       "options": [
+        "It reads a sensor value from pin 13",
+        "It switches off the whole Arduino board",
+        "It prints a message on the Serial Monitor",
+        "It switches on an LED or buzzer connected to pin 13"
+       ],
+       "answer": 3,
+       "why": "The notes state that digitalWrite(13, HIGH) can switch on an LED or buzzer connected to pin 13, while digitalWrite(13, LOW) switches it off."
+      },
+      {
+       "q": "Why is a breadboard used to build circuits?",
+       "options": [
+        "Parts can be pushed in and changed quickly without soldering, so a circuit can be built, tested and corrected in minutes",
+        "It makes the circuit permanent and unchangeable",
+        "It increases the voltage supplied to the parts",
+        "It replaces the Arduino board in the circuit"
+       ],
+       "answer": 0,
+       "why": "The notes say a breadboard keeps wiring tidy, lets parts be reused, and makes mistakes easy to find and fix, all without soldering."
+      },
+      {
+       "q": "How does the Serial Monitor help with debugging?",
+       "options": [
+        "It repairs faulty code automatically",
+        "Printing values there shows what the board is actually reading and doing, so a wrong reading, loose wire or logic mistake can be found",
+        "It reconnects loose wires by itself",
+        "It hides errors so the program keeps running"
+       ],
+       "answer": 1,
+       "why": "The notes explain that the Serial Monitor shows messages and sensor values in real time, so faults can be found from evidence instead of guessed at."
+      }
+     ]
     },
     {
      "title": "Circuits, Code and Troubleshooting",
      "notes_html": "<h4>Labelling an Arduino circuit diagram</h4><ul><li><strong>Arduino board:</strong> the blue board on the left, which runs the program.</li><li><strong>Breadboard:</strong> the white board with rows of holes on the right, which holds the circuit.</li><li><strong>LED:</strong> the small red lamp pushed into the breadboard; it lights when its pin is HIGH.</li><li><strong>Resistor:</strong> the small striped part in series with the LED, which limits its current.</li><li><strong>Jumper wires:</strong> the coloured wires linking the two boards and the parts.</li><li><strong>Digital pin:</strong> the pin header on the Arduino where a jumper wire carries the on/off signal to the LED.</li><li><strong>Power (5V and GND):</strong> the 5V and GND pins at the bottom of the Arduino, linked by the red and black wires, which supply power to the breadboard circuit.</li></ul><h4>Debugging the blink program: the corrected code</h4><p>void setup() {</p><p>pinMode(9, OUTPUT);</p><p>}</p><p>void loop() {</p><p>digitalWrite(9, HIGH);</p><p>delay(1000);</p><p>digitalWrite(9, LOW);</p><p>delay(1000);</p><p>}</p><h4>A note on the errors</h4><p>The book says the program contains three errors, but on the printed code only one syntax error is visible - the missing semicolon after the second delay(1000). The pin setup, the HIGH/LOW logic and the delays are all correct for an LED on pin 9, so no other change is needed; the corrected code above is the complete fix.</p><h4>Why the correction was necessary</h4><p>Every Arduino statement must end with a semicolon, so without it the program will not compile and nothing will run.</p><h4>If the delay lines are removed</h4><p>If the delay(1000); lines were removed, the LED would switch on and off thousands of times a second, far too fast for the eye to see, so it would look steadily lit (and dimmer) instead of blinking once a second.</p><h4>Troubleshooting a faulty buzzer circuit: three possible mistakes</h4><ul><li>The Trig and Echo wires are swapped in the code or on the board, so the sensor never sends or never hears the pulse properly.</li><li>A loose or wrong wire on the sensor (5V, GND, Trig or Echo in the wrong row of the breadboard) or on the buzzer, so the readings are garbage.</li><li>The code uses the wrong pins for Trig/Echo, or the distance formula is wrong (for example the echo time is not halved), so the Serial Monitor values do not match the real distance and the buzzer condition never triggers.</li></ul><h4>Step-by-step fix</h4><p>Step 1: First check every wire against the plan and re-seat loose jumpers.</p><p>Step 2: Then confirm the code pins match the wired pins (Trig 9, Echo 10, buzzer 7).</p><p>Step 3: Then print the raw echo time and the worked distance on the Serial Monitor and test at a known distance, such as 20 cm.</p><p>Step 4: Finally check the buzzer alone with a simple HIGH/LOW test.</p><h4>The corrected circuit, described</h4><p>Arduino 5V to sensor VCC and GND to sensor GND; Arduino pin 9 to sensor Trig and pin 10 to sensor Echo; Arduino pin 7 to the buzzer positive and buzzer negative to GND; all parts sharing the same GND rail on the breadboard.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In the circuit diagram, the resistor is placed in series with the LED in order to do what?",
+       "options": [
+        "Produce sound for the circuit",
+        "Limit the LED's current",
+        "Store the blink program",
+        "Connect the two boards together"
+       ],
+       "answer": 1,
+       "why": "The notes label the resistor as the small striped part in series with the LED, which limits its current so the LED is not damaged."
+      },
+      {
+       "q": "What is the one visible syntax error in the printed blink program?",
+       "options": [
+        "The pin setup using pinMode",
+        "The HIGH and LOW logic for the LED",
+        "The missing semicolon after the second delay(1000)",
+        "The use of delay(1000) itself"
+       ],
+       "answer": 2,
+       "why": "The notes say the book claims three errors, but only one syntax error is visible: the missing semicolon after the second delay(1000); the rest is correct."
+      },
+      {
+       "q": "What happens if a statement's semicolon is missing in an Arduino program?",
+       "options": [
+        "The program runs but the LED stays off",
+        "The delay becomes twice as long",
+        "Only the Serial Monitor stops working",
+        "The program will not compile and nothing will run"
+       ],
+       "answer": 3,
+       "why": "The notes explain that every Arduino statement must end with a semicolon, so without it the program will not compile and nothing will run."
+      },
+      {
+       "q": "In the corrected blink program, delay(1000) makes the LED blink once every what?",
+       "options": [
+        "Once a second, because 1000 milliseconds = 1 second",
+        "Once a minute, because 1000 means 1000 seconds",
+        "Ten times a second",
+        "Once every 1000 seconds"
+       ],
+       "answer": 0,
+       "why": "The code waits 1000 milliseconds with the LED on and 1000 milliseconds off; 1000 / 1000 = 1, so each wait is 1 second and the LED blinks once a second."
+      },
+      {
+       "q": "If the delay lines were removed from the blink program, how would the LED look?",
+       "options": [
+        "Brighter than before, blinking slowly",
+        "Steadily lit and dimmer, because it would switch on and off thousands of times a second, too fast for the eye to see",
+        "Completely off at all times",
+        "Blinking exactly once a second as before"
+       ],
+       "answer": 1,
+       "why": "The notes say that without delays the LED switches thousands of times a second, far too fast to see, so it looks steadily lit and dimmer instead of blinking."
+      },
+      {
+       "q": "What is the first step in fixing the faulty buzzer circuit?",
+       "options": [
+        "Rewrite the whole program from the beginning",
+        "Replace the ultrasonic sensor with a new one",
+        "Check every wire against the plan and re-seat loose jumpers",
+        "Test the buzzer alone with a HIGH/LOW test"
+       ],
+       "answer": 2,
+       "why": "The step-by-step fix in the notes begins with checking every wire against the plan and re-seating loose jumpers, before checking code pins."
+      },
+      {
+       "q": "In the troubleshooting fix, which pins should the code use?",
+       "options": [
+        "Trig 7, Echo 9, buzzer 10",
+        "Trig 10, Echo 9, buzzer 7",
+        "Trig 9, Echo 7, buzzer 10",
+        "Trig 9, Echo 10, buzzer 7"
+       ],
+       "answer": 3,
+       "why": "Step 2 of the fix confirms the code pins match the wired pins: Trig 9, Echo 10 and buzzer 7, exactly as the corrected circuit is wired."
+      },
+      {
+       "q": "At what known distance is the sensor tested in Step 3 of the fix?",
+       "options": [
+        "20 cm",
+        "2 cm",
+        "200 cm",
+        "2 m"
+       ],
+       "answer": 0,
+       "why": "The notes say Step 3 prints the raw echo time and worked distance on the Serial Monitor and tests at a known distance, such as 20 cm."
+      },
+      {
+       "q": "What is the final step in fixing the buzzer circuit?",
+       "options": [
+        "Swap the Trig and Echo wires deliberately",
+        "Check the buzzer alone with a simple HIGH/LOW test",
+        "Remove all the delay lines from the code",
+        "Defragment the computer's hard drive"
+       ],
+       "answer": 1,
+       "why": "The notes end the fix with Step 4: check the buzzer alone with a simple HIGH/LOW test, after wiring, pins and distance readings are confirmed."
+      },
+      {
+       "q": "In the corrected circuit, Arduino pin 10 is connected to which sensor pin?",
+       "options": [
+        "The Trig pin",
+        "The VCC pin",
+        "The Echo pin",
+        "The GND pin"
+       ],
+       "answer": 2,
+       "why": "The corrected circuit in the notes wires Arduino pin 9 to sensor Trig and pin 10 to sensor Echo, with 5V to VCC and GND to GND."
+      }
+     ]
     }
    ]
   },
@@ -47,17 +713,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<ul><li>Graphic design means <strong>making things look good using pictures, colours, and text</strong>.</li><li>In publishing, <strong>digital is on a screen, print is on paper</strong>.</li><li>The best Canva tool for creating a poster is the <strong>Poster</strong> template.</li><li>A QR code added to a poster <strong>links to a website, video or file when scanned</strong>.</li><li><strong>CapCut focuses on video editing, while Canva is better for static designs</strong>.</li><li>Writing programming code is <strong>not a feature of Canva</strong>.</li><li>The main purpose of the Elements tool in Canva is <strong>to insert shapes, icons and illustrations</strong>.</li><li>Video trimming and transitions are features of <strong>CapCut</strong>.</li><li><strong>Canva is used for graphic design, while CapCut is used for video editing</strong>.</li><li><strong>Canva is mainly for designing images and presentations, while CapCut specializes in editing videos</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What does graphic design mean?",
+       "options": [
+        "Writing programming code for websites",
+        "Editing videos with transitions",
+        "Making things look good using pictures, colours and text",
+        "Printing barcodes on flyers"
+       ],
+       "answer": 2,
+       "why": "The notes define graphic design as making things look good using pictures, colours and text; coding and video editing are different activities."
+      },
+      {
+       "q": "In publishing, what do 'digital' and 'print' mean?",
+       "options": [
+        "Digital is on paper, print is on a screen",
+        "Both mean copies stored on a computer",
+        "Digital means video, print means images",
+        "Digital is on a screen, print is on paper"
+       ],
+       "answer": 3,
+       "why": "The notes state that in publishing, digital is on a screen while print is on paper; the two reach the audience in different ways."
+      },
+      {
+       "q": "What is the best Canva tool for creating a poster?",
+       "options": [
+        "The Poster template",
+        "The Elements tool",
+        "The video trimmer",
+        "The QR generator"
+       ],
+       "answer": 0,
+       "why": "The notes say the best Canva tool for creating a poster is the Poster template, which gives the right size and starting layout."
+      },
+      {
+       "q": "What does a QR code added to a poster do?",
+       "options": [
+        "It counts how many copies are left",
+        "It links to a website, video or file when scanned",
+        "It trims the poster's video clips",
+        "It checks the poster's spelling"
+       ],
+       "answer": 1,
+       "why": "The notes state that a QR code added to a poster links to a website, video or file when scanned with a phone."
+      },
+      {
+       "q": "Which tool focuses on video editing rather than static designs?",
+       "options": [
+        "Canva",
+        "The Poster template",
+        "CapCut",
+        "The Elements tool"
+       ],
+       "answer": 2,
+       "why": "The notes say CapCut focuses on video editing, while Canva is better for static designs such as posters and images."
+      },
+      {
+       "q": "Which of these is NOT a feature of Canva?",
+       "options": [
+        "Creating posters from templates",
+        "Inserting shapes and icons",
+        "Designing presentations",
+        "Writing programming code"
+       ],
+       "answer": 3,
+       "why": "The notes state plainly that writing programming code is not a feature of Canva; Canva is a design tool, not a coding tool."
+      },
+      {
+       "q": "What is the main purpose of the Elements tool in Canva?",
+       "options": [
+        "To insert shapes, icons and illustrations",
+        "To trim video clips",
+        "To add transitions between scenes",
+        "To generate QR codes"
+       ],
+       "answer": 0,
+       "why": "The notes say the main purpose of the Elements tool in Canva is to insert shapes, icons and illustrations into a design."
+      },
+      {
+       "q": "Video trimming and transitions are features of which tool?",
+       "options": [
+        "Canva",
+        "CapCut",
+        "Google Drive",
+        "The Poster template"
+       ],
+       "answer": 1,
+       "why": "The notes state that video trimming and transitions are features of CapCut, the video-editing tool, not of Canva."
+      },
+      {
+       "q": "Canva is used for graphic design, while CapCut is used for what?",
+       "options": [
+        "Graphic design",
+        "Writing code",
+        "Video editing",
+        "Managing printed flyers"
+       ],
+       "answer": 2,
+       "why": "The notes contrast the two tools directly: Canva is used for graphic design, while CapCut is used for video editing."
+      },
+      {
+       "q": "Canva is mainly for designing images and presentations, while CapCut specializes in what?",
+       "options": [
+        "Designing posters",
+        "Making presentations",
+        "Inserting elements into designs",
+        "Editing videos"
+       ],
+       "answer": 3,
+       "why": "The notes repeat this comparison: Canva is mainly for designing images and presentations, while CapCut specializes in editing videos."
+      }
+     ]
     },
     {
      "title": "Design Tools and Publishing Basics",
      "notes_html": "<h4>Digital publishing and print publishing</h4><p>Digital publishing shares a design on a screen, for example posting a poster on the school website or social media, where it can be sent to friends with a click. Print publishing makes physical copies, for example printing flyers for a school event to hand out. Digital suits videos and online sharing; print suits handing a copy to someone in person.</p><h4>Two key design basics for a poster</h4><p>First, Colours: use two or three bright colours to grab attention, but do not mix too many, for example red and yellow for a fun event. Second, Balance and Contrast: spread things out so the poster is not crowded, and use dark text on a light background (or the reverse) so the message stands out and is easy to read.</p><h4>Designs you can create with Canva</h4><p>Posters for school events, presentations for class, and social media posts are three designs Canva is made for. Canva also offers flyers, brochures and other ready templates, all built from its text, elements and picture tools.</p><h4>CapCut for a school event video flyer</h4><p>CapCut is a video-editing tool, so it can trim clips, add transitions, music and text, and join short scenes into one lively flyer video. A moving video catches attention far better than a still notice, which is exactly what a school event announcement needs.</p><h4>The documentation system for designs</h4><p>A documentation system is an organized way of saving and naming design files, for example keeping a project folder with the poster, the video and a list of what was given to whom. It matters because it stops files being lost or mixed up, makes the latest version easy to find, and lets the team track printed copies and online links.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is digital publishing?",
+       "options": [
+        "Making physical copies to hand out",
+        "Printing flyers for a school event",
+        "Stacking printed copies with a barcode",
+        "Sharing a design on a screen, for example posting a poster on the school website or social media"
+       ],
+       "answer": 3,
+       "why": "The notes say digital publishing shares a design on a screen, where it can be sent to friends with a click; print publishing makes physical copies."
+      },
+      {
+       "q": "Print publishing is best suited for what?",
+       "options": [
+        "Handing a physical copy to someone in person",
+        "Sharing a video online",
+        "Sending a poster to friends with a click",
+        "Watching a design on a screen"
+       ],
+       "answer": 0,
+       "why": "The notes say print publishing makes physical copies, for example flyers for a school event, so print suits handing a copy to someone in person."
+      },
+      {
+       "q": "How many bright colours should a poster use to grab attention?",
+       "options": [
+        "As many colours as possible",
+        "Two or three bright colours, without mixing too many",
+        "Only one colour for the whole poster",
+        "Seven or more colours"
+       ],
+       "answer": 1,
+       "why": "The notes give the first design basic: use two or three bright colours to grab attention, but do not mix too many, for example red and yellow."
+      },
+      {
+       "q": "Red and yellow are given in the notes as an example colour pair for what?",
+       "options": [
+        "A formal examination notice",
+        "A black-and-white document",
+        "A fun event",
+        "A barcode label"
+       ],
+       "answer": 2,
+       "why": "The notes use red and yellow as the example of two or three bright colours for a fun event poster, to grab attention."
+      },
+      {
+       "q": "What does good balance and contrast mean on a poster?",
+       "options": [
+        "Put all the text in one corner of the poster",
+        "Use the same colour for text and background",
+        "Fill every empty space with pictures",
+        "Spread things out so the poster is not crowded, and use dark text on a light background (or the reverse) so the message stands out"
+       ],
+       "answer": 3,
+       "why": "The notes' second design basic is balance and contrast: an uncrowded layout and dark text on a light background make the message easy to read."
+      },
+      {
+       "q": "Which of these designs is Canva made for?",
+       "options": [
+        "Posters for school events, presentations for class and social media posts",
+        "Trimming and joining video clips",
+        "Writing programming code",
+        "Scanning barcodes on flyer stacks"
+       ],
+       "answer": 0,
+       "why": "The notes list posters for school events, presentations for class and social media posts as three designs Canva is made for, along with flyers and brochures."
+      },
+      {
+       "q": "How can CapCut be used for a school event video flyer?",
+       "options": [
+        "It prints the flyer on paper for handing out",
+        "It can trim clips, add transitions, music and text, and join short scenes into one lively flyer video",
+        "It designs the poster from a template",
+        "It counts the printed copies with a barcode"
+       ],
+       "answer": 1,
+       "why": "The notes say CapCut is a video-editing tool that trims clips and adds transitions, music and text, and a moving video catches attention better than a still notice."
+      },
+      {
+       "q": "What is a documentation system for designs?",
+       "options": [
+        "A tool for trimming video clips",
+        "A template for making posters",
+        "An organized way of saving and naming design files, such as a project folder with the poster, the video and a list of what was given to whom",
+        "A pattern of bars read by a scanner"
+       ],
+       "answer": 2,
+       "why": "The notes define a documentation system as an organized way of saving and naming design files, keeping a project's files together in one folder."
+      },
+      {
+       "q": "Why does a documentation system matter?",
+       "options": [
+        "It makes videos play more smoothly",
+        "It prints posters in brighter colours",
+        "It writes the poster's text automatically",
+        "It stops files being lost or mixed up and makes the latest version easy to find"
+       ],
+       "answer": 3,
+       "why": "The notes say a documentation system matters because it stops files being lost or mixed up, makes the latest version easy to find, and tracks copies and links."
+      },
+      {
+       "q": "What else does a documentation system let the team track?",
+       "options": [
+        "Printed copies and online links",
+        "The brightness of the classroom screen",
+        "The spelling of every student's name",
+        "The speed of the school internet"
+       ],
+       "answer": 0,
+       "why": "The notes say the system lets the team track printed copies and online links, alongside keeping files organized and versions clear."
+      }
+     ]
     },
     {
      "title": "Design Projects in Practice",
      "notes_html": "<h4>Creating a poster in Canva</h4><p>Step 1: Open Canva and choose the Poster template size.</p><p>Step 2: Pick a background colour or picture that suits the event.</p><p>Step 3: Add the event title in a big, easy-to-read font, with the date, time and place in smaller text.</p><p>Step 4: Use Elements to add shapes, icons or pictures that match the theme, keeping two or three colours and a balanced layout.</p><p>Step 5: Check the spelling and spacing, then download the poster as a PDF for printing or as an image for sharing online.</p><h4>Making a QR code and adding it to a poster</h4><p>Step 1: Save the project file with a clear name, such as TalentShowPoster_Final.pdf, and upload it to Google Drive.</p><p>Step 2: Create a QR code for that Drive link using a QR generator.</p><p>Step 3: Place the QR code on the printed poster where it is easy to scan.</p><p>It is useful because anyone with a phone can scan the poster and see more details online at once, instead of the poster having to carry every detail in print.</p><h4>Canva and CapCut compared</h4><p>First difference: Canva is mainly for still designs such as posters, presentations and social media images, while CapCut specializes in editing videos. Second difference: Canva builds a design from templates, text and elements, while CapCut builds a video from clips, trimming, transitions and sound. For a talent show, Canva would make the poster and the printed programme, and CapCut would edit the short announcement video and the highlights video afterwards.</p><h4>Barcodes for managing printed flyers</h4><p>A barcode is a printed pattern of bars that a scanner can read to identify an item or a batch. For flyers, a barcode on the stack lets the team track how many copies are left.</p><p>Step 1: Print the flyers and stack them neatly.</p><p>Step 2: Generate a barcode for the batch (for example one code per class set).</p><p>Step 3: Stick or print the barcode on the stack.</p><p>Step 4: Scan it whenever copies are given out, and keep a written list, such as 10 to Class 5 and 5 to Teachers, so the remaining count is always known.</p><h4>Organizing digital and print media</h4><p>Organizing media matters because a lost file, a mixed-up version or an uncounted stack wastes time and can spoil the event publicity. For a school fair: save the poster and video in one named folder, with the final versions clearly marked. Upload the video to Drive and put its QR code on the printed poster so visitors can watch it by scanning. Print the posters, stack them neatly, add a barcode to each stack, and keep a list of who received copies. This way the digital files are easy to find, the printed copies are counted, and nothing is handed out twice or lost.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is the first step in creating a poster in Canva?",
+       "options": [
+        "Open Canva and choose the Poster template size",
+        "Download the poster as a PDF",
+        "Add the event title in a big font",
+        "Upload the file to Google Drive"
+       ],
+       "answer": 0,
+       "why": "The notes' Step 1 is to open Canva and choose the Poster template size; the background, title and download steps all come afterwards."
+      },
+      {
+       "q": "How should the event title be added to the poster?",
+       "options": [
+        "In the smallest text on the poster",
+        "In a big, easy-to-read font, with the date, time and place in smaller text",
+        "Only as a QR code at the bottom",
+        "In as many colours as possible"
+       ],
+       "answer": 1,
+       "why": "Step 3 of the notes says to add the event title in a big, easy-to-read font, with the date, time and place in smaller text."
+      },
+      {
+       "q": "Before downloading the poster, what should be checked?",
+       "options": [
+        "The number of printed copies left",
+        "The barcode on the flyer stack",
+        "The spelling and spacing",
+        "The buyer's payment record"
+       ],
+       "answer": 2,
+       "why": "Step 5 of the notes says to check the spelling and spacing, then download the poster as a PDF for printing or as an image for sharing online."
+      },
+      {
+       "q": "In the QR code steps, the project file is first saved with a clear name and uploaded where?",
+       "options": [
+        "To a barcode scanner",
+        "To the Slide Master",
+        "To the Serial Monitor",
+        "To Google Drive"
+       ],
+       "answer": 3,
+       "why": "Step 1 of making a QR code in the notes is to save the file with a clear name, such as TalentShowPoster_Final.pdf, and upload it to Google Drive."
+      },
+      {
+       "q": "Which file name is given in the notes as an example of a clear name?",
+       "options": [
+        "TalentShowPoster_Final.pdf",
+        "poster1.pdf",
+        "finalfinal2.pdf",
+        "mydesign.pdf"
+       ],
+       "answer": 0,
+       "why": "The notes give TalentShowPoster_Final.pdf as the example of a clear file name, so the latest version can be found easily later."
+      },
+      {
+       "q": "What is a barcode used for when managing printed flyers?",
+       "options": [
+        "It links viewers to a website when scanned by a phone",
+        "A scanner reads it to identify an item or batch, so the team can track how many copies are left",
+        "It trims the flyer video into short scenes",
+        "It checks the spelling on each flyer"
+       ],
+       "answer": 1,
+       "why": "The notes say a barcode is a printed pattern of bars a scanner can read to identify an item or batch; on a flyer stack it tracks how many copies are left."
+      },
+      {
+       "q": "In the notes' example list, 10 copies went to Class 5 and 5 to Teachers. How many copies were given out in total?",
+       "options": [
+        "5 copies",
+        "10 copies",
+        "15 copies",
+        "50 copies"
+       ],
+       "answer": 2,
+       "why": "The written list records 10 copies to Class 5 and 5 copies to Teachers; adding them, 10 + 5 = 15 copies given out in total."
+      },
+      {
+       "q": "For a talent show, what would Canva be used to make?",
+       "options": [
+        "The short announcement video",
+        "The highlights video afterwards",
+        "The trimmed clips and transitions",
+        "The poster and the printed programme"
+       ],
+       "answer": 3,
+       "why": "The notes' comparison says that for a talent show, Canva would make the poster and the printed programme, while CapCut edits the videos."
+      },
+      {
+       "q": "For a talent show, what would CapCut be used for?",
+       "options": [
+        "Editing the short announcement video and the highlights video afterwards",
+        "Making the poster and printed programme",
+        "Printing the flyers for the show",
+        "Generating the barcode for the stacks"
+       ],
+       "answer": 0,
+       "why": "The notes say CapCut would edit the short announcement video and the highlights video afterwards, because it builds video from clips, trimming, transitions and sound."
+      },
+      {
+       "q": "Why does organizing digital and print media matter?",
+       "options": [
+        "It makes the poster colours brighter",
+        "A lost file, a mixed-up version or an uncounted stack wastes time and can spoil the event publicity",
+        "It removes the need to check spelling",
+        "It lets one person keep every copy"
+       ],
+       "answer": 1,
+       "why": "The notes explain that organizing media matters because a lost file, mixed-up version or uncounted stack wastes time and can spoil the event publicity."
+      }
+     ]
     }
    ]
   },
@@ -67,17 +1066,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<ul><li><strong>HTML</strong> provides the structure for a webpage.</li><li>The <strong>src</strong> attribute specifies an image source in an &lt;img&gt; tag.</li><li>The purpose of the &lt;form&gt; element in HTML is <strong>to collect user input</strong>.</li><li>A hyperlink in an HTML document is created with the <strong>&lt;a&gt;</strong> tag.</li><li>CSS stands for <strong>Cascading Style Sheets</strong>.</li><li>The technologies commonly used for front-end web development are <strong>HTML, CSS and JavaScript</strong>.</li><li>The JavaScript function <strong>alert()</strong> displays messages in a pop-up box.</li><li>Single-line comments in JavaScript use the symbol <strong>//</strong>.</li><li>E-Commerce is <strong>buying and selling things on the internet</strong>.</li><li>The first step to set up an online store on Daraz is to <strong>sign up with your email</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What does HTML provide for a webpage?",
+       "options": [
+        "The payment system for the page",
+        "The structure of the webpage",
+        "The video editing tools",
+        "The delivery service for orders"
+       ],
+       "answer": 1,
+       "why": "The notes state that HTML provides the structure for a webpage; styling is added by CSS and actions by JavaScript."
+      },
+      {
+       "q": "What does the src attribute specify in an <img> tag?",
+       "options": [
+        "The link address to jump to",
+        "The background colour of the page",
+        "The image source",
+        "The size of the heading"
+       ],
+       "answer": 2,
+       "why": "The notes say the src attribute specifies an image source in an <img> tag, giving the file the browser should load."
+      },
+      {
+       "q": "What is the purpose of the <form> element in HTML?",
+       "options": [
+        "To display an image",
+        "To create a hyperlink",
+        "To style many elements at once",
+        "To collect user input"
+       ],
+       "answer": 3,
+       "why": "The notes state that the purpose of the <form> element in HTML is to collect user input, such as names or choices typed by a visitor."
+      },
+      {
+       "q": "Which tag creates a hyperlink in an HTML document?",
+       "options": [
+        "The <a> tag",
+        "The <p> tag",
+        "The <img> tag",
+        "The <form> tag"
+       ],
+       "answer": 0,
+       "why": "The notes say a hyperlink in an HTML document is created with the <a> (anchor) tag, whose href attribute gives the address."
+      },
+      {
+       "q": "What does CSS stand for?",
+       "options": [
+        "Computer Styled Sections",
+        "Cascading Style Sheets",
+        "Cascading System Software",
+        "Central Style Sheets"
+       ],
+       "answer": 1,
+       "why": "The notes state that CSS stands for Cascading Style Sheets, the language used to style the HTML structure of a webpage."
+      },
+      {
+       "q": "Which technologies are commonly used for front-end web development?",
+       "options": [
+        "HTML, Daraz and Shopify",
+        "CSS, Arduino and HTML",
+        "HTML, CSS and JavaScript",
+        "JavaScript, barcodes and QR codes"
+       ],
+       "answer": 2,
+       "why": "The notes list HTML, CSS and JavaScript as the technologies commonly used for front-end web development."
+      },
+      {
+       "q": "What does the JavaScript function alert() do?",
+       "options": [
+        "It finds an element by its id",
+        "It collects user input from a form",
+        "It sets the background colour of a page",
+        "It displays messages in a pop-up box"
+       ],
+       "answer": 3,
+       "why": "The notes state that the JavaScript function alert() displays messages in a pop-up box on the webpage."
+      },
+      {
+       "q": "Which symbol is used for single-line comments in JavaScript?",
+       "options": [
+        "//",
+        "<!--",
+        "##",
+        "**"
+       ],
+       "answer": 0,
+       "why": "The notes say single-line comments in JavaScript use the symbol //, so everything after it on that line is ignored by the browser."
+      },
+      {
+       "q": "What is e-Commerce?",
+       "options": [
+        "Designing posters for school events",
+        "Buying and selling things on the internet",
+        "Buying and selling only in a physical shop",
+        "Editing videos for online sharing"
+       ],
+       "answer": 1,
+       "why": "The notes define e-Commerce as buying and selling things on the internet, instead of in a physical shop."
+      },
+      {
+       "q": "What is the first step to set up an online store on Daraz?",
+       "options": [
+        "Add products with clear photos",
+        "Set up payment options",
+        "Sign up with your email",
+        "Pack and ship the first order"
+       ],
+       "answer": 2,
+       "why": "The notes state that the first step to set up an online store on Daraz is to sign up with your email to create a seller account."
+      }
+     ]
     },
     {
      "title": "HTML, CSS and JavaScript Basics",
      "notes_html": "<h4>The paragraph tag and paragraphs</h4><p>The &lt;p&gt; tag marks a paragraph of text on a webpage. The browser shows its content as a block of text with a gap before and after it, so separate paragraphs stay clearly apart instead of running together.</p><h4>Displaying an image with the img tag</h4><p>The tag is: &lt;img src=\"photo.jpg\" alt=\"Photo\"&gt;. The src attribute gives the file name (the image source), and the alt attribute gives short text that shows if the picture cannot load.</p><h4>The anchor tag and hyperlinks</h4><p>The &lt;a&gt; (anchor) tag creates a hyperlink. Its href attribute gives the address to jump to, so clicking the linked text or picture takes the visitor to another page, section or website.</p><h4>A CSS rule for a green background</h4><p>The rule is: body { background-color: green; }. The selector body picks the whole page, and the background-color property sets its background to green.</p><h4>CSS classes: styling many elements at once</h4><p>A class is defined once in CSS, for example .note { color: blue; }, and then added to any number of elements with class=\"note\". Every element carrying that class gets the same style at once, so changing the one rule updates them all.</p><h4>The getElementById function</h4><p>It finds one element on the page by its id, so a script can work with that exact element. For example, getElementById(\"title\") returns the heading with id=\"title\", whose text or style the script can then change when a button is clicked.</p><h4>E-Commerce and Daraz</h4><p>E-Commerce is buying and selling things on the internet, instead of in a physical shop. Daraz is a well-known e-Commerce platform in Pakistan, where sellers list products online and buyers order and pay for them through the website or app.</p><h4>Talking to the buyer after an order</h4><p>Talking to the buyer confirms the order, clears up any doubt about size, colour or delivery, and builds trust. A buyer who is kept informed is far more likely to be satisfied, to accept the delivery happily, and to buy again or recommend the shop.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What does the <p> tag mark on a webpage?",
+       "options": [
+        "A hyperlink to another page",
+        "An image on the page",
+        "A paragraph of text",
+        "A form for user input"
+       ],
+       "answer": 2,
+       "why": "The notes say the <p> tag marks a paragraph of text on a webpage, shown as a block with a gap before and after it."
+      },
+      {
+       "q": "How does the browser show the content of a <p> tag?",
+       "options": [
+        "As a pop-up box over the page",
+        "As a coloured heading at the top",
+        "As a link that can be clicked",
+        "As a block of text with a gap before and after it, so separate paragraphs stay clearly apart"
+       ],
+       "answer": 3,
+       "why": "The notes explain the browser shows a paragraph as a block of text with a gap before and after, so paragraphs do not run together."
+      },
+      {
+       "q": "In the tag <img src=\"photo.jpg\" alt=\"Photo\">, when does the alt text show?",
+       "options": [
+        "If the picture cannot load",
+        "When the visitor clicks the picture",
+        "Only on the homepage of the site",
+        "When the page is printed"
+       ],
+       "answer": 0,
+       "why": "The notes say the alt attribute gives short text that shows if the picture cannot load, while src gives the image source file name."
+      },
+      {
+       "q": "What does the href attribute of the <a> tag give?",
+       "options": [
+        "The file name of an image",
+        "The address to jump to when the link is clicked",
+        "The colour of the linked text",
+        "The id of the heading"
+       ],
+       "answer": 1,
+       "why": "The notes say the <a> (anchor) tag creates a hyperlink and its href attribute gives the address to jump to, another page, section or website."
+      },
+      {
+       "q": "In the CSS rule body { background-color: green; }, what does the selector 'body' pick?",
+       "options": [
+        "Only the first heading",
+        "Only images on the page",
+        "The whole page",
+        "One element with a class"
+       ],
+       "answer": 2,
+       "why": "The notes explain that in this rule the selector body picks the whole page, and the background-color property sets its background to green."
+      },
+      {
+       "q": "Why are CSS classes useful?",
+       "options": [
+        "A class works on only one element on the whole page",
+        "A class replaces the need for HTML tags",
+        "A class collects user input from visitors",
+        "A class is defined once and can be added to any number of elements, so every element with that class gets the same style at once"
+       ],
+       "answer": 3,
+       "why": "The notes say a class like .note { color: blue; } is defined once and added to many elements with class=\"note\", so one change updates them all."
+      },
+      {
+       "q": "What does getElementById(\"title\") return?",
+       "options": [
+        "The element with id=\"title\", such as the heading, whose text or style the script can then change",
+        "Every paragraph on the page at once",
+        "The address of another website",
+        "A pop-up message box"
+       ],
+       "answer": 0,
+       "why": "The notes say getElementById finds one element on the page by its id, so a script can work with that exact element, for example the heading."
+      },
+      {
+       "q": "What is Daraz?",
+       "options": [
+        "A programming language for webpages",
+        "A well-known e-Commerce platform in Pakistan, where sellers list products online and buyers order and pay through the website or app",
+        "A video-editing application",
+        "A type of computer virus"
+       ],
+       "answer": 1,
+       "why": "The notes describe Daraz as a well-known e-Commerce platform in Pakistan where sellers list products and buyers order and pay online."
+      },
+      {
+       "q": "Why should a seller talk to the buyer after an order?",
+       "options": [
+        "It changes the price of the product afterwards",
+        "It removes the need to record the payment",
+        "It confirms the order, clears up any doubt about size, colour or delivery, and builds trust",
+        "It stops the buyer from ordering again"
+       ],
+       "answer": 2,
+       "why": "The notes say talking to the buyer confirms the order, clears doubts about size, colour or delivery, and builds trust between seller and buyer."
+      },
+      {
+       "q": "What is a buyer who is kept informed more likely to do?",
+       "options": [
+        "Cancel the order at once",
+        "Refuse to pay for the order",
+        "Complain about the shop to others",
+        "Accept the delivery happily, buy again or recommend the shop"
+       ],
+       "answer": 3,
+       "why": "The notes say a buyer who is kept informed is far more likely to be satisfied, accept the delivery happily, and buy again or recommend the shop."
+      }
+     ]
     },
     {
      "title": "Building a Small Online Shop",
      "notes_html": "<h4>A simple shop webpage with HTML and CSS</h4><p>The code:</p><p>&lt;html&gt;</p><p>&lt;head&gt;</p><p>&lt;title&gt;My Online Shop&lt;/title&gt;</p><p>&lt;style&gt;</p><p>h1 { color: green; }</p><p>p { color: blue; }</p><p>&lt;/style&gt;</p><p>&lt;/head&gt;</p><p>&lt;body&gt;</p><p>&lt;h1&gt;My Online Shop&lt;/h1&gt;</p><p>&lt;p&gt;Welcome to my store!&lt;/p&gt;</p><p>&lt;/body&gt;</p><p>&lt;/html&gt;</p><p>The h1 rule colours the heading green, the p rule colours the paragraph blue, and the two text lines appear exactly as asked.</p><h4>Changing a heading with JavaScript</h4><p>Give the heading an id, for example &lt;h1 id=\"title\"&gt;Old Text&lt;/h1&gt;, and add a button &lt;button onclick=\"changeText()\"&gt;Change&lt;/button&gt;. Then write: function changeText() { document.getElementById(\"title\").innerHTML = \"New Text\"; }. When the button is clicked, the function finds the heading by its id and replaces its text with the new text.</p><h4>A simple calculator in JavaScript</h4><p>Step 1: Make two number inputs and a dropdown for the operation (+, -, x, /), plus a button and a place to show the answer.</p><p>Step 2: On clicking the button, read both numbers with getElementById, check which operation was chosen, and work it out: addition adds, subtraction subtracts, multiplication multiplies, and division divides (checking that the second number is not zero, since division by zero is not allowed).</p><p>Step 3: Show the result in the answer area, for example Result: 15.</p><h4>Managing payments in an online store</h4><p>Careful payment management matters because mistakes lose money, upset buyers and can close a small shop: an unpaid order shipped by mistake, or a paid order forgotten, both damage trust. For a notebook shop: set up payment options (bank card or cash on delivery) on Daraz or Shopify; after each order, check that the payment is done (for example a note saying Payment Received: Rs. 400); and write down every payment, such as Ayesha paid Rs. 400 on 10 March, in a notebook or sheet. The shop name on a webpage can be shown with the heading tag, for example &lt;h1&gt;Notebook Shop&lt;/h1&gt;.</p><h4>Setting up an online store on Daraz</h4><p>Step 1: Sign up with your email to create a seller account on Daraz.</p><p>Step 2: Add your keychains as products, with a clear photo of each design.</p><p>Step 3: Write a description and a fair price for each keychain.</p><p>Step 4: Set up payment options, such as bank card or cash on delivery, so buyers can pay safely.</p><p>Step 5: When an order comes, pack and ship the keychain, keep the buyer informed, and record the payment, for example Keychain order paid Rs. 400.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In the simple shop webpage code, what colour does the h1 rule give the heading?",
+       "options": [
+        "Blue",
+        "Red",
+        "Black",
+        "Green"
+       ],
+       "answer": 3,
+       "why": "The notes' shop code has the rule h1 { color: green; }, so the heading 'My Online Shop' appears green, while the p rule colours the paragraph blue."
+      },
+      {
+       "q": "In the same shop webpage code, what colour does the p rule give the paragraph?",
+       "options": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "White"
+       ],
+       "answer": 0,
+       "why": "The notes show the rule p { color: blue; } in the shop webpage's style section, so the paragraph 'Welcome to my store!' appears blue."
+      },
+      {
+       "q": "In the heading-changing example, what does the button do when clicked?",
+       "options": [
+        "It reloads the page and deletes the heading",
+        "It calls the changeText() function, which finds the heading by its id and replaces its text with the new text",
+        "It opens a pop-up box with an alert message",
+        "It saves the webpage as a video"
+       ],
+       "answer": 1,
+       "why": "The notes show a button with onclick=\"changeText()\"; the function uses getElementById(\"title\") and sets innerHTML to \"New Text\" when clicked."
+      },
+      {
+       "q": "Which tag is used to show the shop name 'Notebook Shop' as a heading on a webpage?",
+       "options": [
+        "The <p> tag",
+        "The <img> tag",
+        "The <h1> tag, as in <h1>Notebook Shop</h1>",
+        "The <a> tag"
+       ],
+       "answer": 2,
+       "why": "The notes say the shop name on a webpage can be shown with the heading tag, for example <h1>Notebook Shop</h1>."
+      },
+      {
+       "q": "In the JavaScript calculator, what must be checked before dividing?",
+       "options": [
+        "That both numbers are written in words",
+        "That the dropdown is removed first",
+        "That the answer area is empty",
+        "That the second number is not zero, since division by zero is not allowed"
+       ],
+       "answer": 3,
+       "why": "Step 2 of the calculator in the notes says division divides, checking that the second number is not zero, since division by zero is not allowed."
+      },
+      {
+       "q": "What is Step 2 in setting up an online store on Daraz?",
+       "options": [
+        "Add your products, with a clear photo of each design",
+        "Sign up with your email",
+        "Set up payment options such as bank card",
+        "Pack and ship the first order"
+       ],
+       "answer": 0,
+       "why": "The notes list Step 1 as signing up with email, then Step 2 is adding the products with a clear photo of each design, before descriptions and prices."
+      },
+      {
+       "q": "What is Step 3 in setting up an online store on Daraz?",
+       "options": [
+        "Create the seller account with an email",
+        "Write a description and a fair price for each product",
+        "Record the payment in a notebook",
+        "Keep the buyer informed about delivery"
+       ],
+       "answer": 1,
+       "why": "The notes' Step 3 is to write a description and a fair price for each product, after adding the products with photos in Step 2."
+      },
+      {
+       "q": "Which payment options are given as examples for an online store?",
+       "options": [
+        "Cheques posted to the shop",
+        "Payment in foreign currency only",
+        "Bank card or cash on delivery",
+        "Free delivery with no payment"
+       ],
+       "answer": 2,
+       "why": "The notes say to set up payment options, such as bank card or cash on delivery, on Daraz or Shopify, so buyers can pay safely."
+      },
+      {
+       "q": "In the notebook shop example, how was Ayesha's payment recorded?",
+       "options": [
+        "It was not recorded anywhere",
+        "A note that Ayesha paid Rs. 40 on 10 March",
+        "A note that Ayesha paid Rs. 400 on 10 May",
+        "A note that Ayesha paid Rs. 400 on 10 March, written in a notebook or sheet"
+       ],
+       "answer": 3,
+       "why": "The notes say to write down every payment, such as 'Ayesha paid Rs. 400 on 10 March', in a notebook or sheet, so no paid order is forgotten."
+      },
+      {
+       "q": "Why does careful payment management matter for an online store?",
+       "options": [
+        "Mistakes lose money, upset buyers and can close a small shop, such as shipping an unpaid order or forgetting a paid one",
+        "It makes the webpage load faster",
+        "It removes the need to talk to buyers",
+        "It designs the shop's heading automatically"
+       ],
+       "answer": 0,
+       "why": "The notes explain that careful payment management matters because mistakes lose money and damage trust, and can even close a small shop."
+      }
+     ]
     }
    ]
   },
@@ -87,17 +1419,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<ul><li><strong>Disk Cleanup</strong> removes unnecessary files from a hard drive.</li><li>The main purpose of disk defragmentation is <strong>to organize fragmented files for faster access</strong>.</li><li>An <strong>SSD (Solid State Drive)</strong> should not be defragmented.</li><li>To check whether a drive needs defragmentation, <strong>use the \"Analyze\" option in Disk Defragmenter</strong>.</li><li><strong>Safe Mode</strong> boots Windows with minimal drivers for troubleshooting.</li><li>If a program is causing system crashes, the step is to <strong>uninstall the program</strong>.</li><li>If Safe Mode does not fix a startup problem, the next step is the <strong>Windows Recovery Environment (WinRE)</strong>.</li><li>The main function of antivirus software is to <strong>scan and remove malicious programs</strong>.</li><li>Phishing is <strong>a method of stealing personal information through fake emails</strong>.</li><li>An IP address <strong>identifies devices on a network</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What does Disk Cleanup do?",
+       "options": [
+        "It removes unnecessary files from a hard drive",
+        "It organizes fragmented files for faster access",
+        "It boots Windows with minimal drivers",
+        "It scans for malicious programs"
+       ],
+       "answer": 0,
+       "why": "The notes state that Disk Cleanup removes unnecessary files from a hard drive; organizing fragmented files is the job of Disk Defragmenter."
+      },
+      {
+       "q": "What is the main purpose of disk defragmentation?",
+       "options": [
+        "To remove unnecessary files from the drive",
+        "To organize fragmented files for faster access",
+        "To scan and remove malicious programs",
+        "To identify devices on a network"
+       ],
+       "answer": 1,
+       "why": "The notes say the main purpose of disk defragmentation is to organize fragmented files for faster access, gathering scattered parts together."
+      },
+      {
+       "q": "Which type of drive should NOT be defragmented?",
+       "options": [
+        "A hard drive (HDD)",
+        "The drive checked with the Analyze option",
+        "An SSD (Solid State Drive)",
+        "A drive with fragmented files"
+       ],
+       "answer": 2,
+       "why": "The notes state that an SSD (Solid State Drive) should not be defragmented, because it has no moving parts and gains nothing from it."
+      },
+      {
+       "q": "How can you check whether a drive needs defragmentation?",
+       "options": [
+        "Boot the computer into Safe Mode",
+        "Run the ipconfig command",
+        "Uninstall a program",
+        "Use the \"Analyze\" option in Disk Defragmenter"
+       ],
+       "answer": 3,
+       "why": "The notes say to check whether a drive needs defragmentation, use the \"Analyze\" option in Disk Defragmenter before optimizing."
+      },
+      {
+       "q": "What does Safe Mode do?",
+       "options": [
+        "It boots Windows with minimal drivers for troubleshooting",
+        "It removes unnecessary files from the drive",
+        "It returns the system to a restore point",
+        "It scans emails for phishing"
+       ],
+       "answer": 0,
+       "why": "The notes state that Safe Mode boots Windows with minimal drivers for troubleshooting, so a faulty driver or program can be found."
+      },
+      {
+       "q": "If a program is causing system crashes, what step should be taken?",
+       "options": [
+        "Defragment the hard drive",
+        "Uninstall the program",
+        "Run Disk Cleanup again",
+        "Change the IP address"
+       ],
+       "answer": 1,
+       "why": "The notes say that if a program is causing system crashes, the step is to uninstall the program from the computer."
+      },
+      {
+       "q": "If Safe Mode does not fix a startup problem, what is the next step?",
+       "options": [
+        "Use Disk Cleanup",
+        "Use the Analyze option",
+        "Use the Windows Recovery Environment (WinRE)",
+        "Set a static IP address"
+       ],
+       "answer": 2,
+       "why": "The notes state that if Safe Mode does not fix a startup problem, the next step is the Windows Recovery Environment (WinRE)."
+      },
+      {
+       "q": "What is the main function of antivirus software?",
+       "options": [
+        "To organize fragmented files",
+        "To identify devices on a network",
+        "To boot Windows with minimal drivers",
+        "To scan and remove malicious programs"
+       ],
+       "answer": 3,
+       "why": "The notes say the main function of antivirus software is to scan and remove malicious programs from the computer."
+      },
+      {
+       "q": "What is phishing?",
+       "options": [
+        "A method of stealing personal information through fake emails",
+        "A way of organizing fragmented files",
+        "A router setting for gaming",
+        "A type of system restore point"
+       ],
+       "answer": 0,
+       "why": "The notes define phishing as a method of stealing personal information through fake emails, which is why unknown attachments and links are avoided."
+      },
+      {
+       "q": "What does an IP address do on a network?",
+       "options": [
+        "It removes malicious programs",
+        "It identifies devices on a network",
+        "It organizes files on a hard drive",
+        "It boots the computer in Safe Mode"
+       ],
+       "answer": 1,
+       "why": "The notes state that an IP address identifies devices on a network, so each device can be found at its own address."
+      }
+     ]
     },
     {
      "title": "Maintenance Tools and Networking Basics",
      "notes_html": "<h4>Two system tools for maintenance</h4><p>Disk Cleanup, which removes unnecessary and temporary files from a hard drive, and Disk Defragmenter, which reorganizes fragmented files for faster access. Other maintenance tools in the chapter are System Restore, Safe Mode and Windows Recovery Environment (WinRE).</p><h4>What Disk Defragmenter does</h4><p>Over time a hard drive stores parts of one file in scattered places, which slows reading. Disk Defragmenter gathers those scattered parts together in order, so the drive reads each file in one smooth pass and the computer runs faster.</p><h4>Why an SSD is never defragmented</h4><p>An SSD has no moving parts and reads any stored part equally fast, so gathering fragments together gives no speed gain. Defragmenting only adds useless write cycles, which wear the drive out sooner, so SSDs must not be defragmented.</p><h4>The purpose of System Restore</h4><p>System Restore returns the computer's system files and settings to an earlier point in time, called a restore point, when the computer was working well. It is used to undo a bad update, a faulty driver or a wrong setting without deleting the user's personal files.</p><h4>Preventing malware</h4><p>Install trusted antivirus software and keep it updated so it can scan and remove malicious programs. Also avoid opening unknown email attachments or links, which is how phishing and other malware spread, and keep the operating system updated.</p><h4>Static and dynamic IP addresses</h4><p>A static IP address is fixed and never changes, so a device is always found at the same address, which suits servers and hosted services. A dynamic IP address is assigned fresh each time a device joins the network and may change later, which is the usual setup for home computers and phones.</p><h4>Checking an IP address: the ipconfig command</h4><p>On Windows, open the Command Prompt and type ipconfig, then press Enter. The result shows the computer's IP address, subnet mask and default gateway for its network connection.</p><h4>Port forwarding</h4><p>Port forwarding is a router setting that sends incoming traffic on a chosen port straight to one chosen device on the local network. It is useful for gaming, remote access, viewing security cameras remotely, and hosting websites or servers, because outsiders can then reach that one device through the router.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What does Disk Defragmenter do to a hard drive's files?",
+       "options": [
+        "It deletes temporary files from the drive",
+        "It gathers the scattered parts of each file together in order, so the drive reads each file in one smooth pass",
+        "It copies every file to another drive",
+        "It hides fragmented files from the user"
+       ],
+       "answer": 1,
+       "why": "The notes say Disk Defragmenter gathers a file's scattered parts together in order, so reading is faster and the computer runs more smoothly."
+      },
+      {
+       "q": "Why must an SSD never be defragmented?",
+       "options": [
+        "An SSD cannot store fragmented files at all",
+        "Defragmenting an SSD deletes personal files",
+        "It has no moving parts and reads any stored part equally fast, so defragmenting only adds useless write cycles that wear the drive out sooner",
+        "An SSD is too small to hold the tool"
+       ],
+       "answer": 2,
+       "why": "The notes explain that an SSD reads any part equally fast, so gathering fragments gives no speed gain and only wears the drive out with extra writes."
+      },
+      {
+       "q": "What does System Restore do?",
+       "options": [
+        "It removes unnecessary files from the hard drive",
+        "It sends network traffic to one chosen device",
+        "It assigns a fresh IP address to the computer",
+        "It returns the computer's system files and settings to an earlier restore point, when the computer was working well"
+       ],
+       "answer": 3,
+       "why": "The notes say System Restore returns system files and settings to a restore point, undoing a bad update or faulty driver without deleting personal files."
+      },
+      {
+       "q": "Does System Restore delete the user's personal files?",
+       "options": [
+        "No, it undoes bad updates, drivers or settings without deleting personal files",
+        "Yes, it deletes every file on the drive",
+        "Yes, but only image and video files",
+        "No, but it deletes all installed programs"
+       ],
+       "answer": 0,
+       "why": "The notes state clearly that System Restore is used to undo a bad update, faulty driver or wrong setting without deleting the user's personal files."
+      },
+      {
+       "q": "Which habit helps prevent malware besides using antivirus software?",
+       "options": [
+        "Defragment the SSD every week",
+        "Avoid opening unknown email attachments or links, and keep the operating system updated",
+        "Share personal information by email",
+        "Turn off the antivirus to save time"
+       ],
+       "answer": 1,
+       "why": "The notes say to install trusted antivirus and keep it updated, avoid unknown email attachments or links, and keep the operating system updated."
+      },
+      {
+       "q": "What is a static IP address suited for?",
+       "options": [
+        "Home computers and phones that join briefly",
+        "Devices that change address every time",
+        "Servers and hosted services, because the device is always found at the same address",
+        "Computers that are never networked"
+       ],
+       "answer": 2,
+       "why": "The notes say a static IP address is fixed and never changes, so a device is always found at the same address, which suits servers and hosted services."
+      },
+      {
+       "q": "How is a dynamic IP address assigned?",
+       "options": [
+        "Once by hand, and it never changes",
+        "Only to servers and hosted services",
+        "By the Disk Defragmenter tool",
+        "Fresh each time a device joins the network, and it may change later"
+       ],
+       "answer": 3,
+       "why": "The notes say a dynamic IP address is assigned fresh each time a device joins the network and may change later, the usual setup for home devices."
+      },
+      {
+       "q": "What does the ipconfig command show?",
+       "options": [
+        "The computer's IP address, subnet mask and default gateway for its network connection",
+        "The list of fragmented files on the drive",
+        "The restore points saved on the computer",
+        "The malicious programs found by antivirus"
+       ],
+       "answer": 0,
+       "why": "The notes say that typing ipconfig in the Command Prompt shows the computer's IP address, subnet mask and default gateway."
+      },
+      {
+       "q": "What is port forwarding?",
+       "options": [
+        "A tool that gathers fragmented files together",
+        "A router setting that sends incoming traffic on a chosen port straight to one chosen device on the local network",
+        "A mode that boots Windows with minimal drivers",
+        "A method of stealing information through fake emails"
+       ],
+       "answer": 1,
+       "why": "The notes define port forwarding as a router setting that sends incoming traffic on a chosen port straight to one chosen device on the local network."
+      },
+      {
+       "q": "Which of these is a use of port forwarding given in the notes?",
+       "options": [
+        "Removing unnecessary files",
+        "Restoring system settings",
+        "Viewing security cameras remotely",
+        "Checking spelling in a document"
+       ],
+       "answer": 2,
+       "why": "The notes list gaming, remote access, viewing security cameras remotely, and hosting websites or servers as uses of port forwarding."
+      }
+     ]
     },
     {
      "title": "Maintenance and Troubleshooting in Depth",
      "notes_html": "<h4>The importance of computer maintenance</h4><p>Regular maintenance keeps a computer fast, reliable and safe, and it prevents small problems, such as a full disk or an outdated antivirus, from turning into crashes or data loss. Key tasks:</p><ul><li>Removing unnecessary files with Disk Cleanup.</li><li>Defragmenting a hard drive (never an SSD) with Disk Defragmenter.</li><li>Updating the operating system and antivirus.</li><li>Checking the drive with the Analyze option.</li><li>And making restore points so a fault can be undone with System Restore.</li></ul><h4>Defragmenting a hard drive: the process</h4><p>Disk Defragmenter reorganizes fragmented files on a hard drive so each file's parts sit together, which makes reading faster.</p><p>Step 1: Open Disk Defragmenter and select the drive.</p><p>Step 2: Click Analyze to check whether the drive actually needs defragmentation.</p><p>Step 3: Click Optimize (Defragment) and let it run without switching the computer off.</p><p>Step 4: Check the result and repeat only when analysis shows real fragmentation.</p><p>SSDs are excluded from this process entirely.</p><h4>Troubleshooting a computer that fails to start</h4><p>First, boot into Safe Mode, which starts Windows with minimal drivers, so a faulty driver or program can be found. If Safe Mode does not fix it, use Windows Recovery Environment (WinRE) to repair startup, or use System Restore to return to a restore point from when the computer worked. If one program is causing crashes, reinstall it, and if it still crashes, uninstall it. Keeping notes of what changed just before the fault helps pinpoint the cause.</p><h4>Static and dynamic IP: advantages and disadvantages</h4><p>A static IP never changes, which is an advantage for servers, cameras and remote access, since the device is always at the same address; its disadvantage is that it must be set up by hand and can be easier to target. A dynamic IP is handed out automatically and may change, which is an advantage because it needs no setup and suits most home users; its disadvantage is that the address cannot be relied on for hosting, since it may change at any time.</p><h4>Port forwarding and its applications</h4><p>Port forwarding tells a router to pass traffic arriving on a certain port to one specific device inside the local network, instead of blocking it. Its applications, given in the chapter, are: multiplayer games connecting smoothly; remote access, so a user can control a home computer from anywhere; viewing live security-camera footage remotely; and letting others access hosted content, such as a website or server running on a home computer.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Why is regular computer maintenance important?",
+       "options": [
+        "It makes the computer's screen brighter",
+        "It removes the need for antivirus software forever",
+        "It keeps a computer fast, reliable and safe, and prevents small problems from turning into crashes or data loss",
+        "It gives the computer a fixed IP address"
+       ],
+       "answer": 2,
+       "why": "The notes say regular maintenance keeps a computer fast, reliable and safe, stopping a full disk or outdated antivirus from causing crashes or data loss."
+      },
+      {
+       "q": "What is Step 2 of defragmenting a hard drive?",
+       "options": [
+        "Click Optimize and let it run",
+        "Select the drive in Disk Defragmenter",
+        "Check the result and repeat the process",
+        "Click Analyze to check whether the drive actually needs defragmentation"
+       ],
+       "answer": 3,
+       "why": "The notes' process is: Step 1 open Disk Defragmenter and select the drive; Step 2 click Analyze to check whether defragmentation is actually needed."
+      },
+      {
+       "q": "What is Step 3 of defragmenting a hard drive?",
+       "options": [
+        "Click Optimize (Defragment) and let it run without switching the computer off",
+        "Open Disk Defragmenter and select the drive",
+        "Click Analyze to check the drive",
+        "Make a restore point for the drive"
+       ],
+       "answer": 0,
+       "why": "The notes say Step 3 is to click Optimize (Defragment) and let it run without switching the computer off, after Analyze in Step 2 shows it is needed."
+      },
+      {
+       "q": "When should defragmentation be repeated?",
+       "options": [
+        "Every day, whether it is needed or not",
+        "Only when analysis shows real fragmentation",
+        "Whenever a new program is installed",
+        "Only after the computer crashes"
+       ],
+       "answer": 1,
+       "why": "Step 4 of the notes' process says to check the result and repeat only when analysis shows real fragmentation; SSDs are excluded entirely."
+      },
+      {
+       "q": "What is the first step in troubleshooting a computer that fails to start?",
+       "options": [
+        "Uninstall every program on the computer",
+        "Defragment the hard drive",
+        "Boot into Safe Mode, which starts Windows with minimal drivers",
+        "Set up port forwarding on the router"
+       ],
+       "answer": 2,
+       "why": "The notes say first boot into Safe Mode so a faulty driver or program can be found; if that fails, WinRE or System Restore is used next."
+      },
+      {
+       "q": "If a program still causes crashes after being reinstalled, what should be done?",
+       "options": [
+        "Defragment the drive again",
+        "Give it a static IP address",
+        "Restore the whole computer",
+        "Uninstall it"
+       ],
+       "answer": 3,
+       "why": "The notes say: if one program is causing crashes, reinstall it, and if it still crashes, uninstall it."
+      },
+      {
+       "q": "Why does keeping notes of what changed just before a fault help?",
+       "options": [
+        "It helps pinpoint the cause of the fault",
+        "It makes the defragmentation run faster",
+        "It increases the size of the restore point",
+        "It changes the computer's IP address"
+       ],
+       "answer": 0,
+       "why": "The notes state that keeping notes of what changed just before the fault helps pinpoint the cause, instead of guessing at it."
+      },
+      {
+       "q": "What is a disadvantage of a static IP address?",
+       "options": [
+        "It changes every time the device joins the network",
+        "It must be set up by hand and can be easier to target",
+        "It cannot be used by servers or cameras",
+        "It is assigned automatically with no record"
+       ],
+       "answer": 1,
+       "why": "The notes say a static IP's disadvantage is that it must be set up by hand and can be easier to target, though the device is always at the same address."
+      },
+      {
+       "q": "What is a disadvantage of a dynamic IP address?",
+       "options": [
+        "It must always be set up by hand",
+        "It never changes once assigned",
+        "The address may change at any time, so it cannot be relied on for hosting",
+        "It makes the device easier to target"
+       ],
+       "answer": 2,
+       "why": "The notes say a dynamic IP needs no setup, but its disadvantage is that the address cannot be relied on for hosting since it may change at any time."
+      },
+      {
+       "q": "Which of these is an application of port forwarding given in the chapter?",
+       "options": [
+        "Removing unnecessary files with Disk Cleanup",
+        "Booting Windows with minimal drivers",
+        "Returning settings to a restore point",
+        "Viewing live security-camera footage remotely"
+       ],
+       "answer": 3,
+       "why": "The notes list port forwarding applications: multiplayer games, remote access, viewing live security-camera footage remotely, and accessing hosted websites or servers."
+      }
+     ]
     }
    ]
   },
@@ -107,17 +1772,350 @@
     {
      "title": "Key Facts",
      "notes_html": "<ul><li><strong>Grammarly</strong> is commonly used for grammar and spelling correction.</li><li>AI summarization tools <strong>shorten long texts while retaining key points</strong>.</li><li><strong>DALL.E</strong> can generate images from text descriptions.</li><li>AI uses <strong>computer vision</strong> to recognize objects in images.</li><li><strong>GitHub Copilot</strong> helps developers write code faster.</li><li>The <strong>retail</strong> industry uses AI for personalized recommendations.</li><li>The primary use of AI in healthcare is <strong>to diagnose diseases and analyze medical images</strong>.</li><li>The main ethical concerns of AI in daily life include job displacement, privacy and bias — <strong>all of these</strong>.</li><li>Bias in AI means <strong>unfair or discriminatory outcomes in AI systems</strong>.</li><li>A privacy concern related to AI is <strong>data breaches</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "What is Grammarly commonly used for?",
+       "options": [
+        "Generating images from text",
+        "Writing code for developers",
+        "Editing videos automatically",
+        "Grammar and spelling correction"
+       ],
+       "answer": 3,
+       "why": "The notes state that Grammarly is commonly used for grammar and spelling correction while typing and writing."
+      },
+      {
+       "q": "What do AI summarization tools do?",
+       "options": [
+        "They shorten long texts while retaining key points",
+        "They lengthen short texts with extra detail",
+        "They translate texts into other languages",
+        "They check the computer for viruses"
+       ],
+       "answer": 0,
+       "why": "The notes say AI summarization tools shorten long texts while retaining key points, so the main ideas are kept in a shorter form."
+      },
+      {
+       "q": "What can DALL.E do?",
+       "options": [
+        "Correct grammar and spelling",
+        "Generate images from text descriptions",
+        "Help developers write code faster",
+        "Recognize objects in photographs only"
+       ],
+       "answer": 1,
+       "why": "The notes state that DALL.E can generate images from text descriptions, creating a picture from what the user writes."
+      },
+      {
+       "q": "Which AI ability is used to recognize objects in images?",
+       "options": [
+        "Speech recognition",
+        "Task automation",
+        "Computer vision",
+        "Summarization"
+       ],
+       "answer": 2,
+       "why": "The notes say AI uses computer vision to recognize objects in images, the same ability used by driver-assistance and self-driving systems."
+      },
+      {
+       "q": "What does GitHub Copilot help developers do?",
+       "options": [
+        "Diagnose diseases",
+        "Correct grammar in essays",
+        "Edit videos for social media",
+        "Write code faster"
+       ],
+       "answer": 3,
+       "why": "The notes state that GitHub Copilot helps developers write code faster by suggesting lines or whole blocks of code as they type."
+      },
+      {
+       "q": "What does the retail industry use AI for?",
+       "options": [
+        "Personalized recommendations",
+        "Analyzing medical images",
+        "Checking grammar and spelling",
+        "Defragmenting hard drives"
+       ],
+       "answer": 0,
+       "why": "The notes say the retail industry uses AI for personalized recommendations, suggesting products a customer is likely to want."
+      },
+      {
+       "q": "What is the primary use of AI in healthcare?",
+       "options": [
+        "To give personalized shopping recommendations",
+        "To diagnose diseases and analyze medical images",
+        "To correct grammar and spelling",
+        "To plan traffic routes"
+       ],
+       "answer": 1,
+       "why": "The notes state that the primary use of AI in healthcare is to diagnose diseases and analyze medical images, such as scans and X-rays."
+      },
+      {
+       "q": "Which of these is listed as a main ethical concern of AI in daily life?",
+       "options": [
+        "Faster internet speeds",
+        "Brighter phone screens",
+        "Job displacement",
+        "Cheaper computer hardware"
+       ],
+       "answer": 2,
+       "why": "The notes list the main ethical concerns of AI in daily life as job displacement, privacy and bias; job displacement is one of these three."
+      },
+      {
+       "q": "What does bias in AI mean?",
+       "options": [
+        "AI systems that work too slowly",
+        "AI tools that cost too much money",
+        "AI that stores too much data",
+        "Unfair or discriminatory outcomes in AI systems"
+       ],
+       "answer": 3,
+       "why": "The notes define bias in AI as unfair or discriminatory outcomes in AI systems, where some people are treated less fairly than others."
+      },
+      {
+       "q": "Which privacy concern related to AI is given in the notes?",
+       "options": [
+        "Data breaches",
+        "Slow network connections",
+        "Fragmented hard drives",
+        "Forgotten passwords"
+       ],
+       "answer": 0,
+       "why": "The notes state that a privacy concern related to AI is data breaches, where personal data falls into the wrong hands."
+      }
+     ]
     },
     {
      "title": "AI Tools and Uses",
      "notes_html": "<h4>AI in speech-to-text</h4><p>AI speech recognition listens to spoken words, breaks the sound into patterns, and matches those patterns to words and sentences. This turns speech into written text, which is used in dictation, subtitles, voice assistants and meeting notes.</p><h4>AI in video editing</h4><p>AI video tools can trim clips, add transitions, pick highlights and suggest music automatically, which used to take a long editing session by hand. This lets a student or creator finish a clean, well-paced video far more quickly.</p><h4>AI in image creation</h4><p>AI image tools, such as DALL.E, create pictures from a written description, so a user can get an original illustration without drawing or photography. This is useful for posters, presentations and design ideas when no ready picture exists.</p><h4>GitHub Copilot</h4><p>GitHub Copilot is an AI coding assistant that suggests lines or whole blocks of code as a developer types. It helps developers write code faster and with fewer routine mistakes, while the developer still checks and corrects the suggestions.</p><h4>AI in task automation</h4><p>The main benefit is that repetitive, routine work is done quickly and without tiring, which saves time and cuts human error. People are then free for creative work, decisions and tasks that need judgement, while the machine handles the repeated steps.</p><h4>AI in daily life</h4><p>A voice assistant on a phone, such as one that answers questions, sets reminders or plays music on a spoken command, is AI in daily life. Other everyday examples are personalized recommendations on shopping or video apps, and grammar correction while typing.</p><h4>AI in retail</h4><p>Retail uses AI for personalized recommendations, suggesting products a customer is likely to want based on past browsing and buying. It also helps with stock control, demand prediction and chatbots that answer shoppers' questions at any hour.</p><h4>A note on the numbering</h4><p>In the book, the numbering of these short questions jumps from 5 to 7 - no short question 6 is printed.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "How does AI speech recognition turn speech into text?",
+       "options": [
+        "It listens to spoken words, breaks the sound into patterns, and matches those patterns to words and sentences",
+        "It reads the speaker's lips from a camera",
+        "It types only the words spoken most loudly",
+        "It translates the speech into another language first"
+       ],
+       "answer": 0,
+       "why": "The notes say AI speech recognition listens to spoken words, breaks the sound into patterns, and matches those patterns to words and sentences."
+      },
+      {
+       "q": "Which of these is a use of speech-to-text AI given in the notes?",
+       "options": [
+        "Diagnosing diseases",
+        "Dictation and subtitles",
+        "Generating images",
+        "Managing stock in shops"
+       ],
+       "answer": 1,
+       "why": "The notes list dictation, subtitles, voice assistants and meeting notes as uses of turning speech into written text."
+      },
+      {
+       "q": "What can AI video tools do automatically?",
+       "options": [
+        "Print posters and flyers",
+        "Repair damaged camera hardware",
+        "Trim clips, add transitions, pick highlights and suggest music",
+        "Write examination papers"
+       ],
+       "answer": 2,
+       "why": "The notes say AI video tools can trim clips, add transitions, pick highlights and suggest music automatically, work that used to take a long editing session by hand."
+      },
+      {
+       "q": "What is the main benefit of AI in task automation?",
+       "options": [
+        "People no longer need to make any decisions",
+        "Machines can replace all creative work",
+        "Every task becomes more complicated",
+        "Repetitive, routine work is done quickly and without tiring, which saves time and cuts human error"
+       ],
+       "answer": 3,
+       "why": "The notes say the main benefit is that repetitive, routine work is done quickly and without tiring, saving time and cutting human error."
+      },
+      {
+       "q": "With routine work automated, what are people free to do?",
+       "options": [
+        "Creative work, decisions and tasks that need judgement",
+        "Repeat the same steps all day",
+        "Check every machine output letter by letter",
+        "Avoid using computers entirely"
+       ],
+       "answer": 0,
+       "why": "The notes explain that people are then free for creative work, decisions and tasks that need judgement, while the machine handles the repeated steps."
+      },
+      {
+       "q": "What does GitHub Copilot suggest as a developer types?",
+       "options": [
+        "Products a shopper might like",
+        "Lines or whole blocks of code",
+        "Corrections to grammar and spelling",
+        "Highlights from a video clip"
+       ],
+       "answer": 1,
+       "why": "The notes say GitHub Copilot is an AI coding assistant that suggests lines or whole blocks of code as a developer types."
+      },
+      {
+       "q": "Who still checks and corrects Copilot's suggestions?",
+       "options": [
+        "The customer",
+        "The antivirus software",
+        "The developer",
+        "No one needs to check them"
+       ],
+       "answer": 2,
+       "why": "The notes state that Copilot helps developers write code faster and with fewer routine mistakes, while the developer still checks and corrects the suggestions."
+      },
+      {
+       "q": "Which of these is given as AI in daily life?",
+       "options": [
+        "A defragmented hard drive",
+        "A barcode on a stack of flyers",
+        "A restore point on a computer",
+        "A voice assistant on a phone that answers questions, sets reminders or plays music on a spoken command"
+       ],
+       "answer": 3,
+       "why": "The notes give a phone voice assistant as AI in daily life, along with personalized recommendations and grammar correction while typing."
+      },
+      {
+       "q": "On what basis does retail AI suggest products to a customer?",
+       "options": [
+        "The customer's past browsing and buying",
+        "The weather in the customer's city",
+        "The size of the shop's building",
+        "The colour of the shop's logo"
+       ],
+       "answer": 0,
+       "why": "The notes say retail uses AI for personalized recommendations, suggesting products a customer is likely to want based on past browsing and buying."
+      },
+      {
+       "q": "Besides recommendations, how else does AI help in retail?",
+       "options": [
+        "It designs the shop's printed posters only",
+        "It helps with stock control, demand prediction and chatbots that answer shoppers' questions at any hour",
+        "It delivers parcels to customers' homes itself",
+        "It sets the prices of all products by law"
+       ],
+       "answer": 1,
+       "why": "The notes say AI also helps retail with stock control, demand prediction and chatbots that answer shoppers' questions at any hour."
+      }
+     ]
     },
     {
      "title": "AI in Society",
      "notes_html": "<h4>AI in healthcare</h4><p>AI in healthcare mainly diagnoses diseases and analyzes medical images, for example scanning X-rays or scans to spot signs of illness earlier than the eye alone might. It also helps predict patient risk, plan treatment, and manage hospital records, and chatbots can answer basic health questions. These tools support doctors and speed up care, but the final medical decision stays with a trained professional.</p><h4>AI in education: advantages and limitations</h4><p>Advantages: AI gives instant feedback, personalizes practice to each student's level, summarizes long texts while keeping key points, and corrects grammar and spelling. Limitations: it can be biased, it can make confident mistakes, it raises privacy questions about student data, and over-reliance on it can weaken a student's own thinking and writing. Used as a helper with teacher guidance, it strengthens learning; used as a replacement for thinking, it weakens it.</p><h4>AI in transportation</h4><p>Transportation uses AI for route planning and traffic prediction, so drivers and delivery fleets avoid jams and save fuel. It powers driver-assistance and self-driving systems, which use computer vision to recognize roads, vehicles and pedestrians. It also helps airlines and railways predict demand and manage schedules, making travel safer and more efficient.</p><h4>AI-powered recommendation systems</h4><p>A recommendation system learns from a user's past choices, searches and ratings, and from the choices of similar users. Its key features are personalization (different suggestions for different people), continuous learning (suggestions improve as more data arrives), and ranking (the most relevant items appear first). Retail shops and video apps use it to show products or videos each person is most likely to enjoy.</p><h4>AI for environmental challenges</h4><p>AI can analyze large environmental data, such as satellite images and weather records, to track deforestation, pollution and climate change. It helps predict floods, wildfires and crop needs, optimize energy use in buildings and grids, and plan efficient transport to cut emissions. In short, it turns huge data into early warnings and smarter use of resources.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In healthcare, who keeps the final medical decision?",
+       "options": [
+        "The AI system itself",
+        "A trained professional",
+        "The hospital chatbot",
+        "The patient alone"
+       ],
+       "answer": 1,
+       "why": "The notes say AI tools support doctors and speed up care, but the final medical decision stays with a trained professional."
+      },
+      {
+       "q": "How does AI help doctors spot illness earlier?",
+       "options": [
+        "By replacing all hospital records with chatbots",
+        "By predicting the weather for hospitals",
+        "By scanning X-rays or scans to spot signs of illness earlier than the eye alone might",
+        "By correcting grammar in medical reports"
+       ],
+       "answer": 2,
+       "why": "The notes say AI in healthcare analyzes medical images, for example scanning X-rays or scans to spot signs of illness earlier than the eye alone might."
+      },
+      {
+       "q": "Which of these is an advantage of AI in education?",
+       "options": [
+        "It never makes any mistakes",
+        "It removes the need for teachers",
+        "It keeps student data completely unused",
+        "It gives instant feedback and personalizes practice to each student's level"
+       ],
+       "answer": 3,
+       "why": "The notes list AI's advantages in education as instant feedback, personalized practice, summarizing long texts and correcting grammar and spelling."
+      },
+      {
+       "q": "Which of these is a limitation of AI in education?",
+       "options": [
+        "Over-reliance on it can weaken a student's own thinking and writing",
+        "It gives feedback too quickly",
+        "It can personalize practice to a student's level",
+        "It can summarize long texts"
+       ],
+       "answer": 0,
+       "why": "The notes list limitations: AI can be biased, make confident mistakes, raise privacy questions, and over-reliance can weaken a student's own thinking and writing."
+      },
+      {
+       "q": "How does AI help transportation save fuel?",
+       "options": [
+        "By generating images of new roads",
+        "Through route planning and traffic prediction, so drivers and delivery fleets avoid jams and save fuel",
+        "By correcting grammar in timetables",
+        "By recommending videos to passengers"
+       ],
+       "answer": 1,
+       "why": "The notes say transportation uses AI for route planning and traffic prediction, so drivers and delivery fleets avoid jams and save fuel."
+      },
+      {
+       "q": "What do driver-assistance and self-driving systems use to recognize roads, vehicles and pedestrians?",
+       "options": [
+        "Speech recognition",
+        "Summarization tools",
+        "Computer vision",
+        "Recommendation systems"
+       ],
+       "answer": 2,
+       "why": "The notes say driver-assistance and self-driving systems use computer vision to recognize roads, vehicles and pedestrians."
+      },
+      {
+       "q": "From what does a recommendation system learn?",
+       "options": [
+        "Satellite images and weather records",
+        "The user's handwriting samples",
+        "Hospital records and X-rays",
+        "A user's past choices, searches and ratings, and the choices of similar users"
+       ],
+       "answer": 3,
+       "why": "The notes say a recommendation system learns from a user's past choices, searches and ratings, and from the choices of similar users."
+      },
+      {
+       "q": "What does 'ranking' mean as a feature of recommendation systems?",
+       "options": [
+        "The most relevant items appear first",
+        "Different suggestions are given to different people",
+        "Suggestions improve as more data arrives",
+        "Users rate every item themselves"
+       ],
+       "answer": 0,
+       "why": "The notes list three key features: personalization, continuous learning, and ranking, where the most relevant items appear first."
+      },
+      {
+       "q": "What data does AI analyze to track deforestation, pollution and climate change?",
+       "options": [
+        "Shoppers' browsing and buying history",
+        "Large environmental data such as satellite images and weather records",
+        "Students' essays and grammar mistakes",
+        "Sensor readings from an Arduino board"
+       ],
+       "answer": 1,
+       "why": "The notes say AI can analyze large environmental data, such as satellite images and weather records, to track deforestation, pollution and climate change."
+      },
+      {
+       "q": "Which environmental events can AI help predict?",
+       "options": [
+        "Earthquakes in school buildings",
+        "Traffic jams inside a computer",
+        "Floods, wildfires and crop needs",
+        "Power cuts in a spreadsheet"
+       ],
+       "answer": 2,
+       "why": "The notes say AI helps predict floods, wildfires and crop needs, turning huge data into early warnings and smarter use of resources."
+      }
+     ]
     }
    ]
   }
