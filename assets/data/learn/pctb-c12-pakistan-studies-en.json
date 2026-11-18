@@ -1,0 +1,2819 @@
+{
+ "book": "pctb-c12-pakistan-studies-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Ideology of Pakistan",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Multiple Choice Questions</h4><ul><li><strong>Nazria is the translation of the word &#x27;ideologie&#x27; which is the word of:</strong><br/>A. English<br/>B. Urdu<br/>✓ C. French<br/>D. Arabic</li><li><strong>Who presented the Objectives Resolution in 1949?</strong><br/>A. Quaid-i-Azam<br/>B. Ch. Rehmat Ali<br/>C. Allama Iqbal<br/>✓ D. Liaquat Ali Khan</li><li><strong>Who first demanded separate electorate?</strong><br/>A. Muhammad Ali Jinnah<br/>✓ B. Sir Syed Ahmad Khan<br/>C. Z.A. Bhutto<br/>D. Liaquat Ali Khan</li><li><strong>Lahore Resolution was presented in:</strong><br/>A. 1930<br/>✓ B. 1940<br/>C. 1947<br/>D. 1949</li><li><strong>Literal meaning of justice is:</strong><br/>A. Honesty<br/>B. To make something fair<br/>C. To do a deed honestly<br/>✓ D. Putting the right thing on the right place</li><li><strong>Iqbal addressed at Allahabad in:</strong><br/>A. 1925<br/>B. 1929<br/>✓ C. 1930<br/>D. 1935</li><li><strong>Quaid-i-Azam at Dhaka advised to avoid provincial prejudices in:</strong><br/>✓ A. March 1948<br/>B. March 1949<br/>C. April 1948<br/>D. May 1948</li><li><strong>The saying &#x27;I ask you to respect women&#x27; was said on the occasion of:</strong><br/>A. Miraj Sharif<br/>✓ B. Hujjat-ul-Vida<br/>C. Treaty of Hudaybiyyah<br/>D. Fateh Makkah</li><li><strong>Objectives Resolution was passed in:</strong><br/>A. 1948<br/>✓ B. 1949<br/>C. 1950<br/>D. 1952</li><li><strong>&#x27;Indeed the religion with Allah is Islam&#x27; is in Surah:</strong><br/>A. Al-Ahzaab<br/>✓ B. Al-e-Imran<br/>C. Al-Nisa<br/>D. Al-Hujurat</li></ul>",
+     "mcqs": [
+      {
+       "q": "The word 'Nazria' is the translation of the word 'ideologie', which is a word of which language?",
+       "options": [
+        "French",
+        "English",
+        "Urdu",
+        "Arabic"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ lesson states that 'Nazria' translates the word 'ideologie', and that 'ideologie' is a French word."
+      },
+      {
+       "q": "Who presented the Objectives Resolution in 1949?",
+       "options": [
+        "Quaid-i-Azam",
+        "Liaquat Ali Khan",
+        "Ch. Rehmat Ali",
+        "Allama Iqbal"
+       ],
+       "answer": 1,
+       "why": "The notes record that Liaquat Ali Khan presented the Objectives Resolution in 1949; Quaid-i-Azam had passed away in 1948 and the others did not present it."
+      },
+      {
+       "q": "Who first demanded a separate electorate for the Muslims of India?",
+       "options": [
+        "Muhammad Ali Jinnah",
+        "Z.A. Bhutto",
+        "Sir Syed Ahmad Khan",
+        "Liaquat Ali Khan"
+       ],
+       "answer": 2,
+       "why": "According to the chapter's MCQ lesson, Sir Syed Ahmad Khan was the first to demand a separate electorate for Muslims."
+      },
+      {
+       "q": "In which year was the Lahore Resolution presented?",
+       "options": [
+        "1930",
+        "1947",
+        "1949",
+        "1940"
+       ],
+       "answer": 3,
+       "why": "The Lahore Resolution was presented in 1940; 1930 was Iqbal's Allahabad address and 1949 the Objectives Resolution."
+      },
+      {
+       "q": "What is the literal meaning of justice?",
+       "options": [
+        "Putting the right thing on the right place",
+        "Honesty",
+        "To make something fair",
+        "To do a deed honestly"
+       ],
+       "answer": 0,
+       "why": "The book defines justice literally as putting the right thing in the right place, which is the marked answer in the chapter's MCQ lesson."
+      },
+      {
+       "q": "In which year did Allama Iqbal deliver his famous Allahabad address?",
+       "options": [
+        "1925",
+        "1930",
+        "1929",
+        "1935"
+       ],
+       "answer": 1,
+       "why": "Iqbal addressed the Allahabad session in 1930, where he gave the idea of a separate Muslim state in north-western India."
+      },
+      {
+       "q": "When did Quaid-i-Azam, speaking at Dhaka, advise the people to avoid provincial prejudices?",
+       "options": [
+        "March 1949",
+        "April 1948",
+        "March 1948",
+        "May 1948"
+       ],
+       "answer": 2,
+       "why": "The notes state that Quaid-i-Azam gave this advice at Dhaka in March 1948, a few months before his death in September 1948."
+      },
+      {
+       "q": "The saying 'I ask you to respect women' was said on which occasion?",
+       "options": [
+        "Miraj Sharif",
+        "Treaty of Hudaybiyyah",
+        "Fateh Makkah",
+        "Hujjat-ul-Vida"
+       ],
+       "answer": 3,
+       "why": "The chapter's MCQ lesson records that this saying about respecting women was said on the occasion of Hujjat-ul-Vida, the Farewell Pilgrimage."
+      },
+      {
+       "q": "In which year was the Objectives Resolution passed?",
+       "options": [
+        "1949",
+        "1948",
+        "1950",
+        "1952"
+       ],
+       "answer": 0,
+       "why": "The Objectives Resolution was passed in 1949, the year after the death of Quaid-i-Azam, and later became part of Pakistan's constitutions."
+      },
+      {
+       "q": "The verse 'Indeed the religion with Allah is Islam' is found in which Surah?",
+       "options": [
+        "Al-Ahzaab",
+        "Al-e-Imran",
+        "Al-Nisa",
+        "Al-Hujurat"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ lesson places this verse in Surah Al-e-Imran; the other three Surahs named are not the source of this verse."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><h4>What do you mean by tolerance?</h4><p>Tolerance means respecting the opinions, beliefs and customs of others. It means living peacefully with people who differ from us in religion or culture. Islam teaches tolerance toward all people, including non-Muslims. A tolerant society avoids hatred and conflict and promotes harmony.</p><h4>What is meant by co-existence?</h4><p>Co-existence means different communities living together peacefully in one society. Each group keeps its own identity, faith and customs while respecting others. It requires justice, equality and mutual respect among citizens. Pakistan&#x27;s ideology supports co-existence for all its religious communities.</p><h4>Define modernism.</h4><p>Modernism means adopting new ideas, science and technology for progress. It does not mean abandoning one&#x27;s religion or culture. In an Islamic state, modernism works within Islamic values. It helps a nation meet the challenges of the modern world.</p><h4>What is meant by ideology?</h4><p>Ideology is a set of beliefs and principles that guide the life of a nation. It gives a nation its identity, purpose and direction. Pakistan&#x27;s ideology is based on Islam, which guides its politics and society. It unites the people and motivates them to work for common goals.</p><h4>Define foreign policy.</h4><p>Foreign policy is the set of principles by which a country deals with other countries. It protects national interests, security and independence. Pakistan&#x27;s foreign policy is based on peace, friendship and Islamic brotherhood. It seeks good relations with all countries, especially Muslim states.</p><h4>What is Two-Nation Theory?</h4><p>The Two-Nation Theory states that Muslims and Hindus are two separate nations. They differ in religion, law, culture, heroes and way of life. Therefore Muslims needed a separate homeland where they could live by Islam. This theory became the basis of the Pakistan Movement and the creation of Pakistan.</p><h4>Write a short note on Iqbal&#x27;s Allahabad address of 1930.</h4><p>In his 1930 Allahabad address, Allama Iqbal gave the idea of a separate Muslim state. He proposed uniting the Muslim-majority provinces of north-western India. He argued that Islam is a complete way of life, not merely a religion. His address gave the Pakistan Movement its clear political goal.</p><h4>What did Quaid-i-Azam say in his Karachi address of 1943?</h4><p>In 1943 at Karachi, Quaid-i-Azam explained the meaning of Pakistan&#x27;s demand. He said the Muslims wanted a homeland where Islamic principles would rule. He stressed unity, discipline and faith among the Muslims. He assured minorities that their rights would be fully protected in Pakistan.</p>",
+     "mcqs": [
+      {
+       "q": "What does tolerance mean?",
+       "options": [
+        "Forcing others to accept your own beliefs",
+        "Respecting the opinions, beliefs and customs of others",
+        "Ignoring all other religions completely",
+        "Living separately from every other community"
+       ],
+       "answer": 1,
+       "why": "The short-question notes define tolerance as respecting the opinions, beliefs and customs of others and living peacefully with people who differ from us."
+      },
+      {
+       "q": "According to the notes, co-existence among different communities requires what?",
+       "options": [
+        "One religion dominating all the others",
+        "A separate country for every community",
+        "Justice, equality and mutual respect among citizens",
+        "Every group abandoning its own identity"
+       ],
+       "answer": 2,
+       "why": "Co-existence means communities living together peacefully, and the notes say it requires justice, equality and mutual respect among citizens."
+      },
+      {
+       "q": "What is meant by modernism?",
+       "options": [
+        "Abandoning one's religion and culture",
+        "Copying Western customs blindly",
+        "Rejecting every new idea and invention",
+        "Adopting new ideas, science and technology for progress"
+       ],
+       "answer": 3,
+       "why": "The notes define modernism as adopting new ideas, science and technology for progress; it does not mean abandoning one's religion or culture."
+      },
+      {
+       "q": "In an Islamic state, modernism works within what limits?",
+       "options": [
+        "Islamic values",
+        "Western laws",
+        "Secular principles only",
+        "The ruler's personal wishes"
+       ],
+       "answer": 0,
+       "why": "The notes state clearly that in an Islamic state modernism works within Islamic values while helping the nation meet modern challenges."
+      },
+      {
+       "q": "What is an ideology?",
+       "options": [
+        "A set of laws passed by a parliament",
+        "A set of beliefs and principles that guide the life of a nation",
+        "A country's five-year economic plan",
+        "A list of national holidays and heroes"
+       ],
+       "answer": 1,
+       "why": "Ideology is defined in the notes as a set of beliefs and principles that guide the life of a nation, giving it identity, purpose and direction."
+      },
+      {
+       "q": "Pakistan's ideology is based on which religion?",
+       "options": [
+        "Christianity",
+        "Hinduism",
+        "Islam",
+        "No religion at all"
+       ],
+       "answer": 2,
+       "why": "The notes state that Pakistan's ideology is based on Islam, which guides its politics and society and unites its people."
+      },
+      {
+       "q": "What is foreign policy?",
+       "options": [
+        "The rules for trade inside a country",
+        "The laws about foreigners living in a country",
+        "The personal policy of the foreign minister",
+        "The set of principles by which a country deals with other countries"
+       ],
+       "answer": 3,
+       "why": "Foreign policy is defined as the set of principles by which a country deals with other countries in order to protect its interests and independence."
+      },
+      {
+       "q": "Pakistan's foreign policy is based on which principles?",
+       "options": [
+        "Peace, friendship and Islamic brotherhood",
+        "Military alliances only",
+        "Complete isolation from the world",
+        "Trade with Muslim states only"
+       ],
+       "answer": 0,
+       "why": "The notes state that Pakistan's foreign policy is based on peace, friendship and Islamic brotherhood, seeking good relations with all countries."
+      },
+      {
+       "q": "What does the Two-Nation Theory state?",
+       "options": [
+        "Muslims and Hindus are one single nation",
+        "Muslims and Hindus are two separate nations",
+        "Religion should play no part in national life",
+        "India should remain united forever"
+       ],
+       "answer": 1,
+       "why": "The Two-Nation Theory states that Muslims and Hindus are two separate nations because they differ in religion, law, culture, heroes and way of life."
+      },
+      {
+       "q": "In his Allahabad address of 1930, Iqbal proposed uniting which provinces?",
+       "options": [
+        "The Muslim-majority provinces of north-eastern India",
+        "All the provinces of India into one unit",
+        "The Muslim-majority provinces of north-western India",
+        "Only the province of Punjab"
+       ],
+       "answer": 2,
+       "why": "The notes say Iqbal proposed uniting the Muslim-majority provinces of north-western India into a separate Muslim state."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><h4>Discuss how Islam is the ideological basis of Pakistan.</h4><p>Pakistan was created on the basis of the Islamic ideology. The Muslims of the subcontinent were a separate nation on the basis of religion, culture, law and heroes. Islam gives a complete code of life, covering belief, worship, social life and government. The Two-Nation Theory held that Hindus and Muslims could not live as one nation. The Objectives Resolution of 1949 made Islam the basis of the constitution and declared the sovereignty of Allah.</p><h4>Discuss the basic principles of the Islamic ideology.</h4><p>The first principle is the oneness of Allah (Tauheed), which gives unity to life. The second is the finality of Prophethood, which gives guidance through the Quran and Sunnah. The third is justice and equality for all citizens, regardless of religion or race. The fourth is accountability before Allah, which makes rulers answerable to the people. Other principles are tolerance, brotherhood, democracy and respect for human rights.</p><h4>Explain how Islam promotes peace and tolerance.</h4><p>Islam teaches peace, tolerance and respect for all human beings. The Last Sermon declared all human beings equal and forbade wronging others. The Quran says there is no compulsion in religion (2:256). Non-Muslim minorities are given protection of life, property and worship. Islam commands good treatment of neighbours, women and even enemies in war.</p><h4>Discuss the basic principles of an Islamic welfare state.</h4><p>The sovereignty of Allah is supreme and the rulers are His trustees. Justice and equality before the law apply to rulers and subjects alike. Consultation (Shura) guides the government in public affairs. The state protects life, property and honour of every citizen. The welfare of the poor is secured through Zakat, Bait-ul-Mal and state help for the needy.</p><h4>Write a note on Pakistan as a modern Islamic state in the light of the ideas of Iqbal and Quaid-i-Azam.</h4><p>Iqbal wanted a state where Islamic principles guide modern progress. He believed Islam encourages reason, science and democracy. Quaid-i-Azam wanted a democratic state with rule of law and equal citizenship. He said Pakistan would be a modern state, not a theocratic state ruled by priests. Both leaders wanted a state that is Islamic in values and modern in institutions.</p>",
+     "mcqs": [
+      {
+       "q": "The Muslims of the subcontinent were a separate nation on the basis of what?",
+       "options": [
+        "Language and race only",
+        "Wealth and trade only",
+        "Religion, culture, law and heroes",
+        "Geography alone"
+       ],
+       "answer": 2,
+       "why": "The detailed notes state that Muslims were a separate nation on the basis of religion, culture, law and heroes, distinct from the Hindus."
+      },
+      {
+       "q": "Islam gives a complete code of life covering which areas?",
+       "options": [
+        "Only worship and prayer",
+        "Only personal morality",
+        "Only trade and agriculture",
+        "Belief, worship, social life and government"
+       ],
+       "answer": 3,
+       "why": "The notes describe Islam as a complete code of life covering belief, worship, social life and government, not merely a set of rituals."
+      },
+      {
+       "q": "The Objectives Resolution of 1949 declared that sovereignty belongs to whom?",
+       "options": [
+        "Allah",
+        "Parliament",
+        "The President",
+        "The people alone"
+       ],
+       "answer": 0,
+       "why": "The Objectives Resolution declared the sovereignty of Allah and made Islam the basis of the constitution of Pakistan."
+      },
+      {
+       "q": "What is the first basic principle of the Islamic ideology?",
+       "options": [
+        "The finality of Prophethood",
+        "The oneness of Allah (Tauheed)",
+        "Justice and equality for all",
+        "Accountability before Allah"
+       ],
+       "answer": 1,
+       "why": "The notes list the oneness of Allah (Tauheed) as the first principle of Islamic ideology, giving unity to life; finality of Prophethood is the second."
+      },
+      {
+       "q": "The principle of the finality of Prophethood gives guidance through what?",
+       "options": [
+        "The constitution of the country",
+        "The opinions of scholars alone",
+        "The Quran and Sunnah",
+        "Custom and tradition"
+       ],
+       "answer": 2,
+       "why": "According to the notes, the finality of Prophethood gives guidance through the Quran and Sunnah of the Holy Prophet (PBUH)."
+      },
+      {
+       "q": "Accountability before Allah makes the rulers answerable to whom?",
+       "options": [
+        "The army",
+        "Foreign powers",
+        "No one at all",
+        "The people"
+       ],
+       "answer": 3,
+       "why": "The notes explain that accountability before Allah makes rulers answerable to the people, since they hold power as a trust."
+      },
+      {
+       "q": "What does the Quran say about compulsion in religion (verse 2:256)?",
+       "options": [
+        "There is no compulsion in religion",
+        "Religion must be spread by force",
+        "Non-Muslims must convert or leave",
+        "Conversion of others is compulsory"
+       ],
+       "answer": 0,
+       "why": "The notes quote the Quran (2:256) that there is no compulsion in religion, which is why Islam teaches tolerance toward all people."
+      },
+      {
+       "q": "In an Islamic welfare state, the rulers are trustees of whom?",
+       "options": [
+        "Parliament",
+        "Allah",
+        "Themselves",
+        "The wealthy class"
+       ],
+       "answer": 1,
+       "why": "The detailed notes state that in an Islamic welfare state the sovereignty of Allah is supreme and the rulers are His trustees."
+      },
+      {
+       "q": "The welfare of the poor in an Islamic welfare state is secured through what?",
+       "options": [
+        "Loans from foreign banks",
+        "Charity from rich countries",
+        "Zakat, Bait-ul-Mal and state help for the needy",
+        "Extra taxes on the poor"
+       ],
+       "answer": 2,
+       "why": "The notes say the welfare of the poor is secured through Zakat, Bait-ul-Mal and state help for the needy citizens."
+      },
+      {
+       "q": "According to Quaid-i-Azam, Pakistan would NOT be which kind of state?",
+       "options": [
+        "A democratic state",
+        "A modern state",
+        "A state with rule of law",
+        "A theocratic state ruled by priests"
+       ],
+       "answer": 3,
+       "why": "The notes record that Quaid-i-Azam said Pakistan would be a modern state, not a theocratic state ruled by priests."
+      }
+     ]
+    },
+    {
+     "title": "Activities",
+     "notes_html": "<h4>Activities</h4><h4>Activity: Hold a dialogue in the class on the speech of Liaquat Ali Khan on the Objectives Resolution, 1949.</h4><p>Students prepare the main points of the Objectives Resolution of 1949. One group presents Liaquat Ali Khan&#x27;s speech and the other asks questions. The class discusses how the resolution made Islam the basis of the constitution. The teacher concludes with the importance of the resolution for Pakistan.</p><h4>Activity: Organise a speech competition on peace and tolerance.</h4><p>Students prepare short speeches on peace and tolerance in Islam. Each student speaks on one teaching, such as equality, patience or respect for others. The class selects the best speeches and displays their main points. The activity teaches students to practise tolerance in daily life.</p>",
+     "mcqs": [
+      {
+       "q": "The class dialogue activity of Chapter 1 is based on whose speech on the Objectives Resolution?",
+       "options": [
+        "Quaid-i-Azam",
+        "Allama Iqbal",
+        "Sir Syed Ahmad Khan",
+        "Liaquat Ali Khan"
+       ],
+       "answer": 3,
+       "why": "The activity lesson states that students hold a dialogue on the speech of Liaquat Ali Khan on the Objectives Resolution, 1949."
+      },
+      {
+       "q": "The Objectives Resolution discussed in the activity was passed in which year?",
+       "options": [
+        "1949",
+        "1947",
+        "1950",
+        "1956"
+       ],
+       "answer": 0,
+       "why": "The activity is built around the Objectives Resolution of 1949, the same year recorded throughout this chapter's notes."
+      },
+      {
+       "q": "According to the activity, the Objectives Resolution made what the basis of the constitution?",
+       "options": [
+        "Democracy alone",
+        "Islam",
+        "Socialism",
+        "Federalism"
+       ],
+       "answer": 1,
+       "why": "The activity notes say the class discusses how the Objectives Resolution made Islam the basis of the constitution of Pakistan."
+      },
+      {
+       "q": "The speech competition organised in Chapter 1's activities is on which topic?",
+       "options": [
+        "Sports and health",
+        "Science and technology",
+        "Peace and tolerance",
+        "Trade and economy"
+       ],
+       "answer": 2,
+       "why": "The second activity of Chapter 1 is a speech competition on peace and tolerance, in which students speak on Islam's teachings about them."
+      },
+      {
+       "q": "Which of the following is named in the activity as a teaching a student may speak on?",
+       "options": [
+        "Revenge",
+        "Pride",
+        "Intolerance",
+        "Equality"
+       ],
+       "answer": 3,
+       "why": "The activity says each student speaks on one teaching such as equality, patience or respect for others; revenge, pride and intolerance are the opposite of these teachings."
+      },
+      {
+       "q": "Which quality, besides equality and respect, is listed in the speech activity?",
+       "options": [
+        "Patience",
+        "Ambition",
+        "Rivalry",
+        "Wealth"
+       ],
+       "answer": 0,
+       "why": "The activity names equality, patience and respect for others as the teachings students choose for their speeches on peace and tolerance."
+      },
+      {
+       "q": "The speech activity teaches students to practise what in daily life?",
+       "options": [
+        "Public speaking only",
+        "Tolerance",
+        "Debating only",
+        "Memorisation"
+       ],
+       "answer": 1,
+       "why": "The activity lesson concludes that the speech competition teaches students to practise tolerance in their daily life."
+      },
+      {
+       "q": "In the dialogue activity, one group of students presents what?",
+       "options": [
+        "The text of the Lahore Resolution",
+        "Iqbal's Allahabad address",
+        "Liaquat Ali Khan's speech on the Objectives Resolution",
+        "The Constitution of 1973"
+       ],
+       "answer": 2,
+       "why": "The notes say one group presents Liaquat Ali Khan's speech while the other group asks questions about the Objectives Resolution."
+      },
+      {
+       "q": "The main points that students prepare for the dialogue activity are of which document?",
+       "options": [
+        "The Constitution of 1973",
+        "The Lahore Resolution of 1940",
+        "The Lucknow Pact of 1916",
+        "The Objectives Resolution of 1949"
+       ],
+       "answer": 3,
+       "why": "The activity begins with students preparing the main points of the Objectives Resolution of 1949 before the dialogue starts."
+      },
+      {
+       "q": "With what does the teacher conclude the dialogue activity?",
+       "options": [
+        "The importance of the Objectives Resolution for Pakistan",
+        "The date of the next class test",
+        "A written quiz on the chapter",
+        "The marks obtained by students"
+       ],
+       "answer": 0,
+       "why": "The activity notes say the teacher concludes with the importance of the Objectives Resolution for Pakistan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Political and Constitutional Development",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Multiple Choice Questions</h4><ul><li><strong>The Constitution of 1956 remained in force for:</strong><br/>A. Two years<br/>✓ B. Two and a half years<br/>C. Four years<br/>D. Ten years</li><li><strong>Yahya Khan handed over the government to:</strong><br/>A. Nawabzada Nasrullah Khan<br/>✓ B. Z.A. Bhutto<br/>C. Malik Meraj Khalid<br/>D. Ghulam Muhammad</li><li><strong>Who dismissed the government of Benazir Bhutto in August 1990?</strong><br/>✓ A. Ghulam Ishaq Khan<br/>B. Ch. Fazal Elahi<br/>C. Farooq Laghari<br/>D. Wasim Sajjad</li><li><strong>Interim Constitution of 1972 was drafted by a committee of:</strong><br/>A. 12 members<br/>B. 18 members<br/>C. 20 members<br/>✓ D. 25 members</li><li><strong>First general elections of Pakistan were held in:</strong><br/>A. 1956<br/>B. 1962<br/>✓ C. 1970<br/>D. 1973</li><li><strong>The Constitution of 1973 was enforced on:</strong><br/>A. 23rd March<br/>✓ B. 14th August<br/>C. 21st April<br/>D. 25th December</li><li><strong>The administrative head of a Federal Ministry is the:</strong><br/>A. Federal Minister<br/>✓ B. Secretary<br/>C. Chief Secretary<br/>D. Minister of State</li><li><strong>The head of a Provincial Government is:</strong><br/>A. Governor<br/>B. Chief Justice<br/>✓ C. Chief Minister<br/>D. Chief Secretary</li><li><strong>The amendment which defines a Muslim is:</strong><br/>✓ A. Second<br/>B. Third<br/>C. Fourth<br/>D. Eighteenth</li><li><strong>NWFP was renamed Khyber Pakhtunkhwa by the:</strong><br/>A. Sixteenth Amendment<br/>✓ B. Eighteenth Amendment<br/>C. Nineteenth Amendment<br/>D. Twentieth Amendment</li></ul>",
+     "mcqs": [
+      {
+       "q": "The Constitution of 1956 remained in force for how long?",
+       "options": [
+        "Two and a half years",
+        "Two years",
+        "Four years",
+        "Ten years"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ lesson states the first constitution remained in force for two and a half years, from 1956 until its abrogation in October 1958."
+      },
+      {
+       "q": "Yahya Khan handed over the government to whom?",
+       "options": [
+        "Nawabzada Nasrullah Khan",
+        "Z.A. Bhutto",
+        "Malik Meraj Khalid",
+        "Ghulam Muhammad"
+       ],
+       "answer": 1,
+       "why": "After the fall of Dhaka, Yahya Khan handed over the government to Z.A. Bhutto, as recorded in the chapter's MCQ lesson."
+      },
+      {
+       "q": "Who dismissed the government of Benazir Bhutto in August 1990?",
+       "options": [
+        "Ch. Fazal Elahi",
+        "Farooq Leghari",
+        "Ghulam Ishaq Khan",
+        "Wasim Sajjad"
+       ],
+       "answer": 2,
+       "why": "The notes record that President Ghulam Ishaq Khan dismissed Benazir Bhutto's government in August 1990."
+      },
+      {
+       "q": "The Interim Constitution of 1972 was drafted by a committee of how many members?",
+       "options": [
+        "12 members",
+        "18 members",
+        "20 members",
+        "25 members"
+       ],
+       "answer": 3,
+       "why": "According to the chapter's MCQ lesson, the Interim Constitution of 1972 was drafted by a committee of 25 members."
+      },
+      {
+       "q": "The first general elections of Pakistan were held in which year?",
+       "options": [
+        "1970",
+        "1956",
+        "1962",
+        "1973"
+       ],
+       "answer": 0,
+       "why": "Pakistan's first general elections were held in 1970, more than two decades after independence, as the MCQ lesson states."
+      },
+      {
+       "q": "The Constitution of 1973 was enforced on which date?",
+       "options": [
+        "23rd March",
+        "14th August",
+        "21st April",
+        "25th December"
+       ],
+       "answer": 1,
+       "why": "The Constitution of 1973 was enforced on 14th August 1973, Pakistan's Independence Day, and is still in force."
+      },
+      {
+       "q": "Who is the administrative head of a Federal Ministry?",
+       "options": [
+        "The Federal Minister",
+        "The Chief Secretary",
+        "The Secretary",
+        "The Minister of State"
+       ],
+       "answer": 2,
+       "why": "The notes state that the Secretary is the administrative head of a Federal Ministry, while the Minister is its political head."
+      },
+      {
+       "q": "Who is the head of a Provincial Government?",
+       "options": [
+        "The Governor",
+        "The Chief Justice",
+        "The Chief Secretary",
+        "The Chief Minister"
+       ],
+       "answer": 3,
+       "why": "The Chief Minister is the head of a Provincial Government; the Governor is only the constitutional head of the province."
+      },
+      {
+       "q": "Which constitutional amendment defines who is a Muslim?",
+       "options": [
+        "The Second Amendment",
+        "The Third Amendment",
+        "The Fourth Amendment",
+        "The Eighteenth Amendment"
+       ],
+       "answer": 0,
+       "why": "The chapter records that the Second Amendment to the Constitution of 1973 defines a Muslim and declares Ahmadis non-Muslims."
+      },
+      {
+       "q": "NWFP was renamed Khyber Pakhtunkhwa by which amendment?",
+       "options": [
+        "The Sixteenth Amendment",
+        "The Eighteenth Amendment",
+        "The Nineteenth Amendment",
+        "The Twentieth Amendment"
+       ],
+       "answer": 1,
+       "why": "The Eighteenth Amendment renamed the North-West Frontier Province as Khyber Pakhtunkhwa, as stated in the MCQ lesson."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><h4>Who is a Muslim according to the Constitution of 1973?</h4><p>According to the Constitution, a Muslim believes in the oneness of Allah. He believes in the finality of the Prophethood of Hazrat Muhammad (PBUH). He believes in the revealed books and in the Day of Judgement. A person who does not believe in the finality of Prophethood is declared non-Muslim.</p><h4>Write a short note on the Sovereignty of Allah.</h4><p>The Sovereignty of Allah means that all authority in the universe belongs to Allah. The people of Pakistan exercise authority as a trust from Allah. No law can be made against the Quran and Sunnah. This principle is stated in the Objectives Resolution and the Constitution of 1973.</p><h4>What is meant by judicial review?</h4><p>Judicial review is the power of courts to examine laws and government actions. If a law is against the Constitution, the court can declare it void. This power protects fundamental rights of citizens. It keeps the legislature and executive within constitutional limits.</p><h4>Why was the Constitution of 1962 repealed?</h4><p>The Constitution of 1962 was imposed by one man and lacked popular support. It gave too much power to the President and limited political parties. The people demanded a democratic and parliamentary constitution. After the fall of Ayub Khan, the 1962 Constitution was abrogated in 1969.</p><h4>When and by whom was the Constitution of 1956 repealed?</h4><p>The Constitution of 1956 was abrogated in October 1958. President Iskandar Mirza abrogated it and imposed martial law. General Ayub Khan then took power as the Chief Martial Law Administrator. The first constitution of Pakistan thus lasted only about two and a half years.</p><h4>What is the status of the Governor of a province?</h4><p>The Governor is the constitutional head of the province. He is appointed by the President of Pakistan. He acts on the advice of the Chief Minister and the provincial cabinet. He gives assent to provincial laws and represents the federation in the province.</p><h4>When and by whom was the government of Junejo dismissed?</h4><p>The government of Prime Minister Muhammad Khan Junejo was dismissed in May 1988. President Zia-ul-Haq dismissed it using the powers of the Eighth Amendment. He also dissolved the National Assembly at the same time. This dismissal is an example of the use of Article 58(2)(b) in Pakistan&#x27;s history.</p><h4>Write the duties of the Council of Islamic Ideology.</h4><p>The Council of Islamic Ideology advises the government on Islamic matters. It examines laws and suggests whether they agree with the Quran and Sunnah. It recommends ways to bring existing laws into conformity with Islam. It also guides the government on Islamic education and social matters.</p>",
+     "mcqs": [
+      {
+       "q": "According to the Constitution of 1973, belief in what about Hazrat Muhammad (PBUH) is essential for a Muslim?",
+       "options": [
+        "Belief that he was the first prophet",
+        "Belief in the finality of his Prophethood",
+        "Belief that prophethood continues after him",
+        "Belief only in his moral teachings"
+       ],
+       "answer": 1,
+       "why": "The short-question notes state that a Muslim believes in the oneness of Allah and in the finality of the Prophethood of Hazrat Muhammad (PBUH)."
+      },
+      {
+       "q": "A person who does not believe in the finality of Prophethood is declared what by the Constitution?",
+       "options": [
+        "A minority citizen with full Muslim status",
+        "A foreigner",
+        "A non-Muslim",
+        "Exempt from all laws"
+       ],
+       "answer": 2,
+       "why": "The notes state plainly that a person who does not believe in the finality of Prophethood is declared non-Muslim under the Constitution."
+      },
+      {
+       "q": "The Sovereignty of Allah means the people of Pakistan exercise authority as what?",
+       "options": [
+        "Their own absolute right",
+        "A gift from their rulers",
+        "A loan from the United Nations",
+        "A trust from Allah"
+       ],
+       "answer": 3,
+       "why": "The notes explain that all authority belongs to Allah and the people of Pakistan exercise it as a trust from Allah, within His limits."
+      },
+      {
+       "q": "Judicial review gives the courts the power to do what?",
+       "options": [
+        "Declare a law void if it is against the Constitution",
+        "Make new laws in place of Parliament",
+        "Dismiss the government at will",
+        "Appoint all judges themselves"
+       ],
+       "answer": 0,
+       "why": "Judicial review is the power of courts to examine laws and government actions and declare a law void if it is against the Constitution."
+      },
+      {
+       "q": "Why was the Constitution of 1962 repealed?",
+       "options": [
+        "It was too democratic for the country",
+        "It was imposed by one man and lacked popular support",
+        "Foreign powers rejected it",
+        "It gave all powers to Parliament"
+       ],
+       "answer": 1,
+       "why": "The notes say the 1962 Constitution was imposed by one man, gave too much power to the President and lacked popular support, so it was abrogated in 1969."
+      },
+      {
+       "q": "Who abrogated the Constitution of 1956 in October 1958?",
+       "options": [
+        "General Ayub Khan",
+        "Liaquat Ali Khan",
+        "President Iskandar Mirza",
+        "Ghulam Muhammad"
+       ],
+       "answer": 2,
+       "why": "The notes record that President Iskandar Mirza abrogated the 1956 Constitution in October 1958 and imposed martial law; Ayub Khan then became Chief Martial Law Administrator."
+      },
+      {
+       "q": "The Governor of a province is appointed by whom?",
+       "options": [
+        "The Prime Minister",
+        "The Chief Minister",
+        "The Provincial Assembly",
+        "The President of Pakistan"
+       ],
+       "answer": 3,
+       "why": "The short-question notes state that the Governor is the constitutional head of the province and is appointed by the President of Pakistan."
+      },
+      {
+       "q": "The Governor of a province acts on the advice of whom?",
+       "options": [
+        "The Chief Minister and the provincial cabinet",
+        "The President alone",
+        "The Chief Justice of the High Court",
+        "The Corps Commander"
+       ],
+       "answer": 0,
+       "why": "The notes say the Governor acts on the advice of the Chief Minister and the provincial cabinet in running the province."
+      },
+      {
+       "q": "In which year was the government of Prime Minister Junejo dismissed?",
+       "options": [
+        "1985",
+        "1988",
+        "1990",
+        "1977"
+       ],
+       "answer": 1,
+       "why": "The notes record that Muhammad Khan Junejo's government was dismissed in May 1988 by President Zia-ul-Haq."
+      },
+      {
+       "q": "Who dismissed Junejo's government and dissolved the National Assembly?",
+       "options": [
+        "Ghulam Ishaq Khan",
+        "General Yahya Khan",
+        "President Zia-ul-Haq",
+        "Farooq Leghari"
+       ],
+       "answer": 2,
+       "why": "President Zia-ul-Haq dismissed Junejo's government in May 1988 using the Eighth Amendment's Article 58(2)(b) powers, as the notes explain."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><h4>Discuss the role of political parties in developing democracy in Pakistan.</h4><p>Political parties organise public opinion and give the people a political programme. They contest elections and form the government or sit in opposition. They train leaders and educate voters about their rights and duties. They link the people with the government and present public demands. A healthy party system develops democratic culture and peaceful transfer of power.</p><h4>Discuss the reasons and impacts of the separation of East Pakistan.</h4><p>East and West Pakistan were separated by about a thousand miles of Indian territory. The language issue, economic disparity and political deprivation created a sense of neglect. The results of the 1970 elections were not accepted and the political crisis deepened. Indian interference and the war of December 1971 led to the fall of Dhaka. East Pakistan became Bangladesh, and Pakistan lost more than half of its population.</p><h4>Discuss the salient features of the Constitution of 1973.</h4><p>The Constitution of 1973 is written, federal and parliamentary in nature. Islam is the state religion, and no law can be repugnant to the Quran and Sunnah. It guarantees fundamental rights, including freedom, equality and security of person. It provides an independent judiciary and a bicameral parliament. The President is the head of state and the Prime Minister is the chief executive.</p><h4>Discuss the role of the judiciary in Pakistan.</h4><p>The judiciary interprets the Constitution and the laws of the country. It protects the fundamental rights of citizens through judicial review. It settles disputes between the federation and the provinces. An independent judiciary keeps the government within the law and ensures justice.</p><h4>Discuss the salient features of the Constitutions of 1956 and 1962.</h4><p>The Constitution of 1956 was the first constitution of Pakistan and declared it an Islamic Republic. It provided a parliamentary system, One Unit and Urdu and Bengali as national languages. It remained in force for two and a half years and was abrogated in 1958. The Constitution of 1962 provided a presidential system and the system of Basic Democracies. It contained Islamic provisions but was abrogated in 1969 after public agitation.</p><h4>Discuss the Islamic provisions of the Constitution of 1973.</h4><p>Islam is declared the state religion of Pakistan and the sovereignty of Allah is recognised. No law can be made repugnant to the Quran and Sunnah. The Second Amendment defines a Muslim and declares Ahmadis non-Muslims. The Council of Islamic Ideology advises on bringing laws in line with Islam. Steps are promised for Quranic teaching, Zakat, Ushr and the elimination of interest.</p><h4>Discuss the structure of the Federal Government under the Constitution of 1973.</h4><p>The President is the head of state and performs his duties on the advice of the Prime Minister. The Prime Minister and the Cabinet run the administration of the federation. Parliament consists of the National Assembly and the Senate and makes federal laws. The Supreme Court heads the judiciary and interprets the constitution. Federal ministries work under secretaries, and the Council of Common Interest settles federal-provincial matters.</p>",
+     "mcqs": [
+      {
+       "q": "What is one main role of political parties in a democracy, according to the notes?",
+       "options": [
+        "They run the courts of the country",
+        "They command the armed forces",
+        "They organise public opinion and give the people a political programme",
+        "They collect all taxes themselves"
+       ],
+       "answer": 2,
+       "why": "The detailed notes say political parties organise public opinion, give the people a political programme, contest elections and link the people with the government."
+      },
+      {
+       "q": "East and West Pakistan were separated by about how much Indian territory?",
+       "options": [
+        "About a hundred miles",
+        "About five hundred miles",
+        "About two thousand miles",
+        "About a thousand miles"
+       ],
+       "answer": 3,
+       "why": "The notes state that East and West Pakistan were separated by about a thousand miles of Indian territory, which weakened their unity."
+      },
+      {
+       "q": "The fall of Dhaka took place during which war?",
+       "options": [
+        "The war of December 1971",
+        "The war of 1948",
+        "The war of 1965",
+        "The war of 1999"
+       ],
+       "answer": 0,
+       "why": "The detailed notes record that Indian interference and the war of December 1971 led to the fall of Dhaka and the separation of East Pakistan."
+      },
+      {
+       "q": "After its separation in 1971, East Pakistan became which country?",
+       "options": [
+        "India",
+        "Bangladesh",
+        "Burma",
+        "Nepal"
+       ],
+       "answer": 1,
+       "why": "The notes state that East Pakistan became Bangladesh and Pakistan lost more than half of its population in the separation."
+      },
+      {
+       "q": "The Constitution of 1973 is best described as what kind of constitution?",
+       "options": [
+        "Unwritten and unitary",
+        "Presidential and unitary",
+        "Written, federal and parliamentary",
+        "Partly written and presidential"
+       ],
+       "answer": 2,
+       "why": "The salient features listed in the notes describe the 1973 Constitution as written, federal and parliamentary in nature."
+      },
+      {
+       "q": "Under the Constitution of 1973, who is the chief executive of the country?",
+       "options": [
+        "The President",
+        "The Chief Justice",
+        "The Chairman Senate",
+        "The Prime Minister"
+       ],
+       "answer": 3,
+       "why": "The notes state that under the 1973 Constitution the President is head of state while the Prime Minister is the chief executive."
+      },
+      {
+       "q": "The Constitution of 1956 declared Pakistan to be what?",
+       "options": [
+        "An Islamic Republic",
+        "A secular republic",
+        "An Islamic kingdom",
+        "A people's republic"
+       ],
+       "answer": 0,
+       "why": "The detailed notes say the first constitution of 1956 declared Pakistan an Islamic Republic and provided a parliamentary system."
+      },
+      {
+       "q": "The Constitution of 1962 provided which system of government?",
+       "options": [
+        "A parliamentary system",
+        "A presidential system",
+        "A monarchy",
+        "A one-party dictatorship only"
+       ],
+       "answer": 1,
+       "why": "The notes state that the Constitution of 1962 provided a presidential system along with the system of Basic Democracies."
+      },
+      {
+       "q": "The Constitution of 1956 provided which system of government?",
+       "options": [
+        "A presidential system",
+        "Martial law",
+        "A parliamentary system",
+        "A Basic Democracies system"
+       ],
+       "answer": 2,
+       "why": "Unlike the presidential constitution of 1962, the Constitution of 1956 provided a parliamentary system with Urdu and Bengali as national languages."
+      },
+      {
+       "q": "Under the Islamic provisions of the 1973 Constitution, steps are promised for the elimination of what?",
+       "options": [
+        "Zakat",
+        "Ushr",
+        "Income tax",
+        "Interest"
+       ],
+       "answer": 3,
+       "why": "The notes list the promised steps as Quranic teaching, Zakat, Ushr and the elimination of interest; Zakat and Ushr are to be promoted, not eliminated."
+      }
+     ]
+    },
+    {
+     "title": "Activities",
+     "notes_html": "<h4>Activities</h4><h4>Activity: Hold a speech competition on the evolution of democracy in Pakistan.</h4><p>Students prepare speeches on the democratic journey from 1947 to the present. Each speech covers one landmark, such as the first elections of 1970 or the Constitution of 1973. The class discusses the obstacles democracy has faced and how to strengthen it. The best speeches are selected and their points displayed in the classroom.</p><h4>Activity: Prepare a chart of the Islamic provisions of the Constitution of Pakistan and hang it in the classroom.</h4><p>Students collect the Islamic provisions of the Constitution of 1973. They write them on a chart under headings such as state religion, Council of Islamic Ideology and Muslim definition. The chart is displayed in the classroom for daily reference. The activity helps students remember the Islamic character of the constitution.</p>",
+     "mcqs": [
+      {
+       "q": "The speech competition in Chapter 2's activities is on which topic?",
+       "options": [
+        "The economy of Pakistan",
+        "Sports in Pakistan",
+        "Tourism in Pakistan",
+        "The evolution of democracy in Pakistan"
+       ],
+       "answer": 3,
+       "why": "The activity lesson states that students hold a speech competition on the evolution of democracy in Pakistan."
+      },
+      {
+       "q": "The speeches in the activity cover Pakistan's democratic journey starting from which year?",
+       "options": [
+        "1947",
+        "1930",
+        "1956",
+        "1973"
+       ],
+       "answer": 0,
+       "why": "The notes say students prepare speeches on the democratic journey from 1947 to the present, covering one landmark each."
+      },
+      {
+       "q": "Which event is named in the activity as a landmark of democracy?",
+       "options": [
+        "The elections of 1988",
+        "The first elections of 1970",
+        "The referendum of 1984",
+        "The local body elections of 2001"
+       ],
+       "answer": 1,
+       "why": "The activity gives the first elections of 1970 and the Constitution of 1973 as examples of the landmarks each speech should cover."
+      },
+      {
+       "q": "Which document is named in the activity as a landmark of Pakistan's democracy?",
+       "options": [
+        "The Constitution of 1956",
+        "The Constitution of 1962",
+        "The Constitution of 1973",
+        "The Interim Constitution of 1972"
+       ],
+       "answer": 2,
+       "why": "Along with the 1970 elections, the activity names the Constitution of 1973 as a landmark in Pakistan's democratic journey."
+      },
+      {
+       "q": "The chart prepared in Chapter 2's activities shows which provisions of the Constitution?",
+       "options": [
+        "The financial provisions",
+        "The emergency provisions",
+        "The local government provisions",
+        "The Islamic provisions"
+       ],
+       "answer": 3,
+       "why": "The second activity asks students to prepare a chart of the Islamic provisions of the Constitution of Pakistan and hang it in the classroom."
+      },
+      {
+       "q": "Which of the following is one of the headings written on that chart?",
+       "options": [
+        "State religion",
+        "Federal legislative list",
+        "Provincial autonomy",
+        "Election rules"
+       ],
+       "answer": 0,
+       "why": "The notes say the chart is written under headings such as state religion, Council of Islamic Ideology and the definition of a Muslim."
+      },
+      {
+       "q": "The chart activity includes the Council of Islamic Ideology because it is part of what?",
+       "options": [
+        "The list of political parties",
+        "The Islamic provisions of the Constitution of 1973",
+        "The judiciary of Pakistan",
+        "The federal ministries"
+       ],
+       "answer": 1,
+       "why": "The Council of Islamic Ideology is one of the Islamic provisions of the 1973 Constitution, so it appears on the students' chart."
+      },
+      {
+       "q": "Besides state religion and the Council of Islamic Ideology, the chart also covers the definition of what?",
+       "options": [
+        "A citizen",
+        "A voter",
+        "A Muslim",
+        "A taxpayer"
+       ],
+       "answer": 2,
+       "why": "The activity notes name the Muslim definition as one of the headings of the chart of Islamic provisions."
+      },
+      {
+       "q": "After the speeches, what does the class discuss?",
+       "options": [
+        "The results of the last election",
+        "The biographies of famous leaders",
+        "The rules of debating",
+        "The obstacles democracy has faced and how to strengthen it"
+       ],
+       "answer": 3,
+       "why": "The notes say the class discusses the obstacles democracy has faced in Pakistan and how to strengthen it."
+      },
+      {
+       "q": "Where is the finished chart of Islamic provisions displayed?",
+       "options": [
+        "In the classroom",
+        "In the school library",
+        "In the principal's office",
+        "In the assembly hall"
+       ],
+       "answer": 0,
+       "why": "The activity says the chart is displayed in the classroom for daily reference, helping students remember the Islamic character of the constitution."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Administrative System",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Multiple Choice Questions</h4><ul><li><strong>The Federation performs its duties in the name of:</strong><br/>A. Parliament<br/>✓ B. President<br/>C. Senate<br/>D. Prime Minister</li><li><strong>The organization that makes laws for the province is the:</strong><br/>A. National Assembly<br/>B. Senate<br/>✓ C. Provincial Assembly<br/>D. Local Council</li><li><strong>The number of members of the Kashmir Council is:</strong><br/>A. 12<br/>✓ B. 14<br/>C. 16<br/>D. 18</li><li><strong>The number of members of the Gilgit-Baltistan Council is:</strong><br/>✓ A. 12<br/>B. 14<br/>C. 16<br/>D. 18</li><li><strong>The number of judges in the Supreme Court of Azad Kashmir is:</strong><br/>✓ A. Three<br/>B. Four<br/>C. Seven<br/>D. Nine</li><li><strong>The National Security Council is presided over by the:</strong><br/>A. President<br/>✓ B. Prime Minister<br/>C. Army Chief<br/>D. Chairman Senate</li><li><strong>The article of the Constitution relating to Local Government is:</strong><br/>✓ A. Article 140-A<br/>B. Article 140-B<br/>C. Article 141-A<br/>D. Article 142-A</li><li><strong>The change in the Local Government System was introduced in:</strong><br/>✓ A. 2001<br/>B. 2005<br/>C. 2010<br/>D. 2013</li><li><strong>The NFC Award is announced by the:</strong><br/>✓ A. Council of Common Interest<br/>B. National Finance Commission<br/>C. President<br/>D. Prime Minister</li><li><strong>The head of a Metropolitan Corporation is the:</strong><br/>A. Mayor<br/>B. Deputy Mayor<br/>✓ C. Lord Mayor<br/>D. Commissioner</li></ul>",
+     "mcqs": [
+      {
+       "q": "The Federation performs its duties in the name of whom?",
+       "options": [
+        "The President",
+        "Parliament",
+        "The Senate",
+        "The Prime Minister"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ lesson states that the Federation performs its duties in the name of the President of Pakistan."
+      },
+      {
+       "q": "Which organisation makes laws for a province?",
+       "options": [
+        "The National Assembly",
+        "The Provincial Assembly",
+        "The Senate",
+        "The Local Council"
+       ],
+       "answer": 1,
+       "why": "Provincial laws are made by the Provincial Assembly; the National Assembly and Senate make federal laws, as the MCQ lesson records."
+      },
+      {
+       "q": "How many members does the Kashmir Council have?",
+       "options": [
+        "12",
+        "16",
+        "14",
+        "18"
+       ],
+       "answer": 2,
+       "why": "The Kashmir Council has 14 members, while the Gilgit-Baltistan Council has 12, according to the chapter's MCQ lesson."
+      },
+      {
+       "q": "How many members does the Gilgit-Baltistan Council have?",
+       "options": [
+        "14",
+        "16",
+        "18",
+        "12"
+       ],
+       "answer": 3,
+       "why": "The Gilgit-Baltistan Council has 12 members; the Kashmir Council, by contrast, has 14 members."
+      },
+      {
+       "q": "How many judges are there in the Supreme Court of Azad Kashmir?",
+       "options": [
+        "Three",
+        "Four",
+        "Seven",
+        "Nine"
+       ],
+       "answer": 0,
+       "why": "The MCQ lesson states that the Supreme Court of Azad Kashmir consists of three judges."
+      },
+      {
+       "q": "Who presides over the National Security Council?",
+       "options": [
+        "The President",
+        "The Prime Minister",
+        "The Army Chief",
+        "The Chairman Senate"
+       ],
+       "answer": 1,
+       "why": "According to the chapter's MCQ lesson, the National Security Council is presided over by the Prime Minister of Pakistan."
+      },
+      {
+       "q": "Which article of the Constitution relates to Local Government?",
+       "options": [
+        "Article 140-B",
+        "Article 141-A",
+        "Article 140-A",
+        "Article 142-A"
+       ],
+       "answer": 2,
+       "why": "Local Government in Pakistan is dealt with in Article 140-A of the Constitution of 1973, as the book's MCQ lesson states."
+      },
+      {
+       "q": "The change in the Local Government System was introduced in which year?",
+       "options": [
+        "2005",
+        "2010",
+        "2013",
+        "2001"
+       ],
+       "answer": 3,
+       "why": "The MCQ lesson records that the changed Local Government System was introduced in 2001."
+      },
+      {
+       "q": "According to the book, the NFC Award is announced by whom?",
+       "options": [
+        "The Council of Common Interest",
+        "The National Finance Commission",
+        "The President",
+        "The Prime Minister"
+       ],
+       "answer": 0,
+       "why": "The chapter's MCQ lesson marks the Council of Common Interest as the body that announces the NFC Award."
+      },
+      {
+       "q": "According to the book's MCQ key, the head of a Metropolitan Corporation is called the:",
+       "options": [
+        "Mayor",
+        "Lord Mayor",
+        "Deputy Mayor",
+        "Commissioner"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ lesson gives 'Lord Mayor' as the head of a Metropolitan Corporation; the Commissioner is an appointed officer, not its head."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><h4>Write the number of members of the Kashmir Council.</h4><p>The Kashmir Council has 14 members. Eight members are from Azad Jammu and Kashmir and six are representatives of the Government of Pakistan. The members from Azad Kashmir include its President, Prime Minister and six members of the Legislative Assembly. The Council is chaired by the Prime Minister of Pakistan.</p><h4>Who is the Chairman of the Gilgit-Baltistan Council?</h4><p>The Prime Minister of Pakistan is the Chairman of the Gilgit-Baltistan Council. The Council has 12 members, six nominated by the Prime Minister and six elected by the Gilgit-Baltistan Legislative Assembly. It is an administrative institution for Gilgit-Baltistan.</p><h4>What is the article of the Constitution that deals with the administrative power of the provinces?</h4><p>Provincial administrative power is dealt with in the Constitution under the federal scheme. The provinces exercise authority over subjects in the provincial field. Their executive authority is exercised by the Governor on the advice of the cabinet. This arrangement is part of the federal distribution of powers in the 1973 Constitution.</p><h4>At which places are the circuit benches of the High Court of Azad Kashmir located?</h4><p>The High Court of Azad Kashmir has three circuit benches. They are located at Kotli, Mirpur and Rawlakot. These benches make justice accessible to the people of different districts.</p><h4>What are the levels of Local Government?</h4><p>Local government in Pakistan works at the district, tehsil and union council levels. In cities it works through metropolitan corporations, municipal committees and town committees. Each level has elected members and a head, like the Nazim or Mayor. These bodies look after local services such as water, sanitation and roads.</p><h4>What are the duties of a Chief Officer?</h4><p>The Chief Officer is the administrative head of a local council. He carries out the decisions of the council and supervises its staff. He prepares the budget and keeps the accounts of the council. He is responsible for the day-to-day administration of local services.</p><h4>What is the status of the President of Azad Kashmir?</h4><p>The President of Azad Jammu and Kashmir is the constitutional head of the state. He is elected by the Azad Kashmir Legislative Assembly and the Kashmir Council. He acts on the advice of the Prime Minister of Azad Kashmir. He represents the state and gives assent to laws passed by the Assembly.</p><h4>Where is the Supreme Appellate Court of Gilgit-Baltistan located?</h4><p>The Supreme Appellate Court of Gilgit-Baltistan is located at Gilgit. It is the highest court of appeal in Gilgit-Baltistan. It hears appeals against the decisions of the Chief Court. Its Chief Judge is appointed in the manner laid down for the region.</p>",
+     "mcqs": [
+      {
+       "q": "Out of the 14 members of the Kashmir Council, how many belong to Azad Jammu and Kashmir?",
+       "options": [
+        "Six",
+        "Eight",
+        "Ten",
+        "Four"
+       ],
+       "answer": 1,
+       "why": "The short-question notes state that the Kashmir Council has 14 members: eight from Azad Jammu and Kashmir and six representatives of the Government of Pakistan."
+      },
+      {
+       "q": "Who chairs the Kashmir Council?",
+       "options": [
+        "The President of Azad Kashmir",
+        "The President of Pakistan",
+        "The Prime Minister of Pakistan",
+        "The Chief Justice of Azad Kashmir"
+       ],
+       "answer": 2,
+       "why": "The notes say the Kashmir Council is chaired by the Prime Minister of Pakistan, and its Azad Kashmir members include the AJK President and Prime Minister."
+      },
+      {
+       "q": "Who is the Chairman of the Gilgit-Baltistan Council?",
+       "options": [
+        "The Governor of Gilgit-Baltistan",
+        "The Chief Minister of Gilgit-Baltistan",
+        "The President of Pakistan",
+        "The Prime Minister of Pakistan"
+       ],
+       "answer": 3,
+       "why": "The notes state that the Prime Minister of Pakistan is the Chairman of the Gilgit-Baltistan Council."
+      },
+      {
+       "q": "The 12 members of the Gilgit-Baltistan Council are made up of:",
+       "options": [
+        "Six nominated by the Prime Minister and six elected by the GB Legislative Assembly",
+        "All twelve elected by the GB Legislative Assembly",
+        "All twelve nominated by the President",
+        "Eight elected and four nominated members"
+       ],
+       "answer": 0,
+       "why": "The short-question notes explain that six GB Council members are nominated by the Prime Minister and six are elected by the Gilgit-Baltistan Legislative Assembly."
+      },
+      {
+       "q": "How many circuit benches does the High Court of Azad Kashmir have?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "The notes state that the High Court of Azad Kashmir has three circuit benches, located at Kotli, Mirpur and Rawalakot."
+      },
+      {
+       "q": "Besides Kotli and Mirpur, the third circuit bench of the AJK High Court is at:",
+       "options": [
+        "Muzaffarabad",
+        "Bhimber",
+        "Rawalakot",
+        "Bagh"
+       ],
+       "answer": 2,
+       "why": "The circuit benches of the High Court of Azad Kashmir are at Kotli, Mirpur and Rawalakot, making justice accessible in different districts."
+      },
+      {
+       "q": "Local government in Pakistan works at which three levels?",
+       "options": [
+        "Federal, provincial and district",
+        "Division, district and tehsil",
+        "Province, district and village",
+        "District, tehsil and union council"
+       ],
+       "answer": 3,
+       "why": "The notes state that local government works at the district, tehsil and union council levels, and through corporations and committees in cities."
+      },
+      {
+       "q": "Which duty belongs to the Chief Officer of a local council?",
+       "options": [
+        "He carries out the decisions of the council and supervises its staff",
+        "He passes laws for the district",
+        "He appoints the judges of the district",
+        "He commands the district police"
+       ],
+       "answer": 0,
+       "why": "The Chief Officer is the administrative head of a local council: he carries out its decisions, supervises staff, prepares the budget and keeps accounts."
+      },
+      {
+       "q": "The President of Azad Kashmir is elected by whom?",
+       "options": [
+        "The people of Azad Kashmir directly",
+        "The AJK Legislative Assembly and the Kashmir Council",
+        "The National Assembly of Pakistan",
+        "The Prime Minister of Pakistan"
+       ],
+       "answer": 1,
+       "why": "The notes state that the President of Azad Jammu and Kashmir is elected by the AJK Legislative Assembly and the Kashmir Council jointly."
+      },
+      {
+       "q": "Where is the Supreme Appellate Court of Gilgit-Baltistan located?",
+       "options": [
+        "Skardu",
+        "Hunza",
+        "Gilgit",
+        "Islamabad"
+       ],
+       "answer": 2,
+       "why": "The Supreme Appellate Court of Gilgit-Baltistan, its highest court of appeal, is located at Gilgit, as the short-question notes record."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><h4>Discuss the duties of the Federation under the Constitution of 1973.</h4><p>The Federation performs its duties in the name of the President. It looks after defence, foreign affairs, currency and communications. It coordinates between the provinces and settles their disputes. The Council of Common Interest distributes resources and announces NFC Awards. The Federation also protects the country against external aggression and internal disorder.</p><h4>Discuss the structure of the Government of Gilgit-Baltistan.</h4><p>Gilgit-Baltistan has a Governor and a Chief Minister heading its government. It has a Legislative Assembly elected by the people of the region. It has a Council chaired by the Prime Minister of Pakistan. Its courts are the Chief Court and the Supreme Appellate Court.</p><h4>Discuss the relations between the Federation and the Provinces.</h4><p>The Constitution divides powers between the federation and the provinces. The federation controls defence, foreign affairs and currency. The provinces control police, health and agriculture, among other subjects. The Council of Common Interests settles disputes and coordinates policy between them.</p><h4>Discuss the relationship between the provinces and the local governments.</h4><p>Under Article 140-A of the Constitution of 1973, provinces must establish local governments. Provincial assemblies pass laws for local governments and devolve administrative and financial powers to them. Provinces give funds to local governments through the Provincial Finance Commission. Local governments work under provincial supervision but manage local affairs themselves. This system brings government closer to the people at the grass-root level.</p><h4>Discuss the duties of the provinces.</h4><p>Provinces maintain law and order and run the police and provincial administration. They look after health, education, agriculture and local government. They make laws on provincial subjects through the Provincial Assembly. They collect provincial taxes and prepare the provincial budget. They implement federal laws and cooperate with the federation in national matters.</p><h4>Discuss the duties of the District Council and the Tehsil Council.</h4><p>The District Council plans and carries out development work in the whole district. It provides water supply, sanitation, roads and health and education facilities. The Tehsil Council performs similar duties within its tehsil. Both councils are formed with the chairmen of Union Councils as members. The Chief Officer, a senior government servant, acts as secretary and supervises all departments.</p><h4>Discuss the duties of the Metropolitan Corporation.</h4><p>The Metropolitan Corporation is headed by the Mayor and looks after a big city. It plans the city, builds and repairs roads, and provides street lights. It arranges water supply, sewerage, cleanliness and public parks. It controls buildings and markets and protects public health. It collects municipal taxes and spends them on city services.</p>",
+     "mcqs": [
+      {
+       "q": "The Federation looks after which of the following subjects?",
+       "options": [
+        "Police, health and agriculture",
+        "Local government and sanitation",
+        "Defence, foreign affairs, currency and communications",
+        "Schools and hospitals"
+       ],
+       "answer": 2,
+       "why": "The detailed notes list defence, foreign affairs, currency and communications as federal duties; police, health and agriculture belong to the provinces."
+      },
+      {
+       "q": "Which body distributes resources between the federation and provinces and announces NFC Awards?",
+       "options": [
+        "The Senate",
+        "The Ministry of Finance alone",
+        "The Supreme Court",
+        "The Council of Common Interest"
+       ],
+       "answer": 3,
+       "why": "The notes state that the Council of Common Interest distributes resources and announces NFC Awards while settling federal-provincial matters."
+      },
+      {
+       "q": "The government of Gilgit-Baltistan is headed by whom?",
+       "options": [
+        "A Governor and a Chief Minister",
+        "A President and a Prime Minister",
+        "A Chief Secretary and a Nazim",
+        "A Chief Judge and a Governor-General"
+       ],
+       "answer": 0,
+       "why": "The detailed notes describe Gilgit-Baltistan's government as headed by a Governor and a Chief Minister, with an elected Legislative Assembly."
+      },
+      {
+       "q": "The courts of Gilgit-Baltistan are which two courts?",
+       "options": [
+        "The High Court and the Supreme Court",
+        "The Chief Court and the Supreme Appellate Court",
+        "The District Court and the High Court",
+        "The Shariat Court and the Chief Court"
+       ],
+       "answer": 1,
+       "why": "According to the notes, Gilgit-Baltistan's courts are the Chief Court and the Supreme Appellate Court at Gilgit."
+      },
+      {
+       "q": "Under the Constitution, the provinces control which subjects?",
+       "options": [
+        "Defence and foreign affairs",
+        "Currency and communications",
+        "Police, health and agriculture",
+        "Foreign trade and defence"
+       ],
+       "answer": 2,
+       "why": "The notes say the provinces control police, health and agriculture, while the federation controls defence, foreign affairs and currency."
+      },
+      {
+       "q": "Article 140-A of the Constitution requires the provinces to do what?",
+       "options": [
+        "Abolish local governments",
+        "Hold local elections every year",
+        "Hand all provincial powers to districts",
+        "Establish local governments"
+       ],
+       "answer": 3,
+       "why": "The detailed notes state that under Article 140-A the provinces must establish local governments and devolve powers to them."
+      },
+      {
+       "q": "Provinces give funds to local governments through which body?",
+       "options": [
+        "The Provincial Finance Commission",
+        "The National Finance Commission",
+        "The State Bank of Pakistan",
+        "The Federal Board of Revenue"
+       ],
+       "answer": 0,
+       "why": "The notes say provinces give funds to local governments through the Provincial Finance Commission."
+      },
+      {
+       "q": "The District Council is formed with which members?",
+       "options": [
+        "The members of the National Assembly",
+        "The chairmen of Union Councils as its members",
+        "The tehsildars of the district",
+        "The police officers of the district"
+       ],
+       "answer": 1,
+       "why": "The detailed notes state that both District and Tehsil Councils are formed with the chairmen of Union Councils as members."
+      },
+      {
+       "q": "Who acts as secretary of the District Council and supervises its departments?",
+       "options": [
+        "The District Nazim",
+        "The Tehsildar",
+        "The Chief Officer",
+        "The Chairman himself"
+       ],
+       "answer": 2,
+       "why": "The notes say the Chief Officer, a senior government servant, acts as secretary of the council and supervises all its departments."
+      },
+      {
+       "q": "According to the detailed notes, the Metropolitan Corporation is headed by whom?",
+       "options": [
+        "The Commissioner",
+        "The Chief Officer",
+        "The Deputy Commissioner",
+        "The Mayor"
+       ],
+       "answer": 3,
+       "why": "The detailed-question notes state that the Metropolitan Corporation is headed by the Mayor and looks after a big city's services."
+      }
+     ]
+    },
+    {
+     "title": "Activities",
+     "notes_html": "<h4>Activities</h4><h4>Activity: Discuss the duties of the Municipal Corporation, show the proceedings of a District Council to the students and ask them to prepare a report.</h4><p>The teacher explains the duties of the Municipal Corporation to the class. Students observe the proceedings of a District Council meeting. Each student prepares a report on what the council discussed and decided. The reports are read in the class and the best ones are appreciated.</p><h4>Activity: Divide the students into two groups and ask them to prepare charts of the federal and provincial government structures.</h4><p>One group prepares a chart of the federal government and the other of a provincial government. The charts show the head, the legislature, the executive and the judiciary. Both charts are displayed side by side in the classroom. Students compare the two structures and note their similarities and differences.</p>",
+     "mcqs": [
+      {
+       "q": "In Chapter 3's activity, students observe the proceedings of which body?",
+       "options": [
+        "The National Assembly",
+        "The Senate",
+        "A High Court",
+        "A District Council"
+       ],
+       "answer": 3,
+       "why": "The activity lesson says students observe the proceedings of a District Council meeting after learning the duties of the Municipal Corporation."
+      },
+      {
+       "q": "After observing the District Council, each student prepares what?",
+       "options": [
+        "A report on what the council discussed and decided",
+        "A chart of district taxes",
+        "A list of council members",
+        "A speech on local government"
+       ],
+       "answer": 0,
+       "why": "The notes say each student prepares a report on what the council discussed and decided, and the reports are read in class."
+      },
+      {
+       "q": "In the first activity, the teacher explains the duties of which body?",
+       "options": [
+        "The Provincial Assembly",
+        "The Municipal Corporation",
+        "The High Court",
+        "The District Police"
+       ],
+       "answer": 1,
+       "why": "The activity begins with the teacher explaining the duties of the Municipal Corporation to the class."
+      },
+      {
+       "q": "For the chart activity, the students are divided into how many groups?",
+       "options": [
+        "Three groups",
+        "Four groups",
+        "Two groups",
+        "Five groups"
+       ],
+       "answer": 2,
+       "why": "The notes say the students are divided into two groups, one for the federal structure and one for the provincial structure."
+      },
+      {
+       "q": "One group prepares a chart of which government structure?",
+       "options": [
+        "The local government",
+        "The judiciary only",
+        "The district administration only",
+        "The federal government"
+       ],
+       "answer": 3,
+       "why": "One group charts the federal government and the other the provincial government, so the two structures can be compared."
+      },
+      {
+       "q": "The charts show the head, the legislature, the executive and which fourth part?",
+       "options": [
+        "The judiciary",
+        "The media",
+        "The political parties",
+        "The Election Commission"
+       ],
+       "answer": 0,
+       "why": "The activity notes say the charts show the head, the legislature, the executive and the judiciary of each level of government."
+      },
+      {
+       "q": "What do the students do with the two completed charts?",
+       "options": [
+        "Send them to the district council office",
+        "Display them side by side and compare the two structures",
+        "Keep them only in their notebooks",
+        "Present them only in the morning assembly"
+       ],
+       "answer": 1,
+       "why": "The charts are displayed side by side in the classroom so students can compare the federal and provincial structures."
+      },
+      {
+       "q": "The comparison of the charts helps students to note what?",
+       "options": [
+        "The names of all government officers",
+        "The dates of council meetings",
+        "The similarities and differences between the two structures",
+        "The budgets of both governments"
+       ],
+       "answer": 2,
+       "why": "The activity concludes that students compare the two structures and note their similarities and differences."
+      },
+      {
+       "q": "Where are the two charts displayed?",
+       "options": [
+        "In the school corridor",
+        "In the school library",
+        "At the district council office",
+        "In the classroom"
+       ],
+       "answer": 3,
+       "why": "The notes say both charts are displayed side by side in the classroom for the whole class to study."
+      },
+      {
+       "q": "What happens to the best student reports in this activity?",
+       "options": [
+        "They are read in the class and appreciated",
+        "They are sent to a newspaper",
+        "They are filed in the school office",
+        "They are used as examination papers"
+       ],
+       "answer": 0,
+       "why": "The activity lesson says the reports are read in the class and the best ones are appreciated."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Human Rights",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Multiple Choice Questions</h4><ul><li><strong>The Last Sermon of the Holy Prophet (PBUH) was delivered in:</strong><br/>A. 9th A.H.<br/>✓ B. 10th A.H.<br/>C. 11th A.H.<br/>D. 12th A.H.</li><li><strong>Magna Carta was issued in:</strong><br/>A. 1210<br/>B. 1212<br/>✓ C. 1215<br/>D. 1220</li><li><strong>&#x27;There is no compulsion in religion&#x27; is a verse of Surah:</strong><br/>✓ A. Al-Baqarah<br/>B. Al-e-Imran<br/>C. Al-Nisa<br/>D. Al-Ma&#x27;idah</li><li><strong>The right to purchase and hold property is a:</strong><br/>A. Political right<br/>✓ B. Economic right<br/>C. Social right<br/>D. Legal right</li><li><strong>The verse about giving orphans their property is in Surah:</strong><br/>A. Al-Baqarah<br/>B. Al-e-Imran<br/>✓ C. Al-Nisa<br/>D. Al-Hujurat</li><li><strong>Which of the following is a political right?</strong><br/>✓ A. Right to vote<br/>B. Right to education<br/>C. Right to work<br/>D. Right to health</li><li><strong>The United Nations celebrates Human Rights Day on:</strong><br/>A. 10th October<br/>B. 10th November<br/>C. 1st December<br/>✓ D. 10th December</li><li><strong>An arrested person must be presented before a magistrate within:</strong><br/>A. 12 hours<br/>B. 18 hours<br/>✓ C. 24 hours<br/>D. 48 hours</li><li><strong>The Universal Declaration of Human Rights was approved in:</strong><br/>A. 1945<br/>B. 1946<br/>✓ C. 1948<br/>D. 1950</li><li><strong>&#x27;A mother gave birth to her son as a free person&#x27; is a saying of:</strong><br/>A. Hazrat Abu Bakr (RA)<br/>✓ B. Hazrat Umar (RA)<br/>C. Hazrat Usman (RA)<br/>D. Hazrat Ali (RA)</li></ul>",
+     "mcqs": [
+      {
+       "q": "The Last Sermon of the Holy Prophet (PBUH) was delivered in which year of Hijrah?",
+       "options": [
+        "10th A.H.",
+        "9th A.H.",
+        "11th A.H.",
+        "12th A.H."
+       ],
+       "answer": 0,
+       "why": "The book's MCQ lesson states that the Last Sermon, which declared basic human rights, was delivered in 10th A.H."
+      },
+      {
+       "q": "Magna Carta, an early charter of rights, was issued in which year?",
+       "options": [
+        "1210",
+        "1215",
+        "1212",
+        "1220"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson records that Magna Carta was issued in 1215, limiting the powers of the English king."
+      },
+      {
+       "q": "The verse 'There is no compulsion in religion' belongs to which Surah?",
+       "options": [
+        "Al-e-Imran",
+        "Al-Nisa",
+        "Al-Baqarah",
+        "Al-Ma'idah"
+       ],
+       "answer": 2,
+       "why": "The chapter's MCQ lesson places the verse 'There is no compulsion in religion' in Surah Al-Baqarah."
+      },
+      {
+       "q": "The right to purchase and hold property is classified as which kind of right?",
+       "options": [
+        "A political right",
+        "A social right",
+        "A legal right",
+        "An economic right"
+       ],
+       "answer": 3,
+       "why": "The book classifies the right to purchase and hold property as an economic right, like the rights to work and to fair wages."
+      },
+      {
+       "q": "The Quranic verse about giving orphans their property is in which Surah?",
+       "options": [
+        "Al-Nisa",
+        "Al-Baqarah",
+        "Al-e-Imran",
+        "Al-Hujurat"
+       ],
+       "answer": 0,
+       "why": "The MCQ lesson states that the verse about giving orphans their property is in Surah Al-Nisa."
+      },
+      {
+       "q": "Which of the following is a political right?",
+       "options": [
+        "The right to education",
+        "The right to vote",
+        "The right to work",
+        "The right to health"
+       ],
+       "answer": 1,
+       "why": "The right to vote is a political right; education and health are social rights and work is an economic right, as the chapter classifies them."
+      },
+      {
+       "q": "The United Nations celebrates Human Rights Day on which date?",
+       "options": [
+        "10th October",
+        "10th November",
+        "10th December",
+        "1st December"
+       ],
+       "answer": 2,
+       "why": "Human Rights Day is celebrated on 10th December, the date on which the Universal Declaration was adopted in 1948."
+      },
+      {
+       "q": "An arrested person must be presented before a magistrate within how much time?",
+       "options": [
+        "12 hours",
+        "18 hours",
+        "48 hours",
+        "24 hours"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ lesson states that an arrested person must be presented before a magistrate within 24 hours."
+      },
+      {
+       "q": "The Universal Declaration of Human Rights was approved in which year?",
+       "options": [
+        "1948",
+        "1945",
+        "1946",
+        "1950"
+       ],
+       "answer": 0,
+       "why": "The Universal Declaration of Human Rights was approved by the United Nations in 1948, three years after the UN was founded."
+      },
+      {
+       "q": "'A mother gave birth to her son as a free person' — this is a saying of which Caliph?",
+       "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Usman (RA)",
+        "Hazrat Ali (RA)"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson attributes this famous saying about man's natural freedom to Hazrat Umar (RA)."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><h4>Write a short note on human rights in Islam.</h4><p>Islam gave human rights fourteen centuries before modern declarations. The Last Sermon declared the life, property and honour of every person sacred. Islam grants equality regardless of colour, race or language. It protects the rights of women, children, minorities and even enemies in war.</p><h4>Define rights.</h4><p>Rights are the freedoms and claims that every human being has by birth. They are recognised and protected by law and by society. Rights enable a person to live with dignity and develop fully. They are balanced by duties toward others and toward the state.</p><h4>Write a short note on economic rights.</h4><p>Economic rights allow a person to earn a living and own property. They include the right to work, to fair wages and to trade. Islam forbids interest, hoarding and dishonest trade, protecting economic justice. The state must provide opportunities so that no citizen starves.</p><h4>Who approved the Universal Declaration of Human Rights and when?</h4><p>The Universal Declaration of Human Rights was approved by the United Nations. It was adopted by the General Assembly on 10 December 1948. It lists civil, political, economic, social and cultural rights. Pakistan, as a UN member, supports these rights in its Constitution.</p><h4>Write two political rights.</h4><p>The right to vote in free and fair elections is a political right. The right to form political parties and take part in government is another. Citizens may also stand for election and hold public office. These rights make the government answerable to the people.</p><h4>Define duties.</h4><p>Duties are the obligations a citizen owes to the state and to fellow citizens. They include obeying the law, paying taxes and respecting the rights of others. A citizen must be loyal to the state and honest in voting and public dealing. Rights and duties go together: every right of one person is the duty of another. Performing duties well makes a citizen useful to society.</p><h4>Write a Quranic verse about economic rights or its translation.</h4><p>The Quran says: &#x27;And give the orphans their property&#x27; (Surah Al-Nisa, 4:2). It also says: &#x27;And do not devour one another&#x27;s wealth unjustly&#x27; (Surah Al-Baqarah, 2:188). These verses protect the right to own, earn and use property lawfully. They forbid usurping the wealth of orphans and the weak. Economic rights in Islam thus rest on justice and honest dealing.</p><h4>Write two social rights.</h4><p>The right to education is a social right of every citizen. The right to health care and a clean environment is another social right. Social rights also include protection of family and childhood. The state provides schools, hospitals and welfare for these rights.</p>",
+     "mcqs": [
+      {
+       "q": "Islam gave human rights how long before the modern declarations?",
+       "options": [
+        "Ten centuries before them",
+        "Fourteen centuries before them",
+        "Five centuries before them",
+        "Two centuries before them"
+       ],
+       "answer": 1,
+       "why": "The short-question notes state that Islam gave human rights fourteen centuries before modern declarations, through the Quran and the Last Sermon."
+      },
+      {
+       "q": "The Last Sermon declared which things of every person sacred?",
+       "options": [
+        "Only the property of Muslims",
+        "The wealth of the state",
+        "Life, property and honour",
+        "The honour of rulers only"
+       ],
+       "answer": 2,
+       "why": "The notes say the Last Sermon declared the life, property and honour of every person sacred and inviolable."
+      },
+      {
+       "q": "Rights are the freedoms and claims that every human being has by what?",
+       "options": [
+        "By a grant of the government",
+        "By his wealth",
+        "By his education",
+        "By birth"
+       ],
+       "answer": 3,
+       "why": "The notes define rights as the freedoms and claims every human being has by birth, recognised and protected by law and society."
+      },
+      {
+       "q": "Which of the following is an economic right?",
+       "options": [
+        "The right to work and to fair wages",
+        "The right to vote in elections",
+        "The right to form political parties",
+        "The right to free speech"
+       ],
+       "answer": 0,
+       "why": "Economic rights, as the notes explain, allow a person to earn a living and own property, including the right to work and to fair wages."
+      },
+      {
+       "q": "To protect economic justice, Islam forbids which practices?",
+       "options": [
+        "All trade and business",
+        "Interest, hoarding and dishonest trade",
+        "Saving and investment",
+        "Buying and selling property"
+       ],
+       "answer": 1,
+       "why": "The notes state that Islam forbids interest, hoarding and dishonest trade so that economic justice is protected for everyone."
+      },
+      {
+       "q": "The Universal Declaration of Human Rights was adopted by the UN General Assembly on which date?",
+       "options": [
+        "10 December 1945",
+        "24 October 1948",
+        "10 December 1948",
+        "1 January 1950"
+       ],
+       "answer": 2,
+       "why": "The short-question notes record that the General Assembly adopted the Universal Declaration on 10 December 1948."
+      },
+      {
+       "q": "Which pair is a pair of political rights?",
+       "options": [
+        "The right to education and the right to health",
+        "The right to work and the right to wages",
+        "The right to property and the right to trade",
+        "The right to vote and the right to form political parties"
+       ],
+       "answer": 3,
+       "why": "The notes name the right to vote in free elections and the right to form political parties and take part in government as political rights."
+      },
+      {
+       "q": "Which of the following is a duty of a citizen?",
+       "options": [
+        "Obeying the law and paying taxes",
+        "Voting for only one party forever",
+        "Avoiding all taxes",
+        "Ignoring the rights of others"
+       ],
+       "answer": 0,
+       "why": "Duties, as defined in the notes, include obeying the law, paying taxes, respecting others' rights and being loyal to the state."
+      },
+      {
+       "q": "The verse 'And do not devour one another's wealth unjustly' is quoted in the notes from which Surah?",
+       "options": [
+        "Surah Al-Nisa",
+        "Surah Al-Baqarah",
+        "Surah Al-Ma'idah",
+        "Surah Al-e-Imran"
+       ],
+       "answer": 1,
+       "why": "The notes quote this verse as Surah Al-Baqarah 2:188, while the orphans' property verse is quoted from Surah Al-Nisa 4:2."
+      },
+      {
+       "q": "The right to education is classified as which kind of right?",
+       "options": [
+        "A political right",
+        "An economic right",
+        "A social right",
+        "A legal right only"
+       ],
+       "answer": 2,
+       "why": "The short-question notes list the right to education and the right to health care as social rights of every citizen."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><h4>Discuss the concept of human rights.</h4><p>Human rights are the rights every human being has simply by being human. They include the right to life, liberty, equality, dignity and security. They are not given by any government; governments only recognise and protect them. Islam, constitutions and international law all affirm these rights. When human rights are respected, society becomes peaceful and just.</p><h4>Discuss the rights given by Islam.</h4><p>Islam gives the right to life: no one may kill an innocent person. It gives the right to property, honour and freedom of belief. Women have rights to inheritance, education and respect in society. Non-Muslims in an Islamic state have protection of life, property and worship. These rights were declared in the Quran and the Last Sermon of the Holy Prophet (PBUH).</p><h4>Discuss the Universal Declaration of Human Rights of 1948.</h4><p>The Declaration was adopted by the United Nations on 10 December 1948. It has thirty articles covering civil, political, economic and social rights. It declares all human beings free and equal in dignity and rights. It forbids slavery, torture and arbitrary arrest. Though not a treaty, it guides the constitutions and laws of member states.</p><h4>Discuss the nature of basic human rights in Pakistan.</h4><p>The Constitution of 1973 guarantees fundamental rights to every citizen. These include security of person, freedom of speech, association and religion. All citizens are equal before the law and cannot be discriminated against. An arrested person must be produced before a magistrate within 24 hours. These rights are enforceable by the courts and have an Islamic basis.</p><h4>Compare the rights given under the Constitution of Pakistan with the human rights of the United Nations.</h4><p>The Universal Declaration of Human Rights was approved by the United Nations in 1948. It contains 30 articles and applies to all human beings in the world. The Constitution of Pakistan of 1973 gives fundamental rights to the citizens of Pakistan. These rights are enforceable through the courts, while the UN Declaration is recommendatory. Both agree on life, liberty, equality, justice and freedom of thought and religion.</p>",
+     "mcqs": [
+      {
+       "q": "Human rights belong to every person simply because of what?",
+       "options": [
+        "He is a citizen of a rich country",
+        "The government has granted them to him",
+        "He is a human being",
+        "He has paid his taxes"
+       ],
+       "answer": 2,
+       "why": "The detailed notes define human rights as the rights every human being has simply by being human, including life, liberty, equality and dignity."
+      },
+      {
+       "q": "Who gives human rights to human beings, according to the notes?",
+       "options": [
+        "The parliament of each country",
+        "The United Nations alone",
+        "The courts of each country",
+        "No government gives them; governments only recognise and protect them"
+       ],
+       "answer": 3,
+       "why": "The notes stress that human rights are not given by any government; governments only recognise and protect them."
+      },
+      {
+       "q": "The right to life given by Islam means what?",
+       "options": [
+        "No one may kill an innocent person",
+        "There can be no punishment for any crime",
+        "Only fines may be imposed for murder",
+        "Armies may never fight any war"
+       ],
+       "answer": 0,
+       "why": "The detailed notes state that Islam gives the right to life: no one may kill an innocent person."
+      },
+      {
+       "q": "The Universal Declaration of Human Rights contains how many articles?",
+       "options": [
+        "Twenty articles",
+        "Thirty articles",
+        "Twenty-five articles",
+        "Forty articles"
+       ],
+       "answer": 1,
+       "why": "The notes record that the Declaration of 1948 has thirty articles covering civil, political, economic and social rights."
+      },
+      {
+       "q": "The Universal Declaration of Human Rights forbids which of the following?",
+       "options": [
+        "Voting and freedom of speech",
+        "Owning property and doing trade",
+        "Slavery, torture and arbitrary arrest",
+        "Travel and marriage"
+       ],
+       "answer": 2,
+       "why": "The detailed notes say the Declaration forbids slavery, torture and arbitrary arrest, while protecting speech, property and other freedoms."
+      },
+      {
+       "q": "What is the legal nature of the Universal Declaration, according to the notes?",
+       "options": [
+        "It is a binding treaty enforced by UN courts",
+        "It replaces the constitutions of member states",
+        "It has no effect on any country",
+        "It is not a treaty, but it guides the constitutions and laws of member states"
+       ],
+       "answer": 3,
+       "why": "The notes explain that though the Declaration is not a treaty, it guides the constitutions and laws of the member states of the UN."
+      },
+      {
+       "q": "Under the Constitution of Pakistan, an arrested person must be produced before a magistrate within what time?",
+       "options": [
+        "24 hours",
+        "12 hours",
+        "48 hours",
+        "One week"
+       ],
+       "answer": 0,
+       "why": "The detailed notes on human rights in Pakistan repeat this guarantee: an arrested person must be produced before a magistrate within 24 hours."
+      },
+      {
+       "q": "The fundamental rights given by the Constitution of Pakistan are enforceable through whom?",
+       "options": [
+        "The police",
+        "The courts",
+        "Parliament alone",
+        "The United Nations"
+       ],
+       "answer": 1,
+       "why": "The notes say Pakistan's fundamental rights are enforceable by the courts, while the UN Declaration is only recommendatory."
+      },
+      {
+       "q": "The UN Declaration differs from Pakistan's constitutional rights because it is:",
+       "options": [
+        "Enforced by a UN army",
+        "Binding as a world constitution",
+        "Recommendatory in nature",
+        "Applicable only in Europe"
+       ],
+       "answer": 2,
+       "why": "The comparison in the notes concludes that the Constitution's rights are enforceable through courts while the UN Declaration is recommendatory."
+      },
+      {
+       "q": "Both the UN Declaration and the Constitution of Pakistan agree on which rights?",
+       "options": [
+        "Taxation and trade rules",
+        "Compulsory military service",
+        "One-party government",
+        "Life, liberty, equality, justice and freedom of thought and religion"
+       ],
+       "answer": 3,
+       "why": "The detailed notes end the comparison by saying both agree on life, liberty, equality, justice and freedom of thought and religion."
+      }
+     ]
+    },
+    {
+     "title": "Activities",
+     "notes_html": "<h4>Activities</h4><h4>Activity: Organise a speech competition on the Universal Declaration of Human Rights.</h4><p>Students prepare speeches on the Universal Declaration of 1948. Each speech explains one right, such as equality, freedom or justice. The class discusses how these rights are protected in Pakistan. The best speeches are selected and their points displayed in the classroom.</p><h4>Activity: Hold a discussion on the plight of human rights at the national and international level.</h4><p>Students collect examples of human rights violations from newspapers. The class discusses the situation in Pakistan and in other countries. Students suggest how citizens and governments can protect human rights. The discussion ends with practical steps students themselves can take.</p>",
+     "mcqs": [
+      {
+       "q": "The speech competition in Chapter 4's activities is on which document?",
+       "options": [
+        "The Constitution of 1973",
+        "Magna Carta",
+        "The Objectives Resolution",
+        "The Universal Declaration of Human Rights"
+       ],
+       "answer": 3,
+       "why": "The activity lesson states that students organise a speech competition on the Universal Declaration of Human Rights of 1948."
+      },
+      {
+       "q": "In the speech competition, each speech explains what?",
+       "options": [
+        "One human right",
+        "One country's history",
+        "One famous leader",
+        "One international war"
+       ],
+       "answer": 0,
+       "why": "The notes say each speech explains one right, such as equality, freedom or justice, from the Universal Declaration."
+      },
+      {
+       "q": "Which of the following is named in the activity as a right a speech may explain?",
+       "options": [
+        "Taxation",
+        "Equality",
+        "Conscription",
+        "Censorship"
+       ],
+       "answer": 1,
+       "why": "Equality, freedom and justice are the examples of rights named in the activity for the students' speeches."
+      },
+      {
+       "q": "After the speeches, the class discusses how these rights are protected where?",
+       "options": [
+        "Only at the UN headquarters",
+        "Only in European countries",
+        "In Pakistan",
+        "Only inside schools"
+       ],
+       "answer": 2,
+       "why": "The activity notes say the class discusses how the rights of the Universal Declaration are protected in Pakistan."
+      },
+      {
+       "q": "In the discussion activity, students collect examples of human rights violations from where?",
+       "options": [
+        "Story books",
+        "Novels",
+        "Dictionaries",
+        "Newspapers"
+       ],
+       "answer": 3,
+       "why": "The second activity asks students to collect examples of human rights violations from newspapers for the class discussion."
+      },
+      {
+       "q": "The discussion activity covers the human rights situation in which places?",
+       "options": [
+        "Pakistan and other countries",
+        "Only the students' own city",
+        "Only Asian countries",
+        "Only Muslim countries"
+       ],
+       "answer": 0,
+       "why": "The notes say the class discusses the plight of human rights at the national and international level, in Pakistan and in other countries."
+      },
+      {
+       "q": "In the discussion, students suggest how citizens and governments can do what?",
+       "options": [
+        "Limit human rights further",
+        "Protect human rights",
+        "Ignore violations quietly",
+        "Stop reading newspapers"
+       ],
+       "answer": 1,
+       "why": "The activity asks students to suggest how citizens and governments can protect human rights in society."
+      },
+      {
+       "q": "The discussion activity ends with what?",
+       "options": [
+        "A written examination",
+        "A prize distribution ceremony",
+        "Practical steps the students themselves can take",
+        "The display of a chart only"
+       ],
+       "answer": 2,
+       "why": "The notes say the discussion ends with practical steps students themselves can take to protect human rights."
+      },
+      {
+       "q": "Where are the main points of the best speeches displayed?",
+       "options": [
+        "In a newspaper",
+        "On the district notice board",
+        "In the school library",
+        "In the classroom"
+       ],
+       "answer": 3,
+       "why": "As in the other chapters' activities, the best speeches are selected and their points displayed in the classroom."
+      },
+      {
+       "q": "Which of these is also named in the activity as a topic for a speech?",
+       "options": [
+        "Freedom",
+        "Property tax",
+        "Voting age limits",
+        "International trade"
+       ],
+       "answer": 0,
+       "why": "Along with equality and justice, freedom is named in the activity as one of the rights a student's speech may explain."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Education System of Pakistan",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Multiple Choice Questions</h4><ul><li><strong>The English word &#x27;Education&#x27; means:</strong><br/>✓ A. Developing<br/>B. Learning<br/>C. Examining<br/>D. Moving forward</li><li><strong>The levels of education in Pakistan are:</strong><br/>A. Two<br/>B. Three<br/>✓ C. Four<br/>D. Five</li><li><strong>The discipline that holds a basic place in industrial development is:</strong><br/>✓ A. Science education<br/>B. Commerce education<br/>C. Arts education<br/>D. Law education</li><li><strong>The duration of elementary education is:</strong><br/>A. Five years<br/>B. Six years<br/>✓ C. Eight years<br/>D. Ten years</li><li><strong>Higher secondary education is also called:</strong><br/>A. Primary education<br/>✓ B. Intermediate education<br/>C. Graduate education<br/>D. Technical education</li><li><strong>Free education from elementary to higher level is provided in:</strong><br/>✓ A. Government institutes<br/>B. Private institutes<br/>C. Foreign institutes<br/>D. Religious institutes</li><li><strong>The duration of secondary education is:</strong><br/>✓ A. Two years<br/>B. Three years<br/>C. Four years<br/>D. Five years</li><li><strong>The duration of LLB after Intermediate is:</strong><br/>A. Two years<br/>B. Three years<br/>C. Four years<br/>✓ D. Five years</li><li><strong>The method of teaching in Allama Iqbal Open University is:</strong><br/>A. Regular<br/>✓ B. Distance<br/>C. Evening<br/>D. Online only</li><li><strong>&#x27;Man is a social animal&#x27; was said by:</strong><br/>✓ A. Aristotle<br/>B. Plato<br/>C. Socrates<br/>D. Rousseau</li></ul>",
+     "mcqs": [
+      {
+       "q": "According to the book, the English word 'Education' means what?",
+       "options": [
+        "Developing",
+        "Learning",
+        "Examining",
+        "Moving forward"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ lesson gives 'Developing' as the meaning of the word 'Education', the development of a person's mind and character."
+      },
+      {
+       "q": "How many levels of education are there in Pakistan, according to the book?",
+       "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson states that the levels of education in Pakistan are four, from primary up to higher education."
+      },
+      {
+       "q": "Which discipline holds a basic place in industrial development?",
+       "options": [
+        "Commerce education",
+        "Arts education",
+        "Science education",
+        "Law education"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ lesson marks science education as the discipline holding a basic place in industrial development."
+      },
+      {
+       "q": "What is the duration of elementary education in Pakistan?",
+       "options": [
+        "Five years",
+        "Six years",
+        "Ten years",
+        "Eight years"
+       ],
+       "answer": 3,
+       "why": "Elementary education lasts eight years, covering the primary and middle stages together, as the MCQ lesson states."
+      },
+      {
+       "q": "Higher secondary education is also called by which name?",
+       "options": [
+        "Intermediate education",
+        "Primary education",
+        "Graduate education",
+        "Technical education"
+       ],
+       "answer": 0,
+       "why": "The notes state that higher secondary education, classes eleven and twelve, is also called intermediate education."
+      },
+      {
+       "q": "Free education from elementary to higher level is provided in which institutes?",
+       "options": [
+        "Private institutes",
+        "Government institutes",
+        "Foreign institutes",
+        "Religious institutes"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson records that free education from elementary to higher level is provided in government institutes."
+      },
+      {
+       "q": "What is the duration of secondary education in Pakistan?",
+       "options": [
+        "Three years",
+        "Four years",
+        "Two years",
+        "Five years"
+       ],
+       "answer": 2,
+       "why": "Secondary education covers classes nine and ten, so its duration is two years, ending with the SSC examination."
+      },
+      {
+       "q": "What is the duration of the LLB degree after Intermediate?",
+       "options": [
+        "Two years",
+        "Three years",
+        "Four years",
+        "Five years"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ lesson states that the LLB after Intermediate is a five-year degree programme."
+      },
+      {
+       "q": "What is the method of teaching in Allama Iqbal Open University?",
+       "options": [
+        "Distance method",
+        "Regular method",
+        "Evening method",
+        "Online only method"
+       ],
+       "answer": 0,
+       "why": "Allama Iqbal Open University teaches by the distance method, sending lessons to students who study at home."
+      },
+      {
+       "q": "'Man is a social animal' — who said this?",
+       "options": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Rousseau"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson attributes the famous saying 'Man is a social animal' to the Greek philosopher Aristotle."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><h4>Write four objectives of education.</h4><p>Education develops the personality and character of the individual. It prepares citizens who can serve society and the country. It provides knowledge and skills needed for work and progress. It preserves culture and values and promotes national unity.</p><h4>Differentiate between vocational and general education.</h4><p>General education gives broad knowledge in languages, science and social studies. It develops thinking and prepares students for higher studies. Vocational education trains students in a particular trade or skill. It prepares them directly for a job, like plumbing, tailoring or computer work.</p><h4>What is informal education?</h4><p>Informal education is learning that takes place outside schools. A child learns manners, language and values from family and society. It has no fixed syllabus, timetable or examination. It continues throughout life through experience and observation.</p><h4>What is the concept of education?</h4><p>Education is the process of developing the mind, character and abilities of a person. The word comes from a Latin root meaning to bring up or to lead out. It includes teaching, training and the growth of values. True education makes a person useful to himself and to society.</p><h4>Classes ninth and tenth are called by which name?</h4><p>Classes ninth and tenth together are called secondary education. Secondary education lasts for two years in Pakistan. It ends with the Secondary School Certificate (SSC) examination. After SSC, students enter higher secondary or intermediate education.</p><h4>Write a short note on information technology in education.</h4><p>Information technology has changed teaching and learning in Pakistan. Computers, the internet and multimedia make lessons interesting and clear. Students can study online and access books from anywhere. Teachers use technology for presentations, tests and record keeping.</p><h4>Write a short note on the education of special persons.</h4><p>Special persons include children with hearing, sight or physical difficulties. They need special schools, trained teachers and assistive devices. Pakistan has special education centres in many districts. With proper support, special children can learn skills and live independent lives.</p><h4>What is the distance education system?</h4><p>In distance education, students study at home instead of attending classes daily. Lessons are sent by post, radio, television or the internet. Allama Iqbal Open University is the largest distance education institution in Pakistan. It allows working people and women to continue their studies.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is an objective of education, according to the notes?",
+       "options": [
+        "It only prepares students for examinations",
+        "It develops the personality and character of the individual",
+        "It only teaches languages to students",
+        "It separates people from society"
+       ],
+       "answer": 1,
+       "why": "The short-question notes list developing the personality and character of the individual first among the objectives of education."
+      },
+      {
+       "q": "Vocational education differs from general education because it:",
+       "options": [
+        "Gives only broad theoretical knowledge",
+        "Prepares students only for higher studies",
+        "Trains students in a particular trade or skill",
+        "Has no practical work at all"
+       ],
+       "answer": 2,
+       "why": "The notes explain that vocational education trains students in a particular trade or skill, like plumbing or tailoring, preparing them directly for a job."
+      },
+      {
+       "q": "Informal education takes place where?",
+       "options": [
+        "In universities",
+        "In coaching centres",
+        "In examination halls",
+        "Outside schools, in the family and society"
+       ],
+       "answer": 3,
+       "why": "Informal education is learning outside schools: a child learns manners, language and values from family and society throughout life."
+      },
+      {
+       "q": "Informal education has no fixed:",
+       "options": [
+        "Syllabus, timetable or examination",
+        "Teachers or students",
+        "Language or subject",
+        "Place or building"
+       ],
+       "answer": 0,
+       "why": "The notes state that informal education has no fixed syllabus, timetable or examination and continues through experience and observation."
+      },
+      {
+       "q": "Classes ninth and tenth together are called by which name?",
+       "options": [
+        "Elementary education",
+        "Secondary education",
+        "Intermediate education",
+        "Primary education"
+       ],
+       "answer": 1,
+       "why": "The short-question notes state that classes ninth and tenth together are called secondary education in Pakistan."
+      },
+      {
+       "q": "Secondary education ends with which examination?",
+       "options": [
+        "The Higher Secondary Certificate examination",
+        "The Bachelor's degree examination",
+        "The Secondary School Certificate (SSC) examination",
+        "The primary scholarship examination"
+       ],
+       "answer": 2,
+       "why": "The notes say secondary education lasts two years and ends with the Secondary School Certificate (SSC) examination."
+      },
+      {
+       "q": "Information technology in education allows students to:",
+       "options": [
+        "Avoid all examinations forever",
+        "Replace all their teachers",
+        "Study without any books at all",
+        "Study online and access books from anywhere"
+       ],
+       "answer": 3,
+       "why": "The notes on IT in education say students can study online and access books from anywhere, while teachers use technology for lessons and records."
+      },
+      {
+       "q": "Special persons, who need special education, include children with which difficulties?",
+       "options": [
+        "Hearing, sight or physical difficulties",
+        "Only hearing difficulties",
+        "Only sight difficulties",
+        "Only financial difficulties"
+       ],
+       "answer": 0,
+       "why": "The notes define special persons as children with hearing, sight or physical difficulties who need special schools and trained teachers."
+      },
+      {
+       "q": "In the distance education system, students study where?",
+       "options": [
+        "In regular classrooms daily",
+        "At home",
+        "In college hostels",
+        "In foreign countries"
+       ],
+       "answer": 1,
+       "why": "Distance education means students study at home instead of attending classes daily, with lessons sent by post, radio, television or internet."
+      },
+      {
+       "q": "Which is the largest distance education institution in Pakistan?",
+       "options": [
+        "University of the Punjab",
+        "University of Karachi",
+        "Allama Iqbal Open University",
+        "Quaid-i-Azam University"
+       ],
+       "answer": 2,
+       "why": "The notes state that Allama Iqbal Open University is the largest distance education institution in Pakistan."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><h4>Discuss the educational objectives of Pakistan.</h4><p>The educational objectives of Pakistan are described in the Constitution of 1973 and education policies. Education should develop students as responsible citizens in the light of Islamic ideology. It should create an effective framework for training teachers and design curricula on Quranic principles. It should use computers for effective learning, increase literacy and focus on women&#x27;s education. It should prepare students for vocational and technical education and protect the ideology of Pakistan.</p><h4>Discuss four areas of vocational education in Pakistan in detail.</h4><p>Medical Education: Doctors and paramedical staff are needed to maintain human health, so the government has set up medical colleges and universities where students are admitted after F.Sc. through an entry test, and nursing institutions train hospital staff. Engineering Education: Engineering is of paramount importance for industrial development; the minimum qualification is F.Sc., the degree takes four years, and polytechnics and engineering colleges teach civil, mechanical, electrical and mining fields. Law Education: Law education is essential for justice and order; an LLB is required to become a judge or lawyer, and five-year LLB, LLM, LLD and Sharia Law programmes are offered in universities. Agricultural Education: Pakistan is basically an agricultural country and most people live in villages; the government has set up agricultural institutions and universities to replace old cultivation methods and raise production. The chapter also covers Business and Commerce, Computer and Information Technology, Home Economics and Teacher Training.</p><h4>Discuss the stages of education in Pakistan.</h4><p>Education in Pakistan begins with primary education, classes one to five. Elementary education covers classes six to eight, and secondary covers nine and ten. Higher secondary or intermediate education covers classes eleven and twelve. After that come graduate, postgraduate and professional education in universities.</p><h4>Discuss the problems of education in Pakistan and give suggestions to solve them.</h4><p>Problems include a shortage of trained teachers and school buildings. Many children drop out because of poverty and child labour. The syllabus is often outdated and examinations encourage rote learning. Suggestions are: increase the education budget and train teachers better. Provide free books and stipends, update the syllabus and improve examination methods.</p><h4>Write a note on: Education of special persons in Pakistan, Distance Education in Pakistan, Madrassa Education System in Pakistan.</h4><p>Education of special persons: Special children need special attention, trained teachers and suitable institutions; the government promotes special education so that such children can become useful members of society. Distance Education: Allama Iqbal Open University teaches through the distance method, using books, radio, television and now online means, so that students who cannot attend regular institutions can still study. Madrassa Education System: Madrassas provide religious education and are now being brought into the mainstream by adding modern subjects, so that their students can also join general and professional fields.</p>",
+     "mcqs": [
+      {
+       "q": "Pakistan's educational objectives are described in which documents?",
+       "options": [
+        "Only the annual budget speech",
+        "Only election manifestos",
+        "The Constitution of 1973 and the education policies",
+        "Only the Five Year Plans"
+       ],
+       "answer": 2,
+       "why": "The detailed notes state that the educational objectives of Pakistan are described in the Constitution of 1973 and in education policies."
+      },
+      {
+       "q": "Education in Pakistan should develop students in the light of what?",
+       "options": [
+        "Western culture",
+        "Secular values only",
+        "Regional customs only",
+        "Islamic ideology"
+       ],
+       "answer": 3,
+       "why": "The notes say education should develop students as responsible citizens in the light of Islamic ideology and protect that ideology."
+      },
+      {
+       "q": "Students are admitted to medical colleges after which qualification?",
+       "options": [
+        "F.Sc., through an entry test",
+        "Matric, without any test",
+        "B.Sc., through an interview only",
+        "M.A., through a lottery"
+       ],
+       "answer": 0,
+       "why": "The detailed notes state that students are admitted to medical colleges and universities after F.Sc. through an entry test."
+      },
+      {
+       "q": "What is the minimum qualification for engineering education?",
+       "options": [
+        "Matric",
+        "F.Sc.",
+        "B.Com",
+        "F.A. only"
+       ],
+       "answer": 1,
+       "why": "The notes state that the minimum qualification for engineering education is F.Sc., and the degree takes four years."
+      },
+      {
+       "q": "The engineering degree takes how long to complete?",
+       "options": [
+        "Two years",
+        "Three years",
+        "Four years",
+        "Five years"
+       ],
+       "answer": 2,
+       "why": "According to the detailed notes, the engineering degree takes four years in polytechnics and engineering colleges."
+      },
+      {
+       "q": "An LLB degree is required to become what?",
+       "options": [
+        "A doctor",
+        "An engineer",
+        "A school teacher",
+        "A judge or lawyer"
+       ],
+       "answer": 3,
+       "why": "The notes on law education state that an LLB is required to become a judge or lawyer, with LLM, LLD and Sharia programmes also offered."
+      },
+      {
+       "q": "Why has the government set up agricultural institutions and universities?",
+       "options": [
+        "To replace old cultivation methods and raise production",
+        "To reduce farming in villages",
+        "To import more food from abroad",
+        "To close down village schools"
+       ],
+       "answer": 0,
+       "why": "The notes say agricultural institutions were set up to replace old cultivation methods with modern ones and raise production in this agricultural country."
+      },
+      {
+       "q": "In the stages of education described in the notes, elementary education covers which classes?",
+       "options": [
+        "Classes one to five",
+        "Classes six to eight",
+        "Classes nine and ten",
+        "Classes eleven and twelve"
+       ],
+       "answer": 1,
+       "why": "The detailed notes describe the stages as: primary education classes one to five, elementary education classes six to eight, and secondary classes nine and ten."
+      },
+      {
+       "q": "Higher secondary (intermediate) education covers which classes?",
+       "options": [
+        "Classes nine and ten",
+        "Classes six to eight",
+        "Classes eleven and twelve",
+        "Classes one to five"
+       ],
+       "answer": 2,
+       "why": "The detailed notes state that higher secondary or intermediate education covers classes eleven and twelve, after secondary classes nine and ten."
+      },
+      {
+       "q": "Which of the following is listed in the notes as a problem of education in Pakistan?",
+       "options": [
+        "There are too many trained teachers",
+        "Free books are given to every student",
+        "The education budget is more than enough",
+        "Examinations encourage rote learning"
+       ],
+       "answer": 3,
+       "why": "The notes list outdated syllabus and examinations encouraging rote learning among the problems, along with teacher shortages and dropouts due to poverty."
+      }
+     ]
+    },
+    {
+     "title": "Activities",
+     "notes_html": "<h4>Activities</h4><h4>Activity: Hold a dialogue relating the general education system of Pakistan with professional, vocational, special, Madrassa and distance education.</h4><p>Students discuss how general education connects with other systems of education. Each group presents one system: professional, vocational, special, Madrassa or distance education. The class compares their aims, methods and students. The dialogue shows that all systems together complete the education system of Pakistan.</p><h4>Activity: Tell the students about Early Childhood Care and Education.</h4><p>The teacher explains that early childhood care and education covers the early years of a child. Students learn how play, health care and basic learning prepare a child for school. Examples from homes and schools are discussed in the class. The activity shows why early years are the foundation of later education.</p>",
+     "mcqs": [
+      {
+       "q": "The dialogue activity of Chapter 5 relates general education with how many other systems?",
+       "options": [
+        "Two other systems",
+        "Three other systems",
+        "Four other systems",
+        "Five other systems"
+       ],
+       "answer": 3,
+       "why": "The activity names five systems — professional, vocational, special, Madrassa and distance education — that each group relates with general education."
+      },
+      {
+       "q": "In the dialogue activity, each group of students presents what?",
+       "options": [
+        "One system of education",
+        "One school subject",
+        "One school building",
+        "One education policy"
+       ],
+       "answer": 0,
+       "why": "The notes say each group presents one system: professional, vocational, special, Madrassa or distance education."
+      },
+      {
+       "q": "The dialogue activity shows that all the systems together do what?",
+       "options": [
+        "Compete against each other",
+        "Complete the education system of Pakistan",
+        "Replace general education",
+        "Serve only the big cities"
+       ],
+       "answer": 1,
+       "why": "The activity concludes that all systems together complete the education system of Pakistan."
+      },
+      {
+       "q": "Early Childhood Care and Education covers which period of life?",
+       "options": [
+        "The university years",
+        "Classes nine and ten",
+        "The early years of a child",
+        "The years of teacher training"
+       ],
+       "answer": 2,
+       "why": "The second activity explains that early childhood care and education covers the early years of a child's life before and at the start of schooling."
+      },
+      {
+       "q": "According to the activity, what prepares a young child for school?",
+       "options": [
+        "Examinations and heavy homework",
+        "Rote learning of long lessons",
+        "Long lectures by teachers",
+        "Play, health care and basic learning"
+       ],
+       "answer": 3,
+       "why": "The notes say students learn how play, health care and basic learning prepare a child for school in the early years."
+      },
+      {
+       "q": "The early years of a child are described in the activity as what for later education?",
+       "options": [
+        "The foundation",
+        "A burden",
+        "An obstacle",
+        "An unimportant period"
+       ],
+       "answer": 0,
+       "why": "The activity shows why the early years are the foundation of later education, so they need proper care and learning."
+      },
+      {
+       "q": "In the ECCE activity, examples are discussed from which places?",
+       "options": [
+        "Hospitals only",
+        "Homes and schools",
+        "Offices and factories",
+        "Playgrounds only"
+       ],
+       "answer": 1,
+       "why": "The notes say examples from homes and schools are discussed in the class during the early childhood education activity."
+      },
+      {
+       "q": "Which of the five systems in the dialogue teaches students at their homes?",
+       "options": [
+        "Vocational education",
+        "Special education",
+        "Distance education",
+        "Madrassa education"
+       ],
+       "answer": 2,
+       "why": "Distance education, represented by Allama Iqbal Open University in this chapter, lets students study at home instead of attending daily classes."
+      },
+      {
+       "q": "Which of the five systems in the dialogue trains students in a trade or skill?",
+       "options": [
+        "Distance education",
+        "Early childhood education",
+        "General education only",
+        "Vocational education"
+       ],
+       "answer": 3,
+       "why": "Vocational education is the system that trains students in a particular trade or skill and prepares them directly for a job."
+      },
+      {
+       "q": "During the dialogue, the class compares the systems' what?",
+       "options": [
+        "Their aims, methods and students",
+        "Their fees and buildings",
+        "Their teachers' salaries",
+        "Their examination dates"
+       ],
+       "answer": 0,
+       "why": "The activity notes say the class compares the aims, methods and students of the different systems of education."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Sports and Tourism",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Multiple Choice Questions</h4><ul><li><strong>Pakistan got permission from the ICC for cricket competitions in:</strong><br/>A. 1947<br/>✓ B. 1952<br/>C. 1956<br/>D. 1960</li><li><strong>When Pakistan first became the international hockey champion, its captain was:</strong><br/>✓ A. Khalid Mehmood<br/>B. Akhtar-ul-Islam<br/>C. Sami Ullah<br/>D. Hassan Sardar</li><li><strong>Pakistan won the first International Cricket Cup against:</strong><br/>A. Australia<br/>B. India<br/>C. West Indies<br/>✓ D. England</li><li><strong>PTDC came into being in:</strong><br/>A. 1970<br/>✓ B. 1972<br/>C. 1974<br/>D. 1976</li><li><strong>In 1962, Tamgha-e-Imtiaz was awarded to:</strong><br/>A. Imam Bakhash<br/>B. Jhara<br/>✓ C. Bholu<br/>D. Gama</li><li><strong>Which capability of a child increases prominently by playing a drama?</strong><br/>A. Leadership<br/>✓ B. Linguistics<br/>C. Sportsmanship<br/>D. Patience</li><li><strong>The institution responsible for cricket at the international level is:</strong><br/>✓ A. ICC<br/>B. PCB<br/>C. FIFA<br/>D. IOC</li><li><strong>Qutab-ud-Din Aibak died while playing:</strong><br/>A. Hockey<br/>B. Cricket<br/>✓ C. Polo<br/>D. Kabaddi</li><li><strong>The institution established to develop tourism in Pakistan is:</strong><br/>✓ A. PTDC<br/>B. PIA<br/>C. TDCP<br/>D. NHA</li><li><strong>Masjid Wazeer Khan is located in:</strong><br/>A. Multan<br/>B. Karachi<br/>✓ C. Lahore<br/>D. Peshawar</li></ul>",
+     "mcqs": [
+      {
+       "q": "In which year did Pakistan get permission from the ICC for cricket competitions?",
+       "options": [
+        "1952",
+        "1947",
+        "1956",
+        "1960"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ lesson states that the ICC gave Pakistan permission for cricket competitions in 1952, the year of its first Test match."
+      },
+      {
+       "q": "Who was the captain when Pakistan first became international hockey champion?",
+       "options": [
+        "Akhtar-ul-Islam",
+        "Khalid Mehmood",
+        "Sami Ullah",
+        "Hassan Sardar"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson records Khalid Mehmood as the captain when Pakistan first became international hockey champion."
+      },
+      {
+       "q": "Pakistan won its first International Cricket Cup (World Cup) by defeating which country?",
+       "options": [
+        "Australia",
+        "India",
+        "England",
+        "West Indies"
+       ],
+       "answer": 2,
+       "why": "The notes state that Pakistan won the Cricket World Cup against England, the same final described in detail in this chapter."
+      },
+      {
+       "q": "PTDC, the tourism corporation, came into being in which year?",
+       "options": [
+        "1970",
+        "1974",
+        "1976",
+        "1972"
+       ],
+       "answer": 3,
+       "why": "The MCQ lesson records that PTDC came into being in 1972 to develop and promote tourism in Pakistan."
+      },
+      {
+       "q": "Which wrestler was awarded Tamgha-e-Imtiaz in 1962?",
+       "options": [
+        "Bholu",
+        "Imam Bakhash",
+        "Jhara",
+        "Gama"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ lesson states that Bholu Pehlwan was awarded Tamgha-e-Imtiaz in 1962; he had won the Rustam-e-Pakistan title in 1949."
+      },
+      {
+       "q": "Playing a drama prominently increases which capability of a child?",
+       "options": [
+        "Leadership",
+        "Linguistic (language) capability",
+        "Sportsmanship",
+        "Patience"
+       ],
+       "answer": 1,
+       "why": "The MCQ lesson marks linguistic capability as the one that increases prominently when a child takes part in a drama."
+      },
+      {
+       "q": "Which institution is responsible for cricket at the international level?",
+       "options": [
+        "PCB",
+        "FIFA",
+        "ICC",
+        "IOC"
+       ],
+       "answer": 2,
+       "why": "The International Cricket Council (ICC) is responsible for cricket at the international level; the PCB manages it within Pakistan."
+      },
+      {
+       "q": "Qutab-ud-Din Aibak died while playing which game?",
+       "options": [
+        "Hockey",
+        "Cricket",
+        "Kabaddi",
+        "Polo"
+       ],
+       "answer": 3,
+       "why": "The MCQ lesson records that Qutab-ud-Din Aibak died while playing polo, a game still famous at Shandur in Pakistan."
+      },
+      {
+       "q": "Which institution was established to develop tourism in Pakistan?",
+       "options": [
+        "PTDC",
+        "PIA",
+        "TDCP",
+        "NHA"
+       ],
+       "answer": 0,
+       "why": "The Pakistan Tourism Development Corporation (PTDC) is the institution established to develop tourism in Pakistan."
+      },
+      {
+       "q": "Masjid Wazeer Khan, a famous tourist site, is located in which city?",
+       "options": [
+        "Multan",
+        "Lahore",
+        "Karachi",
+        "Peshawar"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ lesson places Masjid Wazeer Khan in Lahore, the city of the Badshahi Mosque and Lahore Fort."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><h4>What are the mental benefits of sports?</h4><p>Sports reduce stress and anxiety and improve mood. They build confidence, discipline and the spirit of teamwork. Games teach players to accept victory and defeat gracefully. They sharpen the mind through quick decisions and strategy.</p><h4>Name the four prominent wrestlers of Pakistan.</h4><p>The four prominent wrestlers are Gama Pehlwan, Bholu Pehlwan. Imam Bakhsh Pehlwan and Jhara Pehlwan are the other two. They made Pakistan famous in wrestling in South Asia. Their matches drew huge crowds and inspired young wrestlers.</p><h4>What is the purpose of PTDC?</h4><p>The Pakistan Tourism Development Corporation (PTDC) promotes tourism in Pakistan. It develops tourist resorts, hotels and transport for visitors. It publicises the historical and natural beauty of Pakistan abroad. It earns foreign exchange and creates jobs for local people.</p><h4>Write two problems of tourism in Pakistan.</h4><p>Poor roads, hotels and transport make travel difficult for tourists. Security concerns and a weak international image reduce the number of visitors. There is also a shortage of trained guides and tourist information. These problems limit the income Pakistan earns from tourism.</p><h4>Write two suggestions to promote tourism in Pakistan.</h4><p>The government should build better roads, hotels and rest houses at tourist places. Pakistan&#x27;s historical sites and northern valleys should be advertised abroad. Tourist police and guides should be trained to help visitors. Visa rules for tourists should be made simple and friendly.</p><h4>In which countries is Kabaddi popular?</h4><p>Kabaddi is popular in Pakistan, India and Bangladesh. It is also played in Iran, Nepal and Sri Lanka. It is the national game of Bangladesh and a popular rural sport in Punjab. International Kabaddi tournaments are now held regularly in Asia.</p><h4>How many Hockey World Cups has Pakistan won, and in which years?</h4><p>Pakistan has won the Hockey World Cup four times. It won in 1971, 1978, 1982 and 1994. No other country has won the World Cup four times. Pakistan is therefore the most successful team in World Cup history.</p><h4>How many Olympic hockey championships has Pakistan won, and in which years?</h4><p>Pakistan has won the Olympic hockey gold medal three times. It won in 1960 at Rome, in 1968 at Mexico City and in 1984 at Los Angeles. These victories made Pakistan a world power in hockey. The 1960 victory broke India&#x27;s long Olympic winning streak.</p><h4>How is the Malakhara game played?</h4><p>Malakhara is a popular Sindhi wrestling game, like Japanese Sumo wrestling. It is an effort to defeat the opponent by making him fall while he is standing. Malakhra wrestlers show their skill at melas throughout Sindh and win appreciation. Thousands of people from distant areas come to watch this cultural game.</p><h4>Describe the relationship between sports and tourism.</h4><p>Sports and tourism are both healthy activities that give discipline, courage, passion and mental peace. Sports events attract tourists, such as the Shandur Polo tournament watched by visitors from the whole world. Tourists learn the history and geography of the places they visit and enjoy local games. Both activities build personality, a healthy society and the economy of the country.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is a mental benefit of sports?",
+       "options": [
+        "They increase stress and worry",
+        "They reduce stress and anxiety and improve mood",
+        "They make players careless",
+        "They weaken the mind"
+       ],
+       "answer": 1,
+       "why": "The short-question notes list reducing stress and anxiety and improving mood among the mental benefits of sports, along with confidence and discipline."
+      },
+      {
+       "q": "Which of the following is one of the four prominent wrestlers of Pakistan named in the notes?",
+       "options": [
+        "Jahangir Khan",
+        "Muhammad Yusuf",
+        "Gama Pehlwan",
+        "Ahsan Ramadan"
+       ],
+       "answer": 2,
+       "why": "The four prominent wrestlers named are Gama, Bholu, Imam Bakhsh and Jhara Pehlwan; the other names belong to squash and snooker."
+      },
+      {
+       "q": "What is the purpose of the PTDC?",
+       "options": [
+        "To run cricket in Pakistan",
+        "To build roads only",
+        "To train wrestlers",
+        "To promote tourism in Pakistan"
+       ],
+       "answer": 3,
+       "why": "The notes state that the Pakistan Tourism Development Corporation promotes tourism, develops resorts and hotels and publicises Pakistan's beauty abroad."
+      },
+      {
+       "q": "Which of the following is a problem of tourism in Pakistan, according to the notes?",
+       "options": [
+        "Poor roads, hotels and transport for tourists",
+        "Far too many tourists visiting",
+        "An excess of trained guides",
+        "Very low prices everywhere"
+       ],
+       "answer": 0,
+       "why": "The short-question notes name poor roads, hotels and transport, security concerns and a shortage of trained guides as problems of tourism."
+      },
+      {
+       "q": "Which is a suggestion given in the notes to promote tourism in Pakistan?",
+       "options": [
+        "Close the tourist places to foreigners",
+        "Advertise the historical sites and northern valleys abroad",
+        "Make visa rules stricter",
+        "Reduce the number of hotels"
+       ],
+       "answer": 1,
+       "why": "The notes suggest advertising Pakistan's historical sites and northern valleys abroad, improving facilities and making visa rules simple and friendly."
+      },
+      {
+       "q": "Kabaddi is the national game of which country, according to the notes?",
+       "options": [
+        "Pakistan",
+        "India",
+        "Bangladesh",
+        "Iran"
+       ],
+       "answer": 2,
+       "why": "The short-question notes state that Kabaddi is the national game of Bangladesh and a popular rural sport in Punjab."
+      },
+      {
+       "q": "How many times has Pakistan won the Hockey World Cup?",
+       "options": [
+        "Two times",
+        "Three times",
+        "Five times",
+        "Four times"
+       ],
+       "answer": 3,
+       "why": "Pakistan won the Hockey World Cup in 1971, 1978, 1982 and 1994 — four times, more than any other country."
+      },
+      {
+       "q": "Pakistan's 1960 Olympic hockey gold medal was won at which city?",
+       "options": [
+        "Rome",
+        "Mexico City",
+        "Los Angeles",
+        "Sydney"
+       ],
+       "answer": 0,
+       "why": "The notes record Olympic hockey golds in 1960 at Rome, 1968 at Mexico City and 1984 at Los Angeles; the Rome win broke India's long winning streak."
+      },
+      {
+       "q": "Malakhara is a traditional wrestling game of which culture?",
+       "options": [
+        "Punjabi culture",
+        "Sindhi culture",
+        "Balochi culture",
+        "Pashtun culture"
+       ],
+       "answer": 1,
+       "why": "The notes describe Malakhara as a popular Sindhi wrestling game, shown at melas throughout Sindh."
+      },
+      {
+       "q": "Malakhara is compared in the notes to which Japanese game?",
+       "options": [
+        "Judo",
+        "Karate",
+        "Sumo wrestling",
+        "Kendo"
+       ],
+       "answer": 2,
+       "why": "The short-question notes say Malakhara is like Japanese Sumo wrestling: the wrestler tries to make his standing opponent fall."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><h4>Discuss the importance of sports in human life.</h4><p>Sports keep the body healthy and protect against disease. They teach discipline, punctuality and respect for rules. Team games develop cooperation, leadership and sportsmanship. Sports also provide entertainment and bring nations closer through competitions.</p><h4>Give an overview of Pakistan&#x27;s performance in Hockey and Cricket.</h4><p>Hockey: Pakistan won the Hockey World Cup four times, in 1971 at Barcelona, 1978 at Buenos Aires, 1982 in India and 1994 at Sydney. Pakistan won three Olympic gold medals, in 1960 at Rome, 1968 at Mexico and 1984 at Los Angeles, besides three silver and two bronze medals. Cricket: The International Cricket Council allowed Pakistan to play international cricket in 1952, and Pakistan played its first Test against India at Delhi on 16 October 1952. Pakistan won the Cricket World Cup in 1992 against England, scoring 249 runs while England were bowled out for 227, with Wasim Akram as Player of the Match. Pakistan has also won the T20 World Cup once and the Champions Trophy once.</p><h4>Discuss Pakistan&#x27;s performance in Squash and Snooker.</h4><p>Squash: Jahangir Khan and Jansher Khan made Pakistan famous in squash, and Pakistan produced seven British Open champions, though no Pakistani reached a British Open final after 1997. Snooker: Muhammad Yusuf won the IBSF World Snooker Championship at Johannesburg in 1994, beating Johnson of Iceland 11-9. Muhammad Asif won a medal at Dubai in 2012 and the IBSF World Snooker Championship at Sofia, besides the IBSF World Six Red Team Championship at Carlow, Ireland in 2013 with Muhammad Sajjad. Ahsan Ramadan became the youngest world champion at the age of 16 in March 2022.</p><h4>Discuss the status of any three indigenous (Desi) sports of Pakistan.</h4><p>Kabaddi: Kabaddi is mostly played in the villages of Punjab and also in India, Canada, America, Iran, England and Sri Lanka; the first Kabaddi World Cup was held in 2010 and won by India, while Pakistan got success in the Kabaddi World Cup of 2020. Malakhra: Malakhra is a popular Sindhi wrestling game like Japanese Sumo, in which the wrestler tries to make his opponent fall while standing, and it is shown at melas throughout Sindh. Wrestling: The golden period of Pakistani wrestling runs from Muhammad Azeem Gama Pehlwan to Imam Bakhash and Manzoor Ahmad Bholu Pehlwan, who dominated world wrestlers; Bholu Pehlwan won the title of Rustam-e-Pakistan in 1949 and was awarded Tamgha-e-Imtiaz in 1962.</p><h4>Discuss the problems of tourism in Pakistan and give suggestions for their solution.</h4><p>Problems: There is lack of transportation for tourists, terrorism from which foreign tourists feel insecure, lack of infrastructure, inadequate accommodation at tourist destinations, lack of government patronage and negligence of concerned agencies. Suggestions: The transport system should be improved and law and order made satisfactory by controlling terrorism. Cleanliness at touring places should meet international standards and accommodation should be available at cheap rates. Where possible, chair lifts should be provided in hilly areas, and more funds should be given to the Tourism Development Corporation so that tourist places can be developed.</p><h4>Write a note on the tourist places of Pakistan.</h4><p>Pakistan has the northern valleys of Hunza, Swat and Naran with snow-capped peaks. It has historical places like Lahore Fort, Badshahi Mosque and Mohenjo-Daro. The beaches of Karachi and the deserts of Thar attract many visitors. The Kalash valley, Murree and Ziarat are famous for their natural beauty and culture.</p>",
+     "mcqs": [
+      {
+       "q": "Sports teach a person which qualities, according to the detailed notes?",
+       "options": [
+        "Carelessness and delay",
+        "Hatred of opponents",
+        "Discipline, punctuality and respect for rules",
+        "Laziness and comfort"
+       ],
+       "answer": 2,
+       "why": "The detailed notes say sports keep the body healthy and teach discipline, punctuality and respect for rules, besides cooperation and sportsmanship."
+      },
+      {
+       "q": "Pakistan won the 1994 Hockey World Cup at which city?",
+       "options": [
+        "Barcelona",
+        "Buenos Aires",
+        "Rome",
+        "Sydney"
+       ],
+       "answer": 3,
+       "why": "The notes list the World Cup wins as 1971 at Barcelona, 1978 at Buenos Aires, 1982 in India and 1994 at Sydney."
+      },
+      {
+       "q": "Pakistan played its first Test cricket match against India on which date?",
+       "options": [
+        "16 October 1952",
+        "14 August 1947",
+        "16 October 1956",
+        "23 March 1952"
+       ],
+       "answer": 0,
+       "why": "The detailed notes record that Pakistan played its first Test against India at Delhi on 16 October 1952."
+      },
+      {
+       "q": "How many runs did Pakistan score in the 1992 Cricket World Cup final?",
+       "options": [
+        "227 runs",
+        "249 runs",
+        "239 runs",
+        "259 runs"
+       ],
+       "answer": 1,
+       "why": "The notes state that Pakistan scored 249 runs in the 1992 final while England were bowled out for 227."
+      },
+      {
+       "q": "Who was the Player of the Match in the 1992 Cricket World Cup final?",
+       "options": [
+        "Imran Khan",
+        "Javed Miandad",
+        "Wasim Akram",
+        "Inzamam-ul-Haq"
+       ],
+       "answer": 2,
+       "why": "The detailed notes name Wasim Akram as the Player of the Match in the 1992 World Cup final against England."
+      },
+      {
+       "q": "Muhammad Yusuf won the IBSF World Snooker Championship in which year?",
+       "options": [
+        "2012",
+        "2013",
+        "2022",
+        "1994"
+       ],
+       "answer": 3,
+       "why": "The notes record that Muhammad Yusuf won the IBSF World Snooker Championship at Johannesburg in 1994, beating Johnson of Iceland 11-9."
+      },
+      {
+       "q": "Ahsan Ramadan became the youngest world snooker champion at what age?",
+       "options": [
+        "16 years",
+        "14 years",
+        "18 years",
+        "21 years"
+       ],
+       "answer": 0,
+       "why": "The detailed notes state that Ahsan Ramadan became the youngest world champion at the age of 16 in March 2022."
+      },
+      {
+       "q": "The first Kabaddi World Cup was held in which year, and who won it?",
+       "options": [
+        "2010, won by Pakistan",
+        "2010, won by India",
+        "2020, won by India",
+        "1994, won by India"
+       ],
+       "answer": 1,
+       "why": "The notes on indigenous sports state that the first Kabaddi World Cup was held in 2010 and won by India; Pakistan succeeded in the 2020 Cup."
+      },
+      {
+       "q": "Bholu Pehlwan won the title of Rustam-e-Pakistan in which year?",
+       "options": [
+        "1962",
+        "1952",
+        "1949",
+        "1971"
+       ],
+       "answer": 2,
+       "why": "The detailed notes state that Bholu Pehlwan won the Rustam-e-Pakistan title in 1949 and was awarded Tamgha-e-Imtiaz in 1962."
+      },
+      {
+       "q": "Which tourist places are named together in the notes as Pakistan's northern valleys?",
+       "options": [
+        "Only the Thar desert",
+        "Only the Karachi beaches",
+        "Only the plains of Punjab",
+        "Hunza, Swat and Naran"
+       ],
+       "answer": 3,
+       "why": "The note on tourist places names the northern valleys of Hunza, Swat and Naran with their snow-capped peaks as famous tourist attractions."
+      }
+     ]
+    },
+    {
+     "title": "Activities",
+     "notes_html": "<h4>Activities</h4><h4>Activity for the Teacher: Tell the students about wrestling and show them a video if possible.</h4><p>The teacher tells the class about the famous wrestlers of Pakistan, such as Gama, Imam Bakhash, Bholu and Jhara Pehlwan. A video of wrestling is shown to the students if possible. Students discuss the golden period of Pakistani wrestling and its present condition. The activity creates interest in the traditional sports of the country.</p><h4>Activity for the Teacher: Prepare a chart of the World Kabaddi Cups, showing where they were held and who won them.</h4><p>Students collect information about the Kabaddi World Cups held so far. They prepare a chart showing the year, the venue and the winning country of each Cup. The chart is displayed in the classroom. The activity teaches students to organise sports information in a clear form.</p><h4>Activity for the Teacher: Ask the students to point out historical and tourist sites on a map.</h4><p>Students take a map of Pakistan and mark historical and tourist places on it. They point out places such as Lahore Fort, Badshahi Masjid, Mohenjo Daro and the valleys of Swat and Kaghan. Each student tells the class one fact about a place he has marked. The activity improves map reading and knowledge of the country.</p><h4>Activity for the Students: Get information about Archery and Gullidanda from your parents and exchange it with your classmates.</h4><p>Students ask their parents about Archery and Gullidanda, two traditional games. They note how each game is played and where it is popular. In the class, students exchange this information with one another. The activity connects classroom learning with family knowledge.</p>",
+     "mcqs": [
+      {
+       "q": "In Chapter 6's teacher activity, the students are told about which sport?",
+       "options": [
+        "Squash",
+        "Snooker",
+        "Hockey",
+        "Wrestling"
+       ],
+       "answer": 3,
+       "why": "The first activity asks the teacher to tell the students about wrestling and show them a video of it if possible."
+      },
+      {
+       "q": "Which wrestler is named in the wrestling activity?",
+       "options": [
+        "Gama Pehlwan",
+        "Jahangir Khan",
+        "Muhammad Asif",
+        "Ahsan Ramadan"
+       ],
+       "answer": 0,
+       "why": "The activity names the famous wrestlers Gama, Imam Bakhash, Bholu and Jhara Pehlwan for the teacher's talk."
+      },
+      {
+       "q": "The Kabaddi World Cup chart prepared by students shows the year, the venue and what else?",
+       "options": [
+        "The number of players",
+        "The winning country",
+        "The prize money",
+        "The names of the captains"
+       ],
+       "answer": 1,
+       "why": "The notes say the chart shows where each Kabaddi World Cup was held and who won it, along with the year."
+      },
+      {
+       "q": "Where is the completed Kabaddi chart displayed?",
+       "options": [
+        "In the playground",
+        "In the school library",
+        "In the classroom",
+        "At the stadium"
+       ],
+       "answer": 2,
+       "why": "The activity states that the chart of World Kabaddi Cups is displayed in the classroom."
+      },
+      {
+       "q": "In the map activity, students point out which kind of places on the map of Pakistan?",
+       "options": [
+        "Only the rivers of Pakistan",
+        "Only the mountain ranges",
+        "Only district headquarters",
+        "Historical and tourist sites"
+       ],
+       "answer": 3,
+       "why": "The activity asks students to mark historical and tourist places such as Lahore Fort, Badshahi Masjid and Mohenjo Daro on the map."
+      },
+      {
+       "q": "Which of the following sites is named in the map activity?",
+       "options": [
+        "Mohenjo Daro",
+        "Harappa",
+        "Rohtas Fort",
+        "Makli Necropolis"
+       ],
+       "answer": 0,
+       "why": "Mohenjo Daro is one of the places named in the activity, together with Lahore Fort, Badshahi Masjid and the valleys of Swat and Kaghan."
+      },
+      {
+       "q": "The map activity is meant to improve which of the students' abilities?",
+       "options": [
+        "Only drawing skill",
+        "Map reading and knowledge of the country",
+        "Only memorisation of dates",
+        "Only public speaking"
+       ],
+       "answer": 1,
+       "why": "The notes say the activity improves map reading and the students' knowledge of their country."
+      },
+      {
+       "q": "For the last activity, students get information about Archery and Gullidanda from whom?",
+       "options": [
+        "The internet",
+        "Their textbooks",
+        "Their parents",
+        "The school librarian"
+       ],
+       "answer": 2,
+       "why": "The activity for students asks them to get information about Archery and Gullidanda from their parents and exchange it with classmates."
+      },
+      {
+       "q": "Archery and Gullidanda are described in the activity as what kind of games?",
+       "options": [
+        "Modern Olympic games",
+        "Indoor board games",
+        "Foreign games",
+        "Traditional games"
+       ],
+       "answer": 3,
+       "why": "The notes call Archery and Gullidanda two traditional games, connecting classroom learning with family knowledge."
+      },
+      {
+       "q": "What do students do with the information they collect about these two games?",
+       "options": [
+        "Exchange it with one another in the class",
+        "Write a formal examination on it",
+        "Send it to the district office",
+        "Keep it secret from classmates"
+       ],
+       "answer": 0,
+       "why": "The activity concludes with students exchanging the information about Archery and Gullidanda with one another in the class."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
