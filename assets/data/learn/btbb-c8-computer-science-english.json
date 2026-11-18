@@ -1,0 +1,3752 @@
+{
+ "book": "btbb-c8-computer-science-english",
+ "chapters": [
+  {
+   "title": "Unit 1: ICT Fundamentals",
+   "lessons": [
+    {
+     "title": "Artificial Intelligence and Machine Learning",
+     "notes_html": "<p><strong>Artificial Intelligence (AI)</strong> is the ability of a computer or machine to perform tasks that typically require human intelligence. These tasks include understanding language, recognizing images, solving problems and making decisions.</p><h4>Where AI Is Used</h4><ul><li><strong>Healthcare</strong>, <strong>finance</strong> and <strong>education</strong> — AI improves efficiency, accuracy and decision-making.</li><li><strong>Transportation</strong> and <strong>entertainment</strong> also use AI in daily life.</li></ul><h4>Machine Learning (ML)</h4><p><strong>Machine Learning</strong> is a branch of AI that enables computers to learn from data and improve their performance on tasks <strong>without being explicitly programmed</strong>. Instead of following fixed instructions, ML algorithms analyze patterns in data to make <strong>predictions or decisions</strong>.</p><h4>ML in Daily Life</h4><ul><li>Recommendations on <strong>Netflix</strong> and <strong>Amazon</strong>.</li><li>Image and speech recognition, such as <strong>Siri</strong> and <strong>Google Assistant</strong>.</li><li><strong>Fraud detection</strong> by banks.</li><li><strong>Self-driving cars</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What is Artificial Intelligence (AI)?",
+       "options": [
+        "A machine that works without electricity",
+        "The ability of a computer or machine to perform tasks that typically require human intelligence",
+        "A computer game played against the computer",
+        "A robot that looks exactly like a human"
+       ],
+       "answer": 1,
+       "why": "The unit defines AI as the ability of a computer or machine to perform tasks that typically require human intelligence, such as understanding language, recognizing images, solving problems and making decisions."
+      },
+      {
+       "q": "Which of these tasks is an example of AI at work?",
+       "options": [
+        "Printing a document on paper",
+        "Storing files on a hard disk",
+        "Recognizing images and understanding language",
+        "Charging a mobile phone battery"
+       ],
+       "answer": 2,
+       "why": "Understanding language and recognizing images are listed in the unit as tasks that require human intelligence, so a machine doing them is showing artificial intelligence."
+      },
+      {
+       "q": "Machine Learning (ML) is a branch of which field?",
+       "options": [
+        "Artificial Intelligence (AI)",
+        "Robotics",
+        "Blockchain technology",
+        "Virtual Reality"
+       ],
+       "answer": 0,
+       "why": "The solved answers state that Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data and improve their performance on tasks."
+      },
+      {
+       "q": "How do ML algorithms improve their performance?",
+       "options": [
+        "By following only fixed instructions typed by the user",
+        "By copying answers from the internet",
+        "By using faster hardware only",
+        "By analyzing patterns in data to make predictions or decisions"
+       ],
+       "answer": 3,
+       "why": "Instead of following specific instructions, ML algorithms analyze patterns in data to make predictions or decisions, which is how they learn and improve without explicit programming."
+      },
+      {
+       "q": "Which of these is an example of ML in daily life?",
+       "options": [
+        "Typing a letter in a word processor",
+        "Recommendations on Netflix and Amazon",
+        "Saving a photo in a folder",
+        "Connecting a printer with a cable"
+       ],
+       "answer": 1,
+       "why": "The unit lists recommendations on Netflix and Amazon, image and speech recognition such as Siri and Google Assistant, fraud detection by banks and self-driving cars as daily-life uses of ML."
+      },
+      {
+       "q": "In Machine Learning, algorithms analyze patterns in data to make predictions or ___.",
+       "options": [
+        "calculations",
+        "observations",
+        "decisions",
+        "suggestions"
+       ],
+       "answer": 2,
+       "why": "This is the book's own fill-in-the-blank: in ML, algorithms analyze patterns in data to make predictions or decisions, exactly as the exercise answer gives."
+      },
+      {
+       "q": "Which voice assistants are given as examples of speech recognition using ML?",
+       "options": [
+        "Alexa and Cortana only",
+        "Nest and Trados",
+        "Oculus Quest and Netflix",
+        "Siri and Google Assistant"
+       ],
+       "answer": 3,
+       "why": "The solved answer names Siri and Google Assistant as examples of image and speech recognition in daily life that rely on machine learning."
+      },
+      {
+       "q": "How do banks use Machine Learning?",
+       "options": [
+        "For fraud detection",
+        "For printing bank statements",
+        "For building bank branches",
+        "For counting cash in drawers"
+       ],
+       "answer": 0,
+       "why": "Fraud detection by banks is one of the daily-life uses of ML listed in the unit, because ML can spot unusual patterns in transactions."
+      },
+      {
+       "q": "True or False: ML algorithms require explicit programming to improve their performance on tasks.",
+       "options": [
+        "True",
+        "Only for games",
+        "False",
+        "Only for robots"
+       ],
+       "answer": 2,
+       "why": "The statement is false: ML enables computers to learn from data and improve performance without being explicitly programmed, which is the whole idea of machine learning."
+      },
+      {
+       "q": "AI is used in which of the following areas?",
+       "options": [
+        "Only in video games",
+        "Healthcare, finance, education, transportation and entertainment",
+        "Only in factories",
+        "Only in mobile phones"
+       ],
+       "answer": 1,
+       "why": "The unit states that AI is used in healthcare, finance, education, transportation and entertainment to enhance efficiency, accuracy and decision-making."
+      }
+     ]
+    },
+    {
+     "title": "5G Technology and the Internet of Things",
+     "notes_html": "<p><strong>5G</strong> stands for the <strong>fifth generation</strong> of wireless technology. It is the latest improvement in mobile networks, offering much faster speeds, lower <strong>latency</strong> (delay) and the ability to connect many devices at once.</p><h4>Key Benefits of 5G over 4G</h4><ul><li><strong>Faster internet</strong> — download or stream content far faster than with 4G.</li><li><strong>Lower latency</strong> — it reacts almost instantly, which is great for video calls, online gaming and controlling robots remotely.</li><li><strong>Many devices at once</strong> — connects many devices without slowing down, useful for smart cities and smart homes.</li></ul><p>5G supports <strong>smart cities</strong>, <strong>self-driving cars</strong> and smoother <strong>Virtual Reality</strong>.</p><h4>The Internet of Things (IoT)</h4><p>The <strong>Internet of Things</strong> refers to a network of physical objects — devices, vehicles, appliances and sensors — embedded with technology to connect to the internet and <strong>collect and exchange data</strong>. This lets objects communicate with each other and with users, making them smart. Examples are smart homes, wearable health devices and sensors used in factories.</p><h4>Smart Thermostat</h4><p>A smart thermostat, like the <strong>Nest</strong>, is an IoT device that learns your heating and cooling preferences over time. You can control it remotely through an app, and it automatically adjusts the temperature based on whether you are home or away, saving energy and reducing utility bills.</p>",
+     "mcqs": [
+      {
+       "q": "What does 5G stand for?",
+       "options": [
+        "The fifth version of a mobile phone",
+        "A network with five antennas",
+        "The fifth generation of wireless technology",
+        "Five gigabytes of data"
+       ],
+       "answer": 2,
+       "why": "The unit explains that 5G stands for the fifth generation of wireless technology, the latest improvement in mobile networks after earlier generations like 4G."
+      },
+      {
+       "q": "5G offers much faster speeds and lower ___.",
+       "options": [
+        "latency",
+        "capacity",
+        "frequency",
+        "energy"
+       ],
+       "answer": 0,
+       "why": "Latency means delay. The book's exercise answer is latency: 5G offers much faster speeds and lower latency, so it reacts almost instantly."
+      },
+      {
+       "q": "Which is a key benefit of 5G over 4G?",
+       "options": [
+        "It works without any signal towers",
+        "It makes phones waterproof",
+        "It removes the need for the internet",
+        "It can connect many devices at once without slowing down"
+       ],
+       "answer": 3,
+       "why": "The unit lists three key benefits of 5G: faster internet, lower latency, and the ability to connect many devices at once without slowing down, which is useful for smart cities and smart homes."
+      },
+      {
+       "q": "What does the Internet of Things (IoT) refer to?",
+       "options": [
+        "A network of computers inside one office",
+        "A network of physical objects that connect to the internet and collect and exchange data",
+        "A single website with many pages",
+        "A cable that joins two computers"
+       ],
+       "answer": 1,
+       "why": "IoT refers to physical objects such as devices, vehicles, appliances and sensors that are embedded with technology to connect to the internet and collect and exchange data."
+      },
+      {
+       "q": "Which of these is an IoT example from the unit?",
+       "options": [
+        "A printed book",
+        "A bicycle",
+        "A smart thermostat like the Nest",
+        "A wall clock with hands"
+       ],
+       "answer": 2,
+       "why": "The Nest smart thermostat is the unit's IoT example: it learns heating and cooling preferences over time and automatically adjusts the temperature."
+      },
+      {
+       "q": "A smart thermostat can learn your preferences and automatically adjust the ___.",
+       "options": [
+        "humidity",
+        "temperature",
+        "air quality",
+        "pressure"
+       ],
+       "answer": 1,
+       "why": "This is the book's fill-in-the-blank answer: a smart thermostat like the Nest learns your heating and cooling preferences and automatically adjusts the temperature."
+      },
+      {
+       "q": "How does a smart thermostat save energy?",
+       "options": [
+        "It adjusts the temperature based on whether you are home or away",
+        "It turns off the whole house's electricity",
+        "It uses solar power only",
+        "It stops all heating forever"
+       ],
+       "answer": 0,
+       "why": "The solved answer explains that the Nest adjusts temperature based on whether you are home or away, which saves energy and reduces utility bills."
+      },
+      {
+       "q": "Which technologies does 5G support, according to the unit?",
+       "options": [
+        "Only text messaging",
+        "Only radio broadcasting",
+        "Only wired telephones",
+        "Smart cities, self-driving cars and smoother Virtual Reality"
+       ],
+       "answer": 3,
+       "why": "With 5G we can download or stream content far faster than with 4G, and it supports smart cities, self-driving cars and smoother Virtual Reality."
+      },
+      {
+       "q": "True or False: 5G technology allows for slower internet speeds compared to 4G technology.",
+       "options": [
+        "True",
+        "False",
+        "Only at night",
+        "Only in cities"
+       ],
+       "answer": 1,
+       "why": "The statement is false. 5G is the latest improvement in mobile networks and offers much faster speeds than 4G, not slower ones."
+      },
+      {
+       "q": "Which of these are physical objects that can be part of the IoT?",
+       "options": [
+        "Only desktop computers",
+        "Only satellites",
+        "Devices, vehicles, appliances and sensors",
+        "Only smartphones"
+       ],
+       "answer": 2,
+       "why": "The unit's IoT definition names devices, vehicles, appliances and sensors as the physical objects embedded with technology to connect to the internet and exchange data."
+      }
+     ]
+    },
+    {
+     "title": "Robotics and Virtual Reality",
+     "notes_html": "<p><strong>Robotics</strong> is the field of technology that focuses on designing, building and using <strong>robots</strong> — machines capable of carrying out tasks automatically. Robots can be programmed to perform tasks either independently or with some degree of human input, often mimicking human actions or improving upon them.</p><h4>Main Features of Robots</h4><ul><li><strong>Sensors</strong> — let the robot perceive its environment.</li><li><strong>Actuators</strong> — move the robot's parts.</li><li><strong>Artificial Intelligence (AI)</strong>, <strong>programmability</strong> and <strong>autonomy</strong>.</li></ul><h4>Robots in Industry</h4><p>In warehouses, <strong>Amazon's warehouse robots</strong> transport products and speed up order processing. In car manufacturing, robotic arms in factories like <strong>Toyota</strong> and <strong>Tesla</strong> weld, paint and assemble car parts with precision and speed. Advantages: robots can work <strong>24/7</strong>, handle repetitive tasks that would be tiring or dangerous for humans, carry heavy loads, and reduce human error while speeding up production.</p><h4>Virtual Reality (VR)</h4><p><strong>Virtual Reality</strong> is a technology that creates a simulated environment, allowing users to experience and interact with a 3D world that is not real. By wearing a special <strong>VR headset</strong>, users are immersed in this digital environment, which feels lifelike because it surrounds their senses, primarily sight and sound. VR is used in gaming, for example the <strong>Oculus Quest</strong>, and in education through virtual classrooms and labs.</p>",
+     "mcqs": [
+      {
+       "q": "What is robotics?",
+       "options": [
+        "The field of technology that focuses on designing, building and using robots",
+        "The study of computer viruses",
+        "A method of typing faster",
+        "The science of weather forecasting"
+       ],
+       "answer": 0,
+       "why": "Robotics focuses on designing, building and using robots — machines capable of carrying out tasks automatically, either independently or with some human input."
+      },
+      {
+       "q": "Robotics uses machines capable of carrying out tasks automatically, often with the help of ___.",
+       "options": [
+        "electricity",
+        "computers",
+        "tools",
+        "sensors"
+       ],
+       "answer": 3,
+       "why": "The unit lists sensors first among a robot's features, since sensors let the robot perceive its environment and act on it; the book's exercise answer is sensors."
+      },
+      {
+       "q": "Which of the following is a main feature of robots?",
+       "options": [
+        "Wings and feathers",
+        "Sensors, actuators, AI, programmability and autonomy",
+        "Screens and keyboards only",
+        "Wheels only"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the main features of robots as sensors, actuators, Artificial Intelligence (AI), programmability and autonomy."
+      },
+      {
+       "q": "What do sensors do for a robot?",
+       "options": [
+        "Charge the robot's battery",
+        "Paint the robot's body",
+        "Let the robot perceive its environment",
+        "Connect the robot to a printer"
+       ],
+       "answer": 2,
+       "why": "Sensors let the robot perceive its environment so it can act on what it detects; actuators then move the robot's parts to carry out the task."
+      },
+      {
+       "q": "How are robots used in warehouses?",
+       "options": [
+        "Amazon's warehouse robots transport products and speed up order processing",
+        "They deliver letters to homes",
+        "They cook food for workers",
+        "They guard the building at night"
+       ],
+       "answer": 0,
+       "why": "The unit gives Amazon's warehouse robots as the example: they transport products and speed up order processing in warehouses."
+      },
+      {
+       "q": "In car factories like Toyota and Tesla, robotic arms are used to ___.",
+       "options": [
+        "sell cars to customers",
+        "design car logos",
+        "weld, paint and assemble car parts",
+        "test-drive cars on roads"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that robotic arms in factories like Toyota and Tesla weld, paint and assemble car parts with precision and speed."
+      },
+      {
+       "q": "Which is an advantage of using robots for automation?",
+       "options": [
+        "They never need programming",
+        "They work without any energy",
+        "They replace all human workers in every job",
+        "They can work 24/7 and handle repetitive or dangerous tasks"
+       ],
+       "answer": 3,
+       "why": "Robots can work 24/7, handle repetitive tasks that would be tiring or dangerous for humans, carry heavy loads, and reduce human error while speeding up production."
+      },
+      {
+       "q": "What is Virtual Reality (VR)?",
+       "options": [
+        "A type of computer monitor",
+        "A technology that creates a simulated environment users can experience and interact with",
+        "A real place visited by tourists",
+        "A camera for taking 3D photos"
+       ],
+       "answer": 1,
+       "why": "VR creates a simulated environment, allowing users to experience and interact with a 3D world that is not real, through a special headset."
+      },
+      {
+       "q": "Users wear a special headset in VR, which creates a simulated ___.",
+       "options": [
+        "experience",
+        "world",
+        "environment",
+        "reality"
+       ],
+       "answer": 2,
+       "why": "The book's exercise answer is environment: VR creates a simulated environment that surrounds the user's senses, primarily sight and sound."
+      },
+      {
+       "q": "Which is an example of VR in use?",
+       "options": [
+        "The Oculus Quest in gaming, and virtual classrooms and labs in education",
+        "A Nest thermostat at home",
+        "SDL Trados for translators",
+        "A blockchain ledger"
+       ],
+       "answer": 0,
+       "why": "The unit names the Oculus Quest for gaming and virtual classrooms and labs for education as the uses of Virtual Reality."
+      }
+     ]
+    },
+    {
+     "title": "Holographic Imaging, CAT Tools and Blockchain",
+     "notes_html": "<p><strong>Holographic imaging</strong> creates images that appear 3D and can be viewed <strong>without special glasses</strong>.</p><h4>Computer-Assisted Translation (CAT)</h4><p><strong>Computer-Assisted Translation</strong> refers to the use of software tools to help translators produce accurate and consistent translations more efficiently. CAT tools support human translators with features like <strong>translation memory</strong>, <strong>terminology databases</strong> and <strong>text segmentation</strong>. They store previously translated segments so they can be reused. A popular CAT tool used by professional translators and companies is <strong>SDL Trados</strong>.</p><h4>Blockchain Technology</h4><p><strong>Blockchain</strong> is a digital system for recording transactions that ensures they are <strong>secure and transparent</strong>. Once recorded, transactions cannot be changed retroactively. Blockchain is used in <strong>cryptocurrencies</strong>, <strong>supply chain management</strong> and <strong>smart contracts</strong>.</p><h4>Emerging Technologies</h4><p>AI, 5G and Blockchain are three examples of <strong>emerging technologies</strong>: AI improves efficiency and decision-making in healthcare, finance and education; 5G gives faster speeds and lower latency; Blockchain records transactions securely and transparently.</p>",
+     "mcqs": [
+      {
+       "q": "Holographic imaging creates images that appear 3D and can be viewed without ___.",
+       "options": [
+        "filters",
+        "screens",
+        "light",
+        "glasses"
+       ],
+       "answer": 3,
+       "why": "The book's exercise answer is glasses: holographic imaging creates images that appear 3D and can be viewed without special glasses."
+      },
+      {
+       "q": "What do Computer-Assisted Translation (CAT) tools help translators do?",
+       "options": [
+        "Translate without any human help at all",
+        "Produce accurate and consistent translations more efficiently",
+        "Print books in many languages",
+        "Teach languages to students"
+       ],
+       "answer": 1,
+       "why": "CAT refers to software tools that help translators produce accurate and consistent translations more efficiently, using translation memory, terminology databases and text segmentation."
+      },
+      {
+       "q": "CAT tools help translators produce accurate translations more ___.",
+       "options": [
+        "slowly",
+        "easily",
+        "efficiently",
+        "manually"
+       ],
+       "answer": 2,
+       "why": "This is the book's fill-in-the-blank: CAT tools help translators produce accurate translations more efficiently, partly by reusing previously translated segments."
+      },
+      {
+       "q": "Which feature of CAT tools stores previously translated segments for reuse?",
+       "options": [
+        "Translation memory",
+        "Spell checker",
+        "Word counter",
+        "Screen recorder"
+       ],
+       "answer": 0,
+       "why": "Translation memory is the CAT feature that stores previously translated segments so they can be reused; the unit's true/false exercise confirms CAT tools do store segments for reuse."
+      },
+      {
+       "q": "A popular CAT tool used by professional translators and companies is ___.",
+       "options": [
+        "Oculus Quest",
+        "Nest",
+        "Google Assistant",
+        "SDL Trados"
+       ],
+       "answer": 3,
+       "why": "The solved answer names SDL Trados as a popular CAT tool used by professional translators and companies."
+      },
+      {
+       "q": "Blockchain technology is a digital system for recording transactions that ensures they are secure and ___.",
+       "options": [
+        "transparent",
+        "complicated",
+        "temporary",
+        "exclusive"
+       ],
+       "answer": 0,
+       "why": "The book's exercise answer is transparent: blockchain records transactions in a way that keeps them secure and transparent, and they cannot be changed retroactively."
+      },
+      {
+       "q": "True or False: Blockchain technology ensures that transactions are secure and cannot be changed retroactively.",
+       "options": [
+        "False",
+        "True",
+        "Only for banks",
+        "Only for small amounts"
+       ],
+       "answer": 1,
+       "why": "The statement is true: once a transaction is recorded on a blockchain it cannot be changed retroactively, which is what makes the record secure and trustworthy."
+      },
+      {
+       "q": "Blockchain is used in which of the following?",
+       "options": [
+        "Only in video games",
+        "Only in weather forecasting",
+        "Cryptocurrencies, supply chain management and smart contracts",
+        "Only in word processing"
+       ],
+       "answer": 2,
+       "why": "The unit's answer on emerging technologies states that blockchain records transactions securely and transparently and is used in cryptocurrencies, supply chain management and smart contracts."
+      },
+      {
+       "q": "Which three technologies does the unit give as examples of emerging technologies?",
+       "options": [
+        "Artificial Intelligence, 5G and Blockchain",
+        "Printers, scanners and keyboards",
+        "Radio, television and newspapers",
+        "Calculators, typewriters and fax machines"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists AI, 5G technology and Blockchain technology as three examples of emerging technologies and explains the significance of each one."
+      },
+      {
+       "q": "Terminology databases and text segmentation are features of which tools?",
+       "options": [
+        "VR headsets",
+        "Smart thermostats",
+        "Warehouse robots",
+        "Computer-Assisted Translation (CAT) tools"
+       ],
+       "answer": 3,
+       "why": "The unit explains that CAT tools support human translators by providing features like translation memory, terminology databases and text segmentation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Data Communication and Computer Networks",
+   "lessons": [
+    {
+     "title": "Data Communication and Types of Networks",
+     "notes_html": "<p><strong>Data communication</strong> is the process of sending and receiving data, like messages or information, between two or more devices. These devices could be computers, smartphones or even gaming consoles. For communication to happen, devices need to be connected in some way, which is where networks come in.</p><h4>The Data Communication Process</h4><p>Data travels in this order: <strong>Source device → Transmission medium → Destination device</strong>.</p><h4>Types of Networks</h4><ul><li><strong>Local Area Network (LAN)</strong> — connects devices over a small geographical area, like a home or office.</li><li><strong>Wide Area Network (WAN)</strong> — covers a large geographical area, often globally, connecting devices that are located far apart.</li></ul><h4>Virtual Private Network (VPN)</h4><p>A <strong>VPN</strong> is not a physical network but a secure, encrypted connection created over another network, like the internet. Its purpose is to protect data, especially when connecting to public networks; businesses use VPNs to allow employees to access company resources remotely and safely.</p>",
+     "mcqs": [
+      {
+       "q": "What is data communication?",
+       "options": [
+        "A way of storing data on a disk",
+        "The process of sending and receiving data between two or more devices",
+        "A method of printing documents",
+        "The process of charging a device"
+       ],
+       "answer": 1,
+       "why": "Data communication is the process of sending and receiving data, like messages or information, between two or more devices such as computers, smartphones or gaming consoles."
+      },
+      {
+       "q": "What is the correct order of the data communication process?",
+       "options": [
+        "Source device → Transmission medium → Destination device",
+        "Destination device → Transmission medium → Source device",
+        "Transmission medium → Destination device → Source device",
+        "Source device → Destination device → Transmission medium"
+       ],
+       "answer": 0,
+       "why": "Data starts at the source device, travels through the transmission medium, and arrives at the destination device — this is the book's own MCQ answer."
+      },
+      {
+       "q": "Which of the following best describes a Wide Area Network (WAN)?",
+       "options": [
+        "A network that covers a small geographical area like a home or office",
+        "A network that connects computers within one building only",
+        "A network that covers a large geographical area, often globally",
+        "A network used by one person on one computer"
+       ],
+       "answer": 2,
+       "why": "A WAN is designed to connect devices that are located far apart, even globally, unlike a LAN which covers a small area like a home or office."
+      },
+      {
+       "q": "True or False: A Local Area Network (LAN) can connect devices over a large geographic area like a city.",
+       "options": [
+        "True",
+        "Only with fiber cables",
+        "Only at night",
+        "False"
+       ],
+       "answer": 3,
+       "why": "The statement is false: a LAN connects devices over a small geographical area like a home or office; networks covering cities or the globe are WANs."
+      },
+      {
+       "q": "Which devices can take part in data communication?",
+       "options": [
+        "Only desktop computers",
+        "Only telephones",
+        "Computers, smartphones and gaming consoles",
+        "Only televisions"
+       ],
+       "answer": 2,
+       "why": "The unit states that the devices in data communication could be computers, smartphones, or even gaming consoles, as long as they are connected in some way."
+      },
+      {
+       "q": "What is the purpose of a Virtual Private Network (VPN)?",
+       "options": [
+        "To make the internet faster",
+        "To store files in the cloud",
+        "To connect a printer to a computer",
+        "To create a secure, encrypted connection that protects data over another network"
+       ],
+       "answer": 3,
+       "why": "A VPN is a secure, encrypted connection created over another network like the internet; its purpose is to protect data, especially on public networks."
+      },
+      {
+       "q": "Businesses use VPNs so that employees can ___.",
+       "options": [
+        "play games during work",
+        "access company resources remotely and safely",
+        "watch movies in the office",
+        "print documents at home only"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains that businesses use VPNs to allow employees to access company resources remotely and safely."
+      },
+      {
+       "q": "A home network that connects your computer to the internet through a router is an example of a ___.",
+       "options": [
+        "LAN connecting to a WAN",
+        "VPN only",
+        "Satellite link",
+        "Microwave tower"
+       ],
+       "answer": 0,
+       "why": "The unit's router answer gives this example: a router connects your home network (LAN) to the internet (WAN), deciding the best path for data to travel."
+      },
+      {
+       "q": "For data communication to happen, devices need to be ___.",
+       "options": [
+        "switched off",
+        "kept in the same room always",
+        "the same brand",
+        "connected in some way, which is where networks come in"
+       ],
+       "answer": 3,
+       "why": "The unit states that for communication to happen, devices need to be connected in some way, which is where networks come in."
+      },
+      {
+       "q": "True or False: A WAN is designed to connect devices that are located far apart, even globally.",
+       "options": [
+        "False",
+        "Only within one building",
+        "True",
+        "Only within one city"
+       ],
+       "answer": 2,
+       "why": "The statement is true: a Wide Area Network connects devices located far apart, often spanning countries or the whole globe."
+      }
+     ]
+    },
+    {
+     "title": "Core Networking Components: Router, Modem and Switch",
+     "notes_html": "<p>Networks are built from core components such as <strong>routers</strong>, <strong>modems</strong> and <strong>switches</strong>. A keyboard is an input device — it is <strong>not</strong> a networking component.</p><h4>Router</h4><p>A <strong>router</strong> is a device that connects different networks and sends data between them; it can connect your home network (LAN) to the internet (WAN). Its role is to decide the <strong>best path</strong> for data to travel to reach its destination. The router is the device primarily responsible for sending data <strong>between different networks</strong>.</p><h4>Modem</h4><p>The main function of a <strong>modem</strong> is to convert <strong>digital signals to analog</strong> and vice versa, so computer data can travel over lines such as telephone networks.</p><h4>Switch and Hub</h4><p>A <strong>switch</strong> connects devices within a network and forwards data to the right device. A <strong>hub</strong> is a simpler connecting device. Neither of them replaces the router's job of joining different networks together.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is NOT a core networking component?",
+       "options": [
+        "Router",
+        "Modem",
+        "Keyboard",
+        "Switch"
+       ],
+       "answer": 2,
+       "why": "A keyboard is an input device, not a networking component. Routers, modems and switches are the core networking components named in the book's MCQ."
+      },
+      {
+       "q": "What is the role of a router in a network?",
+       "options": [
+        "It converts digital signals to analog",
+        "It stores and forwards emails",
+        "It amplifies the signal strength only",
+        "It connects different networks and decides the best path for data to reach its destination"
+       ],
+       "answer": 3,
+       "why": "A router connects different networks and sends data between them; its role is to decide the best path for data to travel to reach its destination."
+      },
+      {
+       "q": "Which device is primarily responsible for sending data between different networks?",
+       "options": [
+        "Router",
+        "Modem",
+        "Switch",
+        "Hub"
+       ],
+       "answer": 0,
+       "why": "The router is the device that connects multiple networks and routes data between them, which is why it is responsible for sending data between different networks."
+      },
+      {
+       "q": "What is the main function of a modem in a network?",
+       "options": [
+        "To amplify the signal strength of the network",
+        "To convert digital signals to analog and vice versa",
+        "To store and forward emails",
+        "To manage network security and data encryption"
+       ],
+       "answer": 1,
+       "why": "A modem converts digital signals to analog and vice versa, so that computer data can travel over communication lines such as telephone networks."
+      },
+      {
+       "q": "True or False: A router is a device that connects multiple networks and routes data between them.",
+       "options": [
+        "True",
+        "False",
+        "Only within one room",
+        "Only for printers"
+       ],
+       "answer": 0,
+       "why": "The statement is true: connecting multiple networks and routing data between them is exactly the router's job, for example joining a home LAN to the internet WAN."
+      },
+      {
+       "q": "A router can connect your home network (LAN) to which larger network?",
+       "options": [
+        "A printer",
+        "The internet (WAN)",
+        "A keyboard",
+        "A USB drive"
+       ],
+       "answer": 1,
+       "why": "The unit's example: a router can connect your home network (LAN) to the internet (WAN) and decides the best path for data to travel."
+      },
+      {
+       "q": "Which device converts signals so data can travel over telephone networks?",
+       "options": [
+        "Router",
+        "Switch",
+        "Hub",
+        "Modem"
+       ],
+       "answer": 3,
+       "why": "Converting digital signals to analog and vice versa is the modem's function, which is what allows data to travel over telephone lines."
+      },
+      {
+       "q": "What type of cable is commonly used for telephone networks?",
+       "options": [
+        "Coaxial cable",
+        "Fiber optic cable",
+        "Twisted pair cable",
+        "Wireless cable"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ answer is twisted pair cable, the cable type commonly used for telephone networks; fiber optic and coaxial cables serve other purposes."
+      },
+      {
+       "q": "Deciding the best path for data to travel is the job of the ___.",
+       "options": [
+        "modem",
+        "router",
+        "keyboard",
+        "monitor"
+       ],
+       "answer": 1,
+       "why": "The solved short answer states that the router's role is to decide the best path for data to travel to reach its destination."
+      },
+      {
+       "q": "Which of these connects devices within the same network and forwards data to the right device?",
+       "options": [
+        "Switch",
+        "Modem",
+        "Keyboard",
+        "Scanner"
+       ],
+       "answer": 0,
+       "why": "A switch connects devices within a network and forwards data to the correct device, while the router joins different networks together."
+      }
+     ]
+    },
+    {
+     "title": "Guided Media: Twisted Pair, Coaxial and Fiber Optic Cables",
+     "notes_html": "<p><strong>Transmission media</strong> refers to the pathway through which data or information is sent from one device to another. It can be physical (<strong>Guided</strong>), like cables, or wireless (<strong>Unguided</strong>), like radio waves.</p><h4>Guided Media</h4><p>Guided media are physical cables — <strong>twisted pair</strong>, <strong>coaxial</strong>, <strong>fiber optic</strong> and USB cables — which guide the data along a specific path, directed to a specific device. Twisted pair cable is commonly used for telephone networks.</p><h4>Fiber Optic Cable</h4><p>A fiber optic cable is a cable made of <strong>glass</strong> that sends data as <strong>flashes of light</strong>; it is used to make the internet super fast. It differs from copper cables (twisted pair and coaxial), which carry data as <strong>electrical signals</strong>, are slower, suffer more interference and lose signal over long distances.</p><h4>Fiber Optic vs Copper</h4><ul><li><strong>Advantages of fiber:</strong> super fast; sends data far without losing quality; carries lots of data; no interference from other signals; thin and light, so easy to handle.</li><li><strong>Disadvantages of fiber:</strong> costly; delicate — bending too much can break it; special equipment and skilled people are needed to install and fix it; not available everywhere yet.</li><li><strong>Copper cables</strong> are affordable and flexible, but have limited speed, crosstalk issues, and the signal weakens over longer cables.</li></ul><p>The coaxial cable's labelled parts are: outside insulation, insulation, copper mesh and copper wire.</p>",
+     "mcqs": [
+      {
+       "q": "What does transmission media refer to?",
+       "options": [
+        "The device that stores data",
+        "The pathway through which data is sent from one device to another",
+        "The software used to write emails",
+        "The screen that displays data"
+       ],
+       "answer": 1,
+       "why": "Transmission media refers to the pathway through which data or information is sent from one device to another; it can be physical (guided) like cables or wireless (unguided) like radio waves."
+      },
+      {
+       "q": "Which type of transmission medium uses light to transmit data over long distances?",
+       "options": [
+        "Twisted pair cable",
+        "Coaxial cable",
+        "Fiber optic cable",
+        "Radio waves"
+       ],
+       "answer": 2,
+       "why": "A fiber optic cable is made of glass and sends data as flashes of light, which lets it carry lots of data over far places without losing quality."
+      },
+      {
+       "q": "Guided transmission media are ___.",
+       "options": [
+        "physical cables that guide data along a specific path",
+        "wireless signals through the air",
+        "satellite broadcasts",
+        "radio waves in space"
+       ],
+       "answer": 0,
+       "why": "Guided media are physical cables, like twisted pair, coaxial, fiber optic and USB cables, which guide the data along a specific path to a specific device."
+      },
+      {
+       "q": "How do copper cables like twisted pair and coaxial carry data?",
+       "options": [
+        "As flashes of light",
+        "As sound waves",
+        "As radio waves",
+        "As electrical signals"
+       ],
+       "answer": 3,
+       "why": "Copper cables carry data as electrical signals; they are slower than fiber, suffer more interference and lose signal over long distances."
+      },
+      {
+       "q": "Which is an advantage of fiber optic cables compared to copper cables?",
+       "options": [
+        "They are the cheapest cables",
+        "They carry lots of data over far places without losing quality and have no interference",
+        "They can be bent sharply without damage",
+        "Anyone can fix them without training"
+       ],
+       "answer": 1,
+       "why": "Fiber optic advantages from the unit: super fast, sends data far without losing quality, carries lots of data, no interference from other signals, and thin and light so easy to handle."
+      },
+      {
+       "q": "Which is a disadvantage of fiber optic cables?",
+       "options": [
+        "They are very slow",
+        "They suffer heavy crosstalk",
+        "They are costly and delicate, and bending them too much can break them",
+        "They lose signal quickly over distance"
+       ],
+       "answer": 2,
+       "why": "The unit lists fiber's disadvantages: costly; delicate, so bending too much can break them; special equipment needed; fixing is tricky and needs skilled people; not available everywhere yet."
+      },
+      {
+       "q": "True or False: Fiber optic cables are known for their ability to transmit data at slow speeds.",
+       "options": [
+        "True",
+        "Only at night",
+        "Only over short distances",
+        "False"
+       ],
+       "answer": 3,
+       "why": "The statement is false: fiber optic cables are used to make the internet super fast, carrying data as flashes of light over long distances."
+      },
+      {
+       "q": "What are the labelled parts of a coaxial cable in the unit's diagram?",
+       "options": [
+        "Outside insulation, insulation, copper mesh and copper wire",
+        "Glass core and plastic coating only",
+        "Battery, antenna and chip",
+        "Screen, keyboard and wire"
+       ],
+       "answer": 0,
+       "why": "The unit's labelled diagram on page 21 is for the coaxial cable: outside insulation, insulation, copper mesh and copper wire."
+      },
+      {
+       "q": "Copper cables are affordable and flexible, but they have ___.",
+       "options": [
+        "no disadvantages at all",
+        "the highest speed of all media",
+        "limited speed, crosstalk issues, and signal weakening over longer cables",
+        "immunity to interference"
+       ],
+       "answer": 2,
+       "why": "The comparison in the unit states that copper cables are affordable and flexible but have limited speed, crosstalk issues, and the signal weakens over longer cables."
+      },
+      {
+       "q": "Why is fiber optic cable not bothered by other signals?",
+       "options": [
+        "It is buried underground",
+        "It carries data as light inside glass instead of electrical signals in copper",
+        "It uses very thick wires",
+        "It switches itself off"
+       ],
+       "answer": 1,
+       "why": "Because fiber sends data as flashes of light through glass, it has no interference from other signals, unlike copper cables carrying electrical signals."
+      }
+     ]
+    },
+    {
+     "title": "Unguided Media: Radio Waves, Microwaves, Infrared and Satellite",
+     "notes_html": "<p><strong>Unguided media</strong> are the wireless transmission of data through the air or space using <strong>electromagnetic waves</strong>. They have no defined physical pathway and often broadcast signals so that more than one device in range can receive the data.</p><h4>Types of Unguided Media</h4><ul><li><strong>Radio waves</strong> — used by Wi-Fi networks in homes and public places.</li><li><strong>Microwaves</strong> — high-frequency waves used for long-distance links between towers.</li><li><strong>Infrared</strong> — short-range communication; it cannot pass through walls and obstacles.</li><li><strong>Satellite communication</strong> — wireless, so it is unguided media even though it covers huge distances.</li></ul><h4>Microwave Communication</h4><p>Microwave communication requires a <strong>clear line of sight</strong> between the transmitter and receiver, because microwaves are high-frequency waves that cannot pass through buildings easily. Microwave towers send signals between each other to cover large distances.</p><h4>Advantages and Disadvantages</h4><p>The major advantage of unguided media is <strong>mobility and wireless connectivity</strong> — no cables are needed. A common application is <strong>Wi-Fi networks</strong> in homes and public places. The trade-off is that wireless signals can suffer interference and are less secure than guided media.</p>",
+     "mcqs": [
+      {
+       "q": "Unguided media refers to which type of communication?",
+       "options": [
+        "Wired communication using cables",
+        "Communication over the Internet using fiber optics",
+        "Wireless communication using electromagnetic waves",
+        "Data transmission via USB cables"
+       ],
+       "answer": 2,
+       "why": "Unguided media transmit data wirelessly through the air or space using electromagnetic waves, with no defined physical pathway — this is the book's MCQ answer."
+      },
+      {
+       "q": "What do unguided media use for data transmission?",
+       "options": [
+        "Electromagnetic waves such as radio waves, microwaves, infrared and satellite signals",
+        "Glass fibers",
+        "Copper wires",
+        "Plastic tubes"
+       ],
+       "answer": 0,
+       "why": "The solved short answer states that unguided media use electromagnetic waves — radio waves, microwaves, infrared and satellite communication — without any defined physical pathway."
+      },
+      {
+       "q": "Which of the following is a major advantage of using unguided media?",
+       "options": [
+        "High level of security",
+        "No interference from other signals",
+        "Long-distance communication without any signal loss",
+        "Mobility and wireless connectivity"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer is mobility and wireless connectivity: unguided media need no cables, so devices can move freely while staying connected."
+      },
+      {
+       "q": "Which of the following is a common application of unguided media?",
+       "options": [
+        "Ethernet connections in offices",
+        "Wi-Fi networks in homes and public places",
+        "Fiber optic cables for Internet service providers",
+        "Coaxial cables for TV transmission"
+       ],
+       "answer": 1,
+       "why": "Wi-Fi networks in homes and public places use radio waves, a form of unguided media; the other options all use physical cables, which are guided media."
+      },
+      {
+       "q": "What is required for microwave communication?",
+       "options": [
+        "A cable between the two towers",
+        "Complete darkness",
+        "A clear line of sight between the transmitter and receiver",
+        "A satellite in space"
+       ],
+       "answer": 2,
+       "why": "Microwaves are high-frequency waves that cannot pass through buildings easily, so microwave communication requires a clear line of sight between transmitter and receiver."
+      },
+      {
+       "q": "True or False: Infrared communication can transmit data through walls and obstacles.",
+       "options": [
+        "True",
+        "False",
+        "Only through wooden walls",
+        "Only at short distances"
+       ],
+       "answer": 1,
+       "why": "The statement is false: infrared cannot pass through walls and obstacles, which is why it is only used for short-range communication in the same room."
+      },
+      {
+       "q": "True or False: Satellite communication is classified as guided media since it requires physical cables.",
+       "options": [
+        "False",
+        "True",
+        "Only for television",
+        "Only for telephones"
+       ],
+       "answer": 0,
+       "why": "The statement is false: satellite communication is wireless transmission through space, so it belongs to unguided media, not guided media."
+      },
+      {
+       "q": "True or False: Wi-Fi networks are a form of unguided media that use radio waves for wireless communication.",
+       "options": [
+        "False",
+        "Only when wired",
+        "Only in offices",
+        "True"
+       ],
+       "answer": 3,
+       "why": "The statement is true: Wi-Fi is listed in the unit as a common application of unguided media, using radio waves for wireless communication."
+      },
+      {
+       "q": "How do microwave towers cover large distances?",
+       "options": [
+        "They use underground cables",
+        "They send signals between each other from tower to tower",
+        "They bounce signals off the moon",
+        "They store data and carry it physically"
+       ],
+       "answer": 1,
+       "why": "The unit explains that microwave towers send signals between each other to cover large distances, each link keeping a clear line of sight."
+      },
+      {
+       "q": "True or False: The main disadvantage of unguided media is that it is less mobile compared to guided media.",
+       "options": [
+        "True",
+        "Only for satellites",
+        "False",
+        "Only for infrared"
+       ],
+       "answer": 2,
+       "why": "The statement is false — it is the opposite: mobility is the main advantage of unguided media, since no cables tie the devices down."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Digital Skills",
+   "lessons": [
+    {
+     "title": "Spreadsheets: Worksheets, Workbooks and Cells",
+     "notes_html": "<p>A <strong>spreadsheet</strong> is primarily used for <strong>organizing and working with data</strong>. In programs like Microsoft Excel, data is typed into tables made of rows and columns.</p><h4>Rows, Columns and Cells</h4><ul><li><strong>Rows</strong> — the horizontal lines used for organizing data.</li><li><strong>Columns</strong> — the vertical lines used for categorizing data.</li><li><strong>Grid</strong> — the pattern formed by the intersecting rows and columns.</li><li><strong>Cell</strong> — the smallest unit within the grid, where a row and a column meet; it is the basic unit where data is stored, and every cell has a unique name called the <strong>cell address</strong>.</li></ul><h4>Worksheet and Workbook</h4><p>A <strong>worksheet</strong> is the single work area where we type data in the form of tables. In Excel 2016, a worksheet has <strong>1,048,576 rows</strong> (numbered 1 to 1,048,576) and <strong>16,384 columns</strong> (labeled A to XFD). A <strong>workbook</strong> is the collection of worksheets: all the worksheets are saved in one workbook as one file, and we can work in more than one worksheet at a time.</p><h4>Active and Passive Cells</h4><p>The selected cell is called the <strong>active cell</strong>; a bold rectangle indicates it, and we enter data by typing on the keyboard. Cells that are not currently selected are <strong>passive cells</strong> and cannot be edited until made active. The <strong>Quick Access Toolbar</strong> can be customized for quick access to common commands and functions.</p>",
+     "mcqs": [
+      {
+       "q": "What is a spreadsheet primarily used for?",
+       "options": [
+        "Organizing and working with data",
+        "Playing games",
+        "Sending emails",
+        "Drawing pictures"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ answer: a spreadsheet is primarily used for organizing and working with data in rows and columns, as in Excel and Google Sheets."
+      },
+      {
+       "q": "What do we call the horizontal lines used for organizing data in a spreadsheet?",
+       "options": [
+        "Columns",
+        "Formulas",
+        "Cells",
+        "Rows"
+       ],
+       "answer": 3,
+       "why": "Rows are the horizontal lines of a spreadsheet, numbered 1, 2, 3 and so on; columns are the vertical lines, labeled with letters."
+      },
+      {
+       "q": "What do we call the vertical lines used for categorizing data in a spreadsheet?",
+       "options": [
+        "Grid",
+        "Columns",
+        "Charts",
+        "Rows"
+       ],
+       "answer": 1,
+       "why": "Columns are the vertical lines, labeled A, B, C up to XFD in Excel 2016; rows run horizontally across the sheet."
+      },
+      {
+       "q": "What does the grid in Excel refer to?",
+       "options": [
+        "A collection of worksheets",
+        "A type of formula",
+        "The intersecting rows and columns",
+        "A type of chart"
+       ],
+       "answer": 2,
+       "why": "The grid is the pattern formed by the intersecting rows and columns of the worksheet; each square in the grid is called a cell."
+      },
+      {
+       "q": "What is the smallest unit within an Excel grid used to input and store data?",
+       "options": [
+        "Cell",
+        "Formula",
+        "Grid",
+        "Row"
+       ],
+       "answer": 0,
+       "why": "The cell is the intersection of a row and a column and is the basic unit where data — text, numbers, symbols, date/time and formulas — is stored."
+      },
+      {
+       "q": "How many rows and columns does a worksheet have in Excel 2016?",
+       "options": [
+        "100 rows and 26 columns",
+        "1,000 rows and 100 columns",
+        "1,048,576 rows and 16,384 columns (A to XFD)",
+        "65,536 rows and 256 columns"
+       ],
+       "answer": 2,
+       "why": "The unit states that in Excel 2016 a worksheet consists of 1,048,576 rows numbered from 1 to 1,048,576 and 16,384 columns labeled from A to XFD."
+      },
+      {
+       "q": "What is a workbook in Excel?",
+       "options": [
+        "A single cell in a worksheet",
+        "A printed book of tables",
+        "A chart drawn from data",
+        "The collection of worksheets saved as one file"
+       ],
+       "answer": 3,
+       "why": "A workbook is the collection of worksheets; MS Excel lets us save all the worksheets in one workbook as one file and work in more than one worksheet at a time."
+      },
+      {
+       "q": "What is an active cell in Excel?",
+       "options": [
+        "A cell that contains a formula",
+        "The selected cell, indicated by a bold rectangle, where data can be entered",
+        "A cell that is locked forever",
+        "The first cell of the worksheet"
+       ],
+       "answer": 1,
+       "why": "The selected cell is called the active cell; we select a cell by clicking on it or using the arrow keys, a bold rectangle indicates it, and we enter data by typing."
+      },
+      {
+       "q": "What is a passive cell?",
+       "options": [
+        "A cell with no data in it",
+        "A deleted cell",
+        "A cell that is not currently selected and cannot be edited until it is made active",
+        "A cell in another workbook"
+       ],
+       "answer": 2,
+       "why": "The unit's true/false exercise confirms: a passive cell refers to cells that are not currently selected and cannot be edited until you make them active."
+      },
+      {
+       "q": "Every cell has a unique name. What is it called?",
+       "options": [
+        "The cell address",
+        "The cell title",
+        "The cell label",
+        "The cell number"
+       ],
+       "answer": 0,
+       "why": "The intersection of a row and a column is a cell, and every cell has a unique name called the cell address, formed from its column letter and row number."
+      }
+     ]
+    },
+    {
+     "title": "Data Types and Formulas in Excel",
+     "notes_html": "<p>Cells can store different kinds of data: text, numbers, symbols, date/time and formulas.</p><h4>Numeric and Text Data</h4><ul><li><strong>Numeric data</strong> is primarily used for <strong>mathematical operations and calculations</strong>, such as doing math with the SUM, AVERAGE, MAX and MIN functions and building formulas.</li><li><strong>Text data</strong> is primarily used for <strong>descriptions and categorization</strong>, such as names and labels.</li></ul><h4>Formulas</h4><p>A <strong>formula</strong> in Excel is used for <strong>automated calculations</strong>. A formula is a machine that calculates different values; each formula begins with an <strong>equal sign (=)</strong>, uses one or more arithmetic operators, and can use any function. For example, <strong>=SUM(B4:B15)</strong> adds the numbers stored in the range B4 through B15.</p>",
+     "mcqs": [
+      {
+       "q": "What is a formula in Excel used for?",
+       "options": [
+        "Drawing shapes",
+        "Changing colors",
+        "Typing text",
+        "Automated calculations"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer: a formula in Excel is used for automated calculations; each formula begins with an equal sign and can use operators and functions."
+      },
+      {
+       "q": "What is numeric data in Excel primarily used for?",
+       "options": [
+        "Making lists",
+        "Mathematical operations and calculations",
+        "Creating charts",
+        "Adding colors to cells"
+       ],
+       "answer": 1,
+       "why": "Numeric data is primarily used for mathematical operations and calculations, such as doing math with the SUM, AVERAGE, MAX and MIN functions and building formulas."
+      },
+      {
+       "q": "What is text data in Excel primarily used for?",
+       "options": [
+        "Mathematical calculations",
+        "Drawing pictures",
+        "Descriptions and categorization",
+        "Playing music"
+       ],
+       "answer": 2,
+       "why": "Text data is used for descriptions and categorization — names, headings and labels — while numeric data is the kind used for calculations."
+      },
+      {
+       "q": "Every formula in Excel begins with which symbol?",
+       "options": [
+        "The equal sign (=)",
+        "The plus sign (+)",
+        "The percent sign (%)",
+        "The hash sign (#)"
+       ],
+       "answer": 0,
+       "why": "The unit states that each formula begins with an equal sign (=), uses one or more arithmetic operators, and can use any function."
+      },
+      {
+       "q": "What does the formula =SUM(B4:B15) do?",
+       "options": [
+        "It multiplies the numbers in B4 and B15",
+        "It deletes the numbers from B4 to B15",
+        "It counts the empty cells in column B",
+        "It adds the numbers stored in the range B4 through B15"
+       ],
+       "answer": 3,
+       "why": "The solved answer explains that =SUM(B4:B15) adds the numbers stored in the range B4 through B15, using the SUM function over that range."
+      },
+      {
+       "q": "Which functions are named in the unit for doing math with numeric data?",
+       "options": [
+        "SUM, AVERAGE, MAX and MIN",
+        "BOLD, ITALIC and UNDERLINE",
+        "COPY, CUT and PASTE",
+        "OPEN, SAVE and PRINT"
+       ],
+       "answer": 0,
+       "why": "Numeric data is used for mathematical operations such as doing math with the SUM, AVERAGE, MAX and MIN functions and building formulas."
+      },
+      {
+       "q": "Which of these can be stored in a cell?",
+       "options": [
+        "Only whole numbers",
+        "Text, numbers, symbols, date/time and formulas",
+        "Only letters of the alphabet",
+        "Only pictures"
+       ],
+       "answer": 1,
+       "why": "The unit states that data stored in a cell can be text, numbers, symbols, date/time and formulas — a cell is the basic unit where all these kinds of data are stored."
+      },
+      {
+       "q": "A formula can use which of the following?",
+       "options": [
+        "Only the SUM function",
+        "Only letters",
+        "Arithmetic operators and any function",
+        "Only cell colors"
+       ],
+       "answer": 2,
+       "why": "Each formula begins with an equal sign, uses one or more arithmetic operators, and can use any function — SUM is just one example given in the unit."
+      },
+      {
+       "q": "Marks obtained by students, stored in cells, are an example of which data type?",
+       "options": [
+        "Numeric data",
+        "Text data",
+        "Chart data",
+        "Menu data"
+       ],
+       "answer": 0,
+       "why": "Marks are numbers used for mathematical operations and calculations — totals, averages and percentages — so they are numeric data."
+      },
+      {
+       "q": "Student names written in a marks sheet are an example of which data type?",
+       "options": [
+        "Numeric data",
+        "Formula data",
+        "Date/time data",
+        "Text data"
+       ],
+       "answer": 3,
+       "why": "Names are descriptions used for categorization, which the unit gives as the primary use of text data in Excel."
+      }
+     ]
+    },
+    {
+     "title": "Charts and the Excel Window",
+     "notes_html": "<p><strong>Charts</strong> in Excel are used to <strong>visually represent data</strong> and enhance data analysis. Spreadsheets let you make colorful charts and graphs from the numbers in the cells, and charts are inserted through the <strong>Insert tab</strong>, which has tools for inserting charts, pictures, tables and other elements into the worksheet.</p><h4>Working in the Excel Window</h4><ul><li>The <strong>Quick Access Toolbar</strong> can be customized for quick access to common commands and functions.</li><li>The <strong>active cell</strong> is shown with a bold rectangle; type to enter data into it.</li><li>A <strong>worksheet</strong> is the work area; a <strong>workbook</strong> holds many worksheets in one file.</li></ul>",
+     "mcqs": [
+      {
+       "q": "What are charts used for in Excel?",
+       "options": [
+        "To store passwords safely",
+        "To visually represent data and enhance data analysis",
+        "To type long essays",
+        "To connect to the internet"
+       ],
+       "answer": 1,
+       "why": "The solved answer: charts in Excel are used to visually represent data and enhance data analysis, turning numbers in cells into colorful charts and graphs."
+      },
+      {
+       "q": "Through which tab are charts inserted in Excel?",
+       "options": [
+        "The Insert tab",
+        "The File tab",
+        "The Help tab",
+        "The View tab only"
+       ],
+       "answer": 0,
+       "why": "Charts are inserted through the Insert tab, which has tools for inserting charts, pictures, tables and other elements into the worksheet."
+      },
+      {
+       "q": "Besides charts, what else can the Insert tab add to a worksheet?",
+       "options": [
+        "New worksheets only",
+        "Passwords",
+        "Pictures, tables and other elements",
+        "Email accounts"
+       ],
+       "answer": 2,
+       "why": "The unit states that the Insert tab has tools for inserting charts, pictures, tables, and other elements into the worksheet."
+      },
+      {
+       "q": "The Quick Access Toolbar in Excel can be ___.",
+       "options": [
+        "removed from every computer",
+        "used only for printing",
+        "filled with charts",
+        "customized for quick access to common commands and functions"
+       ],
+       "answer": 3,
+       "why": "The unit's true/false exercise confirms that the Quick Access Toolbar in Excel can be customized for quick access to common commands and functions."
+      },
+      {
+       "q": "How is the active cell shown in Excel?",
+       "options": [
+        "It flashes red",
+        "It becomes invisible",
+        "With a bold rectangle around it",
+        "It moves to the top of the screen"
+       ],
+       "answer": 2,
+       "why": "A bold rectangle indicates an active cell; when a cell is selected we can enter data in it by typing on the keyboard."
+      },
+      {
+       "q": "How can you select a cell to make it active?",
+       "options": [
+        "By shouting its address",
+        "By printing the worksheet",
+        "By closing and reopening Excel",
+        "By clicking on it or by using the arrow keys from the keyboard"
+       ],
+       "answer": 3,
+       "why": "The solved answer: we can select any cell by clicking on it or by using the arrow keys from the keyboard, and the selected cell becomes the active cell."
+      },
+      {
+       "q": "Charts and graphs in a spreadsheet are made from ___.",
+       "options": [
+        "the names of the worksheets",
+        "the numbers in the cells",
+        "the colors of the toolbar",
+        "the file name"
+       ],
+       "answer": 1,
+       "why": "Spreadsheets let you make colorful charts and graphs from the numbers in the cells, which is why charts visually represent the data stored in the sheet."
+      },
+      {
+       "q": "Why do we use charts instead of only numbers?",
+       "options": [
+        "They make data easier to see, compare and analyze visually",
+        "They delete the original numbers",
+        "They work without any data",
+        "They are required for saving a file"
+       ],
+       "answer": 0,
+       "why": "Charts are used to visually represent data and enhance data analysis, so patterns and comparisons in the numbers become easy to understand at a glance."
+      },
+      {
+       "q": "True or False: A workbook is a collection of worksheets, and Excel allows you to work with multiple worksheets at once in one file.",
+       "options": [
+        "False",
+        "Only in Google Sheets",
+        "Only after printing",
+        "True"
+       ],
+       "answer": 3,
+       "why": "The statement is true: a workbook is a collection of worksheets, and Excel allows you to work with multiple worksheets at once in one file."
+      },
+      {
+       "q": "True or False: A worksheet is a space where you put data in rows and columns, and each box where a row and column meet is a cell with a unique name.",
+       "options": [
+        "False",
+        "Only columns, not rows",
+        "True",
+        "Cells have no names"
+       ],
+       "answer": 2,
+       "why": "The statement is true: in Excel 2016 a worksheet has rows 1 to 1,048,576 and columns A to XFD, and each box where a row and column meet is a cell with a unique name."
+      }
+     ]
+    },
+    {
+     "title": "Google Sheets: Menus, Toolbar and Uses",
+     "notes_html": "<p><strong>Google Sheets</strong> is an <strong>online spreadsheet application</strong>. Like Excel, it organizes data in rows and columns and lets you calculate, format and chart your data.</p><h4>The Menu Bar</h4><p>In Google Sheets, the menus are found in the <strong>Menu Bar</strong>, which is a list of choices at the <strong>top of the screen</strong>: File, Edit, View, Insert, Format, Data, Tools, Extensions and Help. Each choice has options to change how your sheet looks and works; the Menu Bar is like a control center for your Google Sheet.</p><h4>The Toolbar</h4><p>The <strong>toolbar</strong> in Google Sheets is a set of tools at the top of the screen. It has icons and buttons you can click to do things like changing text size, making numbers bold, or adding colors to cells. It is a quick way to access important features and make your sheet look the way you want.</p><h4>How to Open Google Sheets</h4><p>The unit's sections describe opening Google Sheets in the browser, its uses for students, and its advantages as an online application that can be used from anywhere.</p>",
+     "mcqs": [
+      {
+       "q": "What is Google Sheets?",
+       "options": [
+        "An online calendar application",
+        "A document editing tool",
+        "An online spreadsheet application",
+        "An email service"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ answer: Google Sheets is an online spreadsheet application, used for organizing and working with data in rows and columns like Excel."
+      },
+      {
+       "q": "Where is the Menu Bar typically located in Google Sheets?",
+       "options": [
+        "On the left side of the screen",
+        "At the bottom of the screen",
+        "In a separate window",
+        "At the top of the screen"
+       ],
+       "answer": 3,
+       "why": "The Menu Bar is at the top of the screen in Google Sheets; it holds the menus File, Edit, View, Insert, Format, Data, Tools, Extensions and Help."
+      },
+      {
+       "q": "Which menus are found in the Google Sheets Menu Bar?",
+       "options": [
+        "File, Edit, View, Insert, Format, Data, Tools, Extensions and Help",
+        "Only File and Edit",
+        "Home, Design and Layout only",
+        "Play, Pause and Stop"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists the menus in the Menu Bar: File, Edit, View, Insert, Format, Data, Tools, Extensions and Help — like a control center for the sheet."
+      },
+      {
+       "q": "What is the purpose of the toolbar in Google Sheets?",
+       "options": [
+        "It stores all your files",
+        "It gives quick access to tools like changing text size, making text bold and adding colors to cells",
+        "It connects the computer to a printer",
+        "It shows advertisements"
+       ],
+       "answer": 1,
+       "why": "The toolbar is a set of tools at the top of the screen with icons and buttons for changing text size, making numbers bold, or adding colors to cells — a quick way to access important features."
+      },
+      {
+       "q": "The Menu Bar in Google Sheets is described as being like a ___.",
+       "options": [
+        "control center for your Google Sheet",
+        "filing cabinet",
+        "calculator",
+        "notice board"
+       ],
+       "answer": 0,
+       "why": "The unit says the Menu Bar is like a control center for your Google Sheet, because each menu choice has options to change how your sheet looks and works."
+      },
+      {
+       "q": "What can each menu choice in the Menu Bar do?",
+       "options": [
+        "Delete the whole internet",
+        "Change how your sheet looks and works",
+        "Add new hardware to the computer",
+        "Print without a printer"
+       ],
+       "answer": 1,
+       "why": "Each choice in the Menu Bar has options to change how your sheet looks and works — for example Format changes appearance and Data works with the data."
+      },
+      {
+       "q": "Google Sheets is mainly different from desktop Excel because it is ___.",
+       "options": [
+        "used only for games",
+        "unable to use formulas",
+        "only for drawing pictures",
+        "an online application used in the browser"
+       ],
+       "answer": 3,
+       "why": "The unit presents Google Sheets as an online spreadsheet application with a Menu Bar and toolbar at the top, while Excel 2016 is the desktop program described in the same unit."
+      },
+      {
+       "q": "Making numbers bold and adding colors to cells are jobs done from the ___.",
+       "options": [
+        "cell address",
+        "workbook",
+        "toolbar",
+        "grid"
+       ],
+       "answer": 2,
+       "why": "The solved answer says the toolbar has icons and buttons you can click to do things like changing text size, making numbers bold, or adding colors to cells."
+      },
+      {
+       "q": "Which menu in Google Sheets would you open to add a chart to your sheet?",
+       "options": [
+        "Help",
+        "Insert",
+        "File",
+        "Extensions"
+       ],
+       "answer": 1,
+       "why": "The Insert menu is the one for adding elements such as charts to the sheet, matching the Insert tab's role in Excel described in this unit."
+      },
+      {
+       "q": "True or False: In Google Sheets, the menus are found in the Menu Bar at the top of the screen.",
+       "options": [
+        "True",
+        "False",
+        "They are at the bottom",
+        "They are in a separate window"
+       ],
+       "answer": 0,
+       "why": "The statement is true: in Google Sheets the menus are found in the Menu Bar, a list of choices at the top of the screen."
+      }
+     ]
+    },
+    {
+     "title": "Creating a Result Card in Excel",
+     "notes_html": "<p>The unit's long-answer question builds a <strong>result card</strong> for a student with marks in three subjects — Mathematics, Science and English — each out of 100.</p><h4>Steps to Build the Result Card</h4><ul><li>Display the student's <strong>name, roll number</strong> and other relevant information at the top.</li><li>Make a table with headings Mathematics Marks, Science Marks and English Marks (maximum 100 each) and enter the marks.</li><li>Calculate the <strong>total</strong> with a SUM formula, for example <strong>=SUM(B2:D2)</strong> if the three marks are in B2, C2 and D2.</li><li>Calculate the <strong>percentage</strong>: divide the total marks obtained by the sum of the maximum marks (300) and multiply by 100.</li><li>Determine the <strong>grade</strong> from the percentage using an IF formula and the book's criteria.</li><li><strong>Format</strong> the result card with headings, borders and alignment for a neat, professional appearance.</li></ul><h4>Grading Criteria (from the book)</h4><table><tr><th>Percentage</th><th>Grade</th></tr><tr><td>90% or above</td><td>A+</td></tr><tr><td>80% to 89.99%</td><td>A</td></tr><tr><td>70% to 79.99%</td><td>B</td></tr><tr><td>60% to 69.99%</td><td>C</td></tr><tr><td>Below 60%</td><td>Fail</td></tr></table>",
+     "mcqs": [
+      {
+       "q": "In the result card activity, the three subjects are each out of how many marks?",
+       "options": [
+        "50 marks each",
+        "100 marks each, 300 in total",
+        "75 marks each",
+        "200 marks each"
+       ],
+       "answer": 1,
+       "why": "The book's activity sets Mathematics, Science and English at a maximum of 100 marks each, so the maximum total is 300."
+      },
+      {
+       "q": "Which formula calculates the total if the three marks are in B2, C2 and D2?",
+       "options": [
+        "=TOTAL(B2+D2)",
+        "=ADD(B2:D2)",
+        "=SUM(B2:D2)",
+        "=MARKS(B2,D2)"
+       ],
+       "answer": 2,
+       "why": "The solved answer gives =SUM(B2:D2) as the formula that adds the three marks stored in cells B2, C2 and D2 of the result card."
+      },
+      {
+       "q": "How is the percentage calculated on the result card?",
+       "options": [
+        "Divide the total marks obtained by 300 (the sum of maximum marks) and multiply by 100",
+        "Divide the total by 100 and multiply by 3",
+        "Add the three percentages together",
+        "Divide each mark by 3"
+       ],
+       "answer": 0,
+       "why": "The book's steps: calculate the percentage by dividing the total marks obtained by the sum of the maximum marks (300) and multiplying by 100."
+      },
+      {
+       "q": "According to the book's grading criteria, a student with 90% or above gets which grade?",
+       "options": [
+        "A",
+        "B",
+        "C",
+        "A+"
+       ],
+       "answer": 3,
+       "why": "The book's criteria: 90% or above: A+; 80% to 89.99%: A; 70% to 79.99%: B; 60% to 69.99%: C; below 60%: Fail."
+      },
+      {
+       "q": "A student scores 75%. According to the book's criteria, the grade is ___.",
+       "options": [
+        "A+",
+        "B",
+        "A",
+        "C"
+       ],
+       "answer": 1,
+       "why": "75% falls in the 70% to 79.99% band of the book's grading criteria, which is grade B."
+      },
+      {
+       "q": "A student scores 55%. According to the book's criteria, the result is ___.",
+       "options": [
+        "C",
+        "B",
+        "Fail",
+        "A"
+       ],
+       "answer": 2,
+       "why": "The criteria state that below 60% is Fail, so a student with 55% fails under the book's grading scheme."
+      },
+      {
+       "q": "Which formula is used to determine the grade from the percentage?",
+       "options": [
+        "A SUM formula",
+        "An AVERAGE formula",
+        "A MAX formula",
+        "An IF formula"
+       ],
+       "answer": 3,
+       "why": "The book's steps say to determine the grade from the percentage using an IF formula and the book's criteria, because IF tests a condition and picks a result."
+      },
+      {
+       "q": "What information is displayed at the top of the result card?",
+       "options": [
+        "The student's name, roll number and other relevant information",
+        "Only the school address",
+        "The teacher's salary",
+        "Next year's timetable"
+       ],
+       "answer": 0,
+       "why": "Step 1 of the book's answer: display the student's name, roll number and other relevant information at the top of the result card."
+      },
+      {
+       "q": "In the class activity for 10 students, which columns does the book's sample layout use?",
+       "options": [
+        "Name, Address, Phone, Class only",
+        "Subject, Teacher, Room, Day",
+        "Student Name, Math, Science, English, History, Total Marks, Percentage",
+        "Roll No and Grade only"
+       ],
+       "answer": 2,
+       "why": "The book's sample layout for the Student Marks Calculation activity is: Student Name, Math, Science, English, History, Total Marks, Percentage."
+      },
+      {
+       "q": "Why is the result card formatted with headings, borders and alignment?",
+       "options": [
+        "To hide the marks",
+        "To give it a neat and professional appearance",
+        "To make the file larger",
+        "To remove the formulas"
+       ],
+       "answer": 1,
+       "why": "The final step of the book's answer is to format the result card, with headings, borders and alignment, for a neat and professional appearance."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Algorithmic Thinking and Problem Solving",
+   "lessons": [
+    {
+     "title": "Computational Thinking and Problem Solving",
+     "notes_html": "<p><strong>Computational thinking</strong> is a method of solving problems using techniques and skills that are common in computer science. It is not just limited to computers; it also helps us solve everyday problems efficiently. Its four key concepts are <strong>decomposition</strong>, <strong>pattern recognition</strong>, <strong>abstraction</strong> and <strong>algorithm design</strong>.</p><h4>Problem Solving</h4><p><strong>Problem-solving</strong> involves finding solutions to issues or difficulties. A problem is a situation, task or question that needs to be solved or dealt with. The problem-solving strategies in this unit are:</p><ul><li>Identify the problem clearly.</li><li>Break the problem down (<strong>decomposition</strong>).</li><li>Look for patterns.</li><li>Develop an algorithm.</li><li>Test and improve the solution.</li></ul><p>A <strong>problem-solving approach</strong> is important because it turns a large, complex problem into smaller parts that can be solved individually, making the whole problem easier to manage.</p><h4>Logic</h4><p>In problem-solving, <strong>logic</strong> means using reasoning and rationality to arrive at conclusions. Conditions in a program are logical statements or expressions that evaluate to either true or false, using comparison operators (==, &gt;, &lt;) and logical operators (AND, OR, NOT).</p>",
+     "mcqs": [
+      {
+       "q": "What is computational thinking?",
+       "options": [
+        "Cooking your favorite meal",
+        "Solving crossword puzzles",
+        "A problem-solving approach using computer science principles",
+        "Playing video games"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ answer: computational thinking is a problem-solving approach that uses techniques and skills common in computer science, and it helps with everyday problems too."
+      },
+      {
+       "q": "What is problem-solving?",
+       "options": [
+        "Finding solutions to issues or difficulties",
+        "Creating computer programs",
+        "Playing with friends",
+        "Drawing pictures"
+       ],
+       "answer": 0,
+       "why": "Problem-solving involves finding solutions to issues or difficulties; a problem is a situation, task or question that needs to be solved or dealt with."
+      },
+      {
+       "q": "What are the four key concepts of computational thinking?",
+       "options": [
+        "Typing, clicking, saving and printing",
+        "Reading, writing, speaking and listening",
+        "Input, output, storage and display",
+        "Decomposition, pattern recognition, abstraction and algorithm design"
+       ],
+       "answer": 3,
+       "why": "The unit names the four key concepts of computational thinking as decomposition, pattern recognition, abstraction, and algorithm design."
+      },
+      {
+       "q": "What does logic mean in problem-solving?",
+       "options": [
+        "Magic tricks",
+        "Using reasoning and rationality to arrive at conclusions",
+        "Playing musical instruments",
+        "Solving only math problems"
+       ],
+       "answer": 1,
+       "why": "Logic is defined in the unit as using reasoning and rationality to arrive at conclusions; conditions in a program are logical statements that evaluate to true or false."
+      },
+      {
+       "q": "Which is the first problem-solving strategy in this unit?",
+       "options": [
+        "Test the solution",
+        "Buy a new computer",
+        "Identify the problem clearly",
+        "Draw a flowchart"
+       ],
+       "answer": 2,
+       "why": "The unit's strategies begin with identifying the problem clearly, then breaking it down, looking for patterns, developing an algorithm, and testing and improving the solution."
+      },
+      {
+       "q": "Breaking a problem down into smaller parts is called ___.",
+       "options": [
+        "abstraction",
+        "decomposition",
+        "iteration",
+        "automation"
+       ],
+       "answer": 1,
+       "why": "Decomposition is the strategy of breaking the problem down into smaller parts that can be solved individually, making the whole problem easier to manage."
+      },
+      {
+       "q": "Conditions in a program evaluate to which values?",
+       "options": [
+        "True or false",
+        "Numbers only",
+        "Letters only",
+        "Colors"
+       ],
+       "answer": 0,
+       "why": "The unit states that conditions in a program are logical statements or expressions that evaluate to either true or false, using comparison and logical operators."
+      },
+      {
+       "q": "Which of these are logical operators named in the unit?",
+       "options": [
+        "PLUS, MINUS and TIMES",
+        "IF, THEN and ELSE only",
+        "SUM, MAX and MIN",
+        "AND, OR and NOT"
+       ],
+       "answer": 3,
+       "why": "The unit names AND, OR and NOT as the logical operators, alongside comparison operators such as ==, > and <."
+      },
+      {
+       "q": "Why is a problem-solving approach important?",
+       "options": [
+        "It removes the need to think",
+        "It turns a large, complex problem into smaller parts that can be solved individually",
+        "It makes problems disappear",
+        "It works only for computers"
+       ],
+       "answer": 1,
+       "why": "The solved answer: a problem-solving approach turns a large, complex problem into smaller parts that can be solved individually, making the whole problem easier to manage."
+      },
+      {
+       "q": "True or False: Computational thinking uses principles from computer science to address challenges.",
+       "options": [
+        "False",
+        "Only for games",
+        "True",
+        "Only for robots"
+       ],
+       "answer": 2,
+       "why": "The statement is true: computational thinking is a method of solving problems using techniques and skills that are common in computer science."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms: Characteristics and How to Write Them",
+     "notes_html": "<p>An <strong>algorithm</strong> is a step-by-step set of instructions designed to solve a specific problem or complete a task, like a recipe for cooking that tells you exactly what to do, step by step, to get a result. The word <em>algorithm</em> is named after the famous mathematician <strong>Muhammad Ibne Musa Al-Khwarizmi</strong>.</p><h4>Characteristics of an Algorithm</h4><ul><li><strong>Input</strong> — an algorithm may or may not require input.</li><li><strong>Output</strong> — each algorithm is expected to produce at least one result.</li><li><strong>Definiteness</strong> — each instruction must be clear and unambiguous.</li><li><strong>Finiteness</strong> — it should terminate after a finite number of steps; finite time means a limited and defined period of time.</li></ul><h4>How to Write an Algorithm</h4><ul><li>Understand the problem and identify the input and the output.</li><li>Plan the steps (decomposition).</li><li>Write the algorithm in simple language using commands like Start, Input, Add and Display.</li><li>Ensure the algorithm is complete.</li><li>Test the algorithm.</li></ul><p>Rules for writing algorithms: clear problem statement, step-by-step instructions, specific and clear steps, good names, logical order, and be brief. <strong>Advantages:</strong> an algorithm is a stepwise representation of a solution, which makes it easy to understand; it uses a definite procedure; it is not dependent on any programming language; and every step has its own logical sequence, so it is easy to debug.</p><h4>Design</h4><p>In problem-solving, <strong>design</strong> means creating the step-by-step plan of the solution — algorithm design. Once the problem is broken down, we create a clear plan of action that can be followed, and then test and improve the solution.</p>",
+     "mcqs": [
+      {
+       "q": "What are algorithms?",
+       "options": [
+        "Step-by-step instructions for solving problems",
+        "Cooking recipes only",
+        "Computer games",
+        "Secret codes"
+       ],
+       "answer": 0,
+       "why": "An algorithm is a step-by-step set of instructions designed to solve a specific problem or complete a task, like a recipe that tells you exactly what to do step by step."
+      },
+      {
+       "q": "The word algorithm is named after which famous mathematician?",
+       "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "John Von Neumann",
+        "Muhammad Ibne Musa Al-Khwarizmi"
+       ],
+       "answer": 3,
+       "why": "The unit states that the word algorithm is named after the famous mathematician Muhammad Ibne Musa Al-Khwarizmi."
+      },
+      {
+       "q": "What does finite time mean?",
+       "options": [
+        "Time that never ends",
+        "A limited and defined period of time",
+        "Time for playing games",
+        "Time for watching TV"
+       ],
+       "answer": 1,
+       "why": "Finite time is a limited and defined period of time; it matches the finiteness characteristic — an algorithm should terminate after a finite number of steps."
+      },
+      {
+       "q": "Which characteristic means each instruction of an algorithm must be clear and unambiguous?",
+       "options": [
+        "Finiteness",
+        "Input",
+        "Definiteness",
+        "Output"
+       ],
+       "answer": 2,
+       "why": "Definiteness means each instruction must be clear and unambiguous; finiteness means the algorithm terminates after a finite number of steps."
+      },
+      {
+       "q": "True or False: Algorithms are random sets of instructions used for solving problems.",
+       "options": [
+        "False",
+        "True",
+        "Only sometimes",
+        "Only in mathematics"
+       ],
+       "answer": 0,
+       "why": "The statement is false: algorithms are carefully planned step-by-step instructions with a logical order — the rules require specific, clear steps in logical order, not random ones."
+      },
+      {
+       "q": "What is the first step in writing an algorithm?",
+       "options": [
+        "Test the algorithm",
+        "Draw the flowchart",
+        "Understand the problem and identify the input and the output",
+        "Write the final answer"
+       ],
+       "answer": 2,
+       "why": "To write an algorithm we first understand the problem and identify the input and the output, then plan the steps, write them in simple language, ensure completeness, and test."
+      },
+      {
+       "q": "Which commands are used when writing an algorithm in simple language?",
+       "options": [
+        "Open, Close, Save and Print only",
+        "Play, Pause and Stop",
+        "Cut, Copy and Paste",
+        "Start, Input, Add and Display"
+       ],
+       "answer": 3,
+       "why": "The unit says to write the algorithm in simple language using commands like Start, Input, Add and Display."
+      },
+      {
+       "q": "Which is an advantage of an algorithm?",
+       "options": [
+        "It never needs testing",
+        "It is not dependent on any programming language, and every step has its own logical sequence so it is easy to debug",
+        "It writes itself",
+        "It works without any steps"
+       ],
+       "answer": 1,
+       "why": "Advantages from the unit: a stepwise representation that is easy to understand, a definite procedure, independence from any programming language, and a logical sequence that makes it easy to debug."
+      },
+      {
+       "q": "Each algorithm is expected to produce at least ___.",
+       "options": [
+        "ten inputs",
+        "one error",
+        "one result (output)",
+        "two flowcharts"
+       ],
+       "answer": 2,
+       "why": "The Output characteristic states that each algorithm is expected to produce at least one result; input, by contrast, may or may not be required."
+      },
+      {
+       "q": "In problem-solving, what does design mean?",
+       "options": [
+        "Creating the step-by-step plan of the solution — algorithm design",
+        "Drawing pictures of the answer",
+        "Choosing colors for a chart",
+        "Naming the computer file"
+       ],
+       "answer": 0,
+       "why": "Design means creating the step-by-step plan of the solution: once the problem is broken down, we create a clear plan of action that can be followed, then test and improve it."
+      }
+     ]
+    },
+    {
+     "title": "Flowcharts and Their Symbols",
+     "notes_html": "<p>A <strong>flowchart</strong> is the diagrammatic/graphical representation of the sequence of steps to solve a problem; it is also known as a <strong>blueprint</strong> of a design used for solving a specific problem. The first design of flowchart was designed by <strong>John Von Neumann in 1945</strong>. Its purpose is to communicate the logic of a program clearly.</p><h4>Standard Flowchart Symbols</h4><table><tr><th>Symbol</th><th>Used For</th></tr><tr><td>Oval</td><td>Start and End of flowchart</td></tr><tr><td>Parallelogram</td><td>Input and Output operations</td></tr><tr><td>Rectangle</td><td>Processing — arithmetic operations and data manipulations</td></tr><tr><td>Diamond</td><td>Decision making, with two/three alternatives such as true and false</td></tr><tr><td>Arrows</td><td>Flow lines that indicate the flow of logic</td></tr><tr><td>Circle</td><td>Same page connector</td></tr><tr><td>Link</td><td>Off page connector</td></tr></table><h4>Advantages and Rules</h4><p>Advantages: a flowchart is an excellent way of communicating the logic of a program; it is easy and efficient to analyze a problem; it acts as a blueprint, making program development easier; it makes maintenance easier; and it is easy to convert into any programming language code. Rules for drawing: use the standard shapes, begin and end with ovals labeled Start and End, give each shape one arrow in and one arrow out, label shapes simply, use diamonds for decisions with Yes/No labels, and keep connections clean.</p><h4>Computer Programs</h4><p>A <strong>computer program</strong> is a set of instructions for a computer to follow. The <strong>Traveling Salesman Problem (TSP)</strong> is the classic problem of finding the shortest route to visit cities and return to the starting city.</p>",
+     "mcqs": [
+      {
+       "q": "What is a flowchart?",
+       "options": [
+        "A drawing of a superhero",
+        "A map for traveling",
+        "A recipe for baking cookies",
+        "A graphical representation of a process or algorithm"
+       ],
+       "answer": 3,
+       "why": "A flowchart is the diagrammatic/graphical representation of the sequence of steps to solve a problem, using standard symbols and arrows to show the flow of steps."
+      },
+      {
+       "q": "Who is credited with the first design of a flowchart in 1945?",
+       "options": [
+        "Albert Einstein",
+        "John Von Neumann",
+        "Isaac Newton",
+        "Leonardo da Vinci"
+       ],
+       "answer": 1,
+       "why": "The unit credits John Von Neumann with the first design of a flowchart in 1945."
+      },
+      {
+       "q": "Which symbol is used for Start and End in a flowchart?",
+       "options": [
+        "Diamond",
+        "Rectangle",
+        "Oval",
+        "Parallelogram"
+       ],
+       "answer": 2,
+       "why": "The oval is the Start/End symbol; the rules say to begin and end every flowchart with ovals labeled Start and End."
+      },
+      {
+       "q": "Which symbol is used for Input and Output operations?",
+       "options": [
+        "Parallelogram",
+        "Oval",
+        "Diamond",
+        "Circle"
+       ],
+       "answer": 0,
+       "why": "The parallelogram represents Input and Output operations, such as reading a value or printing a result, in a flowchart."
+      },
+      {
+       "q": "Which symbol is used for decision making in a flowchart?",
+       "options": [
+        "Rectangle",
+        "Oval",
+        "Arrow",
+        "Diamond"
+       ],
+       "answer": 3,
+       "why": "The diamond is used for decision making, where there are two/three alternatives such as true and false; decisions are labeled Yes/No."
+      },
+      {
+       "q": "Which symbol is used for processing, such as arithmetic operations?",
+       "options": [
+        "Rectangle",
+        "Parallelogram",
+        "Circle",
+        "Diamond"
+       ],
+       "answer": 0,
+       "why": "The rectangle represents processing — arithmetic operations and data manipulations — in a flowchart."
+      },
+      {
+       "q": "What is a computer program?",
+       "options": [
+        "A set of building blocks",
+        "A set of instructions for a computer to follow",
+        "A list of favorite movies",
+        "A type of puzzle"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: a computer program is a set of instructions for a computer to follow, just as an algorithm is the step-by-step plan behind it."
+      },
+      {
+       "q": "What is the Traveling Salesman Problem (TSP)?",
+       "options": [
+        "Finding the shortest route to a friend's house",
+        "Solving math equations",
+        "Finding the shortest route to visit cities and return to the starting city",
+        "Booking a flight for a vacation"
+       ],
+       "answer": 2,
+       "why": "TSP is the classic problem of finding the shortest route to visit cities and return to the starting city, given in this unit as a famous problem-solving example."
+      },
+      {
+       "q": "Which is an advantage of a flowchart?",
+       "options": [
+        "It is an excellent way of communicating the logic of a program and is easy to convert into any programming language code",
+        "It removes the need for an algorithm",
+        "It draws itself automatically",
+        "It works without symbols"
+       ],
+       "answer": 0,
+       "why": "Advantages from the unit: flowcharts communicate the logic of a program, make analysis and maintenance easier, act as a blueprint, and are easy to convert into code in any programming language."
+      },
+      {
+       "q": "In a flowchart, arrows are used to ___.",
+       "options": [
+        "make decisions",
+        "store data",
+        "start the program",
+        "indicate the flow of logic between the shapes"
+       ],
+       "answer": 3,
+       "why": "Arrows are the flow lines that indicate the flow of logic; the rules say to give each shape one arrow in and one arrow out and keep connections clean."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms in Action: Swapping, Minimum and Even or Odd",
+     "notes_html": "<p>The unit's class activities turn everyday problems into algorithms and flowcharts.</p><h4>Swap Two Numbers Using a Temporary Variable</h4><p>Algorithm: Step-1 Start. Step-2 Input two numbers, say A, B. Step-3 <strong>TEMP = A</strong>. Step-4 <strong>A = B</strong>. Step-5 <strong>B = TEMP</strong>. Step-6 Display the values of A, B after the swap. Step-7 Stop. In the flowchart, a parallelogram takes the input, rectangles do TEMP = A, A = B and B = TEMP, and a parallelogram prints A, B.</p><h4>Compare Two Numbers to Find the Minimum</h4><p>Algorithm: 1. Start. 2. Read the first number A. 3. Read the second number B. 4. If A is less than B, print “A is the minimum number”. 5. Else print “B is the minimum number”. 6. End. The decision is drawn as a diamond: <strong>Is A &lt; B?</strong></p><h4>Check Whether a Number Is Even or Odd</h4><p>Algorithm: 1. Start. 2. Read the value of N. 3. If N is divisible by 2 (N % 2 equals 0), print “N is Even”. 4. Else print “N is Odd”. 5. End. The diamond asks: <strong>Is N % 2 = 0?</strong></p>",
+     "mcqs": [
+      {
+       "q": "In the swap algorithm, why is a temporary variable TEMP used?",
+       "options": [
+        "To make the algorithm longer",
+        "To hold the value of A safely while A is overwritten with B's value",
+        "To store the final answer forever",
+        "To count the steps"
+       ],
+       "answer": 1,
+       "why": "TEMP = A keeps the original value of A safe; after A = B, the step B = TEMP puts the saved value into B, completing the swap without losing data."
+      },
+      {
+       "q": "What are the three middle steps of the swap algorithm, in order?",
+       "options": [
+        "TEMP = A, then A = B, then B = TEMP",
+        "A = B, then B = A, then TEMP = A",
+        "TEMP = B, then B = TEMP, then A = TEMP",
+        "A = TEMP, then TEMP = B, then B = A"
+       ],
+       "answer": 0,
+       "why": "The book's worked example: Step-3 TEMP = A, Step-4 A = B, Step-5 B = TEMP, then display the swapped values and stop."
+      },
+      {
+       "q": "If A = 5 and B = 9 at the start, what are A and B after the swap algorithm runs?",
+       "options": [
+        "A = 5 and B = 9",
+        "A = 9 and B = 9",
+        "A = 9 and B = 5",
+        "A = 5 and B = 5"
+       ],
+       "answer": 2,
+       "why": "TEMP takes 5, A becomes 9, and B becomes TEMP's 5 — so the values are exchanged: A = 9 and B = 5."
+      },
+      {
+       "q": "In the minimum-number flowchart, the diamond asks which question?",
+       "options": [
+        "Is A + B = 0?",
+        "Is A the same as TEMP?",
+        "Is B even?",
+        "Is A < B?"
+       ],
+       "answer": 3,
+       "why": "The flowchart uses a diamond 'Is A < B?' — on Yes it prints A is minimum; on No it prints B is minimum; both paths join to END."
+      },
+      {
+       "q": "If A = 12 and B = 7 in the minimum algorithm, what is printed?",
+       "options": [
+        "A is the minimum number",
+        "Both are equal",
+        "B is the minimum number",
+        "An error message"
+       ],
+       "answer": 2,
+       "why": "A (12) is not less than B (7), so the Else path runs and the algorithm prints that B is the minimum number."
+      },
+      {
+       "q": "In the even/odd algorithm, what does N % 2 = 0 test?",
+       "options": [
+        "Whether N is greater than 2",
+        "Whether N has two digits",
+        "Whether N is a prime number",
+        "Whether N is divisible by 2 with no remainder"
+       ],
+       "answer": 3,
+       "why": "The book's worked example: if N is divisible by 2 (N % 2 equals 0), print N is Even; else print N is Odd."
+      },
+      {
+       "q": "Using the even/odd algorithm, the number 14 gives which output?",
+       "options": [
+        "N is Odd",
+        "N is Even",
+        "N is Prime",
+        "N is Zero"
+       ],
+       "answer": 1,
+       "why": "14 divided by 2 leaves no remainder (14 % 2 = 0), so the Yes path of the diamond prints that N is Even."
+      },
+      {
+       "q": "Using the even/odd algorithm, the number 27 gives which output?",
+       "options": [
+        "N is Odd",
+        "N is Even",
+        "N is Prime",
+        "N is Negative"
+       ],
+       "answer": 0,
+       "why": "27 % 2 equals 1, not 0, so the Else path runs and the algorithm prints that N is Odd."
+      },
+      {
+       "q": "In these flowcharts, input and output steps are drawn with which shape?",
+       "options": [
+        "Diamond",
+        "Oval",
+        "Rectangle",
+        "Parallelogram"
+       ],
+       "answer": 3,
+       "why": "Input and printing steps use parallelograms (Input Value of A, B; Print A, B), while decisions use diamonds and processing steps use rectangles."
+      },
+      {
+       "q": "Processing steps like TEMP = A are drawn with which shape?",
+       "options": [
+        "Oval",
+        "Diamond",
+        "Rectangle",
+        "Parallelogram"
+       ],
+       "answer": 2,
+       "why": "Rectangles represent processing — arithmetic operations and data manipulations such as TEMP = A, A = B and B = TEMP in the swap flowchart."
+      }
+     ]
+    },
+    {
+     "title": "Loops in Algorithms: Tables and Sums",
+     "notes_html": "<p>A <strong>loop</strong> repeats steps while a condition is true. In a flowchart, an arrow loops back to the decision diamond until the condition becomes false.</p><h4>Print the Table of 7</h4><p>Algorithm: 1. Start. 2. Set a variable i to 1. 3. Repeat while i &lt;= 10: print 7 x i = 7*i; increment i by 1 (i = i + 1). 4. Stop. This prints 7 x 1 = 7, 7 x 2 = 14, and so on up to 7 x 10 = 70. The diamond asks: <strong>Is i &lt;= 10?</strong> — on Yes, print and loop back; on No, go to END.</p><h4>Print the First 10 Natural Numbers and Their Sum</h4><p>Algorithm: 1. Start. 2. Set Sum = 0 and i = 1. 3. Repeat while i &lt;= 10: print i; add i to Sum (Sum = Sum + i); increment i by 1. 4. Print Sum. 5. Stop. The numbers printed are 1 to 10 and their sum is <strong>55</strong>.</p>",
+     "mcqs": [
+      {
+       "q": "In the table-of-7 algorithm, the loop repeats while which condition is true?",
+       "options": [
+        "i = 7",
+        "i > 10",
+        "i <= 10",
+        "i is even"
+       ],
+       "answer": 2,
+       "why": "The algorithm repeats the steps while i <= 10: print 7 x i, then increment i by 1; when i passes 10 the loop stops."
+      },
+      {
+       "q": "What is the last line printed by the table-of-7 algorithm?",
+       "options": [
+        "7 x 7 = 49",
+        "7 x 11 = 77",
+        "7 x 10 = 17",
+        "7 x 10 = 70"
+       ],
+       "answer": 3,
+       "why": "The loop runs for i = 1 to 10, so the last line printed is 7 x 10 = 70; the book's answer confirms the table runs up to 7 x 10 = 70."
+      },
+      {
+       "q": "Why must i be incremented by 1 inside the loop?",
+       "options": [
+        "So that i eventually passes 10 and the loop terminates",
+        "To make the numbers smaller",
+        "To skip the number 7",
+        "To print the same line again"
+       ],
+       "answer": 0,
+       "why": "Incrementing i (i = i + 1) moves the loop forward each time; without it, i would stay at 1 forever and the loop would never end — an algorithm must finish in finite time."
+      },
+      {
+       "q": "In the sum algorithm, what are the starting values?",
+       "options": [
+        "Sum = 1 and i = 0",
+        "Sum = 0 and i = 1",
+        "Sum = 10 and i = 10",
+        "Sum = 55 and i = 1"
+       ],
+       "answer": 1,
+       "why": "The algorithm starts with Sum = 0 and a variable i set to 1, then adds each value of i to Sum as the loop runs from 1 to 10."
+      },
+      {
+       "q": "What is the sum of the first 10 natural numbers, as printed by the algorithm?",
+       "options": [
+        "55",
+        "45",
+        "50",
+        "100"
+       ],
+       "answer": 0,
+       "why": "Adding 1 + 2 + ... + 10 gives 55; the book's answer confirms the numbers printed are 1 to 10 and their sum is 55."
+      },
+      {
+       "q": "In the sum flowchart, where does the arrow go when the diamond's answer is Yes?",
+       "options": [
+        "Straight to END",
+        "It loops back through the print and add steps to the diamond again",
+        "To the Start oval",
+        "To a new page"
+       ],
+       "answer": 1,
+       "why": "On Yes (i <= 10), the flowchart prints i, adds i to Sum, increments i, and an arrow loops back to the diamond; on No it prints Sum and ends."
+      },
+      {
+       "q": "When does the sum algorithm print the final Sum?",
+       "options": [
+        "Before the loop starts",
+        "Inside every loop round",
+        "Instead of the loop",
+        "After the loop finishes, when i has passed 10"
+       ],
+       "answer": 3,
+       "why": "The Print Sum step comes after the loop: the flowchart's No path from the diamond leads to Print Sum and then END."
+      },
+      {
+       "q": "In the table-of-7 flowchart, which step is drawn as a rectangle?",
+       "options": [
+        "The Start oval",
+        "The Is i <= 10? decision",
+        "i = i + 1 (incrementing the counter)",
+        "Printing the result line"
+       ],
+       "answer": 2,
+       "why": "Processing steps such as i = i + 1 are rectangles; the decision is a diamond, input/output are parallelograms, and Start/End are ovals."
+      },
+      {
+       "q": "A loop in an algorithm is an example of which idea from this unit?",
+       "options": [
+        "Storing data in a cell",
+        "Repeating steps under a condition until the condition becomes false",
+        "Drawing a chart",
+        "Naming a variable"
+       ],
+       "answer": 1,
+       "why": "Both worked examples repeat steps while a condition (i <= 10) is true, and stop when it becomes false — that is how loops work in algorithms and flowcharts."
+      },
+      {
+       "q": "If the condition in the table-of-7 loop were i <= 5 instead, how many lines would print?",
+       "options": [
+        "5 lines, from 7 x 1 up to 7 x 5",
+        "7 lines",
+        "10 lines",
+        "No lines at all"
+       ],
+       "answer": 0,
+       "why": "The loop prints one line per value of i; with i running from 1 to 5 it would print 5 lines, ending at 7 x 5 = 35."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Programming",
+   "lessons": [
+    {
+     "title": "Scratch and Block-Based Programming",
+     "notes_html": "<p><strong>Scratch</strong> is a tool developed by <strong>MIT Media Lab (USA) in 2003</strong>. It is used to make stories through animations and visual effects, and the developed stories, scripts, animations and games can be shared online. This programming language is called the <strong>educational programming language</strong>; it is mainly for children (ages 8–16) and is <strong>free</strong>.</p><h4>Block-Based Programming</h4><p>Scratch uses <strong>visual coding</strong>: programming by snapping together picture blocks instead of typing text commands. <strong>Blocks</strong> are the units in Scratch programming. Each block has its own set of functions and properties and is unique from the others. Multiple blocks joined together become a program that works as a single unit.</p><h4>Scripts</h4><p>You click on the <strong>Scripts tab</strong> to write a script. Scripts are built in the Scripts Area by dragging blocks from the Blocks Area and snapping them together; a script is the name of a program or method — it tells the actor (sprite) what to do. A Scratch <strong>project</strong> encompasses various works like games, stories, animations or artworks created using code.</p>",
+     "mcqs": [
+      {
+       "q": "What is Scratch?",
+       "options": [
+        "A type of coding language written in paragraphs",
+        "A block-based programming tool for animations and education",
+        "A physical game for kids",
+        "A type of computer hardware"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: Scratch is a block-based programming tool for animations and education, developed by MIT Media Lab as an educational programming language."
+      },
+      {
+       "q": "Scratch was developed by whom, and when?",
+       "options": [
+        "Microsoft in 2010",
+        "Google in 2005",
+        "MIT Media Lab (USA) in 2003",
+        "Apple in 2001"
+       ],
+       "answer": 2,
+       "why": "The unit states that Scratch is a tool developed by MIT Media Lab (USA) in 2003, used to make stories through animations and visual effects."
+      },
+      {
+       "q": "What is Block-based Programming in Scratch?",
+       "options": [
+        "Visual coding with blocks",
+        "Writing code in paragraphs",
+        "Coding using text-based commands",
+        "Drawing pictures on the screen"
+       ],
+       "answer": 0,
+       "why": "Scratch uses pictures and clicks for easy code creation, called Visual Coding: you snap blocks together instead of typing text-based commands."
+      },
+      {
+       "q": "Scratch is mainly designed for which users?",
+       "options": [
+        "Only professional programmers",
+        "Only university students",
+        "Only game companies",
+        "Children (ages 8–16), and it is free"
+       ],
+       "answer": 3,
+       "why": "The unit calls Scratch the educational programming language; it is mainly for children (ages 8-16) and is free."
+      },
+      {
+       "q": "What are blocks in Scratch?",
+       "options": [
+        "The pictures stored on the Stage",
+        "The units of Scratch programming; each block has its own functions and properties",
+        "The sounds in a project",
+        "The pages of the Scratch website"
+       ],
+       "answer": 1,
+       "why": "Blocks are known as the units in Scratch programming; each block has its own set of functions and properties, and multiple blocks joined together become a program that works as a single unit."
+      },
+      {
+       "q": "On which tab do you click to write a script?",
+       "options": [
+        "The Costumes tab",
+        "The Sounds tab",
+        "The Scripts tab",
+        "The Backdrops tab"
+       ],
+       "answer": 2,
+       "why": "You click on the Scripts tab to write a script; scripts are built in the Scripts Area by dragging blocks from the Blocks Area and snapping them together."
+      },
+      {
+       "q": "What is a script in Scratch?",
+       "options": [
+        "A story written in a notebook",
+        "A picture of a sprite",
+        "A type of sound file",
+        "A program or method that tells the actor (sprite) what to do"
+       ],
+       "answer": 3,
+       "why": "A script is the name of a program or method — it tells the actor (sprite) what to do, and it is built by snapping blocks together."
+      },
+      {
+       "q": "What can be made and shared online with Scratch?",
+       "options": [
+        "Stories, scripts, animations and games",
+        "Only spreadsheets",
+        "Only emails",
+        "Only printed books"
+       ],
+       "answer": 0,
+       "why": "The unit says Scratch is used to make stories through animations and visual effects, and the developed stories, scripts, animations, and games can be shared online."
+      },
+      {
+       "q": "A Scratch project can be which of the following?",
+       "options": [
+        "Only a single drawing",
+        "Only a song",
+        "Games, stories, animations or artworks created using code",
+        "Only a text document"
+       ],
+       "answer": 2,
+       "why": "The true/false exercise confirms: in Scratch, a project encompasses various works like games, stories, animations, or artworks created using code."
+      },
+      {
+       "q": "True or False: Scratch uses pictures and clicks for easy code creation, which is called Visual Coding.",
+       "options": [
+        "False",
+        "True",
+        "Only for sounds",
+        "Only on tablets"
+       ],
+       "answer": 1,
+       "why": "The statement is true: Scratch's block-based approach, using pictures and clicks for easy code creation, is called Visual Coding."
+      }
+     ]
+    },
+    {
+     "title": "Sprites, the Stage and Backdrops",
+     "notes_html": "<p><strong>Sprites</strong> are objects/actors used for developing a program. The sprite present <strong>by default</strong> in Scratch is the <strong>cat (Sprite1)</strong>, the orange Scratch cat that appears on the Stage when a new project is opened.</p><h4>The Stage</h4><p>The <strong>Stage</strong> is where the actors perform and information is displayed — it is where sprites act out the scripts.</p><h4>Adding a New Sprite</h4><ul><li>Go to the <strong>Sprite List</strong> below the Stage and click the <strong>New sprite</strong> button.</li><li>Choose a sprite from the sprite library/box — for example, the bat2-a sprite used in the unit's Program 4.</li><li>Click on the sprite to select it; it appears on the Stage and in the Sprite List.</li><li>You can also create and edit your own sprites using the Scratch <strong>Paint editor</strong>.</li></ul><h4>Backdrops</h4><p>A <strong>backdrop</strong> is the background picture shown on the Stage behind the sprites. Steps to add a new backdrop: (1) Click on the choose-a-new-backdrop icon under the Stage. (2) Choose a backdrop from the backdrop library. (3) Select Spotlight-Stage. (4) The new backdrop now appears on the Stage.</p><h4>Objects without Classes</h4><p>In Scratch, grouping data to create objects is called <strong>Objects without Classes</strong>.</p>",
+     "mcqs": [
+      {
+       "q": "What are sprites in Scratch?",
+       "options": [
+        "Background pictures",
+        "Sound files",
+        "Objects/actors used for developing a program",
+        "Types of blocks"
+       ],
+       "answer": 2,
+       "why": "Sprites are objects/actors used for developing a program; the Stage is where the actors act and information is displayed."
+      },
+      {
+       "q": "Which sprite is present by default in Scratch?",
+       "options": [
+        "The cat (Sprite1)",
+        "A dog",
+        "A helicopter",
+        "A bat"
+       ],
+       "answer": 0,
+       "why": "The sprite present by default in Scratch is the cat (Sprite1), the orange Scratch cat that appears on the Stage when a new project is opened."
+      },
+      {
+       "q": "What is the Stage in Scratch?",
+       "options": [
+        "The area where you write code",
+        "A type of block",
+        "A drawing tool",
+        "Where actors perform and information is displayed"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer: the Stage is where actors perform and information is displayed; scripts are written in the Scripts Area, not on the Stage."
+      },
+      {
+       "q": "What is a backdrop?",
+       "options": [
+        "A type of sprite",
+        "The background picture shown on the Stage behind the sprites",
+        "A sound effect",
+        "A kind of variable"
+       ],
+       "answer": 1,
+       "why": "A backdrop is the background picture shown on the Stage behind the sprites; you add one from the backdrop library using the icon under the Stage."
+      },
+      {
+       "q": "What is the first step to add a new sprite?",
+       "options": [
+        "Click on the Stage and type a name",
+        "Open the backdrop library",
+        "Go to the Sprite List below the Stage and click the New sprite button",
+        "Delete the default cat"
+       ],
+       "answer": 2,
+       "why": "The book's steps: go to the Sprite List below the Stage and click the New sprite button, then choose a sprite from the sprite library and click it to select it."
+      },
+      {
+       "q": "Where do you choose a new backdrop from?",
+       "options": [
+        "The Variables menu",
+        "The backdrop library, using the choose-a-new-backdrop icon under the Stage",
+        "The Sound category",
+        "The Scripts tab"
+       ],
+       "answer": 1,
+       "why": "Steps from the unit: click the choose-a-new-backdrop icon under the Stage, choose a backdrop from the backdrop library, select it, and it appears on the Stage."
+      },
+      {
+       "q": "Which tool can you use to create and edit your own sprites?",
+       "options": [
+        "The Scratch Paint editor",
+        "The Menu Bar",
+        "The Stage",
+        "The backdrop library"
+       ],
+       "answer": 0,
+       "why": "The solved answer says you can also create and edit your own sprites or objects using the Scratch Paint editor."
+      },
+      {
+       "q": "In Scratch, grouping data to create objects is called ___.",
+       "options": [
+        "Visual Coding",
+        "Cloning",
+        "Iteration",
+        "Objects without Classes"
+       ],
+       "answer": 3,
+       "why": "The true/false exercise confirms: in Scratch, you group data to create objects is called Objects without Classes."
+      },
+      {
+       "q": "After choosing a sprite from the library, what happens when you click on it?",
+       "options": [
+        "It is deleted from the library",
+        "It is selected and appears on the Stage and in the Sprite List",
+        "It starts moving forever",
+        "It becomes a backdrop"
+       ],
+       "answer": 1,
+       "why": "The book's steps: click on the sprite to select it; it appears on the Stage and in the Sprite List, ready to be given scripts."
+      },
+      {
+       "q": "True or False: Sprites are objects/actors used for developing a program.",
+       "options": [
+        "False",
+        "Only backdrops are actors",
+        "True",
+        "Only sounds are actors"
+       ],
+       "answer": 2,
+       "why": "The statement is true — it is the unit's own definition of sprites, the objects or actors that perform the scripts on the Stage."
+      }
+     ]
+    },
+    {
+     "title": "Block Categories: Motion, Looks, Sound, Sensing and More",
+     "notes_html": "<p>Scratch provides <strong>over 100 code blocks</strong>, organized into <strong>eight categories</strong> on the blocks palette: <strong>Motion, Looks, Sound, Pen, Control, Sensing, Numbers (Operators) and Variables</strong>.</p><h4>What the Categories Control</h4><ul><li><strong>Motion</strong> — moves sprites, for example the MOVE block (move 10 steps).</li><li><strong>Looks</strong> — controls the appearance of sprites and text.</li><li><strong>Sound</strong> — controls playback and volume of audio.</li><li><strong>Sensing</strong> — determines the location of the mouse-pointer, its distance from other sprites, and whether a sprite is touching another sprite. The <strong>touching</strong> block is in the Sensing category.</li><li><strong>Numbers (Operators)</strong> — works with numbers and conditions such as Boolean expressions.</li></ul><h4>Adding Sound to a Script</h4><p>Steps: (1) Select <strong>Sound</strong>. (2) Select the <strong>Play drum</strong> block. (3) Drag out a PLAY DRUM block and snap it onto the MOVE block, for example: move 10 steps; play drum 15 for 0.25 beats. (4) Click and listen. (5) Choose different drums from the pull-down menu: Snare Drum, Bass Drum, Side Stick, Crash Cymbal and Open Hi-Hat.</p><h4>Boolean Expressions</h4><p>A <strong>Boolean Expression</strong> is a true or false question — it gives one of two answers, true or false, and is used in conditions.</p>",
+     "mcqs": [
+      {
+       "q": "How many code blocks does Scratch provide, and into how many categories are they organized?",
+       "options": [
+        "Over 100 blocks in eight categories",
+        "About 20 blocks in three categories",
+        "Exactly 50 blocks in five categories",
+        "Over 500 blocks in twenty categories"
+       ],
+       "answer": 0,
+       "why": "The unit states that Scratch provides over 100 code blocks, organized into eight categories on the blocks palette."
+      },
+      {
+       "q": "Which of these is one of the eight block categories in Scratch?",
+       "options": [
+        "File, Edit and View",
+        "Start, Stop and Pause",
+        "Open, Save and Print",
+        "Motion, Looks, Sound, Pen, Control, Sensing, Numbers (Operators) and Variables"
+       ],
+       "answer": 3,
+       "why": "The eight categories named in the unit are Motion, Looks, Sound, Pen, Control, Sensing, Numbers (Operators) and Variables."
+      },
+      {
+       "q": "What does the Sound category in Scratch control?",
+       "options": [
+        "Sprite movement",
+        "Playback and volume of audio",
+        "Background color",
+        "Text appearance"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: the Sound category controls the playback and volume of audio; Motion controls sprite movement and Looks controls appearance."
+      },
+      {
+       "q": "In which category is the 'touching' block present?",
+       "options": [
+        "The Motion category",
+        "The Looks category",
+        "The Sensing category",
+        "The Pen category"
+       ],
+       "answer": 2,
+       "why": "The touching block is present in the Sensing category; Sensing blocks determine the location of the mouse-pointer, its distance from other sprites, and whether a sprite is touching another sprite."
+      },
+      {
+       "q": "What is a Boolean Expression?",
+       "options": [
+        "A true or false question",
+        "A type of animation",
+        "A drawing tool",
+        "A type of sprite"
+       ],
+       "answer": 0,
+       "why": "A Boolean Expression is a true or false question — it evaluates to either true or false, which is why it is used in condition blocks like if-then."
+      },
+      {
+       "q": "What do Sensing blocks help determine?",
+       "options": [
+        "The volume of a drum sound",
+        "The color of a backdrop",
+        "The location of the mouse-pointer, its distance from other sprites, and whether a sprite is touching another sprite",
+        "The name of a variable"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists exactly these jobs for Sensing blocks: mouse-pointer location, distance from other sprites, and touching between sprites."
+      },
+      {
+       "q": "What is the first step to add sound in your script?",
+       "options": [
+        "Select Motion and delete the sprite",
+        "Open the backdrop library",
+        "Click the green flag ten times",
+        "Select Sound, then select the Play drum block"
+       ],
+       "answer": 3,
+       "why": "The unit's steps: (1) Select Sound. (2) Select the Play drum block. (3) Drag out a PLAY DRUM block and snap it onto the MOVE block. (4) Click and listen."
+      },
+      {
+       "q": "In the unit's example, the PLAY DRUM block is snapped onto which block?",
+       "options": [
+        "The backdrop block",
+        "The MOVE block (move 10 steps; play drum 15 for 0.25 beats)",
+        "The variable block",
+        "The backdrop library icon"
+       ],
+       "answer": 1,
+       "why": "The example script is: move 10 steps; play drum 15 for 0.25 beats — the PLAY DRUM block is snapped onto the MOVE block so the sound plays as the sprite moves."
+      },
+      {
+       "q": "Which drums can be chosen from the pull-down menu?",
+       "options": [
+        "Only the Snare Drum",
+        "Piano, Guitar and Violin",
+        "Snare Drum, Bass Drum, Side Stick, Crash Cymbal and Open Hi-Hat",
+        "Table, Chair and Bell"
+       ],
+       "answer": 2,
+       "why": "The unit lists the drums in the pull-down menu: (1) Snare Drum, (2) Bass Drum, (3) Side Stick, (4) Crash Cymbal, (5) Open Hi-Hat."
+      },
+      {
+       "q": "If you cannot hear the drum sound after clicking, what does the unit advise?",
+       "options": [
+        "Check the sound on your computer",
+        "Delete the script",
+        "Change the sprite",
+        "Close Scratch"
+       ],
+       "answer": 0,
+       "why": "Step 4 of the unit's answer: click and listen — if you cannot hear it, check the sound on your computer."
+      }
+     ]
+    },
+    {
+     "title": "Control Blocks: Forever, If-Then and Cloning",
+     "notes_html": "<p>The <strong>Control</strong> category holds the blocks that decide how scripts run: repeating, choosing and duplicating.</p><h4>Forever Block</h4><p>The <strong>Forever block</strong> is used for <strong>creating infinite patterns</strong> — it repeats the blocks inside it again and again, without stopping.</p><h4>If-Then Block</h4><p>The <strong>if() then block</strong> executes a set of code <strong>if a condition is true</strong>, similar to if-else statements in other languages. The condition is only checked once — which is why the forever block is often wrapped around it. In the unit's puzzle, the stack <em>forever → if mouse down? → say Hello! for 2 secs</em> works like this: the forever block keeps the check running again and again; whenever the mouse button is pressed, the sprite says Hello! for 2 seconds. Without forever, the script would test the mouse only a single time at the start and then finish.</p><h4>Iteration</h4><p><strong>Iteration</strong> means <strong>repeating actions or tasks</strong> — the forever block is Scratch's way of iterating forever.</p><h4>Cloning</h4><p><strong>Cloning</strong> is used to <strong>duplicate a sprite with shared behavior</strong> — making copies of a sprite that behave the same way.</p>",
+     "mcqs": [
+      {
+       "q": "What is a Forever Block used for in Scratch?",
+       "options": [
+        "Drawing shapes",
+        "Ending a program",
+        "Stopping all actions",
+        "Creating infinite patterns by repeating the blocks inside it"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer: the Forever block is used for creating infinite patterns — it repeats its inner blocks again and again without stopping."
+      },
+      {
+       "q": "What does Iteration mean in programming?",
+       "options": [
+        "Stopping a program",
+        "Repeating actions or tasks",
+        "Creating new sprites",
+        "Changing the appearance of a sprite"
+       ],
+       "answer": 1,
+       "why": "Iteration means repeating actions or tasks; the forever block is an example, repeating its blocks endlessly until the program is stopped."
+      },
+      {
+       "q": "What do you use Cloning for in Scratch?",
+       "options": [
+        "To make copies of the stage",
+        "To create a new project",
+        "To duplicate a sprite with shared behavior",
+        "To change the color of a sprite"
+       ],
+       "answer": 2,
+       "why": "Cloning duplicates a sprite with shared behavior, so the copies act the same way as the original sprite in the project."
+      },
+      {
+       "q": "The if() then block executes a set of code when ___.",
+       "options": [
+        "a condition is true",
+        "the computer is switched off",
+        "a sound finishes",
+        "the backdrop changes"
+       ],
+       "answer": 0,
+       "why": "The unit confirms: this control block executes a set of code if a condition is true, similar to if-else statements in other languages."
+      },
+      {
+       "q": "Why is the forever piece needed around the 'if mouse down?' check in the unit's puzzle?",
+       "options": [
+        "Because the sprite cannot speak without it",
+        "Because the mouse only works inside forever",
+        "Because the puzzle has no other blocks",
+        "Because the condition is only checked once; forever keeps the check running again and again"
+       ],
+       "answer": 3,
+       "why": "The unit explains that the if block checks the condition only once; without forever the script would test the mouse a single time at the start and then finish, so forever keeps checking."
+      },
+      {
+       "q": "In the puzzle stack forever → if mouse down? → say Hello! for 2 secs, what happens when the mouse button is pressed?",
+       "options": [
+        "The sprite says Hello! for 2 seconds",
+        "The sprite disappears",
+        "The backdrop changes",
+        "A new sprite is cloned"
+       ],
+       "answer": 0,
+       "why": "Whenever the mouse button is pressed (mouse down?), the sprite says Hello! for 2 seconds, and the forever block keeps the check running again and again."
+      },
+      {
+       "q": "Which category do the forever and if-then blocks belong to?",
+       "options": [
+        "Sensing",
+        "Control",
+        "Looks",
+        "Pen"
+       ],
+       "answer": 1,
+       "why": "Forever and if-then are Control blocks — the category that decides how scripts run: repeating with forever, and choosing with if-then."
+      },
+      {
+       "q": "What is another use of the if piece given in the unit?",
+       "options": [
+        "Drawing the Stage",
+        "Naming a variable",
+        "An action that should happen only when a condition is true, such as the sprite gliding for 1 second if the user presses the key a",
+        "Choosing a backdrop"
+       ],
+       "answer": 2,
+       "why": "The unit's other example: the sprite glides for 1 second if the user presses the key a — any action that should happen only when a condition is true."
+      },
+      {
+       "q": "True or False: In Scratch, the if() then block is similar to if-else statements in other languages.",
+       "options": [
+        "True",
+        "False",
+        "Only in text languages",
+        "Only for sounds"
+       ],
+       "answer": 0,
+       "why": "The statement is true: the unit describes the if() then block as executing code if a condition is true, similar to if-else statements in other languages."
+      },
+      {
+       "q": "A forever loop that never stops is an example of ___.",
+       "options": [
+        "cloning",
+        "a backdrop",
+        "a variable",
+        "iteration"
+       ],
+       "answer": 3,
+       "why": "Iteration means repeating actions or tasks, and the forever block repeats its inner blocks endlessly — an infinite iteration."
+      }
+     ]
+    },
+    {
+     "title": "Variables and Functions in Scratch",
+     "notes_html": "<p>The <strong>Variables</strong> category allows you to <strong>store and use data</strong> in your program.</p><h4>What Is a Variable?</h4><p>In Scratch, <strong>variables</strong> are placeholders that can store and manage data or information within a project. There are three types of variables — <strong>Local, Global and Cloud Variables</strong> — and all variables are stored in <strong>RAM</strong>.</p><h4>Steps to Create a Variable</h4><ul><li>Click the <strong>Variables</strong> menu.</li><li>Click <strong>Make a Variable</strong>.</li><li>Type in the name, for example <em>age</em>, choose whether it is for all sprites or for this sprite only, and click OK.</li></ul><h4>Functions</h4><p>The purpose of <strong>functions</strong> in Scratch is to <strong>organize and reuse code</strong>: a group of blocks can be defined once and then used again wherever it is needed, instead of rebuilding the same blocks many times.</p>",
+     "mcqs": [
+      {
+       "q": "What does the Variables category in Scratch allow you to do?",
+       "options": [
+        "Change the background color",
+        "Store and use data in your program",
+        "Create animations",
+        "Control sprite movement"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: the Variables category allows you to store and use data in your program; variables are placeholders that store and manage data within a project."
+      },
+      {
+       "q": "What is a variable in Scratch?",
+       "options": [
+        "A placeholder that can store and manage data or information within a project",
+        "A type of backdrop",
+        "A kind of sound block",
+        "A picture on the Stage"
+       ],
+       "answer": 0,
+       "why": "The unit defines variables as placeholders that can store and manage data or information within a project, such as a score or a name like age."
+      },
+      {
+       "q": "What are the three types of variables named in the unit?",
+       "options": [
+        "Big, Medium and Small",
+        "Text, Number and Picture",
+        "Local, Global and Cloud Variables",
+        "New, Old and Saved"
+       ],
+       "answer": 2,
+       "why": "The solved answer states there are three types of variables (Local, Global and Cloud Variables), and all variables are stored in RAM."
+      },
+      {
+       "q": "Where are all variables stored?",
+       "options": [
+        "On the Stage",
+        "In the backdrop library",
+        "On a printed page",
+        "In RAM"
+       ],
+       "answer": 3,
+       "why": "The unit states that all variables are stored in RAM while the project runs."
+      },
+      {
+       "q": "What is the first step to create a variable in Scratch?",
+       "options": [
+        "Click the Stage and type a name",
+        "Open the Sound category",
+        "Click the Variables menu, then click Make a Variable",
+        "Delete the default sprite"
+       ],
+       "answer": 2,
+       "why": "The steps from Program 7: (1) Click the Variables menu. (2) Click Make a Variable. (3) Type the name, choose for all sprites or this sprite only, and click OK."
+      },
+      {
+       "q": "When creating a variable, which choice must you make about its scope?",
+       "options": [
+        "Whether it is red or blue",
+        "Whether it makes a sound",
+        "Whether it is printed",
+        "Whether it is for all sprites or for this sprite only"
+       ],
+       "answer": 3,
+       "why": "Step 3 of the book's answer: type in the name, for example age, choose whether it is for all sprites or for this sprite only, and click OK."
+      },
+      {
+       "q": "What is the purpose of Functions in Scratch?",
+       "options": [
+        "To change the background color",
+        "To organize and reuse code",
+        "To create animations",
+        "To draw pictures on the screen"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: functions organize and reuse code, so a group of blocks defined once can be used again wherever needed."
+      },
+      {
+       "q": "A variable named 'age' in the unit's example is used to store ___.",
+       "options": [
+        "data or information within the project",
+        "a backdrop picture",
+        "a drum sound",
+        "a second Stage"
+       ],
+       "answer": 0,
+       "why": "The example name age shows a variable holding a piece of data; variables are placeholders that store and manage data or information within a project."
+      },
+      {
+       "q": "Which category would you open to make a variable?",
+       "options": [
+        "Motion",
+        "Pen",
+        "Looks",
+        "Variables"
+       ],
+       "answer": 3,
+       "why": "Variables are made from the Variables category/menu: click Variables, then Make a Variable, name it, choose its scope, and click OK."
+      },
+      {
+       "q": "True or False: Variables in Scratch can store and manage data within a project.",
+       "options": [
+        "False",
+        "Only pictures",
+        "True",
+        "Only sounds"
+       ],
+       "answer": 2,
+       "why": "The statement is true — it is the unit's definition: variables are placeholders that can store and manage data or information within a project."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Digital Citizenship",
+   "lessons": [
+    {
+     "title": "Digital Citizenship and Its Key Elements",
+     "notes_html": "<p><strong>Digital citizenship</strong> refers to the responsible and appropriate use of technology and the internet. It involves understanding how to use digital tools, such as smartphones, computers and the internet, in a <strong>safe, respectful and ethical</strong> manner. Being a good digital citizen means knowing your rights and responsibilities online, and behaving in ways that protect yourself and others.</p><h4>The Seven Key Elements</h4><ul><li><strong>Online Safety</strong> — protecting personal information and understanding how to avoid online dangers such as scams or cyberbullying.</li><li><strong>Digital Etiquette</strong> — communicating respectfully and responsibly with others online, using good manners in emails, social media and messaging platforms. (Etiquette does <em>not</em> mean inappropriate language and behavior online.)</li><li><strong>Digital Literacy</strong> — knowing how to use technology effectively and evaluate the credibility of online sources.</li><li><strong>Privacy and Security</strong> — including creating strong passwords.</li><li><strong>Cyberbullying Awareness</strong>.</li><li><strong>Intellectual Property</strong> — giving credit to original creators of content.</li><li><strong>Digital Footprint</strong>.</li></ul><h4>Why Digital Literacy Matters</h4><p>Digital literacy means knowing how to use technology effectively and evaluate the credibility of online sources. It is important because a digital citizen must be able to judge which online information can be trusted, instead of believing or spreading misinformation.</p>",
+     "mcqs": [
+      {
+       "q": "What does digital citizenship involve?",
+       "options": [
+        "Ignoring online safety",
+        "Sharing personal information freely",
+        "Using technology in a responsible and ethical manner",
+        "Avoiding communication with others"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ answer: digital citizenship involves using technology responsibly and ethically — understanding how to use digital tools in a safe, respectful and ethical manner."
+      },
+      {
+       "q": "What is digital citizenship?",
+       "options": [
+        "Owning the newest smartphone",
+        "Using the internet for games only",
+        "A licence needed to buy a computer",
+        "The responsible and appropriate use of technology and the internet"
+       ],
+       "answer": 3,
+       "why": "Digital citizenship refers to the responsible and appropriate use of technology and the internet, knowing your rights and responsibilities online and protecting yourself and others."
+      },
+      {
+       "q": "Which of these are key elements of digital citizenship named in the unit?",
+       "options": [
+        "Online Safety, Digital Etiquette, Digital Literacy, Privacy and Security, Cyberbullying Awareness, Intellectual Property and Digital Footprint",
+        "Only gaming and chatting",
+        "Typing speed and file saving",
+        "Hardware and software repair"
+       ],
+       "answer": 0,
+       "why": "The unit names seven key elements: Online Safety, Digital Etiquette, Digital Literacy, Privacy and Security, Cyberbullying Awareness, Intellectual Property, and Digital Footprint."
+      },
+      {
+       "q": "What does Online Safety mean as an element of digital citizenship?",
+       "options": [
+        "Buying safety equipment for computers",
+        "Protecting personal information and understanding how to avoid online dangers such as scams or cyberbullying",
+        "Keeping the computer in a locked room",
+        "Using the internet only at school"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains Online Safety as protecting personal information and understanding how to avoid online dangers such as scams or cyberbullying."
+      },
+      {
+       "q": "What is Digital Etiquette?",
+       "options": [
+        "Communicating respectfully and responsibly with others online, using good manners",
+        "Using inappropriate language online",
+        "Ignoring all messages",
+        "Writing emails in capital letters"
+       ],
+       "answer": 0,
+       "why": "Digital Etiquette means communicating respectfully and responsibly with others online, using good manners in emails, social media, and messaging platforms — the opposite of inappropriate behavior."
+      },
+      {
+       "q": "True or False: Digital etiquette refers to using inappropriate language and behavior online.",
+       "options": [
+        "True",
+        "False",
+        "Only in games",
+        "Only in emails"
+       ],
+       "answer": 1,
+       "why": "The statement is false: digital etiquette is about respectful and responsible communication with good manners online, not inappropriate language and behavior."
+      },
+      {
+       "q": "Why is it important to understand digital literacy?",
+       "options": [
+        "So you can type faster",
+        "So you can buy things online",
+        "So you can play more games",
+        "So you can judge which online information can be trusted instead of believing or spreading misinformation"
+       ],
+       "answer": 3,
+       "why": "Digital literacy means knowing how to use technology effectively and evaluate the credibility of online sources, so a digital citizen can judge which information can be trusted."
+      },
+      {
+       "q": "True or False: Digital citizenship involves understanding how to use digital tools safely and respectfully.",
+       "options": [
+        "False",
+        "Only for adults",
+        "True",
+        "Only at school"
+       ],
+       "answer": 2,
+       "why": "The statement is true: digital citizenship involves understanding how to use digital tools, such as smartphones, computers, and the internet, in a safe, respectful, and ethical manner."
+      },
+      {
+       "q": "Intellectual property rights require you to ___.",
+       "options": [
+        "copy any content freely",
+        "give credit to original creators of content",
+        "hide the creator's name",
+        "sell other people's work"
+       ],
+       "answer": 1,
+       "why": "The unit's true/false exercise confirms that intellectual property rights require giving credit to original creators of content."
+      },
+      {
+       "q": "Being a good digital citizen means ___.",
+       "options": [
+        "knowing your rights and responsibilities online, and behaving in ways that protect yourself and others",
+        "spending all day online",
+        "sharing everything you see",
+        "using only one website"
+       ],
+       "answer": 0,
+       "why": "The solved definition: being a good digital citizen means knowing your rights and responsibilities online, and behaving in ways that protect yourself and others."
+      }
+     ]
+    },
+    {
+     "title": "Privacy, Security and Email Safety",
+     "notes_html": "<p><strong>Privacy and security</strong> are important elements of digital citizenship, including creating <strong>strong passwords</strong>.</p><h4>Email Privacy and Security</h4><p>A key practice for maintaining email privacy and security is <strong>using strong passwords</strong>. To maintain privacy, avoid sharing sensitive information through email, such as <strong>passwords, financial data or personal identification numbers</strong>. Also be wary of <strong>phishing emails</strong> from unknown senders that request personal information or contain suspicious links.</p><h4>Protecting Your Accounts from Cybercrime</h4><ul><li>Use <strong>strong passwords</strong> — a complex mix of letters, numbers and symbols; change them regularly and do not use the same password across multiple accounts.</li><li>Enable <strong>two-factor authentication (2FA)</strong> for an extra layer of security.</li><li>Keep software updated, including operating systems, applications and antivirus software.</li><li>Be wary of phishing attempts; verify the source of emails or messages before clicking links or downloading attachments.</li><li>Use secure connections and avoid public Wi-Fi for sensitive transactions; a <strong>VPN</strong> can help secure your internet connection, especially on public networks.</li><li>Regularly monitor accounts for suspicious activity; be cautious with personal information; report cyber crime; and back up important data.</li></ul><h4>Best Practice for Ethical Digital Use</h4><p>A best practice for ethical digital use is to <strong>use strong passwords and enable two-factor authentication</strong> — and to think about the impact of your posts on others before posting.</p>",
+     "mcqs": [
+      {
+       "q": "What is a key practice for maintaining email privacy and security?",
+       "options": [
+        "Sharing passwords with friends",
+        "Using strong passwords",
+        "Forwarding all emails to others",
+        "Ignoring spam emails"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer is using strong passwords; sharing passwords with friends would destroy privacy and security, not maintain it."
+      },
+      {
+       "q": "What should you avoid sharing through email to maintain privacy?",
+       "options": [
+        "Your favorite color",
+        "Public news articles",
+        "Passwords, financial data and personal identification numbers",
+        "The date and time"
+       ],
+       "answer": 2,
+       "why": "The unit advises avoiding sensitive information in email such as passwords, financial data, or personal identification numbers, and being wary of phishing emails."
+      },
+      {
+       "q": "What are phishing emails?",
+       "options": [
+        "Emails from unknown senders that request personal information or contain suspicious links",
+        "Emails from your teacher",
+        "Emails with pictures attached",
+        "Emails stored in the inbox"
+       ],
+       "answer": 0,
+       "why": "The unit warns to be wary of phishing emails from unknown senders that request personal information or contain suspicious links."
+      },
+      {
+       "q": "Which is a preventive measure against cybercrime?",
+       "options": [
+        "Using weak passwords",
+        "Ignoring software updates",
+        "Sharing personal information publicly",
+        "Enabling two-factor authentication"
+       ],
+       "answer": 3,
+       "why": "Enabling two-factor authentication (2FA) adds an extra layer of security to accounts, making it a key preventive measure against cybercrime."
+      },
+      {
+       "q": "What is a best practice for ethical digital use?",
+       "options": [
+        "Post anything without thinking",
+        "Use strong passwords and enable two-factor authentication",
+        "Share private information with strangers",
+        "Ignore the impact of your posts on others"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: use strong passwords and enable two-factor authentication — together with thinking about the impact of your posts on others."
+      },
+      {
+       "q": "A strong password should be ___.",
+       "options": [
+        "your date of birth",
+        "the same for every account",
+        "a complex mix of letters, numbers and symbols, changed regularly and not reused across accounts",
+        "the word 'password'"
+       ],
+       "answer": 2,
+       "why": "Section 6.7.2's measures: use strong passwords — a complex mix of letters, numbers, and symbols; change them regularly and do not use the same password across multiple accounts."
+      },
+      {
+       "q": "Why should software be kept updated as a security measure?",
+       "options": [
+        "Updates make the screen brighter",
+        "Updates are only for new games",
+        "Updates delete your files",
+        "Updates to operating systems, applications and antivirus software help protect against cybercrime"
+       ],
+       "answer": 3,
+       "why": "Keeping software updated, including operating systems, applications, and antivirus software, is one of the preventive measures listed in the unit for protecting accounts."
+      },
+      {
+       "q": "True or False: Using a VPN can help secure your internet connection, especially on public networks.",
+       "options": [
+        "True",
+        "False",
+        "Only at home",
+        "Only for downloading games"
+       ],
+       "answer": 0,
+       "why": "The statement is true: a VPN creates a secure, encrypted connection, and the unit advises secure connections and avoiding public Wi-Fi for sensitive transactions."
+      },
+      {
+       "q": "What should you do before clicking links or downloading attachments from emails or messages?",
+       "options": [
+        "Click as fast as possible",
+        "Forward them to friends first",
+        "Verify the source, to guard against phishing attempts",
+        "Delete your account"
+       ],
+       "answer": 2,
+       "why": "The unit's measures include being wary of phishing attempts and verifying the source of emails or messages before clicking links or downloading attachments."
+      },
+      {
+       "q": "Which of these helps protect your accounts, according to the unit?",
+       "options": [
+        "Sharing your password with one trusted friend",
+        "Regularly monitoring accounts for suspicious activity and backing up important data",
+        "Using public Wi-Fi for bank transactions",
+        "Never changing your password"
+       ],
+       "answer": 1,
+       "why": "The preventive measures include regularly monitoring accounts for suspicious activity, being cautious with personal information, reporting cyber crime, and backing up important data."
+      }
+     ]
+    },
+    {
+     "title": "Plagiarism, Copyright and Piracy",
+     "notes_html": "<p><strong>Plagiarism</strong> is the act of using someone else's work, ideas or expressions <strong>without proper acknowledgment</strong>, presenting them as your own. It is the unethical practice of using someone else's work or ideas without giving proper credit. Plagiarism is considered a serious offense in academic and professional settings; it not only disrespects the original creator's rights but also undermines the integrity of the educational and professional systems.</p><h4>Copyright, Plagiarism and Piracy — the Difference</h4><ul><li><strong>Copyright</strong> is a legal framework that grants creators exclusive rights to their original works — literature, music, art and software — allowing them to control how their creations are used and distributed. It deals with <strong>legal rights</strong>.</li><li><strong>Plagiarism</strong> is the unethical practice of using someone else's work or ideas without giving proper credit, presenting them as one's own. It pertains to <strong>ethical behavior</strong>.</li><li><strong>Piracy</strong> is the unauthorized use, reproduction or distribution of copyrighted materials, such as downloading or sharing movies and software without permission. It concerns <strong>unauthorized use</strong> of content.</li></ul><p>Note the related wrong practice from the exercise: unauthorized copying of software is <strong>piracy</strong>, not plagiarism.</p>",
+     "mcqs": [
+      {
+       "q": "What does plagiarism refer to?",
+       "options": [
+        "Unauthorized copying of software",
+        "Sharing music for free",
+        "Using someone else's work without giving credit",
+        "Protecting original content with copyright"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ answer: plagiarism is using someone else's work without giving credit; unauthorized copying of software is piracy, a different wrong practice."
+      },
+      {
+       "q": "What is plagiarism?",
+       "options": [
+        "Using someone else's work, ideas or expressions without proper acknowledgment, presenting them as your own",
+        "Writing your own original essay",
+        "Quoting a source with its author's name",
+        "Asking permission to use a picture"
+       ],
+       "answer": 0,
+       "why": "Plagiarism is the unethical practice of using someone else's work or ideas without giving proper credit; it is a serious offense in academic and professional settings."
+      },
+      {
+       "q": "What is copyright?",
+       "options": [
+        "A rule that all work is free to copy",
+        "A type of computer virus",
+        "A password for creative work",
+        "A legal framework that grants creators exclusive rights to their original works"
+       ],
+       "answer": 3,
+       "why": "Copyright grants creators exclusive rights to their original works, including literature, music, art, and software, allowing them to control how their creations are used and distributed."
+      },
+      {
+       "q": "What is piracy?",
+       "options": [
+        "Sailing ships on the sea",
+        "The unauthorized use, reproduction or distribution of copyrighted materials",
+        "Giving credit to a creator",
+        "Writing original software"
+       ],
+       "answer": 1,
+       "why": "Piracy is the unauthorized use, reproduction, or distribution of copyrighted materials, such as downloading or sharing movies and software without permission."
+      },
+      {
+       "q": "Which of the three deals with legal rights?",
+       "options": [
+        "Plagiarism",
+        "Piracy",
+        "Copyright",
+        "Cyberbullying"
+       ],
+       "answer": 2,
+       "why": "The unit's comparison: copyright deals with legal rights; plagiarism pertains to ethical behavior; piracy encompasses legal and ethical concerns about unauthorized use of content."
+      },
+      {
+       "q": "Downloading or sharing movies and software without permission is an example of ___.",
+       "options": [
+        "plagiarism",
+        "piracy",
+        "copyright",
+        "digital etiquette"
+       ],
+       "answer": 1,
+       "why": "The unit gives downloading or sharing movies and software without permission as the example of piracy — unauthorized use of copyrighted material."
+      },
+      {
+       "q": "A student copies a paragraph from a website into an assignment and presents it as his own writing. This is ___.",
+       "options": [
+        "plagiarism",
+        "piracy",
+        "copyright",
+        "digital literacy"
+       ],
+       "answer": 0,
+       "why": "Presenting someone else's work as your own without acknowledgment is plagiarism, the unethical practice the unit defines."
+      },
+      {
+       "q": "Why is plagiarism considered a serious offense?",
+       "options": [
+        "It makes the assignment too long",
+        "It uses too much ink",
+        "It is only a spelling mistake",
+        "It disrespects the original creator's rights and undermines the integrity of educational and professional systems"
+       ],
+       "answer": 3,
+       "why": "The unit states plagiarism not only disrespects the original creator's rights but also undermines the integrity of the educational and professional systems."
+      },
+      {
+       "q": "How can a student avoid plagiarism?",
+       "options": [
+        "Change a few words and present it as your own",
+        "Give proper credit and acknowledgment to the original creator of the work used",
+        "Copy only from websites, not books",
+        "Never read anyone else's work"
+       ],
+       "answer": 1,
+       "why": "Plagiarism is using work without proper acknowledgment, so giving proper credit to original creators — as intellectual property rights require — is how it is avoided."
+      },
+      {
+       "q": "True or False: Intellectual property rights require giving credit to original creators of content.",
+       "options": [
+        "False",
+        "Only for books",
+        "True",
+        "Only for music"
+       ],
+       "answer": 2,
+       "why": "The statement is true: Intellectual Property is one of the seven key elements of digital citizenship, and it requires giving credit to original creators of content."
+      }
+     ]
+    },
+    {
+     "title": "Cyberbullying and Cybercrime",
+     "notes_html": "<p><strong>Cyberbullying</strong> involves using digital platforms, such as social media, messaging apps or online forums, to <strong>harass, intimidate or embarrass</strong> someone. It can take many forms, including spreading rumors, sending threatening messages, sharing embarrassing photos, or impersonating someone online. Victims may experience emotional distress, anxiety, depression, and a decline in academic performance or social interactions, and it can have severe consequences.</p><h4>Preventing Cyberbullying</h4><ul><li><strong>Be mindful of what you share</strong> — limit personal information shared online to reduce the risk of becoming a target.</li><li><strong>Adjust privacy settings</strong> on social media accounts to control who can see your posts and interact with you.</li><li><strong>Think before you post</strong> — consider the potential impact of your comments or images before sharing them online.</li><li>Victims should <strong>document evidence</strong>, report it on the platform, and talk to someone they trust; bystanders should stand up against bullying and not engage with trolls.</li></ul><h4>Cybercrime</h4><p><strong>Cybercrime</strong> refers to criminal activities conducted through the internet or involving computer systems. It includes a wide range of offenses, from identity theft and hacking to online fraud and cyberbullying. Its types include <strong>identity theft, hacking, phishing, online fraud, cyberbullying and malware attacks</strong> (viruses, worms and ransomware). <strong>Identity theft</strong> is stealing personal information to impersonate someone else. <strong>Cyber trolls</strong> seek to provoke and upset people online — not to promote positive discussion.</p>",
+     "mcqs": [
+      {
+       "q": "What is cyberbullying?",
+       "options": [
+        "Using digital platforms to harass or intimidate someone",
+        "Friendly banter online",
+        "Sharing funny memes",
+        "Posting inspirational quotes"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ answer: cyberbullying is using digital platforms, such as social media, messaging apps, or online forums, to harass, intimidate, or embarrass someone."
+      },
+      {
+       "q": "Which of these is a form of cyberbullying?",
+       "options": [
+        "Liking a friend's photo",
+        "Sending a birthday message",
+        "Joining a study group",
+        "Spreading rumors, sending threatening messages, sharing embarrassing photos or impersonating someone online"
+       ],
+       "answer": 3,
+       "why": "The unit lists the forms of cyberbullying: spreading rumors, sending threatening messages, sharing embarrassing photos, or impersonating someone online."
+      },
+      {
+       "q": "What effects can cyberbullying have on victims?",
+       "options": [
+        "Better grades",
+        "Emotional distress, anxiety, depression and a decline in academic performance or social interactions",
+        "More popularity",
+        "Improved health"
+       ],
+       "answer": 1,
+       "why": "The unit states victims may experience emotional distress, anxiety, depression, and a decline in academic performance or social interactions, with severe consequences."
+      },
+      {
+       "q": "What is cybercrime?",
+       "options": [
+        "Playing crime games online",
+        "Watching crime news",
+        "Criminal activities conducted through the internet or involving computer systems",
+        "A type of computer game genre"
+       ],
+       "answer": 2,
+       "why": "Cybercrime refers to criminal activities conducted through the internet or involving computer systems, from identity theft and hacking to online fraud and cyberbullying."
+      },
+      {
+       "q": "What is identity theft?",
+       "options": [
+        "Stealing personal information to impersonate someone else",
+        "Creating fake online identities for games",
+        "Hacking into government databases only",
+        "Using someone else's internet connection"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ answer: identity theft is stealing personal information to impersonate someone else; it is one of the types of cybercrime."
+      },
+      {
+       "q": "Which of these are types of cybercrime named in the unit?",
+       "options": [
+        "Only sending spam",
+        "Only breaking computers physically",
+        "Identity theft, hacking, phishing, online fraud, cyberbullying and malware attacks",
+        "Only cheating in games"
+       ],
+       "answer": 2,
+       "why": "The unit's list of cybercrime types: identity theft, hacking, phishing, online fraud, cyberbullying and malware attacks (viruses, worms, and ransomware)."
+      },
+      {
+       "q": "Malware attacks include which of the following?",
+       "options": [
+        "Emails and messages",
+        "Photos and videos",
+        "Websites and blogs",
+        "Viruses, worms and ransomware"
+       ],
+       "answer": 3,
+       "why": "The unit names viruses, worms, and ransomware as the examples of malware attacks within cybercrime."
+      },
+      {
+       "q": "Which preventive measure can an individual take to avoid cyberbullying?",
+       "options": [
+        "Share more personal information",
+        "Adjust privacy settings on social media accounts to control who can see your posts and interact with you",
+        "Accept every friend request",
+        "Post without thinking"
+       ],
+       "answer": 1,
+       "why": "Section 6.8's measures: be mindful of what you share, adjust privacy settings to control who can see your posts and interact with you, and think before you post."
+      },
+      {
+       "q": "What should a victim of cyberbullying do?",
+       "options": [
+        "Delete all evidence and stay silent",
+        "Reply with worse messages",
+        "Document evidence, report it on the platform, and talk to someone they trust",
+        "Share the bully's personal information"
+       ],
+       "answer": 2,
+       "why": "The unit advises victims to document evidence, report it on the platform, and talk to someone they trust; bystanders should stand up against bullying and not engage with trolls."
+      },
+      {
+       "q": "True or False: Cyber trolls seek to promote positive discussions and helpful dialogue online.",
+       "options": [
+        "False",
+        "True",
+        "Only on weekends",
+        "Only in study groups"
+       ],
+       "answer": 0,
+       "why": "The statement is false: cyber trolls seek to provoke and upset people online, and the unit advises not to engage with trolls."
+      }
+     ]
+    },
+    {
+     "title": "Social Media: Advantages and Disadvantages",
+     "notes_html": "<p>Social media connects users all over the world, but it must be used responsibly — it can be used for business and marketing as well as personal communication.</p><h4>Advantages of Social Media</h4><ul><li><strong>Connectivity</strong> — users connect with people from all over the world, fostering friendships and relationships.</li><li><strong>Access to Information</strong> — news and information quickly and easily.</li><li><strong>Creativity and Expression</strong> — a platform to express oneself through posts, photos and videos.</li><li><strong>Business Opportunities</strong> — businesses reach a wider audience and market products at lower cost than traditional advertising.</li><li><strong>Support and Community</strong> — users find support in groups that share similar interests.</li></ul><h4>Disadvantages of Social Media</h4><ul><li><strong>Privacy Concerns</strong> — sharing personal information can lead to privacy issues and identity theft.</li><li><strong>Cyberbullying</strong> — a platform for bullying and harassment with serious emotional impacts.</li><li><strong>Misinformation</strong> — false information spreads quickly, leading to misunderstandings and panic.</li><li><strong>Addiction</strong> — can affect mental health and productivity.</li><li><strong>Decreased Face-to-Face Interaction</strong> — overreliance can decline real-life social interactions.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which of the following is an advantage of social media?",
+       "options": [
+        "It decreases real-life social interactions",
+        "It spreads misinformation",
+        "It promotes cyberbullying",
+        "It provides a platform for creative expression"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer: social media provides a platform for creative expression through posts, photos, and videos; the other options are listed as disadvantages."
+      },
+      {
+       "q": "Which advantage of social media helps businesses?",
+       "options": [
+        "Businesses can avoid all customers",
+        "Businesses can reach a wider audience and market products at lower cost than traditional advertising",
+        "Businesses never need products",
+        "Businesses can hide from the public"
+       ],
+       "answer": 1,
+       "why": "Business Opportunities is one of the unit's five advantages: businesses reach a wider audience and market products at lower cost than traditional advertising."
+      },
+      {
+       "q": "Which of these is a disadvantage of social media?",
+       "options": [
+        "Connectivity with people worldwide",
+        "Access to information quickly",
+        "Misinformation — false information spreads quickly, leading to misunderstandings and panic",
+        "Support and community groups"
+       ],
+       "answer": 2,
+       "why": "Misinformation is listed among the disadvantages: false information spreads quickly on social media, leading to misunderstandings and panic."
+      },
+      {
+       "q": "True or False: Misinformation on social media can lead to panic and misunderstandings.",
+       "options": [
+        "True",
+        "False",
+        "Only in newspapers",
+        "Only on television"
+       ],
+       "answer": 0,
+       "why": "The statement is true: the disadvantages list states that misinformation spreads quickly and can lead to misunderstandings and panic."
+      },
+      {
+       "q": "True or False: Social media can only be used for personal communication, not for business or marketing.",
+       "options": [
+        "True",
+        "Only for large companies",
+        "Only outside Pakistan",
+        "False"
+       ],
+       "answer": 3,
+       "why": "The statement is false: Business Opportunities is an advantage of social media — businesses reach a wider audience and market products at lower cost than traditional advertising."
+      },
+      {
+       "q": "How does social media support users through community?",
+       "options": [
+        "Users find support in groups that share similar interests",
+        "Users must pay for every group",
+        "Groups are only for companies",
+        "Groups share only advertisements"
+       ],
+       "answer": 0,
+       "why": "Support and Community is one of the five advantages: users find support in groups that share similar interests."
+      },
+      {
+       "q": "Which disadvantage is linked to sharing personal information on social media?",
+       "options": [
+        "Faster internet",
+        "Privacy concerns, which can lead to privacy issues and identity theft",
+        "Better grades",
+        "More creativity"
+       ],
+       "answer": 1,
+       "why": "Privacy Concerns is the first disadvantage listed: sharing personal information can lead to privacy issues and identity theft."
+      },
+      {
+       "q": "Addiction to social media can affect which of the following?",
+       "options": [
+        " eyesight only",
+        "typing speed only",
+        "Mental health and productivity",
+        "computer storage"
+       ],
+       "answer": 2,
+       "why": "The disadvantages list states that addiction to social media can affect mental health and productivity."
+      },
+      {
+       "q": "Overreliance on social media can decline which of these?",
+       "options": [
+        "Real-life, face-to-face social interactions",
+        "Internet speed",
+        "Phone battery life",
+        "Number of websites"
+       ],
+       "answer": 0,
+       "why": "Decreased Face-to-Face Interaction is a listed disadvantage: overreliance on social media can decline real-life social interactions."
+      },
+      {
+       "q": "Connectivity as an advantage of social media means ___.",
+       "options": [
+        "computers connect with cables",
+        "phones connect to chargers",
+        "websites connect to servers only",
+        "users connect with people from all over the world, fostering friendships and relationships"
+       ],
+       "answer": 3,
+       "why": "The unit defines Connectivity: users connect with people from all over the world, fostering friendships and relationships."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Entrepreneurship",
+   "lessons": [
+    {
+     "title": "Entrepreneurship and Its Types",
+     "notes_html": "<p>The main goal of <strong>entrepreneurship</strong> is to <strong>create jobs and make a profit</strong>. A <strong>business plan</strong> outlines a company's objectives, strategies and operational plans to achieve its goals, and serves as a roadmap for the business.</p><h4>Types of Entrepreneurship</h4><ul><li><strong>Small Business Entrepreneurship</strong> — primarily focuses on local businesses.</li><li><strong>Scalable Startup Entrepreneurship</strong> — startups built to grow large.</li><li><strong>Corporate Entrepreneurship</strong> — entrepreneurship inside a large company.</li><li><strong>Intrapreneurship</strong> — employees act like entrepreneurs within their company.</li><li><strong>Lifestyle Entrepreneurship</strong> and <strong>Social Entrepreneurship</strong> — other types named in the exercise.</li><li><strong>Technological Entrepreneurship</strong>.</li></ul><p><em>Book note:</em> the opening section of this unit repeats the Digital Citizenship definition from Unit 6 word for word, so the book gives no separate definition paragraph for entrepreneurship there; the ideas in this lesson come from the unit's own types, business plan and marketing sections and from its exercise.</p>",
+     "mcqs": [
+      {
+       "q": "What is the main goal of entrepreneurship?",
+       "options": [
+        "To work for large corporations",
+        "To create jobs and make a profit",
+        "To write business theories",
+        "To manage government funds"
+       ],
+       "answer": 1,
+       "why": "The book's MCQ answer: the main goal of entrepreneurship is to create jobs and make a profit."
+      },
+      {
+       "q": "Which type of entrepreneur primarily focuses on local businesses?",
+       "options": [
+        "Small Business Entrepreneurship",
+        "Scalable Startup Entrepreneurship",
+        "Corporate Entrepreneurship",
+        "Technological Entrepreneurship"
+       ],
+       "answer": 0,
+       "why": "Small Business Entrepreneurship primarily focuses on local businesses, such as shops and services serving a local area."
+      },
+      {
+       "q": "In which type of entrepreneurship do employees act like entrepreneurs within their company?",
+       "options": [
+        "Small Business Entrepreneurship",
+        "Lifestyle Entrepreneurship",
+        "Intrapreneurship",
+        "Social Entrepreneurship"
+       ],
+       "answer": 2,
+       "why": "The book's MCQ answer is Intrapreneurship: employees act like entrepreneurs within their company, developing new ideas and products inside it."
+      },
+      {
+       "q": "True or False: A Business Plan outlines a company's objectives, strategies, and operational plans to achieve its goals.",
+       "options": [
+        "False",
+        "Only its name",
+        "Only its budget",
+        "True"
+       ],
+       "answer": 3,
+       "why": "The statement is true — it matches the unit's definition of a business plan as a detailed document outlining goals, strategies and operational plans."
+      },
+      {
+       "q": "Which type of entrepreneurship happens inside a large company as a company-level activity?",
+       "options": [
+        "Small Business Entrepreneurship",
+        "Lifestyle Entrepreneurship",
+        "Corporate Entrepreneurship",
+        "Social Entrepreneurship"
+       ],
+       "answer": 2,
+       "why": "Corporate Entrepreneurship is the type carried out within a large corporation, while intrapreneurship describes the employees acting like entrepreneurs inside the company."
+      },
+      {
+       "q": "A neighbourhood bakery run by its owner is an example of which type?",
+       "options": [
+        "Scalable Startup Entrepreneurship",
+        "Corporate Entrepreneurship",
+        "Technological Entrepreneurship",
+        "Small Business Entrepreneurship"
+       ],
+       "answer": 3,
+       "why": "A local business like a neighbourhood bakery fits Small Business Entrepreneurship, the type that primarily focuses on local businesses."
+      },
+      {
+       "q": "Entrepreneurship creates which of these for other people?",
+       "options": [
+        "Taxes only",
+        "Jobs",
+        "Homework",
+        "Traffic"
+       ],
+       "answer": 1,
+       "why": "The main goal of entrepreneurship given in the exercise is to create jobs and make a profit, so entrepreneurs provide employment to others."
+      },
+      {
+       "q": "Which of these is a type of entrepreneurship named in the unit's exercise?",
+       "options": [
+        "Social Entrepreneurship",
+        "Homework Entrepreneurship",
+        "Sleeping Entrepreneurship",
+        "Gaming Entrepreneurship"
+       ],
+       "answer": 0,
+       "why": "Social Entrepreneurship is one of the types named in the exercise options, along with Small Business, Scalable Startup, Corporate, Intrapreneurship, Lifestyle and Technological entrepreneurship."
+      },
+      {
+       "q": "Intrapreneurs are different from independent entrepreneurs because they ___.",
+       "options": [
+        "never take any risks at all",
+        "work only from home",
+        "own the whole company",
+        "act like entrepreneurs within the company that employs them"
+       ],
+       "answer": 3,
+       "why": "Intrapreneurship is defined in the exercise as employees acting like entrepreneurs within their company, rather than starting their own separate business."
+      },
+      {
+       "q": "The main goal of entrepreneurship includes making a ___.",
+       "options": [
+        "loss on purpose",
+        "speech",
+        "profit",
+        "poster"
+       ],
+       "answer": 2,
+       "why": "The exercise answer pairs the two goals: to create jobs and make a profit."
+      }
+     ]
+    },
+    {
+     "title": "The Business Plan",
+     "notes_html": "<p>A <strong>business plan</strong> is a detailed document that outlines the <strong>goals, strategies and operational plans</strong> of a business. Its primary purpose is to serve as a <strong>roadmap</strong> for starting and managing a business, helping entrepreneurs understand how to run their business effectively and <strong>attract investors or lenders</strong>.</p><h4>Key Aspects (Components) of a Business Plan</h4><ul><li><strong>Market Need</strong> — the problem the business aims to solve or the need it seeks to fulfill; it helps identify the problem your business aims to solve.</li><li><strong>Product Design</strong> — the products or services offered, including features and benefits.</li><li><strong>Costing</strong> — the costs of producing the product or delivering the service, which helps determine pricing and profitability.</li><li><strong>Operations</strong> — how the business will run day-to-day, including processes, facilities and logistics.</li><li><strong>Marketing</strong> — how the business will be promoted and customers attracted.</li></ul><h4>Value Proposition</h4><p>A <strong>Value Proposition</strong> is a statement made by a company to customers, explaining why its offerings are the best choice for consumers.</p>",
+     "mcqs": [
+      {
+       "q": "What is the primary purpose of a Business Plan?",
+       "options": [
+        "To decorate the office wall",
+        "To replace all employees",
+        "To serve as a roadmap for starting and managing a business",
+        "To register the company's name only"
+       ],
+       "answer": 2,
+       "why": "A business plan's primary purpose is to serve as a roadmap for starting and managing a business, helping entrepreneurs run it effectively and attract investors or lenders."
+      },
+      {
+       "q": "Which component of a business plan describes the product's features and benefits?",
+       "options": [
+        "Costing",
+        "Market Need",
+        "Operations",
+        "Product Design"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer: Product Design describes the products or services offered, including their features and benefits."
+      },
+      {
+       "q": "What does the Market Need section of a business plan help identify?",
+       "options": [
+        "The problem your business aims to solve",
+        "The cost of production",
+        "The target audience's preferences only",
+        "The marketing strategies"
+       ],
+       "answer": 0,
+       "why": "Market Need is the problem the business aims to solve or the need it seeks to fulfill — the first component of the business plan in the unit."
+      },
+      {
+       "q": "What does the Costing component of a business plan cover?",
+       "options": [
+        "The names of all employees",
+        "The costs of producing the product or delivering the service, which helps determine pricing and profitability",
+        "The design of the company logo",
+        "The office opening hours"
+       ],
+       "answer": 1,
+       "why": "Costing covers the costs of producing the product or delivering the service, which helps determine pricing and profitability."
+      },
+      {
+       "q": "What does the Operations component describe?",
+       "options": [
+        "How the business will run day-to-day, including processes, facilities and logistics",
+        "The advertising slogans",
+        "The owner's biography",
+        "The product's colors"
+       ],
+       "answer": 0,
+       "why": "Operations describes how the business will run day-to-day, including processes, facilities, and logistics."
+      },
+      {
+       "q": "A business plan helps entrepreneurs attract which of the following?",
+       "options": [
+        "Tourists",
+        "Investors or lenders",
+        "Hackers",
+        "Competitors"
+       ],
+       "answer": 1,
+       "why": "The unit states that a business plan helps entrepreneurs understand how to run their business effectively and attract investors or lenders."
+      },
+      {
+       "q": "What is a Value Proposition?",
+       "options": [
+        "A discount coupon",
+        "A list of product prices",
+        "The company's address",
+        "A statement made by a company to customers, explaining why its offerings are the best choice for consumers"
+       ],
+       "answer": 3,
+       "why": "The true/false exercise confirms: a Value Proposition is a statement made by a company to customers, explaining why its offerings are the best choice for consumers."
+      },
+      {
+       "q": "Which component of a business plan explains how the business will be promoted and customers attracted?",
+       "options": [
+        "Costing",
+        "Operations",
+        "Marketing",
+        "Market Need"
+       ],
+       "answer": 2,
+       "why": "Marketing is the component covering how the business will be promoted and customers attracted; the unit's lemonade-stand activity also uses promotion strategies in its plan template."
+      },
+      {
+       "q": "A business plan is best described as a ___.",
+       "options": [
+        "single sentence about an idea",
+        "detailed document that outlines the goals, strategies and operational plans of a business",
+        "receipt for purchases",
+        "list of employees' names"
+       ],
+       "answer": 1,
+       "why": "The unit defines a business plan as a detailed document that outlines the goals, strategies, and operational plans of a business."
+      },
+      {
+       "q": "In the lemonade stand activity, the plan template includes a section for ___.",
+       "options": [
+        "value proposition",
+        "sports results",
+        "weather reports",
+        "exam timetables"
+       ],
+       "answer": 0,
+       "why": "The Digital Lemonade Stand activity uses a template with objectives, target audience, pricing, promotion strategies and a value proposition, emphasizing the unique value proposition."
+      }
+     ]
+    },
+    {
+     "title": "Digital Marketing and Its Components",
+     "notes_html": "<p><strong>Digital marketing</strong> refers to the use of the internet and online-based technologies to promote products or services. It encompasses a variety of online marketing strategies aimed at reaching consumers through digital channels, and it includes various digital advertising methods and channels as part of a broader marketing strategy.</p><h4>Key Components of Digital Marketing</h4><ul><li><strong>Search Engine Optimization (SEO)</strong></li><li><strong>Content Marketing</strong></li><li><strong>Email Marketing</strong> — sending promotional messages via email.</li><li><strong>Pay-Per-Click (PPC)</strong></li><li><strong>Social Media Marketing</strong></li></ul><p><strong>Product Design</strong> is <em>not</em> a component of digital marketing — it is a component of the business plan.</p><h4>The Digital Marketing Plan</h4><p>A <strong>Digital Marketing Plan</strong> outlines the strategies and actions that a business will take to reach its target audience online. Its components are: <strong>Executive Summary</strong> (which outlines the main goals and actions), Target Audience, Marketing Goals and Objectives, Digital Marketing Channels, Content Strategy, Budget, Performance Metrics and KPIs, Timeline, Evaluation and Adjustment, and Conclusion. The plan is important because it helps businesses effectively promote their products and services through various digital channels.</p>",
+     "mcqs": [
+      {
+       "q": "What is Digital Marketing?",
+       "options": [
+        "Printing posters for shop windows",
+        "The use of the internet and online-based technologies to promote products or services",
+        "Selling products door to door",
+        "Advertising only on television"
+       ],
+       "answer": 1,
+       "why": "Digital marketing refers to the use of the internet and online-based technologies to promote products or services through digital channels."
+      },
+      {
+       "q": "Which of the following is NOT a key component of digital marketing?",
+       "options": [
+        "Search Engine Optimization (SEO)",
+        "Content Marketing",
+        "Product Design",
+        "Social Media Marketing"
+       ],
+       "answer": 2,
+       "why": "Product Design is a component of the business plan, not of digital marketing; SEO, Content Marketing, Email Marketing, PPC and Social Media Marketing are the key components."
+      },
+      {
+       "q": "Which digital marketing channel focuses on sending promotional messages via email?",
+       "options": [
+        "Email Marketing",
+        "Pay-Per-Click (PPC)",
+        "Social Media Marketing",
+        "Content Marketing"
+       ],
+       "answer": 0,
+       "why": "Email Marketing is the channel that focuses on sending promotional messages via email; PPC is paid advertising and Social Media Marketing uses social platforms."
+      },
+      {
+       "q": "What is a key component of a digital marketing plan that outlines the main goals and actions?",
+       "options": [
+        "Target Audience",
+        "Budget",
+        "Content Strategy",
+        "Executive Summary"
+       ],
+       "answer": 3,
+       "why": "The book's MCQ answer: the Executive Summary is the component of a digital marketing plan that outlines the main goals and actions."
+      },
+      {
+       "q": "True or False: Digital Marketing includes various digital advertising methods and channels as part of a broader marketing strategy.",
+       "options": [
+        "False",
+        "True",
+        "Only one channel",
+        "Only offline methods"
+       ],
+       "answer": 1,
+       "why": "The statement is true: digital marketing encompasses a variety of online marketing strategies aimed at reaching consumers through digital channels."
+      },
+      {
+       "q": "Which of these is a component of a Digital Marketing Plan?",
+       "options": [
+        "Employee salaries list",
+        "Office furniture plan",
+        "Performance Metrics and KPIs, along with Timeline and Evaluation and Adjustment",
+        "Product repair guide"
+       ],
+       "answer": 2,
+       "why": "The plan's components include Executive Summary, Target Audience, Marketing Goals and Objectives, Digital Marketing Channels, Content Strategy, Budget, Performance Metrics and KPIs, Timeline, Evaluation and Adjustment, and Conclusion."
+      },
+      {
+       "q": "Why is a Digital Marketing Plan important?",
+       "options": [
+        "It guarantees the business will never spend money",
+        "It replaces the business plan completely",
+        "It is only needed by large companies",
+        "It outlines the strategies and actions a business will take to reach its target audience online"
+       ],
+       "answer": 3,
+       "why": "A Digital Marketing Plan outlines the strategies and actions that a business will take to reach its target audience online, helping it promote products and services through digital channels."
+      },
+      {
+       "q": "Pay-Per-Click (PPC) is one of the key components of ___.",
+       "options": [
+        "digital marketing",
+        "a business plan's costing",
+        "quality assurance",
+        "a flowchart"
+       ],
+       "answer": 0,
+       "why": "PPC is listed among the key components of digital marketing, together with SEO, Content Marketing, Email Marketing and Social Media Marketing."
+      },
+      {
+       "q": "Which component of the digital marketing plan covers the money set aside for marketing?",
+       "options": [
+        "Executive Summary",
+        "Timeline",
+        "Budget",
+        "Conclusion"
+       ],
+       "answer": 2,
+       "why": "Budget is the component of the Digital Marketing Plan that covers the money side; the Executive Summary outlines the main goals and actions."
+      },
+      {
+       "q": "Digital marketing reaches consumers through which channels?",
+       "options": [
+        "Only printed newspapers",
+        "Digital channels such as search engines, email, social media and websites",
+        "Only radio",
+        "Only shop signs"
+       ],
+       "answer": 1,
+       "why": "Digital marketing encompasses online marketing strategies aimed at reaching consumers through digital channels — search engines, email, social media and websites."
+      }
+     ]
+    },
+    {
+     "title": "SEO: Search Engine Optimization",
+     "notes_html": "<p><strong>SEO</strong> stands for <strong>Search Engine Optimization</strong>. It is a set of strategies and techniques used to improve the <strong>visibility of a website on search engines</strong> like Google.</p><h4>The Main Goal of SEO</h4><p>Its primary goal is to help websites get to the <strong>top positions in the search results</strong> so that more people can find them: when people search for information, products or services, they usually click on the websites that appear at the top of the search results.</p><h4>How SEO Benefits a Website</h4><ul><li><strong>More Visitors</strong> — if a website ranks higher in search results, it will attract more visitors, and this can lead to more sales or engagement.</li><li><strong>Builds Trust</strong> — websites that appear at the top of search results are often viewed as more trustworthy and reliable by users, so a wider audience is willing to visit and use them.</li><li><strong>Cost-Effective</strong> — unlike paid ads, which require ongoing payments, good SEO can bring in visitors for free over time, so the audience keeps growing without repeated advertising cost.</li></ul><h4>What SEO Optimizes</h4><p>One aspect that SEO optimizes is the website's <strong>content</strong>: in the Digital Marketing Channels component, the unit defines SEO as optimizing website content to rank higher in search results. By improving the content so that it matches what people search for, the website's visibility increases and it appears nearer the top of the results. SEO does <em>not</em> aim to reduce a website's visibility, and it does not guarantee instant sales.</p>",
+     "mcqs": [
+      {
+       "q": "What does SEO stand for?",
+       "options": [
+        "Social Engagement Office",
+        "Search Email Organization",
+        "Search Engine Optimization",
+        "Software Engineering Operations"
+       ],
+       "answer": 2,
+       "why": "SEO stands for Search Engine Optimization, a set of strategies and techniques used to improve the visibility of a website on search engines like Google."
+      },
+      {
+       "q": "What is the purpose of Search Engine Optimization (SEO)?",
+       "options": [
+        "To improve a website's visibility on search engines",
+        "To increase social media followers",
+        "To create engaging video content",
+        "To manage email marketing campaigns"
+       ],
+       "answer": 0,
+       "why": "The book's MCQ answer: the purpose of SEO is to improve a website's visibility on search engines, helping it reach the top positions in search results."
+      },
+      {
+       "q": "What is the main goal of SEO?",
+       "options": [
+        "To make websites load slower",
+        "To hide websites from users",
+        "To remove websites from the internet",
+        "To help websites get to the top positions in the search results so more people can find them"
+       ],
+       "answer": 3,
+       "why": "When people search for information, products, or services, they usually click on the websites at the top of the search results, so SEO aims to get websites to those top positions."
+      },
+      {
+       "q": "What is one benefit of using SEO for a website?",
+       "options": [
+        "It guarantees instant sales",
+        "It builds trust with users",
+        "It requires ongoing payments",
+        "It eliminates the need for content creation"
+       ],
+       "answer": 1,
+       "why": "Websites that appear at the top of search results are often viewed as more trustworthy and reliable by users, so SEO builds trust — it does not guarantee instant sales."
+      },
+      {
+       "q": "True or False: SEO aims to reduce a website's visibility in search results.",
+       "options": [
+        "True",
+        "Only for new websites",
+        "False",
+        "Only for shops"
+       ],
+       "answer": 2,
+       "why": "The statement is false: SEO aims to increase a website's visibility and improve its position in search results, the exact opposite of reducing it."
+      },
+      {
+       "q": "How does SEO benefit website traffic?",
+       "options": [
+        "It sends visitors to other websites",
+        "A higher ranking attracts more visitors, which can lead to more sales or engagement",
+        "It blocks visitors from the website",
+        "It works only for one day"
+       ],
+       "answer": 1,
+       "why": "If a website ranks higher in search results, it will attract more visitors, and this can lead to more sales or engagement — the first of the unit's three SEO benefits."
+      },
+      {
+       "q": "Why is SEO described as cost-effective?",
+       "options": [
+        "Unlike paid ads, which require ongoing payments, good SEO can bring in visitors for free over time",
+        "It costs nothing to set up ever",
+        "It replaces the need for a website",
+        "It is paid per click"
+       ],
+       "answer": 0,
+       "why": "The unit's third SEO benefit: unlike paid ads, which require ongoing payments, good SEO can bring in visitors for free over time, so the audience keeps growing without repeated advertising cost."
+      },
+      {
+       "q": "One aspect that SEO optimizes to enhance a website's visibility is ___.",
+       "options": [
+        "the office location",
+        "the staff uniforms",
+        "the product packaging",
+        "the website's content"
+       ],
+       "answer": 3,
+       "why": "In the Digital Marketing Channels component, the unit defines SEO as optimizing website content to rank higher in search results; matching content to what people search for raises visibility."
+      },
+      {
+       "q": "People searching online usually click on which websites?",
+       "options": [
+        "The websites on the last page of results",
+        "The websites that appear at the top of the search results",
+        "Websites with no content",
+        "Websites they have never heard of"
+       ],
+       "answer": 1,
+       "why": "The unit explains that when people search for information, products, or services, they usually click on the websites that appear at the top of the search results."
+      },
+      {
+       "q": "SEO is a component of which subject in this unit?",
+       "options": [
+        "A business plan's Operations",
+        "Quality Assurance",
+        "Digital Marketing",
+        "Flowchart design"
+       ],
+       "answer": 2,
+       "why": "SEO (Search Engine Optimization) is one of the key components of digital marketing, listed with Content Marketing, Email Marketing, PPC and Social Media Marketing."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
