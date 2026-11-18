@@ -1,0 +1,2123 @@
+{
+ "book": "pctb-c7-computer-science-en",
+ "chapters": [
+  {
+   "title": "Unit 1: Emerging Technologies",
+   "lessons": [
+    {
+     "title": "Emerging Technologies, Robotics and Artificial Intelligence",
+     "notes_html": "<h4>Emerging Technology</h4>\n<p><b>Emerging technology</b> is a new technology, or the advancement of an existing technology, that is developing fast and bringing technical, institutional and social change. Its characteristics are <b>innovation</b>, <b>fast growth</b>, consistency and prominent impact. Important examples are <b>Artificial Intelligence</b>, <b>robotics</b>, <b>3D printing</b>, <b>virtual reality</b>, <b>augmented reality</b>, self-driving cars and 3D holographic imaging.</p>\n<h4>Robotics</h4>\n<p><b>Robotics</b> is the branch of technology that deals with the design, construction and use of <b>robots</b> — machines that can perform tasks automatically, often tasks that are dangerous, difficult or repetitive for humans. Robots are used in factories for assembling cars and goods, in hospitals for surgery and delivering medicines, in space exploration, in homes for cleaning, and in agriculture and the army for risky work.</p>\n<h4>Artificial Intelligence</h4>\n<p><b>Artificial Intelligence (AI)</b> is the technology that enables machines and computers to act and think like humans — to learn from experience, recognise speech and images, and make decisions. The goal of AI is to make devices act and think like humans. AI is helpful in voice assistants, medical diagnosis, self-driving cars, online recommendations, translation, fraud detection and doing fast, accurate work in offices, farms and factories.</p>\n<h4>Self-Driving Cars</h4>\n<p>A <b>self-driving car</b> (also called an automatic car) is operated by its own computer system, not by a human driver. <b>Sensors</b>, cameras, radar and AI software observe the road, traffic and obstacles and control the steering, speed and brakes automatically, so the car drives itself safely to the destination.</p>\n<h4>Activity</h4>\n<p>Research any emerging technology of your choice and present your findings to the whole class. Sample topic — 3D printing: it builds objects layer by layer from a digital design, is used for models, spare parts, medical implants and prototypes; its benefits are less waste and customised products, while its challenges are slow speed for large objects and the cost of materials.</p>",
+     "mcqs": [
+      {
+       "q": "The goal of ________ is to make device act and think like human.",
+       "options": [
+        "Artificial Intelligence",
+        "3D printing",
+        "Virtual Reality",
+        "Augmented Reality"
+       ],
+       "answer": 0,
+       "why": "The goal of Artificial Intelligence is to make devices act and think like humans — learning from experience, recognising speech and images, and making decisions."
+      },
+      {
+       "q": "A self-driving car is also known as:",
+       "options": [
+        "Robotic car",
+        "Beautiful Car",
+        "Automatic car",
+        "Manual car"
+       ],
+       "answer": 2,
+       "why": "A self-driving car is also known as an automatic car, because its own computer system drives it automatically without a human driver."
+      },
+      {
+       "q": "Which of the following is an example of an emerging technology?",
+       "options": [
+        "Typewriter",
+        "Robotics",
+        "Abacus",
+        "Wall clock"
+       ],
+       "answer": 1,
+       "why": "Emerging technologies are new, fast-developing technologies such as robotics, Artificial Intelligence and 3D printing. A typewriter, an abacus and a wall clock are old, manual tools."
+      },
+      {
+       "q": "Robotics is the branch of technology that deals with:",
+       "options": [
+        "Printing documents on paper",
+        "Sending and receiving emails",
+        "Drawing charts and tables",
+        "The design, construction and use of robots"
+       ],
+       "answer": 3,
+       "why": "Robotics deals with the design, construction and use of robots — machines that perform tasks automatically."
+      },
+      {
+       "q": "Robots are preferred for tasks that are:",
+       "options": [
+        "Dangerous, difficult or repetitive for humans",
+        "Very easy and pleasant",
+        "Related to handwriting practice",
+        "Done only inside classrooms"
+       ],
+       "answer": 0,
+       "why": "Robots perform tasks automatically, especially tasks that are dangerous, difficult or repetitive for humans, such as risky work in factories, hospitals, space and the army."
+      },
+      {
+       "q": "Which of these is an application of robots in hospitals?",
+       "options": [
+        "Teaching lessons",
+        "Surgery and delivering medicines",
+        "Printing textbooks",
+        "Selling tickets"
+       ],
+       "answer": 1,
+       "why": "In hospitals, robots are used for surgery and for delivering medicines, as given in the solved exercises of the book."
+      },
+      {
+       "q": "Artificial Intelligence enables machines to:",
+       "options": [
+        "Work without any data",
+        "Print three-dimensional objects",
+        "Learn from experience and make decisions",
+        "Connect devices through ports"
+       ],
+       "answer": 2,
+       "why": "AI enables machines and computers to act and think like humans — to learn from experience, recognise speech and images, and make decisions."
+      },
+      {
+       "q": "A self-driving car observes the road, traffic and obstacles using:",
+       "options": [
+        "Sensors, cameras and radar",
+        "A printed road map only",
+        "Traffic police only",
+        "The passengers of the car"
+       ],
+       "answer": 0,
+       "why": "A self-driven car is operated by its own computer system; sensors, cameras, radar and AI software observe the road, traffic and obstacles and control the steering, speed and brakes."
+      },
+      {
+       "q": "AI is helpful for humans in:",
+       "options": [
+        "Increasing manual paperwork",
+        "Slowing down office work",
+        "Making random decisions",
+        "Medical diagnosis and fraud detection"
+       ],
+       "answer": 3,
+       "why": "AI is helpful in voice assistants, medical diagnosis, self-driving cars, online recommendations, translation and fraud detection, and in doing fast, accurate work."
+      },
+      {
+       "q": "An important characteristic of emerging technology is:",
+       "options": [
+        "It never changes with time",
+        "Innovation and fast growth",
+        "It has no social impact",
+        "It is hundreds of years old"
+       ],
+       "answer": 1,
+       "why": "The characteristics of emerging technology are innovation, fast growth, consistency and prominent impact on society."
+      }
+     ]
+    },
+    {
+     "title": "3D Printing, Virtual Reality, Augmented Reality and Holograms",
+     "notes_html": "<h4>2D and 3D Printing</h4>\n<p><b>2D printing</b> prints flat images and text on paper in two dimensions — length and width — using ordinary printers. <b>3D printing</b> builds a real three-dimensional object (length, width and height) <b>layer by layer</b> from a digital design, using materials like plastic, resin or metal. It is used for making models, spare parts, medical implants and prototypes quickly and cheaply.</p>\n<h4>Virtual Reality and Augmented Reality</h4>\n<p><b>Virtual Reality (VR)</b> creates a completely artificial, computer-generated world and shuts out the real world; the user wears a VR headset and feels fully inside the virtual environment, for example in games and training simulations. <b>Augmented Reality (AR)</b> is the integration of the real-world environment and computer-generated content: it does not replace the real world but adds images, labels or objects over the real-world view seen through a phone or AR glasses, for example filters and navigation directions on a live camera view.</p>\n<h4>Holographic Imaging</h4>\n<p>A three-dimensional image created with projection is called a <b>hologram</b>. <b>Holographic imaging</b> creates a 3D image of an object with the help of light projection, so that the image appears to float in the air and can be viewed from different angles. It is used in entertainment and stage shows, in education for showing 3D models of organs and machines, in medical imaging, in advertising and product display, and in security features such as the holograms on banknotes and ID cards.</p>",
+     "mcqs": [
+      {
+       "q": "________ is the integration of real-world environment and computer-generated content.",
+       "options": [
+        "VR",
+        "AR",
+        "CR",
+        "MR"
+       ],
+       "answer": 1,
+       "why": "Augmented Reality (AR) is the integration of the real-world environment and computer-generated content — it adds digital content over the real view instead of replacing it."
+      },
+      {
+       "q": "A three-dimensional image created with projection is called:",
+       "options": [
+        "Telegram",
+        "histogram",
+        "hologram",
+        "Photogram"
+       ],
+       "answer": 2,
+       "why": "A three-dimensional image created with projection is called a hologram; holographic imaging makes the image appear to float in the air."
+      },
+      {
+       "q": "3D printing builds a real object:",
+       "options": [
+        "Layer by layer from a digital design",
+        "By spraying ink on paper",
+        "By cutting a metal sheet with a saw",
+        "By typing text on a keyboard"
+       ],
+       "answer": 0,
+       "why": "3D printing builds a three-dimensional object layer by layer from a digital design, using materials like plastic, resin or metal."
+      },
+      {
+       "q": "2D printing produces output in:",
+       "options": [
+        "Three dimensions",
+        "Four dimensions",
+        "No dimensions at all",
+        "Two dimensions — length and width"
+       ],
+       "answer": 3,
+       "why": "2D printing prints flat images and text on paper in two dimensions — length and width — using ordinary printers."
+      },
+      {
+       "q": "In Virtual Reality, the user:",
+       "options": [
+        "Sees only the real world around him",
+        "Feels fully inside a computer-generated world",
+        "Reads a printed book",
+        "Listens to the radio"
+       ],
+       "answer": 1,
+       "why": "Virtual Reality creates a completely artificial, computer-generated world and shuts out the real world; the user feels fully inside the virtual environment."
+      },
+      {
+       "q": "Which device is worn by the user to experience Virtual Reality?",
+       "options": [
+        "A VR headset",
+        "A printer",
+        "A scanner",
+        "A webcam"
+       ],
+       "answer": 0,
+       "why": "In Virtual Reality the user wears a VR headset and feels fully inside the virtual environment, as in games and training simulations."
+      },
+      {
+       "q": "Which of the following is an example of Augmented Reality?",
+       "options": [
+        "A completely artificial game world",
+        "A printed photograph in a book",
+        "Navigation directions shown on a live camera view",
+        "A radio programme"
+       ],
+       "answer": 2,
+       "why": "Augmented Reality adds computer-generated content over the real-world view — for example filters and navigation directions on a live camera view through a phone or AR glasses."
+      },
+      {
+       "q": "Holograms are used as a security feature on:",
+       "options": [
+        "Wooden furniture",
+        "School bags",
+        "Water bottles",
+        "Banknotes and ID cards"
+       ],
+       "answer": 3,
+       "why": "Holographic imaging is used in security features such as the holograms on banknotes and ID cards, besides entertainment, education, medical imaging and advertising."
+      },
+      {
+       "q": "Materials used in 3D printing include:",
+       "options": [
+        "Paper and ink only",
+        "Plastic, resin and metal",
+        "Sand and water",
+        "Glass and wood only"
+       ],
+       "answer": 1,
+       "why": "3D printing builds objects layer by layer from a digital design using materials like plastic, resin or metal."
+      },
+      {
+       "q": "Holographic imaging creates a three-dimensional image with the help of:",
+       "options": [
+        "Light projection",
+        "Sound waves",
+        "Ink spraying",
+        "Magnetic tape"
+       ],
+       "answer": 0,
+       "why": "Holographic imaging creates a 3D image (hologram) of an object with the help of light projection, so the image appears to float in the air and can be viewed from different angles."
+      }
+     ]
+    },
+    {
+     "title": "Computer Ports: USB, Type-C, HDMI, SATA and PCIe",
+     "notes_html": "<h4>What is a Port?</h4>\n<p>A <b>port</b> is a physical point on a computer through which an external device can be connected to it. Ports allow the computer to communicate with all its peripherals.</p>\n<h4>Types of Ports</h4>\n<ul>\n<li><b>USB port</b>: connects a keyboard, mouse, printer, scanner, flash drive and external hard disk to the computer. It transfers data between the device and the computer and also supplies electric power, so it can charge mobile phones and run small devices. USB stands for <b>Universal Serial Bus</b>.</li>\n<li><b>Type-C port</b>: a small, reversible USB port used for fast data transfer, charging and connecting many devices to laptops and phones; the plug can be inserted from either side.</li>\n<li><b>HDMI port</b>: carries high-quality digital audio and video signals from the computer to a monitor, TV or projector through a single cable.</li>\n<li><b>SATA port</b>: connects internal storage devices — hard disk drives (HDD) and solid state drives (SSD) — and optical drives inside the computer to the motherboard, transferring data at high speed. SATA stands for Serial Advanced Technology Attachment.</li>\n<li><b>PCIe slot</b>: used to add expansion cards such as a graphic card (GPU), sound card and network card. PCIe (Peripheral Component Interconnect Express) provides very fast data transfer between the card and the motherboard.</li>\n</ul>\n<h4>The Graphic Card</h4>\n<p>The <b>graphic card (GPU)</b> processes and produces the images, videos and graphics shown on the monitor. It is essential for games, video editing, 3D work and smooth display, and it is added to the computer using PCIe.</p>\n<h4>Activities</h4>\n<p>Make a chart of the different ports — USB, Type-C, HDMI, SATA and PCIe — with a picture of each, where it is found, and the device connected through it, and display it in the classroom. Also inspect a computer in the lab and identify the type of port in use: commonly the monitor is connected through an HDMI port, and the keyboard, mouse and printer through USB ports.</p>",
+     "mcqs": [
+      {
+       "q": "A ________ is a physical point on a computer using which an external device can be connected to the computer.",
+       "options": [
+        "Device",
+        "Peripheral",
+        "Port",
+        "Drive"
+       ],
+       "answer": 2,
+       "why": "A port is a physical point on a computer through which an external device can be connected to the computer."
+      },
+      {
+       "q": "USB stands for:",
+       "options": [
+        "Unique Series Bus",
+        "Unique State Bus",
+        "Universal State Bus",
+        "Universal Serial Bus"
+       ],
+       "answer": 3,
+       "why": "USB stands for Universal Serial Bus. A USB port connects devices like keyboard, mouse and printer, transfers data and also supplies power."
+      },
+      {
+       "q": "GPU is added in computer using:",
+       "options": [
+        "PCIe",
+        "SATA",
+        "USB",
+        "HDMI"
+       ],
+       "answer": 0,
+       "why": "The GPU (graphic card) is added in the computer using PCIe, which provides very fast data transfer between the card and the motherboard."
+      },
+      {
+       "q": "Which port connects internal hard disks and SSDs to the motherboard?",
+       "options": [
+        "HDMI port",
+        "SATA port",
+        "Type-C port",
+        "USB port"
+       ],
+       "answer": 1,
+       "why": "The SATA (Serial Advanced Technology Attachment) port connects storage devices — HDD and SSD — and optical drives inside the computer to the motherboard."
+      },
+      {
+       "q": "The HDMI port is used to:",
+       "options": [
+        "Carry high-quality audio and video to a monitor, TV or projector",
+        "Charge a mobile phone",
+        "Connect an internal hard disk",
+        "Add a graphic card"
+       ],
+       "answer": 0,
+       "why": "The HDMI port carries high-quality digital audio and video signals from the computer to an external display such as a monitor, TV or projector through a single cable."
+      },
+      {
+       "q": "A Type-C plug is reversible, which means:",
+       "options": [
+        "It works without any cable",
+        "It has two screens",
+        "It can be inserted from either side",
+        "It prints on both sides of paper"
+       ],
+       "answer": 2,
+       "why": "The Type-C port is a small reversible USB port; its plug can be inserted from either side, and it is used for fast data transfer and charging."
+      },
+      {
+       "q": "Besides transferring data, a USB port also:",
+       "options": [
+        "Displays images on the screen",
+        "Supplies electric power to connected devices",
+        "Stores files permanently",
+        "Cools down the computer"
+       ],
+       "answer": 1,
+       "why": "A USB port transfers data between the device and the computer and also supplies electric power, so it can charge mobile phones and run small devices."
+      },
+      {
+       "q": "The graphic card (GPU) is responsible for:",
+       "options": [
+        "Typing text into the computer",
+        "Storing documents and files",
+        "Connecting the computer to a printer",
+        "Producing the images, videos and graphics shown on the monitor"
+       ],
+       "answer": 3,
+       "why": "The graphic card (GPU) processes and produces the images, videos and graphics shown on the monitor; it is essential for games, video editing and 3D work."
+      },
+      {
+       "q": "Expansion cards like sound cards and network cards are added to the computer through:",
+       "options": [
+        "USB ports",
+        "HDMI ports",
+        "PCIe slots",
+        "SATA ports"
+       ],
+       "answer": 2,
+       "why": "PCIe slots are used to add expansion cards to the computer, such as a graphic card (GPU), sound card and network card."
+      },
+      {
+       "q": "SATA stands for:",
+       "options": [
+        "Serial Advanced Technology Attachment",
+        "Serial Advanced Transfer Adapter",
+        "System Advanced Technology Attachment",
+        "Serial Automatic Technology Attachment"
+       ],
+       "answer": 0,
+       "why": "SATA stands for Serial Advanced Technology Attachment; the SATA port connects internal storage devices to the motherboard at high speed."
+      }
+     ]
+    },
+    {
+     "title": "Peripherals: Mouse, Keyboard, Printer and Scanner",
+     "notes_html": "<h4>Computer Peripherals</h4>\n<p><b>Computer peripherals</b> are the external devices connected to a computer to perform input, output or storage functions. The devices which send data to the computer are known as <b>input devices</b>; output peripherals present processed information to the user. Input peripherals include the keyboard, mouse, scanner, webcam and microphone; output peripherals include the monitor, printer and speakers. Peripherals are connected through ports such as USB, HDMI and Type-C and extend what the computer can do. In the computer lab you can identify these parts in use, along with the port each device is connected to.</p>\n<h4>The Mouse</h4>\n<p>A computer <b>mouse</b> is a hand-held input (pointing) device that controls the movement of the pointer (cursor) on the screen. Its functions are: pointing and <b>hovering</b> over items, clicking and double-clicking to select and open items, right-clicking to open shortcut menus, dragging objects from one place to another, and <b>scrolling</b> pages up and down with its wheel. Hovering means holding the mouse pointer over an item on the screen without clicking it, often to see a tip or highlight the item. Scrolling means moving the contents of a page up, down or sideways using the mouse wheel or scroll bar to view parts that are not visible on the screen.</p>\n<h4>The Keyboard and Function Keys</h4>\n<p>A <b>keyboard</b> is an input device used to enter text, numbers and commands into the computer by pressing keys. Its main components are: alphanumeric keys (letters and numbers), function keys (F1–F12) at the top, a numeric keypad on the right side, navigation/arrow keys, and special keys such as Enter, Spacebar, Shift, Ctrl, Alt, Backspace, Delete, Caps Lock and Esc. Function keys perform special shortcuts: F1 opens Help; F2 renames a selected file; F5 refreshes a page or starts a slideshow; F7 runs spelling and grammar check in MS Office; F11 toggles full-screen mode; and F12 opens 'Save As' in MS Word.</p>\n<h4>Printers</h4>\n<p>A <b>printer</b> is an output device that produces a hard copy of documents and images on paper. Its main types are: <b>inkjet printers</b>, which spray liquid ink and are common at home; <b>laser printers</b>, which use toner and heat and print fast, high-quality pages in offices; and <b>dot matrix printers</b>, which strike pins against an ink ribbon and are used for bills and multi-copy forms.</p>\n<h4>Scanners and Webcam</h4>\n<p>A <b>scanner</b> is used to convert printed documents, photographs and handwritten pages into digital form that can be stored, edited and shared on a computer. It is used for saving old records, sending documents by email, making digital copies of pictures and certificates, and for OCR (reading printed text into editable text). The main properties of a scanner are: its resolution, measured in DPI (dots per inch), which decides the sharpness of the scanned image; colour depth, which decides how many colours it can capture; scanning speed; the size of documents it can scan (e.g. A4 flatbed); and the type of connection, usually USB. A <b>webcam</b> is a small digital camera that captures live video and images and sends them to the computer; it is used for video calls and online classes, recording videos, and security monitoring.</p>",
+     "mcqs": [
+      {
+       "q": "The devices which send data to computer are known as:",
+       "options": [
+        "Input devices",
+        "Processing devices",
+        "Output devices",
+        "Storage devices"
+       ],
+       "answer": 0,
+       "why": "The devices which send data to the computer are known as input devices, such as the keyboard, mouse, scanner and webcam."
+      },
+      {
+       "q": "A keyboard and a monitor are both examples of:",
+       "options": [
+        "Computer ports",
+        "Computer peripherals",
+        "Storage devices",
+        "Software programs"
+       ],
+       "answer": 1,
+       "why": "Computer peripherals are the external devices connected to a computer for input, output or storage — the keyboard is an input peripheral and the monitor is an output peripheral."
+      },
+      {
+       "q": "Hovering means:",
+       "options": [
+        "Moving the contents of a page up and down",
+        "Pressing a key two times quickly",
+        "Dragging a file into a folder",
+        "Holding the mouse pointer over an item without clicking it"
+       ],
+       "answer": 3,
+       "why": "Hovering means holding the mouse pointer over an item on the screen without clicking it, often to see a tip or highlight the item."
+      },
+      {
+       "q": "Which printer sprays liquid ink and is common at home?",
+       "options": [
+        "Laser printer",
+        "Dot matrix printer",
+        "Inkjet printer",
+        "3D printer"
+       ],
+       "answer": 2,
+       "why": "Inkjet printers spray liquid ink and are common at home; laser printers use toner and heat, and dot matrix printers strike pins against an ink ribbon."
+      },
+      {
+       "q": "The resolution of a scanner, which decides the sharpness of the scanned image, is measured in:",
+       "options": [
+        "DPI (dots per inch)",
+        "GB (gigabytes)",
+        "MHz (megahertz)",
+        "Centimetres"
+       ],
+       "answer": 0,
+       "why": "The main properties of a scanner include its resolution, measured in DPI (dots per inch), which decides the sharpness of the scanned image, and its colour depth."
+      },
+      {
+       "q": "Which function key opens Help in most programs?",
+       "options": [
+        "F2",
+        "F1",
+        "F5",
+        "F12"
+       ],
+       "answer": 1,
+       "why": "Function keys perform special shortcuts: F1 opens Help, F2 renames a selected file, F5 refreshes a page, and F12 opens 'Save As' in MS Word."
+      },
+      {
+       "q": "The F5 function key is commonly used to:",
+       "options": [
+        "Rename a selected file",
+        "Open 'Save As' in MS Word",
+        "Run spelling and grammar check",
+        "Refresh a page or start a slideshow"
+       ],
+       "answer": 3,
+       "why": "F5 refreshes a page or starts a slideshow; F2 renames a file, F7 runs spelling and grammar check in MS Office, and F12 opens 'Save As' in MS Word."
+      },
+      {
+       "q": "A scanner is used to convert printed documents and photographs into:",
+       "options": [
+        "Hard copy",
+        "Audio files",
+        "Digital form",
+        "Printed books"
+       ],
+       "answer": 2,
+       "why": "A scanner converts printed documents, photographs and handwritten pages into digital form that can be stored, edited and shared on a computer."
+      },
+      {
+       "q": "A webcam is a small digital camera mainly used for:",
+       "options": [
+        "Video calls and online classes",
+        "Printing documents on paper",
+        "Storing data and files",
+        "Typing text and numbers"
+       ],
+       "answer": 0,
+       "why": "A webcam captures live video and images and sends them to the computer; it is used for video calls and online classes, recording videos, and security monitoring."
+      },
+      {
+       "q": "Dot matrix printers, which strike pins against an ink ribbon, are commonly used for:",
+       "options": [
+        "Colour photographs",
+        "Bills and multi-copy forms",
+        "Video editing",
+        "Playing games"
+       ],
+       "answer": 1,
+       "why": "Dot matrix printers strike pins against an ink ribbon and are used for bills and multi-copy forms; inkjet printers are common at home and laser printers in offices."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Digital Skills",
+   "lessons": [
+    {
+     "title": "Working with Microsoft Word",
+     "notes_html": "<h4>The Word Processor</h4>\n<p>A <b>word processor</b> is application software used to create, edit, format, save and print text documents such as letters, essays, reports and books. <b>MS Word</b> is a word processor that allows us to enter, format, save and print text. It provides tools for checking spelling and grammar, changing fonts and layouts, inserting pictures and tables, and correcting mistakes easily — which is not possible on a typewriter.</p>\n<h4>Working with Documents</h4>\n<p>To open a word document, we go to the <b>File tab</b>, and to print the document we also go to the File tab. We can format the text from the <b>Home tab</b>; <b>Bold</b> makes the text appear thicker and darker, and there are three types of alignments in text formatting in Word (as given in the book). The <b>Layout tab</b> lets you control the look and feel of your document. We can insert an image and a table in the Word document from the <b>Insert tab</b>, and we can resize an image by clicking and dragging on its <b>resize handles</b>. The text that appears at the top margin of the Word document is the <b>header</b>. The keyboard shortcut to copy is <b>Ctrl + C</b>.</p>\n<h4>Save and Save As</h4>\n<p><b>Save</b> stores the changes in the existing file at its existing location with the same name; if the file is new, it first asks for a name and location. <b>Save As</b> always saves a copy of the document with a new name, a new location or a different format, while the original file remains unchanged.</p>\n<h4>Thesaurus and Synonyms</h4>\n<p>The <b>Thesaurus</b> in MS Word gives synonyms (words of similar meaning) and antonyms for a selected word, so the writer can choose a better, more suitable word and avoid repetition. It is opened from the Review tab (or Shift+F7). The Synonyms feature appears on right-clicking a word and instantly suggests alternatives, improving vocabulary and the quality of writing.</p>\n<h4>Exploring Word Menus (Class Task)</h4>\n<p>Margins are determined from the Layout tab (Margins). Page borders are created from the Design tab (Page Borders). Spellings are checked from the Review tab (Spelling &amp; Grammar, F7). A table of contents is added from the References tab. The document is previewed from File &gt; Print (print preview) or the View tab.</p>",
+     "mcqs": [
+      {
+       "q": "To open a word document, we go to the ________ tab.",
+       "options": [
+        "Open",
+        "File",
+        "Home",
+        "Insert"
+       ],
+       "answer": 1,
+       "why": "To open a word document in Microsoft Word, we go to the File tab; printing a document is also done from the File tab."
+      },
+      {
+       "q": "________ is a word processor, that allows us to enter, format, save and print text.",
+       "options": [
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Word",
+        "MS Paint"
+       ],
+       "answer": 2,
+       "why": "MS Word is a word processor that allows us to enter, format, save and print text documents such as letters, essays and reports."
+      },
+      {
+       "q": "We can format the text from the ________ tab.",
+       "options": [
+        "File",
+        "Format",
+        "Insert",
+        "Home"
+       ],
+       "answer": 3,
+       "why": "We can format the text from the Home tab in Microsoft Word, where tools like Bold, font and alignment are found."
+      },
+      {
+       "q": "________ make the text appear thicker and darker.",
+       "options": [
+        "Bold",
+        "Italics",
+        "Format",
+        "Font face"
+       ],
+       "answer": 0,
+       "why": "Bold makes the text appear thicker and darker; it is a text formatting tool found on the Home tab."
+      },
+      {
+       "q": "There are ________ types of alignments in text formatting in Word.",
+       "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+       ],
+       "answer": 0,
+       "why": "As given in the book, there are 3 types of alignments in text formatting in Microsoft Word."
+      },
+      {
+       "q": "We can insert the image in the Word document from the ________ tab.",
+       "options": [
+        "File",
+        "Insert",
+        "Home",
+        "View"
+       ],
+       "answer": 1,
+       "why": "Images and tables are inserted in a Word document from the Insert tab."
+      },
+      {
+       "q": "We can resize the image by clicking and dragging on its ________.",
+       "options": [
+        "Outline",
+        "Center",
+        "Resize handles",
+        "Arrows"
+       ],
+       "answer": 2,
+       "why": "An inserted image can be resized by clicking and dragging on its resize handles, the small points around the image."
+      },
+      {
+       "q": "The keyboard shortcut to copy is ________.",
+       "options": [
+        "Ctrl + X",
+        "Ctrl + C",
+        "Ctrl + P",
+        "Ctrl + S"
+       ],
+       "answer": 1,
+       "why": "The keyboard shortcut to copy selected text or objects is Ctrl + C; Ctrl + S saves and Ctrl + P prints."
+      },
+      {
+       "q": "________ appears at the top margin of the Word document.",
+       "options": [
+        "Footer",
+        "Title",
+        "Address bar",
+        "Header"
+       ],
+       "answer": 3,
+       "why": "The header appears at the top margin of the Word document, while the footer appears at the bottom margin."
+      },
+      {
+       "q": "To Print the Word document, we go to the ________ tab.",
+       "options": [
+        "File",
+        "Print",
+        "Format",
+        "Insert"
+       ],
+       "answer": 0,
+       "why": "To print the Word document, we go to the File tab and choose Print, where the document can also be previewed."
+      }
+     ]
+    },
+    {
+     "title": "Making Presentations in PowerPoint",
+     "notes_html": "<h4>Microsoft PowerPoint</h4>\n<p>The easiest way to create a multimedia presentation is to create it on <b>Microsoft PowerPoint</b>. PowerPoint makes a presentation attractive and easy to understand: text, pictures, charts, animations and videos can be combined on slides, so ideas are explained clearly to the audience. Ready-made <b>themes</b> give a professional look, <b>speaker notes</b> help the presenter, and the slideshow keeps the audience's attention. That is why students, teachers and business users all prefer PowerPoint for presenting their work.</p>\n<h4>Class Task: A Book Presentation</h4>\n<p>Prepare a presentation on the book you read last time, incorporating all the tools: create about 6–8 slides — a title slide with the book's name, slides about the author, the main characters, a summary of the story, your favourite part, and a conclusion slide. Use a theme, insert a picture of the book cover, apply transitions and simple animations, and present it with the slideshow.</p>",
+     "mcqs": [
+      {
+       "q": "The easiest way to create a multimedia presentation is to create it on ________.",
+       "options": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Paint"
+       ],
+       "answer": 2,
+       "why": "The easiest way to create a multimedia presentation is Microsoft PowerPoint, where text, pictures, charts, animations and videos can be combined on slides."
+      },
+      {
+       "q": "Ready-made ________ give a PowerPoint presentation a professional look.",
+       "options": [
+        "themes",
+        "passwords",
+        "attachments",
+        "flowcharts"
+       ],
+       "answer": 0,
+       "why": "Ready-made themes give a PowerPoint presentation a professional look, and speaker notes help the presenter during the slideshow."
+      },
+      {
+       "q": "Speaker notes in PowerPoint are used to:",
+       "options": [
+        "Print the slides on paper",
+        "Help the presenter while presenting",
+        "Send emails to the audience",
+        "Store passwords safely"
+       ],
+       "answer": 1,
+       "why": "Speaker notes help the presenter remember the main points while presenting the slideshow to the audience."
+      },
+      {
+       "q": "Which of the following can be combined on PowerPoint slides?",
+       "options": [
+        "Only plain text",
+        "Only tables and numbers",
+        "Only printed pages",
+        "Text, pictures, charts, animations and videos"
+       ],
+       "answer": 3,
+       "why": "In PowerPoint, text, pictures, charts, animations and videos can be combined on slides, so ideas are explained clearly to the audience."
+      },
+      {
+       "q": "The effect that moves a presentation from one slide to the next is called a:",
+       "options": [
+        "theme",
+        "transition",
+        "layout",
+        "header"
+       ],
+       "answer": 1,
+       "why": "Transitions are the movement effects applied between slides; in the book's class task, transitions and simple animations are applied to the book presentation."
+      },
+      {
+       "q": "A presentation on a book should begin with:",
+       "options": [
+        "A title slide with the book's name",
+        "The conclusion slide",
+        "A completely blank slide",
+        "A slide about an unrelated topic"
+       ],
+       "answer": 0,
+       "why": "The book's task begins the presentation with a title slide carrying the book's name, followed by slides about the author, characters and summary."
+      },
+      {
+       "q": "PowerPoint is preferred for presenting work by:",
+       "options": [
+        "Only business users",
+        "Only teachers",
+        "Students, teachers and business users",
+        "Only students"
+       ],
+       "answer": 2,
+       "why": "Students, teachers and business users all prefer PowerPoint for presenting their work because it makes ideas attractive and easy to understand."
+      },
+      {
+       "q": "Animations in a presentation are used to:",
+       "options": [
+        "Check the spelling of words",
+        "Save the file on the computer",
+        "Print handouts for the class",
+        "Add movement effects to objects on a slide"
+       ],
+       "answer": 3,
+       "why": "Animations add movement effects to the objects on a slide, which keeps the audience's attention during the slideshow."
+      },
+      {
+       "q": "The slideshow in PowerPoint is used to:",
+       "options": [
+        "Edit the text of the document",
+        "Present the slides to the audience",
+        "Create a new email account",
+        "Resize an inserted image"
+       ],
+       "answer": 1,
+       "why": "The slideshow presents the slides to the audience; speaker notes help the presenter while the slideshow is running."
+      },
+      {
+       "q": "In the book's task, a good book presentation of about 6–8 slides should include a slide about:",
+       "options": [
+        "The main characters and the summary of the story",
+        "The price of the computer",
+        "The school timetable",
+        "Unrelated pictures and songs"
+       ],
+       "answer": 0,
+       "why": "The book's presentation task includes slides about the author, the main characters, a summary of the story, your favourite part and a conclusion."
+      }
+     ]
+    },
+    {
+     "title": "Email: Uses, Accounts and Safety",
+     "notes_html": "<h4>Importance and Uses of Email</h4>\n<p><b>Email</b> (electronic mail) is the fastest and cheapest way of sending messages and documents anywhere in the world within seconds. It is used for official and personal communication, applying for jobs and admissions, sending files as attachments, receiving bills, results and notices, and creating accounts on websites. Unlike ordinary post, it is instant, recordable and almost free.</p>\n<h4>Email Platforms and Terms</h4>\n<p>Common platforms for electronic mail are <b>Gmail</b> (Google), <b>Outlook/Hotmail</b> (Microsoft) and <b>Yahoo Mail</b>. Each provides a free email address, an inbox to receive mail, folders to organise messages, spam filtering and storage space. Important terms: <b>Recipient</b> — the person to whom an email is sent; his/her email address is written in the 'To' field. <b>Attachments</b> — files (documents, pictures, etc.) sent along with an email message. <b>Password</b> — a secret code chosen by the user to protect and sign in to his/her account. <b>Email address</b> — the unique identification of a user's mailbox, written as username@domain, e.g. ali@gmail.com.</p>\n<h4>How Email Travels: SMTP and POP3</h4>\n<p><b>SMTP</b> (Simple Mail Transfer Protocol) is the standard protocol used for sending email from the sender to the mail server and between servers. <b>POP3</b> (Post Office Protocol 3) is the protocol used for receiving email: it downloads the messages from the mail server to the user's computer or phone so they can be read. In short, SMTP sends and POP3 receives.</p>\n<h4>Email as Authentication</h4>\n<p>Email is used as a means of authentication for another website in several ways: (i) verifying an account by clicking a confirmation link sent to the email address; (ii) receiving a one-time code (OTP) by email to prove identity at sign-in; (iii) resetting a forgotten password through a link sent to the registered email; and (iv) using the email address itself as the username together with a password. The keyboard shortcut to create a new email is Ctrl + M (as given in the book).</p>\n<h4>Creating an Account and Signing Out Safely</h4>\n<p>To create an email address on a free platform, open gmail.com (or outlook.com) and click 'Create account'. Enter your name, choose a username, and set a strong password. Add the verification details asked (e.g. a phone number/code), accept the terms, and your email inbox is created. It is always safe to <b>sign out</b> of your account when you are not using it, especially on a shared or public computer: click your profile picture or account name, choose 'Sign out', and wait until the sign-in page appears. Then close all browser tabs and the browser itself. Never just close the window without signing out, because the account may stay signed in and another person could misuse it.</p>\n<h4>Things Learned About Email (Class Task)</h4>\n<p>Three things learned about email: (1) an email address is unique for every user; (2) files can be sent as attachments; (3) SMTP sends mail and POP3 receives it. Email connects us personally too — for example, receiving school notices and contacting relatives abroad through email.</p>",
+     "mcqs": [
+      {
+       "q": "The keyboard shortcut to create new email is ________.",
+       "options": [
+        "Ctrl + S",
+        "Ctrl + N",
+        "Ctrl + M",
+        "Ctrl + X"
+       ],
+       "answer": 2,
+       "why": "As given in the book, the keyboard shortcut to create a new email is Ctrl + M."
+      },
+      {
+       "q": "It is always safe to ________ your account, if not using it.",
+       "options": [
+        "Protect",
+        "Sign out",
+        "Sign in",
+        "Delete"
+       ],
+       "answer": 1,
+       "why": "It is always safe to sign out of your account when you are not using it, especially on a shared or public computer, so that no one else can misuse it."
+      },
+      {
+       "q": "SMTP (Simple Mail Transfer Protocol) is the standard protocol used for:",
+       "options": [
+        "Sending email",
+        "Receiving email",
+        "Printing email",
+        "Deleting email"
+       ],
+       "answer": 0,
+       "why": "SMTP is used for sending email from the sender to the mail server and between servers, while POP3 is used for receiving email."
+      },
+      {
+       "q": "POP3 downloads the messages from the mail server to the user's computer or phone so that they can be:",
+       "options": [
+        "Printed automatically",
+        "Sent back to the server",
+        "Converted into pictures",
+        "Read"
+       ],
+       "answer": 3,
+       "why": "POP3 (Post Office Protocol 3) is the protocol used for receiving email: it downloads the messages from the mail server so they can be read."
+      },
+      {
+       "q": "The person to whom an email is sent, whose address is written in the 'To' field, is called the:",
+       "options": [
+        "Sender",
+        "Recipient",
+        "Attachment",
+        "Subscriber"
+       ],
+       "answer": 1,
+       "why": "The recipient is the person to whom an email is sent; his or her email address is written in the 'To' field of the message."
+      },
+      {
+       "q": "Files such as documents and pictures sent along with an email message are called:",
+       "options": [
+        "Attachments",
+        "Recipients",
+        "Passwords",
+        "Protocols"
+       ],
+       "answer": 0,
+       "why": "Attachments are the files — documents, pictures, etc. — sent along with an email message."
+      },
+      {
+       "q": "An email address, the unique identification of a user's mailbox, is written in the form:",
+       "options": [
+        "domain@username",
+        "username.domain.com",
+        "username@domain",
+        "www.username@mail"
+       ],
+       "answer": 2,
+       "why": "An email address is written as username@domain, for example ali@gmail.com; it is unique for every user."
+      },
+      {
+       "q": "Which of the following is the email platform of Google?",
+       "options": [
+        "Gmail",
+        "Outlook",
+        "Yahoo Mail",
+        "Hotmail"
+       ],
+       "answer": 0,
+       "why": "Common email platforms are Gmail (Google), Outlook/Hotmail (Microsoft) and Yahoo Mail; Gmail belongs to Google."
+      },
+      {
+       "q": "A one-time code (OTP) received by email at sign-in is used to:",
+       "options": [
+        "Format a document",
+        "Resize an image",
+        "Create a presentation",
+        "Prove your identity"
+       ],
+       "answer": 3,
+       "why": "Email is used for authentication by receiving a one-time code (OTP) by email to prove identity at sign-in, besides confirmation links and password-reset links."
+      },
+      {
+       "q": "After signing out of email on a shared computer, the proper protocol is to:",
+       "options": [
+        "Leave all tabs open",
+        "Close all browser tabs and the browser itself",
+        "Share the password with the next user",
+        "Delete the email account"
+       ],
+       "answer": 1,
+       "why": "The proper protocol is: choose 'Sign out', wait until the sign-in page appears, then close all browser tabs and the browser itself, so the account cannot be misused."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Computational Thinking",
+   "lessons": [
+    {
+     "title": "Computational Thinking and Its Techniques",
+     "notes_html": "<h4>What is Computational Thinking?</h4>\n<p><b>Computational thinking</b> is a problem-solving approach in which we think like a computer scientist: we break a problem into smaller parts, recognise patterns, hide unnecessary details, and design step-by-step instructions (an algorithm) that a person or a computer can follow to solve the problem.</p>\n<h4>Techniques of Computational Thinking</h4>\n<ul>\n<li><b>Decomposition</b> — breaking a problem into sub-problems. Each small part is easier to understand and solve, and solving all the parts completes the whole problem — for example, planning a school function by dividing it into decoration, food, seating and programme tasks.</li>\n<li><b>Pattern recognition</b> — observing a problem carefully to find similarities, trends and repeating features within it and with problems solved before. For example, noticing that the sums 2+2, 4+4 and 6+6 all give even answers is a pattern. Recognising patterns helps us predict results and reuse old solutions for new problems.</li>\n<li><b>Generalization</b> — discovering the general principles or rules that cause the patterns of a problem, so that one solution can be applied to many similar problems.</li>\n<li><b>Abstraction</b> — keeping only the important details of a problem and ignoring the unimportant ones, so the problem becomes simpler — for example, a map is an abstraction of a real city because it shows only roads and important places.</li>\n<li><b>Algorithmic thinking</b> — writing step-by-step solutions (algorithms) for problems.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Breaking down a problem into sub problems is called:",
+       "options": [
+        "generalization",
+        "pattern recognition",
+        "decomposition",
+        "design"
+       ],
+       "answer": 2,
+       "why": "Breaking down a problem into smaller sub-problems is called decomposition; each small part is easier to understand and solve."
+      },
+      {
+       "q": "Discovering the principles that cause the patterns of a problem is called:",
+       "options": [
+        "generalization",
+        "pattern recognition",
+        "decomposition",
+        "design"
+       ],
+       "answer": 0,
+       "why": "Generalization means discovering the general principles or rules behind the patterns found in problems, so one solution can be applied to many similar problems."
+      },
+      {
+       "q": "Finding similarities, trends and repeating features in a problem is called:",
+       "options": [
+        "Decomposition",
+        "Pattern recognition",
+        "Abstraction",
+        "Generalization"
+       ],
+       "answer": 1,
+       "why": "Pattern recognition means observing a problem carefully to find similarities, trends and repeating features in it and with problems solved before."
+      },
+      {
+       "q": "Keeping only the important details of a problem and ignoring the unimportant ones is called:",
+       "options": [
+        "Decomposition",
+        "Pattern recognition",
+        "Generalization",
+        "Abstraction"
+       ],
+       "answer": 3,
+       "why": "Abstraction means focusing on the important details and ignoring the rest, so the problem becomes simpler — a map is an abstraction of a real city."
+      },
+      {
+       "q": "A map of a city is an example of abstraction because it:",
+       "options": [
+        "Shows only roads and important places",
+        "Shows every house in complete detail",
+        "Is always drawn on paper",
+        "Uses many different colours"
+       ],
+       "answer": 0,
+       "why": "A map is an abstraction of a real city because it shows only roads and important places and ignores the unimportant details."
+      },
+      {
+       "q": "Computational thinking is a problem-solving approach in which we:",
+       "options": [
+        "Use a computer for every small task",
+        "Memorise all the answers",
+        "Think like a computer scientist",
+        "Draw pictures only"
+       ],
+       "answer": 2,
+       "why": "Computational thinking means thinking like a computer scientist: breaking a problem into parts, recognising patterns and designing step-by-step instructions."
+      },
+      {
+       "q": "Planning a school function by dividing it into decoration, food, seating and programme tasks is an example of:",
+       "options": [
+        "Abstraction",
+        "Decomposition",
+        "Generalization",
+        "Pattern recognition"
+       ],
+       "answer": 1,
+       "why": "Dividing a large task into smaller sub-tasks is decomposition; solving all the parts completes the whole problem."
+      },
+      {
+       "q": "Noticing that the sums 2+2, 4+4 and 6+6 all give even answers is an example of:",
+       "options": [
+        "Pattern recognition",
+        "Decomposition",
+        "Abstraction",
+        "Generalization"
+       ],
+       "answer": 0,
+       "why": "Noticing a repeating feature — that adding two equal even numbers always gives an even answer — is pattern recognition, as given in the book."
+      },
+      {
+       "q": "Generalization helps us to:",
+       "options": [
+        "Break a problem into smaller parts",
+        "Ignore the important details",
+        "Draw a flowchart of the solution",
+        "Apply one solution to many similar problems"
+       ],
+       "answer": 3,
+       "why": "By discovering the general principles behind patterns, generalization lets one solution be applied to many similar problems."
+      },
+      {
+       "q": "Which of the following is NOT a technique of computational thinking?",
+       "options": [
+        "Decomposition",
+        "Memorisation",
+        "Abstraction",
+        "Algorithmic thinking"
+       ],
+       "answer": 1,
+       "why": "The techniques of computational thinking are decomposition, pattern recognition, generalization, abstraction and algorithmic thinking — memorisation is not one of them."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms and Their Types",
+     "notes_html": "<h4>What is an Algorithm?</h4>\n<p>An <b>algorithm</b> is a finite set of clear, step-by-step instructions for solving a problem or accomplishing a task. It has a definite start and end, each step is unambiguous, and following the steps in order always leads to the solution — like a recipe for cooking. The characteristics of a good algorithm are: it is <b>finite</b> (it must end after a limited number of steps); each step is clear and precise; it takes input and produces output; the steps are in a definite order; it is effective and can be carried out in practice; and it solves the problem correctly for all cases.</p>\n<h4>Types of Algorithms</h4>\n<ul>\n<li><b>Brute force algorithm</b> — goes through all possible solutions one by one until the required solution is found; it is simple but can be very slow for large problems.</li>\n<li><b>Recursive algorithm</b> — the problem is broken into several sub-parts and the same procedure is called again and again on the smaller parts until the solution is reached.</li>\n<li><b>Searching algorithm</b> — finds a particular element or group of elements from a given data set, e.g. finding a name in a list.</li>\n<li><b>Sorting algorithm</b> — arranges a group of data in a particular manner (ascending or descending), e.g. arranging marks from highest to lowest.</li>\n<li><b>Divide and conquer algorithm</b> — breaks a problem into sub-problems, solves a single sub-problem and merges the solutions.</li>\n<li><b>Random algorithm</b> — uses a random number so that it gives immediate benefit.</li>\n</ul>\n<h4>Writing Algorithms</h4>\n<p>Algorithm to find the sum of three numbers: Step 1: Start. Step 2: Read three numbers A, B and C. Step 3: Add them: Sum = A + B + C. Step 4: Display Sum. Step 5: Stop. Algorithm to find whether a given number is even or odd: Step 1: Start. Step 2: Read a number N. Step 3: Divide N by 2 and note the remainder. Step 4: If the remainder is 0, display 'N is Even'; otherwise display 'N is Odd'. Step 5: Stop.</p>\n<h4>Efficiency of a Solution</h4>\n<p>The efficiency of a solution is measured by two parameters given in the book: (1) the <b>number of steps</b> executed by the solution to solve the problem — fewer steps means a faster, more efficient solution; and (2) the <b>memory consumed</b> by the solution — a solution using less memory is better. The solution with fewer steps and less memory is the more efficient one. For the simple problems of this level, solutions are usually compared mainly by the number of steps, because the memory used is small and nearly the same; strictly, as the book's Summary states, memory consumption is also a parameter of efficiency.</p>",
+     "mcqs": [
+      {
+       "q": "Set of instructions to solve a problem is called:",
+       "options": [
+        "directions",
+        "instructions",
+        "algorithm",
+        "design"
+       ],
+       "answer": 2,
+       "why": "A set of clear, step-by-step instructions to solve a problem is called an algorithm; it has a definite start and end."
+      },
+      {
+       "q": "The algorithm which goes through all possible solutions until required solution is found is called:",
+       "options": [
+        "Brute force algorithm",
+        "Recursive Algorithm",
+        "Searching algorithm",
+        "sorting algorithm"
+       ],
+       "answer": 0,
+       "why": "A brute force algorithm tries all possible solutions one by one until the required solution is found; it is simple but can be very slow."
+      },
+      {
+       "q": "The algorithms which help in arranging a group of data in a particular manner are called:",
+       "options": [
+        "Recursive Algorithm",
+        "Searching algorithm",
+        "Brute force algorithm",
+        "sorting algorithm"
+       ],
+       "answer": 3,
+       "why": "Sorting algorithms arrange a group of data in a particular order, for example arranging marks from highest to lowest."
+      },
+      {
+       "q": "The algorithm which breaks a problem into sub-problems, solves a single sub-problem and merges the solutions is called:",
+       "options": [
+        "Recursive Algorithm",
+        "divide and conquer Algorithm",
+        "Brute force algorithm",
+        "sorting algorithm"
+       ],
+       "answer": 1,
+       "why": "The divide and conquer algorithm breaks a problem into sub-problems, solves a single sub-problem and then merges the solutions."
+      },
+      {
+       "q": "The algorithm which uses a random number so that it gives immediate benefit is called:",
+       "options": [
+        "Recursive Algorithm",
+        "divide and conquer Algorithm",
+        "Brute force algorithm",
+        "random algorithm"
+       ],
+       "answer": 3,
+       "why": "A random algorithm uses a random number so that it gives immediate benefit, as defined in the book."
+      },
+      {
+       "q": "A good algorithm must be finite, which means it:",
+       "options": [
+        "Ends after a limited number of steps",
+        "Runs again and again forever",
+        "Produces no output at all",
+        "Needs no input"
+       ],
+       "answer": 0,
+       "why": "A characteristic of a good algorithm is that it is finite — it must end after a limited number of steps, with clear steps in a definite order."
+      },
+      {
+       "q": "Finding a particular name in a list of students is the work of a:",
+       "options": [
+        "Sorting algorithm",
+        "Searching algorithm",
+        "Brute force algorithm",
+        "Random algorithm"
+       ],
+       "answer": 1,
+       "why": "A searching algorithm is used to find a particular element or group of elements from a given data set, e.g. finding a name in a list."
+      },
+      {
+       "q": "In the algorithm to check whether a number is even or odd, the number is tested by:",
+       "options": [
+        "Adding 2 to the number",
+        "Multiplying it by 2",
+        "Dividing it by 2 and noting the remainder",
+        "Counting all of its digits"
+       ],
+       "answer": 2,
+       "why": "The even/odd algorithm divides N by 2 and notes the remainder: if the remainder is 0 the number is even, otherwise it is odd."
+      },
+      {
+       "q": "The efficiency of a solution is measured by:",
+       "options": [
+        "The number of steps executed and the memory consumed",
+        "The size of the computer screen",
+        "The colour of the flowchart",
+        "The number of people using it"
+       ],
+       "answer": 0,
+       "why": "As given in the book, efficiency is measured by two parameters: the number of steps executed and the memory consumed by the solution."
+      },
+      {
+       "q": "In a recursive algorithm:",
+       "options": [
+        "All possible solutions are tried one by one",
+        "The same procedure is called again and again on smaller parts",
+        "Data is arranged in ascending order",
+        "A random number gives the answer"
+       ],
+       "answer": 1,
+       "why": "In a recursive algorithm the problem is broken into several sub-parts and the same procedure is called again and again on the smaller parts until the solution is reached."
+      }
+     ]
+    },
+    {
+     "title": "Loops and Flowcharts",
+     "notes_html": "<h4>Loops</h4>\n<p>A <b>loop</b> is a sequence where we repeat a specific set of instructions again and again until a certain condition is true (or becomes false). Loops are of two types: <b>finite loops</b>, which run for a fixed or known number of times and have to be terminated; and <b>infinite loops</b>, which are never going to be ended because their condition never becomes false — they are usually an error in a program.</p>\n<h4>Flowcharts and Their Rules</h4>\n<p>A <b>flowchart</b> is a diagram that presents an algorithm with standard symbols. Rules of writing a flowchart: (1) Use the standard symbols — oval for Start/Stop, parallelogram for input/output, rectangle for a process step, diamond for a decision. (2) The flow should normally go from top to bottom (or left to right) and be connected by arrows. (3) There must be only one Start and one Stop. (4) Write short, clear text inside each symbol. (5) A decision diamond has one entry and two exits (Yes/No).</p>\n<p>Flowchart to find the sum of three numbers: Oval 'Start' → Parallelogram 'Input A, B, C' → Rectangle 'Sum = A + B + C' → Parallelogram 'Display Sum' → Oval 'Stop', connected with downward arrows in this order. Flowchart to find whether a number is even or odd: Oval 'Start' → Parallelogram 'Input N' → Rectangle 'Remainder = N mod 2' → Diamond 'Is Remainder = 0?' — from the 'Yes' exit, Parallelogram 'Display Even'; from the 'No' exit, Parallelogram 'Display Odd'; both then join into Oval 'Stop'.</p>\n<h4>Advantages and Disadvantages of Flowcharts</h4>\n<p>Advantages: a flowchart gives a clear picture of the whole solution, makes the logic easy to understand and explain, helps in finding errors, and makes writing the program easier. Disadvantages: it takes time to draw, it becomes complicated for very large problems, and any change in the logic requires redrawing the chart.</p>\n<h4>Applying Algorithmic Thinking (Activities)</h4>\n<p>A mathematical problem — printing the table of 5 up to 10 — is a <b>loops</b> problem (with sequencing inside): set counter = 1; multiply 5 × counter and display the result; add 1 to counter; if counter is 10 or less, go back to the multiplication step (loop), otherwise stop. A science problem — deciding whether water will boil at a given temperature — is a <b>condition</b> problem: if the temperature T is 100 degrees C or more, say 'Water is boiling', otherwise say 'Water is not boiling yet'. A computer problem — logging in with a password allowing 3 tries — is a <b>combination</b> of sequencing, condition and loop. Planning a class party is mainly a sequencing problem, solved step by step by decomposing the whole task into duties.</p>",
+     "mcqs": [
+      {
+       "q": "The sequence where we repeat specific set of instruction again and again is called:",
+       "options": [
+        "loop",
+        "sequence",
+        "condition",
+        "variable"
+       ],
+       "answer": 0,
+       "why": "A loop is a sequence of instructions that is executed again and again until a certain condition is true (or becomes false)."
+      },
+      {
+       "q": "The loops which have to be terminated are called:",
+       "options": [
+        "Infinite loops",
+        "Finite loops",
+        "intermediate loops",
+        "simple loops"
+       ],
+       "answer": 1,
+       "why": "Finite loops run for a fixed or known number of times and have to be terminated; infinite loops never end."
+      },
+      {
+       "q": "The loops which are never going to be ended are called:",
+       "options": [
+        "Infinite loops",
+        "Finite loops",
+        "intermediate loops",
+        "simple loops"
+       ],
+       "answer": 0,
+       "why": "Infinite loops are never going to be ended because their condition never becomes false; they are usually an error in a program."
+      },
+      {
+       "q": "In a flowchart, the Start and Stop are shown by the symbol:",
+       "options": [
+        "Rectangle",
+        "Diamond",
+        "Parallelogram",
+        "Oval"
+       ],
+       "answer": 3,
+       "why": "The standard flowchart symbols are: oval for Start/Stop, parallelogram for input/output, rectangle for a process step and diamond for a decision."
+      },
+      {
+       "q": "A decision in a flowchart is shown by a:",
+       "options": [
+        "Oval",
+        "Diamond",
+        "Rectangle",
+        "Parallelogram"
+       ],
+       "answer": 1,
+       "why": "A decision is shown by a diamond, which has one entry and two exits (Yes/No); a rectangle shows a process step."
+      },
+      {
+       "q": "Input and output steps in a flowchart are shown by a:",
+       "options": [
+        "Diamond",
+        "Oval",
+        "Parallelogram",
+        "Rectangle"
+       ],
+       "answer": 2,
+       "why": "In a flowchart, a parallelogram is used for input/output, an oval for Start/Stop, a rectangle for a process and a diamond for a decision."
+      },
+      {
+       "q": "According to the rules of writing a flowchart, there must be:",
+       "options": [
+        "Only one Start and one Stop",
+        "Two Starts and one Stop",
+        "One Start and many Stops",
+        "As many Starts as we like"
+       ],
+       "answer": 0,
+       "why": "The rules of writing a flowchart require only one Start and one Stop, a flow from top to bottom connected by arrows, and short, clear text inside each symbol."
+      },
+      {
+       "q": "A decision diamond in a flowchart has:",
+       "options": [
+        "Two entries and one exit",
+        "One entry and one exit",
+        "One entry and two exits (Yes/No)",
+        "Three exits"
+       ],
+       "answer": 2,
+       "why": "A decision diamond has one entry and two exits labelled Yes and No, as in the even/odd flowchart where the two exits lead to 'Display Even' and 'Display Odd'."
+      },
+      {
+       "q": "Printing the table of 5 up to 10, as solved in the book's activity, is an example of a:",
+       "options": [
+        "Condition problem only",
+        "Loops problem",
+        "Drawing problem",
+        "Storage problem"
+       ],
+       "answer": 1,
+       "why": "Printing the table of 5 up to 10 repeats the multiplication step again and again with a counter, so it is a loops problem (with sequencing inside)."
+      },
+      {
+       "q": "A disadvantage of flowcharts is that they:",
+       "options": [
+        "Cannot show any decision",
+        "Have no standard symbols",
+        "Cannot be understood by others",
+        "Become complicated for very large problems"
+       ],
+       "answer": 3,
+       "why": "Flowcharts take time to draw, become complicated for very large problems, and any change in the logic requires redrawing the chart."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Programming",
+   "lessons": [
+    {
+     "title": "Binary: How Computers Store Information",
+     "notes_html": "<h4>Binary and Decimal Number Systems</h4>\n<p>The term <b>binary</b> refers to a digital encoding/decoding system in which there are exactly two possible states. The <b>binary system</b> is base 2: it uses only two digits (0 and 1), called bits, and its place values are powers of 2; it is used by computers because their circuits have only two states, on and off. The <b>decimal number system</b> represents a number with a base of 10: it uses ten digits (0–9) and the place values are powers of 10; it is used by humans in daily life. Eight bits together make what we call a <b>byte</b> of the data.</p>\n<h4>Converting Between Decimal and Binary</h4>\n<p>To convert numbers from decimal to binary, the given decimal number is divided repeatedly by 2 and the remainders are noted down till we get 0 or 1 as the final quotient; the remainders are then read in reverse order (from the last to the first). Example: 13 ÷ 2 = 6 rem 1; 6 ÷ 2 = 3 rem 0; 3 ÷ 2 = 1 rem 1; reading upwards gives 1101. To convert binary numbers into decimals, each binary digit is multiplied by the power of 2 according to its position from the right (1, 2, 4, 8, …) and all the products are added. Example: 1011 = (1×8) + (0×4) + (1×2) + (1×1) = 8 + 0 + 2 + 1 = 11 in decimal.</p>\n<h4>Text, Images and Sound in Binary</h4>\n<p>Computers save all information — numbers, text, images and sound — in binary code, stored as on/off states in the computer's memory and storage devices. <b>Text</b>: every letter, digit and symbol is given a fixed binary code; <b>ASCII</b> code can only store up to 128 characters, which is enough for most of the words in English but not enough for other languages. <b>Images</b>: digital images are made up of <b>pixels</b>, and colours are represented in the computer using 8-bit numbers. <b>Sound</b>: sound is analogue, so an <b>analogue to digital converter</b> is needed to convert the sound waves into numerical representation — it samples the wave thousands of times per second and stores each measurement as a binary number, which can be played back as sound. The best way to remember a value when designing a program is to use a <b>variable</b>.</p>",
+     "mcqs": [
+      {
+       "q": "The term ________ also refers to any digital encoding/decoding system in which there are exactly two possible states.",
+       "options": [
+        "Digital",
+        "Binary",
+        "Python",
+        "Programming"
+       ],
+       "answer": 1,
+       "why": "Binary refers to a digital encoding/decoding system in which there are exactly two possible states, represented by the digits 0 and 1."
+      },
+      {
+       "q": "________ bits together makes, what we call a 'byte' of the data.",
+       "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+       ],
+       "answer": 2,
+       "why": "Eight bits together make one byte of data; a bit is a single binary digit, 0 or 1."
+      },
+      {
+       "q": "To convert numbers from decimals to binary, the given decimal number is divided repeatedly by ______ and the remainders are noted down till we get 0 or 1 as the final quotient.",
+       "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+       ],
+       "answer": 0,
+       "why": "For decimal-to-binary conversion the number is divided repeatedly by 2, the remainders are noted, and then read in reverse order."
+      },
+      {
+       "q": "________ are made up of pixels.",
+       "options": [
+        "Binary numbers",
+        "Decimals",
+        "Programs",
+        "Digital images"
+       ],
+       "answer": 3,
+       "why": "Digital images are made up of tiny pixels, and the colour of each pixel is stored as binary numbers in the computer."
+      },
+      {
+       "q": "ASCII code can only store up to ________ characters which is enough for most of the words in English but not enough for other languages.",
+       "options": [
+        "128",
+        "256",
+        "64",
+        "124"
+       ],
+       "answer": 0,
+       "why": "ASCII code can store up to 128 characters, enough for English letters, digits and symbols, but not enough for other languages."
+      },
+      {
+       "q": "________ are represented in computer using 8-bit numbers.",
+       "options": [
+        "Numbers",
+        "Letters",
+        "Images",
+        "Colors"
+       ],
+       "answer": 3,
+       "why": "Colours are represented in the computer using 8-bit numbers; each colour component of a pixel is stored in 8 bits."
+      },
+      {
+       "q": "We need ________ to convert the sound waves into numerical representation.",
+       "options": [
+        "Audio to digital converter",
+        "Audio to digits converter",
+        "Analogue to digital converter",
+        "Analogue to digits converter"
+       ],
+       "answer": 2,
+       "why": "Sound waves are analogue, so an analogue to digital converter samples them and converts them into numerical (binary) representation."
+      },
+      {
+       "q": "The best way to remember a value when designing the program is to use a ________.",
+       "options": [
+        "Variable",
+        "Value",
+        "Number",
+        "Binary"
+       ],
+       "answer": 0,
+       "why": "The best way to remember a value when designing a program is to use a variable, which stores the value under a name."
+      },
+      {
+       "q": "The ________ is/are analogue.",
+       "options": [
+        "Light",
+        "Numbers",
+        "Values",
+        "Sound"
+       ],
+       "answer": 3,
+       "why": "Sound is analogue — it travels as continuous waves — so it must be converted into digital form by an analogue to digital converter before a computer can store it."
+      },
+      {
+       "q": "The decimal number system is a number system that represents a number with a base of ______.",
+       "options": [
+        "2",
+        "10",
+        "3",
+        "5"
+       ],
+       "answer": 1,
+       "why": "The decimal number system has a base of 10 and uses ten digits (0–9), while the binary system has a base of 2."
+      }
+     ]
+    },
+    {
+     "title": "Programming a Game in Scratch",
+     "notes_html": "<h4>Instructions a Computer Needs</h4>\n<p>A computer needs instructions that are <b>specific, exact and in the correct order</b>, given in a programming language with standard terminology; vague instructions produce wrong results. This is clear from the book's drawing activity: one student draws an animal and then gives the second student only spoken or written step-by-step instructions (e.g. 'draw a circle of about 5 cm in the middle of the page; draw two small triangles on top of the circle…') to reproduce the same drawing — the copy matches only if every instruction is exact.</p>\n<h4>Breaking Down a Game</h4>\n<p>To break down a computer, phone or online game into simple instructions, ask: (1) What is the objective of the game? (2) How many <b>sprites</b> are there? (3) How does the player move? (4) How does the player win? (5) How does the player lose? (6) What instructions have been given to the computer to make this game? In the book's example of a chasing game in Scratch, there are two sprites: the player and the food. The player moves with the four arrow keys, which change its x and y coordinates. The player wins/succeeds each time it touches the food, gaining one score point, and the food jumps to a new random position. In this simple game there is no losing condition; in a timed version the player loses if time runs out before reaching the target score.</p>\n<h4>Events, Coordinates, Loops and Variables</h4>\n<p>For the player sprite, use four event scripts: 'when right arrow key pressed → change x by 10'; 'when left arrow key pressed → change x by −10'; 'when up arrow key pressed → change y by 10'; 'when down arrow key pressed → change y by −10'. Changing the x-coordinate moves the sprite horizontally and changing the y-coordinate moves it vertically. For the food sprite, use: 'when green flag clicked → forever: go to random position, wait 2 seconds' — or 'glide 1 sec to random position' inside the forever loop — so the food keeps moving on its own and the player has to chase it. Create a <b>variable</b> named 'score' for all sprites; in the player sprite: 'when green flag clicked → set score to 0; forever: if touching food sprite then: change score by 1, play a sound, and send the food to a random position'. The conditional checks the touching condition continuously inside the loop. Such a program uses input from the user, two sprites, coordinates, conditionals, loops and variables together, as the book's project requires.</p>",
+     "mcqs": [
+      {
+       "q": "A computer needs instructions that are:",
+       "options": [
+        "Specific, exact and in the correct order",
+        "Vague and general",
+        "Given only by gestures",
+        "In any random order"
+       ],
+       "answer": 0,
+       "why": "A computer needs instructions that are specific, exact and in the correct order, given in a programming language with standard terminology; vague instructions produce wrong results."
+      },
+      {
+       "q": "In a Scratch game, the characters or objects that move on the stage are called:",
+       "options": [
+        "Variables",
+        "Sprites",
+        "Pixels",
+        "Bytes"
+       ],
+       "answer": 1,
+       "why": "The book's game has two sprites — the player sprite and the food sprite — which are moved and controlled by scripts."
+      },
+      {
+       "q": "In the book's Scratch program, pressing the right arrow key moves the player sprite by:",
+       "options": [
+        "Change y by 10",
+        "Change x by −10",
+        "Change x by 10",
+        "Change score by 1"
+       ],
+       "answer": 2,
+       "why": "The event script 'when right arrow key pressed → change x by 10' moves the sprite to the right; the left arrow changes x by −10."
+      },
+      {
+       "q": "Changing the y-coordinate of a sprite moves it:",
+       "options": [
+        "Up or down (vertically)",
+        "Left or right (horizontally)",
+        "To a random position",
+        "To the centre of the stage"
+       ],
+       "answer": 0,
+       "why": "Changing the x-coordinate moves a sprite horizontally, and changing the y-coordinate moves it vertically — up with +10 and down with −10 for the arrow keys."
+      },
+      {
+       "q": "The score variable in the game should be set to 0:",
+       "options": [
+        "Every time the food moves",
+        "Only when the game ends",
+        "Never during the game",
+        "When the game starts (green flag clicked)"
+       ],
+       "answer": 3,
+       "why": "The program begins with 'when green flag clicked → set score to 0', so every new game starts with a score of zero."
+      },
+      {
+       "q": "To increase the score when the player touches the food sprite, the program uses:",
+       "options": [
+        "A sound block alone",
+        "A conditional (if touching) inside a forever loop",
+        "A wait block alone",
+        "A backdrop change alone"
+       ],
+       "answer": 1,
+       "why": "Inside the forever loop, the conditional 'if touching food then' increases the score by 1, plays a sound and sends the food to a random position."
+      },
+      {
+       "q": "The food sprite can keep moving automatically on its own by using:",
+       "options": [
+        "The four arrow keys",
+        "The score variable",
+        "'Forever: go to random position' in its script",
+        "A costume change only"
+       ],
+       "answer": 2,
+       "why": "For the food sprite, 'when green flag clicked → forever: go to random position, wait 2 seconds' makes it keep moving on its own so the player has to chase it."
+      },
+      {
+       "q": "Breaking down a game into instructions begins by deciding:",
+       "options": [
+        "The objective, sprites, movement, and winning and losing conditions",
+        "Only the colours of the sprites",
+        "Only the name of the game",
+        "The price of the computer"
+       ],
+       "answer": 0,
+       "why": "The book breaks a game down by asking its objective, how many sprites there are, how the player moves, and how the player wins or loses."
+      },
+      {
+       "q": "In the chasing game, the player gains one score point each time it:",
+       "options": [
+        "Presses the green flag",
+        "Reaches the edge of the stage",
+        "Changes its costume",
+        "Touches the food sprite"
+       ],
+       "answer": 3,
+       "why": "The player wins/succeeds each time it touches the food, gaining one score point, and the food then jumps to a new random position."
+      },
+      {
+       "q": "If the instructions given to reproduce a drawing are vague, the result will be:",
+       "options": [
+        "Exactly the same drawing",
+        "A wrong or different drawing",
+        "A better drawing",
+        "No drawing is possible at all"
+       ],
+       "answer": 1,
+       "why": "The drawing activity shows that vague instructions produce wrong results; a computer also needs exact, step-by-step instructions in the correct order."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Digital Citizenship",
+   "lessons": [
+    {
+     "title": "Ethics, Copyright, Plagiarism and Piracy",
+     "notes_html": "<h4>Ethics in the Digital Environment</h4>\n<p><b>Ethics</b> are the moral principles and rules of right and wrong behaviour that guide how a person should act. In the digital world, ethics means using computers and the internet honestly and responsibly — respecting others' work, privacy and rights, and not harming anyone online. Ethics in the digital environment means following moral principles while using computers, the internet and digital media: being honest, respecting the privacy, property and feelings of others, using only authorised access, giving credit for others' work, not spreading false information, and using digital resources only for lawful purposes. A person who follows these rules is a responsible digital citizen.</p>\n<h4>Copyright</h4>\n<p><b>Copyright</b> is a type of intellectual property right that protects the original works of an owner — such as books, music, films, software and pictures — giving the owner the sole right to copy, publish and sell the work. No one may reproduce it without permission during the copyright period.</p>\n<h4>Plagiarism and Piracy</h4>\n<p><b>Plagiarism</b> means copying someone else's work, ideas or words and presenting them as one's own without giving credit. It is an offence because it is a form of dishonesty and theft of intellectual property; it deceives teachers and readers, is unfair to the real author, and is punished in schools, universities and by law. <b>Piracy</b> is illegally reproducing copyrighted material, such as books, computer programs and films, usually for selling or free sharing. Piracy steals the copy; plagiarism steals the credit. Both are offences against the original creator.</p>\n<h4>Issues of Digital Ethics</h4>\n<p>Issues of digital ethics include: plagiarism, piracy of software, books and films, hacking and unauthorized access, phishing and online scams, cyberbullying, spreading fake news and media bias, violating others' privacy, and misusing computer resources at school or work.</p>",
+     "mcqs": [
+      {
+       "q": "___________ is a type of intellectual property rights that protect original works of an owner.",
+       "options": [
+        "cyberbullying",
+        "plagiarism",
+        "piracy",
+        "copyright"
+       ],
+       "answer": 3,
+       "why": "Copyright is the intellectual property right that protects the original works of an owner, such as books, music, films and software."
+      },
+      {
+       "q": "Illegally reproducing copyrighted material, such as books, computer programs, and films is called:",
+       "options": [
+        "cyberbullying",
+        "plagiarism",
+        "piracy",
+        "copyright"
+       ],
+       "answer": 2,
+       "why": "Illegally reproducing or distributing copyrighted material — copying books, software or films without permission — is called piracy."
+      },
+      {
+       "q": "Ethics are the principles that guide:",
+       "options": [
+        "Right and wrong behaviour",
+        "Fast typing on a keyboard",
+        "Buying a new computer",
+        "Installing software"
+       ],
+       "answer": 0,
+       "why": "Ethics are the moral principles and rules of right and wrong behaviour that guide how a person should act, including in the digital world."
+      },
+      {
+       "q": "Plagiarism means:",
+       "options": [
+        "Copying a film for selling",
+        "Presenting someone else's work as your own without giving credit",
+        "Hacking into a computer system",
+        "Sending a fake email link"
+       ],
+       "answer": 1,
+       "why": "Plagiarism means copying someone else's work, ideas or words and presenting them as one's own without giving credit to the real author."
+      },
+      {
+       "q": "Plagiarism is an offence because it:",
+       "options": [
+        "Is dishonest and steals the real author's credit",
+        "Uses too much internet data",
+        "Slows down the computer",
+        "Prints too many pages"
+       ],
+       "answer": 0,
+       "why": "Plagiarism is a form of dishonesty and theft of intellectual property; it deceives teachers and readers, is unfair to the real author, and is punished in schools, universities and by law."
+      },
+      {
+       "q": "The difference between piracy and plagiarism is that:",
+       "options": [
+        "Piracy is legal but plagiarism is not",
+        "Plagiarism copies films, piracy copies homework",
+        "Piracy steals the copy, plagiarism steals the credit",
+        "There is no difference at all"
+       ],
+       "answer": 2,
+       "why": "Piracy illegally reproduces the copyrighted material itself, while plagiarism presents someone else's work as one's own — piracy steals the copy, plagiarism steals the credit."
+      },
+      {
+       "q": "Which of the following is an issue of digital ethics?",
+       "options": [
+        "Using a keyboard",
+        "Cyberbullying",
+        "Saving a document",
+        "Charging a mobile phone"
+       ],
+       "answer": 1,
+       "why": "Issues of digital ethics include plagiarism, piracy, hacking, phishing, cyberbullying, fake news, media bias and violating others' privacy."
+      },
+      {
+       "q": "Copyright gives the owner of an original work the sole right to:",
+       "options": [
+        "Use any computer freely",
+        "Read other people's emails",
+        "Share his password with others",
+        "Copy, publish and sell the work"
+       ],
+       "answer": 3,
+       "why": "Copyright gives the owner the sole right to copy, publish and sell the work; no one may reproduce it without permission during the copyright period."
+      },
+      {
+       "q": "In the digital environment, ethics requires us to:",
+       "options": [
+        "Respect others' work, privacy and rights",
+        "Copy whatever we like",
+        "Always hide our real identity",
+        "Use other people's accounts"
+       ],
+       "answer": 0,
+       "why": "Digital ethics means being honest, respecting the privacy, property and feelings of others, using only authorised access and giving credit for others' work."
+      },
+      {
+       "q": "A student who copies an assignment and submits it as his own work is committing:",
+       "options": [
+        "Piracy",
+        "Plagiarism",
+        "Phishing",
+        "Copyright"
+       ],
+       "answer": 1,
+       "why": "Copying someone else's work and presenting it as one's own without credit is plagiarism, an offence punished in schools and universities."
+      }
+     ]
+    },
+    {
+     "title": "Staying Safe Online: Scams and Responsible Citizenship",
+     "notes_html": "<h4>Online Communication and Unprotected Devices</h4>\n<p>The ways of online communication involve <b>social media</b>, <b>messengers</b> and <b>chats</b>. Leaving your devices unprotected can result in harm — the book notes that it can slow down your computer — so devices and accounts must be protected.</p>\n<h4>Phishing</h4>\n<p><b>Phishing</b> is an online fraud in which a scammer sends you a malicious link, designed to trick a person into revealing sensitive information to the attacker. The message looks as if it is from a bank or a trusted company, and the stolen information — passwords, PINs or card numbers — is then misused.</p>\n<h4>Tech Support Scams</h4>\n<p>In a <b>tech support scam</b>, fake tech support agents contact a person claiming his computer has a virus and will often ask for login information or remote access to the computer. They are harmful because the scammer can steal money from bank accounts, steal personal data and passwords, install harmful software, and charge fees for fake repairs. Genuine companies never ask for passwords or remote access in this way, so such calls and messages should be refused and reported.</p>\n<h4>Unauthorized Access</h4>\n<p>Accessing computers, computer software, computer data, or networks without authorization is called <b>unauthorized access</b>. It is an offence, like hacking.</p>\n<h4>Protecting Your Reputation and Identity Online</h4>\n<p>We protect our online reputation by thinking before posting: never share rude, false or hurtful content or photos; keep personal information private; use privacy settings on social media; use strong passwords and do not share them; respect others in comments and chats; and remember that deleted posts may still exist in screenshots. What we post creates our <b>digital footprint</b> and our reputation. To protect your online identity and computer: use strong, different passwords and never share them; sign out of accounts on shared computers; do not click unknown links or attachments (phishing); keep antivirus software updated; do not share personal information, photos or location with strangers; use privacy settings; and report scams and bullying to a teacher or elder.</p>\n<h4>The Responsible Digital Citizen</h4>\n<p>Safe and responsible digital citizenship protects us and others online. It keeps our personal information, accounts and money safe from hackers and scammers; it protects our reputation, because what we post stays online; it prevents harm like cyberbullying and fake news; and it keeps us within the law, since offences like hacking, piracy and plagiarism are punishable. A <b>responsible digital citizen</b> is a person who uses technology safely, honestly and respectfully: he protects his accounts and privacy, respects copyright and gives credit, does not bully or deceive anyone, verifies information before sharing, follows the rules and laws of the digital world, and uses the internet for learning and positive purposes.</p>",
+     "mcqs": [
+      {
+       "q": "In ___________, scammer sends you a malicious link, designed to trick a person into revealing sensitive information to the attacker.",
+       "options": [
+        "Fake Websites",
+        "Tech Support",
+        "Phishing",
+        "E-commerce"
+       ],
+       "answer": 2,
+       "why": "In phishing, a scammer sends a malicious link designed to trick a person into revealing sensitive information such as passwords and card numbers."
+      },
+      {
+       "q": "Fake ________ agents will often ask for login information or remote access to your computer.",
+       "options": [
+        "Fake Websites",
+        "Tech Support",
+        "Phishing",
+        "Bank"
+       ],
+       "answer": 1,
+       "why": "Fake tech support agents claim your computer has a virus and often ask for login information or remote access; genuine companies never ask for these in this way."
+      },
+      {
+       "q": "Accessing computers, computer software, computer data, or networks without authorization is called:",
+       "options": [
+        "unauthorized access",
+        "illegal use",
+        "authorized access",
+        "improper experiments"
+       ],
+       "answer": 0,
+       "why": "Accessing computers, software, data or networks without authorization is called unauthorized access, and it is an offence."
+      },
+      {
+       "q": "Leaving your devices unprotected can result in:",
+       "options": [
+        "Slow down your computer",
+        "Gain money",
+        "Fast your computer",
+        "Free internet data"
+       ],
+       "answer": 0,
+       "why": "As given in the book, leaving your devices unprotected can result in slowing down your computer, besides exposing your data and accounts to attackers."
+      },
+      {
+       "q": "Which of the following is a way of online communication?",
+       "options": [
+        "Postal letters",
+        "Social media",
+        "Printed newspapers",
+        "Notice boards"
+       ],
+       "answer": 1,
+       "why": "The ways of online communication involve social media, messengers and chats; postal letters and printed newspapers are offline communication."
+      },
+      {
+       "q": "A phishing message usually pretends to be from:",
+       "options": [
+        "An unknown student",
+        "A printed textbook",
+        "A television channel",
+        "A bank or a trusted company"
+       ],
+       "answer": 3,
+       "why": "Phishing messages look as if they are from a bank or a trusted company, so that the victim trusts the malicious link and reveals sensitive information."
+      },
+      {
+       "q": "To protect your online reputation, you should:",
+       "options": [
+        "Think before posting and keep personal information private",
+        "Share every photo publicly",
+        "Post quickly without thinking",
+        "Share your password with friends"
+       ],
+       "answer": 0,
+       "why": "We protect our reputation by thinking before posting, keeping personal information private, using privacy settings and strong passwords, and respecting others online."
+      },
+      {
+       "q": "In a tech support scam, the scammer can harm you by:",
+       "options": [
+        "Repairing your computer for free",
+        "Speeding up your internet",
+        "Stealing money and personal data and installing harmful software",
+        "Giving you a new password"
+       ],
+       "answer": 2,
+       "why": "Tech support scammers can steal money from bank accounts, steal personal data and passwords, install harmful software, and charge fees for fake repairs."
+      },
+      {
+       "q": "Everything you post online creates your:",
+       "options": [
+        "Email address",
+        "Digital footprint",
+        "Password",
+        "Flowchart"
+       ],
+       "answer": 1,
+       "why": "What we post creates our digital footprint and our reputation; even deleted posts may still exist in screenshots."
+      },
+      {
+       "q": "A responsible digital citizen is a person who:",
+       "options": [
+        "Shares unverified news as quickly as possible",
+        "Uses other people's accounts freely",
+        "Downloads pirated films and software",
+        "Uses technology safely, honestly and respectfully"
+       ],
+       "answer": 3,
+       "why": "A responsible digital citizen protects his accounts and privacy, respects copyright, verifies information before sharing, and uses the internet for learning and positive purposes."
+      }
+     ]
+    },
+    {
+     "title": "Uses of the Internet, Media Bias and Misuse of Resources",
+     "notes_html": "<h4>Uses of the Internet in Business</h4>\n<p>Three uses of the internet in business are: (1) <b>E-commerce</b> — buying and selling goods and services online through websites and apps; (2) <b>CRM</b> — keeping customer records, answering customers and building good relations with them online; and (3) advertising and marketing — promoting products through websites, social media and email to reach customers everywhere at low cost. Internet banking and online communication are further uses. The term <b>social networking</b> refers to the use of internet-based social media sites.</p>\n<h4>CRM</h4>\n<p><b>CRM</b> stands for <b>Client Relationship Management</b> (as given in the book). CRM is a system/strategy by which a business manages its relations with its customers using technology — storing customer information, recording their purchases and complaints, and communicating with them — in order to improve service, keep customers satisfied and increase sales.</p>\n<h4>Use of Internet in Entertainment</h4>\n<p>The internet provides entertainment through online videos and films (e.g. YouTube), music streaming, online games, social media, live sports and web series. People can watch or play at any time and place on phones and computers, and can also create and share their own content — but time should be balanced so that study and health are not harmed.</p>\n<h4>Media Bias</h4>\n<p><b>Media bias</b> means presenting news in a one-sided or unfair way. Its impacts: people form wrong opinions and decisions (including voting) based on incomplete facts; it spreads hatred and division between groups; it creates panic or false hope; and it reduces trust in media. For students, biased media can distort their understanding of events and of other communities. We can avoid media bias by checking the same news on several reliable sources before believing or sharing it, distinguishing facts from opinions, noticing emotional or one-sided language, verifying pictures and dates, and not forwarding unverified messages. Following official and trustworthy channels and thinking critically about who benefits from a story also protects us from bias.</p>\n<h4>Misuse of Computer Resources</h4>\n<p>Misuse of computer resources includes: using office/school computers for personal or illegal work, playing games and watching videos during work time, hacking and unauthorized access, installing pirated software, wasting storage and bandwidth by downloading unnecessary files, using office internet for personal business, and damaging hardware or data through carelessness.</p>\n<h4>Ethical Rules and Social Media (Class Activities)</h4>\n<p>Ethical rules regarding the use of ICT, for the class chart: (1) Use computers only with permission. (2) Never copy others' work; give credit (no plagiarism). (3) Do not download pirated software, books or films. (4) Respect others' privacy; do not open others' accounts or files. (5) Do not bully, deceive or spread fake news online. (6) Keep passwords secret. (7) Use the internet for learning and good purposes. For the debate on social media — For: social media connects us with distant friends and relatives, helps in learning about culture and the world, supports selling goods and services and advertising, and provides entertainment. Against: excess use harms health and studies, spreads fake news and media bias, risks privacy and scams, and can cause cyberbullying. Conclusion: social media is beneficial when used in a balanced, responsible way.</p>",
+     "mcqs": [
+      {
+       "q": "CRM stands for:",
+       "options": [
+        "Client Relationship Model",
+        "Customer Relation Module",
+        "Client Relationship Management",
+        "Client Relation Module"
+       ],
+       "answer": 2,
+       "why": "CRM stands for Client Relationship Management, as given in the book; it is the system by which a business manages its relations with its customers using technology."
+      },
+      {
+       "q": "The term ___________ refers to the use of internet-based social media sites.",
+       "options": [
+        "social networking",
+        "media networking",
+        "social websiting",
+        "websiting"
+       ],
+       "answer": 0,
+       "why": "The use of internet-based social media sites is called social networking; businesses also use social media for advertising and marketing."
+      },
+      {
+       "q": "Which of following is not use of internet:",
+       "options": [
+        "E-commerce",
+        "SRM",
+        "CRM",
+        "Online advertising"
+       ],
+       "answer": 1,
+       "why": "E-commerce, CRM and online advertising are uses of the internet in business; SRM is not a use of the internet given in the book."
+      },
+      {
+       "q": "Buying and selling goods and services online through websites and apps is called:",
+       "options": [
+        "CRM",
+        "Phishing",
+        "Social networking",
+        "E-commerce"
+       ],
+       "answer": 3,
+       "why": "E-commerce is buying and selling goods and services online; it is one of the main uses of the internet in business."
+      },
+      {
+       "q": "A business uses CRM in order to:",
+       "options": [
+        "Improve service, keep customers satisfied and increase sales",
+        "Slow down its own website",
+        "Hide customer complaints",
+        "Stop all online sales"
+       ],
+       "answer": 0,
+       "why": "CRM stores customer information, records purchases and complaints, and helps the business improve service, keep customers satisfied and increase sales."
+      },
+      {
+       "q": "Media bias means presenting news in a:",
+       "options": [
+        "Balanced and complete way",
+        "Very short way",
+        "One-sided or unfair way",
+        "Printed way only"
+       ],
+       "answer": 2,
+       "why": "Media bias means presenting news in a one-sided or unfair way, which makes people form wrong opinions and decisions based on incomplete facts."
+      },
+      {
+       "q": "We can avoid media bias by:",
+       "options": [
+        "Believing the first message we receive",
+        "Checking the same news on several reliable sources",
+        "Forwarding every message quickly",
+        "Reading only one favourite channel"
+       ],
+       "answer": 1,
+       "why": "We avoid media bias by checking the same news on several reliable sources, distinguishing facts from opinions, verifying pictures and dates, and not forwarding unverified messages."
+      },
+      {
+       "q": "Which of the following is a misuse of computer resources?",
+       "options": [
+        "Doing homework on a school computer",
+        "Saving a project file",
+        "Attending an online class",
+        "Playing games on a school computer during work time"
+       ],
+       "answer": 3,
+       "why": "Misuse of computer resources includes playing games and watching videos during work time, hacking, installing pirated software and wasting storage and bandwidth."
+      },
+      {
+       "q": "The internet provides entertainment through:",
+       "options": [
+        "Online videos, music streaming and online games",
+        "Printed books only",
+        "Radio programmes only",
+        "Newspapers only"
+       ],
+       "answer": 0,
+       "why": "The internet provides entertainment through online videos and films, music streaming, online games, social media, live sports and web series."
+      },
+      {
+       "q": "Which of the following is an ethical rule for the use of ICT?",
+       "options": [
+        "Open other people's files",
+        "Download pirated software",
+        "Keep passwords secret",
+        "Spread fake news online"
+       ],
+       "answer": 2,
+       "why": "The ethical rules for ICT include using computers only with permission, giving credit for others' work, respecting privacy, keeping passwords secret and using the internet for good purposes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Entrepreneurship in Digital Age",
+   "lessons": [
+    {
+     "title": "The Business Plan",
+     "notes_html": "<h4>What is a Business Plan?</h4>\n<p>A <b>business plan</b> is an essential written document that provides a detailed description of a company's future. It is the written map of the business: it turns an idea into clear goals and steps, shows whether the idea can earn profit, guides daily decisions, and convinces banks and investors to give loans or investment. Developing a business without a plan is risky; the plan reduces risk by identifying costs, customers and problems in advance.</p>\n<h4>Key Components of a Business Plan</h4>\n<ul>\n<li><b>Executive summary</b> — the overview of the whole plan; it may include a table of contents, the company's background, market opportunity and financial highlights.</li>\n<li><b>Business description</b> and the company's background.</li>\n<li><b>Market research and strategies</b> — includes the sales forecast, deadlines and milestones, advertising and public relations to formulate a successful business plan, along with competitors analysis.</li>\n<li>The product or service and its <b>value proposition</b>.</li>\n<li>Marketing and sales strategies.</li>\n<li><b>Management and personnel</b>.</li>\n<li><b>Financial documents</b> — including costs, expected income and financial highlights.</li>\n</ul>\n<h4>Market Research</h4>\n<p><b>Market research</b> tells the entrepreneur who the customers are, what they need, what competitors are offering and at what price. It prevents wasting money on products nobody wants, helps in fixing the right price and features, and reveals the market opportunity and risks. A business planned on real market information has a much better chance of success.</p>\n<h4>Project Management</h4>\n<p><b>Project management</b> means planning, organising and completing work through defined steps, deadlines and milestones. It helps in developing a business plan by setting clear goals, dividing the plan into tasks (market research, finance, marketing), assigning responsibilities, fixing deadlines and checking progress — so the business plan becomes practical, complete and achievable.</p>",
+     "mcqs": [
+      {
+       "q": "A ____________ is an essential written document that provides a detailed description of company's future.",
+       "options": [
+        "Quality assurance",
+        "Entrepreneurship",
+        "Business plan",
+        "Project management"
+       ],
+       "answer": 2,
+       "why": "A business plan is the essential written document that provides a detailed description of a company's future — its goals, costs, customers and expected income."
+      },
+      {
+       "q": "____________ may include a table of content, company's background, market opportunity and financial highlights.",
+       "options": [
+        "Executive summary",
+        "Business description",
+        "Competitors analysis",
+        "Financial documents"
+       ],
+       "answer": 0,
+       "why": "The executive summary is the overview of the whole plan and may include a table of contents, the company's background, market opportunity and financial highlights."
+      },
+      {
+       "q": "____________ includes the sales forecast, deadlines and milestones, advertising, public relations to formulate a successful business plan.",
+       "options": [
+        "Financial document",
+        "Market research and strategies",
+        "Management and personnel",
+        "Development plan of your product"
+       ],
+       "answer": 1,
+       "why": "Market research and strategies includes the sales forecast, deadlines and milestones, advertising and public relations used to formulate a successful business plan."
+      },
+      {
+       "q": "A business plan helps an entrepreneur to convince:",
+       "options": [
+        "Customers to stop buying products",
+        "Competitors to close their businesses",
+        "Teachers to give extra marks",
+        "Banks and investors to give loans or investment"
+       ],
+       "answer": 3,
+       "why": "A business plan shows whether the idea can earn profit and convinces banks and investors to give loans or investment for the business."
+      },
+      {
+       "q": "Market research tells the entrepreneur:",
+       "options": [
+        "Who the customers are and what they need",
+        "How to avoid all competition",
+        "Which office furniture to buy",
+        "How to design a logo only"
+       ],
+       "answer": 0,
+       "why": "Market research tells the entrepreneur who the customers are, what they need, what competitors are offering and at what price."
+      },
+      {
+       "q": "Project management helps in developing a business plan by:",
+       "options": [
+        "Removing the need for money",
+        "Setting clear goals, deadlines and milestones",
+        "Guaranteeing profit in advance",
+        "Replacing market research completely"
+       ],
+       "answer": 1,
+       "why": "Project management divides the plan into tasks, assigns responsibilities, fixes deadlines and checks progress, so the business plan becomes practical and achievable."
+      },
+      {
+       "q": "Developing a business without a plan is risky because:",
+       "options": [
+        "Business plans are always too long",
+        "Banks never read business plans",
+        "Costs, customers and problems are not identified in advance",
+        "Products cannot be sold without paper"
+       ],
+       "answer": 2,
+       "why": "A business plan reduces risk by identifying costs, customers and problems in advance; developing a business without a plan is risky."
+      },
+      {
+       "q": "Which component of a business plan includes costs and expected income?",
+       "options": [
+        "Financial documents",
+        "Executive summary",
+        "Value proposition",
+        "Promotion"
+       ],
+       "answer": 0,
+       "why": "The financial documents of a business plan include costs, expected income and financial highlights."
+      },
+      {
+       "q": "Competitors analysis in a business plan means studying:",
+       "options": [
+        "Your own office staff only",
+        "The passwords of customers",
+        "Government offices in the city",
+        "What competitors are offering and at what price"
+       ],
+       "answer": 3,
+       "why": "Market research and competitors analysis study what competitors are offering and at what price, so the right price and features can be fixed."
+      },
+      {
+       "q": "The overview of the whole business plan is given in the:",
+       "options": [
+        "Financial documents",
+        "Executive summary",
+        "Sales forecast",
+        "Advertisement"
+       ],
+       "answer": 1,
+       "why": "The executive summary gives the overview of the whole plan, including the company's background, market opportunity and financial highlights."
+      }
+     ]
+    },
+    {
+     "title": "Digital Marketing",
+     "notes_html": "<h4>Promotion and Digital Marketing</h4>\n<p><b>Promotion</b> can be defined as a set of activities which communicates the product, brand or services to the user. <b>Digital marketing</b> promotes products through the internet. Its main tools and techniques are: <b>search engine optimization (SEO)</b>, social media marketing, email marketing, content marketing and online advertisements. These tools are cheaper than traditional marketing and can reach customers everywhere, and their results can be measured.</p>\n<h4>Tools and Techniques</h4>\n<ul>\n<li><b>Search engine optimization (SEO)</b> — the digital marketing technique that involves creating more traffic to a website by making sure that the website appears higher up in the results in search.</li>\n<li><b>Social media marketing</b> — promoting products on platforms like Facebook and Instagram.</li>\n<li><b>Email marketing</b> — promoting products through emails to customers.</li>\n<li><b>Content marketing</b> — promoting through blogs and videos. A <b>blog</b> is an online journal or information website displaying information.</li>\n<li><b>Value proposition</b> — a concise statement of the benefits that a company is delivering to the customers who buy its product or services.</li>\n</ul>\n<h4>Role of Digital Marketing and SEO</h4>\n<p>Digital marketing is now the main way businesses reach customers. It helps small businesses and entrepreneurs compete with big companies at low cost, sells products worldwide through e-commerce, creates jobs, and lets customers compare and buy easily from home. In today's world a business without digital marketing is almost invisible to customers. SEO helps the business grow: higher ranking in search results brings more visitors (traffic) to the website without paying for advertisements; more visitors mean more customers and sales, and a top position also builds trust in the brand. In this way SEO helps the business grow continuously at very low cost.</p>\n<h4>Media Literacy</h4>\n<p><b>Media literacy</b> enables the populace to understand and contribute to the public discourse, and eventually make sound decisions when electing their leaders.</p>",
+     "mcqs": [
+      {
+       "q": "____________ can be defined as a set of activities, which communicates the product, brand or services to the user.",
+       "options": [
+        "Value proposition",
+        "Promotion",
+        "Quality assurance",
+        "Entrepreneurship"
+       ],
+       "answer": 1,
+       "why": "Promotion is the set of activities which communicates the product, brand or services to the user; it is a key part of digital marketing."
+      },
+      {
+       "q": "____________ is the digital marketing technique that involves creating more traffic to a website by making sure that the website appears higher up in the results in search.",
+       "options": [
+        "Search engine optimization",
+        "Email marketing",
+        "Social media marketing",
+        "Content marketing"
+       ],
+       "answer": 0,
+       "why": "Search engine optimization (SEO) creates more traffic to a website by making sure it appears higher up in the search results."
+      },
+      {
+       "q": "A ____________ is an online journal or information website displaying information.",
+       "options": [
+        "Tweet",
+        "Snapchat",
+        "Blog",
+        "Facebook profile"
+       ],
+       "answer": 2,
+       "why": "A blog is an online journal or information website displaying information; blogs are used in content marketing."
+      },
+      {
+       "q": "A ____________ in marketing is a concise statement of the benefits that a company is delivering to the customers who buys its product or services.",
+       "options": [
+        "Competitors analysis",
+        "Quality assurance",
+        "Promotion",
+        "Value proposition"
+       ],
+       "answer": 3,
+       "why": "A value proposition is a concise statement of the benefits a company delivers to the customers who buy its product or services."
+      },
+      {
+       "q": "____________ enables the populace to understand and contribute to the public discourse, and eventually make sound decision when electing their leaders.",
+       "options": [
+        "Project management",
+        "Media literacy",
+        "Quality assurance",
+        "Social media marketing"
+       ],
+       "answer": 1,
+       "why": "Media literacy enables the public to understand and contribute to the public discourse and make sound decisions when electing their leaders."
+      },
+      {
+       "q": "SEO helps a business grow because a higher ranking in search results brings:",
+       "options": [
+        "More visitors, customers and sales",
+        "Higher prices for all products",
+        "More office staff",
+        "Free products for the business"
+       ],
+       "answer": 0,
+       "why": "Higher ranking brings more visitors (traffic) to the website without paying for advertisements; more visitors mean more customers and sales, and a top position builds trust in the brand."
+      },
+      {
+       "q": "Promoting products through blogs and videos is called:",
+       "options": [
+        "Email marketing",
+        "Promotion",
+        "Content marketing",
+        "Transactions"
+       ],
+       "answer": 2,
+       "why": "Content marketing promotes products through blogs and videos; a blog is an online journal or information website displaying information."
+      },
+      {
+       "q": "Digital marketing tools are cheaper than traditional marketing, and their results can be:",
+       "options": [
+        "Hidden from everyone",
+        "Never checked",
+        "Only printed on paper",
+        "Measured"
+       ],
+       "answer": 3,
+       "why": "Digital marketing tools are cheaper than traditional marketing, can reach customers everywhere, and their results can be measured."
+      },
+      {
+       "q": "In today's world, a business without digital marketing is:",
+       "options": [
+        "Always more successful",
+        "Almost invisible to customers",
+        "Free from all competition",
+        "Unable to make any product"
+       ],
+       "answer": 1,
+       "why": "Digital marketing is now the main way businesses reach customers, so a business without it is almost invisible to customers."
+      },
+      {
+       "q": "Promoting products on platforms like Facebook and Instagram is an example of:",
+       "options": [
+        "Social media marketing",
+        "Email marketing",
+        "Search engine optimization",
+        "Content marketing"
+       ],
+       "answer": 0,
+       "why": "Promoting products on social media platforms like Facebook and Instagram is social media marketing, one of the main tools of digital marketing."
+      }
+     ]
+    },
+    {
+     "title": "Payments, Transactions and Digital Platforms",
+     "notes_html": "<h4>Transaction and Payment</h4>\n<p>A <b>transaction</b> is a completed agreement between a buyer and a seller to exchange goods, services or financial assets for money — it includes deciding, ordering and delivering. A <b>payment</b> is the voluntary transfer of money, equivalent, or other valuable items from one person to the other person in exchange of goods and items; it is only the actual transfer of money in that exchange. Every payment is part of a transaction, but a transaction also includes the agreement and the delivery of goods or services.</p>\n<h4>How Technology Promotes Entrepreneurship</h4>\n<p>Technology lowers the cost of starting a business: a person can open an online shop, market products on social media, receive digital payments and work from home. It gives access to customers worldwide, to information and to tools like websites and apps. This creates new businesses and jobs, increases competition and income, and so promotes entrepreneurship and growth in the economy.</p>\n<h4>Types of Digital Platforms for Entrepreneurship</h4>\n<ul>\n<li><b>E-commerce platforms</b> (online marketplaces and own websites) for selling products.</li>\n<li><b>Social media platforms</b> (Facebook, Instagram, WhatsApp) for marketing and selling.</li>\n<li><b>Blogs and video platforms</b> for content marketing and earning.</li>\n<li><b>Freelancing platforms</b> where services like writing, design and programming are sold.</li>\n<li><b>Digital payment platforms</b> that make receiving money easy and safe.</li>\n</ul>\n<h4>Finding Business Ideas (Activity)</h4>\n<p>Problems that can be solved by a new product or service: (1) Students forget homework deadlines — a reminder app/service can solve it. (2) Clean drinking water is not available in some areas — an affordable water filter can solve it. (3) Farmers cannot reach big markets — an online selling service for their crops can solve it. (4) Long queues for paying bills — a mobile payment service solves it. Each listed problem is an opportunity for a new product or service.</p>",
+     "mcqs": [
+      {
+       "q": "A ____________ is a completed agreement between a buyer and seller to exchange goods, services or financial assets for money.",
+       "options": [
+        "Transaction",
+        "Payment",
+        "Financial statements",
+        "Contract"
+       ],
+       "answer": 0,
+       "why": "A transaction is the complete agreement between a buyer and a seller to exchange goods, services or financial assets for money, including ordering and delivering."
+      },
+      {
+       "q": "____________ is the voluntary transfer of money, equivalent, or other valuable items from one person to the other person in exchange of goods and items.",
+       "options": [
+        "Transactions",
+        "Payment",
+        "Barter",
+        "Contracts"
+       ],
+       "answer": 1,
+       "why": "A payment is the voluntary transfer of money or other valuable items from one person to another in exchange for goods and items; it is only the money-transfer part of a transaction."
+      },
+      {
+       "q": "Every payment is part of a transaction, but a transaction also includes:",
+       "options": [
+        "Only the transfer of money",
+        "Only advertising of the product",
+        "The agreement and the delivery of goods or services",
+        "Only market research"
+       ],
+       "answer": 2,
+       "why": "A transaction includes deciding, ordering and delivering, while a payment is only the actual transfer of money in that exchange."
+      },
+      {
+       "q": "Technology promotes entrepreneurship in the economy because it:",
+       "options": [
+        "Lowers the cost of starting a business",
+        "Removes the need for customers",
+        "Guarantees success of every business",
+        "Makes all products free"
+       ],
+       "answer": 0,
+       "why": "Technology lets a person open an online shop, market on social media, receive digital payments and work from home, which lowers the cost of starting a business."
+      },
+      {
+       "q": "Services like writing, design and programming are sold on:",
+       "options": [
+        "Payment platforms",
+        "Blog platforms only",
+        "Video platforms only",
+        "Freelancing platforms"
+       ],
+       "answer": 3,
+       "why": "Freelancing platforms are the digital platforms where services like writing, design and programming are sold."
+      },
+      {
+       "q": "An online marketplace or own website used for selling products is an example of:",
+       "options": [
+        "A freelancing platform",
+        "An e-commerce platform",
+        "A payment platform",
+        "Media literacy"
+       ],
+       "answer": 1,
+       "why": "E-commerce platforms — online marketplaces and own websites — are used for selling products, as listed in the types of digital platforms for entrepreneurship."
+      },
+      {
+       "q": "Digital payment platforms make receiving money:",
+       "options": [
+        "Easy and safe",
+        "Slow and risky",
+        "Possible only in banks",
+        "Completely free of rules"
+       ],
+       "answer": 0,
+       "why": "Digital payment platforms make receiving money easy and safe, which helps entrepreneurs run their businesses from anywhere."
+      },
+      {
+       "q": "In the book's activity, a reminder app for students who forget homework deadlines is an example of:",
+       "options": [
+        "A completed transaction",
+        "Media bias",
+        "A new product that solves a real problem",
+        "A type of payment"
+       ],
+       "answer": 2,
+       "why": "New products and services begin from problems: students forgetting homework deadlines can be solved by a reminder app or service."
+      },
+      {
+       "q": "Through technology, an entrepreneur sitting at home can reach:",
+       "options": [
+        "Only his own street",
+        "Only his family members",
+        "No customers at all",
+        "Customers worldwide"
+       ],
+       "answer": 3,
+       "why": "Technology gives access to customers worldwide, to information and to tools like websites and apps, creating new businesses and jobs."
+      },
+      {
+       "q": "Opening an online shop, marketing on social media and receiving digital payments are all possible because of:",
+       "options": [
+        "Barter",
+        "Technology",
+        "Printed newspapers",
+        "Postal services"
+       ],
+       "answer": 1,
+       "why": "Technology lowers the cost of starting a business — a person can open an online shop, market products on social media, receive digital payments and work from home."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
