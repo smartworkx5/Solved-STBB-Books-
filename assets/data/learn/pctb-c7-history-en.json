@@ -1,0 +1,2698 @@
+{
+ "book": "pctb-c7-history-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Middle Ages in Europe (500-1500 CE)",
+   "lessons": [
+    {
+     "title": "The Three Phases of the Middle Ages",
+     "notes_html": "<h4>The Middle Ages</h4>\n<p>The <b>Middle Ages</b> in Europe lasted from about <b>500 CE to 1500 CE</b>. The period began with the <b>fall of the Roman Empire in 476 CE</b>, when Germanic tribes invaded its western part and formed many small kingdoms. Historians divide the Middle Ages into <b>three phases</b>: the Early Middle Ages, the High (Later) Middle Ages and the End of the Middle Ages.</p>\n<h4>Early Middle Ages</h4>\n<p>In the early phase, the invading Germanic tribes formed small kingdoms and <b>converted to Christianity</b>. The <b>pope</b> and church leaders became very powerful, and <b>monasteries</b> were the centres of learning. <b>Manorialism</b> became the chief economic system. <b>Charlemagne</b>, king of the Franks, was the most successful king of this phase. <b>Viking</b> invaders attacked many parts of Europe from the 8th to the 10th century CE, and in the <b>10th century France developed the feudal system</b> to provide security.</p>\n<h4>High Middle Ages</h4>\n<p>Conditions improved in the <b>11th century CE</b>: people grew more nutritious food, health and population improved, towns grew and trade increased. Kings like <b>Henry II of England</b> and <b>Louis IX of France</b> forced feudal lords to accept their authority. Europeans developed the <b>Gothic style</b> of art and architecture, the <b>first universities</b> were founded, and the <b>Crusades</b> were fought (1095-1291 CE). <b>Chengiz Khan</b> founded the Mongol Empire in <b>1206 CE</b>, and <b>King John</b> signed the <b>Magna Carta in 1215 CE</b>.</p>\n<h4>End of the Middle Ages</h4>\n<p>The last phase was a time of trouble. England and France fought the <b>Hundred Years' War (1337-1453 CE)</b>, and the <b>Black Death</b> (Bubonic Plague) killed about <b>one-third of the people of Europe</b> between 1347 and 1351 CE. <b>Printing was invented in about 1440 CE</b>, feudalism weakened as Spain, France and England became strong countries, the <b>Renaissance</b> began, and Europeans learnt about <b>America in 1492 CE</b> — the first stage of the modern age.</p>",
+     "mcqs": [
+      {
+       "q": "The Middle Ages in Europe lasted from about:",
+       "options": [
+        "400 CE to 1400 CE",
+        "600 CE to 1600 CE",
+        "500 CE to 1500 CE",
+        "476 CE to 1200 CE"
+       ],
+       "answer": 2,
+       "why": "The book divides the period of about 500-1500 CE into three phases: Early, High (Later) and the End of the Middle Ages."
+      },
+      {
+       "q": "The fall of which empire in 476 CE started the Middle Ages?",
+       "options": [
+        "Roman Empire",
+        "Greek Empire",
+        "Egyptian Empire",
+        "Persian Empire"
+       ],
+       "answer": 0,
+       "why": "The book's exercise states that the fall of the Roman Empire started in 476 CE, after which Germanic tribes formed small kingdoms in its western part."
+      },
+      {
+       "q": "The chief economic system of the Early Middle Ages was:",
+       "options": [
+        "Capitalism",
+        "Feudal trade",
+        "Guild system",
+        "Manorialism"
+       ],
+       "answer": 3,
+       "why": "In the Early Middle Ages, Manorialism became the chief economic system, while monasteries were the centres of learning."
+      },
+      {
+       "q": "The feudal system first emerged in the 10th century CE in:",
+       "options": [
+        "England",
+        "France",
+        "Russia",
+        "Italy"
+       ],
+       "answer": 1,
+       "why": "This is the book's own MCQ: the feudal system first emerged in the 10th century CE in France, to provide security against invaders."
+      },
+      {
+       "q": "The Viking invaders attacked many parts of Europe during:",
+       "options": [
+        "The 5th to 6th century CE",
+        "The 11th to 12th century CE",
+        "The 8th to 10th century CE",
+        "The 13th to 14th century CE"
+       ],
+       "answer": 2,
+       "why": "The notes state that Viking invaders attacked many parts of Europe from the 8th to the 10th century CE."
+      },
+      {
+       "q": "King John signed the Magna Carta in:",
+       "options": [
+        "1206 CE",
+        "1215 CE",
+        "1258 CE",
+        "1337 CE"
+       ],
+       "answer": 1,
+       "why": "King John of England signed the Magna Carta, the famous human rights document, in 1215 CE during the High Middle Ages."
+      },
+      {
+       "q": "The Crusades were fought during the years:",
+       "options": [
+        "1095-1291 CE",
+        "1000-1100 CE",
+        "1187-1192 CE",
+        "1337-1453 CE"
+       ],
+       "answer": 0,
+       "why": "The notes list the Crusades among the events of the High Middle Ages, fought from 1095 to 1291 CE."
+      },
+      {
+       "q": "The Black Death killed about what part of Europe's people between 1347 and 1351 CE?",
+       "options": [
+        "One-half",
+        "One-quarter",
+        "Two-thirds",
+        "One-third"
+       ],
+       "answer": 3,
+       "why": "The Black Death (Bubonic Plague) killed about one-third of the people of Europe between 1347 and 1351 CE."
+      },
+      {
+       "q": "Printing was invented in about:",
+       "options": [
+        "1453 CE",
+        "1440 CE",
+        "1492 CE",
+        "1400 CE"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ and the detailed answer both state that printing was invented in about 1440 CE."
+      },
+      {
+       "q": "The Hundred Years' War was fought between:",
+       "options": [
+        "Spain and France",
+        "England and Spain",
+        "England and France",
+        "France and Germany"
+       ],
+       "answer": 2,
+       "why": "England and France fought the Hundred Years' War from 1337 to 1453 CE in the last phase of the Middle Ages."
+      }
+     ]
+    },
+    {
+     "title": "Kings, Courts and the Power of the Church",
+     "notes_html": "<h4>The Coronation</h4>\n<p>New kings were crowned in a special religious ceremony called a <b>coronation</b>. A leader of the church, such as the <b>pope</b> or a <b>bishop</b>, placed the crown on the king's head. Kings were often <b>anointed with holy oil</b> to show their <b>divine right to rule</b>.</p>\n<h4>How Kings Came to Power</h4>\n<p>Kings came to power in different ways. In many cultures the right to rule was in the king's blood: when a king died, his <b>eldest son</b> became king — this is called <b>hereditary succession</b>. If there was no eldest son, a brother or another male relative could become king. In many cases kings were <b>elected by the powerful nobles and lords</b>, and in some countries a council chose the king. Sometimes kings gained power through <b>assassination</b> or by <b>conquering lands in war</b>.</p>\n<h4>The King's Court</h4>\n<p>The <b>King's Court</b> meant the king's council and his everyday life. The court <b>travelled with the king</b> wherever he went, so the king could see first-hand what was going on in his kingdom. The king took advice from the wise men of his court — relatives, lords and members of the church — heard the complaints of the people and made decisions. Kings had a special <b>seal</b> to stamp official documents; it proved the document was genuine and worked like the king's signature. When the king visited a place, the local people had to provide <b>food, entertainment and accommodation</b>. No king could rule without the support of his nobles and lords.</p>\n<h4>The Church and Charlemagne</h4>\n<p><b>Christianity</b> played a major role in Europe during the Middle Ages. The Church was an all-powerful force in people's lives; the <b>pope</b> was its head, and the local church was the centre of town life, where weekly ceremonies, marriages and funerals were held. <b>Charlemagne</b> was the leader (king) of the kingdom of the <b>Franks</b>. He united many Christian lands of western Europe and the pope crowned him <b>Emperor of the Romans</b> in the 8th century CE. His name means <b>'Charles the Great'</b>.</p>\n<h4>Why 'Dark Ages'?</h4>\n<p>The early Middle Ages are called the <b>'Dark Ages'</b> because after the fall of the Roman Empire there was disorder and insecurity: trade and town life declined, and very few people outside the church could read or write, so learning decreased. <b>Monasteries</b> remained the only centres of learning in this dark period.</p>",
+     "mcqs": [
+      {
+       "q": "The ceremony in which a new king was crowned was called:",
+       "options": [
+        "Investiture",
+        "Coronation",
+        "Anointing day",
+        "Court session"
+       ],
+       "answer": 1,
+       "why": "New kings were crowned in a special religious ceremony called a coronation, performed by the pope or a bishop."
+      },
+      {
+       "q": "Kings were anointed with holy oil to show their:",
+       "options": [
+        "Wealth and power",
+        "Victory in war",
+        "Election by nobles",
+        "Divine right to rule"
+       ],
+       "answer": 3,
+       "why": "Anointing with holy oil was meant to show (prove) the king's divine right to rule."
+      },
+      {
+       "q": "When a king died and his eldest son became king, it was called:",
+       "options": [
+        "Hereditary succession",
+        "Election",
+        "Coronation",
+        "Feudal duty"
+       ],
+       "answer": 0,
+       "why": "The notes define hereditary succession as the rule passing by blood, usually to the eldest son."
+      },
+      {
+       "q": "The king's special seal was used to:",
+       "options": [
+        "Crown the nobles",
+        "Collect taxes",
+        "Stamp official documents as genuine",
+        "Seal the church doors"
+       ],
+       "answer": 2,
+       "why": "The seal proved that a document was genuine and acted like the king's signature."
+      },
+      {
+       "q": "The King's Court travelled with the king so that he could:",
+       "options": [
+        "Collect more taxes",
+        "See first-hand what was going on in his kingdom",
+        "Fight wars easily",
+        "Visit monasteries"
+       ],
+       "answer": 1,
+       "why": "The court travelled around the kingdom so the king could see first-hand what was going on."
+      },
+      {
+       "q": "Which religion played a major role in Europe during the Middle Ages?",
+       "options": [
+        "Islam",
+        "Judaism",
+        "Christianity",
+        "Buddhism"
+       ],
+       "answer": 2,
+       "why": "Christianity played a major role; the Church was an all-powerful force and the pope was its head."
+      },
+      {
+       "q": "Charlemagne was the leader of the kingdom of the:",
+       "options": [
+        "Vikings",
+        "Romans",
+        "Saxons",
+        "Franks"
+       ],
+       "answer": 3,
+       "why": "Charlemagne was the leader (king) of the kingdom of the Franks, and the pope crowned him Emperor of the Romans."
+      },
+      {
+       "q": "The name 'Charlemagne' means:",
+       "options": [
+        "Charles the Great",
+        "Charles the King",
+        "Charles the Brave",
+        "Charles the Frank"
+       ],
+       "answer": 0,
+       "why": "The book states that Charlemagne's name means 'Charles the Great'."
+      },
+      {
+       "q": "The early Middle Ages are called the 'Dark Ages' mainly because:",
+       "options": [
+        "There was no sunlight",
+        "Kings stopped ruling",
+        "Learning decreased and few people could read or write",
+        "Trade became very fast"
+       ],
+       "answer": 2,
+       "why": "After Rome fell there was disorder, trade and town life declined, and very few people outside the church could read or write."
+      },
+      {
+       "q": "King of England who signed the Magna Carta in 1215 CE was:",
+       "options": [
+        "Edward",
+        "John",
+        "Harold",
+        "William I"
+       ],
+       "answer": 1,
+       "why": "This is the book's own MCQ: King John signed the human rights document 'Magna Carta' in 1215 CE."
+      }
+     ]
+    },
+    {
+     "title": "Daily Life, Agriculture, Trade and Education",
+     "notes_html": "<h4>Daily Life</h4>\n<p>Most people lived in small <b>one- or two-room houses</b> which were very crowded; usually everyone slept in the same room, and family animals such as a cow or horse might also live inside the house. The house was usually <b>dark and smoky</b> from the fire. The local lord lived in a large house called a <b>manor</b> or a <b>castle</b>. Laws fixed the types of clothes each class could wear: peasants wore plain clothes of <b>heavy wool</b>, while the wealthy wore fine wool, velvet and even silk. Peasants ate mostly <b>bread and stew</b> (beans, dried peas, cabbage and other vegetables); meat, cheese and eggs were saved for special occasions.</p>\n<h4>Agriculture</h4>\n<p><b>Agriculture</b> was the main profession of the Middle Ages. Local peasants worked on the land for the lord; they were called the lord's <b>'villeins'</b>, like servants. They worked hard all year long and grew crops such as <b>barley, wheat and oats</b>. Peasants were <b>not allowed to hunt</b> on the lord's land. They also kept gardens with vegetables and fruits, and sometimes a few animals such as chickens and cows.</p>\n<h4>Trade</h4>\n<p>Inland trading centres like <b>Milan</b> developed, which passed goods on to the coastal cities for further export. Goods traded between the Arab world and Europe included <b>gold, salt, animal skins, jewels, leather goods, cotton, perfumes, spices and textiles</b>. Merchants travelled far to trade with the people of the <b>Byzantine Empire</b> in southeastern Europe. Medieval trade was <b>slow</b>, carried by ships and animals, and depended on <b>fairs and trading centres</b> rather than modern transport and banking.</p>\n<h4>Education</h4>\n<p>There were some schools run by the <b>church</b> where students were taught to read and write <b>Latin</b>. Some children learnt a craft through <b>apprenticeship</b> and the <b>guild system</b>. Very few people attended school; wealthy children often learned through <b>tutors</b>. The <b>first universities</b> began during the Middle Ages — at <b>Bologna, Paris</b> and other cities — where students studied reading, writing, astronomy, mathematics and music.</p>",
+     "mcqs": [
+      {
+       "q": "Most people in the Middle Ages lived in:",
+       "options": [
+        "Large stone castles",
+        "Wooden palaces",
+        "Town apartments",
+        "Small one- or two-room houses"
+       ],
+       "answer": 3,
+       "why": "Most people lived in small, crowded one- or two-room houses; even family animals might live inside."
+      },
+      {
+       "q": "The peasants who worked on the lord's land were called:",
+       "options": [
+        "Knights",
+        "Villeins",
+        "Guildsmen",
+        "Serfs of the town"
+       ],
+       "answer": 1,
+       "why": "The notes call the lord's peasants his 'villeins', who worked like servants on his land all year long."
+      },
+      {
+       "q": "Which crops did the peasants mainly grow?",
+       "options": [
+        "Rice, maize and cotton",
+        "Tea, coffee and spices",
+        "Barley, wheat and oats",
+        "Grapes, olives and figs"
+       ],
+       "answer": 2,
+       "why": "Peasants grew crops such as barley, wheat and oats, the main food crops of the Middle Ages."
+      },
+      {
+       "q": "Peasants were NOT allowed to:",
+       "options": [
+        "Hunt on the lord's land",
+        "Grow vegetables",
+        "Keep chickens",
+        "Eat bread"
+       ],
+       "answer": 0,
+       "why": "Peasants were not allowed to hunt on the lord's land, though they kept gardens and a few animals."
+      },
+      {
+       "q": "The inland trading centre named in the chapter is:",
+       "options": [
+        "Paris",
+        "London",
+        "Baghdad",
+        "Milan"
+       ],
+       "answer": 3,
+       "why": "Inland trading centres like Milan passed goods on to the coastal cities for further export."
+      },
+      {
+       "q": "Medieval trade depended mainly on:",
+       "options": [
+        "Fairs and trading centres",
+        "Banks and aeroplanes",
+        "Railways and trucks",
+        "Online payments"
+       ],
+       "answer": 0,
+       "why": "Trade was slow, carried by ships and animals, and depended on fairs and trading centres rather than modern transport and banking."
+      },
+      {
+       "q": "In church schools, students were taught to read and write:",
+       "options": [
+        "Greek",
+        "Latin",
+        "Arabic",
+        "French"
+       ],
+       "answer": 1,
+       "why": "Church schools taught students to read and write Latin; very few people attended school in the Middle Ages."
+      },
+      {
+       "q": "Children learnt a craft through apprenticeship and the:",
+       "options": [
+        "University system",
+        "Manor system",
+        "Guild system",
+        "Court system"
+       ],
+       "answer": 2,
+       "why": "Some children learnt a craft through apprenticeship and the guild system, while wealthy children learned through tutors."
+      },
+      {
+       "q": "The first universities began at cities such as:",
+       "options": [
+        "Bologna and Paris",
+        "Milan and Rome",
+        "London and Oxford only",
+        "Cordoba and Baghdad"
+       ],
+       "answer": 0,
+       "why": "The first universities began at Bologna, Paris and other cities, teaching astronomy, mathematics, music and other subjects."
+      },
+      {
+       "q": "Peasants usually ate:",
+       "options": [
+        "Meat and cheese daily",
+        "Rice and fish",
+        "Cakes and sweets",
+        "Bread and stew"
+       ],
+       "answer": 3,
+       "why": "Peasants ate mostly bread and stew of beans, peas and cabbage; meat, cheese and eggs were saved for special occasions."
+      }
+     ]
+    },
+    {
+     "title": "Art, Literature, Sports and Festivals",
+     "notes_html": "<h4>Three Styles of Medieval Art</h4>\n<p>Middle Ages art can be divided into <b>three main periods and styles</b>. (1) <b>Byzantine Art</b> lacked realism: paintings were flat, with no shadows, the subjects were serious and dark, and almost all were religious; artists focused on <b>symbolism</b>. (2) <b>Romanesque Art</b> was influenced by both Roman and Byzantine art and also focused on religion; it included stained glass, large wall paintings, domed ceilings, carvings, illuminated manuscripts and sculpture. (3) <b>Gothic Art</b> grew out of Romanesque art; Gothic artists used <b>brighter colours</b>, dimensions and viewpoints, and more shadow and light, and tried new subjects. Other art forms included painting, engraving, metal work and stained glass windows.</p>\n<h4>Literature</h4>\n<p>The main literature of the Middle Ages was written by <b>religious priests and monks</b>. Famous works include the <b>'Golden Legend'</b> (stories of the lives of the Saints), <b>'The Canterbury Tales'</b> by Geoffrey Chaucer, <b>'The Divine Comedy'</b> by Dante Alighieri, <b>Marco Polo's Travels</b> and the History of the Kings of Britain. Anthems, songs, comedies and philosophical documents about religion were also written.</p>\n<h4>Sports and Games</h4>\n<p>Outdoor sports and tournaments added colour to life. Games included playing with <b>ball and bowls, shinty (like hockey), stoolball (like cricket)</b>, hammer-throwing, <b>wrestling</b>, horse riding, <b>archery</b>, <b>chess</b> and golf. A <b>knight</b> who proved his fighting abilities in tournaments was often awarded great wealth, and a peasant who performed better was awarded more land, so sports became very popular.</p>\n<h4>Fairs, Festivals and Feasts</h4>\n<p>People had no vacations or days off, but they celebrated many <b>festivals</b>. They held <b>fairs, festivals and feasts</b> with lots of eating, music, games and dancing. Most days were special days on the Christian calendar, such as <b>Easter, Christmas</b> and various Saints' days, when the whole village gathered for a feast. These occasions added colour to the hard life of the people.</p>",
+     "mcqs": [
+      {
+       "q": "Middle Ages art can be divided into how many main periods and styles?",
+       "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: medieval art is divided into three main periods and styles — Byzantine, Romanesque and Gothic."
+      },
+      {
+       "q": "Byzantine art was characterised by:",
+       "options": [
+        "Bright colours and light",
+        "Realistic portraits",
+        "Lack of realism and focus on symbolism",
+        "Scenes of daily trade"
+       ],
+       "answer": 2,
+       "why": "Byzantine paintings were flat, with no shadows and serious religious subjects; artists focused on symbolism, not realism."
+      },
+      {
+       "q": "Gothic art grew out of:",
+       "options": [
+        "Byzantine art",
+        "Romanesque art",
+        "Greek art",
+        "Persian art"
+       ],
+       "answer": 1,
+       "why": "Gothic art grew out of Romanesque art and moved towards brighter colours, dimensions, viewpoints and more shadow and light."
+      },
+      {
+       "q": "Romanesque art included:",
+       "options": [
+        "Oil portraits of kings",
+        "Photographs of churches",
+        "Printed books",
+        "Stained glass and illuminated manuscripts"
+       ],
+       "answer": 3,
+       "why": "Romanesque art included stained glass art, wall paintings, domed ceilings, carvings, illuminated manuscript art and sculpture."
+      },
+      {
+       "q": "'The Canterbury Tales' was written by:",
+       "options": [
+        "Geoffrey Chaucer",
+        "Dante Alighieri",
+        "Marco Polo",
+        "Thomas More"
+       ],
+       "answer": 0,
+       "why": "The Canterbury Tales is the famous work of Geoffrey Chaucer; Dante wrote The Divine Comedy and Marco Polo wrote his Travels."
+      },
+      {
+       "q": "'The Divine Comedy' was written by:",
+       "options": [
+        "Geoffrey Chaucer",
+        "Marco Polo",
+        "Saint Thomas",
+        "Dante Alighieri"
+       ],
+       "answer": 3,
+       "why": "Dante Alighieri wrote The Divine Comedy, one of the famous works of medieval literature listed in the chapter."
+      },
+      {
+       "q": "The 'Golden Legend' contains stories of:",
+       "options": [
+        "The kings of Britain",
+        "The travels of merchants",
+        "The lives of the Saints",
+        "The wars of the Franks"
+       ],
+       "answer": 2,
+       "why": "The Golden Legend is a collection of stories of the lives of the Saints, written in the Middle Ages."
+      },
+      {
+       "q": "Which of these was a medieval sport like cricket?",
+       "options": [
+        "Shinty",
+        "Stoolball",
+        "Bowls",
+        "Archery"
+       ],
+       "answer": 1,
+       "why": "Stoolball was like cricket, while shinty was like hockey; wrestling, archery and chess were also played."
+      },
+      {
+       "q": "A knight who proved his fighting ability in tournaments was often awarded:",
+       "options": [
+        "A monastery",
+        "A university seat",
+        "Exile",
+        "Great wealth"
+       ],
+       "answer": 3,
+       "why": "The feudal system rewarded success in tournaments: a knight could win great wealth, and a successful peasant could be awarded more land."
+      },
+      {
+       "q": "Most festival days in the Middle Ages came from:",
+       "options": [
+        "The Christian calendar",
+        "The Roman calendar",
+        "The trade fairs",
+        "The king's orders"
+       ],
+       "answer": 0,
+       "why": "Most days were special days on the Christian calendar, such as Easter, Christmas and Saints' days, celebrated with feasts."
+      }
+     ]
+    },
+    {
+     "title": "End of the Middle Ages and Its Legacy",
+     "notes_html": "<h4>The Main Issues of the Age</h4>\n<p>The main issues of the Middle Ages were: <b>insecurity and invasions</b> (Germanic tribes and Viking attacks), the harsh <b>feudal system</b> in which serfs were little better than slaves, <b>poverty</b> and the hard daily life of the peasants, <b>very little education</b>, wars such as the Crusades and the Hundred Years' War, and deadly diseases like the <b>Black Death</b>.</p>\n<h4>What Caused the End?</h4>\n<p>Several changes ended the Middle Ages: the Hundred Years' War and the Black Death weakened the old order; <b>feudalism weakened</b> as Spain, France and England became strong countries; the <b>invention of printing (about 1440 CE)</b> spread books and learning; the <b>Renaissance</b> — a time of great learning and art — began; the <b>Ottoman Turks took Istanbul in 1453 CE</b> and ended the Byzantine civilization; and Europeans learnt about <b>America in 1492 CE</b>, which began the modern age.</p>\n<h4>Important Medieval Inventions</h4>\n<p>Important inventions of the age changed life forever: the <b>Spinning Wheel</b> made thread and cloth faster; the <b>Compass</b> helped sailors find direction and increased trade and travel; the <b>Printing Press</b>, invented by <b>Johannes Gutenberg in 1440 CE</b>, produced books in great numbers; <b>Eyeglasses</b> helped people with weak eyesight; <b>Gunpowder</b> changed warfare completely; and the <b>Tidal Mill</b> used the power of sea tides to grind grain.</p>\n<h4>Effect on the Modern World</h4>\n<p>The Middle Ages laid the foundations of the modern world: the <b>Magna Carta (1215 CE)</b> started the idea that <b>even the king is not above the law</b> and protected the rights of the people; the <b>first universities</b> were founded; the <b>Gothic style</b> enriched art and architecture; inventions such as the printing press, compass, gunpowder and spinning wheel changed life forever; strong national countries emerged as feudalism weakened; and the Renaissance and the discovery of America opened the modern age.</p>\n<h4>Sources of the Period</h4>\n<p><b>Primary sources</b> are the original records made at that time, such as the Magna Carta document (1215 CE), church records, coins, castles, cathedrals and paintings of the age. <b>Secondary sources</b> are books and accounts written later by historians about those events. Comparing both helps a student build a correct picture of the Middle Ages.</p>",
+     "mcqs": [
+      {
+       "q": "In the feudal system, serfs were:",
+       "options": [
+        "Free landowners",
+        "Rich merchants",
+        "Little better than slaves",
+        "Church leaders"
+       ],
+       "answer": 2,
+       "why": "The chapter lists the harsh feudal system, in which serfs were little better than slaves, among the main issues of the Middle Ages."
+      },
+      {
+       "q": "The Ottoman Turks took Istanbul in:",
+       "options": [
+        "1440 CE",
+        "1492 CE",
+        "1215 CE",
+        "1453 CE"
+       ],
+       "answer": 3,
+       "why": "The Ottoman Turks took Istanbul in 1453 CE and ended the Byzantine civilization — one of the events that closed the Middle Ages."
+      },
+      {
+       "q": "Europeans learnt about America in:",
+       "options": [
+        "1453 CE",
+        "1492 CE",
+        "1500 CE",
+        "1440 CE"
+       ],
+       "answer": 1,
+       "why": "Europeans learnt about America in 1492 CE, which gave a new understanding of the world and began the modern age."
+      },
+      {
+       "q": "The Printing Press was invented by:",
+       "options": [
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Marco Polo",
+        "Geoffrey Chaucer"
+       ],
+       "answer": 0,
+       "why": "Johannes Gutenberg invented the printing press in 1440 CE, so books could be produced easily and in great numbers."
+      },
+      {
+       "q": "The Magna Carta started the idea that:",
+       "options": [
+        "Kings can never be questioned",
+        "Only nobles have rights",
+        "Even the king is not above the law",
+        "The church rules the state"
+       ],
+       "answer": 2,
+       "why": "The Magna Carta (1215 CE) started the idea that even the king is not above the law and protected the rights of the people."
+      },
+      {
+       "q": "Which invention helped sailors find direction and increased trade and travel?",
+       "options": [
+        "Compass",
+        "Spinning Wheel",
+        "Tidal Mill",
+        "Eyeglasses"
+       ],
+       "answer": 0,
+       "why": "The compass helped sailors find direction and increased trade and travel; the spinning wheel made thread and cloth faster."
+      },
+      {
+       "q": "The Tidal Mill used the power of:",
+       "options": [
+        "Wind to pump water",
+        "Horses to plough fields",
+        "Steam to run factories",
+        "Sea tides to grind grain"
+       ],
+       "answer": 3,
+       "why": "The tidal mill used the power of sea tides to grind grain — one of the useful inventions of the Middle Ages."
+      },
+      {
+       "q": "Which of these is a PRIMARY source for the Middle Ages?",
+       "options": [
+        "A modern history textbook",
+        "The Magna Carta document of 1215 CE",
+        "A historian's article",
+        "A school lesson plan"
+       ],
+       "answer": 1,
+       "why": "Primary sources are original records made at the time, such as the Magna Carta document, church records, coins and castles."
+      },
+      {
+       "q": "Feudalism weakened as which countries became strong?",
+       "options": [
+        "Spain, France and England",
+        "Italy, Greece and Egypt",
+        "Russia, China and India",
+        "Turkey, Persia and Arabia"
+       ],
+       "answer": 0,
+       "why": "Feudalism weakened as Spain, France and England became strong national countries at the end of the Middle Ages."
+      },
+      {
+       "q": "Gunpowder changed which field completely?",
+       "options": [
+        "Farming",
+        "Medicine",
+        "Warfare",
+        "Painting"
+       ],
+       "answer": 2,
+       "why": "The chapter's project lists gunpowder among the inventions of the Middle Ages and notes that it changed warfare completely."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Spread of Islam in Europe and Asia",
+   "lessons": [
+    {
+     "title": "The Umayyad Caliphate",
+     "notes_html": "<h4>The First Islamic Dynasty</h4>\n<p>The <b>Umayyad Dynasty</b> was the first Islamic dynasty, ruling from <b>661 CE to 750 CE</b>. Its founder was <b>Muawiyah-I (602-680 CE)</b>, a brilliant Arab general who restored unity to the Muslim empire, made <b>Damascus</b> its capital and reigned from 661 to 680 CE. He set up <b>diwans</b> (government departments) such as the <b>diwan-al-khatam</b> (chancellery) and the <b>bareed</b> (postal service), and expanded the empire to the very gates of Constantinople. <b>Marwan-I</b> (623-685 CE) took over after Muawiyah-II and reigned 684-685 CE, during a civil war and a war against Abdullah Bin Zubair.</p>\n<h4>A Vast Empire</h4>\n<p>The Umayyads expanded the Islamic Empire into one of the <b>largest empires in history</b>: it extended from <b>India in the east to Spain in the west</b>, controlling the Middle East, parts of India, much of North Africa and Spain, with a population of around <b>62 million people</b> — nearly <b>30% of the world's population</b> at the time.</p>\n<h4>Advancements</h4>\n<p>The Umayyads modelled their government on the Byzantines, divided the empire into <b>provinces</b> ruled by governors appointed by the Caliph, and created diwans. Their advancements included a <b>common coinage</b>, <b>Arabic as the official language</b>, <b>standardised weights and measures</b>, a <b>postal service (bareed)</b>, and great buildings like the <b>Dome of the Rock</b> in Jerusalem and the <b>Umayyad Masjid</b> in Damascus. One of their leaders, <b>Abdul Rahman</b>, escaped to Spain and established his own kingdom at <b>Cordoba</b>, where the Umayyads ruled portions of Spain until the 14th century CE.</p>\n<h4>Two Great Umayyad Caliphs</h4>\n<p><b>Abd-al-Malik Ibn Marwan</b> (647-705 CE), the fifth Umayyad Caliph (685-705 CE), introduced a <b>single Islamic currency</b> in place of Byzantine and Sasanian coinage, made <b>Arabic the language of the bureaucracy</b>, and founded the <b>Dome of the Rock</b> in Jerusalem. <b>Al-Walid-I</b> (668-715 CE) ruled from 705-715 CE: he allowed <b>Hajjaj Bin Yousaf</b> to conquer Sindh, developed a <b>welfare system</b>, built hospitals and educational institutions, restored <b>Masjid-e-Nabawi</b> in Medina, and built a strong navy.</p>",
+     "mcqs": [
+      {
+       "q": "The founder of the Umayyad Dynasty was:",
+       "options": [
+        "Marwan-I",
+        "Muawiyah-I",
+        "Abd-al-Malik",
+        "Al-Walid-I"
+       ],
+       "answer": 1,
+       "why": "Muawiyah-I (602-680 CE) founded the Umayyad Dynasty, restored unity to the empire and made Damascus its capital."
+      },
+      {
+       "q": "The capital of the Umayyad Caliphate was:",
+       "options": [
+        "Damascus",
+        "Baghdad",
+        "Cordoba",
+        "Cairo"
+       ],
+       "answer": 0,
+       "why": "Muawiyah-I made Damascus the capital of the Umayyad Caliphate; Baghdad was the later Abbasid capital."
+      },
+      {
+       "q": "The Umayyad Caliphate ruled during:",
+       "options": [
+        "750-1258 CE",
+        "661-809 CE",
+        "632-661 CE",
+        "661-750 CE"
+       ],
+       "answer": 3,
+       "why": "The Umayyad Caliphate ruled from 661 CE to 750 CE, when the Abbasids brought it to an end."
+      },
+      {
+       "q": "The Umayyad Empire extended from India in the east to:",
+       "options": [
+        "China in the west",
+        "France in the west",
+        "Spain in the west",
+        "Egypt in the west"
+       ],
+       "answer": 2,
+       "why": "At its peak the Umayyad Empire stretched from India in the east to Spain in the west — one of the largest empires in history."
+      },
+      {
+       "q": "At its peak, the Umayyad Empire had a population of around:",
+       "options": [
+        "20 million people",
+        "62 million people",
+        "100 million people",
+        "6 million people"
+       ],
+       "answer": 1,
+       "why": "The empire controlled about 62 million people — nearly 30% of the world's population at the time."
+      },
+      {
+       "q": "The 'bareed' set up by the Umayyads was a:",
+       "options": [
+        "Coin mint",
+        "Court of justice",
+        "Royal library",
+        "Postal service"
+       ],
+       "answer": 3,
+       "why": "Muawiyah-I set up diwans such as the diwan-al-khatam (chancellery) and the bareed, which was the postal service."
+      },
+      {
+       "q": "The Dome of the Rock in Jerusalem was founded by:",
+       "options": [
+        "Abd-al-Malik Ibn Marwan",
+        "Muawiyah-I",
+        "Al-Walid-I",
+        "Haroon-al-Rashid"
+       ],
+       "answer": 0,
+       "why": "Abd-al-Malik, the fifth Umayyad Caliph, founded the Dome of the Rock and introduced a single Islamic currency."
+      },
+      {
+       "q": "Abd-al-Malik made which language the language of the bureaucracy?",
+       "options": [
+        "Greek",
+        "Persian",
+        "Arabic",
+        "Latin"
+       ],
+       "answer": 2,
+       "why": "Abd-al-Malik established Arabic as the language of the bureaucracy in place of Greek and Persian in Syria and Iraq."
+      },
+      {
+       "q": "Al-Walid-I allowed Hajjaj Bin Yousaf to conquer:",
+       "options": [
+        "Spain",
+        "Egypt",
+        "Persia",
+        "Sindh"
+       ],
+       "answer": 3,
+       "why": "During Al-Walid-I's reign (705-715 CE), Hajjaj Bin Yousaf conquered Sindh, opening the subcontinent to Islam."
+      },
+      {
+       "q": "The Umayyad leader who established his own kingdom at Cordoba in Spain was:",
+       "options": [
+        "Marwan-I",
+        "Abdul Rahman",
+        "Abd-al-Malik",
+        "Muawiyah-I"
+       ],
+       "answer": 1,
+       "why": "Abdul Rahman escaped to Spain and established his own kingdom at Cordoba, where Umayyads ruled parts of Spain until the 14th century CE."
+      }
+     ]
+    },
+    {
+     "title": "The Abbasid Caliphate and the Golden Age",
+     "notes_html": "<h4>The Abbasids Take Over</h4>\n<p>The Abbasids vanquished the Umayyad Dynasty in <b>750 CE</b> because discontent had grown against Umayyad rule — especially among the <b>mawali</b> (non-Arab Muslims), who were treated unequally although Islam teaches equality. <b>Abu Al-Abbas Abdullah Ibn Muhammad as-Saffah</b> became the first Abbasid Caliph (750-754 CE). The Abbasids supported the mawali and moved the capital to <b>Baghdad</b>, founded by <b>Al-Mansur</b> in <b>762 CE</b>.</p>\n<h4>The Golden Age of Islam</h4>\n<p>The early Abbasid period was a time of peace and prosperity called the <b>Golden Age of Islam (about 750-1258 CE)</b>. Great advances were made in <b>science, mathematics, medicine and astronomy</b>. Schools for higher education and libraries were built throughout the empire, such as the <b>Bayt-al-Hikma (House of Wisdom)</b> in Baghdad. Arab, Persian and other scholars built on the knowledge they <b>translated from the Greeks</b> and others. The <b>first paper mills</b> were set up in <b>Samarkand</b>, new coins were introduced, and Arabic art and architecture reached new heights.</p>\n<h4>Two Great Abbasid Caliphs</h4>\n<p><b>Al-Mansur</b> (714-775 CE), the second Abbasid Caliph (754-775 CE), founded <b>Baghdad in 762 CE</b>; in his reign literature and scholarly work emerged in full force. <b>Haroon-al-Rashid</b> (763-809 CE), the most famous Abbasid Caliph, ruled from <b>786 CE to 809 CE</b>. He built a grand palace in Baghdad and established the legendary library <b>Bayt-al-Hikma</b>. Anxious that his people be treated justly, he sometimes <b>disguised himself at night</b> and walked the streets and bazaars to understand the problems of the masses. Other famous figures of the age were <b>Al-Kindi</b>, a great mathematician, and <b>Ibn-al-Haytham</b>, the father of modern optics, who wrote <b>'Kitab-al-Manazir' (Book of Optics)</b>. <b>Umar Ibn Abd-al-Aziz's</b> rule had begun earlier, in 717 CE, in the Umayyad period.</p>\n<h4>The Fall of the Abbasids</h4>\n<p>The Abbasid Dynasty fell because of the rise of the <b>Mongol Empire</b> in eastern Asia in the early 12th century CE. In <b>1258 CE</b> the Mongol ruler <b>Hulagu Khan</b> sacked <b>Baghdad</b> and the Caliph was murdered. The Abbasids fled to Egypt, and the caliphate was re-established at <b>Cairo in 1261 CE</b>, lasting until <b>1517 CE</b> — but there the <b>Mamluks</b> held the true political and military power, while the Abbasids remained religious leaders.</p>",
+     "mcqs": [
+      {
+       "q": "The Abbasids vanquished the Umayyad Dynasty in:",
+       "options": [
+        "762 CE",
+        "786 CE",
+        "717 CE",
+        "750 CE"
+       ],
+       "answer": 3,
+       "why": "The Abbasids defeated and ended the Umayyad Dynasty in 750 CE, and as-Saffah became the first Abbasid Caliph."
+      },
+      {
+       "q": "The first Abbasid Caliph was:",
+       "options": [
+        "Al-Mansur",
+        "Haroon-al-Rashid",
+        "Abu Al-Abbas as-Saffah",
+        "Al-Ma'mun"
+       ],
+       "answer": 2,
+       "why": "Abu Al-Abbas Abdullah Ibn Muhammad as-Saffah became the first Abbasid Caliph (750-754 CE)."
+      },
+      {
+       "q": "The city of Baghdad was founded by:",
+       "options": [
+        "Al-Mansur",
+        "Al-Mahdi",
+        "Al-Mu'tasim",
+        "Al-Ma'mun"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: Baghdad was founded by the Abbasid Caliph Al-Mansur in 762 CE."
+      },
+      {
+       "q": "The Golden Age of Islam lasted about:",
+       "options": [
+        "661-750 CE",
+        "750-1258 CE",
+        "786-809 CE",
+        "1258-1517 CE"
+       ],
+       "answer": 1,
+       "why": "The early Abbasid period, about 750-1258 CE, is called the Golden Age of Islam because of its peace, prosperity and learning."
+      },
+      {
+       "q": "The Bayt-al-Hikma in Baghdad was a famous:",
+       "options": [
+        "Masjid",
+        "Palace",
+        "Market",
+        "Library (House of Wisdom)"
+       ],
+       "answer": 3,
+       "why": "Bayt-al-Hikma means House of Wisdom; it was the legendary library established in Baghdad, linked with Haroon-al-Rashid."
+      },
+      {
+       "q": "Haroon-al-Rashid was the most famous Abbasid Caliph who ruled from 786 CE to:",
+       "options": [
+        "796 CE",
+        "809 CE",
+        "800 CE",
+        "805 CE"
+       ],
+       "answer": 1,
+       "why": "This is the book's own MCQ: Haroon-al-Rashid ruled from 786 CE to 809 CE."
+      },
+      {
+       "q": "Haroon-al-Rashid sometimes disguised himself at night in order to:",
+       "options": [
+        "Inspect the army",
+        "Visit the library",
+        "Understand the problems of the masses",
+        "Meet foreign traders"
+       ],
+       "answer": 2,
+       "why": "He walked the streets and bazaars in disguise so that government officers would treat people justly and he could learn their problems."
+      },
+      {
+       "q": "The first paper mills were set up in:",
+       "options": [
+        "Samarkand",
+        "Baghdad",
+        "Damascus",
+        "Cordoba"
+       ],
+       "answer": 0,
+       "why": "The first paper mills were set up in Samarkand during the Abbasid Golden Age."
+      },
+      {
+       "q": "Baghdad was sacked in 1258 CE by the Mongol ruler:",
+       "options": [
+        "Chengiz Khan",
+        "Hulagu Khan",
+        "Tamerlane",
+        "Kublai Khan"
+       ],
+       "answer": 1,
+       "why": "In 1258 CE Hulagu Khan sacked Baghdad and the Caliph was murdered, ending the Abbasid Caliphate at Baghdad."
+      },
+      {
+       "q": "After 1258 CE, the Abbasid Caliphate continued at Cairo, where real power was held by:",
+       "options": [
+        "The Umayyads",
+        "The Mongols",
+        "The Seljuks",
+        "The Mamluks"
+       ],
+       "answer": 3,
+       "why": "At Cairo (1261-1517 CE) the Abbasids were religious leaders, while the Mamluks held the true political and military power."
+      }
+     ]
+    },
+    {
+     "title": "Muhammad Bin Qasim and the Conquest of Sindh",
+     "notes_html": "<h4>The Arrival in 712 CE</h4>\n<p>The rule of the Muslims in the subcontinent started with the conquest of Sindh by <b>Muhammad Bin Qasim</b> in <b>712 CE</b>. The immediate cause of his arrival was the <b>looting of Arab ships by pirates of Sindh</b>. When this news reached <b>Hajjaj Bin Yousaf</b>, he sent his <b>nephew</b> Muhammad Bin Qasim to conquer Sindh.</p>\n<h4>The Conquest</h4>\n<p>The army under Muhammad Bin Qasim defeated <b>Raja Dahir</b>, who was the Raja of Sindh at that time, and captured the area <b>up to Multan</b>. This happened during the reign of the Umayyad Caliph <b>Al-Walid-I</b>, who had allowed Hajjaj Bin Yousaf to conquer Sindh.</p>\n<h4>Impacts of the Expedition</h4>\n<p>Muhammad Bin Qasim played an important role in <b>spreading Islam</b> in the subcontinent: he set up many <b>Masjids and Islamic schools</b> in Sindh and Multan. The Arabs did <b>not force</b> the locals to embrace Islam; many <b>Buddhists and lower-caste Hindus</b>, who lived a miserable and socially segregated life, were impressed by the <b>equality, caste-less system and social justice</b> of the Muslims and embraced Islam. That is why scholars call <b>Sindh the gateway of Islam</b> to other parts of India — his conquest sped up the process of the spread of Islam in the region.</p>",
+     "mcqs": [
+      {
+       "q": "Muhammad Bin Qasim conquered Sindh in:",
+       "options": [
+        "712 CE",
+        "709 CE",
+        "710 CE",
+        "711 CE"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: Muhammad Bin Qasim conquered Sindh in 712 CE and captured the area up to Multan."
+      },
+      {
+       "q": "The immediate cause of Muhammad Bin Qasim's arrival was:",
+       "options": [
+        "A drought in Arabia",
+        "The looting of Arab ships by pirates of Sindh",
+        "An invitation by Raja Dahir",
+        "A war with Persia"
+       ],
+       "answer": 1,
+       "why": "When Arab ships were looted by pirates of Sindh, Hajjaj Bin Yousaf sent his nephew Muhammad Bin Qasim to conquer Sindh."
+      },
+      {
+       "q": "Muhammad Bin Qasim was sent to Sindh by:",
+       "options": [
+        "Al-Walid-I directly",
+        "Muawiyah-I",
+        "Haroon-al-Rashid",
+        "Hajjaj Bin Yousaf"
+       ],
+       "answer": 3,
+       "why": "Hajjaj Bin Yousaf sent his nephew Muhammad Bin Qasim after the pirates looted Arab ships."
+      },
+      {
+       "q": "The Raja of Sindh defeated by Muhammad Bin Qasim was:",
+       "options": [
+        "Raja Jaipal",
+        "Raja Anandpal",
+        "Raja Dahir",
+        "Raja Bhoj"
+       ],
+       "answer": 2,
+       "why": "Muhammad Bin Qasim's army defeated Raja Dahir, the Raja of Sindh, and captured the area up to Multan."
+      },
+      {
+       "q": "Muhammad Bin Qasim captured the area up to:",
+       "options": [
+        "Multan",
+        "Delhi",
+        "Lahore",
+        "Kabul"
+       ],
+       "answer": 0,
+       "why": "He defeated Raja Dahir and captured the area up to Multan, setting up Masjids and Islamic schools in Sindh and Multan."
+      },
+      {
+       "q": "Sindh is called the:",
+       "options": [
+        "Capital of the Abbasids",
+        "First Islamic university",
+        "Gateway of Islam to other parts of India",
+        "Birthplace of the Umayyads"
+       ],
+       "answer": 2,
+       "why": "Scholars call Sindh the gateway of Islam because Muslim rule and the spread of Islam in the subcontinent began there in 712 CE."
+      },
+      {
+       "q": "Many Buddhists and lower-caste Hindus embraced Islam because they were impressed by:",
+       "options": [
+        "Muslim military power",
+        "Equality, the caste-less system and social justice",
+        "Arab wealth",
+        "New trade routes"
+       ],
+       "answer": 1,
+       "why": "The Arabs did not force the locals; people were impressed by the equality, caste-less system and social justice of the Muslims."
+      },
+      {
+       "q": "Muhammad Bin Qasim set up many Masjids and Islamic schools in:",
+       "options": [
+        "Delhi and Agra",
+        "Baghdad and Cairo",
+        "Spain and Cordoba",
+        "Sindh and Multan"
+       ],
+       "answer": 3,
+       "why": "He set up many Masjids and Islamic schools in Sindh and Multan after the conquest."
+      },
+      {
+       "q": "The Umayyad Caliph during the conquest of Sindh was:",
+       "options": [
+        "Muawiyah-I",
+        "Abd-al-Malik",
+        "Al-Walid-I",
+        "Marwan-I"
+       ],
+       "answer": 2,
+       "why": "Al-Walid-I (705-715 CE) allowed Hajjaj Bin Yousaf to conquer Sindh, which was done by Muhammad Bin Qasim in 712 CE."
+      },
+      {
+       "q": "Umar Ibn Abd-al-Aziz's rule started in:",
+       "options": [
+        "717 CE",
+        "715 CE",
+        "716 CE",
+        "718 CE"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: Umar Ibn Abd-al-Aziz's rule started in 717 CE, shortly after the conquest of Sindh."
+      }
+     ]
+    },
+    {
+     "title": "Umayyads and Abbasids Compared",
+     "notes_html": "<h4>Similarities</h4>\n<p>Both dynasties ruled <b>vast empires</b> and spread Islam over large areas of <b>Asia, Africa and Europe</b>. Both were ruled by <b>caliphs</b> with capitals of their own, both set up <b>diwans</b> (government departments), introduced <b>coinage</b>, and built great mosques and buildings. Both used <b>Arabic</b> as the language of the state.</p>\n<h4>Differences</h4>\n<ul>\n<li><b>Capital:</b> Damascus (Umayyad) vs Baghdad (Abbasid, founded 762 CE).</li>\n<li><b>Period:</b> 661-750 CE (Umayyad, about 90 years) vs 750-1258 CE at Baghdad, then Cairo to 1517 CE (Abbasid).</li>\n<li><b>Main fame:</b> the Umayyads are famous for <b>conquest and territorial expansion</b> — from the Indus River to Spain; the Abbasids are famous for <b>learning, science and culture</b> — the Golden Age of Islam.</li>\n<li><b>Support base:</b> the Umayyads relied mainly on the Arab nobility, while the Abbasids supported the <b>mawali</b> (non-Arab Muslims) and gave them a share in government.</li>\n</ul>\n<h4>Islam Spreads Across the World</h4>\n<p>From the 7th through the 18th centuries CE, Islam spread across the globe. Muslim rulers extended their control throughout <b>North Africa, West Africa and Central Asia</b>. Muslim rulers, soldiers, traders, <b>Sufis</b>, scholars, poets and architects all contributed to shaping a unique Islamic culture. In the subcontinent, Islam entered through <b>Sindh in 712 CE</b>, and in the west it reached <b>Spain</b> in the Umayyad period. In the 7th century CE, Islam also brought a revolution in Arabia itself: the tribal society was united under <b>one faith and one state</b>, idol worship ended, and social justice and equality replaced the old divisions.</p>",
+     "mcqs": [
+      {
+       "q": "Both the Umayyad and Abbasid dynasties set up government departments called:",
+       "options": [
+        "Bareed",
+        "Mansabs",
+        "Diwans",
+        "Guilds"
+       ],
+       "answer": 2,
+       "why": "Both dynasties set up diwans (government departments), introduced coinage and built great mosques and buildings."
+      },
+      {
+       "q": "The Umayyads are most famous for:",
+       "options": [
+        "Conquest and territorial expansion",
+        "Science and medicine",
+        "Paper making",
+        "Poetry and painting"
+       ],
+       "answer": 0,
+       "why": "The Umayyads' great achievement was territorial expansion — from the Indus River to Spain; learning and culture were the Abbasids' fame."
+      },
+      {
+       "q": "The Abbasids are most famous for:",
+       "options": [
+        "Conquering Spain",
+        "Building the Dome of the Rock",
+        "Founding Damascus",
+        "Learning, science and the Golden Age"
+       ],
+       "answer": 3,
+       "why": "The Abbasid achievement was the Golden Age of Islam with advances in science, mathematics, medicine and astronomy."
+      },
+      {
+       "q": "The mawali were:",
+       "options": [
+        "Arab generals",
+        "Non-Arab Muslims",
+        "Court poets",
+        "Tax collectors"
+       ],
+       "answer": 1,
+       "why": "The Abbasids supported the mawali (non-Arab Muslims) and gave them a share in government, unlike the Umayyads."
+      },
+      {
+       "q": "The Umayyad period lasted about:",
+       "options": [
+        "200 years",
+        "500 years",
+        "90 years",
+        "50 years"
+       ],
+       "answer": 2,
+       "why": "The Umayyad period (661-750 CE) lasted about 90 years, while the Abbasid period lasted much longer."
+      },
+      {
+       "q": "The early 12th century CE saw the rise of the Mongol Empire in eastern:",
+       "options": [
+        "Europe",
+        "Asia",
+        "Africa",
+        "America"
+       ],
+       "answer": 1,
+       "why": "This is the book's own MCQ: the Mongol Empire rose in eastern Asia in the early 12th century CE and later destroyed Baghdad."
+      },
+      {
+       "q": "Which group also helped spread Islam and shape Islamic culture, besides rulers and soldiers?",
+       "options": [
+        "Sufis, traders and scholars",
+        "Only tax collectors",
+        "Only sailors",
+        "Only farmers"
+       ],
+       "answer": 0,
+       "why": "Muslim rulers, soldiers, traders, Sufis, scholars, poets and architects all contributed to shaping a unique Islamic culture."
+      },
+      {
+       "q": "In Arabia, the 7th century revolution of Islam united the tribal society under:",
+       "options": [
+        "Many small kingdoms",
+        "A feudal system",
+        "Foreign rule",
+        "One faith and one state"
+       ],
+       "answer": 3,
+       "why": "Islam united Arabia's tribal society under one faith and one state — the Caliphate — and established belief in one God."
+      },
+      {
+       "q": "The Abbasid capital Baghdad was founded in:",
+       "options": [
+        "750 CE",
+        "762 CE",
+        "786 CE",
+        "1258 CE"
+       ],
+       "answer": 1,
+       "why": "Al-Mansur founded Baghdad in 762 CE and the Abbasids moved their capital there from Damascus."
+      },
+      {
+       "q": "At its peak, the Umayyad Caliphate covered present-day lands including:",
+       "options": [
+        "China and Japan",
+        "England and France",
+        "Spain and Sindh",
+        "Russia and Siberia"
+       ],
+       "answer": 2,
+       "why": "On a modern map, the Umayyad Caliphate covered Arabia, Syria, Iraq, Iran, Egypt, North Africa, Spain and Pakistan's Sindh and Multan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Muslim Dynasties and Crusades",
+   "lessons": [
+    {
+     "title": "The Seljuk and Fatimid Dynasties",
+     "notes_html": "<h4>The Seljuk Dynasty</h4>\n<p>The <b>Seljuk Dynasty</b> was formed in <b>1037 CE</b> by <b>Tughril Beg</b> (993-1063 CE) and his brother <b>Chaghri Beg</b>. It was a Turkish dynasty based in Central Anatolia; from their homelands near the <b>Aral Sea</b>, the Seljuks advanced first into Khurasan, then into Persia and Anatolia. The Seljuks won the <b>Battle of Manzikert in 1071 CE</b> under Sultan <b>Alp Arslan</b> and conquered most of Anatolia from the Byzantine Empire. Seljuk power reached its zenith under <b>Malik Shah-I</b>, whose vizier was <b>Nizam-ul-Mulk</b>.</p>\n<h4>Seljuk Contributions</h4>\n<p>The Seljuks assumed the leadership of the Islamic world by establishing political mastery over the Abbasid Caliphate in Baghdad. They created a <b>barrier against the Mongol invaders</b> from the East and <b>defended the Islamic world against the Crusaders</b> from the West. They introduced social and political stability, <b>patronised Persian culture, art, literature and language</b>, and Anatolia became Islamized. The madrasas of Sivas and the Mevlana Museum in Konya are notable examples of their architecture. However, their conquest of Anatolia became one of the reasons for the <b>First Crusade (1095-1099 CE)</b>; the dynasty was weakened during the first two Crusades, and the Seljuk Empire was invaded by the Mongols around 1194 CE.</p>\n<h4>The Fatimid Dynasty</h4>\n<p>Under the <b>Fatimids (909-1171 CE)</b>, Egypt became the centre of the empire and <b>Cairo</b> became the most important cultural centre in the Islamic world. Cairo was a major centre for the production of <b>pottery, glass, metalwork, rock-crystal, ivory, wood carving and textiles</b>. Famous Fatimid buildings include the <b>Great Masjid of Mahdiya</b> in Tunisia (916 CE), the <b>Al-Azhar Masjid</b> in Cairo (972 CE) and the <b>Al-Hakim Masjid</b> in Cairo (1013 CE). Fatimid rule was renowned for <b>tolerance</b>: Muslims, Christians and Jews held significant public offices, appointed purely on merit, and women's contributions were valued. The Fatimid Empire collapsed in <b>1171 CE</b> when <b>Salah-ud-Din Ayubi</b> became the real master of Egypt, overthrew the last Fatimid caliph and established the Ayyubid Dynasty.</p>",
+     "mcqs": [
+      {
+       "q": "The Seljuk Dynasty was formed in:",
+       "options": [
+        "1071 CE",
+        "1037 CE",
+        "1095 CE",
+        "999 CE"
+       ],
+       "answer": 1,
+       "why": "The Seljuk Dynasty was formed in 1037 CE by Tughril Beg and his brother Chaghri Beg."
+      },
+      {
+       "q": "The Seljuk Dynasty was founded by:",
+       "options": [
+        "Alp Arslan and Malik Shah",
+        "Osman I and Orhan",
+        "Shah Ismail and Tahmasp",
+        "Tughril Beg and Chaghri Beg"
+       ],
+       "answer": 3,
+       "why": "Tughril Beg (993-1063 CE) and his brother Chaghri Beg founded the Seljuk Dynasty in 1037 CE."
+      },
+      {
+       "q": "The Seljuks won the Battle of Manzikert in 1071 CE under Sultan:",
+       "options": [
+        "Alp Arslan",
+        "Tughril Beg",
+        "Malik Shah-I",
+        "Nizam-ul-Mulk"
+       ],
+       "answer": 0,
+       "why": "Under Sultan Alp Arslan the Seljuks won the Battle of Manzikert in 1071 CE and conquered most of Anatolia from the Byzantines."
+      },
+      {
+       "q": "Nizam-ul-Mulk was the famous vizier of:",
+       "options": [
+        "Alp Arslan",
+        "Tughril Beg",
+        "Malik Shah-I",
+        "Salah-ud-Din"
+       ],
+       "answer": 2,
+       "why": "Seljuk power was at its zenith under Malik Shah-I (1055-1092 CE), whose vizier Nizam-ul-Mulk held near absolute power."
+      },
+      {
+       "q": "The Seljuks defended the Islamic world against the Crusaders and blocked the:",
+       "options": [
+        "Vikings",
+        "Mongols",
+        "Franks",
+        "Romans"
+       ],
+       "answer": 1,
+       "why": "The Seljuks created a barrier to Europe against the Mongol invaders from the East and defended Islam against Crusaders from the West."
+      },
+      {
+       "q": "The Seljuks specially patronised which culture, art and language?",
+       "options": [
+        "Arabic only",
+        "Turkish only",
+        "Persian",
+        "Greek"
+       ],
+       "answer": 2,
+       "why": "The Seljuks are remembered as great supporters of Persian culture, art, literature and language."
+      },
+      {
+       "q": "Under the Fatimids, the most important cultural centre of the Islamic world was:",
+       "options": [
+        "Baghdad",
+        "Damascus",
+        "Cordoba",
+        "Cairo"
+       ],
+       "answer": 3,
+       "why": "Under the Fatimids (909-1171 CE), Egypt became the centre of the empire and Cairo its most important cultural centre."
+      },
+      {
+       "q": "The Al-Azhar Masjid in Cairo was built by the Fatimids in:",
+       "options": [
+        "972 CE",
+        "916 CE",
+        "1013 CE",
+        "1171 CE"
+       ],
+       "answer": 0,
+       "why": "The Al-Azhar Masjid in Cairo dates to 972 CE; the Great Masjid of Mahdiya was built in 916 CE and Al-Hakim Masjid in 1013 CE."
+      },
+      {
+       "q": "Fatimid rule was renowned for:",
+       "options": [
+        "Forced conversion",
+        "Heavy taxes",
+        "Tolerance and appointment on merit",
+        "Isolation from trade"
+       ],
+       "answer": 2,
+       "why": "Under the Fatimids, Muslims, Christians and Jews occupied significant public offices appointed purely on merit."
+      },
+      {
+       "q": "The Fatimid Empire collapsed in 1171 CE when Egypt passed to:",
+       "options": [
+        "The Seljuks",
+        "Salah-ud-Din Ayubi",
+        "The Ottomans",
+        "The Mongols"
+       ],
+       "answer": 1,
+       "why": "In 1171 CE Salah-ud-Din Ayubi became the real master of Egypt, overthrew the Fatimid Dynasty and founded the Ayyubid Dynasty."
+      }
+     ]
+    },
+    {
+     "title": "The Ayyubids and Salah-ud-Din Ayubi",
+     "notes_html": "<h4>Salah-ud-Din Ayubi</h4>\n<p><b>Sultan Salah-ud-Din Ayubi (1137-1193 CE)</b> was the founder of the <b>Ayyubid Dynasty</b> in <b>Egypt</b>. He became the real master of Egypt in <b>1171 CE</b>, overthrew the Fatimid Dynasty and established the Ayyubid Dynasty. He fought for many years against the Crusaders and <b>recaptured the city of Jerusalem in 1187 CE</b>.</p>\n<h4>Conflict with the Seljuk-linked Zangids</h4>\n<p>After the death of <b>Nur-ud-Din Zangi</b>, the Ayyubids and the Seljuk-linked <b>Zangids</b> came into conflict over the control of <b>Syria and the Jazira</b> (northern Iraq). The Zangids, successors of Seljuk authority, held Damascus and Aleppo, while Salah-ud-Din extended his rule over <b>Syria, Yemen, Hejaz and northern Iraq</b> in the 12th-13th centuries CE. Thus the Ayyubids replaced Seljuk-linked Zangid rule in Syria, and both Muslim powers competed for leadership against the same Crusader enemy.</p>\n<h4>Ayyubid Society and Culture</h4>\n<p>The Ayyubid reign (<b>1171-1260 CE</b>) was an era of <b>social and economic prosperity</b>. Their patronage led to a revival in intellectual activity. In art, the Ayyubids are known especially for <b>inlaid metalwork and ceramics</b>, particularly luster and underglaze-painted wares. They established <b>religious schools and hospitals</b> and introduced <b>public education</b>. Salah-ud-Din and his successors were patrons of art and sciences and issued coins of different types. Cairo's famous <b>Al-Azhar University</b> — founded by the Fatimids — became a leading centre for scholarship and the premier institution of learning in the Muslim world under the Ayyubids. On the whole, <b>Arabic culture and language</b> dominated the Ayyubid Empire.</p>",
+     "mcqs": [
+      {
+       "q": "The Ayyubid Dynasty was established in:",
+       "options": [
+        "Turkey",
+        "Iran",
+        "Jordan",
+        "Egypt"
+       ],
+       "answer": 3,
+       "why": "This is the book's own MCQ: Salah-ud-Din Ayubi established the Ayyubid Dynasty in Egypt after overthrowing the Fatimids."
+      },
+      {
+       "q": "Salah-ud-Din Ayubi became the real master of Egypt in:",
+       "options": [
+        "1187 CE",
+        "1171 CE",
+        "1193 CE",
+        "1260 CE"
+       ],
+       "answer": 1,
+       "why": "He became the real master of Egypt in 1171 CE, overthrew the Fatimid Dynasty and established the Ayyubid Dynasty."
+      },
+      {
+       "q": "Sultan Salah-ud-Din Ayubi recaptured Jerusalem in:",
+       "options": [
+        "1171 CE",
+        "1190 CE",
+        "1187 CE",
+        "1193 CE"
+       ],
+       "answer": 2,
+       "why": "This is the book's own MCQ: Salah-ud-Din recaptured Jerusalem in 1187 CE, which led to the Third Crusade."
+      },
+      {
+       "q": "The Ayyubid reign lasted from:",
+       "options": [
+        "1171 CE to 1260 CE",
+        "1037 CE to 1194 CE",
+        "1299 CE to 1923 CE",
+        "1501 CE to 1736 CE"
+       ],
+       "answer": 0,
+       "why": "The Ayyubid reign (1171-1260 CE) was an era of social and economic prosperity in Egypt and Syria."
+      },
+      {
+       "q": "After Nur-ud-Din Zangi's death, the Ayyubids came into conflict with the:",
+       "options": [
+        "Ottomans",
+        "Safavids",
+        "Mongols",
+        "Zangids"
+       ],
+       "answer": 3,
+       "why": "The Zangids, successors of Seljuk authority in Syria, held Damascus and Aleppo and competed with the Ayyubids for Syria and the Jazira."
+      },
+      {
+       "q": "The Ayyubids are known in art especially for:",
+       "options": [
+        "Inlaid metalwork and ceramics",
+        "Oil painting and sculpture",
+        "Printed books",
+        "Glass palaces"
+       ],
+       "answer": 0,
+       "why": "Ayyubid art is known for inlaid metalwork and ceramics, particularly luster and underglaze-painted wares."
+      },
+      {
+       "q": "The Ayyubids introduced which public service besides religious schools?",
+       "options": [
+        "Postal services only",
+        "Hospitals and public education",
+        "Standing armies",
+        "Paper mills"
+       ],
+       "answer": 1,
+       "why": "The Ayyubids established religious schools, hospitals and introduced public education in their empire."
+      },
+      {
+       "q": "Al-Azhar University became the premier institution of learning in the Muslim world under the:",
+       "options": [
+        "Seljuks",
+        "Safavids",
+        "Ayyubids",
+        "Umayyads"
+       ],
+       "answer": 2,
+       "why": "Al-Azhar was founded by the Fatimids but gained its reputation as the premier institution of learning under the Ayyubids."
+      },
+      {
+       "q": "Salah-ud-Din Ayubi extended his rule over Syria, Yemen, Hejaz and:",
+       "options": [
+        "Northern Iraq",
+        "Spain",
+        "India",
+        "Anatolia"
+       ],
+       "answer": 0,
+       "why": "In the 12th-13th centuries CE Salah-ud-Din extended Ayyubid rule over Syria, Yemen, Hejaz and northern Iraq (the Jazira)."
+      },
+      {
+       "q": "The culture and language that dominated the Ayyubid Empire were:",
+       "options": [
+        "Persian",
+        "Turkish",
+        "Greek",
+        "Arabic"
+       ],
+       "answer": 3,
+       "why": "On the whole, Arabic culture and language dominated the Ayyubid Empire."
+      }
+     ]
+    },
+    {
+     "title": "The Ottoman and Safavid Dynasties",
+     "notes_html": "<h4>The Ottoman Dynasty</h4>\n<p>The <b>Ottoman Dynasty</b> was founded by <b>Osman I</b>, a leader of the Turkish tribes in Anatolia, in <b>1299 CE</b>. Osman I expanded his kingdom, uniting many independent states of Anatolia under one rule, established a formal government and allowed <b>religious tolerance</b> over the people he conquered. Important Ottoman rulers were <b>Osman I, Orhan, Murad-I and Bayezid-I</b>. In <b>1453 CE, Mehmed II the Conqueror</b> conquered the ancient city of <b>Constantinople</b>, the Byzantine Empire's capital, and renamed it <b>Istanbul</b>. The Ottoman Dynasty ruled a large portion of the Middle East and Eastern Europe for <b>over 600 years</b>, and was finally dissolved in <b>1923 CE</b>, becoming the country of Turkey.</p>\n<h4>The Janissaries</h4>\n<p>The <b>Janissaries</b> were the famous <b>elite infantry corps</b> of the Ottoman Empire. Many Christian boys were recruited into the Janissary corps; they were given strict military training and discipline, and served as the <b>personal soldiers of the Ottoman Sultan</b>, forming the strongest part of the Ottoman army. Ottoman culture was influenced by Turk, Greek, Roman, Islamic and Persian cultures; its society had a ruling class (the Sultan, his family and high officials) and the <b>reaya</b> (subjects — farmers, merchants and craftsmen).</p>\n<h4>The Safavid Dynasty</h4>\n<p>The <b>Safavid Dynasty</b> was founded by <b>Shah Ismail (1487-1524 CE)</b> in <b>1501 CE</b>. He was crowned at <b>Tabriz</b>, later captured Shiraz, Mesopotamia and Iraq, and thus became master of <b>Najaf and Karbala</b>. The Safavid Dynasty (1501-1736 CE) was one of the most significant ruling dynasties of <b>Iran</b>; it controlled all of present-day Iran, Azerbaijan, Bahrain, Armenia, parts of Iraq, Kuwait, Afghanistan and Turkey. Shah Ismail was succeeded by his son <b>Shah Tahmasp-I</b> (1524-1576 CE), who was interested in painting and was a good calligrapher. Safavid rule revived Iran as an economic stronghold between East and West, with an efficient state and bureaucracy based on <b>'checks and balances'</b>. Persian society was a hierarchy with the <b>Shah at the apex</b>; Persians greatly enjoyed hunting, and the <b>polo-match</b> was a common game.</p>",
+     "mcqs": [
+      {
+       "q": "The Ottoman Dynasty was formed in:",
+       "options": [
+        "1299 CE",
+        "1293 CE",
+        "1295 CE",
+        "1297 CE"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: the Ottoman Dynasty was formed in 1299 CE by Osman I in Anatolia."
+      },
+      {
+       "q": "The founder of the Ottoman Dynasty was:",
+       "options": [
+        "Orhan",
+        "Murad-I",
+        "Osman I",
+        "Mehmed II"
+       ],
+       "answer": 2,
+       "why": "Osman I, a leader of the Turkish tribes in Anatolia, founded the Ottoman Dynasty and united its independent states."
+      },
+      {
+       "q": "Constantinople was conquered in 1453 CE by:",
+       "options": [
+        "Osman I",
+        "Mehmed II the Conqueror",
+        "Bayezid-I",
+        "Shah Ismail"
+       ],
+       "answer": 1,
+       "why": "Mehmed II the Conqueror took Constantinople in 1453 CE and renamed it Istanbul."
+      },
+      {
+       "q": "After its conquest, Constantinople was renamed:",
+       "options": [
+        "Ankara",
+        "Tabriz",
+        "Konya",
+        "Istanbul"
+       ],
+       "answer": 3,
+       "why": "Mehmed II renamed the Byzantine capital Constantinople as Istanbul in 1453 CE."
+      },
+      {
+       "q": "The Janissaries were:",
+       "options": [
+        "The elite infantry corps of the Ottoman Empire",
+        "The Sultan's court poets",
+        "A corps of tax collectors",
+        "Naval soldiers of Egypt"
+       ],
+       "answer": 0,
+       "why": "The Janissaries were the famous elite infantry — the personal soldiers of the Sultan and the strongest part of the Ottoman army."
+      },
+      {
+       "q": "The Ottoman Dynasty was finally dissolved in:",
+       "options": [
+        "1453 CE",
+        "1736 CE",
+        "1857 CE",
+        "1923 CE"
+       ],
+       "answer": 3,
+       "why": "The Ottoman Dynasty ruled for over 600 years and was dissolved in 1923 CE, becoming the country of Turkey."
+      },
+      {
+       "q": "The Safavid Dynasty was founded in 1501 CE by:",
+       "options": [
+        "Osman I",
+        "Tughril Beg",
+        "Shah Ismail",
+        "Salah-ud-Din Ayubi"
+       ],
+       "answer": 2,
+       "why": "This is the book's own MCQ: Shah Ismail founded the Safavid Dynasty in 1501 CE and was crowned at Tabriz."
+      },
+      {
+       "q": "Shah Ismail was crowned at:",
+       "options": [
+        "Tehran",
+        "Tabriz",
+        "Baghdad",
+        "Istanbul"
+       ],
+       "answer": 1,
+       "why": "Shah Ismail was crowned at Tabriz and later captured Shiraz, Mesopotamia and Iraq, becoming master of Najaf and Karbala."
+      },
+      {
+       "q": "The Safavid Dynasty was one of the most significant ruling dynasties of:",
+       "options": [
+        "Egypt",
+        "Turkey",
+        "India",
+        "Iran"
+       ],
+       "answer": 3,
+       "why": "The Safavids (1501-1736 CE) ruled Iran and revived it as an economic stronghold between East and West."
+      },
+      {
+       "q": "In Safavid society, at the apex of the hierarchy stood:",
+       "options": [
+        "The Shah",
+        "The vizier",
+        "The Janissaries",
+        "The merchants"
+       ],
+       "answer": 0,
+       "why": "Persian society during the Safavids was a hierarchy, with the Shah at the apex of the hierarchical pyramid."
+      }
+     ]
+    },
+    {
+     "title": "The Crusades",
+     "notes_html": "<h4>What Were the Crusades?</h4>\n<p>The <b>Crusades</b> were a series of religious wars during the Middle Ages (1095-1300 CE) in which the <b>Christians of Europe</b> tried to regain control of <b>Jerusalem and the Holy Land</b> from the Muslims. They were military expeditions initiated by the <b>medieval papacy</b>. The issues that led to them were: the Christian desire to regain the Holy Land, the advance of the <b>Seljuk Turks</b> in Anatolia, the call of <b>Pope Urban II in 1095 CE</b>, and religious zeal among European Christians.</p>\n<h4>Main Events</h4>\n<ul>\n<li><b>First Crusade (1096-1099 CE):</b> After Pope Urban II's call in 1095 CE, European armies marched east; in <b>1099 CE they captured Jerusalem</b> and set up feudal states (Edessa, Antioch, Tripoli and Jerusalem).</li>\n<li><b>Second Crusade (1147-1149 CE):</b> Fought after the city of <b>Edessa</b> was conquered by the Turks in 1146 CE. <b>Sultan Nur-ud-Din Zangi (1118-1174 CE)</b> is regarded as an important figure of this Crusade, and the Crusaders failed to recover Edessa.</li>\n<li><b>Third Crusade (1189-1192 CE):</b> Salah-ud-Din Ayubi recaptured Jerusalem in <b>1187 CE</b>, so the kings of Europe marched again, but they could not retake Jerusalem and made a <b>treaty with Salah-ud-Din</b>.</li>\n<li><b>Later Crusades:</b> The Fourth Crusade and the <b>Children's Crusade (1212 CE)</b> also failed, and Muslim rule over the Holy Land continued.</li>\n</ul>\n<h4>Result</h4>\n<p>Although the Crusaders failed to hold the Holy Land, the Crusades produced the <b>interest of Europe in trade and commerce</b> with the East, which changed European life in the centuries that followed.</p>",
+     "mcqs": [
+      {
+       "q": "The Crusades were wars in which European Christians tried to regain:",
+       "options": [
+        "Spain and Cordoba",
+        "Constantinople",
+        "Jerusalem and the Holy Land",
+        "Egypt and Cairo"
+       ],
+       "answer": 2,
+       "why": "The Crusades were military expeditions initiated by the medieval papacy to wrest the Holy Lands from Muslim control."
+      },
+      {
+       "q": "The Crusades were initiated by the call of Pope Urban II in:",
+       "options": [
+        "1147 CE",
+        "1187 CE",
+        "1212 CE",
+        "1095 CE"
+       ],
+       "answer": 3,
+       "why": "Pope Urban II initiated the Crusades in 1095 CE; the First Crusade marched in 1096 CE."
+      },
+      {
+       "q": "In the First Crusade, the Crusaders captured Jerusalem in:",
+       "options": [
+        "1095 CE",
+        "1099 CE",
+        "1146 CE",
+        "1187 CE"
+       ],
+       "answer": 1,
+       "why": "In 1099 CE the First Crusade captured Jerusalem and set up feudal states: Edessa, Antioch, Tripoli and Jerusalem."
+      },
+      {
+       "q": "The Second Crusade was fought in:",
+       "options": [
+        "1147 CE",
+        "1095 CE",
+        "1140 CE",
+        "1187 CE"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: the Second Crusade was fought in 1147 CE, after Edessa fell to the Turks in 1146 CE."
+      },
+      {
+       "q": "The Second Crusade was fought after the Turks conquered which city?",
+       "options": [
+        "Jerusalem",
+        "Antioch",
+        "Edessa",
+        "Tripoli"
+       ],
+       "answer": 2,
+       "why": "The Second Crusade (1147-1149 CE) followed the fall of Edessa in 1146 CE, but the Crusaders failed to recover it."
+      },
+      {
+       "q": "An important Muslim figure of the Second Crusade was:",
+       "options": [
+        "Sultan Nur-ud-Din Zangi",
+        "Shah Ismail",
+        "Osman I",
+        "Tughril Beg"
+       ],
+       "answer": 0,
+       "why": "Sultan Nur-ud-Din Zangi (1118-1174 CE) is regarded as an important figure of the Second Crusade."
+      },
+      {
+       "q": "The Third Crusade (1189-1192 CE) ended with:",
+       "options": [
+        "The capture of Jerusalem",
+        "The fall of Edessa",
+        "A Christian victory",
+        "A treaty with Salah-ud-Din Ayubi"
+       ],
+       "answer": 3,
+       "why": "The European kings could not retake Jerusalem in the Third Crusade and made a treaty with Salah-ud-Din."
+      },
+      {
+       "q": "The Children's Crusade took place in:",
+       "options": [
+        "1099 CE",
+        "1212 CE",
+        "1147 CE",
+        "1192 CE"
+       ],
+       "answer": 1,
+       "why": "The Children's Crusade of 1212 CE, like the Fourth Crusade, also failed, and Muslim rule over the Holy Land continued."
+      },
+      {
+       "q": "One advance that helped cause the First Crusade was that of the:",
+       "options": [
+        "Seljuk Turks in Anatolia",
+        "Mongols in China",
+        "Vikings in Europe",
+        "Safavids in Iran"
+       ],
+       "answer": 0,
+       "why": "The Seljuk conquest of Anatolia from the Byzantine Empire became one of the reasons for the First Crusade."
+      },
+      {
+       "q": "A lasting result of the Crusades was Europe's growing interest in:",
+       "options": [
+        "Paper making",
+        "Democracy",
+        "Trade and commerce",
+        "Steam power"
+       ],
+       "answer": 2,
+       "why": "The chapter notes that the Crusades produced the interest of Europe in the field of trade and commerce."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Muslims in South Asia",
+   "lessons": [
+    {
+     "title": "The Delhi Sultanate",
+     "notes_html": "<h4>Before the Sultanate</h4>\n<p><b>Mahmood Ghaznavi (971-1030 CE)</b> was, according to the book, the first independent ruler of the Ghaznavid Dynasty in Ghazna; he was the son of <b>Sabuktigin</b>, the founder of the dynasty, and he <b>invaded India seventeen times between 1000 CE and 1026 CE</b>. His reasons were political (the Hindu Rajas repeatedly combined against Ghazna), religious (he broke the great idol at <b>Somnath in 1025 CE</b>), economic (the immense wealth of Indian temples and cities) and territorial (he annexed Punjab and made Lahore a centre of his empire). <b>Shahab-ud-Din Muhammad Ghori</b>, born in Ghor in present-day Afghanistan, conquered Lahore in 1186-7 CE, ending Ghaznavid rule; after his victory in the <b>Second Battle of Tarain (1192 CE)</b>, Muslim rule was firmly established in northern India.</p>\n<h4>The Mamluk (Slave) Dynasty</h4>\n<p>The word 'Mamluk' means a slave. The <b>Mamluk Dynasty</b> was founded by <b>Qutb-ud-Din Aibak (1150-1210 CE)</b>, who had been a slave of Muhammad Ghori. Aibak founded the <b>Delhi Sultanate in 1206 CE</b>; the Mamluks ruled Delhi from <b>1206 to 1290 CE</b>. The greatest Mamluk ruler was <b>Shams-ud-Din Iltutmish</b>, who stopped the attack of the Mongol Emperor <b>Chengiz Khan</b> on India in <b>1221 CE</b>. Aibak began the <b>Qutb Minar</b> and built masjids, and under the Mamluks Delhi became a great centre of culture.</p>\n<h4>The Khilji, Tughlaq, Sayyid and Lodhi Dynasties</h4>\n<p>The <b>Khilji Dynasty</b>, founded by Jalal-ud-Din Firuz Khilji, ruled Delhi from <b>1290 to 1320 CE</b>. Its most significant ruler was <b>Ala-ud-Din Khilji (1296-1316 CE)</b>, who repeatedly defended India against Mongol invasions, built a strong standing army, controlled market prices so common people could buy necessities cheaply, and extended his rule to the Deccan. The <b>Tughlaq Dynasty</b>, founded by Ghias-ud-Din Tughlaq, ruled from <b>1320 to 1413 CE</b>; then came the <b>Sayyid Dynasty (1414-1451 CE)</b>. The <b>Lodhi Dynasty</b>, founded by Bahlul Khan Lodhi, ruled from <b>1451 to 1526 CE</b>. The last Lodhi ruler, <b>Ibrahim Lodhi</b>, was defeated by Babar in the <b>First Battle of Panipat in 1526 CE</b>, which ended the Delhi Sultanate.</p>",
+     "mcqs": [
+      {
+       "q": "Qutb-ud-Din Aibak founded the Delhi Sultanate in:",
+       "options": [
+        "1204 CE",
+        "1206 CE",
+        "1208 CE",
+        "1210 CE"
+       ],
+       "answer": 1,
+       "why": "This is the book's own MCQ: Qutb-ud-Din Aibak founded the Delhi Sultanate in 1206 CE."
+      },
+      {
+       "q": "Mahmood Ghaznavi invaded India seventeen times between:",
+       "options": [
+        "1000 CE and 1026 CE",
+        "1025 CE and 1040 CE",
+        "1192 CE and 1206 CE",
+        "1000 CE and 1030 CE only once"
+       ],
+       "answer": 0,
+       "why": "Mahmood Ghaznavi invaded India seventeen times between 1000 CE and 1026 CE, including the Somnath expedition of 1025 CE."
+      },
+      {
+       "q": "Mahmood Ghaznavi was the son of:",
+       "options": [
+        "Alp Arslan",
+        "Muhammad Ghori",
+        "Qutb-ud-Din Aibak",
+        "Sabuktigin"
+       ],
+       "answer": 3,
+       "why": "Sabuktigin was the founder of the Ghaznavid Dynasty, and his son Mahmood Ghaznavi was its first independent ruler in Ghazna."
+      },
+      {
+       "q": "Muslim rule was firmly established in northern India after the Second Battle of Tarain in:",
+       "options": [
+        "1186 CE",
+        "1206 CE",
+        "1192 CE",
+        "1025 CE"
+       ],
+       "answer": 2,
+       "why": "Shahab-ud-Din Muhammad Ghori's victory in the Second Battle of Tarain (1192 CE) firmly established Muslim rule in northern India."
+      },
+      {
+       "q": "The Mamluk Dynasty is also called the Slave Dynasty because its founder Aibak had been a:",
+       "options": [
+        "Slave of Mahmood Ghaznavi",
+        "Slave of Muhammad Ghori",
+        "Slave of the Caliph",
+        "Slave of Chengiz Khan"
+       ],
+       "answer": 1,
+       "why": "The word 'Mamluk' means a slave; Aibak had been a slave of Shahab-ud-Din Muhammad Ghori."
+      },
+      {
+       "q": "The greatest Mamluk ruler, who stopped Chengiz Khan's attack in 1221 CE, was:",
+       "options": [
+        "Qutb-ud-Din Aibak",
+        "Ala-ud-Din Khilji",
+        "Ghias-ud-Din Tughlaq",
+        "Shams-ud-Din Iltutmish"
+       ],
+       "answer": 3,
+       "why": "Iltutmish stopped the attack of the Mongol Emperor Chengiz Khan on India in 1221 CE."
+      },
+      {
+       "q": "Ala-ud-Din Khilji protected the common people by:",
+       "options": [
+        "Controlling the prices of goods in the markets",
+        "Abolishing all taxes",
+        "Closing the markets",
+        "Freeing all prisoners"
+       ],
+       "answer": 0,
+       "why": "Ala-ud-Din controlled market prices so that common people could buy necessities cheaply, and he defended India against the Mongols."
+      },
+      {
+       "q": "The Tughlaq Dynasty ruled Delhi from:",
+       "options": [
+        "1290 CE to 1320 CE",
+        "1414 CE to 1451 CE",
+        "1320 CE to 1413 CE",
+        "1451 CE to 1526 CE"
+       ],
+       "answer": 2,
+       "why": "The Tughlaqs ruled 1320-1413 CE, followed by the Sayyids (1414-1451) and the Lodhis (1451-1526)."
+      },
+      {
+       "q": "The last Lodhi ruler, defeated at Panipat in 1526 CE, was:",
+       "options": [
+        "Bahlul Khan Lodhi",
+        "Sikandar Lodhi",
+        "Daulat Khan Lodhi",
+        "Ibrahim Lodhi"
+       ],
+       "answer": 3,
+       "why": "Ibrahim Lodhi was defeated by Babar in the First Battle of Panipat in 1526 CE, ending the Delhi Sultanate."
+      },
+      {
+       "q": "The Qutb Minar was begun by:",
+       "options": [
+        "Iltutmish",
+        "Qutb-ud-Din Aibak",
+        "Ala-ud-Din Khilji",
+        "Sher Shah Suri"
+       ],
+       "answer": 1,
+       "why": "Aibak began the Qutb Minar and built masjids; under the Mamluks Delhi became a great centre of culture."
+      }
+     ]
+    },
+    {
+     "title": "Babar, Humayun and Sher Shah Suri",
+     "notes_html": "<h4>Babar Founds the Mughal Empire</h4>\n<p><b>Zaheer-ud-Din Muhammad Babar (1483-1530 CE)</b> founded the Mughal Empire. The Delhi Sultanate under Ibrahim Lodhi was weak and divided: the Afghan nobles were dissatisfied, and the governor of Punjab, <b>Daulat Khan Lodhi, invited Babar to invade India</b>. Babar defeated and killed Ibrahim Lodhi in the <b>First Battle of Panipat (1526 CE)</b> and defeated Rana Sanga at <b>Khanwa (1527 CE)</b>. His war strategies were: the first effective use of <b>artillery and muskets</b> in the subcontinent; the <b>tulughma</b> tactic, in which cavalry wheeled around the enemy's flanks; <b>carts (araba) chained together</b> as a protective wall for his gunners; a small, well-trained and disciplined army; and careful choice of battlefield. Babar also wrote his famous memories, the <b>Tuzk-e-Babri</b>, and laid out gardens.</p>\n<h4>Humayun and Sher Shah Suri</h4>\n<p>After Babar's death, his son <b>Humayun (1508-1556 CE)</b> became emperor. He lost the empire to <b>Sher Shah Suri</b> after defeats at <b>Chausa (1539 CE)</b> and <b>Kannauj (1540 CE)</b> and took exile in <b>Persia</b>. With Persian help he regained Delhi in <b>1555 CE</b>, restoring Mughal rule, but died in 1556 CE. So Babar's contribution was the <b>founding</b> of the empire, while Humayun's was its <b>restoration</b>.</p>\n<h4>Reforms of Sher Shah Suri</h4>\n<p><b>Sher Shah Suri (1486-1545 CE)</b>, founder of the Suri Dynasty, ruled from 1540 to 1545 CE. His contributions were: (1) <b>Roads</b> — he built a highway from Bengal to Kabul, now called the <b>Grand Trunk Road (GT Road)</b>, with sarais (rest houses) and shade trees. (2) <b>Postal system</b> — a dak system of horse relays. (3) <b>Land revenue</b> — he got the land measured, fixed the state's share of the produce, and issued patta and qabuliyat to farmers. (4) <b>Currency</b> — he issued a standard silver coin, the <b>rupiya</b>. (5) <b>Administration and justice</b> — he divided his empire into sarkars and parganas and was famous for strict and impartial justice. His reforms later became the model for Akbar's administration.</p>",
+     "mcqs": [
+      {
+       "q": "The First Battle of Panipat was fought in:",
+       "options": [
+        "1520 CE",
+        "1522 CE",
+        "1524 CE",
+        "1526 CE"
+       ],
+       "answer": 3,
+       "why": "This is the book's own MCQ: Babar defeated Ibrahim Lodhi in the First Battle of Panipat in 1526 CE."
+      },
+      {
+       "q": "After the death of Babar, the Mughal Emperor was:",
+       "options": [
+        "Akbar the Great",
+        "Shah Jahan",
+        "Humayun",
+        "Jahangir"
+       ],
+       "answer": 2,
+       "why": "This is the book's own MCQ: Babar's son Humayun succeeded him as Mughal Emperor."
+      },
+      {
+       "q": "Babar was invited to invade India by:",
+       "options": [
+        "Daulat Khan Lodhi, the governor of Punjab",
+        "Rana Sanga",
+        "Sher Shah Suri",
+        "Ibrahim Lodhi"
+       ],
+       "answer": 0,
+       "why": "The dissatisfied governor of Punjab, Daulat Khan Lodhi, invited Babar to attack the weak Lodhi Sultanate."
+      },
+      {
+       "q": "The 'tulughma' tactic of Babar was:",
+       "options": [
+        "Chaining carts together",
+        "Cavalry wheeling around the enemy's flanks",
+        "Using artillery in the centre",
+        "Fighting only at night"
+       ],
+       "answer": 1,
+       "why": "In the tulughma tactic, Babar's cavalry units wheeled around the enemy's flanks and attacked from the sides and rear."
+      },
+      {
+       "q": "Babar's famous memories are called:",
+       "options": [
+        "Ain-i-Akbari",
+        "Hujjatullah-il-Baligha",
+        "Kitab-al-Manazir",
+        "Tuzk-e-Babri"
+       ],
+       "answer": 3,
+       "why": "Babar wrote his famous memories, the Tuzk-e-Babri, and laid out gardens in his empire."
+      },
+      {
+       "q": "Humayun lost his empire to Sher Shah Suri after defeats at Chausa (1539 CE) and:",
+       "options": [
+        "Panipat (1526 CE)",
+        "Kannauj (1540 CE)",
+        "Khanwa (1527 CE)",
+        "Tarain (1192 CE)"
+       ],
+       "answer": 1,
+       "why": "Defeated at Chausa in 1539 CE and Kannauj in 1540 CE, Humayun took exile in Persia."
+      },
+      {
+       "q": "Humayun regained Delhi with Persian help in:",
+       "options": [
+        "1545 CE",
+        "1556 CE",
+        "1555 CE",
+        "1540 CE"
+       ],
+       "answer": 2,
+       "why": "With the Shah of Persia's help, Humayun recovered Kabul and regained Delhi in 1555 CE, restoring Mughal rule."
+      },
+      {
+       "q": "Which road was built by Sher Shah Suri?",
+       "options": [
+        "The highway from Bengal to Kabul, now the Grand Trunk Road",
+        "The road from Delhi to Agra only",
+        "The silk road to China",
+        "The coastal road to Sindh"
+       ],
+       "answer": 0,
+       "why": "Sher Shah Suri built a highway from Bengal to Kabul, the same highway now called the Grand Trunk Road (GT Road)."
+      },
+      {
+       "q": "The standard silver coin issued by Sher Shah Suri was called the:",
+       "options": [
+        "Dinar",
+        "Rupiya",
+        "Tanka",
+        "Mohur"
+       ],
+       "answer": 1,
+       "why": "Sher Shah issued a standard silver coin, the rupiya, as part of his famous reforms."
+      },
+      {
+       "q": "Sher Shah divided his empire for administration into:",
+       "options": [
+        "Provinces and diwans",
+        "States and districts of today",
+        "Cantons and guilds",
+        "Sarkars and parganas"
+       ],
+       "answer": 3,
+       "why": "He divided his empire into sarkars and parganas and was famous for strict and impartial justice."
+      }
+     ]
+    },
+    {
+     "title": "The Great Mughals: Akbar to Shah Jahan",
+     "notes_html": "<h4>Akbar and Sulh-i-Kul</h4>\n<p><b>Akbar the Great (1556-1605 CE)</b> made the Mughal Empire great. His famous policy was <b>Sulh-i-Kul</b>, which means <b>'peace with all'</b>. Its main features were: complete <b>religious tolerance</b> — people of all religions (Muslims, Hindus, Christians, Jains and others) were free to follow their faith; <b>equal treatment</b> of all subjects without discrimination of religion; <b>abolition of the jizya tax</b> on non-Muslims; appointment of talented people of every religion to high posts; and respect for the customs and festivals of all communities. Through Sulh-i-Kul, Akbar united his vast and diverse empire and won the loyalty of non-Muslim subjects, especially the <b>Rajputs</b>. His war strategies included a well-organised army under the <b>mansabdari system</b>, use of artillery and strong forts, swift cavalry campaigns, and diplomacy — marriage alliances and friendships with the Rajputs. After Akbar came <b>Jahangir (1605-1627 CE)</b>.</p>\n<h4>Shah Jahan and Mughal Architecture</h4>\n<p>The reign of <b>Shah Jahan (1627-1658 CE)</b> is considered the <b>golden period of Mughal architecture</b>. His famous buildings are: (1) The <b>Taj Mahal</b> at Agra, built on the bank of River Yamuna as the tomb of his beloved wife <b>Mumtaz Mahal</b>; it is made of white marble, is counted among the <b>Seven Wonders of the World</b>, and has an extensive garden around the tomb. (2) The <b>Red Fort and Jamia Masjid in Delhi</b>. (3) The <b>Shalimar Gardens</b> in Lahore. (4) The <b>Sheesh Mahal</b> in the Shahi Fort of Lahore, decorated with small mirror pieces, and the Nolakha Baradari. (5) The <b>Wazir Khan Mosque</b> in Lahore, famous for its mosaic work and Persian influence. His daughter <b>Jahan Ara</b> also built a congregation masjid in Agra.</p>\n<h4>Persian Impact</h4>\n<p>The Mughals introduced a strong <b>Persian impact</b> in the art and culture of the subcontinent: <b>Persian became the court language</b> and influenced Urdu; Humayun brought Persian painters, founding the Mughal school of <b>miniature painting</b>; Persian styles shaped Mughal architecture — domes, arches, tile and mosaic work; Persian-style <b>charbagh gardens</b> like the Shalimar Gardens were laid out; and Persian literature, dress, food and court manners were widely adopted.</p>",
+     "mcqs": [
+      {
+       "q": "Sulh-i-Kul, the policy of Akbar the Great, means:",
+       "options": [
+        "Peace with all",
+        "Rule by force",
+        "One religion for all",
+        "War against all"
+       ],
+       "answer": 0,
+       "why": "Sulh-i-Kul means 'peace with all' — complete religious tolerance and equal treatment of all subjects."
+      },
+      {
+       "q": "Which tax on non-Muslims did Akbar abolish under Sulh-i-Kul?",
+       "options": [
+        "Kharaj",
+        "Jizya",
+        "Zakat",
+        "Customs duty"
+       ],
+       "answer": 1,
+       "why": "Akbar abolished the jizya tax on non-Muslims and appointed talented people of every religion to high posts."
+      },
+      {
+       "q": "Akbar's army was organised under the:",
+       "options": [
+        "Feudal system",
+        "Guild system",
+        "Diwan system",
+        "Mansabdari system"
+       ],
+       "answer": 3,
+       "why": "Akbar's well-organised army worked under the mansabdari system, with fixed ranks, pay and discipline."
+      },
+      {
+       "q": "Through Sulh-i-Kul, Akbar especially won the loyalty of the:",
+       "options": [
+        "Marathas",
+        "Sikhs",
+        "Rajputs",
+        "Afghans"
+       ],
+       "answer": 2,
+       "why": "Sulh-i-Kul won the loyalty of non-Muslim subjects, especially the Rajputs, many of whom became his loyal generals."
+      },
+      {
+       "q": "The 'Seventh Wonder of the World', the Taj Mahal, was built by:",
+       "options": [
+        "Shah Jahan",
+        "Akbar the Great",
+        "Jahangir",
+        "Aurangzeb Alamgir"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: Shah Jahan built the Taj Mahal at Agra as the tomb of Mumtaz Mahal."
+      },
+      {
+       "q": "The Taj Mahal was built as the tomb of:",
+       "options": [
+        "Jahan Ara",
+        "Nur Jahan",
+        "Mumtaz Mahal",
+        "Anarkali"
+       ],
+       "answer": 2,
+       "why": "Shah Jahan built the Taj Mahal on the bank of River Yamuna as the tomb of his beloved wife Mumtaz Mahal."
+      },
+      {
+       "q": "The Sheesh Mahal, decorated with small mirror pieces, is in:",
+       "options": [
+        "The Red Fort of Delhi",
+        "The Shahi Fort of Lahore",
+        "Fatehpur Sikri",
+        "Agra Fort"
+       ],
+       "answer": 1,
+       "why": "The Sheesh Mahal in the Shahi Fort of Lahore is decorated with small mirror pieces — a masterpiece of Shah Jahan's age."
+      },
+      {
+       "q": "The Wazir Khan Mosque in Lahore is famous for its:",
+       "options": [
+        "Mirror work",
+        "White marble",
+        "Wood carving",
+        "Mosaic work and Persian influence"
+       ],
+       "answer": 3,
+       "why": "The Wazir Khan Mosque is famous for its mosaic work and Persian influence, as the chapter describes."
+      },
+      {
+       "q": "Under the Mughals, the court language of the subcontinent was:",
+       "options": [
+        "Arabic",
+        "Turkish",
+        "Persian",
+        "Hindi"
+       ],
+       "answer": 2,
+       "why": "Persian became the court language and influenced Urdu; Persian styles also shaped Mughal art and architecture."
+      },
+      {
+       "q": "Persian-style gardens laid out by the Mughals, like Shalimar, are called:",
+       "options": [
+        "Charbagh",
+        "Baradari",
+        "Sarai",
+        "Mansab"
+       ],
+       "answer": 0,
+       "why": "Persian-style charbagh gardens, like the Shalimar Gardens in Lahore, were laid out by the Mughals."
+      }
+     ]
+    },
+    {
+     "title": "Decline of the Mughals and the War of 1857",
+     "notes_html": "<h4>Aurangzeb and the Beginning of Decline</h4>\n<p>Under <b>Aurangzeb Alamgir (1658-1707 CE)</b> the Mughal Empire reached its <b>largest extent</b>, covering nearly the entire South Asia — the modern-day countries of <b>Pakistan, India and Bangladesh</b>, along with parts of Afghanistan and small parts of Nepal and Myanmar borders. But the factors that led to the crises of the Mughal Dynasty were: Aurangzeb's long <b>Deccan wars</b> against the Marathas, Bijapur and Golconda, which drained the treasury and the army — the book calls his <b>Deccan Policy the beginning of the major downfall</b> of the empire; revolts of the <b>Jats (1669 CE)</b>, Sikhs and Rajputs; <b>weak and incapable successors</b> after 1707 CE; the vast size of the empire; and the rising power of the <b>Marathas</b>, who captured Gujarat and Bundelkhand.</p>\n<h4>The Last Mughal Emperor</h4>\n<p><b>Bahadur Shah Zafar (1775-1862 CE)</b> was the <b>twentieth and last Mughal Emperor</b>. He was a nominal emperor with no real power, as the British East India Company actually ruled India. He was a famous poet and patronised great poets like <b>Mirza Ghalib, Ibrahim Zauq, Momin Khan Momin and Mustafa Khan Shefta</b>. When the War of Independence broke out in 1857 CE, the people chose him as their emperor, but he was incapable of running the state affairs. The British sent him to <b>Rangoon as a prisoner in 1858 CE</b>; he died there in 1862 CE. With him, the Mughal Empire (1526-1857 CE) came to an end.</p>\n<h4>Why the War of 1857 Failed</h4>\n<p>The people could not succeed in the War of Independence 1857 CE because: (1) there was <b>no united and capable central leadership</b>; (2) the war was fought in separate regions without a common plan; (3) the British had <b>better weapons, organisation, communication and resources</b>; (4) many local rulers and groups did not join the war or supported the British; and (5) the freedom fighters lacked money and supplies. The war concluded in November 1858 CE.</p>\n<h4>Challenges Faced by the Muslims After 1857</h4>\n<p>After 1857 CE the Muslims faced severe challenges: (1) <b>loss of political power</b>, as the Mughal Empire ended and the British blamed the Muslims for the war; (2) <b>ruin of their economic bases</b> — the Muslims became landless and many lost their employment; (3) <b>threat to the annihilation of Islamic culture</b>; and (4) the <b>Government of India Act 1858</b>, under which the rule of the East India Company was abolished and India came directly under the British government, which adopted a policy of uneven treatment against the Muslims.</p>",
+     "mcqs": [
+      {
+       "q": "The Mughal Empire reached its largest extent under:",
+       "options": [
+        "Akbar the Great",
+        "Shah Jahan",
+        "Aurangzeb Alamgir",
+        "Bahadur Shah Zafar"
+       ],
+       "answer": 2,
+       "why": "Under Aurangzeb (1658-1707 CE) the empire covered nearly the entire South Asia — Pakistan, India, Bangladesh and parts of Afghanistan."
+      },
+      {
+       "q": "The book calls which policy of Aurangzeb the beginning of the major downfall of the Mughal Empire?",
+       "options": [
+        "His Deccan Policy",
+        "His religious policy",
+        "His trade policy",
+        "His land policy"
+       ],
+       "answer": 0,
+       "why": "Aurangzeb's long Deccan wars against the Marathas, Bijapur and Golconda drained the treasury and the army."
+      },
+      {
+       "q": "The revolt of the Jats against Aurangzeb took place in:",
+       "options": [
+        "1658 CE",
+        "1707 CE",
+        "1526 CE",
+        "1669 CE"
+       ],
+       "answer": 3,
+       "why": "The chapter lists the revolts of the Jats (1669 CE), Sikhs and Rajputs among the factors of the Mughal crises."
+      },
+      {
+       "q": "The first ruler of the Mughal Empire was Babar and the last ruler was:",
+       "options": [
+        "Aurangzeb Alamgir",
+        "Bahadur Shah Zafar",
+        "Humayun",
+        "Shah Alam"
+       ],
+       "answer": 1,
+       "why": "Bahadur Shah Zafar (1775-1862 CE) was the twentieth and last Mughal Emperor; Babar was the first (1526 CE)."
+      },
+      {
+       "q": "Bahadur Shah Zafar was exiled by the British to:",
+       "options": [
+        "Delhi",
+        "Kabul",
+        "Rangoon",
+        "London"
+       ],
+       "answer": 2,
+       "why": "The British sent Bahadur Shah Zafar to Rangoon as a prisoner in 1858 CE; he died there in 1862 CE and is buried there."
+      },
+      {
+       "q": "Bahadur Shah Zafar patronised famous poets such as:",
+       "options": [
+        "Shah Waliullah and Haji Shariatullah",
+        "Mirza Ghalib and Ibrahim Zauq",
+        "Dante and Chaucer",
+        "Ibn-al-Haytham and Al-Kindi"
+       ],
+       "answer": 1,
+       "why": "Zafar was himself a famous poet and patronised Mirza Ghalib, Ibrahim Zauq, Momin Khan Momin and Mustafa Khan Shefta."
+      },
+      {
+       "q": "One reason the War of Independence 1857 failed was:",
+       "options": [
+        "There was no united and capable central leadership",
+        "The Mughals had better weapons",
+        "All local rulers joined the war",
+        "The British had no army"
+       ],
+       "answer": 0,
+       "why": "The war failed because of no united leadership, no common plan, better British weapons and resources, and lack of money and supplies."
+      },
+      {
+       "q": "The War of Independence concluded in:",
+       "options": [
+        "May 1857 CE",
+        "January 1858 CE",
+        "December 1862 CE",
+        "November 1858 CE"
+       ],
+       "answer": 3,
+       "why": "The war concluded in November 1858 CE; the Company's rule was abolished and India came directly under the British government."
+      },
+      {
+       "q": "The Government of India Act was passed in:",
+       "options": [
+        "1857 CE",
+        "1858 CE",
+        "1862 CE",
+        "1909 CE"
+       ],
+       "answer": 1,
+       "why": "Under the Government of India Act 1858, the rule of the East India Company was abolished."
+      },
+      {
+       "q": "After 1857, one major challenge faced by the Muslims was:",
+       "options": [
+        "Loss of the Urdu language",
+        "End of all schools",
+        "Ruin of their economic bases",
+        "Ban on trade"
+       ],
+       "answer": 2,
+       "why": "The Muslims became landless and many lost their employment — the ruin of their economic bases, besides loss of political power."
+      }
+     ]
+    },
+    {
+     "title": "Reform Movements: Shah Waliullah and the Faraizi Movement",
+     "notes_html": "<h4>Why Muslim Rule Lasted for Centuries</h4>\n<p>Muslim rule in the subcontinent lasted for centuries (1206-1857 CE) because of: strong and organised administration set up by the Sultans and improved by Sher Shah Suri and Akbar; a sound land-revenue system; religious tolerance and policies like Akbar's Sulh-i-Kul, which won the support of non-Muslim subjects; powerful armies that defended the country against the Mongols; justice and welfare works such as roads, sarais and canals; and flourishing art, culture and trade.</p>\n<h4>Shah Waliullah Dehlavi (RA)</h4>\n<p><b>Shah Waliullah Dehlavi (1703-1762 CE)</b> started his reform movement when despair was widespread amongst the Muslims because of anarchy and conspiracies, with Sikhs and Marathas as enemies of the Muslims. He identified that the Muslims had fallen because of <b>political disunity and weakness, moral and social evils</b>, and <b>distance from the teachings of the Quran</b>. As a remedy, he <b>translated the Holy Quran into Persian</b> so that Muslims could understand it, wrote <b>51 books</b> in Persian and Arabic — the most famous being <b>Hujjatullah-il-Baligha</b> — tried to eradicate social evils, and persuaded <b>Ahmad Shah Abdali</b> to attack India to save the Muslims from the Marathas.</p>\n<h4>The Faraizi Movement</h4>\n<p>The <b>Faraizi Movement</b> was founded by <b>Haji Shariatullah (1781-1840 CE)</b> and was the most effective and popular movement of the Muslims in <b>Bengal</b>. Its purpose was to encourage the Muslims to follow the basic obligations of faith (<b>faraiz</b>) and to eliminate heresies. It supported the <b>farmers against the suppressive behaviour of Hindu landlords</b> and paid attention to the problems of the cultivators. After Haji Shariatullah, his son <b>Dudhu Mian (Muhammad Hassan)</b> continued the movement with the same objective. The movement empowered the Muslims to raise their voice against exploitation by Hindu landlords.</p>",
+     "mcqs": [
+      {
+       "q": "Faraizi Movement was a popular movement of the Muslims in:",
+       "options": [
+        "Kashmir",
+        "Bengal",
+        "Punjab",
+        "Sindh"
+       ],
+       "answer": 1,
+       "why": "This is the book's own MCQ: the Faraizi Movement was a popular movement of the Muslims in Bengal."
+      },
+      {
+       "q": "The Faraizi Movement was founded by:",
+       "options": [
+        "Shah Waliullah",
+        "Dudhu Mian",
+        "Ahmad Shah Abdali",
+        "Haji Shariatullah"
+       ],
+       "answer": 3,
+       "why": "Haji Shariatullah (1781-1840 CE) founded the Faraizi Movement in Bengal; his son Dudhu Mian continued it."
+      },
+      {
+       "q": "The word 'Faraizi' in the movement's name refers to:",
+       "options": [
+        "The basic obligations of faith (faraiz)",
+        "The farmers of Bengal",
+        "Friday prayers only",
+        "A place in Bengal"
+       ],
+       "answer": 0,
+       "why": "The movement encouraged Muslims to follow the basic obligations of faith (faraiz) and to eliminate heresies."
+      },
+      {
+       "q": "After Haji Shariatullah, the Faraizi Movement was continued by his son:",
+       "options": [
+        "Muhammad Bin Qasim",
+        "Ibrahim Zauq",
+        "Dudhu Mian",
+        "Shah Ismail"
+       ],
+       "answer": 2,
+       "why": "Dudhu Mian (Muhammad Hassan), the son of Haji Shariatullah, continued the movement with the same objective."
+      },
+      {
+       "q": "The Faraizi Movement supported the farmers against:",
+       "options": [
+        "The Mughal Emperor",
+        "Hindu landlords",
+        "British soldiers",
+        "Muslim nobles"
+       ],
+       "answer": 1,
+       "why": "It supported the farmers against the suppressive behaviour of Hindu landlords and raised the problems of the cultivators."
+      },
+      {
+       "q": "Shah Waliullah Dehlavi translated the Holy Quran into:",
+       "options": [
+        "Urdu",
+        "Arabic",
+        "Persian",
+        "Turkish"
+       ],
+       "answer": 2,
+       "why": "He translated the Holy Quran into Persian so that Muslims could understand it, and wrote 51 books in Persian and Arabic."
+      },
+      {
+       "q": "The most famous book of Shah Waliullah is:",
+       "options": [
+        "Tuzk-e-Babri",
+        "Kitab-al-Manazir",
+        "Golden Legend",
+        "Hujjatullah-il-Baligha"
+       ],
+       "answer": 3,
+       "why": "Of his 51 books in Persian and Arabic, Hujjatullah-il-Baligha is the most famous."
+      },
+      {
+       "q": "According to Shah Waliullah, one cause of the Muslims' decline was:",
+       "options": [
+        "Distance from the teachings of the Quran",
+        "Lack of trade",
+        "Foreign languages",
+        "Weak forts"
+       ],
+       "answer": 0,
+       "why": "He identified political disunity, moral and social evils, and distance from the teachings of the Quran as causes of decline."
+      },
+      {
+       "q": "Shah Waliullah persuaded which ruler to attack India to save the Muslims from the Marathas?",
+       "options": [
+        "Mahmood Ghaznavi",
+        "Babar",
+        "Ahmad Shah Abdali",
+        "Nadir Shah"
+       ],
+       "answer": 2,
+       "why": "He persuaded Ahmad Shah Abdali to attack India to save the Muslims from the Marathas."
+      },
+      {
+       "q": "Muslim rule in the subcontinent lasted for centuries partly because of policies like Akbar's:",
+       "options": [
+        "Heavy taxation",
+        "Sulh-i-Kul, which won the support of non-Muslim subjects",
+        "Forced conversion",
+        "Isolation of the empire"
+       ],
+       "answer": 1,
+       "why": "Religious tolerance and Sulh-i-Kul won the support of non-Muslim subjects, along with strong administration and a sound land-revenue system."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Modern Period in Europe",
+   "lessons": [
+    {
+     "title": "The Renaissance",
+     "notes_html": "<h4>What Was the Renaissance?</h4>\n<p>The word <b>'Renaissance' means 'rebirth' or 'revival'</b>. It was a cultural and socio-political movement of the <b>15th and 16th centuries CE</b> in Europe in which the learning, art and ideas of <b>classical antiquity (ancient Greece and Rome)</b> were rediscovered and revived. It <b>started in Italy</b> and then spread to all parts of Europe. The <b>first and foremost factor</b> of the Renaissance was the <b>decline of feudalism</b>.</p>\n<h4>Why Did It Begin in Italy?</h4>\n<p>Two main factors fostered the Renaissance in Italy: (1) <b>The fall of Constantinople</b> — the main cause — after which Greek scholars fled to Italy bringing classical texts and ideas of ancient Greece and Rome. (2) <b>The wealth of Italian trade and the patronage of progressive rulers, popes and nobles</b> — Italy's rich trading cities paid artists and scholars like Leonardo da Vinci, Michelangelo and Raphael to work, so art and learning flourished there first. Other supporting factors were the decline of feudalism, the impacts of the Crusades, geographical voyages and the invention of the printing machine.</p>\n<h4>Great People of the Renaissance</h4>\n<ul>\n<li><b>Leonardo da Vinci (1452-1519 CE)</b> — Italian artist, scientist and inventor, a true 'Renaissance man'; he painted the <b>Mona Lisa</b> and <b>The Last Supper</b>.</li>\n<li><b>Michelangelo (1475-1564 CE)</b> — sculptor, painter, architect and poet; famous for the statue of <b>David</b>, the Pieta, The Last Judgment and the ceiling of the <b>Sistine Chapel</b>.</li>\n<li><b>Raphael (1483-1520 CE)</b> — painter and architect famous for harmonious composition and vibrant colouring; his famous work is <b>The School of Athens</b>.</li>\n<li><b>William Shakespeare (1564-1616 CE)</b> — the greatest writer in the English language and the world's greatest dramatist; famous plays include Romeo and Juliet, Hamlet, Othello, King Lear and Macbeth.</li>\n<li><b>Saint Thomas More (1478-1535 CE)</b> — English writer, lawyer and statesman, a great humanist who wrote <b>Utopia</b>.</li>\n<li><b>Sandro Botticelli (1445-1510 CE)</b> — Italian Renaissance painter of Florence, famous for The Birth of Venus and Primavera.</li>\n</ul>\n<h4>How the Renaissance Changed Thought</h4>\n<p>The Renaissance revolutionised European art and thought by reviving classical art and ideas. In art, painters and sculptors made <b>realistic, human-centred works</b> using harmony, proportion and vibrant colour. In thought, <b>humanism</b> placed man and reason at the centre; Shakespeare's plays centre on human character, emotions and individual choices — for example Hamlet's inner conflict, Othello's jealousy and Macbeth's ambition — and he used classical Greek and Roman stories and history. Scientists like <b>Copernicus and Galileo</b> questioned old beliefs with observation, laying the foundation of modern science. Thus Europe moved from blind faith towards <b>reason, inquiry and creativity</b>.</p>",
+     "mcqs": [
+      {
+       "q": "The word 'Renaissance' means:",
+       "options": [
+        "Decline",
+        "Revolution",
+        "Discovery",
+        "Rebirth or revival"
+       ],
+       "answer": 3,
+       "why": "The Renaissance means 'rebirth' or 'revival' — the rediscovery of the learning and art of ancient Greece and Rome."
+      },
+      {
+       "q": "The Renaissance was a movement of which centuries?",
+       "options": [
+        "13th and 14th centuries CE",
+        "15th and 16th centuries CE",
+        "17th and 18th centuries CE",
+        "10th and 11th centuries CE"
+       ],
+       "answer": 1,
+       "why": "The Renaissance was a cultural and socio-political movement of the 15th and 16th centuries CE, started in Italy."
+      },
+      {
+       "q": "The first and foremost factor of the Renaissance was the decline of:",
+       "options": [
+        "Communism",
+        "Imperialism",
+        "Feudalism",
+        "Capitalism"
+       ],
+       "answer": 2,
+       "why": "This is the book's own MCQ: the first and foremost factor of the Renaissance was the decline of feudalism."
+      },
+      {
+       "q": "The main cause that brought Greek scholars to Italy was:",
+       "options": [
+        "The fall of Constantinople",
+        "The French Revolution",
+        "The Crusades ending",
+        "The Black Death"
+       ],
+       "answer": 0,
+       "why": "After the fall of Constantinople, Greek scholars fled to Italy bringing classical texts and ideas of Greece and Rome."
+      },
+      {
+       "q": "Leonardo Da Vinci was an Italian:",
+       "options": [
+        "King",
+        "Explorer",
+        "Cartographer",
+        "Artist"
+       ],
+       "answer": 3,
+       "why": "This is the book's own MCQ: Leonardo da Vinci was an Italian artist (also a scientist and inventor) who painted the Mona Lisa."
+      },
+      {
+       "q": "The Mona Lisa and The Last Supper were painted by:",
+       "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Botticelli"
+       ],
+       "answer": 0,
+       "why": "Leonardo da Vinci (1452-1519 CE), the true 'Renaissance man', painted the Mona Lisa and The Last Supper."
+      },
+      {
+       "q": "Michelangelo is famous for the statue of:",
+       "options": [
+        "The School of Athens",
+        "David",
+        "The Birth of Venus",
+        "Utopia"
+       ],
+       "answer": 1,
+       "why": "Michelangelo sculpted David and the Pieta, and painted the ceiling of the Sistine Chapel; The School of Athens is by Raphael."
+      },
+      {
+       "q": "'The School of Athens' is the famous work of:",
+       "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Shakespeare"
+       ],
+       "answer": 2,
+       "why": "Raphael (1483-1520 CE) is famous for harmonious composition and vibrant colouring; The School of Athens is his famous work."
+      },
+      {
+       "q": "Saint Thomas More, the great humanist, wrote:",
+       "options": [
+        "Utopia",
+        "Hamlet",
+        "The Divine Comedy",
+        "Primavera"
+       ],
+       "answer": 0,
+       "why": "Saint Thomas More (1478-1535 CE), English writer, lawyer and statesman, wrote Utopia."
+      },
+      {
+       "q": "Shakespeare's plays show Renaissance humanism because they centre on:",
+       "options": [
+        "Only religious themes",
+        "Kings and battles only",
+        "Classical gods",
+        "Human character, emotions and individual choices"
+       ],
+       "answer": 3,
+       "why": "Hamlet's inner conflict, Othello's jealousy and Macbeth's ambition show the Renaissance spirit of studying man himself."
+      }
+     ]
+    },
+    {
+     "title": "Exploration, Reformation and the Road to the Modern Age",
+     "notes_html": "<h4>The Age of Exploration</h4>\n<p>The <b>Age of Exploration</b>, also called the Age of Discovery, began in the <b>14th century CE</b> and continued through the 16th century CE. The <b>Mariner's Compass</b> gave a great impetus to navigation, and European sailors searched for new sea routes to India and the Far East and discovered the Americas. Famous explorers were: <b>Christopher Columbus</b> (1451-1506 CE), an Italian explorer who made four voyages (1492-1504 CE) and <b>discovered America in 1492 CE</b>; <b>Vasco Da Gama</b> (1460-1524 CE), a Portuguese explorer who set sail from Lisbon in 1497 CE and became the <b>first European to reach India by sea</b> through the Cape Route; <b>John Cabot</b> (1450-1499 CE), who reached North America (Canada) in 1497 CE; <b>Pedro Alvares Cabral</b> (1467-1520 CE), the first European to reach the Brazilian coast in 1500 CE; and <b>James Cook</b> (1728-1779 CE), the British captain who explored New Zealand and Australia. The Age of Exploration led to European <b>colonialism</b> in Asia, Africa and America.</p>\n<h4>The Reformation</h4>\n<p>The <b>Reformation (1517 CE)</b> was begun by <b>Martin Luther (1483-1546 CE)</b>, a German reformer, at <b>Wittenberg</b>. His movement split the Latin Christian church and reshaped religious and political institutions in Europe.</p>\n<h4>The Enlightenment</h4>\n<p>The <b>Enlightenment Movement</b> started in the <b>17th century CE</b> and continued through the 18th century CE. It was an intellectual and cultural movement whose thinkers — such as <b>Hobbes, Locke and Rousseau</b> — emphasised <b>reason over blind faith and superstition</b>, so the 1700s are also called the <b>Age of Reason</b>. In science, <b>Sir Isaac Newton (1643-1727 CE)</b> reshaped natural philosophy with his work on gravity and the laws of motion.</p>\n<h4>The French Revolution</h4>\n<p>The <b>French Revolution began in 1789 CE</b>. It ended the monarchy in France and established <b>democracy, liberty and equality</b>. Together with the Renaissance, the decline of feudalism and of the Church's influence, the printing machine, exploration and trade, the Reformation, the Scientific Revolution and the Enlightenment, it shaped the Modern Era. The German philosopher <b>Karl Marx</b> also belongs to this modern age of new ideas.</p>",
+     "mcqs": [
+      {
+       "q": "The first European to reach India by sea through the Cape Route was:",
+       "options": [
+        "Vasco Da Gama",
+        "Christopher Columbus",
+        "John Cabot",
+        "James Cook"
+       ],
+       "answer": 0,
+       "why": "Vasco Da Gama set sail from Lisbon in 1497 CE and became the first European to reach India by sea."
+      },
+      {
+       "q": "Christopher Columbus discovered America in:",
+       "options": [
+        "1497 CE",
+        "1500 CE",
+        "1492 CE",
+        "1453 CE"
+       ],
+       "answer": 2,
+       "why": "Columbus, an Italian explorer, made four voyages (1492-1504 CE) and discovered America in 1492 CE."
+      },
+      {
+       "q": "John Cabot reached North America (Canada) in:",
+       "options": [
+        "1492 CE",
+        "1497 CE",
+        "1500 CE",
+        "1520 CE"
+       ],
+       "answer": 1,
+       "why": "John Cabot reached North America (Canada) in 1497 CE under Henry VII of England."
+      },
+      {
+       "q": "The first European to reach the Brazilian coast in 1500 CE was:",
+       "options": [
+        "Vasco Da Gama",
+        "James Cook",
+        "Columbus",
+        "Pedro Alvares Cabral"
+       ],
+       "answer": 3,
+       "why": "Pedro Alvares Cabral (1467-1520 CE) was the first European to reach the Brazilian coast in 1500 CE."
+      },
+      {
+       "q": "Which instrument gave a great impetus to navigation in the Age of Exploration?",
+       "options": [
+        "The Mariner's Compass",
+        "The telescope",
+        "The steam engine",
+        "The printing press"
+       ],
+       "answer": 0,
+       "why": "The Mariner's Compass helped sailors find new sea routes to India, the Far East and the Americas."
+      },
+      {
+       "q": "The Reformation was begun in 1517 CE by:",
+       "options": [
+        "Isaac Newton",
+        "John Locke",
+        "Karl Marx",
+        "Martin Luther"
+       ],
+       "answer": 3,
+       "why": "Martin Luther, a German reformer, began the Reformation at Wittenberg in 1517 CE, splitting the Latin Christian church."
+      },
+      {
+       "q": "The Enlightenment emphasised reason over blind faith, so the 1700s are called the:",
+       "options": [
+        "Dark Ages",
+        "Age of Faith",
+        "Age of Reason",
+        "Age of Steam"
+       ],
+       "answer": 2,
+       "why": "Enlightenment thinkers like Hobbes, Locke and Rousseau emphasised reason, so the 1700s are called the Age of Reason."
+      },
+      {
+       "q": "Sir Isaac Newton is famous for his work on:",
+       "options": [
+        "The telescope and the Moon",
+        "Gravity and the laws of motion",
+        "The steam engine",
+        "The printing press"
+       ],
+       "answer": 1,
+       "why": "Newton (1643-1727 CE) reshaped natural philosophy with his work on gravity and the laws of motion."
+      },
+      {
+       "q": "The French Revolution began in:",
+       "options": [
+        "1769 CE",
+        "1779 CE",
+        "1799 CE",
+        "1789 CE"
+       ],
+       "answer": 3,
+       "why": "This is the book's own MCQ: the French Revolution began in 1789 CE and established democracy, liberty and equality."
+      },
+      {
+       "q": "Karl Marx, a philosopher, belongs to:",
+       "options": [
+        "Germany",
+        "France",
+        "Italy",
+        "Scotland"
+       ],
+       "answer": 0,
+       "why": "This is the book's own MCQ: Karl Marx was a German philosopher of the modern age."
+      }
+     ]
+    },
+    {
+     "title": "Galileo and the Scientific Revolution",
+     "notes_html": "<h4>Galileo Galilei</h4>\n<p><b>Galileo Galilei (1564-1642 CE)</b> was an Italian philosopher, astronomer and mathematician. He <b>pioneered the use of the telescope in astronomy</b> and supported the view that the <b>planets revolve around the Sun</b>. He discovered <b>craters and mountains on the Moon</b>, and he is known as the <b>father of observational astronomy</b>. Along with <b>Nicolaus Copernicus</b>, he brought a revolution in science during the Renaissance.</p>\n<h4>A New Way of Knowing</h4>\n<p>The Renaissance scientists questioned old beliefs with <b>observation</b> rather than blind faith. Copernicus and Galileo revolutionised astronomy; later, <b>Newton's</b> work on gravity and the laws of motion reshaped natural philosophy, and the <b>Scientific Revolution</b> fed into the Enlightenment — the Age of Reason — in which thinkers like Hobbes, Locke and Rousseau emphasised reason over superstition. This change in thinking is one of the main changes that shaped the Modern Era, along with the Renaissance, the printing machine, the Age of Exploration, the Reformation, the French Revolution and the Industrial Revolution.</p>\n<h4>Timeline of the Modern Period</h4>\n<ul>\n<li><b>1453 CE</b> — fall of Constantinople, a main cause of the Renaissance.</li>\n<li><b>1492 CE</b> — Columbus discovered America.</li>\n<li><b>1517 CE</b> — Martin Luther began the Reformation at Wittenberg, Germany.</li>\n<li><b>1698 CE</b> — Thomas Savery invented the first steam engine.</li>\n<li><b>1760-1860 CE</b> — the Industrial Revolution (began in Great Britain).</li>\n<li><b>1776 CE</b> — Watt Steam Engine.</li>\n<li><b>1789 CE</b> — the French Revolution began.</li>\n<li><b>1807 CE</b> — Fulton's first successful commercial steamboat.</li>\n</ul>\n<p>The Modern Period thus runs from the Renaissance (15th century CE) to the Industrial Revolution (19th century CE). Its important personalities include Leonardo da Vinci, Michelangelo, Shakespeare, Galileo, Newton, Rousseau, Adam Smith and Karl Marx.</p>",
+     "mcqs": [
+      {
+       "q": "Galileo Galilei is known as the father of:",
+       "options": [
+        "Modern chemistry",
+        "Modern medicine",
+        "Observational astronomy",
+        "The steam engine"
+       ],
+       "answer": 2,
+       "why": "Galileo pioneered the use of the telescope in astronomy and is known as the father of observational astronomy."
+      },
+      {
+       "q": "Galileo discovered which features on the Moon?",
+       "options": [
+        "Rivers and seas",
+        "Forests and cities",
+        "Ice caps",
+        "Craters and mountains"
+       ],
+       "answer": 3,
+       "why": "With his telescope Galileo discovered craters and mountains on the Moon."
+      },
+      {
+       "q": "Galileo supported the view that:",
+       "options": [
+        "The Sun revolves around the Earth",
+        "The planets revolve around the Sun",
+        "The Moon gives its own light",
+        "The Earth is flat"
+       ],
+       "answer": 1,
+       "why": "Galileo supported the view that the planets revolve around the Sun, along with Nicolaus Copernicus."
+      },
+      {
+       "q": "Along with Galileo, who brought a revolution in science during the Renaissance?",
+       "options": [
+        "Nicolaus Copernicus",
+        "Martin Luther",
+        "Thomas More",
+        "Vasco Da Gama"
+       ],
+       "answer": 0,
+       "why": "Along with Nicolaus Copernicus, Galileo brought a revolution in science during the Renaissance."
+      },
+      {
+       "q": "The Renaissance scientists questioned old beliefs mainly through:",
+       "options": [
+        "Blind faith",
+        "Old books only",
+        "Observation",
+        "Royal orders"
+       ],
+       "answer": 2,
+       "why": "Copernicus and Galileo questioned old beliefs with observation, laying the foundation of modern science."
+      },
+      {
+       "q": "According to the book's timeline, the Reformation began in:",
+       "options": [
+        "1517 CE",
+        "1453 CE",
+        "1492 CE",
+        "1698 CE"
+       ],
+       "answer": 0,
+       "why": "The timeline of the Modern Period places Martin Luther's Reformation at Wittenberg in 1517 CE."
+      },
+      {
+       "q": "The fall of Constantinople, a main cause of the Renaissance, happened in:",
+       "options": [
+        "1492 CE",
+        "1517 CE",
+        "1440 CE",
+        "1453 CE"
+       ],
+       "answer": 3,
+       "why": "The Modern Period timeline begins with the fall of Constantinople in 1453 CE."
+      },
+      {
+       "q": "Which of these personalities belongs to the Modern Period in Europe?",
+       "options": [
+        "Charlemagne",
+        "Adam Smith",
+        "Salah-ud-Din Ayubi",
+        "Mahmood Ghaznavi"
+       ],
+       "answer": 1,
+       "why": "The book's summary lists Leonardo da Vinci, Michelangelo, Shakespeare, Galileo, Newton, Rousseau, Adam Smith and Karl Marx for the Modern Period."
+      },
+      {
+       "q": "The Modern Period in Europe runs from the Renaissance to:",
+       "options": [
+        "The Industrial Revolution",
+        "The Crusades",
+        "The Middle Ages",
+        "The fall of Rome"
+       ],
+       "answer": 0,
+       "why": "The Modern Period runs from the Renaissance (15th century CE) to the Industrial Revolution (19th century CE)."
+      },
+      {
+       "q": "The Scientific Revolution fed into which movement of the 17th-18th centuries?",
+       "options": [
+        "The Reformation",
+        "The Crusades",
+        "The Enlightenment",
+        "Feudalism"
+       ],
+       "answer": 2,
+       "why": "The Scientific Revolution and the Enlightenment put reason above blind faith; the Enlightenment is also called the Age of Reason."
+      }
+     ]
+    },
+    {
+     "title": "The Industrial Revolution",
+     "notes_html": "<h4>What Was the Industrial Revolution?</h4>\n<p>The <b>Industrial Revolution (about 1760-1860 CE)</b> began in <b>Great Britain</b> in the late 18th century CE and changed production, transport and society through <b>machines and steam power</b>. Goods began to be produced quickly and cheaply by machines in factories instead of by hand at home.</p>\n<h4>Reasons Behind It</h4>\n<p>The factors behind the Industrial Revolution, as given in the chapter, were: (1) <b>Capitalism</b> — private owners had capital to invest in factories and machines. (2) <b>European Imperialism</b> — colonies supplied raw material and markets. (3) <b>Mining of resources</b> — coal and iron were available in large quantities. (4) <b>The Steam Power Engine</b> — a reliable source of power for factories, mines and transport. (5) <b>The Agricultural Revolution</b> — better farming produced more food and freed labour for factories. (6) <b>The Scientific Revolution</b> — new knowledge and inventions were applied to industry. (7) <b>Governmental Policies</b> — governments supported trade, industry and inventions.</p>\n<h4>Benefits</h4>\n<p>The benefits of the Industrial Revolution were: it <b>developed the economy</b> of the countries where it spread (England, Belgium, Germany, northern France, the USA and Japan); machines emerged and production increased greatly; <b>mechanisation of agriculture</b> improved farming and increased food production; communication and transportation improved dramatically through <b>railways and steamboats</b>; it <b>increased employment opportunities</b>, and factory wages were higher than farmers' earnings; populations migrated to urban areas and improvements were made in city planning; and new inventions such as the <b>sewing machine, telegraph, light bulb and anaesthesia</b> made life easier.</p>\n<h4>Disadvantages and Impact on the Subcontinent</h4>\n<p>There were also disadvantages: populations migrated in large numbers to urban areas, <b>crowding the cities</b>; <b>hand-workers and cottage craftsmen lost their livelihoods</b> because of mechanisation; factory work was long and hard; and coal-based industry polluted the growing industrial towns. In the <b>subcontinent</b>, which became a British colony, local <b>handloom and cottage industries declined</b> because they could not compete with cheap machine-made cloth; the subcontinent supplied raw material like cotton to British factories and became a market for British goods; new means of transport and communication — railways, steamboats and the telegraph — were introduced; and the economy became dependent on the colonial power.</p>\n<h4>How Colonialism Grew</h4>\n<p>First, in the Age of Exploration, European explorers found new sea routes. Then European nations — English, Dutch, French, Spanish and Portuguese — set up trading settlements and companies in Asia and Africa. As the Industrial Revolution created a hunger for <b>raw material</b> for factories and for <b>markets</b> to sell machine-made goods, trade turned into rule: these countries conquered, settled and governed huge parts of Asia and Africa as <b>colonies</b>, so raw material flowed to Europe and finished goods flowed back.</p>",
+     "mcqs": [
+      {
+       "q": "The Industrial Revolution began in:",
+       "options": [
+        "France",
+        "Great Britain",
+        "Germany",
+        "The USA"
+       ],
+       "answer": 1,
+       "why": "The Industrial Revolution (about 1760-1860 CE) began in Great Britain in the late 18th century CE."
+      },
+      {
+       "q": "One factor behind the Industrial Revolution was capitalism, meaning:",
+       "options": [
+        "Private owners had capital to invest in factories and machines",
+        "The state owned all factories",
+        "Workers owned the machines",
+        "Trade was banned"
+       ],
+       "answer": 0,
+       "why": "Capitalism supplied the capital that private owners invested in factories and machines."
+      },
+      {
+       "q": "Coal and iron helped the Industrial Revolution because they were:",
+       "options": [
+        "Imported from colonies only",
+        "Very cheap in India",
+        "Used only for jewellery",
+        "Available in large quantities through mining"
+       ],
+       "answer": 3,
+       "why": "Mining of resources — coal and iron in large quantities — was one of the chapter's listed factors."
+      },
+      {
+       "q": "The Agricultural Revolution helped industry by:",
+       "options": [
+        "Closing all farms",
+        "Raising food prices",
+        "Producing more food and freeing labour for factories",
+        "Ending trade"
+       ],
+       "answer": 2,
+       "why": "Better farming produced more food and freed labour for factories — one of the reasons behind the Industrial Revolution."
+      },
+      {
+       "q": "One advantage of the Industrial Revolution was that factory wages were:",
+       "options": [
+        "Lower than farmers' earnings",
+        "Higher than farmers' earnings",
+        "Paid in cloth",
+        "Abolished"
+       ],
+       "answer": 1,
+       "why": "It increased employment opportunities, and factory wages were higher than farmers' earnings."
+      },
+      {
+       "q": "Communication and transportation improved dramatically through:",
+       "options": [
+        "Horses and carts",
+        "Sailing ships only",
+        "Foot messengers",
+        "Railways and steamboats"
+       ],
+       "answer": 3,
+       "why": "Steam locomotives and steamboats improved communication and transportation dramatically during the Industrial Revolution."
+      },
+      {
+       "q": "A disadvantage of the Industrial Revolution was that:",
+       "options": [
+        "Hand-workers and cottage craftsmen lost their livelihoods",
+        "Machines stopped working",
+        "Cities became empty",
+        "Trade decreased"
+       ],
+       "answer": 0,
+       "why": "Mechanisation of manufacturing made hand-workers and cottage craftsmen lose their livelihoods, and cities became crowded."
+      },
+      {
+       "q": "In the subcontinent, local handloom industries declined because they could not compete with:",
+       "options": [
+        "Local taxes",
+        "Handmade goods",
+        "Cheap machine-made cloth",
+        "Persian weavers"
+       ],
+       "answer": 2,
+       "why": "British machine-made cloth was cheap, so the subcontinent's handloom and cottage industries declined."
+      },
+      {
+       "q": "European countries captured Asian and African colonies mainly in search of:",
+       "options": [
+        "New religions",
+        "Gold coins only",
+        "Cold climates",
+        "Raw material for their industries and markets for their goods"
+       ],
+       "answer": 3,
+       "why": "Industry needed raw material and markets, so trade turned into rule over colonies in Asia and Africa."
+      },
+      {
+       "q": "Which invention is listed among those that made life easier in the Industrial Revolution?",
+       "options": [
+        "The printing press",
+        "The telegraph",
+        "The compass",
+        "Eyeglasses"
+       ],
+       "answer": 1,
+       "why": "New inventions such as the sewing machine, telegraph, light bulb and anaesthesia made life easier."
+      }
+     ]
+    },
+    {
+     "title": "The Steam Engine",
+     "notes_html": "<h4>Power Before Steam</h4>\n<p>Before the steam engine, power came from <b>water, wind, horses and men</b>, which was unreliable. The steam engine uses <b>hot steam from boiling water</b> (heated by burning coal) to drive a <b>piston</b> back and forth, so factories could be located anywhere and large machines got reliable power.</p>\n<h4>The Inventors</h4>\n<ul>\n<li><b>Thomas Savery</b> invented the first steam engine in <b>1698 CE</b>, but it was not very useful.</li>\n<li><b>Thomas Newcomen</b> made the first practical fuel-burning engine in <b>1712 CE</b> to pump water out of mines.</li>\n<li><b>James Watt</b> improved Newcomen's engine — the <b>Watt Steam Engine of 1776 CE</b> was smaller and more fuel-efficient, and was soon used in factories throughout England. The unit of power <b>'watt'</b> is named after James Watt, and one horsepower equals 745.7 watts.</li>\n<li><b>Richard Trevithick</b> built the first steam locomotive to run on a track in <b>1804 CE</b>.</li>\n<li><b>Robert Fulton</b> made the world's first commercially successful <b>steamboat</b>, the North River Steamboat (also called the <b>Clermont</b>), launched in <b>1807 CE</b>; after it, steamboats became an important means of transport on rivers.</li>\n</ul>\n<h4>Results</h4>\n<p>Steam power was soon used in <b>factories, mines and ships</b>, and steam locomotives imported to the USA in 1829 CE led to railways. In this way the steam engine revolutionised transportation and industry, and became one of the most important inventions of the Industrial Revolution.</p>",
+     "mcqs": [
+      {
+       "q": "First steam engine was invented by Thomas Savery in:",
+       "options": [
+        "1668 CE",
+        "1678 CE",
+        "1688 CE",
+        "1698 CE"
+       ],
+       "answer": 3,
+       "why": "This is the book's own MCQ: Thomas Savery invented the first steam engine in 1698 CE, though it was not very useful."
+      },
+      {
+       "q": "Before the steam engine, power came from water, wind, horses and:",
+       "options": [
+        "Coal",
+        "Electricity",
+        "Men",
+        "Petrol"
+       ],
+       "answer": 2,
+       "why": "Power from water, wind, horses and men was unreliable; steam gave factories reliable power anywhere."
+      },
+      {
+       "q": "Thomas Newcomen's engine of 1712 CE was used to:",
+       "options": [
+        "Pump water out of mines",
+        "Run trains",
+        "Sail ships",
+        "Print books"
+       ],
+       "answer": 0,
+       "why": "Newcomen made the first practical fuel-burning engine in 1712 CE to pump water out of mines."
+      },
+      {
+       "q": "The Watt Steam Engine was introduced in:",
+       "options": [
+        "1698 CE",
+        "1776 CE",
+        "1712 CE",
+        "1804 CE"
+       ],
+       "answer": 1,
+       "why": "James Watt improved Newcomen's engine; the Watt Steam Engine of 1776 CE was smaller and more fuel-efficient."
+      },
+      {
+       "q": "The unit of power 'watt' is named after:",
+       "options": [
+        "Thomas Savery",
+        "Thomas Newcomen",
+        "Robert Fulton",
+        "James Watt"
+       ],
+       "answer": 3,
+       "why": "The unit of power 'watt' is named after James Watt, and one horsepower equals 745.7 watts."
+      },
+      {
+       "q": "The first steam locomotive to run on a track was built in 1804 CE by:",
+       "options": [
+        "James Watt",
+        "Richard Trevithick",
+        "Robert Fulton",
+        "Thomas Newcomen"
+       ],
+       "answer": 1,
+       "why": "Richard Trevithick built the first steam locomotive to run on a track in 1804 CE."
+      },
+      {
+       "q": "Who invented the first successful commercial steamboat?",
+       "options": [
+        "Richard Trevithick",
+        "Thomas Savery",
+        "Robert Fulton",
+        "James Watt"
+       ],
+       "answer": 2,
+       "why": "Robert Fulton's North River Steamboat (Clermont), launched in 1807 CE, was the world's first commercially successful steamboat."
+      },
+      {
+       "q": "Robert Fulton's steamboat was also called the:",
+       "options": [
+        "Clermont",
+        "Mayflower",
+        "Titanic",
+        "Discovery"
+       ],
+       "answer": 0,
+       "why": "Fulton's North River Steamboat was also called the Clermont; it used a steam engine to drive the boat."
+      },
+      {
+       "q": "The steam engine drives its piston using:",
+       "options": [
+        "Wind pressure",
+        "Hot steam from boiling water",
+        "Horse power",
+        "River currents"
+       ],
+       "answer": 1,
+       "why": "The steam engine uses hot steam from boiling water, heated by burning coal, to drive a piston back and forth."
+      },
+      {
+       "q": "Steam power revolutionised transportation and industry by being used in factories, mines and:",
+       "options": [
+        "Farms only",
+        "Schools",
+        "Temples",
+        "Ships"
+       ],
+       "answer": 3,
+       "why": "Steam power was used in factories, mines and ships; steam locomotives led to railways after 1804 CE."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
