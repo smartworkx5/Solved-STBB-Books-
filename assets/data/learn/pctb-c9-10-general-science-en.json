@@ -1,0 +1,3540 @@
+{
+ "book": "pctb-c9-10-general-science-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Introduction and Role of Science",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Jabir Bin Hayyan was an expert in <strong>Chemistry</strong>.</li><li>The knowledge about animals is called <strong>Zoology</strong>.</li><li>Bu Ali Sina is called <strong>Aristotle</strong> of the Muslim world.</li><li><strong>Al-Razi</strong> divided chemical compounds into four categories namely, minerals, botanicals, animals and derived compounds.</li><li><strong>Jabir Bin Hayyan</strong> Muslim scientist is considered as the pioneer in the field of chemistry.</li><li>Kitab-ul-Manazir is the first book on <strong>Optics</strong>.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>Bu Ali Sina was considered to be one of the founders of medicine. — <strong>True</strong></li><li>It was <strong>Al-Razi</strong> who first discussed in detail the causes, symptoms, cure and prevention of smallpox and measles.</li><li>Jabir Bin Hayyan was an expert in <strong>chemistry</strong>.</li><li>Kitab-ul-Manazir is a publication of <strong>Ibn-ul-Haitham</strong>.</li><li>The knowledge about animals is called <strong>zoology</strong>; the knowledge about plants is called botany.</li><li>In the life of animals and plants, many factors are common. — <strong>True</strong></li></ul><h4>Facts to Remember</h4><ul><li>Ibn-ul-Haitham is related to the branch of science that deals with <strong>light</strong>.</li><li>The famous book written by Al-Bairuni is <strong>Tahreer-ul-Amakin</strong>.</li><li>The branch of science related to mechanics, heat, light and sound is <strong>physics</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Which Muslim scientist was an expert in Chemistry?",
+       "options": [
+        "Jabir Bin Hayyan",
+        "Bu Ali Sina",
+        "Al-Razi",
+        "Al-Bairuni"
+       ],
+       "answer": 0,
+       "why": "The chapter facts state that Jabir Bin Hayyan was an expert in Chemistry and is considered the pioneer in the field of chemistry."
+      },
+      {
+       "q": "The knowledge about animals is called:",
+       "options": [
+        "Physics",
+        "Zoology",
+        "Astronomy",
+        "Botany"
+       ],
+       "answer": 1,
+       "why": "The notes state that the knowledge about animals is called zoology, while the knowledge about plants is called botany."
+      },
+      {
+       "q": "Who is called the Aristotle of the Muslim world?",
+       "options": [
+        "Al-Razi",
+        "Jabir Bin Hayyan",
+        "Bu Ali Sina",
+        "Ibn-ul-Haitham"
+       ],
+       "answer": 2,
+       "why": "The key facts of the chapter state that Bu Ali Sina is called the Aristotle of the Muslim world."
+      },
+      {
+       "q": "Al-Razi divided chemical compounds into how many categories?",
+       "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+       ],
+       "answer": 3,
+       "why": "Al-Razi divided chemical compounds into four categories, namely minerals, botanicals, animals and derived compounds."
+      },
+      {
+       "q": "Which of the following is NOT one of the four categories into which Al-Razi divided chemical compounds?",
+       "options": [
+        "Metals",
+        "Botanicals",
+        "Derived compounds",
+        "Minerals"
+       ],
+       "answer": 0,
+       "why": "Al-Razi's four categories were minerals, botanicals, animals and derived compounds; metals are not listed among them in the notes."
+      },
+      {
+       "q": "Kitab-ul-Manazir is the first book on which subject?",
+       "options": [
+        "Botany",
+        "Optics",
+        "Medicine",
+        "Chemistry"
+       ],
+       "answer": 1,
+       "why": "The notes state that Kitab-ul-Manazir is the first book on Optics, the branch of science that deals with light."
+      },
+      {
+       "q": "Kitab-ul-Manazir was written by:",
+       "options": [
+        "Al-Bairuni",
+        "Jabir Bin Hayyan",
+        "Ibn-ul-Haitham",
+        "Bu Ali Sina"
+       ],
+       "answer": 2,
+       "why": "The true/false facts confirm that Kitab-ul-Manazir is a publication of Ibn-ul-Haitham, who is related to the branch of science dealing with light."
+      },
+      {
+       "q": "Who first discussed in detail the causes, symptoms, cure and prevention of smallpox and measles?",
+       "options": [
+        "Ibn-ul-Haitham",
+        "Jabir Bin Hayyan",
+        "Bu Ali Sina",
+        "Al-Razi"
+       ],
+       "answer": 3,
+       "why": "The notes state that it was Al-Razi who first discussed in detail the causes, symptoms, cure and prevention of smallpox and measles."
+      },
+      {
+       "q": "The famous book written by Al-Bairuni is:",
+       "options": [
+        "Tahreer-ul-Amakin",
+        "Tahqiq-ul-Shams",
+        "Kitab-ul-Manazir",
+        "Kitab-ul-Hind"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that the famous book written by Al-Bairuni is Tahreer-ul-Amakin."
+      },
+      {
+       "q": "The branch of science related to mechanics, heat, light and sound is:",
+       "options": [
+        "Chemistry",
+        "Physics",
+        "Biology",
+        "Geology"
+       ],
+       "answer": 1,
+       "why": "The notes state that the branch of science related to mechanics, heat, light and sound is physics."
+      }
+     ]
+    },
+    {
+     "title": "Short and Detailed Questions",
+     "notes_html": "<h4>Short and Detailed Questions</h4><p>The word science is derived from the Latin word Scientia, which means to study and analyse facts in their original form. Science is based on observation and hypothesis, and to establish a scientific law in the light of experiments is called the scientific method.</p><p>The important branches of science are physics, chemistry, biology, astronomy, mathematics, agriculture, medicine and geography. Physics deals with matter and energy; chemistry deals with the nature and composition of things; biology is the study of living things; astronomy studies the universe; and medicine deals with human anatomy, diagnosis and cure of diseases.</p><p>Jabir Bin Hayyan is said to be the founder of chemistry. He discovered methods to extract metals from ores, prepared nitric acid, sulphuric acid and hydrochloric acid, and was the first chemist who had his own laboratory. Ibn-ul-Haitham discovered the pinhole camera and wrote Kitab-ul-Manazir, a complete book on light, refraction, reflection, lenses and mirrors.</p><p>Dr. Abdus Salam was the only Pakistani scientist who won the Nobel Prize. In 1979 he won the Nobel Prize for his work in theoretical physics on the unification of the weak nuclear force and the electromagnetic force. Dr. Abdul Qadeer Khan directed the Kahuta Research Laboratories and, along with other Pakistani scientists, successfully tested nuclear devices at Chaghi on 28 May 1998, as a result of which Pakistan became an atomic power.</p><p>Despite all achievements, science is still helpless in several matters. Genetic diseases are still incurable and the study of the genome is not complete; diseases like AIDS and hepatitis could not be controlled and cancer is still incurable. The food problem of mankind could not be solved completely, natural resources are exhausting, nuclear waste disposal is a problem, and natural disasters like earthquakes could not be predicted or controlled.</p><p>Technology is the practical application of scientific knowledge to make tools, machines and articles of daily use. Examples of ancient technology are the wheel of the clay-man, the forge of the blacksmith, the spindle of the weaver, the rahat and plough of the farmer, and oarage boats.</p><p>Biology is the study of living things. The word biology is derived from two Greek words, bios meaning life and logos meaning arguments. In biology we study the growth, working and reproduction of living things, including man, animals and plants. It is a branch of science because it studies living things systematically through observation and experiment, and it has two main branches: botany, the study of plants, and zoology, the study of animals.</p><p>The Holy Quran says: Read! In the name of thy Lord and Cherisher, Who created. Created man, out of a clot of congealed blood. Read! And thy Lord is most Bountiful. He Who taught the use of the Pen. Taught man that which he knew not (Surah 96, verses 1-5). And Allah says: And of every thing We have created pairs: that ye may receive instruction (Surah 51, verse 49). These verses invite man to think, observe and seek knowledge, which is the basis of science.</p><p>Physics is that branch of science which deals specially with matter and energy. It is also called the science of measurement because it deals mostly with measurement. Its main branches are mechanics, heat, light, sound and electricity.</p>",
+     "mcqs": [
+      {
+       "q": "The word 'science' is derived from the Latin word 'Scientia', which means:",
+       "options": [
+        "To measure all things accurately",
+        "To study and analyse facts in their original form",
+        "To invent new machines",
+        "To observe the stars only"
+       ],
+       "answer": 1,
+       "why": "The notes explain that science comes from the Latin word Scientia, which means to study and analyse facts in their original form."
+      },
+      {
+       "q": "To establish a scientific law in the light of experiments is called:",
+       "options": [
+        "The hypothesis",
+        "The observation",
+        "The scientific method",
+        "The scientific law"
+       ],
+       "answer": 2,
+       "why": "Science is based on observation and hypothesis, and to establish a scientific law in the light of experiments is called the scientific method."
+      },
+      {
+       "q": "Which branch of science deals with matter and energy?",
+       "options": [
+        "Medicine",
+        "Chemistry",
+        "Biology",
+        "Physics"
+       ],
+       "answer": 3,
+       "why": "The notes state that physics deals with matter and energy, while chemistry deals with the nature and composition of things."
+      },
+      {
+       "q": "Which branch of science studies the universe?",
+       "options": [
+        "Astronomy",
+        "Geography",
+        "Biology",
+        "Chemistry"
+       ],
+       "answer": 0,
+       "why": "The notes state that astronomy studies the universe, while biology is the study of living things."
+      },
+      {
+       "q": "Jabir Bin Hayyan prepared which acids in his laboratory?",
+       "options": [
+        "Nitric acid, acetic acid and boric acid",
+        "Nitric acid, sulphuric acid and hydrochloric acid",
+        "Sulphuric acid, carbonic acid and citric acid",
+        "Acetic acid, citric acid and carbonic acid"
+       ],
+       "answer": 1,
+       "why": "Jabir Bin Hayyan discovered methods to extract metals from ores and prepared nitric acid, sulphuric acid and hydrochloric acid; he was the first chemist who had his own laboratory."
+      },
+      {
+       "q": "Who discovered the pinhole camera?",
+       "options": [
+        "Dr. Abdus Salam",
+        "Jabir Bin Hayyan",
+        "Ibn-ul-Haitham",
+        "Al-Bairuni"
+       ],
+       "answer": 2,
+       "why": "The notes state that Ibn-ul-Haitham discovered the pinhole camera and wrote Kitab-ul-Manazir, a complete book on light, refraction, reflection, lenses and mirrors."
+      },
+      {
+       "q": "Dr. Abdus Salam won the Nobel Prize in which year?",
+       "options": [
+        "1969",
+        "1989",
+        "1998",
+        "1979"
+       ],
+       "answer": 3,
+       "why": "Dr. Abdus Salam won the Nobel Prize in 1979 for his work in theoretical physics on the unification of the weak nuclear force and the electromagnetic force."
+      },
+      {
+       "q": "Pakistan successfully tested nuclear devices at Chaghi on:",
+       "options": [
+        "28 May 1998",
+        "28 May 1979",
+        "7 June 1962",
+        "14 August 1998"
+       ],
+       "answer": 0,
+       "why": "Dr. Abdul Qadeer Khan directed the Kahuta Research Laboratories and, along with other Pakistani scientists, successfully tested nuclear devices at Chaghi on 28 May 1998."
+      },
+      {
+       "q": "The practical application of scientific knowledge to make tools, machines and articles of daily use is called:",
+       "options": [
+        "Hypothesis",
+        "Technology",
+        "Biology",
+        "Astronomy"
+       ],
+       "answer": 1,
+       "why": "The notes define technology as the practical application of scientific knowledge to make tools, machines and articles of daily use."
+      },
+      {
+       "q": "In the word 'biology', the Greek word 'bios' means:",
+       "options": [
+        "Arguments",
+        "Study",
+        "Life",
+        "Nature"
+       ],
+       "answer": 2,
+       "why": "Biology is derived from two Greek words, bios meaning life and logos meaning arguments; it is the study of living things."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Our Life and Chemistry",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li><strong>Photosynthesis</strong> is the process by which plants produce glucose.</li><li>The percentage composition of methane is about <strong>90%</strong> in natural gas.</li><li><strong>Water</strong> is the only chemical compound found naturally as a liquid, as a solid, and as a gas.</li><li>Nitrogen occurs in plants and animals in the form of <strong>Proteins</strong>.</li><li>Dilute solution of iodine in ethanol is called <strong>Tincture of iodine</strong>.</li><li>Phosphorus is an important constituent of <strong>DNA, bones and teeth</strong>.</li><li>Carbon is an important <strong>Element</strong> for all organisms.</li></ul><h4>Facts to Remember</h4><ul><li>The form of carbon which is not crystalline is <strong>charcoal</strong>.</li><li>The process of converting atmospheric nitrogen into a usable form is called <strong>nitrogen fixation</strong>.</li><li>Oxygen and nitrogen react to form <strong>nitrogen oxide</strong>.</li><li>The amount of carbon dioxide in the air is increased by <strong>burning</strong>.</li><li>Deficiency of iodine in the human body causes <strong>goitre</strong>.</li><li>The contents of sodium in leaf tissues vary from <strong>0.01 to 10%</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Photosynthesis is the process by which plants produce:",
+       "options": [
+        "Proteins",
+        "Oxygen gas",
+        "Glucose",
+        "Starch grains"
+       ],
+       "answer": 2,
+       "why": "The key facts state that photosynthesis is the process by which plants produce glucose."
+      },
+      {
+       "q": "The percentage composition of methane in natural gas is about:",
+       "options": [
+        "70%",
+        "25%",
+        "50%",
+        "90%"
+       ],
+       "answer": 3,
+       "why": "The notes state that the percentage composition of methane is about 90% in natural gas."
+      },
+      {
+       "q": "Which chemical compound is found naturally as a liquid, as a solid and as a gas?",
+       "options": [
+        "Water",
+        "Oxygen",
+        "Methane",
+        "Carbon dioxide"
+       ],
+       "answer": 0,
+       "why": "The facts state that water is the only chemical compound found naturally as a liquid, as a solid, and as a gas."
+      },
+      {
+       "q": "Nitrogen occurs in plants and animals in the form of:",
+       "options": [
+        "Glucose",
+        "Proteins",
+        "Fats",
+        "Cellulose"
+       ],
+       "answer": 1,
+       "why": "The notes state that nitrogen occurs in plants and animals in the form of proteins."
+      },
+      {
+       "q": "Tincture of iodine is:",
+       "options": [
+        "Pure liquid iodine",
+        "A solution of iodine in oil",
+        "A dilute solution of iodine in ethanol",
+        "A dilute solution of iodine in water"
+       ],
+       "answer": 2,
+       "why": "The key facts state that a dilute solution of iodine in ethanol is called tincture of iodine."
+      },
+      {
+       "q": "Phosphorus is an important constituent of:",
+       "options": [
+        "Leaves and roots",
+        "Blood and muscles",
+        "Skin and hair",
+        "DNA, bones and teeth"
+       ],
+       "answer": 3,
+       "why": "The notes state that phosphorus is an important constituent of DNA, bones and teeth."
+      },
+      {
+       "q": "The form of carbon which is not crystalline is:",
+       "options": [
+        "Charcoal",
+        "Diamond",
+        "Graphite",
+        "Bucky balls"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that the form of carbon which is not crystalline is charcoal."
+      },
+      {
+       "q": "The process of converting atmospheric nitrogen into a usable form is called:",
+       "options": [
+        "Allotropy",
+        "Nitrogen fixation",
+        "Oxidation",
+        "Photosynthesis"
+       ],
+       "answer": 1,
+       "why": "The notes state that the process of converting atmospheric nitrogen into a usable form is called nitrogen fixation."
+      },
+      {
+       "q": "Deficiency of iodine in the human body causes:",
+       "options": [
+        "Rickets",
+        "Diabetes",
+        "Goitre",
+        "Anaemia"
+       ],
+       "answer": 2,
+       "why": "The facts to remember state that deficiency of iodine in the human body causes goitre."
+      },
+      {
+       "q": "The contents of sodium in leaf tissues vary from:",
+       "options": [
+        "1 to 5%",
+        "10 to 20%",
+        "0.1 to 1%",
+        "0.01 to 10%"
+       ],
+       "answer": 3,
+       "why": "The notes state that the contents of sodium in leaf tissues vary from 0.01 to 10 percent."
+      }
+     ]
+    },
+    {
+     "title": "Short and Detailed Questions",
+     "notes_html": "<h4>Short and Detailed Questions</h4><p>Allotropy is the property by which an element is found in more than one physical form in the same state. Carbon is the most common example, which exists in three allotropic forms: diamond, graphite and bucky balls.</p><p>The three elements abundantly found in the human body are carbon, hydrogen and oxygen. They combine to form organic compounds such as proteins, carbohydrates and lipids, which work as building material for the bodies of living organisms.</p><p>Water expands on freezing because its molecules are less tightly packed in ice than in liquid water. The density of ice at 0 C is 0.918 g/cm3 while that of water is about 1.00 g/cm3, so there is a considerable increase in volume when liquid water changes to solid ice. That is why ice floats on water and pipes can burst in winter.</p><p>Water is a universal solvent because it dissolves a variety of substances, so it is extensively used as a solvent in industrial chemical processes and many chemical reactions are carried out in it. Its properties are: it is a clear, colourless and odourless liquid; it has a low freezing point of 0 C and a high boiling point of 100 C; ice floats on water because its density is less than that of water; and its density is maximum at 4 C.</p><p>Oxygen is the second most abundant gas in air and is essential for supporting life and the phenomena of burning and rusting. For burning, three things are required: fuel, heat and oxygen. Nitrogen is the major constituent of air; it is relatively inert and acts as an important diluent of air to slow down combustion and corrosion, and it occurs in plants and animals in the form of proteins.</p>",
+     "mcqs": [
+      {
+       "q": "Allotropy is the property by which an element:",
+       "options": [
+        "Combines with many other elements",
+        "Changes into another element",
+        "Dissolves in water easily",
+        "Is found in more than one physical form in the same state"
+       ],
+       "answer": 3,
+       "why": "The notes define allotropy as the property by which an element is found in more than one physical form in the same state; carbon is the most common example."
+      },
+      {
+       "q": "According to the notes, the three allotropic forms of carbon are diamond, graphite and:",
+       "options": [
+        "Bucky balls",
+        "Coal",
+        "Soot",
+        "Charcoal"
+       ],
+       "answer": 0,
+       "why": "Carbon exists in three allotropic forms: diamond, graphite and bucky balls, as stated in the notes."
+      },
+      {
+       "q": "The three elements abundantly found in the human body are:",
+       "options": [
+        "Hydrogen, oxygen and sodium",
+        "Carbon, hydrogen and oxygen",
+        "Carbon, nitrogen and phosphorus",
+        "Oxygen, nitrogen and calcium"
+       ],
+       "answer": 1,
+       "why": "The notes state that the three elements abundantly found in the human body are carbon, hydrogen and oxygen, which combine to form proteins, carbohydrates and lipids."
+      },
+      {
+       "q": "The density of ice at 0°C is:",
+       "options": [
+        "1.00 g/cm3",
+        "0.500 g/cm3",
+        "0.918 g/cm3",
+        "1.918 g/cm3"
+       ],
+       "answer": 2,
+       "why": "The density of ice at 0°C is 0.918 g/cm3 while that of water is about 1.00 g/cm3, so water expands considerably on freezing (0.918 < 1.00, verified by calculation)."
+      },
+      {
+       "q": "The density of water is maximum at:",
+       "options": [
+        "100°C",
+        "10°C",
+        "0°C",
+        "4°C"
+       ],
+       "answer": 3,
+       "why": "Among the properties of water, the notes state that its density is maximum at 4°C, its freezing point is 0°C and its boiling point is 100°C."
+      },
+      {
+       "q": "Ice floats on water because:",
+       "options": [
+        "Its density is less than that of water",
+        "It contains dissolved air only",
+        "Its density is greater than that of water",
+        "It is lighter in colour than water"
+       ],
+       "answer": 0,
+       "why": "The molecules of water are less tightly packed in ice than in liquid water, so the density of ice is less than that of water and ice floats on water."
+      },
+      {
+       "q": "Water is called a universal solvent because:",
+       "options": [
+        "It is found everywhere in nature",
+        "It dissolves a variety of substances",
+        "It is colourless and odourless",
+        "It has a high boiling point"
+       ],
+       "answer": 1,
+       "why": "Water is a universal solvent because it dissolves a variety of substances, so it is extensively used as a solvent in industrial chemical processes."
+      },
+      {
+       "q": "The second most abundant gas in air is:",
+       "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+       ],
+       "answer": 2,
+       "why": "The notes state that oxygen is the second most abundant gas in air and is essential for supporting life and the phenomena of burning and rusting."
+      },
+      {
+       "q": "Three things required for burning are:",
+       "options": [
+        "Fuel, heat and carbon dioxide",
+        "Fuel, water and oxygen",
+        "Heat, light and nitrogen",
+        "Fuel, heat and oxygen"
+       ],
+       "answer": 3,
+       "why": "The notes state that for burning, three things are required: fuel, heat and oxygen."
+      },
+      {
+       "q": "Nitrogen slows down combustion and corrosion because it:",
+       "options": [
+        "Is relatively inert and acts as a diluent of air",
+        "Is highly reactive with oxygen",
+        "Absorbs all the heat produced",
+        "Turns quickly into proteins"
+       ],
+       "answer": 0,
+       "why": "Nitrogen is the major constituent of air; it is relatively inert and acts as an important diluent of air to slow down combustion and corrosion."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Biochemistry and Biotechnology",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Penicillins are made by a fungus called <strong>Penicillium</strong>.</li><li>Human blood can be classified into A, B, AB and O groups on the basis of antigen and <strong>Antibody</strong>.</li><li>Diabetes and haemophilia are due to change in <strong>Gene</strong> molecule.</li><li>The products of fat digestion are called <strong>Fatty acids and glycerol</strong>.</li><li>Cephalosporins are obtained from fungus <strong>Cephalosporium</strong>.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>Metabolism is a combination of anabolic and catabolic reactions. — <strong>True</strong></li><li>Fats are stored in the <strong>adipose tissues</strong> of the human body.</li><li>Penicillin is a <strong>narrow spectrum</strong> antibiotic.</li></ul><h4>Facts to Remember</h4><ul><li>The function of platelets is <strong>blood clotting</strong>.</li><li>Genetic information is transferred by <strong>genes</strong>.</li><li>Fats are formed by the combination of <strong>glycerol and fatty acids</strong>.</li><li><strong>Penicillin</strong> was discovered by Sir Alexander Fleming and Howard Florey.</li><li>The antibiotic cephalosporin was discovered in <strong>1948</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Penicillins are made by a fungus called:",
+       "options": [
+        "Penicillium",
+        "Cephalosporium",
+        "Aspergillus",
+        "Rhizopus"
+       ],
+       "answer": 0,
+       "why": "The key facts state that penicillins are made by a fungus called Penicillium."
+      },
+      {
+       "q": "Human blood is classified into A, B, AB and O groups on the basis of:",
+       "options": [
+        "Red and white cells",
+        "Antigen and antibody",
+        "Genes and chromosomes",
+        "Haemoglobin and plasma"
+       ],
+       "answer": 1,
+       "why": "The notes state that human blood can be classified into A, B, AB and O groups on the basis of antigen and antibody."
+      },
+      {
+       "q": "Diabetes and haemophilia are due to a change in the:",
+       "options": [
+        "Enzyme molecule",
+        "Blood plasma",
+        "Gene molecule",
+        "Adipose tissue"
+       ],
+       "answer": 2,
+       "why": "The key facts state that diabetes and haemophilia are due to a change in the gene molecule."
+      },
+      {
+       "q": "The products of fat digestion are called:",
+       "options": [
+        "Amino acids and glucose",
+        "Glucose and glycerol",
+        "Fatty acids and amino acids",
+        "Fatty acids and glycerol"
+       ],
+       "answer": 3,
+       "why": "The notes state that the products of fat digestion are called fatty acids and glycerol, and fats are formed by the combination of glycerol and fatty acids."
+      },
+      {
+       "q": "Cephalosporins are obtained from the fungus:",
+       "options": [
+        "Cephalosporium",
+        "Aspergillus",
+        "Mucor",
+        "Penicillium"
+       ],
+       "answer": 0,
+       "why": "The key facts state that cephalosporins are obtained from the fungus Cephalosporium."
+      },
+      {
+       "q": "The function of platelets in blood is:",
+       "options": [
+        "Carrying food",
+        "Blood clotting",
+        "Carrying oxygen",
+        "Fighting germs"
+       ],
+       "answer": 1,
+       "why": "The facts to remember state that the function of platelets is blood clotting."
+      },
+      {
+       "q": "Penicillin was discovered by:",
+       "options": [
+        "Louis Pasteur and Howard Florey",
+        "Sir Alexander Fleming and Edward Jenner",
+        "Sir Alexander Fleming and Howard Florey",
+        "Robert Koch and Alexander Fleming"
+       ],
+       "answer": 2,
+       "why": "The notes state that penicillin was discovered by Sir Alexander Fleming and Howard Florey."
+      },
+      {
+       "q": "The antibiotic cephalosporin was discovered in:",
+       "options": [
+        "1958",
+        "1938",
+        "1928",
+        "1948"
+       ],
+       "answer": 3,
+       "why": "The facts to remember state that the antibiotic cephalosporin was discovered in 1948."
+      },
+      {
+       "q": "Fats are stored in the human body in the:",
+       "options": [
+        "Adipose tissues",
+        "Muscles only",
+        "Blood plasma",
+        "Bones"
+       ],
+       "answer": 0,
+       "why": "The true/false facts confirm that fats are stored in the adipose tissues of the human body."
+      },
+      {
+       "q": "Penicillin is a:",
+       "options": [
+        "Broad spectrum antibiotic",
+        "Narrow spectrum antibiotic",
+        "Antiviral drug",
+        "Pain killer"
+       ],
+       "answer": 1,
+       "why": "The notes state that penicillin is a narrow spectrum antibiotic made by the Penicillium fungus."
+      }
+     ]
+    },
+    {
+     "title": "Brief Answers",
+     "notes_html": "<h4>Brief Answers</h4><p>The three main types of cells in blood are red blood cells, white blood cells and platelets. Red cells carry oxygen, white cells defend the body against germs, and platelets help the blood to clot.</p><p>Fats are stored in the adipose tissue of the human body, under the skin and around the internal organs. This stored fat gives energy when food is short and also protects the organs and keeps the body warm.</p><p>A transgenic organism is an organism into which a gene from another organism has been transferred by genetic engineering. Such an organism shows the new character of the transferred gene, for example a crop plant that resists insects or disease.</p><p>A catalyst changes the speed of a chemical reaction without undergoing any chemical change in its own structure. In living bodies, enzymes act as catalysts and speed up digestion and other life reactions without being used up.</p>",
+     "mcqs": [
+      {
+       "q": "Which blood cells carry oxygen?",
+       "options": [
+        "White blood cells",
+        "Red blood cells",
+        "Platelets",
+        "Plasma cells"
+       ],
+       "answer": 1,
+       "why": "The three main types of cells in blood are red blood cells, white blood cells and platelets; red cells carry oxygen."
+      },
+      {
+       "q": "Which blood cells defend the body against germs?",
+       "options": [
+        "Platelets",
+        "Red cells and platelets",
+        "White blood cells",
+        "Red blood cells"
+       ],
+       "answer": 2,
+       "why": "The notes state that white blood cells defend the body against germs, while platelets help the blood to clot."
+      },
+      {
+       "q": "Platelets help the blood to:",
+       "options": [
+        "Carry hormones",
+        "Carry oxygen",
+        "Fight germs",
+        "Clot"
+       ],
+       "answer": 3,
+       "why": "Platelets are one of the three main types of blood cells and their function is to help the blood to clot."
+      },
+      {
+       "q": "Fats are stored in the human body in the:",
+       "options": [
+        "Adipose tissue",
+        "Liver cells only",
+        "Blood plasma",
+        "Bone marrow"
+       ],
+       "answer": 0,
+       "why": "Fats are stored in the adipose tissue of the human body, under the skin and around the internal organs."
+      },
+      {
+       "q": "In the human body, stored fat is found:",
+       "options": [
+        "Only in the blood",
+        "Under the skin and around the internal organs",
+        "Only in the muscles",
+        "Only inside the bones"
+       ],
+       "answer": 1,
+       "why": "The notes state that fats are stored in the adipose tissue under the skin and around the internal organs."
+      },
+      {
+       "q": "When food is short, the stored fat of the body:",
+       "options": [
+        "Stores oxygen",
+        "Produces vitamins",
+        "Gives energy",
+        "Makes new blood cells"
+       ],
+       "answer": 2,
+       "why": "Stored fat gives energy when food is short and also protects the organs and keeps the body warm."
+      },
+      {
+       "q": "A transgenic organism is an organism:",
+       "options": [
+        "Which has lost all of its genes",
+        "Which is produced only by cloning",
+        "Which cannot reproduce at all",
+        "Into which a gene from another organism has been transferred"
+       ],
+       "answer": 3,
+       "why": "A transgenic organism is an organism into which a gene from another organism has been transferred by genetic engineering, so it shows the new character of the transferred gene."
+      },
+      {
+       "q": "An example of a transgenic organism given in the notes is:",
+       "options": [
+        "A crop plant that resists insects or disease",
+        "A goat that gives more wool",
+        "A fish that lives in hot water",
+        "A bacterium that produces light"
+       ],
+       "answer": 0,
+       "why": "The notes give the example of a crop plant that resists insects or disease as a transgenic organism produced by genetic engineering."
+      },
+      {
+       "q": "A catalyst changes the ______ of a chemical reaction without undergoing any chemical change itself.",
+       "options": [
+        "Colour",
+        "Speed",
+        "Products",
+        "Temperature"
+       ],
+       "answer": 1,
+       "why": "A catalyst changes the speed of a chemical reaction without undergoing any chemical change in its own structure."
+      },
+      {
+       "q": "In living bodies, the catalysts that speed up digestion and other life reactions are:",
+       "options": [
+        "Antibodies",
+        "Hormones",
+        "Enzymes",
+        "Vitamins"
+       ],
+       "answer": 2,
+       "why": "In living bodies, enzymes act as catalysts and speed up digestion and other life reactions without being used up."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>Metabolism is the sum of all chemical reactions in a living body. It has two types: anabolism, in which simple substances join to build complex substances and energy is used, and catabolism, in which complex substances break down into simple ones and energy is released.</p><p>Digestion is the breaking down of large, insoluble food molecules into small, soluble molecules that the body can absorb. Assimilation is the use of these absorbed food molecules by the body cells for growth, repair and energy.</p><p>An enzyme is a biological catalyst, made of protein, which speeds up a chemical reaction in the body without being changed itself. In daily life enzymes digest our food, help in making bread, cheese and curd, and are used in washing powders to remove stains.</p><p>Blood has two main components: plasma, the liquid part, and blood cells. The cells are red blood cells which carry oxygen, white blood cells which fight germs, and platelets which clot the blood. Plasma carries food, hormones and waste materials.</p><p>DNA is the hereditary material because it carries the genetic information of an organism in the form of genes. When a cell divides, DNA copies itself and passes the same information to the new cells, so children inherit the characters of their parents through DNA.</p><p>Genetic engineering is a technique to transfer genes from one organism to another. In agriculture it produces crops that give more yield and resist insects, diseases and harsh weather, and in livestock it produces animals that give more milk and meat and resist disease.</p><p>An antibiotic is a chemical compound obtained from microorganisms and used to control infectious diseases caused by bacteria. Its types include penicillins, made by the Penicillium fungus, and cephalosporins, obtained from the fungus Cephalosporium.</p><p>Recycling is producing new products from useless wastes or rubbish. Waste paper, glass, plastic and metal are collected, cleaned and remade into useful articles, which saves raw material and energy and keeps the environment clean. Scarce materials are thus used again instead of being thrown away.</p>",
+     "mcqs": [
+      {
+       "q": "Metabolism is:",
+       "options": [
+        "The breakdown of food in the stomach",
+        "The transfer of genes between organisms",
+        "The sum of all chemical reactions in a living body",
+        "The storage of fats in the body"
+       ],
+       "answer": 2,
+       "why": "Metabolism is the sum of all chemical reactions in a living body and is a combination of anabolic and catabolic reactions."
+      },
+      {
+       "q": "In anabolism, simple substances join to build complex substances and energy is:",
+       "options": [
+        "Destroyed",
+        "Changed into matter",
+        "Released",
+        "Used"
+       ],
+       "answer": 3,
+       "why": "Anabolism is the type of metabolism in which simple substances join to build complex substances and energy is used."
+      },
+      {
+       "q": "In catabolism, complex substances break down into simple ones and energy is:",
+       "options": [
+        "Released",
+        "Stored as fat",
+        "Used",
+        "Lost forever"
+       ],
+       "answer": 0,
+       "why": "Catabolism is the type of metabolism in which complex substances break down into simple ones and energy is released."
+      },
+      {
+       "q": "Digestion is the breaking down of large, insoluble food molecules into:",
+       "options": [
+        "Complex substances that store energy",
+        "Small, soluble molecules that the body can absorb",
+        "Waste materials only",
+        "Fatty acids and glycerol only"
+       ],
+       "answer": 1,
+       "why": "Digestion is the breaking down of large, insoluble food molecules into small, soluble molecules that the body can absorb."
+      },
+      {
+       "q": "Assimilation is:",
+       "options": [
+        "The removal of waste from the body",
+        "The clotting of blood after injury",
+        "The use of absorbed food molecules by body cells for growth, repair and energy",
+        "The breaking down of food in the gut"
+       ],
+       "answer": 2,
+       "why": "Assimilation is the use of absorbed food molecules by the body cells for growth, repair and energy, while digestion only breaks food down."
+      },
+      {
+       "q": "An enzyme is a biological catalyst made of:",
+       "options": [
+        "DNA",
+        "Fat",
+        "Carbohydrate",
+        "Protein"
+       ],
+       "answer": 3,
+       "why": "An enzyme is a biological catalyst, made of protein, which speeds up a chemical reaction in the body without being changed itself."
+      },
+      {
+       "q": "The liquid part of blood, plasma, carries:",
+       "options": [
+        "Food, hormones and waste materials",
+        "Only oxygen and carbon dioxide",
+        "Only germs and antibodies",
+        "Only water and salts"
+       ],
+       "answer": 0,
+       "why": "Blood has two main components: plasma, the liquid part, and blood cells; plasma carries food, hormones and waste materials."
+      },
+      {
+       "q": "DNA is the hereditary material because it carries:",
+       "options": [
+        "The antibodies against diseases",
+        "The genetic information of an organism in the form of genes",
+        "The energy for all body cells",
+        "The proteins needed for digestion"
+       ],
+       "answer": 1,
+       "why": "DNA carries the genetic information of an organism in the form of genes and copies itself when a cell divides, so children inherit the characters of their parents."
+      },
+      {
+       "q": "In agriculture, genetic engineering produces crops that:",
+       "options": [
+        "Produce seeds only once",
+        "Grow without any water at all",
+        "Give more yield and resist insects, diseases and harsh weather",
+        "Never need sunlight to grow"
+       ],
+       "answer": 2,
+       "why": "Genetic engineering transfers genes from one organism to another; in agriculture it produces crops that give more yield and resist insects, diseases and harsh weather."
+      },
+      {
+       "q": "Recycling of waste materials saves:",
+       "options": [
+        "Only time and labour",
+        "Only water and land",
+        "Germs and diseases",
+        "Raw material and energy"
+       ],
+       "answer": 3,
+       "why": "Recycling produces new products from useless wastes, which saves raw material and energy and keeps the environment clean."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Human Health",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>The most abundant naturally occurring carbohydrate of the world is <strong>Cellulose</strong>.</li><li>Fats and oils are formed by chemical combination of fatty acids with <strong>Glycerol</strong>.</li><li>Deficiency of vitamin <strong>A</strong> causes night blindness.</li><li>Goitre is caused by the deficiency of <strong>Iodine</strong>.</li><li>Insulin and <strong>Glucagon</strong> are formed in pancreas.</li><li>Rabies is caused by <strong>Dog</strong> bite.</li></ul><h4>True or False — The Correct Facts</h4><ul><li><strong>Amino acids</strong> are the building blocks of proteins.</li><li>Vitamin A is a fat soluble vitamin. — <strong>True</strong></li><li>Rickets is caused by <strong>vitamin D</strong> deficiency.</li><li>One gram of fat gives <strong>9.3 kcal</strong> of energy.</li><li>Thyroxin hormone is secreted by the <strong>thyroid gland</strong>.</li></ul><h4>Facts to Remember</h4><ul><li><strong>Vitamins</strong> are the compounds which are required by the body in very small amounts.</li><li>One gram of fats gives <strong>9.3 kcal</strong> of energy.</li><li>The disease caused in children due to vitamin D deficiency is <strong>rickets</strong>.</li><li>The hormone which controls the involuntary actions of the body is <strong>epinephrine</strong>.</li><li>The disease caused by the deficiency of iodine is <strong>goitre</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The most abundant naturally occurring carbohydrate of the world is:",
+       "options": [
+        "Glucose",
+        "Starch",
+        "Sucrose",
+        "Cellulose"
+       ],
+       "answer": 3,
+       "why": "The key facts state that the most abundant naturally occurring carbohydrate of the world is cellulose."
+      },
+      {
+       "q": "Fats and oils are formed by the chemical combination of fatty acids with:",
+       "options": [
+        "Glycerol",
+        "Amino acids",
+        "Cellulose",
+        "Glucose"
+       ],
+       "answer": 0,
+       "why": "The notes state that fats and oils are formed by chemical combination of fatty acids with glycerol."
+      },
+      {
+       "q": "Deficiency of vitamin A causes:",
+       "options": [
+        "Beri-beri",
+        "Night blindness",
+        "Rickets",
+        "Goitre"
+       ],
+       "answer": 1,
+       "why": "The key facts state that deficiency of vitamin A causes night blindness; vitamin A is a fat soluble vitamin."
+      },
+      {
+       "q": "Insulin and glucagon are formed in the:",
+       "options": [
+        "Thyroid gland",
+        "Liver",
+        "Pancreas",
+        "Adrenal gland"
+       ],
+       "answer": 2,
+       "why": "The notes state that insulin and glucagon are formed in the pancreas and control the amount of glucose in the blood."
+      },
+      {
+       "q": "Rabies is caused by:",
+       "options": [
+        "Contaminated water",
+        "Deficiency of iodine",
+        "Mosquito bite",
+        "Dog bite"
+       ],
+       "answer": 3,
+       "why": "The key facts state that rabies is caused by dog bite; the rabies virus attacks the nervous system."
+      },
+      {
+       "q": "The building blocks of proteins are:",
+       "options": [
+        "Amino acids",
+        "Vitamins",
+        "Fatty acids",
+        "Glucose molecules"
+       ],
+       "answer": 0,
+       "why": "The true/false facts confirm that amino acids are the building blocks of proteins."
+      },
+      {
+       "q": "One gram of fat gives how much energy?",
+       "options": [
+        "4.1 kcal",
+        "9.3 kcal",
+        "7.0 kcal",
+        "5.5 kcal"
+       ],
+       "answer": 1,
+       "why": "The notes state that one gram of fat gives 9.3 kcal of energy, which is why fats and oils give more energy than other food components."
+      },
+      {
+       "q": "Thyroxin hormone is secreted by the:",
+       "options": [
+        "Pituitary gland",
+        "Adrenal gland",
+        "Thyroid gland",
+        "Pancreas"
+       ],
+       "answer": 2,
+       "why": "The true/false facts confirm that thyroxin hormone is secreted by the thyroid gland and controls growth and metabolism."
+      },
+      {
+       "q": "The disease caused in children due to vitamin D deficiency is:",
+       "options": [
+        "Anaemia",
+        "Night blindness",
+        "Goitre",
+        "Rickets"
+       ],
+       "answer": 3,
+       "why": "The facts to remember state that the disease caused in children due to vitamin D deficiency is rickets."
+      },
+      {
+       "q": "The hormone which controls the involuntary actions of the body is:",
+       "options": [
+        "Epinephrine",
+        "Insulin",
+        "Thyroxin",
+        "Glucagon"
+       ],
+       "answer": 0,
+       "why": "The notes state that the hormone which controls the involuntary actions of the body is epinephrine, produced by the adrenal glands."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><p>The basic components of food are carbohydrates, lipids (fats and oils), proteins, vitamins, mineral salts and water. Carbohydrates and fats supply energy, proteins build and repair the body, and vitamins and minerals keep the body healthy and protect it from disease.</p><p>Vitamin B is a group of water soluble vitamins needed for healthy nerves, skin and blood and for releasing energy from food. Its deficiency causes diseases like beri-beri and anaemia, and it must be taken regularly in food because the body cannot store it.</p><p>Iron is needed to make haemoglobin in the red blood cells, which carries oxygen from the lungs to all parts of the body. Without enough iron the blood cannot carry sufficient oxygen, which causes anaemia, weakness and tiredness.</p><p>Rabies is caused by the bite of a rabid dog (and other rabid animals). The rabies virus attacks the nervous system, so the bite wound must be washed at once and anti-rabies vaccination started without delay.</p><p>Insulin is a hormone made in the pancreas which controls the amount of glucose in the blood. It helps the body cells take in glucose and store the extra glucose, and its deficiency causes diabetes, in which blood sugar rises to a harmful level.</p>",
+     "mcqs": [
+      {
+       "q": "Which food components supply energy to the body?",
+       "options": [
+        "Carbohydrates and fats",
+        "Proteins and vitamins",
+        "Mineral salts and water",
+        "Vitamins and minerals"
+       ],
+       "answer": 0,
+       "why": "The basic components of food include carbohydrates, lipids, proteins, vitamins, mineral salts and water; carbohydrates and fats supply energy."
+      },
+      {
+       "q": "Which food component builds and repairs the body?",
+       "options": [
+        "Fats",
+        "Proteins",
+        "Water",
+        "Carbohydrates"
+       ],
+       "answer": 1,
+       "why": "The notes state that carbohydrates and fats supply energy, while proteins build and repair the body."
+      },
+      {
+       "q": "Vitamin B is a group of vitamins that are:",
+       "options": [
+        "Found only in fats and oils",
+        "Fat soluble",
+        "Water soluble",
+        "Stored in the body for years"
+       ],
+       "answer": 2,
+       "why": "Vitamin B is a group of water soluble vitamins needed for healthy nerves, skin and blood and for releasing energy from food."
+      },
+      {
+       "q": "Deficiency of vitamin B causes diseases like:",
+       "options": [
+        "Rickets and scurvy",
+        "Goitre and night blindness",
+        "Rabies and malaria",
+        "Beri-beri and anaemia"
+       ],
+       "answer": 3,
+       "why": "The notes state that deficiency of vitamin B causes diseases like beri-beri and anaemia."
+      },
+      {
+       "q": "Vitamin B must be taken regularly in food because:",
+       "options": [
+        "The body cannot store it",
+        "It is destroyed by cooking",
+        "It is needed only by children",
+        "It is found in very few foods"
+       ],
+       "answer": 0,
+       "why": "Vitamin B must be taken regularly in food because the body cannot store it, as stated in the notes."
+      },
+      {
+       "q": "Iron is needed by the body to make:",
+       "options": [
+        "Bones and teeth",
+        "Haemoglobin in the red blood cells",
+        "Insulin in the pancreas",
+        "Thyroxin in the thyroid"
+       ],
+       "answer": 1,
+       "why": "Iron is needed to make haemoglobin in the red blood cells, which carries oxygen from the lungs to all parts of the body."
+      },
+      {
+       "q": "Haemoglobin carries ______ from the lungs to all parts of the body.",
+       "options": [
+        "Carbon dioxide",
+        "Glucose",
+        "Oxygen",
+        "Hormones"
+       ],
+       "answer": 2,
+       "why": "Haemoglobin in the red blood cells carries oxygen from the lungs to all parts of the body; without enough iron the blood cannot carry sufficient oxygen."
+      },
+      {
+       "q": "Lack of enough iron in the body causes:",
+       "options": [
+        "Goitre and swelling of the neck",
+        "Night blindness",
+        "Diabetes and high blood sugar",
+        "Anaemia, weakness and tiredness"
+       ],
+       "answer": 3,
+       "why": "Without enough iron the blood cannot carry sufficient oxygen, which causes anaemia, weakness and tiredness."
+      },
+      {
+       "q": "The rabies virus attacks the:",
+       "options": [
+        "Nervous system",
+        "Bones and joints",
+        "Digestive system",
+        "Blood cells"
+       ],
+       "answer": 0,
+       "why": "Rabies is caused by the bite of a rabid dog; the rabies virus attacks the nervous system, so the wound must be washed at once and anti-rabies vaccination started without delay."
+      },
+      {
+       "q": "Deficiency of insulin causes the disease:",
+       "options": [
+        "Anaemia",
+        "Diabetes",
+        "Goitre",
+        "Beri-beri"
+       ],
+       "answer": 1,
+       "why": "Insulin controls the amount of glucose in the blood, and its deficiency causes diabetes, in which blood sugar rises to a harmful level."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>Food has six important components. Carbohydrates are the primary source of energy for animals, while fats and oils give more energy and keep the body warm. Proteins, made of amino acids, build and repair tissues. Vitamins and mineral salts are needed in small amounts for health and protection from disease, and water carries food and waste through the body.</p><p>Proteins are large compounds made of amino acids and are the building material of the body. They build muscles, skin, blood and enzymes, repair worn-out tissues and help growth. Meat, fish, eggs, milk, pulses and beans are rich sources of protein.</p><p>Vitamins are organic compounds needed in very small amounts to keep the body healthy and to protect it from deficiency diseases. Vitamins A, D, E and K are fat soluble, while B and C are water soluble. Vitamin A keeps eyesight healthy, D strengthens bones, C prevents scurvy, and B keeps nerves and blood healthy.</p><p>A balanced diet is food that contains all the nutrients - carbohydrates, proteins, fats, vitamins, minerals and water - in the right proportions for health and growth. Growing children need more protein and calcium, hard-working labourers need more carbohydrates for energy, and old people need light, easily digested food with enough vitamins and minerals.</p><p>Exercise is necessary to maintain human health because it strengthens muscles, heart and lungs and keeps the body active and fit. It improves blood circulation and digestion, controls body weight and removes tiredness, and it also freshens the mind and helps sound sleep.</p><p>Endocrine glands bring about coordination in the body through hormones carried by the blood. The thyroid gland controls growth and metabolism through thyroxin, the pancreas controls blood sugar through insulin and glucagon, and the adrenal glands prepare the body for emergency action through epinephrine. The pituitary gland controls the working of other glands.</p>",
+     "mcqs": [
+      {
+       "q": "Carbohydrates are the primary source of ______ for animals.",
+       "options": [
+        "Protein",
+        "Energy",
+        "Vitamins",
+        "Minerals"
+       ],
+       "answer": 1,
+       "why": "Food has six important components; carbohydrates are the primary source of energy for animals, while fats and oils give more energy and keep the body warm."
+      },
+      {
+       "q": "Which vitamins are fat soluble?",
+       "options": [
+        "A, B and C",
+        "D, E and C",
+        "A, D, E and K",
+        "B and C"
+       ],
+       "answer": 2,
+       "why": "Vitamins A, D, E and K are fat soluble, while B and C are water soluble, as stated in the detailed notes."
+      },
+      {
+       "q": "Which vitamins are water soluble?",
+       "options": [
+        "A and K",
+        "A and D",
+        "E and K",
+        "B and C"
+       ],
+       "answer": 3,
+       "why": "The notes state that vitamins B and C are water soluble, while A, D, E and K are fat soluble."
+      },
+      {
+       "q": "Vitamin C prevents the disease:",
+       "options": [
+        "Scurvy",
+        "Rickets",
+        "Beri-beri",
+        "Night blindness"
+       ],
+       "answer": 0,
+       "why": "Vitamin A keeps eyesight healthy, D strengthens bones, C prevents scurvy, and B keeps nerves and blood healthy."
+      },
+      {
+       "q": "Which of the following are rich sources of protein?",
+       "options": [
+        "Butter, oil and ghee only",
+        "Meat, fish, eggs, milk, pulses and beans",
+        "Fruits and green vegetables only",
+        "Rice, wheat, sugar and honey"
+       ],
+       "answer": 1,
+       "why": "Proteins build muscles, skin, blood and enzymes; meat, fish, eggs, milk, pulses and beans are rich sources of protein."
+      },
+      {
+       "q": "Growing children need more ______ in their diet.",
+       "options": [
+        "Water and fibre",
+        "Fat and sugar",
+        "Protein and calcium",
+        "Salt and spices"
+       ],
+       "answer": 2,
+       "why": "In a balanced diet, growing children need more protein and calcium, hard-working labourers need more carbohydrates for energy, and old people need light, easily digested food."
+      },
+      {
+       "q": "Hard-working labourers need more ______ for energy.",
+       "options": [
+        "Proteins",
+        "Vitamins",
+        "Mineral salts",
+        "Carbohydrates"
+       ],
+       "answer": 3,
+       "why": "The balanced diet notes state that hard-working labourers need more carbohydrates for energy."
+      },
+      {
+       "q": "Which gland controls the working of other glands?",
+       "options": [
+        "Pituitary gland",
+        "Pancreas",
+        "Adrenal gland",
+        "Thyroid gland"
+       ],
+       "answer": 0,
+       "why": "Endocrine glands coordinate the body through hormones; the pituitary gland controls the working of other glands."
+      },
+      {
+       "q": "Epinephrine, which prepares the body for emergency action, is produced by the:",
+       "options": [
+        "Pituitary gland",
+        "Adrenal glands",
+        "Thyroid gland",
+        "Pancreas"
+       ],
+       "answer": 1,
+       "why": "The adrenal glands prepare the body for emergency action through epinephrine, as stated in the detailed notes."
+      },
+      {
+       "q": "Thyroxin from the thyroid gland controls:",
+       "options": [
+        "Blood sugar level",
+        "Emergency actions",
+        "Growth and metabolism",
+        "Working of other glands"
+       ],
+       "answer": 2,
+       "why": "The thyroid gland controls growth and metabolism through thyroxin, while the pancreas controls blood sugar through insulin and glucagon."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Diseases, Cause and Prevention",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Bacteria can be seen by a <strong>Microscope</strong>.</li><li>E.P.I. stands for <strong>Expanded Programme on Immunization</strong>.</li><li>The AIDS virus is called <strong>HIV</strong>.</li><li>The measles vaccination is given to a child at <strong>9th month</strong>.</li><li>Hepatitis virus spreads by faeco-<strong>Oral</strong> route through food and water.</li><li>B.C.G injection protects from <strong>Tuberculosis</strong>.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>Polio virus affects the nervous system. — <strong>True</strong></li><li>Antibiotic drugs are used against <strong>bacterial</strong> diseases, not against viral diseases.</li><li>Tuberculosis is a <strong>treatable</strong> disease.</li><li>AIDS <strong>is</strong> an infectious disease.</li><li>Cigarette smokers are not protected from lung and heart diseases; smoking <strong>causes</strong> these diseases.</li></ul><h4>Facts to Remember</h4><ul><li>A child is injected against measles at the age of <strong>9 months</strong>.</li><li>In hepatitis, <strong>water, sugarcane juice and other juices</strong> can all be used freely.</li><li>The first injection of BCG is given to a child <strong>at birth</strong>.</li><li>BCG saves the child from <strong>T.B.</strong></li><li>DPT is not effective against <strong>polio</strong>.</li><li>The chemical present in cigarette smoke which makes a person an addict is <strong>nicotine</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "E.P.I. stands for:",
+       "options": [
+        "Emergency Programme on Infection",
+        "Extended Plan of Injections",
+        "Expanded Programme on Immunization",
+        "Expanded Programme on Inoculation"
+       ],
+       "answer": 2,
+       "why": "The key facts state that E.P.I. stands for Expanded Programme on Immunization, the programme under which children are vaccinated."
+      },
+      {
+       "q": "The AIDS virus is called:",
+       "options": [
+        "DPT",
+        "EPI",
+        "BCG",
+        "HIV"
+       ],
+       "answer": 3,
+       "why": "The notes state that the AIDS virus is called HIV, which damages the immune system of the body."
+      },
+      {
+       "q": "The measles vaccination is given to a child at the:",
+       "options": [
+        "9th month",
+        "18th month",
+        "At birth",
+        "6th month"
+       ],
+       "answer": 0,
+       "why": "The key facts state that the measles vaccination is given to a child at the 9th month, and a child is injected against measles at the age of 9 months."
+      },
+      {
+       "q": "Hepatitis virus spreads by which route?",
+       "options": [
+        "Through mosquito bites",
+        "Faeco-oral route through food and water",
+        "Through the air only",
+        "Through infected blood only"
+       ],
+       "answer": 1,
+       "why": "The notes state that hepatitis virus spreads by the faeco-oral route through food and water."
+      },
+      {
+       "q": "B.C.G. injection protects a child from:",
+       "options": [
+        "Measles",
+        "Hepatitis",
+        "Tuberculosis",
+        "Polio"
+       ],
+       "answer": 2,
+       "why": "The key facts state that B.C.G. injection protects from tuberculosis, and BCG saves the child from T.B."
+      },
+      {
+       "q": "The first injection of BCG is given to a child:",
+       "options": [
+        "At 2 years",
+        "At 9 months",
+        "At 6 weeks",
+        "At birth"
+       ],
+       "answer": 3,
+       "why": "The facts to remember state that the first injection of BCG is given to a child at birth."
+      },
+      {
+       "q": "Polio virus affects the:",
+       "options": [
+        "Nervous system",
+        "Digestive system",
+        "Respiratory system",
+        "Bones"
+       ],
+       "answer": 0,
+       "why": "The true/false facts confirm that polio virus affects the nervous system; DPT is not effective against polio."
+      },
+      {
+       "q": "Antibiotic drugs are used against:",
+       "options": [
+        "All diseases equally",
+        "Bacterial diseases, not viral diseases",
+        "Only fungal diseases",
+        "Viral diseases, not bacterial diseases"
+       ],
+       "answer": 1,
+       "why": "The notes state that antibiotic drugs are used against bacterial diseases, not against viral diseases."
+      },
+      {
+       "q": "DPT is NOT effective against:",
+       "options": [
+        "Tetanus",
+        "Diphtheria",
+        "Polio",
+        "Whooping cough"
+       ],
+       "answer": 2,
+       "why": "DPT gives immunity against diphtheria, whooping cough and tetanus, but the facts to remember state that DPT is not effective against polio."
+      },
+      {
+       "q": "The chemical present in cigarette smoke which makes a person an addict is:",
+       "options": [
+        "Tar",
+        "Carbon monoxide",
+        "Caffeine",
+        "Nicotine"
+       ],
+       "answer": 3,
+       "why": "The notes state that the chemical present in cigarette smoke which makes a person an addict is nicotine."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><p>A child is vaccinated against measles at the age of 9 months. By this age the protection received from the mother has weakened, so the vaccine is needed to build the child's own immunity against measles.</p><p>The AIDS virus is called HIV, which stands for Human Immuno Deficiency Virus. It damages the immune system of the body, so the body can no longer defend itself against diseases.</p><p>DPT injection gives immunity against three diseases: diphtheria, whooping cough (pertussis) and tetanus. DPT stands for the vaccines against these three diseases given together in childhood.</p><p>Malaria spreads through the bite of the female Anopheles mosquito carrying the malaria parasite. When the infected mosquito bites a healthy person, the parasite enters the blood, attacks the red blood cells and causes fever with shivering.</p><p>Diseases are caused by different agents: bacteria, viruses, fungi, protozoa and worms. Mosquitoes, Ascaris and thread worms can also cause many diseases, and germs spread by air, water, touch, faeces and through animals.</p><p>Sterilization is the process of killing all germs from instruments, dressings and other articles by heat, boiling or chemicals. It prevents germs from entering wounds during treatment and stops the spread of infection in hospitals.</p>",
+     "mcqs": [
+      {
+       "q": "A child is vaccinated against measles at 9 months because by this age:",
+       "options": [
+        "The child starts going to school",
+        "The vaccine becomes cheaper",
+        "The virus becomes active in the air",
+        "The protection received from the mother has weakened"
+       ],
+       "answer": 3,
+       "why": "By the age of 9 months the protection received from the mother has weakened, so the vaccine is needed to build the child's own immunity against measles."
+      },
+      {
+       "q": "HIV stands for:",
+       "options": [
+        "Human Immuno Deficiency Virus",
+        "Highly Infectious Virus",
+        "Human Immunity Destroying Vaccine",
+        "Human Internal Deficiency Virus"
+       ],
+       "answer": 0,
+       "why": "The AIDS virus is called HIV, which stands for Human Immuno Deficiency Virus; it damages the immune system of the body."
+      },
+      {
+       "q": "HIV damages which system of the body?",
+       "options": [
+        "The circulatory system",
+        "The immune system",
+        "The nervous system",
+        "The digestive system"
+       ],
+       "answer": 1,
+       "why": "HIV damages the immune system of the body, so the body can no longer defend itself against diseases."
+      },
+      {
+       "q": "DPT injection gives immunity against which three diseases?",
+       "options": [
+        "Polio, measles and tetanus",
+        "Diphtheria, polio and measles",
+        "Diphtheria, whooping cough (pertussis) and tetanus",
+        "Tetanus, tuberculosis and whooping cough"
+       ],
+       "answer": 2,
+       "why": "DPT injection gives immunity against diphtheria, whooping cough (pertussis) and tetanus, the three vaccines given together in childhood."
+      },
+      {
+       "q": "Malaria spreads through the bite of:",
+       "options": [
+        "The housefly",
+        "The male Anopheles mosquito",
+        "The Aedes mosquito",
+        "The female Anopheles mosquito"
+       ],
+       "answer": 3,
+       "why": "Malaria spreads through the bite of the female Anopheles mosquito carrying the malaria parasite."
+      },
+      {
+       "q": "The malaria parasite enters the blood and attacks the:",
+       "options": [
+        "Red blood cells",
+        "Plasma",
+        "White blood cells",
+        "Platelets"
+       ],
+       "answer": 0,
+       "why": "When the infected mosquito bites a healthy person, the parasite enters the blood, attacks the red blood cells and causes fever with shivering."
+      },
+      {
+       "q": "Malaria causes fever with:",
+       "options": [
+        "Skin rash",
+        "Shivering",
+        "Severe headache only",
+        "Bleeding from gums"
+       ],
+       "answer": 1,
+       "why": "The malaria parasite attacks the red blood cells and causes fever with shivering, as stated in the notes."
+      },
+      {
+       "q": "Diseases are caused by agents such as bacteria, viruses, fungi and:",
+       "options": [
+        "Heat and cold",
+        "Vitamins and minerals",
+        "Protozoa and worms",
+        "Pollen and dust"
+       ],
+       "answer": 2,
+       "why": "Diseases are caused by different agents: bacteria, viruses, fungi, protozoa and worms, and germs spread by air, water, touch, faeces and through animals."
+      },
+      {
+       "q": "Sterilization is the process of:",
+       "options": [
+        "Giving vaccines to children",
+        "Washing instruments with plain water",
+        "Storing medicines in a cold place",
+        "Killing all germs from instruments, dressings and other articles"
+       ],
+       "answer": 3,
+       "why": "Sterilization is the process of killing all germs from instruments, dressings and other articles by heat, boiling or chemicals."
+      },
+      {
+       "q": "Sterilization of instruments and dressings is done by:",
+       "options": [
+        "Heat, boiling or chemicals",
+        "Sunlight only",
+        "Freezing in ice",
+        "Wrapping in cloth"
+       ],
+       "answer": 0,
+       "why": "Sterilization kills germs by heat, boiling or chemicals; it prevents germs from entering wounds during treatment and stops the spread of infection in hospitals."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>AIDS spreads through infected blood, by using infected needles and syringes, from an infected mother to her child, and through unprotected contact with an infected person. It does not spread by eating, shaking hands or living together. Prevention requires tested blood for transfusion, sterilized syringes, and public awareness about its causes and safety measures.</p><p>Malaria is prevented by avoiding mosquito bites and by destroying mosquitoes. Use mosquito nets and repellents, cover water containers, drain standing water, spray insecticides in houses and streets, and take complete anti-malarial treatment at once if fever appears.</p><p>Cigarette smoke contains many dangerous gases, including nicotine, tar and carbon monoxide, which cause diseases of the lungs and heart. Smoking makes a person addicted through nicotine, damages the lungs, raises the risk of cancer and heart disease, and harms the health of people nearby who breathe the smoke.</p><p>Mental diseases affect thinking, feeling and behaviour, and they must be treated like other diseases. They include severe anxiety and depression, in which a person feels constant fear or sadness, and more serious disorders in which a person loses touch with reality. Proper treatment, care and sympathy help such patients recover.</p><p>Dengue fever is a viral disease spread by the bite of the Aedes mosquito, which breeds in clean standing water. Its symptoms are sudden high fever, severe headache, pain in the joints and muscles, and skin rash. There is no specific medicine for it, so the patient needs rest, fluids and medical care.</p><p>Dengue fever is treated by rest, plenty of fluids and medicines for fever and pain given on a doctor's advice, with hospital care in serious cases. It is prevented by destroying Aedes mosquitoes: cover water containers, remove standing water, use nets and repellents, and keep the surroundings clean.</p><p>Dengue Haemorrhagic Fever is the severe form of dengue in which blood vessels leak and bleeding occurs from the nose, gums and skin, with a dangerous fall in platelets. The patient feels severe pain in the abdomen, vomits repeatedly and becomes weak, so urgent hospital treatment with fluids and blood care is needed to save life.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following does NOT spread AIDS?",
+       "options": [
+        "Shaking hands with an infected person",
+        "Using infected needles and syringes",
+        "Infected blood transfusion",
+        "From an infected mother to her child"
+       ],
+       "answer": 0,
+       "why": "AIDS spreads through infected blood, infected needles and syringes, from an infected mother to her child and unprotected contact; it does not spread by eating, shaking hands or living together."
+      },
+      {
+       "q": "For prevention of AIDS, blood used for transfusion must be:",
+       "options": [
+        "Frozen",
+        "Tested",
+        "Diluted",
+        "Imported"
+       ],
+       "answer": 1,
+       "why": "Prevention of AIDS requires tested blood for transfusion, sterilized syringes, and public awareness about its causes and safety measures."
+      },
+      {
+       "q": "Malaria can be prevented by:",
+       "options": [
+        "Taking vitamin tablets",
+        "Drinking boiled water only",
+        "Draining standing water and destroying mosquitoes",
+        "Avoiding cold drinks"
+       ],
+       "answer": 2,
+       "why": "Malaria is prevented by avoiding mosquito bites and destroying mosquitoes: use nets and repellents, cover water containers, drain standing water and spray insecticides."
+      },
+      {
+       "q": "Cigarette smoke contains the dangerous substances:",
+       "options": [
+        "Nicotine, oxygen and tar",
+        "Tar, carbon dioxide and hydrogen",
+        "Carbon monoxide, glucose and tar",
+        "Nicotine, tar and carbon monoxide"
+       ],
+       "answer": 3,
+       "why": "Cigarette smoke contains many dangerous gases, including nicotine, tar and carbon monoxide, which cause diseases of the lungs and heart."
+      },
+      {
+       "q": "Dengue fever is spread by the bite of:",
+       "options": [
+        "The Aedes mosquito",
+        "The housefly",
+        "The sandfly only",
+        "The female Anopheles mosquito"
+       ],
+       "answer": 0,
+       "why": "Dengue fever is a viral disease spread by the bite of the Aedes mosquito, which breeds in clean standing water."
+      },
+      {
+       "q": "The Aedes mosquito breeds in:",
+       "options": [
+        "Fast flowing rivers",
+        "Clean standing water",
+        "Dirty sewage water",
+        "Sea water"
+       ],
+       "answer": 1,
+       "why": "The Aedes mosquito breeds in clean standing water, so dengue is prevented by covering water containers and removing standing water."
+      },
+      {
+       "q": "Which of the following is a symptom of dengue fever?",
+       "options": [
+        "Fever with shivering at fixed hours",
+        "Bleeding from the nose in every case",
+        "Sudden high fever, severe headache and pain in the joints and muscles",
+        "Swelling of the neck glands"
+       ],
+       "answer": 2,
+       "why": "Symptoms of dengue fever are sudden high fever, severe headache, pain in the joints and muscles, and skin rash."
+      },
+      {
+       "q": "For dengue fever, the specific medicine is:",
+       "options": [
+        "Anti-malarial tablets",
+        "BCG injection",
+        "A special antibiotic course",
+        "There is no specific medicine for it"
+       ],
+       "answer": 3,
+       "why": "There is no specific medicine for dengue, so the patient needs rest, fluids and medical care, with medicines for fever and pain on a doctor's advice."
+      },
+      {
+       "q": "In Dengue Haemorrhagic Fever, there is a dangerous fall in:",
+       "options": [
+        "Platelets",
+        "Blood pressure only",
+        "Blood sugar",
+        "Body temperature"
+       ],
+       "answer": 0,
+       "why": "Dengue Haemorrhagic Fever is the severe form in which blood vessels leak, bleeding occurs and there is a dangerous fall in platelets, so urgent hospital treatment is needed."
+      },
+      {
+       "q": "Mental diseases include:",
+       "options": [
+        "Only physical weakness",
+        "Severe anxiety and depression",
+        "Only loss of memory in old age",
+        "Fever and headache"
+       ],
+       "answer": 1,
+       "why": "Mental diseases affect thinking, feeling and behaviour; they include severe anxiety and depression, in which a person feels constant fear or sadness, and they must be treated like other diseases."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Environment and Natural Resources",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Atmosphere is an <strong>Envelope</strong> of gases that covers the earth from all sides.</li><li>Ozone prevents <strong>Ultraviolet rays</strong> from reaching the earth.</li><li>Temperature of the thermosphere may be up to <strong>2000 C</strong>.</li><li>Radiation of <strong>Long</strong> wavelength cannot go out of greenhouse.</li><li>Substances that cause pollution of the environment are called <strong>Pollutants</strong>.</li><li>Coal, oil and gas are called <strong>Fossil fuels</strong>.</li><li>Fossil fuels and minerals are <strong>Non-renewable</strong> resources.</li><li>One reason for the extinction of many species is <strong>Habitat destruction</strong> destruction.</li><li>Areas reserved for wildlife are called <strong>Wildlife reserves</strong>.</li><li>Moving out from an area and settling in another area is called <strong>Migration</strong>.</li></ul><h4>Facts to Remember</h4><ul><li>The thickness of the atmosphere is <strong>200 km</strong>.</li><li>The proportion of carbon dioxide in air is <strong>0.04 percent</strong>.</li><li>Ozone forms a protective layer in the <strong>stratosphere</strong>.</li><li>The major cause of depletion of the ozone layer is <strong>chlorofluorocarbons</strong>.</li><li>About <strong>60 percent</strong> of the population of Pakistan is dependent upon agriculture.</li><li>The total number of persons living in an area is called its <strong>population</strong>.</li><li>Pakistan's population in 1998 was <strong>130.5 million</strong>.</li><li>At the present population growth rate of 2.6 percent, the population of Pakistan will double in <strong>27 years</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The thickness of the atmosphere is about:",
+       "options": [
+        "50 km",
+        "200 km",
+        "85 km",
+        "1000 km"
+       ],
+       "answer": 1,
+       "why": "The facts to remember state that the thickness of the atmosphere is 200 km; it is an envelope of gases that covers the earth from all sides."
+      },
+      {
+       "q": "Ozone prevents which rays from reaching the earth?",
+       "options": [
+        "X-rays",
+        "Gamma rays",
+        "Ultraviolet rays",
+        "Infrared rays"
+       ],
+       "answer": 2,
+       "why": "The key facts state that ozone prevents ultraviolet rays from reaching the earth; ozone forms a protective layer in the stratosphere."
+      },
+      {
+       "q": "The temperature of the thermosphere may be up to:",
+       "options": [
+        "100°C",
+        "200°C",
+        "500°C",
+        "2000°C"
+       ],
+       "answer": 3,
+       "why": "The notes state that the temperature of the thermosphere may be up to 2000°C, making it the outermost and hottest layer of the atmosphere."
+      },
+      {
+       "q": "The proportion of carbon dioxide in air is:",
+       "options": [
+        "0.04 percent",
+        "0.4 percent",
+        "4 percent",
+        "21 percent"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that the proportion of carbon dioxide in air is 0.04 percent."
+      },
+      {
+       "q": "The major cause of depletion of the ozone layer is:",
+       "options": [
+        "Methane",
+        "Chlorofluorocarbons",
+        "Smoke from vehicles",
+        "Carbon dioxide"
+       ],
+       "answer": 1,
+       "why": "The notes state that the major cause of depletion of the ozone layer is chlorofluorocarbons (CFCs)."
+      },
+      {
+       "q": "Coal, oil and gas are called:",
+       "options": [
+        "Minerals",
+        "Renewable resources",
+        "Fossil fuels",
+        "Pollutants"
+       ],
+       "answer": 2,
+       "why": "The key facts state that coal, oil and gas are called fossil fuels, and fossil fuels and minerals are non-renewable resources."
+      },
+      {
+       "q": "Pakistan's population in 1998 was:",
+       "options": [
+        "100.5 million",
+        "150.5 million",
+        "120.5 million",
+        "130.5 million"
+       ],
+       "answer": 3,
+       "why": "The facts to remember state that Pakistan's population in 1998 was 130.5 million."
+      },
+      {
+       "q": "At the present population growth rate of 2.6 percent, the population of Pakistan will double in:",
+       "options": [
+        "27 years",
+        "37 years",
+        "50 years",
+        "17 years"
+       ],
+       "answer": 0,
+       "why": "The notes state that at the growth rate of 2.6 percent the population will double in 27 years; indeed (1.026)^27 is about 2, verified by calculation."
+      },
+      {
+       "q": "About what percent of the population of Pakistan is dependent upon agriculture?",
+       "options": [
+        "25 percent",
+        "60 percent",
+        "40 percent",
+        "80 percent"
+       ],
+       "answer": 1,
+       "why": "The facts to remember state that about 60 percent of the population of Pakistan is dependent upon agriculture."
+      },
+      {
+       "q": "Moving out from an area and settling in another area is called:",
+       "options": [
+        "Pollution",
+        "Conservation",
+        "Migration",
+        "Extinction"
+       ],
+       "answer": 2,
+       "why": "The key facts define migration as moving out from an area and settling in another area."
+      }
+     ]
+    },
+    {
+     "title": "Short Questions",
+     "notes_html": "<h4>Short Questions</h4><p>Pollution is the addition of harmful substances to the environment. Pollutants are the substances that cause pollution of the environment. Recycling is the production of new useful articles from used materials. Endangered species are those animals and plants which are in danger of extinction, like the snow leopard, Indus river blind dolphin and Balochistan bear in Pakistan.</p><p>The four layers of the atmosphere are the troposphere, the stratosphere, the mesosphere and the thermosphere. The troposphere extends to about 18 km, the stratosphere to 50 km, the mesosphere to about 85 km, and the thermosphere is the outermost and hottest layer.</p><p>Two effects of the greenhouse effect on the environment are: the earth's climate and weather may change, and melting of ice caps on the poles and mountains and excessive rains may raise the sea level, so many coastal areas may go under sea.</p><p>Two methods of conservation of natural resources are recycling of used materials and reuse of articles of common use, and substitution, that is, use of alternatives. We should also make minimum and only necessary use of resources and not waste them.</p><p>Two benefits of wildlife are that wildlife maintains the balance of nature and the beauty of the environment, and it is a source of food, medicines and other useful materials for man. National parks and wildlife reserves also provide places for education and research.</p>",
+     "mcqs": [
+      {
+       "q": "Substances that cause pollution of the environment are called:",
+       "options": [
+        "Resources",
+        "Fossil fuels",
+        "Pollutants",
+        "Species"
+       ],
+       "answer": 2,
+       "why": "Pollution is the addition of harmful substances to the environment, and the substances that cause pollution are called pollutants."
+      },
+      {
+       "q": "Which of the following is an endangered species in Pakistan?",
+       "options": [
+        "Domestic goat",
+        "Common crow",
+        "House sparrow",
+        "Indus river blind dolphin"
+       ],
+       "answer": 3,
+       "why": "Endangered species are animals and plants in danger of extinction, like the snow leopard, Indus river blind dolphin and Balochistan bear in Pakistan."
+      },
+      {
+       "q": "The troposphere extends to about:",
+       "options": [
+        "18 km",
+        "200 km",
+        "50 km",
+        "85 km"
+       ],
+       "answer": 0,
+       "why": "The troposphere extends to about 18 km, the stratosphere to 50 km, and the mesosphere to about 85 km."
+      },
+      {
+       "q": "The stratosphere extends to about:",
+       "options": [
+        "18 km",
+        "50 km",
+        "85 km",
+        "200 km"
+       ],
+       "answer": 1,
+       "why": "The four layers of the atmosphere are the troposphere (about 18 km), stratosphere (50 km), mesosphere (about 85 km) and thermosphere."
+      },
+      {
+       "q": "The mesosphere extends to about:",
+       "options": [
+        "50 km",
+        "200 km",
+        "85 km",
+        "18 km"
+       ],
+       "answer": 2,
+       "why": "The notes state that the mesosphere extends to about 85 km, above the stratosphere which extends to 50 km."
+      },
+      {
+       "q": "The outermost and hottest layer of the atmosphere is the:",
+       "options": [
+        "Mesosphere",
+        "Troposphere",
+        "Stratosphere",
+        "Thermosphere"
+       ],
+       "answer": 3,
+       "why": "The thermosphere is the outermost and hottest layer of the atmosphere, where the temperature may be as high as 2000°C."
+      },
+      {
+       "q": "One effect of the greenhouse effect is that melting of ice caps may:",
+       "options": [
+        "Raise the sea level and submerge coastal areas",
+        "Increase the thickness of ice caps",
+        "Lower the sea level",
+        "Stop all rainfall"
+       ],
+       "answer": 0,
+       "why": "Due to the greenhouse effect, melting of ice caps on the poles and mountains and excessive rains may raise the sea level, so many coastal areas may go under sea."
+      },
+      {
+       "q": "Conservation of resources by using alternatives in place of a resource is called:",
+       "options": [
+        "Migration",
+        "Substitution",
+        "Pollution",
+        "Recycling"
+       ],
+       "answer": 1,
+       "why": "Two methods of conservation are recycling and reuse, and substitution, that is, the use of alternatives; we should also make minimum and only necessary use of resources."
+      },
+      {
+       "q": "Wildlife is important because it maintains the:",
+       "options": [
+        "Thickness of atmosphere",
+        "Population of cities",
+        "Balance of nature",
+        "Price of food grains"
+       ],
+       "answer": 2,
+       "why": "Wildlife maintains the balance of nature and the beauty of the environment, and it is a source of food, medicines and other useful materials for man."
+      },
+      {
+       "q": "National parks and wildlife reserves also provide places for:",
+       "options": [
+        "Industries and factories",
+        "Housing colonies",
+        "Mining of minerals",
+        "Education and research"
+       ],
+       "answer": 3,
+       "why": "The notes state that national parks and wildlife reserves provide places for education and research, besides protecting wildlife."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>The atmosphere is an envelope of gases that covers the earth from all sides and is about 200 km thick. It is made up of about 78 percent nitrogen and 21 percent oxygen, and the remaining one percent consists of water vapour and trace gases like carbon dioxide, hydrogen, argon, helium and ozone. Its four layers are the troposphere, where most weather occurs; the stratosphere, whose upper part contains the ozone layer; the mesosphere, the coldest layer; and the thermosphere, the outermost and hottest layer, where temperature may be as high as 2000 C.</p><p>Ozone is a gas present in the upper stratosphere. It forms a protective covering around the earth, which prevents ultraviolet radiations from reaching the earth. Certain chemicals released from refrigerators, air conditioners, spray cans and factories making packing foams are called chlorofluorocarbons (CFCs). CFCs react with ozone, causing its depletion and thinning of the ozone layer. Consequently a greater number of ultraviolet radiations reach the earth, and these radiations may cause cancer and eye diseases.</p><p>The greenhouse effect is the phenomenon in which solar radiations of short wavelength enter the atmosphere but heat waves of long wavelength cannot go out, so the temperature inside rises. Its causes are the increase in greenhouse gases like carbon dioxide, chlorofluorocarbons and methane in the air due to industrialization and burning of fossil fuels. Its effects are change in the earth's climate and weather, melting of ice caps and rising sea level, and flooding of coastal areas.</p><p>Human activities affect the environment in many ways. Burning of fossil fuels increases carbon dioxide and produces smoke and gases that pollute the air. Industrial wastes, trash and sewage discharged into water bodies cause water pollution, and municipal trash and chemicals cause land pollution. Cutting of forests destroys natural habitats, and rising population increases the demand for food, housing and energy, which puts resources under pressure and lowers the quality of life.</p><p>Aquatic pollution is caused when industrial wastes, trash and sewage from cities are discharged into rivers, streams, ponds, lakes and oceans, and when oil spills from tankers and chemical fertilizers and pesticides washed off from crops enter the water. Its effects are the decrease of oxygen in water, death of fish and aquatic plants, and diseases like cholera and typhoid in man. It is controlled by treating domestic, industrial and hospital wastes before throwing them into water, by not throwing waste articles into water bodies, and by enforcing minimum environmental standards on industries.</p><p>Fossil fuels are coal, oil and gas, formed from the remains of plants and animals of the remote past buried under the earth. They are used for transport, power generation, agriculture and industry, and natural gas is used in power plants, cement and fertilizer production, and in homes for heating and cooking. Their environmental effects are that burning of fossil fuels produces smoke and gases which pollute the air and increase carbon dioxide, and large areas of fertile land, forests and natural habitats are destroyed during exploration and drilling of coal and oil.</p><p>Conservation of resources means the careful use of natural resources so that they last for future generations. Fossil fuels and minerals are non-renewable resources because they cannot be reproduced or take millions of years to reform, and they may end up soon if their excessive use continues. They are conserved by recycling used materials, by substitution with alternatives, by reuse of articles of common use, and by making minimum and only necessary use of resources.</p><p>Mechanized farming means cultivation with tractors, tube wells, harvesters and threshers instead of only muscle power, which increases crop yield and production for export and earning money. Dairy, poultry and fish farming provide milk, meat and eggs and are an important part of agriculture in Pakistan. Wildlife conservation means saving wildlife from extinction by re-establishing habitats and marking certain areas as wildlife reserves and national parks, where human interference is strictly prohibited except for education and research. Wildlife is important because it maintains the balance of nature and provides food, medicines and beauty to the environment.</p><p>Increase in population causes environmental problems of physical, economic and social nature. Basic necessities of life like clean air, water, housing and food are not properly fulfilled, and facilities of health and education are not available for all. Resources come under pressure and development stops, poverty and poor quality of life increase, forests are destroyed, cities expand, and problems like crime, hunger and sense of deprivation cast very negative effects on society. Migration from rural to urban areas leads to a huge increase in city population and forces many people to live in slums.</p>",
+     "mcqs": [
+      {
+       "q": "The atmosphere is made up of about ______ nitrogen.",
+       "options": [
+        "21 percent",
+        "50 percent",
+        "90 percent",
+        "78 percent"
+       ],
+       "answer": 3,
+       "why": "The atmosphere is made up of about 78 percent nitrogen and 21 percent oxygen, and the remaining one percent consists of water vapour and trace gases (78 + 21 = 99, leaving 1 percent)."
+      },
+      {
+       "q": "The atmosphere contains about ______ oxygen.",
+       "options": [
+        "21 percent",
+        "0.04 percent",
+        "1 percent",
+        "78 percent"
+       ],
+       "answer": 0,
+       "why": "The atmosphere contains about 21 percent oxygen and 78 percent nitrogen, with the remaining one percent made of water vapour and trace gases like carbon dioxide and ozone."
+      },
+      {
+       "q": "Most of the weather occurs in which layer of the atmosphere?",
+       "options": [
+        "Thermosphere",
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere"
+       ],
+       "answer": 1,
+       "why": "The troposphere is the lowest layer of the atmosphere, where most weather occurs; the stratosphere contains the ozone layer in its upper part."
+      },
+      {
+       "q": "The coldest layer of the atmosphere is the:",
+       "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+       ],
+       "answer": 2,
+       "why": "The mesosphere is the coldest layer of the atmosphere, while the thermosphere is the outermost and hottest layer."
+      },
+      {
+       "q": "Chlorofluorocarbons (CFCs) are released from:",
+       "options": [
+        "Plants during photosynthesis",
+        "Burning of wood only",
+        "Volcanoes and hot springs",
+        "Refrigerators, air conditioners, spray cans and foam factories"
+       ],
+       "answer": 3,
+       "why": "CFCs are chemicals released from refrigerators, air conditioners, spray cans and factories making packing foams; they react with ozone and cause its depletion."
+      },
+      {
+       "q": "A greater amount of ultraviolet radiation reaching the earth may cause:",
+       "options": [
+        "Cancer and eye diseases",
+        "Deafness and blindness only",
+        "Rickets and goitre",
+        "Malaria and dengue"
+       ],
+       "answer": 0,
+       "why": "Due to depletion of the ozone layer, more ultraviolet radiations reach the earth, and these radiations may cause cancer and eye diseases."
+      },
+      {
+       "q": "In the greenhouse effect, the radiations that cannot go out of the atmosphere are:",
+       "options": [
+        "Solar radiations of short wavelength",
+        "Heat waves of long wavelength",
+        "Ultraviolet radiations",
+        "Radio waves"
+       ],
+       "answer": 1,
+       "why": "In the greenhouse effect, solar radiations of short wavelength enter the atmosphere but heat waves of long wavelength cannot go out, so the temperature inside rises."
+      },
+      {
+       "q": "Aquatic pollution decreases which of the following in water?",
+       "options": [
+        "Minerals",
+        "Temperature",
+        "Oxygen",
+        "Germs"
+       ],
+       "answer": 2,
+       "why": "Effects of aquatic pollution are the decrease of oxygen in water, death of fish and aquatic plants, and diseases like cholera and typhoid in man."
+      },
+      {
+       "q": "Aquatic pollution in man can cause diseases like:",
+       "options": [
+        "Goitre and rickets",
+        "Cancer and diabetes",
+        "Rabies and malaria",
+        "Cholera and typhoid"
+       ],
+       "answer": 3,
+       "why": "Industrial wastes, sewage and oil spills pollute water; its effects include diseases like cholera and typhoid in man, controlled by treating wastes before discharge."
+      },
+      {
+       "q": "Fossil fuels were formed from:",
+       "options": [
+        "The remains of plants and animals of the remote past buried under the earth",
+        "Molten rocks inside the earth",
+        "Sea water dried up in lakes",
+        "Sand and stones pressed together"
+       ],
+       "answer": 0,
+       "why": "Fossil fuels are coal, oil and gas, formed from the remains of plants and animals of the remote past buried under the earth."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7: Energy",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Work is the product of force and distance travelled in the direction of <strong>Force</strong>.</li><li>We can see things with the help of <strong>Light</strong>.</li><li>Photocells convert light into <strong>Electricity</strong>.</li><li>The energy of the sea tides is called <strong>Tidal</strong> energy.</li><li>The safe disposal of <strong>Nuclear waste</strong> is very necessary to protect from radiation.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>The energy possessed by a body due to its position is called <strong>potential energy</strong>.</li><li>Electrical energy is the energy of flowing charges. — <strong>True</strong></li><li>Chemical potential energy is stored in fossil fuels. — <strong>True</strong></li><li>Cooling towers of nuclear reactors <strong>release</strong> the heat of the reactor into the atmosphere.</li><li>Pollution added <strong>beyond a certain limit</strong> causes degradation of environment; up to that limit, nature can absorb it.</li></ul><h4>Facts to Remember</h4><ul><li>The unit of energy is the <strong>joule</strong>.</li><li>The energy due to motion is called <strong>kinetic energy</strong>.</li><li><strong>Hydroelectric power</strong> is the method of producing electricity that does not produce pollution.</li><li>By burning fossil fuels, we get <strong>thermal power</strong>.</li><li>We can save energy by <strong>avoiding the unnecessary use of energy</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Work is the product of force and:",
+       "options": [
+        "Distance travelled in the direction of force",
+        "Time taken to move",
+        "Mass of the body",
+        "Speed of the body"
+       ],
+       "answer": 0,
+       "why": "The key facts state that work is the product of force and distance travelled in the direction of force."
+      },
+      {
+       "q": "Photocells convert light into:",
+       "options": [
+        "Sound",
+        "Electricity",
+        "Chemical energy",
+        "Heat"
+       ],
+       "answer": 1,
+       "why": "The notes state that photocells convert light into electricity; this is how solar energy is used to produce electricity."
+      },
+      {
+       "q": "The energy of the sea tides is called:",
+       "options": [
+        "Nuclear energy",
+        "Geothermal energy",
+        "Tidal energy",
+        "Hydroelectric energy"
+       ],
+       "answer": 2,
+       "why": "The key facts state that the energy of the sea tides is called tidal energy, one of the non-conventional methods of producing electricity."
+      },
+      {
+       "q": "The unit of energy is the:",
+       "options": [
+        "Watt",
+        "Ampere",
+        "Ohm",
+        "Joule"
+       ],
+       "answer": 3,
+       "why": "The facts to remember state that the unit of energy is the joule."
+      },
+      {
+       "q": "The energy possessed by a body due to its motion is called:",
+       "options": [
+        "Kinetic energy",
+        "Chemical energy",
+        "Nuclear energy",
+        "Potential energy"
+       ],
+       "answer": 0,
+       "why": "The energy due to motion is called kinetic energy, while the energy possessed by a body due to its position is called potential energy."
+      },
+      {
+       "q": "The energy possessed by a body due to its position is called:",
+       "options": [
+        "Electrical energy",
+        "Potential energy",
+        "Kinetic energy",
+        "Heat energy"
+       ],
+       "answer": 1,
+       "why": "The true/false facts confirm that the energy possessed by a body due to its position is called potential energy."
+      },
+      {
+       "q": "Which method of producing electricity does not produce pollution?",
+       "options": [
+        "Thermal power",
+        "Burning of fossil fuels",
+        "Hydroelectric power",
+        "Nuclear power"
+       ],
+       "answer": 2,
+       "why": "The facts to remember state that hydroelectric power is the method of producing electricity that does not produce pollution."
+      },
+      {
+       "q": "By burning fossil fuels, we get:",
+       "options": [
+        "Tidal energy",
+        "Geothermal energy",
+        "Hydroelectric power",
+        "Thermal power"
+       ],
+       "answer": 3,
+       "why": "The notes state that by burning fossil fuels, we get thermal power, while chemical potential energy is stored in fossil fuels."
+      },
+      {
+       "q": "Chemical potential energy is stored in:",
+       "options": [
+        "Fossil fuels",
+        "Stretched springs",
+        "Batteries only",
+        "Flowing water"
+       ],
+       "answer": 0,
+       "why": "The true/false facts confirm that chemical potential energy is stored in fossil fuels like coal, oil and gas."
+      },
+      {
+       "q": "Cooling towers of nuclear reactors release which of the following into the atmosphere?",
+       "options": [
+        "Nuclear waste",
+        "The heat of the reactor",
+        "Steam of radioactive water",
+        "Carbon dioxide only"
+       ],
+       "answer": 1,
+       "why": "The notes state that cooling towers of nuclear reactors release the heat of the reactor into the atmosphere."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers",
+     "notes_html": "<h4>Short Answers</h4><p>The law of conservation of energy states that energy can neither be created nor destroyed, but it can be changed from one form to another. For example, when a body is taken to a height, gravitational potential energy is stored in it, and when it is dropped, this energy converts into kinetic energy.</p><p>The unit of electrical energy is the kilowatt-hour. One kilowatt-hour is the energy consumed when an appliance of one kilowatt power is used for one hour, and it is the unit in which electricity bills are charged.</p><p>Environment is the living place of people, including the physical and social factors around them. It includes air, water, land, plants, animals and the social conditions in which people live.</p><p>Degradation of environment means the addition of pollution to the environment more than a certain limit, so that the quality of air, water and land falls and the life of plants, animals and man is harmed.</p><p>Three conventional methods of producing electricity are hydroelectric power, thermal power and nuclear power. Five non-conventional methods are solar energy, wind energy, tidal energy, geothermal energy and biogas energy.</p><p>Three suggestions for the conservation of energy are: avoid unnecessary use of energy, use energy-saving appliances and bulbs, and use public transport and walk for short distances instead of using personal vehicles.</p><p>Two suggestions for the safe disposal of nuclear waste are: bury the waste deep underground in sealed containers in safe places away from people and water, and keep it under strict watch so that its radiations cannot reach living things.</p>",
+     "mcqs": [
+      {
+       "q": "The law of conservation of energy states that energy:",
+       "options": [
+        "Can be created but not destroyed",
+        "Can neither be created nor destroyed, but can be changed from one form to another",
+        "Can be destroyed but not created",
+        "Always remains in the same form"
+       ],
+       "answer": 1,
+       "why": "The law of conservation of energy states that energy can neither be created nor destroyed, but it can be changed from one form to another."
+      },
+      {
+       "q": "When a body raised to a height is dropped, its potential energy converts into:",
+       "options": [
+        "Nuclear energy",
+        "Heat energy only",
+        "Kinetic energy",
+        "Chemical energy"
+       ],
+       "answer": 2,
+       "why": "When a body is taken to a height, gravitational potential energy is stored in it, and when it is dropped, this energy converts into kinetic energy."
+      },
+      {
+       "q": "The unit of electrical energy is the:",
+       "options": [
+        "Volt",
+        "Joule",
+        "Watt",
+        "Kilowatt-hour"
+       ],
+       "answer": 3,
+       "why": "The unit of electrical energy is the kilowatt-hour, and it is the unit in which electricity bills are charged."
+      },
+      {
+       "q": "One kilowatt-hour is the energy consumed when an appliance of one kilowatt power is used for:",
+       "options": [
+        "One hour",
+        "One minute",
+        "Ten hours",
+        "Half an hour"
+       ],
+       "answer": 0,
+       "why": "One kilowatt-hour is the energy consumed when an appliance of one kilowatt power is used for one hour (1 kW x 1 h = 1 kWh, verified by calculation)."
+      },
+      {
+       "q": "Which of the following is a conventional method of producing electricity?",
+       "options": [
+        "Wind energy",
+        "Nuclear power",
+        "Tidal energy",
+        "Solar energy"
+       ],
+       "answer": 1,
+       "why": "Three conventional methods of producing electricity are hydroelectric power, thermal power and nuclear power; solar, wind and tidal are non-conventional methods."
+      },
+      {
+       "q": "Which of the following is a non-conventional method of producing electricity?",
+       "options": [
+        "Nuclear power",
+        "Hydroelectric power",
+        "Biogas energy",
+        "Thermal power"
+       ],
+       "answer": 2,
+       "why": "Five non-conventional methods are solar energy, wind energy, tidal energy, geothermal energy and biogas energy."
+      },
+      {
+       "q": "Degradation of environment means:",
+       "options": [
+        "Planting more trees in an area",
+        "Cleaning of rivers and streets",
+        "Normal change of weather",
+        "Addition of pollution to the environment more than a certain limit"
+       ],
+       "answer": 3,
+       "why": "Degradation of environment means the addition of pollution to the environment more than a certain limit, so that the quality of air, water and land falls."
+      },
+      {
+       "q": "For the safe disposal of nuclear waste, it should be:",
+       "options": [
+        "Buried deep underground in sealed containers in safe places",
+        "Burnt in open air",
+        "Stored in houses",
+        "Thrown into rivers"
+       ],
+       "answer": 0,
+       "why": "Nuclear waste should be buried deep underground in sealed containers in safe places away from people and water, and kept under strict watch so its radiations cannot reach living things."
+      },
+      {
+       "q": "Energy can be saved by:",
+       "options": [
+        "Using personal vehicles for short distances",
+        "Avoiding the unnecessary use of energy",
+        "Using more appliances at night",
+        "Keeping lights on all day"
+       ],
+       "answer": 1,
+       "why": "Suggestions for conservation of energy include avoiding unnecessary use of energy, using energy-saving appliances and bulbs, and using public transport."
+      },
+      {
+       "q": "According to the notes, the environment of people includes:",
+       "options": [
+        "Only forests and rivers",
+        "Only the weather of an area",
+        "Air, water, land, plants, animals and the social conditions around them",
+        "Only buildings and roads"
+       ],
+       "answer": 2,
+       "why": "Environment is the living place of people, including the physical and social factors around them: air, water, land, plants, animals and the social conditions in which people live."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>Energy is the ability of a body to do work. Kinetic energy is the energy possessed by a body due to its motion, for example a running cricket ball or flowing water. Potential energy is the energy possessed by a body due to its position, for example a stone lying at a height or water stored in a dam. The moving ball can do work because of its motion, while the stone at a height can do work when it falls.</p><p>The different forms of energy are kinetic energy, potential energy, elastic potential energy, chemical energy, heat energy, light energy, electrical energy and nuclear energy. Heat energy is due to the movement of molecules, light energy helps us see things, electrical energy is the energy of moving charges, and nuclear energy is obtained by breaking the nuclei of heavy atoms or by fusion of small nuclei.</p><p>Interconversion of energy means the change of energy from one form to another in different conditions. For example, the chemical energy in cells or batteries converts into electrical energy, and the electrical energy in a bulb converts into heat and light. The law of conservation of energy states that energy can neither be created nor destroyed, it only changes its form.</p><p>The conventional methods of producing electricity are hydroelectric power, thermal power and nuclear power. In hydroelectric power, water stored in a dam is allowed to fall on turbines, which run generators and produce electricity. This method does not produce pollution, and the water can be used again for irrigation after producing electricity.</p><p>Three non-conventional methods of producing electricity are solar energy, in which photocells convert light into electricity; wind energy, in which windmills run generators; and tidal energy, in which the energy of sea tides runs turbines. Other methods are geothermal energy from the heat inside the earth and biogas energy from biomass.</p><p>Electrical energy is measured in kilowatt-hours, which is the unit shown on the electricity meter. The meter works on the principle that when current passes through its coils, a magnetic field is produced which rotates an aluminium disc. The speed of the disc depends on the power being used, and the number of revolutions of the disc is counted to show the total energy consumed in kilowatt-hours.</p><p>Thermal pollution is the addition of heat and harmful gases to the atmosphere. It is produced when hot water from power stations and factories is thrown into rivers and when fossil fuels are burnt, which raises the temperature of air and water. It affects the environment by disturbing aquatic life, reducing oxygen in water and increasing the temperature of the surroundings.</p><p>Nuclear fuel hazards are the dangers of radiations from nuclear fuel and nuclear waste, which can cause cancer and other diseases and harm living things for a long time. Nuclear waste must be disposed of safely in sealed containers deep underground. Conservation of energy means avoiding unnecessary use of energy, using energy-saving devices, and using public transport, so that energy resources last longer and pollution is reduced.</p>",
+     "mcqs": [
+      {
+       "q": "Energy is defined as:",
+       "options": [
+        "The product of force and time",
+        "The opposition to flow of charges",
+        "The ability of a body to do work",
+        "The amount of heat in a body"
+       ],
+       "answer": 2,
+       "why": "Energy is the ability of a body to do work; kinetic energy is due to motion and potential energy is due to position."
+      },
+      {
+       "q": "Which of the following is an example of kinetic energy?",
+       "options": [
+        "Water stored in a dam",
+        "A stretched rubber band",
+        "A stone lying at a height",
+        "A running cricket ball"
+       ],
+       "answer": 3,
+       "why": "Kinetic energy is the energy possessed by a body due to its motion, for example a running cricket ball or flowing water."
+      },
+      {
+       "q": "Which of the following is an example of potential energy?",
+       "options": [
+        "Water stored in a dam",
+        "A moving train",
+        "A running cricket ball",
+        "Flowing water in a river"
+       ],
+       "answer": 0,
+       "why": "Potential energy is the energy possessed by a body due to its position, for example a stone lying at a height or water stored in a dam."
+      },
+      {
+       "q": "Heat energy is due to the:",
+       "options": [
+        "Flow of charges",
+        "Movement of molecules",
+        "Breaking of nuclei",
+        "Reflection of light"
+       ],
+       "answer": 1,
+       "why": "Among the forms of energy, heat energy is due to the movement of molecules, light energy helps us see things, and electrical energy is the energy of moving charges."
+      },
+      {
+       "q": "Nuclear energy is obtained by:",
+       "options": [
+        "Falling of water on turbines",
+        "Movement of molecules",
+        "Breaking the nuclei of heavy atoms or by fusion of small nuclei",
+        "Burning of fossil fuels"
+       ],
+       "answer": 2,
+       "why": "The notes state that nuclear energy is obtained by breaking the nuclei of heavy atoms or by fusion of small nuclei."
+      },
+      {
+       "q": "In an electric bulb, electrical energy converts into:",
+       "options": [
+        "Nuclear energy",
+        "Sound and motion",
+        "Chemical energy only",
+        "Heat and light"
+       ],
+       "answer": 3,
+       "why": "Interconversion of energy: the chemical energy in batteries converts into electrical energy, and the electrical energy in a bulb converts into heat and light."
+      },
+      {
+       "q": "In hydroelectric power, water stored in a dam is allowed to fall on:",
+       "options": [
+        "Turbines, which run generators",
+        "Photocells, which store charge",
+        "Cooling towers, which release heat",
+        "Windmills, which pump water"
+       ],
+       "answer": 0,
+       "why": "In hydroelectric power, water stored in a dam falls on turbines, which run generators and produce electricity without pollution."
+      },
+      {
+       "q": "After producing electricity in hydroelectric power, the water can be used again for:",
+       "options": [
+        "Making steam",
+        "Irrigation",
+        "Cooling reactors",
+        "Drinking directly"
+       ],
+       "answer": 1,
+       "why": "In hydroelectric power the water can be used again for irrigation after producing electricity, as stated in the notes."
+      },
+      {
+       "q": "The electricity meter rotates which part when current passes through its coils?",
+       "options": [
+        "A glass dial",
+        "A copper needle",
+        "An aluminium disc",
+        "A magnetic needle only"
+       ],
+       "answer": 2,
+       "why": "The meter works on the principle that when current passes through its coils, a magnetic field is produced which rotates an aluminium disc; the revolutions are counted to show energy in kilowatt-hours."
+      },
+      {
+       "q": "Thermal pollution affects water by:",
+       "options": [
+        "Increasing oxygen in water",
+        "Making water cleaner",
+        "Stopping the flow of water",
+        "Reducing oxygen in water and disturbing aquatic life"
+       ],
+       "answer": 3,
+       "why": "Thermal pollution is produced when hot water from power stations and factories is thrown into rivers; it disturbs aquatic life, reduces oxygen in water and increases the temperature of the surroundings."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8: Current Electricity",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>The current flowing through a conductor can be considered analogous to water flowing through a <strong>Pipe</strong>.</li><li>Potential difference is also called <strong>Voltage</strong>.</li><li>The <strong>Opposition</strong> to the flow of charges is called resistance.</li><li>The charge on a capacitor is proportional to <strong>Potential difference</strong>.</li><li>Ammeter is always connected in <strong>Series</strong> with the circuit.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>Amount of charge passing through any cross-section in one second is called electric current. — <strong>True</strong></li><li>The unit of electric current is the <strong>ampere</strong>.</li><li>Current flows from higher potential to lower potential. — <strong>True</strong></li><li>Switches should always be placed in the way of live wire. — <strong>True</strong></li><li>D.C. voltage <strong>cannot</strong> be decreased or increased with the help of a transformer; a transformer works only with A.C.</li></ul><h4>Facts to Remember</h4><ul><li>The instrument that measures current is called an <strong>ammeter</strong>.</li><li>The potential of the neutral wire is <strong>zero</strong>.</li><li>The SI unit of resistance is the <strong>ohm</strong>.</li><li>The constant in Ohm's law is <strong>resistance</strong>.</li><li>The device used for turning a circuit ON or OFF is a <strong>switch</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Potential difference is also called:",
+       "options": [
+        "Resistance",
+        "Current",
+        "Capacitance",
+        "Voltage"
+       ],
+       "answer": 3,
+       "why": "The key facts state that potential difference is also called voltage, and its unit is the volt."
+      },
+      {
+       "q": "The opposition to the flow of charges is called:",
+       "options": [
+        "Resistance",
+        "Current",
+        "Induction",
+        "Voltage"
+       ],
+       "answer": 0,
+       "why": "The notes state that the opposition to the flow of charges is called resistance, and its SI unit is the ohm."
+      },
+      {
+       "q": "An ammeter is always connected in ______ with the circuit.",
+       "options": [
+        "Outside the circuit",
+        "Series",
+        "Parallel",
+        "Series or parallel"
+       ],
+       "answer": 1,
+       "why": "The key facts state that an ammeter is always connected in series with the circuit, so it measures the current flowing through it."
+      },
+      {
+       "q": "The unit of electric current is the:",
+       "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Joule"
+       ],
+       "answer": 2,
+       "why": "The true/false facts confirm that the unit of electric current is the ampere; current is the amount of charge passing through any cross-section in one second."
+      },
+      {
+       "q": "Current flows from:",
+       "options": [
+        "Neutral wire to live wire",
+        "Earth to the battery",
+        "Lower potential to higher potential",
+        "Higher potential to lower potential"
+       ],
+       "answer": 3,
+       "why": "The notes confirm that current flows from higher potential to lower potential, and switches should always be placed in the way of the live wire."
+      },
+      {
+       "q": "The potential of the neutral wire is:",
+       "options": [
+        "Zero",
+        "Always negative",
+        "220 volts",
+        "Equal to the live wire"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that the potential of the neutral wire is zero."
+      },
+      {
+       "q": "The SI unit of resistance is the:",
+       "options": [
+        "Ampere",
+        "Ohm",
+        "Volt",
+        "Watt"
+       ],
+       "answer": 1,
+       "why": "The notes state that the SI unit of resistance is the ohm, and resistance is the constant in Ohm's law."
+      },
+      {
+       "q": "The constant in Ohm's law is:",
+       "options": [
+        "Voltage",
+        "Charge",
+        "Resistance",
+        "Current"
+       ],
+       "answer": 2,
+       "why": "Ohm's law relates potential difference, current and resistance, and the facts to remember state that the constant in Ohm's law is resistance."
+      },
+      {
+       "q": "The charge stored on a capacitor is proportional to the:",
+       "options": [
+        "Time of charging only",
+        "Current in the circuit",
+        "Resistance of the wires",
+        "Potential difference between its plates"
+       ],
+       "answer": 3,
+       "why": "The key facts state that the charge on a capacitor is proportional to the potential difference between its plates."
+      },
+      {
+       "q": "A transformer works only with:",
+       "options": [
+        "A.C.",
+        "D.C.",
+        "Both A.C. and D.C.",
+        "Battery current"
+       ],
+       "answer": 0,
+       "why": "D.C. voltage cannot be decreased or increased with the help of a transformer; a transformer works only with A.C."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers",
+     "notes_html": "<h4>Short Answers</h4><p>Electric current is the amount of charge passing through any cross-section of a conductor in one second. Its unit is the ampere, and it is measured by an ammeter connected in series with the circuit.</p><p>Potential difference is the energy consumed by one coulomb of charge in moving from one point to another. It is also called voltage, and its unit is the volt. It is measured by a voltmeter connected in parallel with the circuit.</p><p>Ohm's law relates three quantities: potential difference, current and resistance. It states that the current flowing through a conductor is directly proportional to the potential difference across its ends, provided its temperature remains constant, and resistance is the constant in this relation.</p><p>Resistance is the opposition to the flow of charges through a conductor. Its SI unit is the ohm. Conductors of large resistance are called resistors.</p><p>Resistors are conductors of large resistance, used in circuits to control the current. They are used in radios, televisions and other electrical appliances to reduce current to the required value.</p><p>Charging of a capacitor means storing charge on its plates. When a capacitor is connected to a battery, charge flows to its plates until the potential difference between the plates becomes equal to the battery voltage, and the charge stored is proportional to the potential difference.</p><p>Gang capacitors are used in radios for tuning. By changing the capacitance of the gang capacitor, the radio is tuned to the required station, because the tuning circuit then receives only the signals of that frequency.</p><p>A step-up transformer increases the alternating voltage. It has more turns in its secondary coil than in its primary coil, so the output voltage is higher than the input voltage.</p><p>A step-down transformer decreases the alternating voltage. It has fewer turns in its secondary coil than in its primary coil, so the output voltage is lower than the input voltage.</p><p>A shunt resistance is connected in parallel with a galvanometer to convert it into an ammeter. Most of the current passes through the low shunt resistance, while only a small safe current passes through the galvanometer, so the galvanometer can measure large currents.</p>",
+     "mcqs": [
+      {
+       "q": "Electric current is the amount of charge passing through any cross-section of a conductor in:",
+       "options": [
+        "One second",
+        "One minute",
+        "One hour",
+        "One day"
+       ],
+       "answer": 0,
+       "why": "Electric current is the amount of charge passing through any cross-section of a conductor in one second; its unit is the ampere."
+      },
+      {
+       "q": "Potential difference is the energy consumed by ______ in moving from one point to another.",
+       "options": [
+        "One ohm of resistance",
+        "One coulomb of charge",
+        "One electron only",
+        "One ampere of current"
+       ],
+       "answer": 1,
+       "why": "Potential difference is the energy consumed by one coulomb of charge in moving from one point to another; it is measured by a voltmeter connected in parallel."
+      },
+      {
+       "q": "A voltmeter is connected in ______ with the circuit.",
+       "options": [
+        "Place of the switch",
+        "Series",
+        "Parallel",
+        "Series with the battery"
+       ],
+       "answer": 2,
+       "why": "Potential difference is measured by a voltmeter connected in parallel with the circuit, while an ammeter is connected in series."
+      },
+      {
+       "q": "Ohm's law holds provided which quantity remains constant?",
+       "options": [
+        "Voltage",
+        "Current",
+        "Length of wire",
+        "Temperature"
+       ],
+       "answer": 3,
+       "why": "Ohm's law states that current is directly proportional to the potential difference across the ends of a conductor, provided its temperature remains constant."
+      },
+      {
+       "q": "Resistors are used in circuits to:",
+       "options": [
+        "Control the current and reduce it to the required value",
+        "Store charge for later use",
+        "Convert A.C. into D.C.",
+        "Increase the voltage of the battery"
+       ],
+       "answer": 0,
+       "why": "Resistors are conductors of large resistance used in circuits to control the current; they are used in radios, televisions and other appliances to reduce current to the required value."
+      },
+      {
+       "q": "Charging of a capacitor continues until the potential difference between its plates becomes equal to the:",
+       "options": [
+        "Zero value",
+        "Battery voltage",
+        "Resistance of the circuit",
+        "Current in the wire"
+       ],
+       "answer": 1,
+       "why": "When a capacitor is connected to a battery, charge flows to its plates until the potential difference between the plates becomes equal to the battery voltage."
+      },
+      {
+       "q": "Gang capacitors are used in radios for:",
+       "options": [
+        "Amplifying sound",
+        "Storing energy",
+        "Tuning",
+        "Converting A.C. to D.C."
+       ],
+       "answer": 2,
+       "why": "Gang capacitors are used in radios for tuning; by changing the capacitance, the radio is tuned to the required station."
+      },
+      {
+       "q": "A step-up transformer increases voltage because it has:",
+       "options": [
+        "Equal turns in both coils",
+        "More turns in its primary coil",
+        "Fewer turns in its secondary coil",
+        "More turns in its secondary coil than in its primary coil"
+       ],
+       "answer": 3,
+       "why": "A step-up transformer has more turns in its secondary coil than in its primary coil, so the output voltage is higher than the input voltage."
+      },
+      {
+       "q": "In a step-down transformer, the output voltage is:",
+       "options": [
+        "Lower than the input voltage",
+        "Always zero",
+        "Higher than the input voltage",
+        "Equal to the input voltage"
+       ],
+       "answer": 0,
+       "why": "A step-down transformer has fewer turns in its secondary coil than in its primary coil, so the output voltage is lower than the input voltage."
+      },
+      {
+       "q": "A shunt resistance is connected in parallel with a galvanometer to convert it into an:",
+       "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Multimeter"
+       ],
+       "answer": 1,
+       "why": "A shunt resistance is connected in parallel with a galvanometer to convert it into an ammeter, so that most current passes through the shunt and the galvanometer can measure large currents."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>Electric current is the flow of charge through a conductor, measured as the amount of charge passing through any cross-section in one second. Conventional current is the flow of positive charge from higher potential to lower potential. In a metal wire electrons actually flow from lower to higher potential, but by convention the current is taken as flowing from the positive terminal to the negative terminal.</p><p>Potential difference between two points is the energy consumed by one coulomb of charge in moving from one point to the other. For example, if one joule of energy is consumed by one coulomb of charge in moving between two points, the potential difference is one volt. Its unit is the volt, and it is measured by a voltmeter.</p><p>Resistance is the opposition offered by a conductor to the flow of charges. The unit of resistance is the ohm. One ohm is the resistance of a conductor when a potential difference of one volt across its ends causes a current of one ampere to flow through it.</p><p>A capacitor is a device that stores charge. It consists of two plates separated by an insulator, and the charge stored on it is proportional to the potential difference between its plates. Capacitors are used in radios for tuning, in fans and motors for starting, in flash cameras, and in power supply circuits for smoothing.</p><p>Direct current is current that flows in one direction only, for example current from a cell or battery. Alternating current is current that changes its direction again and again, for example the current supplied to our homes. Direct current voltage cannot be changed by a transformer, while alternating voltage can be increased or decreased by a transformer.</p><p>A voltmeter is connected in parallel with a circuit and has a very high resistance, so it takes almost no current and measures potential difference. An ammeter is connected in series with a circuit and has a very low resistance, so it does not disturb the current and measures the current flowing through the circuit.</p><p>A multimeter is an instrument for measuring current, voltage and resistance. It is used to test circuits and appliances and to find faults in them. An analogue meter shows a continuous reading with the help of a pointer on a scale, while a digital meter displays the reading in digits on a screen.</p>",
+     "mcqs": [
+      {
+       "q": "Conventional current is taken as the flow of positive charge from:",
+       "options": [
+        "Lower potential to higher potential",
+        "Higher potential to lower potential",
+        "Negative terminal to positive terminal inside the wire",
+        "Earth to the circuit"
+       ],
+       "answer": 1,
+       "why": "Conventional current is the flow of positive charge from higher potential to lower potential; in a metal wire electrons actually flow from lower to higher potential."
+      },
+      {
+       "q": "In a metal wire, electrons actually flow from:",
+       "options": [
+        "Positive to negative terminal",
+        "Earth to the battery",
+        "Lower to higher potential",
+        "Higher to lower potential"
+       ],
+       "answer": 2,
+       "why": "In a metal wire electrons actually flow from lower to higher potential, but by convention current is taken as flowing from the positive terminal to the negative terminal."
+      },
+      {
+       "q": "If one joule of energy is consumed by one coulomb of charge in moving between two points, the potential difference is:",
+       "options": [
+        "One watt",
+        "One ampere",
+        "One ohm",
+        "One volt"
+       ],
+       "answer": 3,
+       "why": "Potential difference is the energy consumed by one coulomb of charge; 1 joule divided by 1 coulomb equals 1 volt, verified by calculation."
+      },
+      {
+       "q": "One ohm is the resistance of a conductor when a potential difference of one volt causes a current of:",
+       "options": [
+        "One ampere",
+        "Two amperes",
+        "Half an ampere",
+        "Ten amperes"
+       ],
+       "answer": 0,
+       "why": "One ohm is the resistance when a potential difference of one volt across the ends of a conductor causes a current of one ampere to flow (from V = IR, 1 = 1 x 1)."
+      },
+      {
+       "q": "A capacitor consists of:",
+       "options": [
+        "A single metal plate",
+        "Two plates separated by an insulator",
+        "Two magnets facing each other",
+        "Two coils wound on a core"
+       ],
+       "answer": 1,
+       "why": "A capacitor is a device that stores charge; it consists of two plates separated by an insulator, and the charge stored is proportional to the potential difference."
+      },
+      {
+       "q": "Capacitors are used in fans and motors for:",
+       "options": [
+        "Producing light",
+        "Tuning stations",
+        "Starting",
+        "Measuring current"
+       ],
+       "answer": 2,
+       "why": "Capacitors are used in radios for tuning, in fans and motors for starting, in flash cameras, and in power supply circuits for smoothing."
+      },
+      {
+       "q": "Direct current is current that:",
+       "options": [
+        "Changes its direction again and again",
+        "Flows only in transformers",
+        "Has very high voltage",
+        "Flows in one direction only"
+       ],
+       "answer": 3,
+       "why": "Direct current flows in one direction only, for example current from a cell or battery, while alternating current changes its direction again and again."
+      },
+      {
+       "q": "The current supplied to our homes is:",
+       "options": [
+        "Alternating current",
+        "Battery current",
+        "Static current",
+        "Direct current"
+       ],
+       "answer": 0,
+       "why": "Alternating current changes its direction again and again, for example the current supplied to our homes, and its voltage can be changed by a transformer."
+      },
+      {
+       "q": "A voltmeter has a very ______ resistance, so it takes almost no current.",
+       "options": [
+        "Negative",
+        "High",
+        "Low",
+        "Zero"
+       ],
+       "answer": 1,
+       "why": "A voltmeter is connected in parallel and has a very high resistance, so it takes almost no current; an ammeter has a very low resistance and is connected in series."
+      },
+      {
+       "q": "A multimeter is an instrument used for measuring:",
+       "options": [
+        "Only current and charge",
+        "Temperature and pressure",
+        "Current, voltage and resistance",
+        "Length and mass"
+       ],
+       "answer": 2,
+       "why": "A multimeter measures current, voltage and resistance and is used to test circuits and appliances and to find faults in them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9: Basic Electronics",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Electronics is the knowledge of behaviour and control of <strong>Electric current</strong>.</li><li>A <strong>Laser</strong> beam scans C.D. for replay.</li><li>Programme is a list of <strong>Instructions</strong>.</li><li>The orbit of a hovering satellite is known as <strong>Geostationary</strong> orbit.</li><li>In the picture tube, an electron gun throws a beam of <strong>Electrons</strong> on the screen.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>The quality of sound from digital recording of C.D. is much better as compared to that of cassette tape. — <strong>True</strong></li><li>A <strong>digital signal</strong> consists of distinct on/off electrical pulses.</li><li>In cable T.V., the electrical signals travel to the television set through <strong>cables</strong>.</li><li>Fax machine is used to send and receive documents and pictures from one place to another. — <strong>True</strong></li><li>Only <strong>three</strong> hovering (geostationary) satellites are required to send transmissions all over the world.</li></ul><h4>Facts to Remember</h4><ul><li>In a p-type semiconductor, most of the current is due to <strong>holes</strong>.</li><li>Diodes are used to <strong>convert A.C. into D.C.</strong></li><li>An electric signal is converted into a digital signal by a <strong>modem</strong>.</li><li>In the binary system, 37 is written as <strong>100101</strong>.</li><li>An analogue signal is recorded on <strong>magnetic tape</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Electronics is the knowledge of the behaviour and control of:",
+       "options": [
+        "Heat energy",
+        "Magnetic fields only",
+        "Electric current",
+        "Light waves only"
+       ],
+       "answer": 2,
+       "why": "The key facts state that electronics is the knowledge of behaviour and control of electric current."
+      },
+      {
+       "q": "In computers, a programme is:",
+       "options": [
+        "A type of signal",
+        "An output device",
+        "A storage device",
+        "A list of instructions"
+       ],
+       "answer": 3,
+       "why": "The notes state that a programme is a list of instructions given to a computer."
+      },
+      {
+       "q": "The orbit of a hovering satellite is known as:",
+       "options": [
+        "Geostationary orbit",
+        "Lunar orbit",
+        "Polar orbit",
+        "Low earth orbit"
+       ],
+       "answer": 0,
+       "why": "The key facts state that the orbit of a hovering satellite is known as the geostationary orbit."
+      },
+      {
+       "q": "How many hovering (geostationary) satellites are required to send transmissions all over the world?",
+       "options": [
+        "Only one",
+        "Only three",
+        "Twelve",
+        "Twenty four"
+       ],
+       "answer": 1,
+       "why": "The true/false facts confirm that only three hovering (geostationary) satellites are required to send transmissions all over the world."
+      },
+      {
+       "q": "In a p-type semiconductor, most of the current is due to:",
+       "options": [
+        "Protons",
+        "Ions",
+        "Holes",
+        "Free electrons"
+       ],
+       "answer": 2,
+       "why": "The facts to remember state that in a p-type semiconductor, most of the current is due to holes, while in an n-type it is due to free electrons."
+      },
+      {
+       "q": "Diodes are used to convert:",
+       "options": [
+        "Light into sound",
+        "D.C. into A.C.",
+        "Heat into electricity",
+        "A.C. into D.C."
+       ],
+       "answer": 3,
+       "why": "The notes state that diodes are used to convert A.C. into D.C.; the P-N junction diode is used as a rectifier for this purpose."
+      },
+      {
+       "q": "An electric signal is converted into a digital signal by a:",
+       "options": [
+        "Modem",
+        "Diode",
+        "Fax machine",
+        "Speaker"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that an electric signal is converted into a digital signal by a modem."
+      },
+      {
+       "q": "In the binary system, 37 is written as:",
+       "options": [
+        "110101",
+        "100101",
+        "101001",
+        "100111"
+       ],
+       "answer": 1,
+       "why": "In the binary system 37 is written as 100101, since 32 + 4 + 1 = 37, verified by calculation."
+      },
+      {
+       "q": "An analogue signal is recorded on:",
+       "options": [
+        "Paper tape",
+        "Compact disc",
+        "Magnetic tape",
+        "Optical fibre"
+       ],
+       "answer": 2,
+       "why": "The facts to remember state that an analogue signal is recorded on magnetic tape, while a digital signal consists of distinct on/off electrical pulses."
+      },
+      {
+       "q": "In the picture tube of a television, an electron gun throws a beam of electrons on the:",
+       "options": [
+        "Speaker",
+        "Antenna",
+        "Camera lens",
+        "Screen"
+       ],
+       "answer": 3,
+       "why": "The key facts state that in the picture tube, an electron gun throws a beam of electrons on the screen to form the picture."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>An n-type semi-conductor is a semi-conductor in which current is mostly due to free electrons, obtained by doping silicon with a pentavalent impurity. A p-type semi-conductor is one in which current is mostly due to holes, obtained by doping silicon with a trivalent impurity. They are used to make diodes, transistors and other electronic devices like radios, televisions and computers.</p><p>A diode is forward biased when its p-side is connected to the positive terminal and n-side to the negative terminal of a battery, so current flows easily. It is reverse biased when the connections are reversed, so almost no current flows. Different kinds of diodes are the P-N junction diode used as a rectifier to convert A.C. into D.C., the light emitting diode used in displays and indicators, and the photo diode used in light-measuring devices.</p><p>Radio waves are a type of electromagnetic waves, also called carrier waves. Radio transmissions reach us when sound is converted into electrical signals, which are carried by radio waves from a transmitter through the air to a receiver. The receiver separates the sound signals from the carrier waves and changes them back into sound through a speaker.</p><p>Television works by converting pictures and sound into electrical signals at the transmitting station, sending them through space or cable, and changing them back into pictures and sound at the receiver. In satellite T.V., signals are transmitted to a geostationary satellite through microwaves by a ground station. The satellite retransmits them to the required ground station after amplifying them, from where they are transmitted onwards to homes.</p><p>Television is an electronic system for sending pictures and sound from one place to another. The camera changes pictures into electrical signals and the microphone changes sound into electrical signals. These signals are transmitted by radio waves or cable to receivers, where the picture tube changes the video signals back into pictures on the screen and the speaker changes the audio signals back into sound.</p><p>The main parts of a computer are the input devices, the central processing unit, the output devices and the information storage devices. Input devices like the keyboard feed data into the computer; the central processing unit, including the microprocessor, processes the data; output devices like the monitor and printer display or print the results; and storage devices like the hard disk, floppy disk and C.D. store data for later use.</p><p>A communication system is an electronic method to transmit information from one place to another. Its main sources are radio, television, telephone, fax machine, computer and Internet. Information is transmitted after converting it into electrical signals, which are sent through wires, radio signals through air, or light signals through optical fibres. Telecommunication is the method used for instant communication of information to far off places.</p>",
+     "mcqs": [
+      {
+       "q": "An n-type semiconductor is obtained by doping silicon with a:",
+       "options": [
+        "Trivalent impurity",
+        "Divalent impurity",
+        "Pure metal",
+        "Pentavalent impurity"
+       ],
+       "answer": 3,
+       "why": "An n-type semiconductor is one in which current is mostly due to free electrons, obtained by doping silicon with a pentavalent impurity."
+      },
+      {
+       "q": "A p-type semiconductor is obtained by doping silicon with a:",
+       "options": [
+        "Trivalent impurity",
+        "Tetravalent impurity",
+        "No impurity at all",
+        "Pentavalent impurity"
+       ],
+       "answer": 0,
+       "why": "A p-type semiconductor is one in which current is mostly due to holes, obtained by doping silicon with a trivalent impurity."
+      },
+      {
+       "q": "In an n-type semiconductor, current is mostly due to:",
+       "options": [
+        "Atoms",
+        "Free electrons",
+        "Holes",
+        "Protons"
+       ],
+       "answer": 1,
+       "why": "The notes state that in an n-type semiconductor current is mostly due to free electrons, while in a p-type it is mostly due to holes."
+      },
+      {
+       "q": "A diode is forward biased when its p-side is connected to the ______ terminal of the battery.",
+       "options": [
+        "Negative",
+        "Neutral",
+        "Positive",
+        "Earth"
+       ],
+       "answer": 2,
+       "why": "A diode is forward biased when its p-side is connected to the positive terminal and n-side to the negative terminal, so current flows easily."
+      },
+      {
+       "q": "When a diode is reverse biased:",
+       "options": [
+        "It converts A.C. into D.C.",
+        "It emits light",
+        "Very large current flows through it",
+        "Almost no current flows through it"
+       ],
+       "answer": 3,
+       "why": "A diode is reverse biased when the connections are reversed, so almost no current flows through it."
+      },
+      {
+       "q": "A light emitting diode (LED) is used in:",
+       "options": [
+        "Displays and indicators",
+        "Power generation",
+        "Light-measuring devices",
+        "Radio tuning"
+       ],
+       "answer": 0,
+       "why": "The light emitting diode is used in displays and indicators, while the photo diode is used in light-measuring devices."
+      },
+      {
+       "q": "Radio waves used to carry sound signals are also called:",
+       "options": [
+        "Ultrasound waves",
+        "Carrier waves",
+        "Gamma rays",
+        "Water waves"
+       ],
+       "answer": 1,
+       "why": "Radio waves are a type of electromagnetic waves, also called carrier waves; they carry electrical signals from a transmitter to a receiver."
+      },
+      {
+       "q": "The central processing unit (CPU) of a computer includes the:",
+       "options": [
+        "Keyboard",
+        "Printer",
+        "Microprocessor",
+        "Monitor"
+       ],
+       "answer": 2,
+       "why": "The central processing unit, including the microprocessor, processes the data; the keyboard is an input device and the monitor and printer are output devices."
+      },
+      {
+       "q": "Which of the following is a storage device of a computer?",
+       "options": [
+        "Printer",
+        "Keyboard",
+        "Monitor",
+        "Hard disk"
+       ],
+       "answer": 3,
+       "why": "Storage devices like the hard disk, floppy disk and C.D. store data for later use; keyboard is an input device and monitor and printer are output devices."
+      },
+      {
+       "q": "In a communication system, light signals carrying information travel through:",
+       "options": [
+        "Optical fibres",
+        "Copper wires only",
+        "Radio waves only",
+        "Magnetic tapes"
+       ],
+       "answer": 0,
+       "why": "Information is sent through wires, radio signals through air, or light signals through optical fibres, as stated in the notes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10: Science and Technology",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Alpha particles are deflected towards <strong>Negative</strong> plate.</li><li>The <strong>Gamma</strong> rays are not affected by any field.</li><li>Optical fibres are fine <strong>Fibres</strong> of glass.</li><li>The <strong>Wavelength</strong> of all waves of laser is the same.</li><li>E.C.G. evaluates the <strong>Electrical</strong> activity of heart.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>There <strong>is</strong> a difference between laser light and ordinary light; laser light is coherent and travels in one direction.</li><li><strong>Radar</strong> is the device that locates distant objects with the help of radio waves; a hearing aid is a small device that helps a deaf person to hear.</li><li>X-rays can pass through flesh. — <strong>True</strong></li><li>Rays emitted from radioactive sources are <strong>harmful</strong> to living things.</li><li>Ultrasound are the sound waves of frequency greater than 20 kHz. — <strong>True</strong></li></ul><h4>Facts to Remember</h4><ul><li>The emission of radiations from a nucleus is called <strong>radioactivity</strong>.</li><li>The frequency of ultrasound is <strong>more than 20 kHz</strong>.</li><li>Radioactivity occurs naturally from all the elements with atomic number greater than <strong>82</strong>.</li><li>Fibre optics work on the principle of <strong>total internal reflection</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "Alpha particles are deflected towards the:",
+       "options": [
+        "Negative plate",
+        "Positive plate",
+        "Neutral plate",
+        "They are not deflected"
+       ],
+       "answer": 0,
+       "why": "The key facts state that alpha particles are deflected towards the negative plate, while gamma rays are not affected by any field."
+      },
+      {
+       "q": "Which radiations are not affected by any electric or magnetic field?",
+       "options": [
+        "Beta rays",
+        "Gamma rays",
+        "Cathode rays",
+        "Alpha rays"
+       ],
+       "answer": 1,
+       "why": "The notes state that gamma rays are not affected by any field, because they carry no charge."
+      },
+      {
+       "q": "E.C.G. evaluates the electrical activity of the:",
+       "options": [
+        "Muscles",
+        "Brain",
+        "Heart",
+        "Lungs"
+       ],
+       "answer": 2,
+       "why": "The key facts state that E.C.G. evaluates the electrical activity of the heart, while E.E.G. evaluates the electrical activity of the brain."
+      },
+      {
+       "q": "The frequency of ultrasound is more than:",
+       "options": [
+        "20 Hz",
+        "2 kHz",
+        "200 kHz",
+        "20 kHz"
+       ],
+       "answer": 3,
+       "why": "Ultrasound are the sound waves of frequency greater than 20 kHz, as confirmed in the true/false facts."
+      },
+      {
+       "q": "The emission of radiations from a nucleus is called:",
+       "options": [
+        "Radioactivity",
+        "Total internal reflection",
+        "Induction",
+        "Refraction"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that the emission of radiations from a nucleus is called radioactivity."
+      },
+      {
+       "q": "Radioactivity occurs naturally from all elements with atomic number greater than:",
+       "options": [
+        "62",
+        "82",
+        "72",
+        "92"
+       ],
+       "answer": 1,
+       "why": "The notes state that radioactivity occurs naturally from all the elements with atomic number greater than 82."
+      },
+      {
+       "q": "Fibre optics work on the principle of:",
+       "options": [
+        "Refraction only",
+        "Diffraction",
+        "Total internal reflection",
+        "Dispersion"
+       ],
+       "answer": 2,
+       "why": "The facts to remember state that fibre optics work on the principle of total internal reflection; optical fibres are fine fibres of glass."
+      },
+      {
+       "q": "Radar locates distant objects with the help of:",
+       "options": [
+        "Laser light",
+        "X-rays",
+        "Ultrasound",
+        "Radio waves"
+       ],
+       "answer": 3,
+       "why": "Radar is the device that locates distant objects with the help of radio waves; it means radio detection and ranging."
+      },
+      {
+       "q": "X-rays can pass through:",
+       "options": [
+        "Flesh",
+        "Dense metals",
+        "Bones",
+        "Lead plates"
+       ],
+       "answer": 0,
+       "why": "The true/false facts confirm that X-rays can pass through flesh, but they are stopped by bones and dense materials."
+      },
+      {
+       "q": "Laser light differs from ordinary light because laser light is:",
+       "options": [
+        "Made of many colours",
+        "Coherent and travels in one direction",
+        "Spread in all directions",
+        "Slower than ordinary light"
+       ],
+       "answer": 1,
+       "why": "There is a difference between laser light and ordinary light; laser light is coherent and travels in one direction, and the wavelength of all its waves is the same."
+      }
+     ]
+    },
+    {
+     "title": "Brief Answers",
+     "notes_html": "<h4>Brief Answers</h4><p>Crystals like ruby and glass, semi-conductors and some gases are used to make lasers. The first laser ever used was a ruby crystal, which was excited by a powerful flash of light. Two plane mirrors are used to amplify the light again and again.</p><p>Satellites get electrical power from solar panels fitted on them. The solar cells of the panels convert sunlight directly into electricity, which runs the instruments of the satellite and charges its batteries for use when the satellite is in the shadow of the earth.</p><p>The elements which emit radiations are called radioactive elements. They occur naturally among elements with atomic number greater than 82, and their nuclei emit alpha, beta and gamma radiations.</p><p>E.C.G. evaluates the electrical activity of the heart, and is used to find heart diseases. E.E.G. evaluates the electrical activity of the brain, and is used to find brain diseases. Both record the electrical waves of the organ on a graph, but one is for the heart and the other for the brain.</p><p>Steel is made harder by adding carbon to iron and by heat treatment. When steel is heated and then suddenly cooled, it becomes hard, and this process is used to make tools, blades and other hard steel articles.</p>",
+     "mcqs": [
+      {
+       "q": "The first laser ever used was made of a:",
+       "options": [
+        "Glass rod",
+        "Ruby crystal",
+        "Gas tube",
+        "Semiconductor chip"
+       ],
+       "answer": 1,
+       "why": "Crystals like ruby and glass, semiconductors and some gases are used to make lasers; the first laser ever used was a ruby crystal, excited by a powerful flash of light."
+      },
+      {
+       "q": "The ruby crystal of the first laser was excited by:",
+       "options": [
+        "A beam of electrons",
+        "Radio waves",
+        "A powerful flash of light",
+        "An electric battery"
+       ],
+       "answer": 2,
+       "why": "The first laser was a ruby crystal excited by a powerful flash of light, and two plane mirrors were used to amplify the light again and again."
+      },
+      {
+       "q": "In a laser, the light is amplified again and again by using:",
+       "options": [
+        "A curved screen",
+        "Two lenses",
+        "A prism",
+        "Two plane mirrors"
+       ],
+       "answer": 3,
+       "why": "The brief answers state that two plane mirrors are used to amplify the light again and again in a laser."
+      },
+      {
+       "q": "Satellites get electrical power from:",
+       "options": [
+        "Solar panels fitted on them",
+        "Dry batteries only",
+        "Nuclear reactors",
+        "Fuel cells only"
+       ],
+       "answer": 0,
+       "why": "Satellites get electrical power from solar panels fitted on them; the solar cells convert sunlight directly into electricity."
+      },
+      {
+       "q": "The solar cells of a satellite convert sunlight directly into:",
+       "options": [
+        "Radio waves",
+        "Electricity",
+        "Light signals",
+        "Heat"
+       ],
+       "answer": 1,
+       "why": "The solar cells of the panels convert sunlight directly into electricity, which runs the instruments of the satellite and charges its batteries."
+      },
+      {
+       "q": "The batteries of a satellite are used when the satellite is:",
+       "options": [
+        "Being launched",
+        "Facing the sun",
+        "In the shadow of the earth",
+        "Above the poles"
+       ],
+       "answer": 2,
+       "why": "Solar panels charge the batteries of the satellite for use when the satellite is in the shadow of the earth and gets no sunlight."
+      },
+      {
+       "q": "E.E.G. evaluates the electrical activity of the:",
+       "options": [
+        "Heart",
+        "Stomach",
+        "Eyes",
+        "Brain"
+       ],
+       "answer": 3,
+       "why": "E.C.G. evaluates the electrical activity of the heart and finds heart diseases, while E.E.G. evaluates the electrical activity of the brain and finds brain diseases."
+      },
+      {
+       "q": "Steel is made harder by adding ______ to iron.",
+       "options": [
+        "Carbon",
+        "Zinc",
+        "Chromium only",
+        "Copper"
+       ],
+       "answer": 0,
+       "why": "Steel is made harder by adding carbon to iron and by heat treatment, as stated in the brief answers."
+      },
+      {
+       "q": "When steel is heated and then suddenly cooled, it becomes:",
+       "options": [
+        "Magnetic",
+        "Hard",
+        "Soft",
+        "Brittle like glass"
+       ],
+       "answer": 1,
+       "why": "When steel is heated and then suddenly cooled, it becomes hard, and this process is used to make tools, blades and other hard steel articles."
+      },
+      {
+       "q": "The elements which emit radiations are called:",
+       "options": [
+        "Synthetic elements",
+        "Noble elements",
+        "Radioactive elements",
+        "Transgenic elements"
+       ],
+       "answer": 2,
+       "why": "The elements which emit radiations are called radioactive elements; they occur naturally among elements with atomic number greater than 82 and emit alpha, beta and gamma radiations."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>Laser is an abbreviation of light amplification by stimulated emission of radiation. It is an intense beam of light in which all the waves have the same wavelength and all are in phase, and it travels in one direction without spreading. Its important uses are: in surgery as a light scalpel for cutting and coagulation, in ophthalmology for cataract and glaucoma operations, in dermatology for skin diseases, in dentistry, in treating cancer and crushing gallstones and kidney stones, in drilling holes in hard materials like steel and diamond, in making holograms, and in laser-guided missiles and communication.</p><p>An optical fibre is a fine fibre of glass used to carry light signals. In construction it has a central core of glass surrounded by a cladding of glass of lower refractive index, covered by a protective coating. Its principle is total internal reflection: when light enters one end of the fibre at a suitable angle, it is reflected again and again inside the core and comes out of the other end without loss. In working, light signals carrying information are sent into the fibre and travel through it by repeated total internal reflection to the other end.</p><p>Radar system means radio detection and ranging. It works by sending radio waves towards an object and receiving the waves reflected back from it. From the time taken by the waves to return, the distance, direction and speed of the object are found. Its uses are in airports for guiding aeroplanes, in ships for finding other ships and icebergs, in the army for detecting enemy aeroplanes and missiles, and in weather forecasting.</p><p>A satellite is an object placed in orbit around the earth to receive signals from a ground station and retransmit them after amplifying. Its types are communication satellites, which facilitate television, telephone and radio communication; weather satellites, which help in weather prediction; and scientific satellites, which study the universe, galaxies, stars and planets. Their uses are in communication, weather forecasting, exploration of natural resources, television transmission and scientific research.</p><p>Radioactivity is the emission of radiations from the nucleus of an atom. There are three types of radiations. Alpha radiations are positively charged particles, deflected towards the negative plate, and they have low penetrating power. Beta radiations are negatively charged particles, deflected towards the positive plate, and they have greater penetrating power than alpha rays. Gamma radiations have no charge, are not affected by any field, and have the greatest penetrating power.</p><p>Radioisotopes are the radioactive isotopes of elements, whose nuclei emit radiations. Their uses are in medicine for diagnosis and treatment of diseases like cancer, in agriculture for producing better varieties of crops and preserving food, in industry for checking the thickness of materials and finding faults, and in research for tracing chemical reactions.</p><p>X-rays are obtained when fast-moving electrons strike a metal target in an X-ray tube, which produces high-energy radiations. Their properties are that they can pass through flesh but are stopped by bones and dense materials, they affect photographic film, and they travel in straight lines. Their uses are in medicine for seeing broken bones and internal organs, in industry for finding faults inside materials, and in security checking of luggage.</p><p>X-rays give a flat, two-dimensional picture of the inside of the body on a film, while a C.T. scan uses X-rays from many angles and a computer to make detailed cross-sectional pictures of the body. The C.T. scan is better for treatment because it shows the exact position, size and shape of a disease or injury inside the body, which an ordinary X-ray cannot show clearly.</p><p>The steel mill is important because steel is needed for construction, machines, vehicles, ships, tools and many other articles of daily use. Pakistan Steel Mills produces iron and steel from iron ore, which makes the country self-sufficient in steel, provides employment to thousands of workers, and supports other industries like engineering, construction and transport.</p><p>The pharmaceutical industry makes medicines for the treatment of diseases. In Pakistan it produces tablets, capsules, syrups and injections, and it also makes radio pharmaceuticals for medical use. This industry is important because it provides life-saving drugs at home, reduces dependence on imported medicines, and provides employment to chemists, pharmacists and other workers.</p><p>Synthetic fibres are man-made fibres produced by chemical processes from petroleum products, unlike natural fibres obtained from plants and animals. Examples are nylon, polyester and rayon. They are strong, durable and easy to wash, and they are used for making clothes, ropes, carpets and many other articles.</p><p>The important sections of the textile industry are spinning, in which yarn is made from cotton; weaving, in which cloth is made from yarn; dyeing and printing, in which cloth is coloured and designed; and stitching, in which garments are made. Pakistan's textile industry is very important because it earns a large amount of foreign exchange and provides employment to millions of workers.</p><p>The leather industry makes leather from the skins of animals by tanning, and then makes shoes, bags, jackets, gloves and other articles from it. Pakistan's leather industry is important because it earns foreign exchange through exports and provides employment. Its centres are in Lahore, Karachi and Sialkot, where sports goods and leather garments are also made.</p><p>Sugar processing starts with sugarcane, which is crushed in mills to obtain juice. The juice is cleaned, heated and concentrated by evaporation, and then sugar crystals are formed by cooling. The crystals are separated by centrifuge machines, dried and packed as sugar. The leftover molasses is used for making alcohol and other products, and the bagasse is used as fuel in the mills.</p>",
+     "mcqs": [
+      {
+       "q": "LASER is the abbreviation of:",
+       "options": [
+        "Light absorption by stimulated emission of radiation",
+        "Light amplification by spontaneous emission of radiation",
+        "Light amplification by stimulated emission of radiation",
+        "Light arrangement by systematic emission of rays"
+       ],
+       "answer": 2,
+       "why": "Laser is an abbreviation of light amplification by stimulated emission of radiation; it is an intense beam of light in which all waves have the same wavelength and are in phase."
+      },
+      {
+       "q": "In laser light, all the waves have:",
+       "options": [
+        "Random phases",
+        "Different speeds",
+        "Different wavelengths",
+        "The same wavelength and are in phase"
+       ],
+       "answer": 3,
+       "why": "Laser light is an intense beam in which all the waves have the same wavelength and all are in phase, and it travels in one direction without spreading."
+      },
+      {
+       "q": "In eye surgery (ophthalmology), laser is used for operations of:",
+       "options": [
+        "Cataract and glaucoma",
+        "Heart and lungs",
+        "Hernia and appendix",
+        "Fractures and joints"
+       ],
+       "answer": 0,
+       "why": "Uses of laser include surgery as a light scalpel, ophthalmology for cataract and glaucoma operations, dentistry, treating cancer and drilling holes in hard materials."
+      },
+      {
+       "q": "In an optical fibre, the central core is surrounded by a cladding of glass of:",
+       "options": [
+        "Higher refractive index",
+        "Lower refractive index",
+        "Equal refractive index",
+        "Opaque material"
+       ],
+       "answer": 1,
+       "why": "An optical fibre has a central core of glass surrounded by a cladding of glass of lower refractive index, covered by a protective coating, and works on total internal reflection."
+      },
+      {
+       "q": "Radar finds the distance, direction and speed of an object from:",
+       "options": [
+        "The sound of the object",
+        "The heat of the object",
+        "The time taken by the radio waves to return",
+        "The colour of the object"
+       ],
+       "answer": 2,
+       "why": "Radar sends radio waves towards an object and receives the reflected waves; from the time taken by the waves to return, the distance, direction and speed of the object are found."
+      },
+      {
+       "q": "Which radiations have the greatest penetrating power?",
+       "options": [
+        "Ultraviolet radiations",
+        "Alpha radiations",
+        "Beta radiations",
+        "Gamma radiations"
+       ],
+       "answer": 3,
+       "why": "Alpha radiations have low penetrating power, beta have greater penetrating power than alpha, and gamma radiations have no charge and the greatest penetrating power."
+      },
+      {
+       "q": "Beta radiations are deflected towards the:",
+       "options": [
+        "Positive plate",
+        "Negative plate",
+        "They are not deflected",
+        "Earth plate"
+       ],
+       "answer": 0,
+       "why": "Beta radiations are negatively charged particles, deflected towards the positive plate, while alpha radiations are positively charged and deflected towards the negative plate."
+      },
+      {
+       "q": "X-rays are produced when fast-moving electrons strike a:",
+       "options": [
+        "Photographic film",
+        "Metal target in an X-ray tube",
+        "Plastic plate",
+        "Glass screen"
+       ],
+       "answer": 1,
+       "why": "X-rays are obtained when fast-moving electrons strike a metal target in an X-ray tube, which produces high-energy radiations that can pass through flesh."
+      },
+      {
+       "q": "A C.T. scan is better than an ordinary X-ray because it shows:",
+       "options": [
+        "The temperature of the body",
+        "Only the outer skin of the body",
+        "The exact position, size and shape of a disease or injury inside the body",
+        "The colour of internal organs"
+       ],
+       "answer": 2,
+       "why": "A C.T. scan uses X-rays from many angles and a computer to make detailed cross-sectional pictures, showing the exact position, size and shape of a disease or injury, which an ordinary X-ray cannot show clearly."
+      },
+      {
+       "q": "In sugar processing, the sugar crystals are separated from the juice by:",
+       "options": [
+        "Filters of cloth",
+        "Magnets",
+        "Evaporation only",
+        "Centrifuge machines"
+       ],
+       "answer": 3,
+       "why": "Sugarcane juice is cleaned, heated and concentrated, then crystals are formed by cooling and separated by centrifuge machines, dried and packed as sugar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11: Space and Nuclear Programme of Pakistan",
+   "lessons": [
+    {
+     "title": "Key Facts of the Chapter",
+     "notes_html": "<h4>Important Facts</h4><ul><li>Space era started with the launch of <strong>Sputnik-1</strong> Russian artificial satellite.</li><li>By the help of <strong>Communication</strong> satellites, lot of facilities has been made available in television, telephone and radio communication.</li><li><strong>SUPARCO</strong> institute looks after the space programme of Pakistan.</li><li>The name of first artificial satellite of Pakistan is <strong>Badar-1</strong>.</li><li>In 1972 the first nuclear power plant was established in <strong>Karachi</strong>.</li></ul><h4>True or False — The Correct Facts</h4><ul><li>With the help of space stations, the natural resources hidden in the Earth and the planets of the solar system are explored. — <strong>True</strong></li><li>The man landed on the moon on 20th July 1969. — <strong>True</strong></li><li>The total production capacity of Pakistan's first nuclear power plant is <strong>137 mega watt</strong>.</li><li>Cancer can be cured by nuclear radiations. — <strong>True</strong></li><li>The first space rocket of Pakistan is <strong>Rehbar</strong>.</li></ul><h4>Facts to Remember</h4><ul><li><strong>Russia</strong> was the first country to launch its artificial satellite into space.</li><li>SUPARCO came into being in <strong>1961</strong>.</li><li>The name of Pakistan's first artificial satellite is <strong>Badar-1</strong>.</li><li>The total production capacity of Pakistan's first nuclear power plant is <strong>137 mega watt</strong>.</li></ul>",
+     "mcqs": [
+      {
+       "q": "The space era started with the launch of:",
+       "options": [
+        "Badar-1",
+        "Rehbar",
+        "Apollo-11",
+        "Sputnik-1"
+       ],
+       "answer": 3,
+       "why": "The key facts state that the space era started with the launch of Sputnik-1, the Russian artificial satellite."
+      },
+      {
+       "q": "Which country was the first to launch an artificial satellite into space?",
+       "options": [
+        "Russia",
+        "Pakistan",
+        "China",
+        "America"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that Russia was the first country to launch its artificial satellite into space."
+      },
+      {
+       "q": "The space programme of Pakistan is looked after by:",
+       "options": [
+        "NASA",
+        "SUPARCO",
+        "PAEC",
+        "PINSTECH"
+       ],
+       "answer": 1,
+       "why": "The key facts state that SUPARCO institute looks after the space programme of Pakistan; it came into being in 1961."
+      },
+      {
+       "q": "The name of the first artificial satellite of Pakistan is:",
+       "options": [
+        "Rehbar",
+        "Sputnik-1",
+        "Badar-1",
+        "Skua"
+       ],
+       "answer": 2,
+       "why": "The notes state that the name of the first artificial satellite of Pakistan is Badar-1, launched in July 1990."
+      },
+      {
+       "q": "The first nuclear power plant of Pakistan was established in Karachi in:",
+       "options": [
+        "1956",
+        "1990",
+        "1961",
+        "1972"
+       ],
+       "answer": 3,
+       "why": "The key facts state that in 1972 the first nuclear power plant was established in Karachi, with a total production capacity of 137 megawatts."
+      },
+      {
+       "q": "The total production capacity of Pakistan's first nuclear power plant is:",
+       "options": [
+        "137 megawatts",
+        "73 megawatts",
+        "137 kilowatts",
+        "317 megawatts"
+       ],
+       "answer": 0,
+       "why": "The facts to remember state that the total production capacity of Pakistan's first nuclear power plant is 137 mega watt."
+      },
+      {
+       "q": "Man landed on the moon on:",
+       "options": [
+        "20th July 1979",
+        "20th July 1969",
+        "7th June 1962",
+        "24th April 1990"
+       ],
+       "answer": 1,
+       "why": "The true/false facts confirm that man landed on the moon on 20th July 1969."
+      },
+      {
+       "q": "The first space rocket of Pakistan is:",
+       "options": [
+        "Skua",
+        "Sputnik-1",
+        "Rehbar",
+        "Badar-1"
+       ],
+       "answer": 2,
+       "why": "The notes state that the first space rocket of Pakistan is Rehbar."
+      },
+      {
+       "q": "SUPARCO came into being in:",
+       "options": [
+        "1990",
+        "1956",
+        "1972",
+        "1961"
+       ],
+       "answer": 3,
+       "why": "The facts to remember state that SUPARCO came into being in 1961, in collaboration with the Pakistan Atomic Energy Commission."
+      },
+      {
+       "q": "Cancer can be cured by:",
+       "options": [
+        "Nuclear radiations",
+        "Ultrasound waves",
+        "Radio waves",
+        "Laser light only"
+       ],
+       "answer": 0,
+       "why": "The true/false facts confirm that cancer can be cured by nuclear radiations, one of the peaceful uses of nuclear energy in medicine."
+      }
+     ]
+    },
+    {
+     "title": "Brief Answers",
+     "notes_html": "<h4>Brief Answers</h4><p>The Viking space probes collected soil and rock samples from the surface of Mars and tested them for signs of life. Their landers scooped up Martian soil, analysed its chemicals and sent the results and pictures back to the earth.</p><p>The Hubble telescope is a space telescope launched into space on 24 April 1990 with the help of the space shuttle Discovery. The size of its mirror is 2.5 metres and its weight is 11 tonnes. It observes stars, galaxies and planets from above the earth's atmosphere without disturbance.</p><p>Some advantages of artificial satellites are: they facilitate television, telephone and radio communication to far off places; they help in weather prediction and warning about cyclones; they help in exploration of natural resources hidden in the earth; and they help scientists study stars, planets, galaxies and cosmic rays.</p><p>The basic objectives of SUPARCO include space research, study of the ozone layer, study of pollution of the atmosphere, astronomy, study of radio waves, exploration of natural mineral resources through geographic information technology, establishment of ground stations, and launching of space rockets and satellites into space for various purposes.</p><p>Pakistan's nuclear power plants are located at Karachi and Chashma. The first nuclear power plant was established at Karachi in 1972 with a total production capacity of 137 megawatts, and later plants were set up at Chashma to increase the production of nuclear electricity.</p>",
+     "mcqs": [
+      {
+       "q": "The Viking space probes collected soil and rock samples from the surface of:",
+       "options": [
+        "Mars",
+        "Moon",
+        "Venus",
+        "Jupiter"
+       ],
+       "answer": 0,
+       "why": "The Viking space probes collected soil and rock samples from the surface of Mars and tested them for signs of life."
+      },
+      {
+       "q": "The Viking landers tested the Martian soil for:",
+       "options": [
+        "Water wells",
+        "Signs of life",
+        "Oil deposits",
+        "Gold and silver"
+       ],
+       "answer": 1,
+       "why": "The Viking landers scooped up Martian soil, analysed its chemicals and sent the results and pictures back to the earth, testing for signs of life."
+      },
+      {
+       "q": "The Hubble telescope was launched into space on:",
+       "options": [
+        "1 January 2000",
+        "20 July 1969",
+        "24 April 1990",
+        "7 June 1962"
+       ],
+       "answer": 2,
+       "why": "The Hubble telescope is a space telescope launched into space on 24 April 1990 with the help of the space shuttle Discovery."
+      },
+      {
+       "q": "The Hubble telescope was launched with the help of the space shuttle:",
+       "options": [
+        "Columbia",
+        "Challenger",
+        "Atlantis",
+        "Discovery"
+       ],
+       "answer": 3,
+       "why": "The notes state that the Hubble telescope was launched on 24 April 1990 with the help of the space shuttle Discovery."
+      },
+      {
+       "q": "The size of the mirror of the Hubble telescope is:",
+       "options": [
+        "2.5 metres",
+        "5 metres",
+        "11 metres",
+        "1.5 metres"
+       ],
+       "answer": 0,
+       "why": "The size of the Hubble telescope's mirror is 2.5 metres and its weight is 11 tonnes; it observes stars, galaxies and planets from above the earth's atmosphere."
+      },
+      {
+       "q": "The weight of the Hubble telescope is:",
+       "options": [
+        "110 tonnes",
+        "11 tonnes",
+        "2.5 tonnes",
+        "21 tonnes"
+       ],
+       "answer": 1,
+       "why": "The Hubble telescope's mirror is 2.5 metres in size and its weight is 11 tonnes, as stated in the brief answers."
+      },
+      {
+       "q": "Artificial satellites help in weather prediction and warning about:",
+       "options": [
+        "Earthquakes",
+        "Volcanoes",
+        "Cyclones",
+        "Floods only"
+       ],
+       "answer": 2,
+       "why": "Advantages of artificial satellites include weather prediction and warning about cyclones, besides communication and exploration of natural resources."
+      },
+      {
+       "q": "One of the basic objectives of SUPARCO is the study of:",
+       "options": [
+        "Desert plants",
+        "River fish",
+        "Deep sea animals",
+        "The ozone layer"
+       ],
+       "answer": 3,
+       "why": "The basic objectives of SUPARCO include space research, study of the ozone layer, study of pollution of the atmosphere, astronomy and exploration of natural mineral resources."
+      },
+      {
+       "q": "Pakistan's nuclear power plants are located at:",
+       "options": [
+        "Karachi and Chashma",
+        "Lahore and Chashma",
+        "Karachi and Lahore",
+        "Chashma and Rawat"
+       ],
+       "answer": 0,
+       "why": "Pakistan's nuclear power plants are located at Karachi and Chashma; the first was established at Karachi in 1972 and later plants were set up at Chashma."
+      },
+      {
+       "q": "The first nuclear power plant at Karachi, established in 1972, had a production capacity of:",
+       "options": [
+        "73 megawatts",
+        "137 megawatts",
+        "237 megawatts",
+        "1000 megawatts"
+       ],
+       "answer": 1,
+       "why": "The first nuclear power plant was established at Karachi in 1972 with a total production capacity of 137 megawatts."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Questions",
+     "notes_html": "<h4>Detailed Questions</h4><p>The space programme is important because information collected by space research is very beneficial for the scientific development of any country. Artificial satellites are useful for television, telephone and radio communication, weather forecasting, exploration of mineral resources, study of the ozone layer and pollution, and scientific study of the universe. Space stations help in studying the natural resources hidden in the earth and the planets of the solar system.</p><p>Pakistan's space programme is looked after by SUPARCO, the Space and Upper Atmosphere Research Commission, established in 1961 in collaboration with the Pakistan Atomic Energy Commission, with its headquarters at Karachi. Pakistan launched its first rocket, Rahber, into space on 7 June 1962, and by now more than 200 rockets have been launched, hovering from 20 to 550 kilometres. In 1973 three Skua rockets were sent into space to measure air pressure and temperature. In July 1990 Pakistan launched its indigenous artificial satellite Badar-1, and SUPARCO established earth stations at Karachi, Lahore and Rawat for getting information from satellites.</p><p>The Pakistan Atomic Energy Commission was established in 1956 for the use of nuclear energy for peaceful purposes. Its services are: production of electricity through nuclear power plants at Karachi and Chashma; use of radioisotopes and radiopharmaceuticals in medicine, agriculture and industry; research in nuclear science at PINSTECH, established in 1965; and preparation of special nuclear materials and sophisticated instruments on a limited scale for the needs of the country.</p>",
+     "mcqs": [
+      {
+       "q": "SUPARCO was established in 1961 in collaboration with the:",
+       "options": [
+        "Pakistan Steel Mills",
+        "Pakistan Atomic Energy Commission",
+        "Hubble Institute",
+        "National Space Agency"
+       ],
+       "answer": 1,
+       "why": "SUPARCO, the Space and Upper Atmosphere Research Commission, was established in 1961 in collaboration with the Pakistan Atomic Energy Commission, with its headquarters at Karachi."
+      },
+      {
+       "q": "The headquarters of SUPARCO is at:",
+       "options": [
+        "Rawat",
+        "Islamabad",
+        "Karachi",
+        "Lahore"
+       ],
+       "answer": 2,
+       "why": "The detailed notes state that SUPARCO was established in 1961 with its headquarters at Karachi."
+      },
+      {
+       "q": "Pakistan launched its first rocket, Rahber, into space on:",
+       "options": [
+        "1 July 1990",
+        "7 June 1972",
+        "14 August 1962",
+        "7 June 1962"
+       ],
+       "answer": 3,
+       "why": "Pakistan launched its first rocket, Rahber, into space on 7 June 1962, and by now more than 200 rockets have been launched."
+      },
+      {
+       "q": "By now, the number of rockets launched by Pakistan is:",
+       "options": [
+        "More than 200",
+        "About 20",
+        "Exactly 100",
+        "More than 2000"
+       ],
+       "answer": 0,
+       "why": "The notes state that by now more than 200 rockets have been launched, hovering from 20 to 550 kilometres."
+      },
+      {
+       "q": "The rockets launched by Pakistan hover from:",
+       "options": [
+        "200 to 5500 kilometres",
+        "20 to 550 kilometres",
+        "20 to 55 kilometres",
+        "2 to 55 kilometres"
+       ],
+       "answer": 1,
+       "why": "More than 200 rockets have been launched, hovering from 20 to 550 kilometres, as stated in the detailed notes."
+      },
+      {
+       "q": "In 1973, three Skua rockets were sent into space to measure:",
+       "options": [
+        "Wind speed and rain",
+        "Ozone and pollution",
+        "Air pressure and temperature",
+        "Stars and galaxies"
+       ],
+       "answer": 2,
+       "why": "In 1973 three Skua rockets were sent into space to measure air pressure and temperature."
+      },
+      {
+       "q": "Pakistan launched its indigenous artificial satellite Badar-1 in:",
+       "options": [
+        "July 1980",
+        "June 1962",
+        "April 1990",
+        "July 1990"
+       ],
+       "answer": 3,
+       "why": "In July 1990 Pakistan launched its indigenous artificial satellite Badar-1, and SUPARCO established earth stations at Karachi, Lahore and Rawat."
+      },
+      {
+       "q": "SUPARCO established earth stations at:",
+       "options": [
+        "Karachi, Lahore and Rawat",
+        "Rawat, Multan and Karachi",
+        "Lahore, Rawat and Peshawar",
+        "Karachi, Chashma and Lahore"
+       ],
+       "answer": 0,
+       "why": "SUPARCO established earth stations at Karachi, Lahore and Rawat for getting information from satellites."
+      },
+      {
+       "q": "The Pakistan Atomic Energy Commission was established in:",
+       "options": [
+        "1972",
+        "1956",
+        "1961",
+        "1965"
+       ],
+       "answer": 1,
+       "why": "The Pakistan Atomic Energy Commission was established in 1956 for the use of nuclear energy for peaceful purposes."
+      },
+      {
+       "q": "PINSTECH, the research institute of the Pakistan Atomic Energy Commission, was established in:",
+       "options": [
+        "1956",
+        "1961",
+        "1965",
+        "1973"
+       ],
+       "answer": 2,
+       "why": "The services of PAEC include research in nuclear science at PINSTECH, established in 1965, besides production of electricity and use of radioisotopes in medicine, agriculture and industry."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
