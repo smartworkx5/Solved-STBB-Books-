@@ -7,27 +7,582 @@
     {
      "title": "What Science Means",
      "notes_html": "<p><strong>Science</strong> comes from the Latin word <i>Scientia</i>, which means to study and analyse facts in their original form. Its basic principle is <strong>observation</strong> and <strong>hypothesis</strong>, and a scientific law is established in the light of experiments.</p><p>In short, science is the systematic study of facts through observation, hypothesis and experiment.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "From which language does the word 'science' come?",
+       "options": [
+        "Latin",
+        "Greek",
+        "Arabic",
+        "Persian"
+       ],
+       "answer": 0,
+       "why": "The notes state that science comes from the Latin word 'Scientia', which means to study and analyse facts in their original form."
+      },
+      {
+       "q": "What does the Latin word 'Scientia' mean?",
+       "options": [
+        "To guess about hidden things",
+        "To study and analyse facts in their original form",
+        "To memorise old books",
+        "To build machines and tools"
+       ],
+       "answer": 1,
+       "why": "Scientia means studying and analysing facts in their original form; science is built on facts, not on guessing or memorising."
+      },
+      {
+       "q": "What are the basic principles of science?",
+       "options": [
+        "Faith and tradition",
+        "Memory and practice",
+        "Observation and hypothesis",
+        "Wealth and power"
+       ],
+       "answer": 2,
+       "why": "The notes say the basic principle of science is observation and hypothesis, on which all scientific work rests."
+      },
+      {
+       "q": "A scientific law is established in the light of what?",
+       "options": [
+        "Dreams",
+        "Opinions of elders",
+        "Old customs",
+        "Experiments"
+       ],
+       "answer": 3,
+       "why": "According to the notes, a scientific law is established in the light of experiments, not on opinion or custom."
+      },
+      {
+       "q": "Which of the following is the correct order in scientific study?",
+       "options": [
+        "Observation, hypothesis, experiment",
+        "Experiment, guess, belief",
+        "Hypothesis, tradition, law",
+        "Belief, observation, memory"
+       ],
+       "answer": 0,
+       "why": "Science is the systematic study of facts through observation first, then hypothesis, and finally experiment to test it."
+      },
+      {
+       "q": "Science is best defined as:",
+       "options": [
+        "The collection of old stories about nature",
+        "The systematic study of facts through observation, hypothesis and experiment",
+        "The art of making new machines only",
+        "The study of languages and literature"
+       ],
+       "answer": 1,
+       "why": "The notes define science as the systematic study of facts through observation, hypothesis and experiment."
+      },
+      {
+       "q": "What is a hypothesis in science?",
+       "options": [
+        "A law that can never be changed",
+        "A story told by scientists",
+        "A proposed explanation formed after observation, to be tested by experiment",
+        "A machine used in a laboratory"
+       ],
+       "answer": 2,
+       "why": "After observing facts, a scientist forms a hypothesis — a proposed explanation — and experiments then decide whether it becomes a law."
+      },
+      {
+       "q": "Why is science called a 'systematic' study?",
+       "options": [
+        "Because it is taught only in schools",
+        "Because it uses very costly instruments",
+        "Because it deals only with living things",
+        "Because it follows an ordered method of observation, hypothesis and experiment"
+       ],
+       "answer": 3,
+       "why": "Science is systematic because facts are studied in a fixed order: observation, then hypothesis, then experiment."
+      },
+      {
+       "q": "Which step comes FIRST in the scientific method described in the notes?",
+       "options": [
+        "Observation",
+        "Experiment",
+        "Hypothesis",
+        "Conclusion"
+       ],
+       "answer": 0,
+       "why": "The notes list observation before hypothesis and experiment, so observation is the first step of scientific study."
+      },
+      {
+       "q": "If an experiment does not support a hypothesis, what does the scientific method require?",
+       "options": [
+        "The experiment must be hidden",
+        "The hypothesis must be revised or rejected",
+        "The hypothesis becomes a law anyway",
+        "The facts must be changed"
+       ],
+       "answer": 1,
+       "why": "A scientific law is established only in the light of experiments, so a hypothesis that experiments reject cannot stand as it is."
+      }
+     ]
     },
     {
      "title": "The Five Branches of Science",
      "notes_html": "<p>The chapter gives five main branches of science:</p><ul><li><strong>Physics</strong> — the study of matter, energy and motion, including mechanics, heat, light and sound.</li><li><strong>Chemistry</strong> — the study of the composition and properties of matter.</li><li><strong>Biology</strong> — the study of living things, plants and animals; the study of animals is called <strong>zoology</strong>.</li><li><strong>Astronomy</strong> — the study of the universe, stars and planets.</li><li><strong>Mathematics</strong> — the study of numbers, quantities and shapes, on which the other sciences depend.</li></ul><p>The chapter also lists Agriculture, Medicine and Geography as further branches.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Physics is the study of:",
+       "options": [
+        "Living things only",
+        "Matter, energy and motion",
+        "Numbers and shapes only",
+        "Stars and planets only"
+       ],
+       "answer": 1,
+       "why": "The notes define physics as the study of matter, energy and motion, including mechanics, heat, light and sound."
+      },
+      {
+       "q": "Which topics are included in physics according to the notes?",
+       "options": [
+        "Plants, animals and microbes",
+        "Rivers, mountains and deserts",
+        "Mechanics, heat, light and sound",
+        "Kings, wars and empires"
+       ],
+       "answer": 2,
+       "why": "Physics covers mechanics, heat, light and sound as part of its study of matter, energy and motion."
+      },
+      {
+       "q": "Chemistry is the study of:",
+       "options": [
+        "The movement of planets",
+        "The history of mankind",
+        "The cure of diseases only",
+        "The composition and properties of matter"
+       ],
+       "answer": 3,
+       "why": "The notes state that chemistry studies the composition and properties of matter."
+      },
+      {
+       "q": "Biology is the study of:",
+       "options": [
+        "Living things, plants and animals",
+        "Non-living rocks and metals",
+        "Numbers, quantities and shapes",
+        "The weather and climate only"
+       ],
+       "answer": 0,
+       "why": "Biology is the branch that studies living things, both plants and animals."
+      },
+      {
+       "q": "The study of animals is called:",
+       "options": [
+        "Botany",
+        "Zoology",
+        "Astronomy",
+        "Geology"
+       ],
+       "answer": 1,
+       "why": "The notes clearly state that the study of animals is called zoology; botany is the study of plants, not animals."
+      },
+      {
+       "q": "Astronomy deals with:",
+       "options": [
+        "The oceans and seas",
+        "The inside of the earth",
+        "The universe, stars and planets",
+        "Human diseases"
+       ],
+       "answer": 2,
+       "why": "Astronomy is the study of the universe, stars and planets, as given in the notes."
+      },
+      {
+       "q": "Mathematics is the study of:",
+       "options": [
+        "Living organisms",
+        "Chemical reactions",
+        "Ancient languages",
+        "Numbers, quantities and shapes"
+       ],
+       "answer": 3,
+       "why": "The notes define mathematics as the study of numbers, quantities and shapes."
+      },
+      {
+       "q": "Why is mathematics important for the other sciences?",
+       "options": [
+        "Because the other sciences depend on it",
+        "Because it is the oldest language",
+        "Because it studies living things",
+        "Because it replaces experiments"
+       ],
+       "answer": 0,
+       "why": "The notes say the other sciences depend on mathematics for their measurements and calculations."
+      },
+      {
+       "q": "How many main branches of science does the chapter give?",
+       "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Ten"
+       ],
+       "answer": 1,
+       "why": "The chapter gives five main branches: physics, chemistry, biology, astronomy and mathematics."
+      },
+      {
+       "q": "Which of these are listed in the chapter as further branches of science?",
+       "options": [
+        "Music, Poetry and Painting",
+        "Trade, Politics and Law",
+        "Agriculture, Medicine and Geography",
+        "Sports, Games and Drama"
+       ],
+       "answer": 2,
+       "why": "Besides the five main branches, the chapter also lists Agriculture, Medicine and Geography as further branches."
+      }
+     ]
     },
     {
      "title": "Muslim Scientists and Their Contributions",
      "notes_html": "<ul><li><strong>Jabir Bin Hayyan</strong> is the founder of <strong>chemistry</strong>. He extracted metals, prepared nitric, sulphuric and hydrochloric acids, and discovered the properties of sulphur, mercury and sodium carbonate.</li><li><strong>Muhammad Bin Zikrya Al-Razi</strong> was a chemist and physician. He was the first to explain the causes, symptoms, treatment and prevention of chicken pox and smallpox, and he classified chemical substances into four groups: plants, animals, minerals and man-made substances. <strong>Al-Razi</strong> divided chemical compounds into four categories.</li><li><strong>Bu Ali Sina</strong> is called the <strong>Aristotle</strong> of the Muslim world and is considered one of the founders of medicine.</li><li><strong>Ibn-ul-Haitham</strong> worked in the branch of <strong>light (optics)</strong>; his <strong>Kitab-ul-Manazir</strong> is the first book on light (optics).</li><li><strong>Al-Bairuni</strong> wrote the famous book <strong>Tahreer-ul-Amakin</strong>.</li></ul><p>Two statements often confused: the knowledge about animals is called zoology, not botany, and Kitab-ul-Manazir is the work of Ibn-ul-Haitham, not Al-Bairuni.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Who is known as the founder of chemistry?",
+       "options": [
+        "Al-Razi",
+        "Bu Ali Sina",
+        "Jabir Bin Hayyan",
+        "Al-Bairuni"
+       ],
+       "answer": 2,
+       "why": "The notes name Jabir Bin Hayyan as the founder of chemistry because of his pioneering experimental work."
+      },
+      {
+       "q": "Which acids did Jabir Bin Hayyan prepare?",
+       "options": [
+        "Acetic, citric and lactic acids",
+        "Carbonic, boric and phosphoric acids",
+        "Formic, oxalic and tartaric acids",
+        "Nitric, sulphuric and hydrochloric acids"
+       ],
+       "answer": 3,
+       "why": "Jabir Bin Hayyan extracted metals and prepared nitric, sulphuric and hydrochloric acids, as stated in the notes."
+      },
+      {
+       "q": "Jabir Bin Hayyan discovered the properties of which substances?",
+       "options": [
+        "Sulphur, mercury and sodium carbonate",
+        "Iron, copper and gold",
+        "Oxygen, hydrogen and nitrogen",
+        "Salt, sugar and starch"
+       ],
+       "answer": 0,
+       "why": "The notes credit Jabir Bin Hayyan with discovering the properties of sulphur, mercury and sodium carbonate."
+      },
+      {
+       "q": "Who was the first to explain the causes, symptoms, treatment and prevention of chicken pox and smallpox?",
+       "options": [
+        "Ibn-ul-Haitham",
+        "Muhammad Bin Zikrya Al-Razi",
+        "Jabir Bin Hayyan",
+        "Al-Bairuni"
+       ],
+       "answer": 1,
+       "why": "Al-Razi, a chemist and physician, was the first to explain the causes, symptoms, treatment and prevention of chicken pox and smallpox."
+      },
+      {
+       "q": "Into how many groups did Al-Razi classify chemical substances?",
+       "options": [
+        "Two groups",
+        "Three groups",
+        "Four groups",
+        "Five groups"
+       ],
+       "answer": 2,
+       "why": "Al-Razi classified chemical substances into four groups: plants, animals, minerals and man-made substances."
+      },
+      {
+       "q": "Which of the following is one of Al-Razi's four groups of chemical substances?",
+       "options": [
+        "Gases from the air",
+        "Liquids from the sea",
+        "Rocks from mountains",
+        "Man-made substances"
+       ],
+       "answer": 3,
+       "why": "Al-Razi's four groups were plants, animals, minerals and man-made substances."
+      },
+      {
+       "q": "Who is called the Aristotle of the Muslim world?",
+       "options": [
+        "Bu Ali Sina",
+        "Al-Razi",
+        "Ibn-ul-Haitham",
+        "Jabir Bin Hayyan"
+       ],
+       "answer": 0,
+       "why": "The notes say Bu Ali Sina is called the Aristotle of the Muslim world and is one of the founders of medicine."
+      },
+      {
+       "q": "Bu Ali Sina is considered one of the founders of:",
+       "options": [
+        "Astronomy",
+        "Medicine",
+        "Chemistry",
+        "Mathematics"
+       ],
+       "answer": 1,
+       "why": "Bu Ali Sina is considered one of the founders of medicine, according to the notes."
+      },
+      {
+       "q": "Kitab-ul-Manazir, the first book on optics, was written by:",
+       "options": [
+        "Al-Bairuni",
+        "Bu Ali Sina",
+        "Ibn-ul-Haitham",
+        "Al-Razi"
+       ],
+       "answer": 2,
+       "why": "Ibn-ul-Haitham worked in the branch of light (optics) and his Kitab-ul-Manazir is the first book on light; it is not the work of Al-Bairuni."
+      },
+      {
+       "q": "Al-Bairuni wrote the famous book:",
+       "options": [
+        "Kitab-ul-Manazir",
+        "Al-Qanun",
+        "Kitab-ul-Shifa",
+        "Tahreer-ul-Amakin"
+       ],
+       "answer": 3,
+       "why": "The notes state that Al-Bairuni wrote the famous book Tahreer-ul-Amakin; Kitab-ul-Manazir belongs to Ibn-ul-Haitham."
+      }
+     ]
     },
     {
      "title": "Pakistani Scientists",
      "notes_html": "<ul><li><strong>Dr. Abdus Salam</strong> is the only Pakistani <strong>Nobel laureate</strong> (1979). He gave the theory of the unification of the weak nuclear force and the electromagnetic force, and founded the International Centre for Theoretical Physics at Trieste.</li><li><strong>Dr. Abdul Qadeer Khan</strong> is the founder of Pakistan's nuclear programme. The <strong>Kahuta</strong> research laboratories were renamed Dr. A. Q. Khan Research Laboratories in his honour, and Pakistan conducted its nuclear tests at Chaghi on 28 May 1998 under his work.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Who is the only Pakistani Nobel laureate mentioned in the notes?",
+       "options": [
+        "Dr. Abdul Qadeer Khan",
+        "Dr. Samar Mubarakmand",
+        "Dr. Atta-ur-Rahman",
+        "Dr. Abdus Salam"
+       ],
+       "answer": 3,
+       "why": "Dr. Abdus Salam is the only Pakistani Nobel laureate; he received the Nobel Prize in 1979."
+      },
+      {
+       "q": "In which year did Dr. Abdus Salam win the Nobel Prize?",
+       "options": [
+        "1979",
+        "1969",
+        "1989",
+        "1998"
+       ],
+       "answer": 0,
+       "why": "The notes give 1979 as the year of Dr. Abdus Salam's Nobel Prize."
+      },
+      {
+       "q": "Dr. Abdus Salam gave the theory of unification of which two forces?",
+       "options": [
+        "Gravity and the strong nuclear force",
+        "The weak nuclear force and the electromagnetic force",
+        "The strong nuclear force and the electromagnetic force",
+        "Gravity and the weak nuclear force"
+       ],
+       "answer": 1,
+       "why": "Dr. Abdus Salam's famous theory unified the weak nuclear force with the electromagnetic force."
+      },
+      {
+       "q": "Which institution did Dr. Abdus Salam found at Trieste?",
+       "options": [
+        "The Pakistan Atomic Energy Commission",
+        "The Kahuta Research Laboratories",
+        "The International Centre for Theoretical Physics",
+        "The International Atomic Energy Agency"
+       ],
+       "answer": 2,
+       "why": "Dr. Abdus Salam founded the International Centre for Theoretical Physics at Trieste, as stated in the notes."
+      },
+      {
+       "q": "Who is the founder of Pakistan's nuclear programme?",
+       "options": [
+        "Dr. Abdus Salam",
+        "Zulfikar Ali Bhutto",
+        "Dr. Munir Ahmad Khan",
+        "Dr. Abdul Qadeer Khan"
+       ],
+       "answer": 3,
+       "why": "The notes name Dr. Abdul Qadeer Khan as the founder of Pakistan's nuclear programme."
+      },
+      {
+       "q": "The Kahuta research laboratories were renamed in honour of:",
+       "options": [
+        "Dr. A. Q. Khan",
+        "Dr. Abdus Salam",
+        "Quaid-e-Azam",
+        "Allama Iqbal"
+       ],
+       "answer": 0,
+       "why": "The Kahuta laboratories were renamed Dr. A. Q. Khan Research Laboratories in honour of Dr. Abdul Qadeer Khan."
+      },
+      {
+       "q": "Pakistan conducted its nuclear tests at Chaghi on:",
+       "options": [
+        "14 August 1997",
+        "28 May 1998",
+        "28 May 1988",
+        "11 September 1998"
+       ],
+       "answer": 1,
+       "why": "The notes state that Pakistan conducted its nuclear tests at Chaghi on 28 May 1998 under Dr. A. Q. Khan's work."
+      },
+      {
+       "q": "Where did Pakistan conduct its nuclear tests?",
+       "options": [
+        "Kahuta",
+        "Trieste",
+        "Chaghi",
+        "Karachi"
+       ],
+       "answer": 2,
+       "why": "Pakistan's nuclear tests were carried out at Chaghi; Kahuta is the site of the research laboratories."
+      },
+      {
+       "q": "Dr. Abdus Salam founded the International Centre for Theoretical Physics in which city?",
+       "options": [
+        "Geneva",
+        "London",
+        "Stockholm",
+        "Trieste"
+       ],
+       "answer": 3,
+       "why": "The notes place the International Centre for Theoretical Physics at Trieste."
+      },
+      {
+       "q": "Dr. A. Q. Khan's work led directly to which event of 28 May 1998?",
+       "options": [
+        "Pakistan's nuclear tests at Chaghi",
+        "The Nobel Prize ceremony",
+        "The founding of the Trieste centre",
+        "The renaming of Kahuta city"
+       ],
+       "answer": 0,
+       "why": "Pakistan conducted its nuclear tests at Chaghi on 28 May 1998 under the work of Dr. Abdul Qadeer Khan."
+      }
+     ]
     },
     {
      "title": "Importance of Science in the Light of the Holy Quran",
      "notes_html": "<p>The Holy Quran repeatedly invites man to observe and think: Allah says that if the ocean were ink for the words of the Lord, the ocean would be exhausted before His words (Surah Al-Kahf 18:109), and that man has been given only a little knowledge (Surah Bani Israel 17:85).</p><p>The first revelation commands, 'Read! In the name of your Lord' (Surah Al-Alaq 96:1-5), and Allah says He created everything in pairs (Surah Al-Zariyat 51:49). The Holy Prophet (PBUH) said seeking knowledge is an obligation on every man and woman, and to seek knowledge from the cradle to the grave.</p><p>Science is therefore the study of Allah's creation through observation and reason.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "In Surah Al-Kahf (18:109), what is compared to ink for the words of the Lord?",
+       "options": [
+        "The ocean",
+        "The rivers",
+        "The rain",
+        "The sand of the desert"
+       ],
+       "answer": 0,
+       "why": "Allah says that if the ocean were ink for the words of the Lord, the ocean would be exhausted before His words (Surah Al-Kahf 18:109)."
+      },
+      {
+       "q": "According to Surah Bani Israel (17:85), how much knowledge has man been given?",
+       "options": [
+        "Complete knowledge of everything",
+        "Only a little knowledge",
+        "Knowledge of the unseen",
+        "No knowledge at all"
+       ],
+       "answer": 1,
+       "why": "The verse says man has been given only a little knowledge, which invites him to keep observing and thinking."
+      },
+      {
+       "q": "What is the command in the first revelation (Surah Al-Alaq 96:1-5)?",
+       "options": [
+        "'Write! In the name of your Lord'",
+        "'Travel! In the name of your Lord'",
+        "'Read! In the name of your Lord'",
+        "'Fight! In the name of your Lord'"
+       ],
+       "answer": 2,
+       "why": "The first revelation commands 'Read! In the name of your Lord' (Surah Al-Alaq 96:1-5), showing the importance of knowledge."
+      },
+      {
+       "q": "According to Surah Al-Zariyat (51:49), Allah created everything:",
+       "options": [
+        "In groups of seven",
+        "All at one place",
+        "Without any order",
+        "In pairs"
+       ],
+       "answer": 3,
+       "why": "The notes quote Surah Al-Zariyat 51:49: Allah created everything in pairs."
+      },
+      {
+       "q": "What did the Holy Prophet (PBUH) say about seeking knowledge?",
+       "options": [
+        "Seeking knowledge is an obligation on every man and woman",
+        "Knowledge is only for scholars",
+        "Knowledge should be kept secret",
+        "Knowledge is needed only in childhood"
+       ],
+       "answer": 0,
+       "why": "The Holy Prophet (PBUH) said seeking knowledge is an obligation on every man and woman, from the cradle to the grave."
+      },
+      {
+       "q": "According to the Hadith quoted in the notes, knowledge should be sought:",
+       "options": [
+        "Only until the age of twenty",
+        "From the cradle to the grave",
+        "Only in the month of Ramadan",
+        "Only by travelling abroad"
+       ],
+       "answer": 1,
+       "why": "The Holy Prophet (PBUH) taught to seek knowledge from the cradle to the grave, i.e. throughout life."
+      },
+      {
+       "q": "The Holy Quran repeatedly invites man to:",
+       "options": [
+        "Sleep and rest",
+        "Fight and conquer",
+        "Observe and think",
+        "Trade and travel"
+       ],
+       "answer": 2,
+       "why": "The notes say the Holy Quran repeatedly invites man to observe and think, which is also the basis of science."
+      },
+      {
+       "q": "In the light of the Quran, science is the study of:",
+       "options": [
+        "Man-made machines only",
+        "Ancient myths and stories",
+        "The lives of kings",
+        "Allah's creation through observation and reason"
+       ],
+       "answer": 3,
+       "why": "The notes conclude that science is the study of Allah's creation through observation and reason."
+      },
+      {
+       "q": "Which Surah contains the verse about the ocean being ink for the words of the Lord?",
+       "options": [
+        "Surah Al-Kahf",
+        "Surah Al-Alaq",
+        "Surah Al-Zariyat",
+        "Surah Bani Israel"
+       ],
+       "answer": 0,
+       "why": "The ocean-as-ink verse is Surah Al-Kahf 18:109, as given in the notes."
+      },
+      {
+       "q": "Which Surah was revealed first, beginning with the command 'Read!'?",
+       "options": [
+        "Surah Al-Kahf",
+        "Surah Al-Alaq",
+        "Surah Al-Zariyat",
+        "Surah Bani Israel"
+       ],
+       "answer": 1,
+       "why": "The first revelation was Surah Al-Alaq (96:1-5), commanding 'Read! In the name of your Lord'."
+      }
+     ]
     }
    ]
   },
@@ -37,22 +592,466 @@
     {
      "title": "Photosynthesis and Carbon Compounds",
      "notes_html": "<p><strong>Photosynthesis</strong> is the process by which green plants manufacture carbohydrates (glucose) from atmospheric carbon dioxide and water from the soil, in the presence of sunlight energy and chlorophyll. It takes place only in the chlorophyll-containing cells of leaves and stems, oxygen is released as a by-product, and it is an <strong>anabolic</strong> (building-up) process, the reverse of respiration.</p><p>Water + Carbon dioxide → Glucose + Oxygen</p><p><strong>Carbon compounds</strong> are the main source of energy for living things. Carbohydrates are the simplest food compounds, and glucose is their simplest form. In respiration, glucose is oxidised with oxygen to give carbon dioxide, water and energy:</p><p>Glucose + Oxygen → Carbon dioxide + Water + Energy</p><p>This energy runs all the activities of the body. Most of our food is obtained from carbohydrates.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Photosynthesis is the process by which green plants manufacture:",
+       "options": [
+        "Proteins",
+        "Fats and oils",
+        "Mineral salts",
+        "Carbohydrates (glucose)"
+       ],
+       "answer": 3,
+       "why": "In photosynthesis green plants manufacture carbohydrates (glucose) from carbon dioxide and water, using sunlight and chlorophyll."
+      },
+      {
+       "q": "Which raw materials are used in photosynthesis?",
+       "options": [
+        "Carbon dioxide from the air and water from the soil",
+        "Oxygen from the air and glucose from the soil",
+        "Nitrogen from the air and salts from the soil",
+        "Carbon monoxide and hydrogen"
+       ],
+       "answer": 0,
+       "why": "The notes state that plants use atmospheric carbon dioxide and water from the soil to make glucose in photosynthesis."
+      },
+      {
+       "q": "Photosynthesis takes place only in cells that contain:",
+       "options": [
+        "Haemoglobin",
+        "Chlorophyll",
+        "Starch grains",
+        "Nuclei only"
+       ],
+       "answer": 1,
+       "why": "Photosynthesis takes place only in the chlorophyll-containing cells of leaves and stems, because chlorophyll traps sunlight."
+      },
+      {
+       "q": "Which gas is released as a by-product of photosynthesis?",
+       "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+       ],
+       "answer": 2,
+       "why": "The equation Water + Carbon dioxide → Glucose + Oxygen shows oxygen is released as a by-product of photosynthesis."
+      },
+      {
+       "q": "Photosynthesis is an anabolic process. This means it is a:",
+       "options": [
+        "Breaking-down process",
+        "Burning process",
+        "Cooling process",
+        "Building-up process"
+       ],
+       "answer": 3,
+       "why": "Photosynthesis builds up glucose from simple substances, so it is an anabolic (building-up) process, the reverse of respiration."
+      },
+      {
+       "q": "Photosynthesis is the reverse of which process?",
+       "options": [
+        "Respiration",
+        "Digestion",
+        "Combustion of coal",
+        "Evaporation"
+       ],
+       "answer": 0,
+       "why": "The notes call photosynthesis the reverse of respiration: respiration oxidises glucose back to carbon dioxide and water with energy."
+      },
+      {
+       "q": "Carbon compounds are the main source of what for living things?",
+       "options": [
+        "Water",
+        "Energy",
+        "Minerals",
+        "Vitamins"
+       ],
+       "answer": 1,
+       "why": "The notes state that carbon compounds are the main source of energy for living things."
+      },
+      {
+       "q": "What is the simplest form of carbohydrates?",
+       "options": [
+        "Starch",
+        "Cellulose",
+        "Glucose",
+        "Sucrose"
+       ],
+       "answer": 2,
+       "why": "Carbohydrates are the simplest food compounds and glucose is their simplest form, according to the notes."
+      },
+      {
+       "q": "In respiration, glucose is oxidised to give:",
+       "options": [
+        "Oxygen and starch",
+        "Glucose and oxygen",
+        "Proteins and fats",
+        "Carbon dioxide, water and energy"
+       ],
+       "answer": 3,
+       "why": "The respiration equation is Glucose + Oxygen → Carbon dioxide + Water + Energy, and this energy runs all body activities."
+      },
+      {
+       "q": "Most of our food is obtained from:",
+       "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Minerals",
+        "Vitamins"
+       ],
+       "answer": 0,
+       "why": "The notes state that most of our food is obtained from carbohydrates, the main energy-giving compounds."
+      }
+     ]
     },
     {
      "title": "Water — A Unique Compound",
      "notes_html": "<p><strong>Water</strong> is the only chemical compound found naturally as a liquid, as a solid (ice) and as a gas (water vapours). Two thirds of the human body is made up of water, and tomatoes contain about 95% water.</p><h4>Anomalous Expansion of Water</h4><p>Water does not behave like other liquids on cooling. Its density is maximum at 4°C. When water below 4°C is cooled further, it expands instead of contracting, so that at 0°C the density of ice is only 0.918 g/cm³ while water is about 1.00 g/cm³.</p><p>Ice is therefore lighter than water and floats, and the water below the ice stays at 4°C, which protects fish and other aquatic animals in winter.</p><h4>Functions of Water</h4><ul><li>Water is a universal solvent.</li><li>It is used for cooking.</li><li>It is essential for photosynthesis.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Water is the only chemical compound found naturally in which three states?",
+       "options": [
+        "Liquid, solid (ice) and gas (water vapours)",
+        "Liquid, plasma and gas",
+        "Solid, liquid and powder",
+        "Gas, oil and liquid"
+       ],
+       "answer": 0,
+       "why": "The notes call water unique because it is found naturally as a liquid, as a solid (ice) and as a gas (water vapours)."
+      },
+      {
+       "q": "How much of the human body is made up of water?",
+       "options": [
+        "One third",
+        "Two thirds",
+        "One half",
+        "Three quarters"
+       ],
+       "answer": 1,
+       "why": "The notes state that two thirds of the human body is made up of water."
+      },
+      {
+       "q": "Tomatoes contain about how much water?",
+       "options": [
+        "About 50%",
+        "About 75%",
+        "About 95%",
+        "About 25%"
+       ],
+       "answer": 2,
+       "why": "According to the notes, tomatoes contain about 95% water."
+      },
+      {
+       "q": "At which temperature is the density of water maximum?",
+       "options": [
+        "0°C",
+        "10°C",
+        "100°C",
+        "4°C"
+       ],
+       "answer": 3,
+       "why": "Water shows anomalous expansion: its density is maximum at 4°C, unlike other liquids."
+      },
+      {
+       "q": "When water below 4°C is cooled further, it:",
+       "options": [
+        "Expands instead of contracting",
+        "Contracts more quickly",
+        "Turns into vapour",
+        "Becomes heavier"
+       ],
+       "answer": 0,
+       "why": "Below 4°C water expands on cooling, so ice at 0°C is less dense than water and floats."
+      },
+      {
+       "q": "What is the density of ice at 0°C given in the notes?",
+       "options": [
+        "1.00 g/cm³",
+        "0.918 g/cm³",
+        "0.500 g/cm³",
+        "1.918 g/cm³"
+       ],
+       "answer": 1,
+       "why": "The notes give the density of ice as 0.918 g/cm³ while water is about 1.00 g/cm³, which is why ice floats."
+      },
+      {
+       "q": "Using the values in the notes, the density of water is greater than the density of ice by:",
+       "options": [
+        "1.00 − 0.918 = 0.182 g/cm³",
+        "1.00 + 0.918 = 1.918 g/cm³",
+        "1.00 − 0.918 = 0.082 g/cm³",
+        "0.918 − 0.082 = 0.836 g/cm³"
+       ],
+       "answer": 2,
+       "why": "Water ≈ 1.00 g/cm³ and ice = 0.918 g/cm³, so the difference is 1.00 − 0.918 = 0.082 g/cm³; this lower density makes ice float."
+      },
+      {
+       "q": "Why does ice float on water?",
+       "options": [
+        "Because ice is heavier than water",
+        "Because water pushes it up by force",
+        "Because ice contains air bubbles only",
+        "Because ice is lighter (less dense) than water"
+       ],
+       "answer": 3,
+       "why": "At 0°C the density of ice (0.918 g/cm³) is less than that of water (about 1.00 g/cm³), so ice is lighter and floats."
+      },
+      {
+       "q": "How does floating ice protect fish in winter?",
+       "options": [
+        "The water below the ice stays at 4°C, so aquatic animals survive",
+        "The ice warms the whole lake",
+        "The fish hide inside the ice",
+        "The ice gives oxygen to the fish"
+       ],
+       "answer": 0,
+       "why": "Ice floats on top and the water below stays at 4°C, which protects fish and other aquatic animals in winter."
+      },
+      {
+       "q": "Water is known as a universal:",
+       "options": [
+        "Fuel",
+        "Solvent",
+        "Vitamin",
+        "Acid"
+       ],
+       "answer": 1,
+       "why": "The notes list water's functions: it is a universal solvent, is used for cooking and is essential for photosynthesis."
+      }
+     ]
     },
     {
      "title": "Oxygen and Nitrogen",
      "notes_html": "<h4>Oxygen</h4><p><strong>Oxygen</strong> is a colourless, odourless gas which is slightly soluble in water, so fish and aquatic life depend on it. It is the second most abundant gas in air after nitrogen (21% by volume) and is essential for life. It is the most abundant element in the human body, while hydrogen is not.</p><p>Oxygen supports respiration, in which food (mainly glucose) is oxidised to release energy, and combustion, for which fuel, heat and oxygen are all required. Ozone, produced from oxygen in the atmosphere, protects living things by absorbing the sun's ultraviolet light.</p><h4>Nitrogen</h4><p><strong>Nitrogen</strong> occurs in the atmosphere as diatomic molecules and is its major constituent (78% by volume). It is relatively inert and acts as an important diluent of air, slowing down combustion and corrosion.</p><p>Nitrogen also occurs in plants and animals in the form of proteins: plants make protein from nitrates in the soil, and animals obtain protein by eating plants. Through the nitrogen cycle, nitrogen moves regularly between living organisms, soil and air, keeping its amount in air constant.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Oxygen makes up what percentage of air by volume?",
+       "options": [
+        "78%",
+        "21%",
+        "0.9%",
+        "0.03%"
+       ],
+       "answer": 1,
+       "why": "Oxygen is the second most abundant gas in air after nitrogen, at 21% by volume; nitrogen is 78%."
+      },
+      {
+       "q": "Nitrogen makes up what percentage of air by volume?",
+       "options": [
+        "21%",
+        "0.9%",
+        "78%",
+        "45%"
+       ],
+       "answer": 2,
+       "why": "Nitrogen is the major constituent of the atmosphere at 78% by volume, occurring as diatomic molecules."
+      },
+      {
+       "q": "Together, nitrogen (78%) and oxygen (21%) make up what percentage of air?",
+       "options": [
+        "78 + 21 = 89%",
+        "78 + 21 = 100%",
+        "78 − 21 = 57%",
+        "78 + 21 = 99%"
+       ],
+       "answer": 3,
+       "why": "Adding the two main gases: 78% + 21% = 99% of air; the remaining about 1% is argon, carbon dioxide and other gases."
+      },
+      {
+       "q": "Which is the most abundant element in the human body?",
+       "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon",
+        "Nitrogen"
+       ],
+       "answer": 0,
+       "why": "The notes state that oxygen is the most abundant element in the human body, while hydrogen is not."
+      },
+      {
+       "q": "Why can fish live in water using oxygen?",
+       "options": [
+        "Because fish do not need oxygen",
+        "Because oxygen is slightly soluble in water",
+        "Because water is made of pure oxygen",
+        "Because oxygen is produced by fish"
+       ],
+       "answer": 1,
+       "why": "Oxygen is slightly soluble in water, so fish and aquatic life depend on this dissolved oxygen."
+      },
+      {
+       "q": "Which three things are required for combustion?",
+       "options": [
+        "Fuel, water and light",
+        "Oxygen, nitrogen and ash",
+        "Fuel, heat and oxygen",
+        "Heat, smoke and carbon"
+       ],
+       "answer": 2,
+       "why": "The notes state that combustion requires fuel, heat and oxygen, all three together."
+      },
+      {
+       "q": "Ozone in the atmosphere protects living things by:",
+       "options": [
+        "Producing rain",
+        "Cooling the oceans",
+        "Making oxygen for plants",
+        "Absorbing the sun's ultraviolet light"
+       ],
+       "answer": 3,
+       "why": "Ozone, produced from oxygen in the atmosphere, absorbs the sun's ultraviolet light and protects living things."
+      },
+      {
+       "q": "Nitrogen acts as a diluent of air. This means it:",
+       "options": [
+        "Slows down combustion and corrosion",
+        "Speeds up burning",
+        "Makes air poisonous",
+        "Increases rusting of iron"
+       ],
+       "answer": 0,
+       "why": "Nitrogen is relatively inert and dilutes the air, slowing down combustion and corrosion."
+      },
+      {
+       "q": "Plants make protein from which substances in the soil?",
+       "options": [
+        "Carbonates",
+        "Nitrates",
+        "Chlorides",
+        "Sulphates"
+       ],
+       "answer": 1,
+       "why": "The notes say plants make protein from nitrates in the soil, and animals obtain protein by eating plants."
+      },
+      {
+       "q": "The nitrogen cycle keeps the amount of nitrogen in air:",
+       "options": [
+        "Increasing every year",
+        "Decreasing every year",
+        "Constant",
+        "Doubled in summer"
+       ],
+       "answer": 2,
+       "why": "Through the nitrogen cycle, nitrogen moves regularly between living organisms, soil and air, keeping its amount in air constant."
+      }
+     ]
     },
     {
      "title": "Elements in Living Things",
      "notes_html": "<ul><li><strong>Natural gas</strong> is methane. (The chapter gives no percentage of methane in natural gas.)</li><li>A dilute solution of iodine in ethanol is known as <strong>tincture of iodine</strong>.</li><li><strong>Phosphorus</strong> is an important constituent of ATP and ADP, the energy-storage phosphate compounds.</li><li><strong>Sodium</strong> is an essential element; the percentage of sodium in leaf tissue ranges from 0.01% to 10%.</li><li>Air contains about 78% nitrogen, 21% oxygen, 0.9% argon and 0.03% carbon dioxide.</li></ul><h4>Chlorine</h4><p><strong>Chlorine</strong> is a very poisonous gas, but it has many beneficial uses in daily life. It is used to kill germs and bacteria, in domestic bleaches, and in water purification and swimming pools.</p><p>Polyvinyl chloride (PVC), a common plastic compound of chlorine, is used as an insulator and waterproofing material. Chlorine is also essential for higher plants and mammals: sodium chloride acts as an electrolyte and hydrochloric acid acts as a digestive juice in the body.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Natural gas is:",
+       "options": [
+        "Ethane",
+        "Propane gas only",
+        "Methane",
+        "Carbon dioxide"
+       ],
+       "answer": 2,
+       "why": "The notes state simply that natural gas is methane; the chapter gives no percentage of methane in natural gas."
+      },
+      {
+       "q": "Tincture of iodine is:",
+       "options": [
+        "A solution of iodine in water",
+        "Pure liquid iodine",
+        "Iodine mixed with glycerol",
+        "A dilute solution of iodine in ethanol"
+       ],
+       "answer": 3,
+       "why": "The notes define tincture of iodine as a dilute solution of iodine in ethanol."
+      },
+      {
+       "q": "Phosphorus is an important constituent of which energy compounds?",
+       "options": [
+        "ATP and ADP",
+        "DNA and RNA only",
+        "PVC and plastics",
+        "Haemoglobin and chlorophyll"
+       ],
+       "answer": 0,
+       "why": "Phosphorus is an important constituent of ATP and ADP, the energy-storage phosphate compounds, according to the notes."
+      },
+      {
+       "q": "The percentage of sodium in leaf tissue ranges from:",
+       "options": [
+        "10% to 20%",
+        "0.01% to 10%",
+        "0.1% to 1% only",
+        "50% to 60%"
+       ],
+       "answer": 1,
+       "why": "Sodium is an essential element and its percentage in leaf tissue ranges from 0.01% to 10%, as given in the notes."
+      },
+      {
+       "q": "Air contains about 0.9% of which gas?",
+       "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon",
+        "Nitrogen"
+       ],
+       "answer": 2,
+       "why": "The notes give air's composition as about 78% nitrogen, 21% oxygen, 0.9% argon and 0.03% carbon dioxide."
+      },
+      {
+       "q": "Adding all the gases listed for air: 78 + 21 + 0.9 + 0.03 equals:",
+       "options": [
+        "100.93%",
+        "98.93%",
+        "99.39%",
+        "99.93%"
+       ],
+       "answer": 3,
+       "why": "78 + 21 = 99; 99 + 0.9 = 99.9; 99.9 + 0.03 = 99.93%, so the listed gases make up 99.93% of air."
+      },
+      {
+       "q": "Chlorine gas is described in the notes as:",
+       "options": [
+        "Very poisonous, but with many beneficial uses",
+        "Completely harmless",
+        "Useful only in warfare",
+        "A harmless green liquid"
+       ],
+       "answer": 0,
+       "why": "The notes say chlorine is a very poisonous gas, but it has many beneficial uses in daily life."
+      },
+      {
+       "q": "Chlorine is used in daily life to:",
+       "options": [
+        "Sweeten food and drinks",
+        "Kill germs and bacteria, in bleaches and in water purification",
+        "Make fertilisers only",
+        "Colour clothes permanently"
+       ],
+       "answer": 1,
+       "why": "Chlorine is used to kill germs and bacteria, in domestic bleaches, and in water purification and swimming pools."
+      },
+      {
+       "q": "PVC (polyvinyl chloride) is used as:",
+       "options": [
+        "A food preservative",
+        "A medicine for fever",
+        "An insulator and waterproofing material",
+        "A fertiliser for crops"
+       ],
+       "answer": 2,
+       "why": "PVC, a common plastic compound of chlorine, is used as an insulator and waterproofing material, per the notes."
+      },
+      {
+       "q": "In the human body, hydrochloric acid acts as:",
+       "options": [
+        "A blood clotting agent",
+        "A hormone",
+        "An energy store",
+        "A digestive juice"
+       ],
+       "answer": 3,
+       "why": "The notes state that sodium chloride acts as an electrolyte and hydrochloric acid acts as a digestive juice in the body."
+      }
+     ]
     }
    ]
   },
@@ -62,22 +1061,466 @@
     {
      "title": "Metabolism and Enzymes",
      "notes_html": "<p><strong>Metabolism</strong> is the sum total of all the chemical reactions taking place in a living body. It has two parts: <strong>anabolic</strong> reactions, which build up substances (like photosynthesis), and <strong>catabolic</strong> reactions, which break down substances to release energy (like respiration).</p><h4>Catalysts and Enzymes</h4><p>A <strong>catalyst</strong> is a substance that speeds up a chemical reaction without itself being used up or changed at the end of the reaction.</p><p>An <strong>enzyme</strong> is a biological catalyst, usually a protein, made by living cells, which speeds up a biochemical reaction without being used up itself, and each enzyme is very <strong>specific</strong> in its function.</p><h4>Enzymes in Daily Life</h4><ul><li>Enzymes digest our food — for example amylase digests starch and pepsin digests proteins.</li><li>Papain, obtained from the papaya plant, tenderises meat.</li><li>Enzymes are used in making bread and cheese and in washing powders to remove stains.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Metabolism is:",
+       "options": [
+        "Only the digestion of food",
+        "Only the production of energy",
+        "The sum total of all the chemical reactions taking place in a living body",
+        "The movement of blood in the body"
+       ],
+       "answer": 2,
+       "why": "The notes define metabolism as the sum total of all chemical reactions taking place in a living body."
+      },
+      {
+       "q": "Anabolic reactions are those which:",
+       "options": [
+        "Break down substances to release energy",
+        "Stop all body reactions",
+        "Destroy enzymes",
+        "Build up substances, like photosynthesis"
+       ],
+       "answer": 3,
+       "why": "Anabolic reactions build up substances; photosynthesis is the example given in the notes."
+      },
+      {
+       "q": "Catabolic reactions are those which:",
+       "options": [
+        "Break down substances to release energy, like respiration",
+        "Build up substances, like photosynthesis",
+        "Form new genes",
+        "Store water in cells"
+       ],
+       "answer": 0,
+       "why": "Catabolic reactions break down substances to release energy; respiration is the example given in the notes."
+      },
+      {
+       "q": "A catalyst is a substance that:",
+       "options": [
+        "Slows down every reaction",
+        "Speeds up a chemical reaction without itself being used up or changed",
+        "Is completely consumed in the reaction",
+        "Changes into the product"
+       ],
+       "answer": 1,
+       "why": "The notes define a catalyst as a substance that speeds up a reaction without itself being used up or changed at the end."
+      },
+      {
+       "q": "An enzyme is:",
+       "options": [
+        "A mineral acid made in factories",
+        "A type of vitamin",
+        "A biological catalyst, usually a protein, made by living cells",
+        "A living microorganism"
+       ],
+       "answer": 2,
+       "why": "An enzyme is a biological catalyst, usually a protein, made by living cells, which speeds up a biochemical reaction without being used up."
+      },
+      {
+       "q": "Each enzyme is:",
+       "options": [
+        "Able to digest all foods",
+        "Changed after every reaction",
+        "Found only in plants",
+        "Very specific in its function"
+       ],
+       "answer": 3,
+       "why": "The notes stress that each enzyme is very specific in its function, acting on a particular substance."
+      },
+      {
+       "q": "Amylase is an enzyme that digests:",
+       "options": [
+        "Starch",
+        "Proteins",
+        "Fats",
+        "Cellulose only"
+       ],
+       "answer": 0,
+       "why": "The notes give amylase as the enzyme that digests starch, while pepsin digests proteins."
+      },
+      {
+       "q": "Pepsin is an enzyme that digests:",
+       "options": [
+        "Starch",
+        "Proteins",
+        "Fats and oils",
+        "Sugars only"
+       ],
+       "answer": 1,
+       "why": "Pepsin digests proteins, as stated in the notes on enzymes in daily life."
+      },
+      {
+       "q": "Papain, the enzyme used to tenderise meat, is obtained from:",
+       "options": [
+        "The pineapple plant only",
+        "Bacteria in milk",
+        "The papaya plant",
+        "The liver of animals"
+       ],
+       "answer": 2,
+       "why": "The notes state that papain, obtained from the papaya plant, tenderises meat."
+      },
+      {
+       "q": "Enzymes are used in washing powders to:",
+       "options": [
+        "Give colour to clothes",
+        "Make the powder smell sweet",
+        "Soften the water only",
+        "Remove stains"
+       ],
+       "answer": 3,
+       "why": "Enzymes are used in making bread and cheese and in washing powders to remove stains, according to the notes."
+      }
+     ]
     },
     {
      "title": "Components of Blood",
      "notes_html": "<p><strong>Blood</strong> has two main parts. The liquid part is <strong>plasma</strong>, which carries dissolved substances around the body. Floating in the plasma are the blood cells:</p><ul><li><strong>Red blood cells</strong> (erythrocytes), which carry oxygen.</li><li><strong>White blood cells</strong> (leucocytes), which defend the body against germs.</li><li><strong>Platelets</strong> (thrombocytes), which help the blood to clot.</li></ul><p>Human blood is classified into <strong>A, B, AB and O</strong> groups on the basis of antigen and antibody. Blood group <strong>AB</strong> is called the universal recipient.</p><p><strong>Vaccination</strong> stimulates the immune system of the body.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The liquid part of blood is called:",
+       "options": [
+        "Serum albumin",
+        "Haemoglobin",
+        "Lymph",
+        "Plasma"
+       ],
+       "answer": 3,
+       "why": "Blood has two main parts: the liquid part is plasma, which carries dissolved substances around the body."
+      },
+      {
+       "q": "Red blood cells (erythrocytes) have the function of:",
+       "options": [
+        "Carrying oxygen",
+        "Defending the body against germs",
+        "Helping the blood to clot",
+        "Making antibodies only"
+       ],
+       "answer": 0,
+       "why": "The notes state that red blood cells carry oxygen around the body."
+      },
+      {
+       "q": "White blood cells (leucocytes) have the function of:",
+       "options": [
+        "Carrying oxygen",
+        "Defending the body against germs",
+        "Clotting the blood",
+        "Carrying dissolved food only"
+       ],
+       "answer": 1,
+       "why": "White blood cells defend the body against germs, as given in the notes."
+      },
+      {
+       "q": "Platelets (thrombocytes) help the blood to:",
+       "options": [
+        "Flow faster",
+        "Carry oxygen",
+        "Clot",
+        "Fight germs directly"
+       ],
+       "answer": 2,
+       "why": "Platelets help the blood to clot, preventing loss of blood from wounds."
+      },
+      {
+       "q": "Human blood is classified into which groups?",
+       "options": [
+        "A, B, C and D",
+        "X, Y and Z",
+        "Positive and negative only",
+        "A, B, AB and O"
+       ],
+       "answer": 3,
+       "why": "Human blood is classified into A, B, AB and O groups on the basis of antigen and antibody."
+      },
+      {
+       "q": "Blood groups are classified on the basis of:",
+       "options": [
+        "Antigen and antibody",
+        "Colour and thickness",
+        "Age and weight",
+        "Sugar and salt content"
+       ],
+       "answer": 0,
+       "why": "The notes state that blood is classified into A, B, AB and O on the basis of antigen and antibody."
+      },
+      {
+       "q": "Which blood group is called the universal recipient?",
+       "options": [
+        "O",
+        "AB",
+        "A",
+        "B"
+       ],
+       "answer": 1,
+       "why": "Blood group AB is called the universal recipient because a person with AB can receive blood of any group."
+      },
+      {
+       "q": "Vaccination works by:",
+       "options": [
+        "Killing all blood cells",
+        "Thickening the blood",
+        "Stimulating the immune system of the body",
+        "Removing plasma from the body"
+       ],
+       "answer": 2,
+       "why": "The notes state that vaccination stimulates the immune system of the body so it can fight the disease."
+      },
+      {
+       "q": "Which blood cells float in the plasma?",
+       "options": [
+        "Only red cells",
+        "Only white cells",
+        "Only platelets",
+        "Red cells, white cells and platelets"
+       ],
+       "answer": 3,
+       "why": "Floating in the plasma are the blood cells: red blood cells, white blood cells and platelets, all three."
+      },
+      {
+       "q": "Plasma carries what around the body?",
+       "options": [
+        "Dissolved substances",
+        "Only oxygen gas",
+        "Only germs",
+        "Only heat"
+       ],
+       "answer": 0,
+       "why": "The notes say plasma is the liquid part of blood which carries dissolved substances around the body."
+      }
+     ]
     },
     {
      "title": "Genetic Engineering and Biotechnology",
      "notes_html": "<p><strong>Genetic engineering</strong> is the technique of changing an organism's genes by inserting, removing or modifying a gene to give it a desired character.</p><p>A <strong>transgenic organism</strong> is an organism whose genetic material has been changed by genetic engineering, by inserting a gene from another organism into it. The new gene gives the organism a desired character, for example Bt cotton, which carries a bacterial gene that protects it from insect pests.</p><h4>Help in Agriculture and Livestock</h4><p>In agriculture genetic engineering produces high-yield, disease-resistant and pest-resistant crops, such as Bt cotton. In livestock it can improve milk and meat production and breed animals resistant to disease, raising both quantity and quality.</p><p>An <strong>antibiotic</strong> is a medicine, originally produced by a microorganism, which kills bacteria or stops their growth. It is used to treat bacterial infections; penicillin, the first antibiotic, is used against many bacterial diseases.</p><p>The term 'Biotechnology' was not introduced in 1980.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Genetic engineering is the technique of:",
+       "options": [
+        "Changing an organism's genes by inserting, removing or modifying a gene",
+        "Growing plants without soil",
+        "Cloning whole animals only",
+        "Making medicines from herbs"
+       ],
+       "answer": 0,
+       "why": "Genetic engineering changes an organism's genes by inserting, removing or modifying a gene to give it a desired character."
+      },
+      {
+       "q": "A transgenic organism is one whose:",
+       "options": [
+        "Colour has been changed by dye",
+        "Genetic material has been changed by inserting a gene from another organism",
+        "Size has increased by overfeeding",
+        "Habitat has been changed"
+       ],
+       "answer": 1,
+       "why": "A transgenic organism's genetic material has been changed by genetic engineering, by inserting a gene from another organism into it."
+      },
+      {
+       "q": "Bt cotton carries a bacterial gene that protects it from:",
+       "options": [
+        "Drought",
+        "Frost",
+        "Insect pests",
+        "Salinity"
+       ],
+       "answer": 2,
+       "why": "The notes give Bt cotton as the example: it carries a bacterial gene that protects it from insect pests."
+      },
+      {
+       "q": "In agriculture, genetic engineering produces crops that are:",
+       "options": [
+        "Smaller and weaker",
+        "Only ornamental",
+        "Unable to make seeds",
+        "High-yield, disease-resistant and pest-resistant"
+       ],
+       "answer": 3,
+       "why": "In agriculture genetic engineering produces high-yield, disease-resistant and pest-resistant crops such as Bt cotton."
+      },
+      {
+       "q": "In livestock, genetic engineering can improve:",
+       "options": [
+        "Milk and meat production and disease resistance",
+        "Only the colour of animals",
+        "The speed of horses only",
+        "Egg shell thickness only"
+       ],
+       "answer": 0,
+       "why": "In livestock it can improve milk and meat production and breed animals resistant to disease, raising quantity and quality."
+      },
+      {
+       "q": "An antibiotic is a medicine which:",
+       "options": [
+        "Kills viruses in the blood",
+        "Kills bacteria or stops their growth",
+        "Cures all diseases",
+        "Lowers fever directly"
+       ],
+       "answer": 1,
+       "why": "An antibiotic, originally produced by a microorganism, kills bacteria or stops their growth and treats bacterial infections."
+      },
+      {
+       "q": "Antibiotics were originally produced by:",
+       "options": [
+        "Green plants",
+        "Human blood cells",
+        "Microorganisms",
+        "Minerals in the soil"
+       ],
+       "answer": 2,
+       "why": "The notes define an antibiotic as a medicine originally produced by a microorganism."
+      },
+      {
+       "q": "Which was the first antibiotic?",
+       "options": [
+        "Streptomycin",
+        "Insulin",
+        "Aspirin",
+        "Penicillin"
+       ],
+       "answer": 3,
+       "why": "Penicillin, the first antibiotic, is used against many bacterial diseases, according to the notes."
+      },
+      {
+       "q": "Antibiotics are used to treat:",
+       "options": [
+        "Bacterial infections",
+        "Viral infections",
+        "Broken bones",
+        "Vitamin deficiency"
+       ],
+       "answer": 0,
+       "why": "Antibiotics are used to treat bacterial infections; they act on bacteria, not on viruses."
+      },
+      {
+       "q": "The purpose of inserting a new gene into an organism is to give it:",
+       "options": [
+        "A new colour only",
+        "A desired character",
+        "A longer life in every case",
+        "Resistance to all chemicals"
+       ],
+       "answer": 1,
+       "why": "The new gene gives the organism a desired character, for example pest resistance in Bt cotton."
+      }
+     ]
     },
     {
      "title": "Recycling of Waste Materials",
      "notes_html": "<p><strong>Recycling</strong> means collecting waste materials and processing them to make new, useful products instead of throwing them away.</p><h4>Benefits of Recycling</h4><ul><li>Less rubbish, so less environmental pollution.</li><li>Conservation of raw materials and natural resources.</li><li>Treatment of sewage saves water, which is scarce in many parts of the world.</li><li>Saving of energy and money.</li></ul><p>Paper, cardboard, plastic, rubber, metal and glass discarded as rubbish are retrieved and recycled through their industries: reusing newspapers saves trees and prevents deforestation, broken glass is crushed to make new containers, and aluminium cans and bottle caps are recycled to save materials, energy and money.</p><p>Sewage is treated in sewage tanks and the purified water is discharged into rivers and reservoirs for reuse. Household paper waste can be burnt to provide heat and hot water, and organic waste gives manure and heat energy.</p><p>The three methods of waste disposal in developed countries are compost (natural fertilizer), burning in incinerators, and burying underground by hygienic methods.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Recycling means:",
+       "options": [
+        "Burning all waste in the open",
+        "Collecting waste materials and processing them to make new, useful products",
+        "Throwing waste into rivers",
+        "Burying waste without sorting"
+       ],
+       "answer": 1,
+       "why": "Recycling means collecting waste materials and processing them to make new, useful products instead of throwing them away."
+      },
+      {
+       "q": "Which of the following is a benefit of recycling?",
+       "options": [
+        "Increase in pollution",
+        "Wastage of energy",
+        "Conservation of raw materials and natural resources",
+        "Loss of raw materials"
+       ],
+       "answer": 2,
+       "why": "The notes list the benefits: less rubbish and pollution, conservation of raw materials, saving of water, energy and money."
+      },
+      {
+       "q": "Reusing newspapers helps to:",
+       "options": [
+        "Increase paper prices",
+        "Pollute the air",
+        "Waste energy",
+        "Save trees and prevent deforestation"
+       ],
+       "answer": 3,
+       "why": "Reusing newspapers saves trees and prevents deforestation, as stated in the notes."
+      },
+      {
+       "q": "Broken glass is recycled by:",
+       "options": [
+        "Crushing it to make new containers",
+        "Melting it into roads",
+        "Burying it in fields",
+        "Dissolving it in acid"
+       ],
+       "answer": 0,
+       "why": "The notes say broken glass is crushed to make new containers."
+      },
+      {
+       "q": "Aluminium cans and bottle caps are recycled to save:",
+       "options": [
+        "Only time",
+        "Materials, energy and money",
+        "Only land",
+        "Only water"
+       ],
+       "answer": 1,
+       "why": "Aluminium cans and bottle caps are recycled to save materials, energy and money, according to the notes."
+      },
+      {
+       "q": "After treatment in sewage tanks, the purified water is:",
+       "options": [
+        "Thrown into deserts",
+        "Stored forever in tanks",
+        "Discharged into rivers and reservoirs for reuse",
+        "Used only for washing cars"
+       ],
+       "answer": 2,
+       "why": "Sewage is treated in sewage tanks and the purified water is discharged into rivers and reservoirs for reuse."
+      },
+      {
+       "q": "Treatment of sewage is important because it saves:",
+       "options": [
+        "Electricity only",
+        "Fertiliser only",
+        "Paper and glass",
+        "Water, which is scarce in many parts of the world"
+       ],
+       "answer": 3,
+       "why": "The notes say treatment of sewage saves water, which is scarce in many parts of the world."
+      },
+      {
+       "q": "Household organic waste can give:",
+       "options": [
+        "Manure and heat energy",
+        "Plastic and glass",
+        "Medicines and vitamins",
+        "Metals and minerals"
+       ],
+       "answer": 0,
+       "why": "Organic waste gives manure and heat energy, while household paper waste can be burnt to provide heat and hot water."
+      },
+      {
+       "q": "The three methods of waste disposal in developed countries are:",
+       "options": [
+        "Dumping in rivers, burning in fields, and leaving in streets",
+        "Compost, burning in incinerators, and burying underground by hygienic methods",
+        "Compost, dumping in seas, and open burning",
+        "Burying in homes, burning in schools, and compost"
+       ],
+       "answer": 1,
+       "why": "The notes list compost (natural fertilizer), burning in incinerators, and hygienic burying underground as the three methods."
+      },
+      {
+       "q": "Which materials are retrieved from rubbish and recycled through their industries?",
+       "options": [
+        "Only paper and glass",
+        "Only metals",
+        "Paper, cardboard, plastic, rubber, metal and glass",
+        "Food waste and ash only"
+       ],
+       "answer": 2,
+       "why": "Paper, cardboard, plastic, rubber, metal and glass discarded as rubbish are retrieved and recycled through their industries."
+      }
+     ]
     }
    ]
   },
@@ -87,27 +1530,582 @@
     {
      "title": "Components of Food",
      "notes_html": "<p>The basic <strong>components of food</strong> are carbohydrates, proteins, fats, vitamins, minerals and water. Roughage (fibre) from plant food is also an important part of the diet, because it helps digestion and prevents constipation.</p><ul><li><strong>Carbohydrates</strong> are the main source of energy; glucose is their simplest form and starch and cellulose are their common forms. <strong>Cellulose</strong> is the most abundant naturally occurring carbohydrate of the world.</li><li><strong>Proteins</strong>, made of amino acids, build and repair the body.</li><li><strong>Fats and oils</strong> are formed by the chemical combination of fatty acids with <strong>glycerol</strong>; they store energy and give 9.3 Kcal per gram.</li><li><strong>Vitamins</strong> are required in very small amounts: A, D, E and K are fat soluble, while B and C are water soluble.</li><li><strong>Minerals</strong> such as iron, iodine, calcium, sodium and potassium are needed for blood, bones, nerves and glands.</li><li><strong>Water</strong>, about two thirds of the body, acts as a solvent and carrier and regulates body temperature.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which of the following are the basic components of food?",
+       "options": [
+        "Only carbohydrates and proteins",
+        "Carbohydrates, proteins, fats, vitamins, minerals and water",
+        "Only vitamins and minerals",
+        "Sugars, salts and spices"
+       ],
+       "answer": 1,
+       "why": "The notes list the basic components of food as carbohydrates, proteins, fats, vitamins, minerals and water, plus roughage."
+      },
+      {
+       "q": "Roughage (fibre) in the diet is important because it:",
+       "options": [
+        "Gives a lot of energy",
+        "Builds muscles",
+        "Helps digestion and prevents constipation",
+        "Makes bones strong"
+       ],
+       "answer": 2,
+       "why": "Roughage from plant food helps digestion and prevents constipation, according to the notes."
+      },
+      {
+       "q": "Carbohydrates are the main source of:",
+       "options": [
+        "Body building material",
+        "Hormones",
+        "Blood cells",
+        "Energy"
+       ],
+       "answer": 3,
+       "why": "Carbohydrates are the main source of energy; glucose is their simplest form."
+      },
+      {
+       "q": "Which is the most abundant naturally occurring carbohydrate in the world?",
+       "options": [
+        "Cellulose",
+        "Glucose",
+        "Starch",
+        "Sucrose"
+       ],
+       "answer": 0,
+       "why": "The notes state that cellulose is the most abundant naturally occurring carbohydrate of the world."
+      },
+      {
+       "q": "Proteins are made of small units called:",
+       "options": [
+        "Fatty acids",
+        "Amino acids",
+        "Glucose units",
+        "Minerals"
+       ],
+       "answer": 1,
+       "why": "Proteins, made of amino acids, build and repair the body, as stated in the notes."
+      },
+      {
+       "q": "Fats and oils are formed by the chemical combination of:",
+       "options": [
+        "Amino acids with water",
+        "Glucose with oxygen",
+        "Fatty acids with glycerol",
+        "Vitamins with minerals"
+       ],
+       "answer": 2,
+       "why": "The notes state that fats and oils are formed by the chemical combination of fatty acids with glycerol."
+      },
+      {
+       "q": "How much energy do fats give per gram?",
+       "options": [
+        "4 Kcal per gram",
+        "7 Kcal per gram",
+        "2.5 Kcal per gram",
+        "9.3 Kcal per gram"
+       ],
+       "answer": 3,
+       "why": "Fats store energy and give 9.3 Kcal per gram, as given in the notes."
+      },
+      {
+       "q": "Using the notes' value, 10 grams of fat gives how much energy?",
+       "options": [
+        "10 × 9.3 = 93 Kcal",
+        "10 × 9.3 = 9.3 Kcal",
+        "10 + 9.3 = 19.3 Kcal",
+        "10 × 4 = 40 Kcal"
+       ],
+       "answer": 0,
+       "why": "Fats give 9.3 Kcal per gram, so 10 g of fat gives 10 × 9.3 = 93 Kcal of energy."
+      },
+      {
+       "q": "Which vitamins are fat soluble?",
+       "options": [
+        "B and C",
+        "A, D, E and K",
+        "A and C",
+        "B, D and K"
+       ],
+       "answer": 1,
+       "why": "The notes state that vitamins A, D, E and K are fat soluble, while B and C are water soluble."
+      },
+      {
+       "q": "Minerals such as iron, iodine, calcium, sodium and potassium are needed for:",
+       "options": [
+        "Only for the skin",
+        "Only for eyesight",
+        "Blood, bones, nerves and glands",
+        "Only for digestion"
+       ],
+       "answer": 2,
+       "why": "The notes say these minerals are needed for blood, bones, nerves and glands."
+      }
+     ]
     },
     {
      "title": "Proteins",
      "notes_html": "<p><strong>Proteins</strong> are the building materials of the body. They are made of small units called <strong>amino acids</strong>, and foods containing carbon, hydrogen, oxygen and nitrogen are proteins, for example meat, fish, pulses, milk and eggs.</p><p>Proteins build new cells, repair worn-out tissues, and form enzymes, hormones and antibodies. The flesh of human beings, animals, birds and fishes is made of proteins. Glucose is not a building block of proteins.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Proteins are called the building materials of the body because they:",
+       "options": [
+        "Give the quickest energy",
+        "Store fat in the body",
+        "Build new cells and repair worn-out tissues",
+        "Carry oxygen in blood"
+       ],
+       "answer": 2,
+       "why": "Proteins build new cells, repair worn-out tissues, and form enzymes, hormones and antibodies."
+      },
+      {
+       "q": "Proteins are made of small units called:",
+       "options": [
+        "Fatty acids",
+        "Glucose molecules",
+        "Glycerol units",
+        "Amino acids"
+       ],
+       "answer": 3,
+       "why": "The notes state that proteins are made of small units called amino acids."
+      },
+      {
+       "q": "Which elements do protein foods contain?",
+       "options": [
+        "Carbon, hydrogen, oxygen and nitrogen",
+        "Carbon, sulphur and phosphorus only",
+        "Iron, iodine and calcium",
+        "Sodium, potassium and chlorine only"
+       ],
+       "answer": 0,
+       "why": "Foods containing carbon, hydrogen, oxygen and nitrogen are proteins, for example meat, fish, pulses, milk and eggs."
+      },
+      {
+       "q": "Which of the following is a protein food?",
+       "options": [
+        "Rice",
+        "Pulses",
+        "Butter",
+        "Sugar"
+       ],
+       "answer": 1,
+       "why": "The notes list meat, fish, pulses, milk and eggs as protein foods; pulses are the protein food among the options."
+      },
+      {
+       "q": "Proteins form which important body substances?",
+       "options": [
+        "Bones and teeth only",
+        "Fat layers only",
+        "Enzymes, hormones and antibodies",
+        "Blood plasma only"
+       ],
+       "answer": 2,
+       "why": "Besides building cells, proteins form enzymes, hormones and antibodies, as stated in the notes."
+      },
+      {
+       "q": "The flesh of human beings, animals, birds and fishes is made of:",
+       "options": [
+        "Carbohydrates",
+        "Fats",
+        "Cellulose",
+        "Proteins"
+       ],
+       "answer": 3,
+       "why": "The notes state that the flesh of human beings, animals, birds and fishes is made of proteins."
+      },
+      {
+       "q": "Which of the following is NOT a building block of proteins?",
+       "options": [
+        "Glucose",
+        "Amino acids",
+        "Carbon",
+        "Nitrogen"
+       ],
+       "answer": 0,
+       "why": "The notes clearly state that glucose is not a building block of proteins; proteins are built from amino acids."
+      },
+      {
+       "q": "Which food group do milk and eggs belong to in this lesson?",
+       "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats only",
+        "Minerals"
+       ],
+       "answer": 1,
+       "why": "Meat, fish, pulses, milk and eggs are given as examples of proteins in the notes."
+      },
+      {
+       "q": "When tissues of the body are worn out, proteins are needed to:",
+       "options": [
+        "Remove them from the body",
+        "Turn them into fat",
+        "Repair them",
+        "Store them as starch"
+       ],
+       "answer": 2,
+       "why": "Proteins build new cells and repair worn-out tissues, which is why they are called building materials."
+      },
+      {
+       "q": "Antibodies, which fight germs in the body, are formed from:",
+       "options": [
+        "Fats",
+        "Starch",
+        "Mineral salts",
+        "Proteins"
+       ],
+       "answer": 3,
+       "why": "The notes state that proteins form enzymes, hormones and antibodies in the body."
+      }
+     ]
     },
     {
      "title": "Vitamins and Minerals",
      "notes_html": "<p><strong>Vitamins</strong> are organic compounds which the body needs in very small amounts but cannot do without; they do not give energy themselves, but they regulate the body's working. They are of two kinds: fat-soluble vitamins A, D, E and K, which are stored in the body, and water-soluble vitamins B and C, which must be taken regularly in food.</p><ul><li><strong>Vitamin A</strong> keeps the eyes healthy and is a fat soluble vitamin; its deficiency causes <strong>night blindness</strong>.</li><li><strong>Vitamin D</strong> helps bones absorb calcium; its deficiency in children causes <strong>rickets</strong>.</li><li><strong>Vitamin C</strong> prevents scurvy and keeps gums and skin healthy. Rickets is not caused by vitamin C deficiency.</li><li>The <strong>B-group vitamins</strong> help the body to release energy from food, keep the nerves and skin healthy, and help in the formation of red blood cells. Deficiency of vitamin B causes beri-beri and weakness of nerves.</li><li><strong>Iron</strong> is present at the active centre of haemoglobin and myoglobin, the molecules that carry oxygen in the blood and muscles, and of cytochromes and ferredoxins for electron transport. Without enough iron the blood cannot carry oxygen properly and anaemia results.</li><li>Deficiency of <strong>iodine</strong> causes <strong>goiter</strong>.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Vitamins are needed by the body in:",
+       "options": [
+        "Very large amounts",
+        "Amounts equal to proteins",
+        "No fixed amount",
+        "Very small amounts"
+       ],
+       "answer": 3,
+       "why": "Vitamins are organic compounds which the body needs in very small amounts but cannot do without."
+      },
+      {
+       "q": "Do vitamins themselves give energy to the body?",
+       "options": [
+        "No, they regulate the body's working",
+        "Yes, more than fats",
+        "Yes, equal to carbohydrates",
+        "Yes, but only vitamin C"
+       ],
+       "answer": 0,
+       "why": "The notes state that vitamins do not give energy themselves, but they regulate the body's working."
+      },
+      {
+       "q": "Fat-soluble vitamins are stored in the body. They are:",
+       "options": [
+        "B and C",
+        "A, D, E and K",
+        "A and B",
+        "C and D"
+       ],
+       "answer": 1,
+       "why": "Fat-soluble vitamins A, D, E and K are stored in the body; water-soluble B and C must be taken regularly in food."
+      },
+      {
+       "q": "Deficiency of vitamin A causes:",
+       "options": [
+        "Rickets",
+        "Scurvy",
+        "Night blindness",
+        "Beri-beri"
+       ],
+       "answer": 2,
+       "why": "Vitamin A keeps the eyes healthy and its deficiency causes night blindness, as stated in the notes."
+      },
+      {
+       "q": "Vitamin D helps the bones to absorb:",
+       "options": [
+        "Iron",
+        "Iodine",
+        "Potassium",
+        "Calcium"
+       ],
+       "answer": 3,
+       "why": "Vitamin D helps bones absorb calcium; its deficiency in children causes rickets."
+      },
+      {
+       "q": "Rickets in children is caused by the deficiency of:",
+       "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B"
+       ],
+       "answer": 0,
+       "why": "The notes state that deficiency of vitamin D in children causes rickets; rickets is not caused by vitamin C deficiency."
+      },
+      {
+       "q": "Vitamin C prevents which disease?",
+       "options": [
+        "Rickets",
+        "Scurvy",
+        "Night blindness",
+        "Goiter"
+       ],
+       "answer": 1,
+       "why": "Vitamin C prevents scurvy and keeps gums and skin healthy, according to the notes."
+      },
+      {
+       "q": "Deficiency of vitamin B causes:",
+       "options": [
+        "Scurvy and bleeding gums",
+        "Rickets and weak bones",
+        "Beri-beri and weakness of nerves",
+        "Night blindness"
+       ],
+       "answer": 2,
+       "why": "The notes state that deficiency of vitamin B causes beri-beri and weakness of nerves."
+      },
+      {
+       "q": "Iron is present at the active centre of which oxygen-carrying molecules?",
+       "options": [
+        "Insulin and glucagon",
+        "Thyroxin and adrenaline",
+        "Amylase and pepsin",
+        "Haemoglobin and myoglobin"
+       ],
+       "answer": 3,
+       "why": "Iron is at the active centre of haemoglobin and myoglobin, which carry oxygen in the blood and muscles; without it, anaemia results."
+      },
+      {
+       "q": "Deficiency of iodine causes:",
+       "options": [
+        "Goiter",
+        "Anaemia",
+        "Scurvy",
+        "Rickets"
+       ],
+       "answer": 0,
+       "why": "The notes state that deficiency of iodine causes goiter."
+      }
+     ]
     },
     {
      "title": "Balanced Diet and Exercise",
      "notes_html": "<p>A <strong>balanced diet</strong> is a diet which contains all the components of food — carbohydrates, proteins, fats, vitamins, minerals, water and roughage — in the right proportions for a person's age, work and health.</p><ul><li>Growing children need more protein and calcium for growth of bones and muscles.</li><li>Hard-working labourers need more carbohydrates and fats for energy.</li><li>Pregnant and nursing mothers need extra protein, iron and calcium.</li><li>Old people need less fat and energy but enough calcium, vitamins and fibre.</li><li>Students and office workers need a moderate, balanced diet with plenty of vegetables, milk and fruit and less fried food.</li></ul><h4>Importance of Exercise</h4><p>Exercise strengthens the heart and muscles, improves blood circulation and breathing, and helps digestion. It controls body weight and prevents obesity, diabetes and heart disease. It also refreshes the mind, reduces stress and improves sleep, so regular exercise is as important for health as a balanced diet.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "A balanced diet is a diet which contains:",
+       "options": [
+        "All the components of food in the right proportions",
+        "Only proteins and fats",
+        "Equal weights of every food",
+        "Only cooked food"
+       ],
+       "answer": 0,
+       "why": "A balanced diet contains carbohydrates, proteins, fats, vitamins, minerals, water and roughage in the right proportions for a person's age, work and health."
+      },
+      {
+       "q": "The right proportions in a balanced diet depend on a person's:",
+       "options": [
+        "Height only",
+        "Age, work and health",
+        "Income only",
+        "Taste only"
+       ],
+       "answer": 1,
+       "why": "The notes say the proportions are set according to a person's age, work and health."
+      },
+      {
+       "q": "Growing children need more protein and calcium for:",
+       "options": [
+        "Quick energy only",
+        "Better eyesight only",
+        "Growth of bones and muscles",
+        "Fighting germs only"
+       ],
+       "answer": 2,
+       "why": "Growing children need more protein and calcium for growth of bones and muscles, as stated in the notes."
+      },
+      {
+       "q": "Hard-working labourers need more carbohydrates and fats for:",
+       "options": [
+        "Sleep",
+        "Growth of bones",
+        "Blood formation",
+        "Energy"
+       ],
+       "answer": 3,
+       "why": "Labourers do heavy work, so they need more carbohydrates and fats for energy."
+      },
+      {
+       "q": "Pregnant and nursing mothers need extra:",
+       "options": [
+        "Protein, iron and calcium",
+        "Fat and sugar",
+        "Salt and spices",
+        "Water only"
+       ],
+       "answer": 0,
+       "why": "The notes state that pregnant and nursing mothers need extra protein, iron and calcium."
+      },
+      {
+       "q": "Old people need:",
+       "options": [
+        "More fat and more energy",
+        "Less fat and energy but enough calcium, vitamins and fibre",
+        "Only milk and fruit",
+        "No calcium at all"
+       ],
+       "answer": 1,
+       "why": "Old people need less fat and energy but enough calcium, vitamins and fibre, according to the notes."
+      },
+      {
+       "q": "Students and office workers need a diet with:",
+       "options": [
+        "Plenty of fried food",
+        "Only meat and eggs",
+        "Plenty of vegetables, milk and fruit and less fried food",
+        "No vegetables at all"
+       ],
+       "answer": 2,
+       "why": "The notes advise a moderate, balanced diet with plenty of vegetables, milk and fruit and less fried food for students and office workers."
+      },
+      {
+       "q": "Exercise helps the body by:",
+       "options": [
+        "Weakening the heart",
+        "Stopping digestion",
+        "Increasing body fat",
+        "Strengthening the heart and muscles and improving circulation and breathing"
+       ],
+       "answer": 3,
+       "why": "Exercise strengthens the heart and muscles, improves blood circulation and breathing, and helps digestion."
+      },
+      {
+       "q": "Regular exercise controls body weight and prevents:",
+       "options": [
+        "Obesity, diabetes and heart disease",
+        "Scurvy and rickets",
+        "Night blindness",
+        "Goiter"
+       ],
+       "answer": 0,
+       "why": "The notes state that exercise controls body weight and prevents obesity, diabetes and heart disease."
+      },
+      {
+       "q": "Besides physical benefits, exercise also:",
+       "options": [
+        "Makes a person lazy",
+        "Refreshes the mind, reduces stress and improves sleep",
+        "Disturbs sleep",
+        "Increases stress"
+       ],
+       "answer": 1,
+       "why": "Exercise refreshes the mind, reduces stress and improves sleep, so it is as important for health as a balanced diet."
+      }
+     ]
     },
     {
      "title": "Endocrine Glands and Hormones",
      "notes_html": "<p><strong>Endocrine glands</strong> pour their hormones directly into the blood.</p><ul><li>The <strong>pituitary gland</strong> is the master gland that controls other glands.</li><li>The <strong>thyroid gland</strong> secretes <strong>thyroxin</strong>, which controls the rate of metabolism in the body. Thyroxin is not secreted by the parathyroid gland.</li><li>The <strong>parathyroid glands</strong> control calcium in blood and bones.</li><li>The <strong>pancreas</strong> (islets of Langerhans) secretes <strong>insulin</strong> and <strong>glucagon</strong>, which control blood glucose.</li><li>The <strong>adrenal glands</strong> secrete <strong>epinephrine</strong> (adrenaline), the emergency hormone that controls involuntary action and prepares the body for sudden action by quickening the heartbeat and breathing.</li><li>The <strong>gonads</strong> secrete sex hormones that control growth and reproduction.</li></ul><h4>Role of Insulin</h4><p>Insulin is a hormone formed in the pancreas. It lowers the level of glucose in the blood by helping the body cells to take in glucose and use or store it. When insulin is deficient, blood glucose rises and the disease diabetes results.</p><p><strong>Rabies</strong> is caused by the bite of a rabid dog. The virus attacks the nervous system, so a dog-bite patient must be taken to hospital at once for anti-rabies treatment and vaccination.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Endocrine glands pour their hormones directly into the:",
+       "options": [
+        "Digestive canal",
+        "Blood",
+        "Skin",
+        "Lungs"
+       ],
+       "answer": 1,
+       "why": "The notes state that endocrine glands pour their hormones directly into the blood."
+      },
+      {
+       "q": "Which gland is called the master gland?",
+       "options": [
+        "The thyroid gland",
+        "The adrenal gland",
+        "The pituitary gland",
+        "The pancreas"
+       ],
+       "answer": 2,
+       "why": "The pituitary gland is the master gland that controls other glands, according to the notes."
+      },
+      {
+       "q": "The thyroid gland secretes thyroxin, which controls:",
+       "options": [
+        "The level of calcium in blood",
+        "The level of glucose in blood",
+        "The heartbeat in emergencies",
+        "The rate of metabolism in the body"
+       ],
+       "answer": 3,
+       "why": "Thyroxin from the thyroid gland controls the rate of metabolism in the body."
+      },
+      {
+       "q": "Calcium in the blood and bones is controlled by:",
+       "options": [
+        "The parathyroid glands",
+        "The thyroid gland",
+        "The pituitary gland",
+        "The gonads"
+       ],
+       "answer": 0,
+       "why": "The notes state that the parathyroid glands control calcium in blood and bones; thyroxin is not secreted by the parathyroid gland."
+      },
+      {
+       "q": "Insulin and glucagon are secreted by:",
+       "options": [
+        "The thyroid gland",
+        "The pancreas (islets of Langerhans)",
+        "The adrenal glands",
+        "The pituitary gland"
+       ],
+       "answer": 1,
+       "why": "The pancreas (islets of Langerhans) secretes insulin and glucagon, which control blood glucose."
+      },
+      {
+       "q": "Epinephrine (adrenaline), the emergency hormone, is secreted by:",
+       "options": [
+        "The pancreas",
+        "The thyroid gland",
+        "The adrenal glands",
+        "The gonads"
+       ],
+       "answer": 2,
+       "why": "The adrenal glands secrete epinephrine (adrenaline), the emergency hormone that prepares the body for sudden action."
+      },
+      {
+       "q": "The emergency hormone prepares the body for sudden action by:",
+       "options": [
+        "Slowing the heartbeat",
+        "Lowering body temperature",
+        "Stopping digestion forever",
+        "Quickening the heartbeat and breathing"
+       ],
+       "answer": 3,
+       "why": "Adrenaline controls involuntary action and prepares the body for sudden action by quickening the heartbeat and breathing."
+      },
+      {
+       "q": "Sex hormones that control growth and reproduction are secreted by:",
+       "options": [
+        "The gonads",
+        "The adrenal glands",
+        "The parathyroid glands",
+        "The pituitary gland only"
+       ],
+       "answer": 0,
+       "why": "The notes state that the gonads secrete sex hormones that control growth and reproduction."
+      },
+      {
+       "q": "Insulin lowers the level of glucose in the blood by:",
+       "options": [
+        "Converting glucose into fat in the blood",
+        "Helping the body cells to take in glucose and use or store it",
+        "Removing glucose through the skin",
+        "Stopping the liver from working"
+       ],
+       "answer": 1,
+       "why": "Insulin, formed in the pancreas, lowers blood glucose by helping body cells take in glucose and use or store it."
+      },
+      {
+       "q": "When insulin is deficient, blood glucose rises and the disease that results is:",
+       "options": [
+        "Goiter",
+        "Anaemia",
+        "Diabetes",
+        "Rabies"
+       ],
+       "answer": 2,
+       "why": "The notes state that when insulin is deficient, blood glucose rises and the disease diabetes results."
+      }
+     ]
     }
    ]
   },
@@ -117,22 +2115,466 @@
     {
      "title": "Agents Causing Diseases and Immunization",
      "notes_html": "<p>The different agents that cause diseases are:</p><ul><li><strong>Bacteria</strong>, which can be seen only with a microscope — for example tuberculosis and typhoid.</li><li><strong>Viruses</strong> — for example polio, AIDS and hepatitis.</li><li><strong>Fungi</strong>, which cause skin diseases.</li><li><strong>Protozoa</strong> — for example the Plasmodium that causes malaria.</li><li>Worms and other parasites that live in the body.</li></ul><ul><li><strong>E.P.I.</strong> stands for Expanded Programme on Immunization.</li><li>The <strong>B.C.G.</strong> injection protects from tuberculosis (T.B.) and is given to the child at birth.</li><li>The <strong>DPT</strong> injection gives immunity against three diseases: Diphtheria, Pertussis (whooping cough) and Tetanus.</li><li>Antibiotic drugs are not used against viral diseases, and tuberculosis is a treatable disease.</li></ul>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Tuberculosis and typhoid are caused by:",
+       "options": [
+        "Bacteria",
+        "Viruses",
+        "Fungi",
+        "Protozoa"
+       ],
+       "answer": 0,
+       "why": "The notes list bacteria, which can be seen only with a microscope, as the agents of tuberculosis and typhoid."
+      },
+      {
+       "q": "Polio, AIDS and hepatitis are caused by:",
+       "options": [
+        "Bacteria",
+        "Viruses",
+        "Worms",
+        "Fungi"
+       ],
+       "answer": 1,
+       "why": "The notes give polio, AIDS and hepatitis as diseases caused by viruses."
+      },
+      {
+       "q": "Skin diseases are commonly caused by:",
+       "options": [
+        "Viruses",
+        "Bacteria only",
+        "Fungi",
+        "Worms"
+       ],
+       "answer": 2,
+       "why": "Fungi cause skin diseases, as stated in the notes on disease-causing agents."
+      },
+      {
+       "q": "Malaria is caused by a protozoan called:",
+       "options": [
+        "HIV",
+        "Anopheles",
+        "Bacillus",
+        "Plasmodium"
+       ],
+       "answer": 3,
+       "why": "The notes give Plasmodium, a protozoan, as the agent that causes malaria."
+      },
+      {
+       "q": "E.P.I. stands for:",
+       "options": [
+        "Expanded Programme on Immunization",
+        "Emergency Programme on Infection",
+        "Expanded Plan of Injections",
+        "Essential Programme on Illness"
+       ],
+       "answer": 0,
+       "why": "The notes state that E.P.I. stands for Expanded Programme on Immunization."
+      },
+      {
+       "q": "The B.C.G. injection protects a child from:",
+       "options": [
+        "Polio",
+        "Tuberculosis (T.B.)",
+        "Tetanus",
+        "Hepatitis"
+       ],
+       "answer": 1,
+       "why": "The B.C.G. injection protects from tuberculosis (T.B.), according to the notes."
+      },
+      {
+       "q": "At what age is the B.C.G. injection given to a child?",
+       "options": [
+        "At six months",
+        "At five years",
+        "At birth",
+        "At ten years"
+       ],
+       "answer": 2,
+       "why": "The notes state that the B.C.G. injection is given to the child at birth."
+      },
+      {
+       "q": "The DPT injection gives immunity against which three diseases?",
+       "options": [
+        "Polio, AIDS and hepatitis",
+        "Tuberculosis, typhoid and malaria",
+        "Diphtheria, polio and tetanus",
+        "Diphtheria, Pertussis (whooping cough) and Tetanus"
+       ],
+       "answer": 3,
+       "why": "DPT gives immunity against three diseases: Diphtheria, Pertussis (whooping cough) and Tetanus."
+      },
+      {
+       "q": "How many diseases does the single DPT injection protect against?",
+       "options": [
+        "Three",
+        "One",
+        "Two",
+        "Five"
+       ],
+       "answer": 0,
+       "why": "DPT is a combined injection protecting against three diseases — diphtheria, pertussis and tetanus: 3 diseases in 1 injection."
+      },
+      {
+       "q": "Antibiotic drugs are NOT used against:",
+       "options": [
+        "Bacterial diseases",
+        "Viral diseases",
+        "Tuberculosis",
+        "Typhoid"
+       ],
+       "answer": 1,
+       "why": "The notes state that antibiotic drugs are not used against viral diseases, and that tuberculosis is a treatable disease."
+      }
+     ]
     },
     {
      "title": "AIDS — Cause, Spread and Prevention",
      "notes_html": "<p>The AIDS virus is called <strong>HIV</strong> (Human Immunodeficiency Virus). It attacks the body's immune system and destroys its power to fight infections, so the patient becomes prey to many diseases. AIDS is an infectious disease.</p><h4>How AIDS Spreads</h4><p>AIDS spreads in four main ways: transfusion of infected blood, use of unsterilised syringes, needles or razors, sexual contact with an infected person, and from an infected mother to her child during birth or breast-feeding. It does not spread by casual contact, sharing food or shaking hands.</p><h4>Preventive Measures</h4><p>Blood must be tested before transfusion, only disposable syringes should be used, razors and needles must not be shared, and people must be educated about safe behaviour and early testing.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The AIDS virus is called:",
+       "options": [
+        "Plasmodium",
+        "HIV (Human Immunodeficiency Virus)",
+        "B.C.G.",
+        "DPT"
+       ],
+       "answer": 1,
+       "why": "The notes state that the AIDS virus is called HIV — Human Immunodeficiency Virus."
+      },
+      {
+       "q": "HIV attacks which system of the body?",
+       "options": [
+        "The digestive system",
+        "The nervous system",
+        "The immune system",
+        "The skeletal system"
+       ],
+       "answer": 2,
+       "why": "HIV attacks the body's immune system and destroys its power to fight infections, so the patient becomes prey to many diseases."
+      },
+      {
+       "q": "AIDS spreads through:",
+       "options": [
+        "Shaking hands",
+        "Sharing food",
+        "Casual contact",
+        "Transfusion of infected blood"
+       ],
+       "answer": 3,
+       "why": "AIDS spreads by transfusion of infected blood, unsterilised syringes, sexual contact and from mother to child — not by casual contact."
+      },
+      {
+       "q": "Which of the following is a way AIDS spreads?",
+       "options": [
+        "Use of unsterilised syringes, needles or razors",
+        "Sitting with a patient",
+        "Eating food cooked by a patient",
+        "Breathing the same air"
+       ],
+       "answer": 0,
+       "why": "The notes list unsterilised syringes, needles or razors as one of the four main ways AIDS spreads."
+      },
+      {
+       "q": "AIDS can pass from an infected mother to her child:",
+       "options": [
+        "By hugging the child",
+        "During birth or breast-feeding",
+        "By talking to the child",
+        "By sharing toys"
+       ],
+       "answer": 1,
+       "why": "The notes state that AIDS spreads from an infected mother to her child during birth or breast-feeding."
+      },
+      {
+       "q": "How many main ways of spreading AIDS are given in the notes?",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+       ],
+       "answer": 2,
+       "why": "The notes list four main ways: infected blood transfusion, unsterilised syringes/needles/razors, sexual contact, and mother to child."
+      },
+      {
+       "q": "AIDS does NOT spread by:",
+       "options": [
+        "Infected blood transfusion",
+        "Unsterilised needles",
+        "An infected mother to her child",
+        "Casual contact, sharing food or shaking hands"
+       ],
+       "answer": 3,
+       "why": "The notes clearly state that AIDS does not spread by casual contact, sharing food or shaking hands."
+      },
+      {
+       "q": "Before transfusion, blood must be:",
+       "options": [
+        "Tested",
+        "Heated",
+        "Frozen",
+        "Mixed with medicine"
+       ],
+       "answer": 0,
+       "why": "A key preventive measure in the notes is that blood must be tested before transfusion."
+      },
+      {
+       "q": "To prevent AIDS, which syringes should be used?",
+       "options": [
+        "Shared syringes",
+        "Only disposable syringes",
+        "Unsterilised syringes",
+        "Glass syringes without testing"
+       ],
+       "answer": 1,
+       "why": "The notes advise that only disposable syringes should be used and razors and needles must not be shared."
+      },
+      {
+       "q": "AIDS is described in the notes as:",
+       "options": [
+        "A hereditary disease",
+        "A deficiency disease",
+        "An infectious disease",
+        "A mental disease"
+       ],
+       "answer": 2,
+       "why": "The notes state that AIDS is an infectious disease caused by the HIV virus."
+      }
+     ]
     },
     {
      "title": "Malaria and Hepatitis",
      "notes_html": "<p><strong>Malaria</strong> spreads through the bite of the female Anopheles mosquito. When this mosquito bites a malaria patient and then a healthy person, it injects the malaria parasite (Plasmodium) into the healthy person's blood, and the disease begins. The polio virus, by contrast, affects the nervous system.</p><h4>Prevention of Malaria</h4><ul><li>Do not let water stand anywhere, because mosquitoes breed in stagnant water.</li><li>Sleep under mosquito nets.</li><li>Spray insecticides in houses and surroundings.</li><li>Cover the body with clothes, especially in the evening.</li><li>Take anti-malarial medicine on a doctor's advice when travelling to, or living in, a malaria area, and get fever tested at once.</li></ul><p><strong>Hepatitis</strong> virus spreads by the faeco-oral route through food and water. In hepatitis, water, sugarcane juice and other juices can all be used freely.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Malaria spreads through the bite of:",
+       "options": [
+        "The housefly",
+        "The male Anopheles mosquito",
+        "The female Anopheles mosquito",
+        "The sandfly"
+       ],
+       "answer": 2,
+       "why": "The notes state that malaria spreads through the bite of the female Anopheles mosquito."
+      },
+      {
+       "q": "The malaria parasite injected into a healthy person's blood is:",
+       "options": [
+        "HIV",
+        "Hepatitis virus",
+        "Polio virus",
+        "Plasmodium"
+       ],
+       "answer": 3,
+       "why": "The mosquito injects the malaria parasite (Plasmodium) into the healthy person's blood, and the disease begins."
+      },
+      {
+       "q": "The polio virus affects which system of the body?",
+       "options": [
+        "The nervous system",
+        "The digestive system",
+        "The immune system",
+        "The circulatory system"
+       ],
+       "answer": 0,
+       "why": "The notes contrast malaria with polio: the polio virus affects the nervous system."
+      },
+      {
+       "q": "Mosquitoes breed in:",
+       "options": [
+        "Fast-flowing rivers",
+        "Stagnant (standing) water",
+        "Dry sand",
+        "Sea water only"
+       ],
+       "answer": 1,
+       "why": "To prevent malaria, water must not be allowed to stand anywhere, because mosquitoes breed in stagnant water."
+      },
+      {
+       "q": "Which is a correct preventive measure against malaria?",
+       "options": [
+        "Drinking more water",
+        "Keeping windows open at night",
+        "Sleeping under mosquito nets",
+        "Standing water in pots"
+       ],
+       "answer": 2,
+       "why": "The notes advise sleeping under mosquito nets, spraying insecticides and not letting water stand, to prevent malaria."
+      },
+      {
+       "q": "When should anti-malarial medicine be taken?",
+       "options": [
+        "Daily by everyone",
+        "Only after recovery",
+        "Without any advice",
+        "On a doctor's advice, when travelling to or living in a malaria area"
+       ],
+       "answer": 3,
+       "why": "The notes say to take anti-malarial medicine on a doctor's advice when travelling to, or living in, a malaria area."
+      },
+      {
+       "q": "If fever occurs in a malaria area, one should:",
+       "options": [
+        "Get the fever tested at once",
+        "Ignore it for a month",
+        "Stop drinking water",
+        "Avoid all doctors"
+       ],
+       "answer": 0,
+       "why": "The notes advise getting fever tested at once so malaria can be treated in time."
+      },
+      {
+       "q": "Hepatitis virus spreads by which route?",
+       "options": [
+        "Mosquito bites",
+        "The faeco-oral route through food and water",
+        "Blood transfusion only",
+        "Casual contact"
+       ],
+       "answer": 1,
+       "why": "The notes state that hepatitis virus spreads by the faeco-oral route through food and water."
+      },
+      {
+       "q": "In hepatitis, which of these can be used freely?",
+       "options": [
+        "Fatty and fried food",
+        "Alcohol",
+        "Water, sugarcane juice and other juices",
+        "Heavy meat dishes"
+       ],
+       "answer": 2,
+       "why": "The notes state that in hepatitis, water, sugarcane juice and other juices can all be used freely."
+      },
+      {
+       "q": "Covering the body with clothes, especially in the evening, helps to prevent:",
+       "options": [
+        "Hepatitis",
+        "AIDS",
+        "Polio",
+        "Malaria"
+       ],
+       "answer": 3,
+       "why": "Covering the body with clothes, especially in the evening, protects against mosquito bites and so prevents malaria."
+      }
+     ]
     },
     {
      "title": "Smoking and Mental Diseases",
      "notes_html": "<h4>Effects of Smoke and Smoking</h4><p>Cigarette smoke contains <strong>nicotine</strong>, which makes the smoker addicted, <strong>tar</strong>, which damages the lungs and causes lung cancer and bronchitis, and <strong>carbon monoxide</strong>, which reduces the blood's power to carry oxygen.</p><p>Smoking therefore causes lung and heart diseases, weakens stamina, stains teeth and fingers, and harms non-smokers too through passive smoking. A cigarette smoker is not protected from lung and heart diseases. Quitting smoking greatly reduces all these risks.</p><h4>Mental Diseases</h4><p>Mental diseases disturb a person's thinking, mood and behaviour.</p><ul><li><strong>Depression</strong> is a long-lasting state of sadness and loss of interest in life.</li><li><strong>Anxiety</strong> is excessive worry and fear that disturbs daily work.</li><li><strong>Schizophrenia</strong> is a serious disease in which the patient loses contact with reality and may hear voices or hold false beliefs.</li><li>Drug abuse also causes mental disease: hallucinogens, for example cannabis, disrupt the brain's function to such an extent that the person is unable to recognise time, place, sound, colour and vision.</li></ul><p>Such patients need medical treatment, care and sympathy, not ridicule.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Which substance in cigarette smoke makes the smoker addicted?",
+       "options": [
+        "Tar",
+        "Carbon monoxide",
+        "Oxygen",
+        "Nicotine"
+       ],
+       "answer": 3,
+       "why": "The notes state that cigarette smoke contains nicotine, which makes the smoker addicted."
+      },
+      {
+       "q": "Tar in cigarette smoke damages the lungs and causes:",
+       "options": [
+        "Lung cancer and bronchitis",
+        "Diabetes",
+        "Goiter",
+        "Anaemia"
+       ],
+       "answer": 0,
+       "why": "Tar damages the lungs and causes lung cancer and bronchitis, according to the notes."
+      },
+      {
+       "q": "Carbon monoxide in smoke reduces the blood's power to:",
+       "options": [
+        "Clot quickly",
+        "Carry oxygen",
+        "Carry food",
+        "Fight germs"
+       ],
+       "answer": 1,
+       "why": "Carbon monoxide reduces the blood's power to carry oxygen, as stated in the notes."
+      },
+      {
+       "q": "Smoking harms non-smokers too through:",
+       "options": [
+        "Shared food",
+        "Casual contact",
+        "Passive smoking",
+        "Drinking water"
+       ],
+       "answer": 2,
+       "why": "The notes state that smoking harms non-smokers too through passive smoking; a smoker is not protected from lung and heart diseases."
+      },
+      {
+       "q": "Quitting smoking has what effect on these risks?",
+       "options": [
+        "It increases the risks",
+        "It has no effect",
+        "It only stains teeth more",
+        "It greatly reduces all these risks"
+       ],
+       "answer": 3,
+       "why": "The notes state that quitting smoking greatly reduces all the risks of lung and heart diseases."
+      },
+      {
+       "q": "Depression is:",
+       "options": [
+        "A long-lasting state of sadness and loss of interest in life",
+        "A short period of happiness",
+        "A disease of the lungs",
+        "Loss of memory in old age only"
+       ],
+       "answer": 0,
+       "why": "Mental diseases disturb thinking, mood and behaviour; depression is a long-lasting state of sadness and loss of interest in life."
+      },
+      {
+       "q": "Anxiety is:",
+       "options": [
+        "A state of deep sleep",
+        "Excessive worry and fear that disturbs daily work",
+        "A disease of the stomach",
+        "Loss of contact with reality"
+       ],
+       "answer": 1,
+       "why": "The notes define anxiety as excessive worry and fear that disturbs daily work."
+      },
+      {
+       "q": "In schizophrenia, the patient:",
+       "options": [
+        "Loses eyesight",
+        "Cannot digest food",
+        "Loses contact with reality and may hear voices or hold false beliefs",
+        "Feels excessive hunger"
+       ],
+       "answer": 2,
+       "why": "Schizophrenia is a serious mental disease in which the patient loses contact with reality and may hear voices or hold false beliefs."
+      },
+      {
+       "q": "Hallucinogens such as cannabis disrupt the brain so that the person:",
+       "options": [
+        "Becomes very strong",
+        "Sleeps peacefully",
+        "Gains a sharp memory",
+        "Is unable to recognise time, place, sound, colour and vision"
+       ],
+       "answer": 3,
+       "why": "The notes state that hallucinogens, for example cannabis, disrupt the brain's function so the person cannot recognise time, place, sound, colour and vision."
+      },
+      {
+       "q": "Patients with mental diseases need:",
+       "options": [
+        "Medical treatment, care and sympathy, not ridicule",
+        "Punishment and isolation",
+        "Ridicule by others",
+        "No treatment at all"
+       ],
+       "answer": 0,
+       "why": "The notes stress that such patients need medical treatment, care and sympathy, not ridicule."
+      }
+     ]
     }
    ]
   },
@@ -142,27 +2584,582 @@
     {
      "title": "Pollution and Pollutants",
      "notes_html": "<p><strong>Pollution</strong> is the addition of harmful substances to the environment in such amounts that air, water or land becomes unfit for living things. <strong>Pollutants</strong> are the substances that cause pollution, for example smoke, sewage, industrial waste and plastic.</p><p>An <strong>endangered species</strong> is a species of plant or animal whose numbers have become so small, mainly through habitat destruction and hunting, that it is in danger of extinction. Habitat destruction is one reason for the extinction of many species.</p><ul><li>Areas reserved for wildlife are called <strong>national parks</strong>.</li><li><strong>Migration</strong> is moving out from an area and settling in another area.</li><li>The total number of persons living in an area is called its <strong>population</strong>.</li><li>About 60% of the population of Pakistan is dependent upon agriculture.</li></ul><h4>Aquatic Pollution</h4><p>Causes: untreated sewage, industrial waste, oil spills, and fertilisers and pesticides washed from fields into rivers and lakes. Effects: fish and other aquatic animals die, water becomes unfit for human consumption, and water-borne diseases spread.</p><p>Control: sewage and industrial waste must be treated before discharge, dumping of waste into water must be banned by law, oil spills must be cleaned at once, use of harmful chemicals near water must be reduced, and people must be taught to keep water clean.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Pollution is:",
+       "options": [
+        "The cleaning of the environment",
+        "The natural recycling of substances",
+        "The growth of plants in an area",
+        "The addition of harmful substances to the environment in amounts that make air, water or land unfit for living things"
+       ],
+       "answer": 3,
+       "why": "The notes define pollution as the addition of harmful substances to the environment in such amounts that air, water or land becomes unfit for living things."
+      },
+      {
+       "q": "The substances that cause pollution are called:",
+       "options": [
+        "Pollutants",
+        "Nutrients",
+        "Minerals",
+        "Fertilisers only"
+       ],
+       "answer": 0,
+       "why": "Pollutants are the substances that cause pollution, for example smoke, sewage, industrial waste and plastic."
+      },
+      {
+       "q": "An endangered species is one whose:",
+       "options": [
+        "Numbers are increasing rapidly",
+        "Numbers have become so small that it is in danger of extinction",
+        "Habitat is very large",
+        "Food is plentiful"
+       ],
+       "answer": 1,
+       "why": "An endangered species is a species whose numbers have become very small, mainly through habitat destruction and hunting, so it may become extinct."
+      },
+      {
+       "q": "Areas reserved for wildlife are called:",
+       "options": [
+        "Industrial zones",
+        "Game markets",
+        "National parks",
+        "Forest offices"
+       ],
+       "answer": 2,
+       "why": "The notes state that areas reserved for wildlife are called national parks."
+      },
+      {
+       "q": "Migration means:",
+       "options": [
+        "Staying in one place forever",
+        "The daily journey to work",
+        "The movement of animals within a cage",
+        "Moving out from an area and settling in another area"
+       ],
+       "answer": 3,
+       "why": "Migration is moving out from an area and settling in another area, as defined in the notes."
+      },
+      {
+       "q": "The total number of persons living in an area is called its:",
+       "options": [
+        "Population",
+        "Density of crops",
+        "Community",
+        "Workforce only"
+       ],
+       "answer": 0,
+       "why": "The notes define population as the total number of persons living in an area."
+      },
+      {
+       "q": "About what percentage of Pakistan's population depends upon agriculture?",
+       "options": [
+        "About 20%",
+        "About 60%",
+        "About 40%",
+        "About 90%"
+       ],
+       "answer": 1,
+       "why": "The notes state that about 60% of the population of Pakistan is dependent upon agriculture."
+      },
+      {
+       "q": "Which is a cause of aquatic (water) pollution?",
+       "options": [
+        "Rainfall",
+        "Melting of ice",
+        "Untreated sewage and industrial waste",
+        "Growth of fish"
+       ],
+       "answer": 2,
+       "why": "Aquatic pollution is caused by untreated sewage, industrial waste, oil spills, and fertilisers and pesticides washed from fields."
+      },
+      {
+       "q": "An effect of aquatic pollution is:",
+       "options": [
+        "Water becomes purer",
+        "Fish grow faster",
+        "Rainfall increases",
+        "Fish and other aquatic animals die and water-borne diseases spread"
+       ],
+       "answer": 3,
+       "why": "The notes list the effects: fish and aquatic animals die, water becomes unfit for human consumption, and water-borne diseases spread."
+      },
+      {
+       "q": "Aquatic pollution can be controlled by:",
+       "options": [
+        "Treating sewage and industrial waste before discharge",
+        "Dumping more waste into rivers",
+        "Banning fishing only",
+        "Using more pesticides near water"
+       ],
+       "answer": 0,
+       "why": "Control measures include treating sewage and industrial waste before discharge, banning dumping by law and cleaning oil spills at once."
+      }
+     ]
     },
     {
      "title": "Greenhouse Effect and Ozone Layer",
      "notes_html": "<p>The <strong>greenhouse effect</strong> is the warming of the earth because gases such as carbon dioxide absorb infrared rays and do not let them escape into space, just as the glass of a greenhouse traps heat inside. Radiation of infrared wavelength cannot go out of the greenhouse.</p><h4>Causes</h4><p>The burning of too much carbon-containing fuel in factories, vehicles and homes, which liberates too much carbon dioxide, and the cutting of forests, which removes the trees that absorb carbon dioxide.</p><h4>Effects</h4><ul><li>The temperature of the earth rises (global warming), because carbon dioxide and other gases trap infrared radiation.</li><li>The higher temperature causes the ice on the mountains to melt, which leads to flooding, and the weather pattern of the planet is also affected, with rising sea levels threatening coastal areas.</li></ul><h4>Depletion of the Ozone Layer</h4><p>The <strong>ozone layer</strong> in the upper atmosphere absorbs the sun's harmful ultraviolet rays and prevents them from reaching the earth, protecting living things. It is being depleted mainly by <strong>chlorofluorocarbons</strong> (CFCs), chemicals used in refrigerators, air conditioners and spray cans.</p><p>When CFCs reach the ozone layer they break down ozone, so more ultraviolet radiation reaches the earth. This increases skin cancer and eye damage in man and harms crops and animals. Depletion can be controlled by banning CFCs and using safe alternatives. The proportion of carbon dioxide in air is 0.03%.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "The greenhouse effect is:",
+       "options": [
+        "The warming of the earth because gases such as carbon dioxide absorb infrared rays and do not let them escape into space",
+        "The cooling of the earth by clouds",
+        "The heating of houses in winter",
+        "The reflection of sunlight by ice"
+       ],
+       "answer": 0,
+       "why": "The notes define the greenhouse effect as the warming of the earth because carbon dioxide and other gases trap infrared radiation, like the glass of a greenhouse."
+      },
+      {
+       "q": "Which radiation is trapped by greenhouse gases?",
+       "options": [
+        "Ultraviolet radiation",
+        "Infrared radiation",
+        "X-rays",
+        "Visible light only"
+       ],
+       "answer": 1,
+       "why": "Radiation of infrared wavelength cannot go out of the greenhouse; the temperature rises because gases trap this infrared radiation."
+      },
+      {
+       "q": "A main cause of the increased greenhouse effect is:",
+       "options": [
+        "Planting too many trees",
+        "Using solar energy",
+        "Burning too much carbon-containing fuel in factories, vehicles and homes",
+        "Melting of ice caps"
+       ],
+       "answer": 2,
+       "why": "Burning carbon-containing fuel liberates too much carbon dioxide, and cutting forests removes the trees that absorb it."
+      },
+      {
+       "q": "Cutting of forests increases the greenhouse effect because:",
+       "options": [
+        "Trees produce carbon dioxide at night only",
+        "Forests block sunlight",
+        "Trees increase rainfall",
+        "It removes the trees that absorb carbon dioxide"
+       ],
+       "answer": 3,
+       "why": "Forests absorb carbon dioxide; cutting them leaves more carbon dioxide in the air to trap infrared radiation."
+      },
+      {
+       "q": "An effect of global warming given in the notes is:",
+       "options": [
+        "Ice on the mountains melts, leading to flooding and rising sea levels",
+        "Deserts turn into forests",
+        "Sea levels fall",
+        "Winters become colder everywhere"
+       ],
+       "answer": 0,
+       "why": "Higher temperature melts mountain ice, leading to flooding, changes weather patterns and raises sea levels, threatening coastal areas."
+      },
+      {
+       "q": "The ozone layer protects living things by:",
+       "options": [
+        "Trapping infrared rays",
+        "Absorbing the sun's harmful ultraviolet rays",
+        "Producing oxygen",
+        "Making rainfall regular"
+       ],
+       "answer": 1,
+       "why": "The ozone layer in the upper atmosphere absorbs the sun's harmful ultraviolet rays and prevents them from reaching the earth."
+      },
+      {
+       "q": "The ozone layer is being depleted mainly by:",
+       "options": [
+        "Carbon dioxide",
+        "Smoke from wood fires",
+        "Chlorofluorocarbons (CFCs)",
+        "Nitrogen gas"
+       ],
+       "answer": 2,
+       "why": "The notes state that the ozone layer is depleted mainly by chlorofluorocarbons (CFCs) used in refrigerators, air conditioners and spray cans."
+      },
+      {
+       "q": "CFCs are used in:",
+       "options": [
+        "Fertilisers and pesticides",
+        "Medicines and vaccines",
+        "Soaps and detergents",
+        "Refrigerators, air conditioners and spray cans"
+       ],
+       "answer": 3,
+       "why": "CFCs are chemicals used in refrigerators, air conditioners and spray cans; when they reach the ozone layer they break down ozone."
+      },
+      {
+       "q": "More ultraviolet radiation reaching the earth increases:",
+       "options": [
+        "Skin cancer and eye damage in man",
+        "Crop yields everywhere",
+        "Rainfall in deserts",
+        "Fish in the oceans"
+       ],
+       "answer": 0,
+       "why": "The notes state that more ultraviolet radiation increases skin cancer and eye damage in man and harms crops and animals."
+      },
+      {
+       "q": "The proportion of carbon dioxide in air is:",
+       "options": [
+        "0.9%",
+        "0.03%",
+        "3%",
+        "21%"
+       ],
+       "answer": 1,
+       "why": "The notes give the proportion of carbon dioxide in air as 0.03%, yet even this small amount traps infrared radiation."
+      }
+     ]
     },
     {
      "title": "Fossil Fuels and Human Activities",
      "notes_html": "<p><strong>Fossil fuels</strong> — coal, petroleum and natural gas — are used to produce electricity, run factories and vehicles, cook food and heat homes; they are the main source of energy in the world today. Fossil fuels and minerals are <strong>non-renewable</strong> resources.</p><p>Their environmental effects are serious: burning them liberates carbon dioxide, which causes the greenhouse effect and global warming, and smoke, which pollutes the air and causes breathing diseases. Oil spills pollute seas and coasts. Moreover, fossil fuels are non-renewable resources, so wasteful use exhausts them for future generations.</p><h4>How Human Activities Affect the Environment</h4><p>Burning fossil fuels in factories and vehicles pollutes the air with smoke and carbon dioxide. Clearing forests to meet the needs of a growing population causes unfavourable climatic changes, soil erosion and waste of fertile agricultural land. Industrial and domestic waste pollutes rivers and land.</p><p>The growing population itself creates shortages of food, water, housing and jobs, forces many people to live in slums, and increases the number of illiterate children, lowering the quality of life of the nation.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Fossil fuels are:",
+       "options": [
+        "Wood, dung and charcoal only",
+        "Coal, petroleum and natural gas",
+        "Sunlight, wind and water",
+        "Uranium and thorium only"
+       ],
+       "answer": 1,
+       "why": "The notes list fossil fuels as coal, petroleum and natural gas, the main source of energy in the world today."
+      },
+      {
+       "q": "Fossil fuels and minerals are:",
+       "options": [
+        "Renewable resources",
+        "Inexhaustible resources",
+        "Non-renewable resources",
+        "Living resources"
+       ],
+       "answer": 2,
+       "why": "The notes state that fossil fuels and minerals are non-renewable resources, so wasteful use exhausts them for future generations."
+      },
+      {
+       "q": "Burning fossil fuels liberates carbon dioxide, which causes:",
+       "options": [
+        "Ozone formation",
+        "Acid-free rain",
+        "Cooling of the earth",
+        "The greenhouse effect and global warming"
+       ],
+       "answer": 3,
+       "why": "Burning fossil fuels liberates carbon dioxide, which causes the greenhouse effect and global warming, and smoke, which pollutes the air."
+      },
+      {
+       "q": "Smoke from burning fossil fuels causes:",
+       "options": [
+        "Air pollution and breathing diseases",
+        "Better health",
+        "More rainfall only",
+        "Soil fertility"
+       ],
+       "answer": 0,
+       "why": "The notes state that smoke pollutes the air and causes breathing diseases."
+      },
+      {
+       "q": "Oil spills pollute:",
+       "options": [
+        "Deserts only",
+        "Seas and coasts",
+        "Mountains only",
+        "Underground water only"
+       ],
+       "answer": 1,
+       "why": "The notes list oil spills among the serious environmental effects of fossil fuels, polluting seas and coasts."
+      },
+      {
+       "q": "Clearing forests to meet the needs of a growing population causes:",
+       "options": [
+        "Increase in fertile land",
+        "More rainfall everywhere",
+        "Unfavourable climatic changes, soil erosion and waste of fertile agricultural land",
+        "Growth of new forests"
+       ],
+       "answer": 2,
+       "why": "The notes state that clearing forests causes unfavourable climatic changes, soil erosion and waste of fertile agricultural land."
+      },
+      {
+       "q": "Industrial and domestic waste pollutes:",
+       "options": [
+        "Only the air",
+        "Only the oceans",
+        "Nothing at all",
+        "Rivers and land"
+       ],
+       "answer": 3,
+       "why": "Human activities pollute the environment: industrial and domestic waste pollutes rivers and land, as stated in the notes."
+      },
+      {
+       "q": "A growing population itself creates shortages of:",
+       "options": [
+        "Food, water, housing and jobs",
+        "Sunlight and air",
+        "Roads and bridges only",
+        "Nothing, resources are unlimited"
+       ],
+       "answer": 0,
+       "why": "The notes state that the growing population creates shortages of food, water, housing and jobs and lowers the quality of life."
+      },
+      {
+       "q": "Fossil fuels are used to:",
+       "options": [
+        "Make rain fall",
+        "Produce electricity, run factories and vehicles, cook food and heat homes",
+        "Purify rivers",
+        "Grow crops directly"
+       ],
+       "answer": 1,
+       "why": "The notes list these uses of fossil fuels and call them the main source of energy in the world today."
+      },
+      {
+       "q": "Why must fossil fuels not be used wastefully?",
+       "options": [
+        "Because they are very cheap",
+        "Because they produce no smoke",
+        "Because they are non-renewable and will be exhausted for future generations",
+        "Because they can be remade quickly"
+       ],
+       "answer": 2,
+       "why": "Fossil fuels are non-renewable resources, so wasteful use exhausts them for future generations, as stated in the notes."
+      }
+     ]
     },
     {
      "title": "Conservation of Resources and Wildlife",
      "notes_html": "<p><strong>Conservation of resources</strong> means using natural resources wisely so that they last for future generations. Two methods are:</p><ul><li>Reuse and recycle materials such as paper, glass, metal and plastic, so that fewer raw materials are used and less rubbish is produced.</li><li>Use resources wisely and plant trees: save water and energy, protect forests, and use renewable sources of energy such as sunlight, wind and water instead of exhausting fossil fuels.</li></ul><p>Conservation also includes saving water and electricity and avoiding waste, planting trees and protecting forests, and protecting wildlife and soil. By conserving resources we control pollution, keep the environment healthy and secure the needs of the growing population.</p><h4>Benefits and Importance of Wildlife</h4><ul><li>Wildlife maintains the balance of nature: every animal and plant has a place in food chains, and removing one species disturbs the whole ecosystem.</li><li>Wildlife is useful to man: it provides food, medicines and raw materials, and its beauty and variety attract tourists and add to the wealth and pleasure of a country.</li></ul><p><strong>Wildlife conservation</strong> means protecting wild animals and plants and their habitats. National parks are large areas reserved for wildlife where hunting and cutting of trees are banned, so animals can live and breed safely.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Conservation of resources means:",
+       "options": [
+        "Using resources as fast as possible",
+        "Storing resources without using them",
+        "Using natural resources wisely so that they last for future generations",
+        "Importing all resources from abroad"
+       ],
+       "answer": 2,
+       "why": "The notes define conservation of resources as using natural resources wisely so that they last for future generations."
+      },
+      {
+       "q": "Reuse and recycling of paper, glass, metal and plastic helps conservation because:",
+       "options": [
+        "More rubbish is produced",
+        "Raw materials are wasted",
+        "Prices always rise",
+        "Fewer raw materials are used and less rubbish is produced"
+       ],
+       "answer": 3,
+       "why": "Reuse and recycle is one of the two methods in the notes: fewer raw materials are used and less rubbish is produced."
+      },
+      {
+       "q": "Instead of exhausting fossil fuels, we should use renewable sources of energy such as:",
+       "options": [
+        "Sunlight, wind and water",
+        "Coal, oil and gas",
+        "Wood from protected forests",
+        "Imported petroleum"
+       ],
+       "answer": 0,
+       "why": "The notes advise using renewable sources of energy such as sunlight, wind and water instead of exhausting fossil fuels."
+      },
+      {
+       "q": "Which of the following is a conservation measure?",
+       "options": [
+        "Leaving taps running",
+        "Saving water and electricity and avoiding waste",
+        "Cutting forests for fuel",
+        "Burning all waste in the open"
+       ],
+       "answer": 1,
+       "why": "Conservation includes saving water and electricity and avoiding waste, planting trees, protecting forests, wildlife and soil."
+      },
+      {
+       "q": "By conserving resources we:",
+       "options": [
+        "Increase pollution",
+        "Exhaust resources sooner",
+        "Control pollution, keep the environment healthy and secure the needs of the growing population",
+        "Harm future generations"
+       ],
+       "answer": 2,
+       "why": "The notes state these benefits of conserving resources for the growing population."
+      },
+      {
+       "q": "Wildlife maintains the balance of nature because:",
+       "options": [
+        "Animals eat all the plants",
+        "Plants grow without animals",
+        "Ecosystems never change",
+        "Every animal and plant has a place in food chains, and removing one species disturbs the whole ecosystem"
+       ],
+       "answer": 3,
+       "why": "Wildlife maintains the balance of nature through food chains; removing one species disturbs the whole ecosystem."
+      },
+      {
+       "q": "Wildlife is useful to man because it provides:",
+       "options": [
+        "Food, medicines and raw materials, and attracts tourists",
+        "Only decoration for homes",
+        "Only meat",
+        "Nothing of value"
+       ],
+       "answer": 0,
+       "why": "The notes state that wildlife provides food, medicines and raw materials, and its beauty attracts tourists and adds to a country's wealth."
+      },
+      {
+       "q": "Wildlife conservation means:",
+       "options": [
+        "Keeping animals in cages",
+        "Protecting wild animals and plants and their habitats",
+        "Hunting rare animals",
+        "Cutting forests for farms"
+       ],
+       "answer": 1,
+       "why": "Wildlife conservation means protecting wild animals and plants and their habitats, according to the notes."
+      },
+      {
+       "q": "In national parks, which activities are banned?",
+       "options": [
+        "Visiting by tourists",
+        "Research by scientists",
+        "Hunting and cutting of trees",
+        "Photography"
+       ],
+       "answer": 2,
+       "why": "National parks are large areas reserved for wildlife where hunting and cutting of trees are banned, so animals can live and breed safely."
+      },
+      {
+       "q": "Planting trees and protecting forests is part of conservation because forests:",
+       "options": [
+        "Block all development",
+        "Use up all the water",
+        "Produce pollution",
+        "Protect the environment and support resources for the future"
+       ],
+       "answer": 3,
+       "why": "Use resources wisely and plant trees is the second conservation method in the notes: save water and energy, protect forests and use renewable energy."
+      }
+     ]
     },
     {
      "title": "Farming, Population and Environment",
      "notes_html": "<h4>Mechanized Farming and Modern Trends</h4><p><strong>Mechanized farming</strong> uses tractors, harvesters, tube wells, high-yield seeds, chemical fertilisers and pesticides, and modern methods of irrigation and storage. It greatly increases production and reduces labour, but careless use of chemicals and water can harm soil and health.</p><h4>Dairy, Poultry and Fish Farming</h4><p>Dairy farming is rearing cattle for milk, poultry farming is rearing hens for eggs and meat, and fish farming is rearing fish in ponds. All three provide protein-rich food, employment and income to farmers.</p><h4>Environmental Problems Due to Increase in Population</h4><p>Increase in population creates many environmental problems. More people need more food, water, housing, schools and jobs, but resources are limited, so shortages arise and many people are forced to live in slums.</p><p>Forests are cleared to fulfil the needs of the growing population, which leads to unfavourable climatic changes, soil erosion and waste of fertile agricultural land. More waste and smoke increase pollution of air, water and land. The quality of life of a nation, judged by education, health, nutrition, housing, clean water and electricity, falls, and the number of illiterate children increases day by day.</p>",
-     "mcqs": []
+     "mcqs": [
+      {
+       "q": "Mechanized farming uses:",
+       "options": [
+        "Only hand tools and bullocks",
+        "Only rain water",
+        "No machines at all",
+        "Tractors, harvesters, tube wells, high-yield seeds, chemical fertilisers and pesticides"
+       ],
+       "answer": 3,
+       "why": "The notes list tractors, harvesters, tube wells, high-yield seeds, chemical fertilisers and pesticides, and modern irrigation and storage as mechanized farming."
+      },
+      {
+       "q": "Mechanized farming greatly increases production but careless use of chemicals and water can:",
+       "options": [
+        "Harm soil and health",
+        "Improve soil forever",
+        "Have no bad effect",
+        "Increase rainfall"
+       ],
+       "answer": 0,
+       "why": "The notes state that mechanized farming increases production and reduces labour, but careless use of chemicals and water can harm soil and health."
+      },
+      {
+       "q": "Dairy farming is:",
+       "options": [
+        "Rearing hens for eggs",
+        "Rearing cattle for milk",
+        "Rearing fish in ponds",
+        "Growing fodder only"
+       ],
+       "answer": 1,
+       "why": "Dairy farming is rearing cattle for milk, poultry farming is rearing hens for eggs and meat, and fish farming is rearing fish in ponds."
+      },
+      {
+       "q": "Poultry farming is:",
+       "options": [
+        "Rearing cattle for milk",
+        "Rearing fish in ponds",
+        "Rearing hens for eggs and meat",
+        "Keeping bees for honey"
+       ],
+       "answer": 2,
+       "why": "The notes define poultry farming as rearing hens for eggs and meat."
+      },
+      {
+       "q": "Fish farming is:",
+       "options": [
+        "Catching fish from rivers",
+        "Rearing cattle for milk",
+        "Rearing hens for eggs",
+        "Rearing fish in ponds"
+       ],
+       "answer": 3,
+       "why": "Fish farming is rearing fish in ponds, as defined in the notes."
+      },
+      {
+       "q": "Dairy, poultry and fish farming all provide:",
+       "options": [
+        "Protein-rich food, employment and income to farmers",
+        "Only milk",
+        "Only entertainment",
+        "Fertiliser for fields"
+       ],
+       "answer": 0,
+       "why": "The notes state that all three provide protein-rich food, employment and income to farmers."
+      },
+      {
+       "q": "Increase in population creates environmental problems because:",
+       "options": [
+        "Resources are unlimited",
+        "More people need more food, water, housing, schools and jobs, but resources are limited",
+        "People need less food",
+        "Land increases with population"
+       ],
+       "answer": 1,
+       "why": "More people need more food, water, housing, schools and jobs, but resources are limited, so shortages arise and many live in slums."
+      },
+      {
+       "q": "Forests are cleared to fulfil the needs of the growing population, which leads to:",
+       "options": [
+        "More fertile land",
+        "Better climate everywhere",
+        "Unfavourable climatic changes, soil erosion and waste of fertile agricultural land",
+        "Less pollution"
+       ],
+       "answer": 2,
+       "why": "The notes state that clearing forests leads to unfavourable climatic changes, soil erosion and waste of fertile agricultural land."
+      },
+      {
+       "q": "The quality of life of a nation is judged by:",
+       "options": [
+        "The size of its army only",
+        "The number of cars only",
+        "The height of its buildings",
+        "Education, health, nutrition, housing, clean water and electricity"
+       ],
+       "answer": 3,
+       "why": "The notes list education, health, nutrition, housing, clean water and electricity as the measures of a nation's quality of life."
+      },
+      {
+       "q": "With increase in population, the number of illiterate children:",
+       "options": [
+        "Increases day by day",
+        "Decreases day by day",
+        "Stays exactly the same",
+        "Becomes zero"
+       ],
+       "answer": 0,
+       "why": "The notes state that as population grows and quality of life falls, the number of illiterate children increases day by day."
+      }
+     ]
     }
    ]
   }
