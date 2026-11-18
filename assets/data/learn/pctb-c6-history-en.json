@@ -1,0 +1,1649 @@
+{
+ "book": "pctb-c6-history-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Ancient Civilizations (Mesopotamian, Egyptian, Indus, and Chinese)",
+   "lessons": [
+    {
+     "title": "Mesopotamian Civilization",
+     "notes_html": "<h4>How We Know About the Past</h4>\n<p>Historians learn about ancient times from two kinds of sources. <b>Primary sources</b> are the original materials from the time of the event itself, such as <b>inscriptions</b>, <b>coins</b>, <b>tools</b>, <b>weapons</b>, <b>buildings</b> and official records; they give first-hand evidence. <b>Secondary sources</b> are written later by people who were not present, such as history books based on primary sources. Historians first study primary sources and then use secondary sources to understand and explain the past.</p>\n<h4>The Land and the Beginning</h4>\n<p><b>Mesopotamian Civilization</b> grew between the rivers <b>Tigris</b> and <b>Euphrates</b> in present-day Iraq. It started in about <b>4500 BCE</b>. The earliest people there were the <b>Sumerians</b>, who built city-states. Before the Babylonian Empire, the <b>Akkadian Empire</b> existed in Mesopotamia; founded by <b>Sargon</b>, it is considered the first empire of Mesopotamia. Later <b>Hammurabi</b> built the Babylonian Empire.</p>\n<h4>The Code of Hammurabi</h4>\n<p>The <b>Code of Hammurabi</b> was a set of <b>282 laws</b> made by Hammurabi, the famous king of Babylon. The laws were carved on a large stone pillar so that everyone could see them. They covered trade, property, family, wages and punishments. Their main purpose was that people may respect each other and justice may prevail in society. It is one of the earliest written law codes of the world.</p>\n<h4>Trade, Architecture and Occupations</h4>\n<ul>\n<li><b>Trade:</b> Mesopotamians exported grain, cloth and handicrafts and imported wood, stone, metals and ivory, using rivers and land routes.</li>\n<li><b>Architecture:</b> They built houses and palaces of mud-bricks and huge temple towers called <b>ziggurats</b>; their cities had planned streets.</li>\n<li><b>Occupations:</b> Most people were farmers who grew wheat, barley and dates with the help of irrigation canals; others were craftsmen, weavers, potters, metal workers, traders, priests, scribes and soldiers.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Mesopotamian Civilization started in about 4500 BCE between the Tigris and Euphrates rivers.</li>\n<li>Primary sources give first-hand evidence of the past; secondary sources are written later.</li>\n<li>The Code of Hammurabi had 282 laws and is one of the earliest written law codes.</li>\n<li>Ziggurats were the huge temple towers of Mesopotamia.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Mesopotamian Civilization started in about:",
+       "options": [
+        "3500 BCE",
+        "2500 BCE",
+        "4500 BCE",
+        "3000 BCE"
+       ],
+       "answer": 2,
+       "why": "The book states that Mesopotamian Civilization started in about 4500 BCE between the Tigris and Euphrates rivers, making it one of the oldest civilizations of the world."
+      },
+      {
+       "q": "Which of the following is a primary source of history?",
+       "options": [
+        "A modern history textbook",
+        "Coins and inscriptions of that time",
+        "A story written centuries later",
+        "A novel about kings"
+       ],
+       "answer": 1,
+       "why": "Primary sources are original materials from the time of the event itself, such as inscriptions, coins, tools, weapons and buildings, so coins and inscriptions are primary sources."
+      },
+      {
+       "q": "Secondary sources of information are:",
+       "options": [
+        "Original records of the event",
+        "Tools and weapons of the time",
+        "Written later by people who were not present",
+        "Ruins of ancient buildings"
+       ],
+       "answer": 2,
+       "why": "Secondary sources are written later by people who were not present at the event, such as history books that are based on primary sources."
+      },
+      {
+       "q": "The Code of Hammurabi was a set of how many laws?",
+       "options": [
+        "182 laws",
+        "200 laws",
+        "250 laws",
+        "282 laws"
+       ],
+       "answer": 3,
+       "why": "The Code of Hammurabi was a set of 282 laws made by Hammurabi, the king of Babylon, and carved on a large stone pillar for everyone to see."
+      },
+      {
+       "q": "The laws of Hammurabi were carved on:",
+       "options": [
+        "Clay tablets",
+        "A large stone pillar",
+        "Papyrus sheets",
+        "Wooden boards"
+       ],
+       "answer": 1,
+       "why": "Hammurabi's laws were carved on a large stone pillar so that everyone could see them; they covered trade, property, family, wages and punishments."
+      },
+      {
+       "q": "The huge temple towers of Mesopotamia were called:",
+       "options": [
+        "Pyramids",
+        "Stupas",
+        "Ziggurats",
+        "Minarets"
+       ],
+       "answer": 2,
+       "why": "Mesopotamians built huge temple towers called ziggurats, along with houses and palaces of mud-bricks in cities with planned streets."
+      },
+      {
+       "q": "Who founded the Akkadian Empire, the first empire of Mesopotamia?",
+       "options": [
+        "Hammurabi",
+        "Sargon",
+        "Nebuchadnezzar",
+        "Ashoka"
+       ],
+       "answer": 1,
+       "why": "Before the Babylonian Empire, the Akkadian Empire existed in Mesopotamia. It was founded by Sargon and is considered the first empire of Mesopotamia."
+      },
+      {
+       "q": "The main occupation of most Mesopotamian people was:",
+       "options": [
+        "Sea trade",
+        "Mining",
+        "Farming",
+        "Soldiering"
+       ],
+       "answer": 2,
+       "why": "Most Mesopotamians were farmers who grew wheat, barley and dates with the help of irrigation canals; others were craftsmen, weavers, potters, traders, priests, scribes and soldiers."
+      },
+      {
+       "q": "Mesopotamians imported which of the following?",
+       "options": [
+        "Grain and cloth",
+        "Wood, stone, metals and ivory",
+        "Dates and barley",
+        "Handicrafts"
+       ],
+       "answer": 1,
+       "why": "Mesopotamians exported grain, cloth and handicrafts, and in return imported wood, stone, metals and ivory through rivers and land routes."
+      },
+      {
+       "q": "The main purpose of the Code of Hammurabi was:",
+       "options": [
+        "To collect more taxes",
+        "To honour the king",
+        "To expand the empire",
+        "That people respect each other and justice prevails"
+       ],
+       "answer": 3,
+       "why": "The main purpose of Hammurabi's code was that people may respect each other and justice may prevail in society; it is one of the earliest written law codes of the world."
+      }
+     ]
+    },
+    {
+     "title": "Egyptian Civilization",
+     "notes_html": "<h4>The Gift of the Nile</h4>\n<p>The <b>River Nile</b> was the lifeline of Egypt. Every year its flood left rich black silt on the banks, which made the land very fertile for growing wheat, barley and flax in an otherwise desert country. The Nile provided water for drinking and irrigation, fish for food, and an easy transport route for trade and communication. Because of the Nile, people settled on its banks, produced surplus food and built a great civilization — that is why Egypt is called <b>the Gift of the Nile</b>.</p>\n<h4>Social Structure</h4>\n<p>Egyptian society was divided into <b>six classes</b>: the <b>Pharaoh</b> (king) at the top; then the vizier, senior officials, high priest and nobles; then scribes; then skilled artisans and craftspeople; then peasant farmers and workers; and at the bottom, servants and slaves. The Pharaoh was the most influential person in the government.</p>\n<h4>Religion and Script</h4>\n<p>Egyptians worshipped many gods, such as the sun god <b>Ra</b> and the river god <b>Hapy</b>. They believed in life after death, so they preserved dead bodies as <b>mummies</b> and built <b>pyramids</b> as royal tombs. Mummification began by about <b>2600 BCE</b>. A pyramid had three chambers for different purposes connected with the king's burial and treasures. Their script was <b>hieroglyphic</b>, made of picture signs, written on stone and on papyrus paper. They also made progress in mathematics, astronomy, medicine and calendar making.</p>\n<h4>Famous Pharaohs</h4>\n<p><b>Tutankhamun</b> was a young pharaoh who became king at about nine years of age (around 1332 BCE) and died in his teens. He is world famous because his tomb in the Valley of the Kings was discovered almost intact in <b>1922</b> by Howard Carter, filled with golden treasures including his famous gold mask. <b>Cleopatra</b>, the last famous ruler of Egypt, was born in Egypt and ruled it as queen, but by descent she was Greek (Macedonian), of the Ptolemaic dynasty founded by a general of Alexander the Great. She learned the Egyptian language and adopted Egyptian customs and religion.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Egypt is called the Gift of the Nile because the river made farming and life possible there.</li>\n<li>Egyptian society had six classes, with the Pharaoh at the top.</li>\n<li>Egyptians used the hieroglyphic script and preserved the dead as mummies.</li>\n<li>Tutankhamun's tomb was found almost intact in 1922 by Howard Carter.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The River Nile flowed in:",
+       "options": [
+        "Iraq",
+        "India",
+        "Egypt",
+        "China"
+       ],
+       "answer": 2,
+       "why": "The River Nile flowed in Egypt. Its yearly flood left rich black silt on the banks, which made the land fertile, so Egypt is called the Gift of the Nile."
+      },
+      {
+       "q": "There were ________ classes of society in Ancient Egypt:",
+       "options": [
+        "Four",
+        "Five",
+        "Seven",
+        "Six"
+       ],
+       "answer": 3,
+       "why": "Egyptian society was divided into six classes: the Pharaoh at the top, then officials and nobles, scribes, artisans, peasants, and at the bottom servants and slaves."
+      },
+      {
+       "q": "Egypt is called the 'Gift of the Nile' because:",
+       "options": [
+        "The Nile is the longest river",
+        "Its floods left fertile black silt for farming",
+        "The Pharaoh built canals",
+        "It protected Egypt from invaders"
+       ],
+       "answer": 1,
+       "why": "Every year the Nile's flood left rich black silt on its banks, making the desert land fertile for wheat, barley and flax, so Egypt is called the Gift of the Nile."
+      },
+      {
+       "q": "The most influential person in the government of the Pharaohs was:",
+       "options": [
+        "The vizier",
+        "The high priest",
+        "The Pharaoh himself",
+        "The chief scribe"
+       ],
+       "answer": 2,
+       "why": "The Pharaoh (king) stood at the top of Egyptian society and was the most influential person in the government, above the vizier, officials, priests and nobles."
+      },
+      {
+       "q": "The Egyptian script made of picture signs was called:",
+       "options": [
+        "Cuneiform",
+        "Hieroglyphic",
+        "Indus script",
+        "Alphabet"
+       ],
+       "answer": 1,
+       "why": "Egyptians used the hieroglyphic script, made of picture signs, written on stone and on papyrus paper."
+      },
+      {
+       "q": "Egyptians preserved dead bodies as mummies because they:",
+       "options": [
+        "Feared diseases",
+        "Wanted to study the body",
+        "Believed in life after death",
+        "Followed a royal order"
+       ],
+       "answer": 2,
+       "why": "Egyptians believed in life after death and thought the soul would need the body in the next world, so they preserved dead bodies as mummies and built pyramids as royal tombs."
+      },
+      {
+       "q": "Mummification of dead bodies began in Egypt by about:",
+       "options": [
+        "1600 BCE",
+        "2600 BCE",
+        "3600 BCE",
+        "600 BCE"
+       ],
+       "answer": 1,
+       "why": "The Egyptians began mummifying dead bodies by about 2600 BCE — more than 4,500 years ago — and the practice continued for thousands of years."
+      },
+      {
+       "q": "Tutankhamun became king of Egypt at about the age of:",
+       "options": [
+        "Nine years",
+        "Sixteen years",
+        "Twenty years",
+        "Twenty-five years"
+       ],
+       "answer": 0,
+       "why": "Tutankhamun was a young pharaoh who became king at about nine years of age, around 1332 BCE, and died in his teens."
+      },
+      {
+       "q": "Tutankhamun's tomb was discovered almost intact in 1922 by:",
+       "options": [
+        "Lord Carnarvon",
+        "James Prinsep",
+        "Howard Carter",
+        "Alexander Fleming"
+       ],
+       "answer": 2,
+       "why": "Tutankhamun's tomb in the Valley of the Kings was discovered almost intact in 1922 by Howard Carter, filled with golden treasures including his famous gold mask."
+      },
+      {
+       "q": "Cleopatra, the queen of Egypt, was by descent:",
+       "options": [
+        "Egyptian",
+        "Greek (Macedonian)",
+        "Roman",
+        "Persian"
+       ],
+       "answer": 1,
+       "why": "Cleopatra was born in Egypt and ruled it as queen, but by descent she was Greek (Macedonian) of the Ptolemaic dynasty; unlike her ancestors, she learned the Egyptian language."
+      }
+     ]
+    },
+    {
+     "title": "Indus Valley Civilization",
+     "notes_html": "<h4>Mehrgarh — The Beginning</h4>\n<p><b>Mehrgarh</b>, in the Kacchi Plain near the Bolan Pass in Balochistan, is one of the oldest known farming settlements in the world, dating back to about <b>7000 BCE</b>. Its people were among the first to grow crops like wheat and barley and to domesticate animals such as goats, sheep and cattle. With time they built mud-brick houses, made pottery, tools of stone and bone, ornaments of shell and semi-precious stones, and stored grain in granaries. Mehrgarh shows the change of humans from hunters to farmers, and it laid the foundation for the later Indus Valley Civilization.</p>\n<h4>Role of the River Indus</h4>\n<p>The <b>River Indus</b> and its tributaries provided water for drinking, farming and animals, which attracted people to settle on its plains. Its yearly floods left fertile soil for growing wheat, barley, cotton and other crops, producing surplus food that supported large cities. The river also served as a trade route, connecting <b>Mohenjo-Daro</b> and <b>Harappa</b> with each other and with distant lands. These were the two main city cultures of the civilization: Mohenjo-Daro in Sindh on the Indus, and Harappa in Punjab on the Ravi.</p>\n<h4>Characteristics of the Civilization</h4>\n<ul>\n<li><b>Daily life:</b> Well-planned cities with straight streets, baked-brick houses, covered drains and great baths; people wore cotton clothes and ornaments of gold, silver and beads.</li>\n<li><b>Agriculture:</b> Wheat, barley, peas, dates and cotton were grown; buffaloes, goats and sheep were domesticated.</li>\n<li><b>Trade:</b> Trade with Mesopotamia and other regions; cotton, beads and pottery were exported, and standard weights and measures were used.</li>\n<li><b>Religion:</b> Worship of a mother goddess and a male god (proto-Shiva), and of sacred animals and trees.</li>\n<li><b>Script:</b> A pictographic script, found mostly on small stone seals, generally written from right to left; it has still not been deciphered.</li>\n</ul>\n<h4>Decline of the Civilization</h4>\n<p>Historians suggest several causes for the end of the Indus Valley Civilization (around 1900–1500 BCE): repeated floods and changes in the course of rivers, the drying up of rivers and climate change reducing rainfall, decline in trade with Mesopotamia, overuse of land, and possibly invasions by new peoples such as the Aryans. Most probably a combination of natural changes made the great cities unsustainable, and people gradually left them. The civilization is also remembered for its terracotta toys — toy carts with wheels, bulls, monkeys, birds, whistles and rattles found at Mohenjo-Daro and Harappa.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Mehrgarh (about 7000 BCE) in Balochistan is one of the world's earliest farming settlements.</li>\n<li>Mohenjo-Daro and Harappa were the two great cities of the Indus Valley Civilization.</li>\n<li>The Indus script is pictographic and has not been deciphered yet.</li>\n<li>Changing rivers and a drier climate were the main causes of the civilization's decline.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The large cities of Indus Civilization were Mohenjo-Daro and:",
+       "options": [
+        "Mehrgarh",
+        "Kot Diji",
+        "Taxila",
+        "Harappa"
+       ],
+       "answer": 3,
+       "why": "The two main city cultures of the Indus Valley Civilization were Mohenjo-Daro in Sindh and Harappa in Punjab, both large, well-planned cities of the same civilization."
+      },
+      {
+       "q": "The archaeological site of Mehrgarh is situated in:",
+       "options": [
+        "Sindh near the Indus",
+        "The Kacchi Plain near the Bolan Pass, Balochistan",
+        "Punjab near the Ravi",
+        "Khyber near the Khyber Pass"
+       ],
+       "answer": 1,
+       "why": "Mehrgarh is situated in the Kacchi Plain near the Bolan Pass in Balochistan, Pakistan. It is one of the earliest farming settlements of the world, from about 7000 BCE."
+      },
+      {
+       "q": "Mehrgarh dates back to about:",
+       "options": [
+        "3000 BCE",
+        "4500 BCE",
+        "7000 BCE",
+        "1500 BCE"
+       ],
+       "answer": 2,
+       "why": "Mehrgarh is one of the oldest known farming settlements in the world, dating back to about 7000 BCE, where people first grew wheat and barley and domesticated animals."
+      },
+      {
+       "q": "The people of Mehrgarh were among the first to:",
+       "options": [
+        "Build pyramids",
+        "Grow wheat and barley and domesticate animals",
+        "Write law codes",
+        "Sail across oceans"
+       ],
+       "answer": 1,
+       "why": "Mehrgarh's people were among the first to grow crops like wheat and barley and to domesticate animals such as goats, sheep and cattle."
+      },
+      {
+       "q": "The writing system of the Indus Valley Civilization was:",
+       "options": [
+        "Hieroglyphic",
+        "Cuneiform",
+        "Pictographic (Indus script)",
+        "Alphabetic"
+       ],
+       "answer": 2,
+       "why": "The people of the Indus Valley used a pictographic writing system, known as the Indus script, found mostly carved on small stone seals; it has not been deciphered so far."
+      },
+      {
+       "q": "The Indus script was generally written:",
+       "options": [
+        "From left to right",
+        "From right to left",
+        "From top to bottom",
+        "In circles"
+       ],
+       "answer": 1,
+       "why": "The Indus script consists of picture-like signs and symbols and was written generally from right to left; scholars have not been able to read it completely."
+      },
+      {
+       "q": "Mohenjo-Daro is located in Sindh on the bank of River Indus, while Harappa is in Punjab on the:",
+       "options": [
+        "Jhelum",
+        "Chenab",
+        "Ravi",
+        "Beas"
+       ],
+       "answer": 2,
+       "why": "Mohenjo-Daro lies in Sindh on the Indus and Harappa lies in Punjab on the Ravi; both had similar town planning, bricks, weights, seals and pottery."
+      },
+      {
+       "q": "Which feature shows the fine town planning of Indus cities?",
+       "options": [
+        "Tall temples",
+        "Straight streets, baked-brick houses and covered drains",
+        "Large palaces",
+        "City walls of stone"
+       ],
+       "answer": 1,
+       "why": "Indus cities were well planned with straight streets, baked-brick houses, covered drains and great baths, showing a highly organized civic life."
+      },
+      {
+       "q": "The Indus people traded with which far-off region?",
+       "options": [
+        "China",
+        "Egypt",
+        "Mesopotamia",
+        "Greece"
+       ],
+       "answer": 2,
+       "why": "The Indus people traded with Mesopotamia and other regions, exporting cotton, beads and pottery, and they used standard weights and measures."
+      },
+      {
+       "q": "The most probable main cause of the decline of the Indus Valley Civilization was:",
+       "options": [
+        "A great earthquake only",
+        "Natural changes — rivers changing course and climate becoming drier",
+        "Attack by Egypt",
+        "A plague in the cities"
+       ],
+       "answer": 1,
+       "why": "Historians suggest floods, rivers changing course, drying climate, decline of trade and overuse of land; most probably a combination of natural changes made the great cities unsustainable."
+      }
+     ]
+    },
+    {
+     "title": "Chinese Civilization",
+     "notes_html": "<h4>Basic Characteristics</h4>\n<p>Ancient <b>Chinese Civilization</b> grew in the river valleys of China. <b>Silk</b> was discovered in China in about <b>2700 BCE</b>, and silk became its most valuable product. Society included farmers, silk weavers, potters, craftsmen, traders, soldiers and government officials called <b>mandarins</b>, who were selected through examinations.</p>\n<h4>Chinese Architecture</h4>\n<p>Buildings were mostly made of wood and mud-bricks with tiled, sloping roofs that turned up at the corners. Palaces and temples were built on raised platforms, and great emphasis was placed on symmetry and balance. The <b>Great Wall of China</b> is the most famous example of their building skill. It was ordered to be built by the Chinese Emperor <b>Qin Shi Huang</b>, the first emperor of united China (about 221 BCE), who joined and extended the earlier walls to protect China from the invasions of northern tribes. Later dynasties continued to repair and extend it.</p>\n<h4>Trade and Occupations</h4>\n<p>China traded silk, tea, porcelain (china clay pottery) and paper through the famous <b>Silk Road</b> to Central Asia and Europe; silk was the most valuable export. Most people were farmers growing rice, wheat and tea; others were silk weavers, potters, craftsmen, traders, soldiers and government officials.</p>\n<h4>Gifts of Ancient China to the World</h4>\n<p>Ancient China's gifts still shape the modern world: <b>paper</b> and <b>printing</b> made books and knowledge cheap and widespread; <b>gunpowder</b> changed warfare and is used in fireworks; the <b>magnetic compass</b> made sea travel and navigation possible; and silk and porcelain remain prized goods. Chinese inventions like the wheelbarrow and tea cultivation also spread through the Silk Road and impact our daily life even today.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Silk was discovered in China in about 2700 BCE.</li>\n<li>The Great Wall was ordered by Emperor Qin Shi Huang to stop northern invasions.</li>\n<li>China exported silk, tea, porcelain and paper through the Silk Road.</li>\n<li>Paper, printing, gunpowder and the magnetic compass are China's gifts to the world.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Silk was discovered in China in:",
+       "options": [
+        "2600 BCE",
+        "2700 BCE",
+        "2800 BCE",
+        "2900 BCE"
+       ],
+       "answer": 1,
+       "why": "The book states that silk was discovered in China in 2700 BCE. Silk later became China's most valuable export through the Silk Road."
+      },
+      {
+       "q": "Who ordered the construction of the Great Wall of China?",
+       "options": [
+        "Confucius",
+        "A Chinese mandarin",
+        "Emperor Qin Shi Huang",
+        "Kublai Khan"
+       ],
+       "answer": 2,
+       "why": "The Great Wall was ordered to be built by Emperor Qin Shi Huang, the first emperor of united China (about 221 BCE), who joined and extended earlier walls against northern invasions."
+      },
+      {
+       "q": "The Great Wall of China was built mainly to:",
+       "options": [
+        "Mark the border for traders",
+        "Protect China from invasions of northern tribes",
+        "Store grain for the army",
+        "Honour the ancestors"
+       ],
+       "answer": 1,
+       "why": "Qin Shi Huang joined and extended the earlier walls to protect China from the invasions of northern tribes; later dynasties kept repairing and extending the wall."
+      },
+      {
+       "q": "Government officials in ancient China, selected through examinations, were called:",
+       "options": [
+        "Satraps",
+        "Mandarins",
+        "Viziers",
+        "Scribes"
+       ],
+       "answer": 1,
+       "why": "Chinese government officials were called mandarins and were selected through examinations; other occupations included farmers, silk weavers, potters, craftsmen, traders and soldiers."
+      },
+      {
+       "q": "The famous trade route through which China traded with Central Asia and Europe was:",
+       "options": [
+        "The Royal Road",
+        "The Silk Road",
+        "The Amber Road",
+        "The Spice Route"
+       ],
+       "answer": 1,
+       "why": "China traded silk, tea, porcelain and paper through the famous Silk Road to Central Asia and Europe; silk was its most valuable export."
+      },
+      {
+       "q": "The most valuable export of ancient China was:",
+       "options": [
+        "Tea",
+        "Porcelain",
+        "Paper",
+        "Silk"
+       ],
+       "answer": 3,
+       "why": "Silk was China's most valuable export, traded through the Silk Road along with tea, porcelain (china clay pottery) and paper."
+      },
+      {
+       "q": "A special feature of Chinese buildings was:",
+       "options": [
+        "Domes and arches",
+        "Tiled, sloping roofs that turned up at the corners",
+        "Pyramid-shaped tops",
+        "Round towers"
+       ],
+       "answer": 1,
+       "why": "Chinese buildings were made of wood and mud-bricks with tiled, sloping roofs that turned up at the corners, and great emphasis was placed on symmetry and balance."
+      },
+      {
+       "q": "Which invention of ancient China made sea travel and navigation possible?",
+       "options": [
+        "Gunpowder",
+        "Paper",
+        "The magnetic compass",
+        "Printing"
+       ],
+       "answer": 2,
+       "why": "The magnetic compass, invented in ancient China, made sea travel and navigation possible; paper, printing and gunpowder are China's other famous gifts to the world."
+      },
+      {
+       "q": "Most people in ancient China were farmers growing:",
+       "options": [
+        "Cotton and dates",
+        "Rice, wheat and tea",
+        "Barley and flax",
+        "Grapes and olives"
+       ],
+       "answer": 1,
+       "why": "Most Chinese people were farmers growing rice, wheat and tea; others were silk weavers, potters, craftsmen, traders, soldiers and officials."
+      },
+      {
+       "q": "Chinese palaces and temples were usually built on:",
+       "options": [
+        "River banks",
+        "Hill tops",
+        "Raised platforms",
+        "Underground levels"
+       ],
+       "answer": 2,
+       "why": "In Chinese architecture, palaces and temples were built on raised platforms, with emphasis on symmetry and balance; the Great Wall is the most famous example of their building skill."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Persian, Greek and Roman Civilizations",
+   "lessons": [
+    {
+     "title": "Persian Civilization",
+     "notes_html": "<h4>Cyrus the Great — Founder of the Empire</h4>\n<p>The <b>Persian Empire</b> was founded in <b>550 BCE</b> by <b>Cyrus the Great</b>. He was a wise and tolerant ruler who conquered Media, Lydia and Babylon and united a vast empire. He is remembered for respecting the religions and customs of the conquered peoples and for freeing the Jews from Babylonian captivity.</p>\n<h4>How the Empire Was Organized</h4>\n<p>Cyrus's successors organized the empire with provinces called <b>satrapies</b>, each ruled by a satrap, with royal inspectors to watch them, and a network of roads and messengers. Society was headed by the king, followed by nobles, priests, soldiers, merchants, craftsmen and farmers. Politically, Persia was a centralized empire: one king ruled vast lands through satraps, valuing order, loyalty and tolerance of different peoples' customs.</p>\n<h4>Expansion Over Three Older Civilizations</h4>\n<p>The Persian Empire expanded over the lands of three major older civilizations: the <b>Mesopotamian (Babylonian)</b> civilization — Cyrus conquered Babylon in 539 BCE; the <b>Egyptian</b> civilization — conquered by Cambyses in 525 BCE; and the <b>Indus Valley</b> region — the empire extended up to the Indus. In this way Persia became heir to the oldest civilizations of the world.</p>\n<h4>Persian Architecture and Decline</h4>\n<p>Persian architecture showed royal grandeur: grand palaces like <b>Persepolis</b> with huge columned halls, tall pillars with animal capitals, wide staircases and glazed-brick reliefs, designed to show the emperor's power. Persians and Greeks were similar in believing in gods connected with nature and sky, building grand temples and palaces with columns, and valuing art and strong armies. The empire declined because of weak later kings, revolts of provinces and heavy taxes, and finally <b>Alexander's invasion</b> ended it: he began the conquest in <b>334 BCE</b>, winning at Granicus, Issus (333 BCE) and Gaugamela (331 BCE) against Darius III.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Cyrus the Great founded the Persian Empire in 550 BCE.</li>\n<li>The empire was divided into provinces called satrapies, ruled by satraps.</li>\n<li>Persia expanded over Babylonian, Egyptian and Indus lands.</li>\n<li>Alexander ended the Persian Empire with victories at Granicus, Issus and Gaugamela.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The Persian Empire was founded in 550 BCE by:",
+       "options": [
+        "Darius I",
+        "Cyrus the Great",
+        "Xerxes",
+        "Cambyses"
+       ],
+       "answer": 1,
+       "why": "The Persian Empire was founded in 550 BCE by Cyrus the Great, who conquered Media, Lydia and Babylon and united a vast empire."
+      },
+      {
+       "q": "Cyrus the Great is remembered for:",
+       "options": [
+        "Building the Great Wall",
+        "Respecting the religions and customs of conquered peoples",
+        "Founding the Olympic Games",
+        "Writing a law code of 282 laws"
+       ],
+       "answer": 1,
+       "why": "Cyrus was a wise and tolerant ruler, remembered for respecting the religions and customs of the conquered peoples and for freeing the Jews from Babylonian captivity."
+      },
+      {
+       "q": "The provinces of the Persian Empire were called:",
+       "options": [
+        "Polis",
+        "Satrapies",
+        "Cantons",
+        "Colonies"
+       ],
+       "answer": 1,
+       "why": "The Persian Empire was divided into provinces called satrapies, each ruled by a satrap, with royal inspectors and a network of roads and messengers."
+      },
+      {
+       "q": "Cyrus conquered Babylon in:",
+       "options": [
+        "550 BCE",
+        "525 BCE",
+        "539 BCE",
+        "490 BCE"
+       ],
+       "answer": 2,
+       "why": "Cyrus conquered Babylon in 539 BCE, bringing the Mesopotamian (Babylonian) civilization under Persian rule; Egypt was later conquered by Cambyses in 525 BCE."
+      },
+      {
+       "q": "Egypt came under Persian rule in 525 BCE during the time of:",
+       "options": [
+        "Cyrus",
+        "Darius III",
+        "Xerxes",
+        "Cambyses"
+       ],
+       "answer": 3,
+       "why": "The Egyptian civilization was conquered by Cambyses in 525 BCE, after Cyrus had taken Babylon in 539 BCE."
+      },
+      {
+       "q": "The famous Persian palace with huge columned halls was:",
+       "options": [
+        "The Parthenon",
+        "Persepolis",
+        "The Colosseum",
+        "The Acropolis"
+       ],
+       "answer": 1,
+       "why": "Persian architecture showed royal grandeur in palaces like Persepolis, with huge columned halls, tall pillars with animal capitals and glazed-brick reliefs."
+      },
+      {
+       "q": "Alexander the Great began the conquest of the Persian Empire in:",
+       "options": [
+        "431 BCE",
+        "356 BCE",
+        "334 BCE",
+        "323 BCE"
+       ],
+       "answer": 2,
+       "why": "Alexander began his conquest of the Persian Empire in 334 BCE, defeating the Persians at the Battle of Granicus, then at Issus and Gaugamela."
+      },
+      {
+       "q": "Alexander's final, decisive victory over Darius III was at:",
+       "options": [
+        "Granicus",
+        "Issus",
+        "Gaugamela",
+        "Marathon"
+       ],
+       "answer": 2,
+       "why": "The Battle of Gaugamela (331 BCE) was Alexander's final, decisive victory, after which the Persian Empire collapsed and Alexander became master of Persia."
+      },
+      {
+       "q": "One cause of the decline of the Persian Empire was:",
+       "options": [
+        "Weak later kings and revolts of provinces",
+        "A great flood",
+        "Attack by China",
+        "Loss of sea trade only"
+       ],
+       "answer": 0,
+       "why": "The Persian Empire declined because of weak later kings, revolts of provinces and heavy taxes, and finally Alexander's invasion ended it."
+      },
+      {
+       "q": "Persian and Greek civilizations were similar because both:",
+       "options": [
+        "Had the same language",
+        "Believed in gods connected with nature and sky and built grand columned buildings",
+        "Were ruled by one king",
+        "Lived in one united state"
+       ],
+       "answer": 1,
+       "why": "Both Persians and Greeks worshipped gods connected with nature and sky, built grand temples and palaces with columns, valued art and maintained strong armies."
+      }
+     ]
+    },
+    {
+     "title": "Greek Civilization",
+     "notes_html": "<h4>City-States: Athens and Sparta</h4>\n<p>Greek Civilization developed in independent city-states (<b>polis</b>) such as <b>Athens</b> and <b>Sparta</b> around the Aegean Sea. A shared language, religion and games united them culturally, though they remained politically separate. Athens was famous for democracy, education, art and philosophy, while Sparta was a military state famous for its discipline and powerful army. Their rivalry led to the <b>Peloponnesian War</b> in <b>431 BCE</b>, when war broke out between Athens and the Spartans.</p>\n<h4>Daily and Political Life</h4>\n<p>In Athens, male citizens took part directly in the assembly (democracy), debated in the <b>Agora</b> and served on juries; in Sparta, society was organized for military training. The <b>Agora</b> was the central public place of a Greek city-state: a marketplace where goods were bought and sold, and a gathering place where citizens met and discussed politics; important public buildings and temples were often built around it. Social life included festivals, theatre and the Olympic Games. <b>Plato's Academy</b> in Athens was like a school, where philosophy was taught.</p>\n<h4>The Olympic Games</h4>\n<p>The <b>Olympic Games</b> were athletic competitions held in ancient Greece at Olympia in honour of the god Zeus, beginning in <b>776 BCE</b> and held every four years. Athletes from Greek city-states competed in running, wrestling, discus and other events, and wars were paused during the games. They were revived in the late <b>19th century</b> (1896) as the modern Olympic Games, now the world's biggest sports event.</p>\n<h4>Alexander the Great</h4>\n<p><b>Alexander the Great</b> (356–323 BCE), king of Macedonia, conquered in about twelve years the largest empire of the ancient world, from Greece to Egypt and Persia and up to the Indus Valley. He wanted to conquer the world out of ambition for rule and glory and a love of adventure; he was also attracted by the wealth of India. His Indian campaign began in 327 BCE; he defeated King Porus at the Jhelum but treated him generously, and stopped when his tired soldiers refused to go further. Greek architecture is famous for beautiful marble temples like the <b>Parthenon</b>, with elegant columns of three orders — Doric, Ionic and Corinthian. Greek civilization declined because its city-states constantly fought each other, until Macedonia and then Rome conquered them.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Athens stood for democracy and learning; Sparta for military discipline.</li>\n<li>The Agora was the marketplace and meeting place of a Greek city-state.</li>\n<li>The Olympic Games began in 776 BCE and were revived in 1896.</li>\n<li>Alexander conquered from Greece to the Indus in about twelve years.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The two main city-states of ancient Greece were:",
+       "options": [
+        "Rome and Athens",
+        "Athens and Sparta",
+        "Sparta and Persia",
+        "Thebes and Corinth"
+       ],
+       "answer": 1,
+       "why": "The two main city-states of ancient Greece were Athens, famous for democracy, education, art and philosophy, and Sparta, a military state famous for discipline and its powerful army."
+      },
+      {
+       "q": "In 431 BCE, a war broke out between Athens and the:",
+       "options": [
+        "Persians",
+        "Romans",
+        "Macedonians",
+        "Spartans"
+       ],
+       "answer": 3,
+       "why": "In 431 BCE the Peloponnesian War broke out between Athens and the Spartans; their long rivalry weakened the Greek city-states."
+      },
+      {
+       "q": "The 'Agora' in a Greek city was:",
+       "options": [
+        "A temple of Zeus",
+        "The central public place and marketplace",
+        "A military camp",
+        "The king's palace"
+       ],
+       "answer": 1,
+       "why": "The Agora was the central public place of a Greek city-state, serving as a marketplace and as a gathering place where citizens discussed politics and social matters."
+      },
+      {
+       "q": "Plato's Academy was like a:",
+       "options": [
+        "Temple",
+        "Market",
+        "Palace",
+        "School"
+       ],
+       "answer": 3,
+       "why": "Plato's Academy in Athens was like a school, where students gathered to learn and discuss philosophy."
+      },
+      {
+       "q": "The Olympic Games began in ancient Greece in:",
+       "options": [
+        "550 BCE",
+        "776 BCE",
+        "431 BCE",
+        "1896 CE"
+       ],
+       "answer": 1,
+       "why": "The Olympic Games were athletic competitions held at Olympia in honour of the god Zeus, beginning in 776 BCE and held every four years."
+      },
+      {
+       "q": "The Olympic Games were revived in the late:",
+       "options": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+       ],
+       "answer": 2,
+       "why": "The Olympic Games were revived in the late 19th century (1896) as the modern Olympic Games, now the world's biggest sports event."
+      },
+      {
+       "q": "During the ancient Olympic Games:",
+       "options": [
+        "Only Spartans could take part",
+        "Wars were paused",
+        "Women conducted the games",
+        "Games were held every year"
+       ],
+       "answer": 1,
+       "why": "Athletes from Greek city-states competed in running, wrestling, discus and other events at Olympia, and wars were paused during the games."
+      },
+      {
+       "q": "Greek temples are famous for their columns of three orders:",
+       "options": [
+        "Doric, Ionic and Corinthian",
+        "Greek, Roman and Persian",
+        "Round, square and tall",
+        "Wood, marble and brick"
+       ],
+       "answer": 0,
+       "why": "Greek architecture is famous for beautiful temples like the Parthenon, built in marble with elegant columns of three orders — Doric, Ionic and Corinthian — based on balance and proportion."
+      },
+      {
+       "q": "Alexander the Great defeated King Porus in India at the river:",
+       "options": [
+        "Indus",
+        "Ravi",
+        "Jhelum",
+        "Ganga"
+       ],
+       "answer": 2,
+       "why": "In his Indian campaign (327–326 BCE), Alexander fought King Porus at the Jhelum, defeated him but treated him generously, and turned back when his soldiers refused to go further."
+      },
+      {
+       "q": "Greek civilization declined mainly because:",
+       "options": [
+        "Its city-states constantly fought each other",
+        "It had no army",
+        "Its trade ended",
+        "A plague destroyed Athens"
+       ],
+       "answer": 0,
+       "why": "Greek civilization declined because its city-states constantly fought each other, as Athens and Sparta did in the Peloponnesian War, until Macedonia and then Rome conquered them."
+      }
+     ]
+    },
+    {
+     "title": "Roman Civilization",
+     "notes_html": "<h4>From Kingdom to Republic</h4>\n<p>Roman Civilization began with the city of <b>Rome</b> in Italy in <b>753 BCE</b>. Rome was first ruled by kings. The last king, Tarquin, was harsh and unpopular, so in <b>509 BCE</b> the Romans expelled him and decided never to have a king again. They set up a <b>republic</b>, in which power was shared: two <b>consuls</b> elected for one year headed the government, the <b>Senate</b> advised and made important decisions, and assemblies of citizens voted on laws and elected officials. Over time the common people (plebeians) also won rights, including their own representatives called <b>tribunes</b>. This republican system governed Rome for about 500 years, and later Rome became an empire ruling the whole Mediterranean world.</p>\n<h4>Roman Society and Life</h4>\n<p>Roman society was divided into <b>patricians</b> (rich nobles) and <b>plebeians</b> (common people), with slaves at the bottom. Citizens voted in assemblies and were governed by the Senate and elected officials in the republic. Romans enjoyed public baths, forums and games in amphitheatres like the <b>Colosseum</b>, a huge amphitheatre in the centre of Rome.</p>\n<h4>Greeks and Romans</h4>\n<p>Greeks and Romans had close and long relations. After conquering Greece (by 146 BCE), Greece became part of the Roman world. The Romans greatly admired Greek culture: they adopted Greek gods (with Roman names), art, architecture, literature and education. In return, Rome gave Greece peace, roads, Roman law and citizenship. That is why Roman civilization is often called <b>Greco-Roman</b> — conquered Greece conquered its Roman conquerors culturally.</p>\n<h4>Roman Architecture and Decline</h4>\n<p>Roman architecture was practical and engineering-based: Romans used arches, domes and concrete to build huge structures like the Colosseum, aqueducts, roads, bridges and baths. In short, Persians showed royal grandeur, Greeks showed beauty and harmony, and Romans showed engineering strength and utility. The Roman Empire declined due to weak and corrupt emperors, a too-large empire difficult to govern, economic problems, attacks by Germanic tribes and internal civil wars; the western Roman Empire finally fell in <b>476 CE</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Rome began in 753 BCE and became a republic in 509 BCE.</li>\n<li>Two consuls, the Senate and citizens' assemblies shared power in the republic.</li>\n<li>Romans adopted Greek culture, so their civilization is called Greco-Roman.</li>\n<li>Roman architecture used arches, domes and concrete; the western empire fell in 476 CE.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The Colosseum was a huge amphitheatre in the centre of:",
+       "options": [
+        "Rome",
+        "Athens",
+        "Sparta",
+        "Persia"
+       ],
+       "answer": 0,
+       "why": "The Colosseum was a huge amphitheatre in the centre of Rome, where Romans watched games; it is a famous example of Roman engineering with arches and concrete."
+      },
+      {
+       "q": "Rome was founded in:",
+       "options": [
+        "509 BCE",
+        "753 BCE",
+        "146 BCE",
+        "476 CE"
+       ],
+       "answer": 1,
+       "why": "Roman Civilization began with the city of Rome in Italy in 753 BCE; it grew from a kingdom to a republic and then an empire."
+      },
+      {
+       "q": "The Roman Republic was set up in 509 BCE after the Romans:",
+       "options": [
+        "Defeated Greece",
+        "Expelled their last king, Tarquin",
+        "Built the Colosseum",
+        "Adopted Christianity"
+       ],
+       "answer": 1,
+       "why": "The last king, Tarquin, was harsh and unpopular, so in 509 BCE the Romans expelled him and set up a republic, deciding never to have a king again."
+      },
+      {
+       "q": "In the Roman Republic, the government was headed by:",
+       "options": [
+        "One king",
+        "Two consuls elected for one year",
+        "A group of priests",
+        "The army generals"
+       ],
+       "answer": 1,
+       "why": "In the republic, two consuls elected for one year headed the government, the Senate advised and made important decisions, and assemblies of citizens voted on laws."
+      },
+      {
+       "q": "The representatives of the common people (plebeians) in Rome were called:",
+       "options": [
+        "Satraps",
+        "Senators",
+        "Tribunes",
+        "Consuls"
+       ],
+       "answer": 2,
+       "why": "Over time the plebeians won rights, including their own representatives called tribunes, who protected the interests of the common people."
+      },
+      {
+       "q": "Roman society was divided into patricians and:",
+       "options": [
+        "Satraps",
+        "Plebeians",
+        "Mandarins",
+        "Brahmins"
+       ],
+       "answer": 1,
+       "why": "Roman society was divided into patricians (rich nobles) and plebeians (common people), with slaves at the bottom."
+      },
+      {
+       "q": "Roman civilization is often called 'Greco-Roman' because:",
+       "options": [
+        "Rome was a Greek city",
+        "Romans adopted Greek gods, art, architecture and education",
+        "Greeks ruled Rome",
+        "Both spoke Latin"
+       ],
+       "answer": 1,
+       "why": "The Romans greatly admired Greek culture and adopted Greek gods (with Roman names), art, architecture, literature and education, so Roman civilization is called Greco-Roman."
+      },
+      {
+       "q": "Greece became part of the Roman world by:",
+       "options": [
+        "334 BCE",
+        "509 BCE",
+        "146 BCE",
+        "476 CE"
+       ],
+       "answer": 2,
+       "why": "Rome came into contact with Greek colonies in Italy and, after conquering Greece by 146 BCE, Greece became part of the Roman world."
+      },
+      {
+       "q": "Roman architecture is best described as:",
+       "options": [
+        "Only for beauty",
+        "Practical and engineering-based, using arches, domes and concrete",
+        "Made only of wood",
+        "Copied from Egypt"
+       ],
+       "answer": 1,
+       "why": "Roman architecture was practical and engineering-based; Romans used arches, domes and concrete to build the Colosseum, aqueducts, roads, bridges and baths."
+      },
+      {
+       "q": "The western Roman Empire finally fell in:",
+       "options": [
+        "323 BCE",
+        "146 BCE",
+        "476 CE",
+        "632 CE"
+       ],
+       "answer": 2,
+       "why": "The Roman Empire declined due to weak emperors, its huge size, economic problems, Germanic attacks and civil wars; the western Roman Empire finally fell in 476 CE."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Aryans, Kushans and Guptas",
+   "lessons": [
+    {
+     "title": "The Aryans",
+     "notes_html": "<h4>Origin of the Aryans</h4>\n<p>The <b>Aryans</b> are believed to have originated in <b>Central Asia</b>, in the steppes around the Caspian region. The term <b>'Arya'</b> means <b>noble</b>. They were herders and warriors who spoke an early form of Sanskrit. Around <b>1500 BCE</b>, groups of Aryans migrated eastward, entering the north-western parts of the subcontinent through mountain passes such as the Khyber Pass, and settled first in the Punjab — the land of rivers, <b>Sapta Sindhu</b>. Gradually they spread over the Ganga valley, cleared forests, settled as farmers, and composed the <b>Vedas</b>, our main source about their early life.</p>\n<h4>Structure of Aryan Society</h4>\n<p>Aryan society was organized under the <b>caste (varna) system</b>, which divided people into <b>four castes</b>:</p>\n<ul>\n<li><b>Brahmins</b> — priests and teachers who performed religious duties and preserved the Vedas.</li>\n<li><b>Kshatriyas</b> — kings and warriors who ruled and defended.</li>\n<li><b>Vaishyas</b> — farmers, herders and traders.</li>\n<li><b>Shudras</b> — labourers and servants who served the other three.</li>\n</ul>\n<p>In the early period caste was based on work, but later it became hereditary and rigid. The family was patriarchal, headed by the father; people lived mostly in villages, and assemblies like the Sabha and Samiti helped the chief (rajan). The main source of wealth of the Aryans was <b>cattle</b>: cows gave milk, food and status, and wealth was counted in cattle; later agriculture also became important.</p>\n<h4>Religious Beliefs of the Aryans</h4>\n<p>The early Aryans worshipped the forces of nature as gods: <b>Indra</b> (rain and war), <b>Agni</b> (fire), <b>Surya</b> (sun), <b>Vayu</b> (wind), <b>Varuna</b> (sky and moral order) and <b>Ushas</b> (dawn). They performed yajnas (fire sacrifices) and offered soma juice and food to the gods, singing hymns collected in the <b>Rigveda</b>. There were no temples or idols in the earliest period; prayers were offered in the open. Over time, rituals became complex, priests gained importance, and ideas of karma, rebirth and the soul (atman) developed in the Upanishads.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The Aryans came from Central Asia and settled first in the Punjab (Sapta Sindhu).</li>\n<li>'Arya' means noble; Aryan society had four castes based originally on work.</li>\n<li>Cattle were the main source of Aryan wealth.</li>\n<li>The Aryans worshipped nature gods and composed the Vedas.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The term 'Arya' means:",
+       "options": [
+        "Farmer",
+        "Warrior",
+        "Noble",
+        "Priest"
+       ],
+       "answer": 2,
+       "why": "The term 'Arya' means noble. The Aryans were herders and warriors from Central Asia who spoke an early form of Sanskrit."
+      },
+      {
+       "q": "Under the caste system, the Aryans divided people into ________ castes:",
+       "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+       ],
+       "answer": 2,
+       "why": "Aryan society was divided into four castes: Brahmins, Kshatriyas, Vaishyas and Shudras, originally based on the work people did."
+      },
+      {
+       "q": "The Aryans are believed to have originated in:",
+       "options": [
+        "The Ganga valley",
+        "Central Asia",
+        "Mesopotamia",
+        "China"
+       ],
+       "answer": 1,
+       "why": "The Aryans are believed to have originated in Central Asia, in the steppes around the Caspian region, and migrated eastward around 1500 BCE."
+      },
+      {
+       "q": "The Aryans first settled in the Punjab, which they called:",
+       "options": [
+        "Aryavarta",
+        "Sapta Sindhu",
+        "Magadha",
+        "Gandhara"
+       ],
+       "answer": 1,
+       "why": "The Aryans settled first in the Punjab, the land of rivers, called Sapta Sindhu, entering through passes such as the Khyber Pass."
+      },
+      {
+       "q": "The main source of wealth of the Aryans was:",
+       "options": [
+        "Gold",
+        "Land",
+        "Cattle",
+        "Trade"
+       ],
+       "answer": 2,
+       "why": "The main source of wealth of the Aryans was cattle. Cows gave milk, food and status, and wealth was counted in cattle; agriculture became important later."
+      },
+      {
+       "q": "In Aryan society, the priests and teachers belonged to the caste of:",
+       "options": [
+        "Kshatriyas",
+        "Vaishyas",
+        "Shudras",
+        "Brahmins"
+       ],
+       "answer": 3,
+       "why": "Brahmins were the priests and teachers who performed religious duties and preserved the Vedas; Kshatriyas ruled and fought, Vaishyas farmed and traded, and Shudras served."
+      },
+      {
+       "q": "The hymns of the early Aryans are collected in the:",
+       "options": [
+        "Arthashastra",
+        "Rigveda",
+        "Upanishads only",
+        "Mahabharata"
+       ],
+       "answer": 1,
+       "why": "The Aryans sang hymns to their gods, collected in the Rigveda; the Vedas are our main source of knowledge about early Aryan life."
+      },
+      {
+       "q": "The Aryan god of rain and war was:",
+       "options": [
+        "Agni",
+        "Surya",
+        "Indra",
+        "Varuna"
+       ],
+       "answer": 2,
+       "why": "The early Aryans worshipped forces of nature: Indra (rain and war), Agni (fire), Surya (sun), Vayu (wind), Varuna (sky and moral order) and Ushas (dawn)."
+      },
+      {
+       "q": "In the earliest Aryan period, prayers were offered:",
+       "options": [
+        "In large temples",
+        "Before idols",
+        "In the open, without temples or idols",
+        "Only by kings"
+       ],
+       "answer": 2,
+       "why": "There were no temples or idols in the earliest Aryan period; prayers and fire sacrifices (yajnas) were offered in the open."
+      },
+      {
+       "q": "The language spoken by the Aryans was an early form of:",
+       "options": [
+        "Pali",
+        "Sanskrit",
+        "Persian",
+        "Greek"
+       ],
+       "answer": 1,
+       "why": "The Aryans spoke an early form of Sanskrit, in which they composed the Vedas after settling in the subcontinent."
+      }
+     ]
+    },
+    {
+     "title": "The Mauryan Empire",
+     "notes_html": "<h4>Rise of the Mauryan Dynasty</h4>\n<p>The <b>Mauryan Dynasty</b> was founded by <b>Chandragupta Maurya</b> in <b>321 BCE</b>, who, with the help of his wise minister <b>Chanakya (Kautilya)</b>, overthrew the Nanda dynasty and united most of India for the first time. The Maurya Empire fully occupied the north-western parts of India by <b>316 BCE</b>. His son Bindusara and grandson <b>Ashoka</b> expanded the empire until it stretched from Afghanistan to Bengal and from the Himalayas to the Deccan. The empire lasted from 321 to 185 BCE.</p>\n<h4>Contributions of the Mauryas</h4>\n<ul>\n<li>A strong centralized administration and a spy system.</li>\n<li>A well-organized army and revenue system.</li>\n<li>Chanakya's book <b>Arthashastra</b>, a famous work on statecraft.</li>\n<li>Ashoka's policy of Dhamma, welfare works and the spread of Buddhism to Central and South-East Asia.</li>\n<li>Fine art and architecture, such as the Lion Capital and rock edicts.</li>\n</ul>\n<h4>Key Points</h4>\n<ul>\n<li>Chandragupta Maurya founded the Mauryan Empire in 321 BCE with Chanakya's help.</li>\n<li>The Mauryas united most of India for the first time.</li>\n<li>Chanakya wrote the Arthashastra on statecraft.</li>\n<li>The empire stretched from Afghanistan to Bengal at its greatest extent.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The Mauryan Dynasty was founded in 321 BCE by:",
+       "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Kanishka"
+       ],
+       "answer": 1,
+       "why": "The Mauryan Dynasty was founded by Chandragupta Maurya in 321 BCE, who overthrew the Nanda dynasty with the help of his minister Chanakya."
+      },
+      {
+       "q": "The wise minister who helped Chandragupta Maurya was:",
+       "options": [
+        "Aryabhata",
+        "Chanakya (Kautilya)",
+        "Kalidasa",
+        "Banabhatta"
+       ],
+       "answer": 1,
+       "why": "Chandragupta Maurya built his empire with the help of his wise minister Chanakya (Kautilya), author of the Arthashastra."
+      },
+      {
+       "q": "The Maurya Empire fully occupied the north-western parts of India by:",
+       "options": [
+        "316 BCE",
+        "321 BCE",
+        "185 BCE",
+        "268 BCE"
+       ],
+       "answer": 0,
+       "why": "According to the book, the Maurya Empire fully occupied the north-western parts of India by 316 BCE, a few years after its founding in 321 BCE."
+      },
+      {
+       "q": "The famous book on statecraft written by Chanakya is:",
+       "options": [
+        "Rigveda",
+        "Arthashastra",
+        "Aryabhatiya",
+        "Rajatarangini"
+       ],
+       "answer": 1,
+       "why": "Chanakya's book Arthashastra is a famous work on statecraft and administration, one of the great contributions of the Mauryan age."
+      },
+      {
+       "q": "The Mauryan Empire at its greatest stretched:",
+       "options": [
+        "Only over the Punjab",
+        "From Afghanistan to Bengal",
+        "Only over the Deccan",
+        "From Kashmir to Sri Lanka"
+       ],
+       "answer": 1,
+       "why": "Under Chandragupta, Bindusara and Ashoka, the empire stretched from Afghanistan to Bengal and from the Himalayas to the Deccan."
+      },
+      {
+       "q": "The Mauryan Empire lasted from 321 BCE to:",
+       "options": [
+        "232 BCE",
+        "185 BCE",
+        "320 CE",
+        "78 CE"
+       ],
+       "answer": 1,
+       "why": "The Mauryan Empire lasted from 321 to 185 BCE, uniting most of India for the first time under a strong centralized administration."
+      },
+      {
+       "q": "Which of these was a Mauryan contribution?",
+       "options": [
+        "The Great Wall",
+        "A strong centralized administration and revenue system",
+        "The Olympic Games",
+        "Paper making"
+       ],
+       "answer": 1,
+       "why": "Mauryan contributions include a strong centralized administration, a spy system, a well-organized army and revenue system, and fine art like the Lion Capital."
+      },
+      {
+       "q": "Chandragupta Maurya overthrew which dynasty to found his empire?",
+       "options": [
+        "Gupta",
+        "Kushan",
+        "Nanda",
+        "Shunga"
+       ],
+       "answer": 2,
+       "why": "Chandragupta Maurya, helped by Chanakya, overthrew the Nanda dynasty and united most of India for the first time."
+      },
+      {
+       "q": "The Lion Capital, now India's national emblem, belongs to the period of:",
+       "options": [
+        "The Guptas",
+        "The Mauryas (Ashoka)",
+        "The Kushans",
+        "The Aryans"
+       ],
+       "answer": 1,
+       "why": "The Lion Capital at Sarnath was created in Ashoka's time; such polished pillars and rock edicts are famous Mauryan art and architecture."
+      },
+      {
+       "q": "Bindusara was the son of:",
+       "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Chandragupta-I",
+        "Samudragupta"
+       ],
+       "answer": 1,
+       "why": "Chandragupta Maurya's son Bindusara and grandson Ashoka expanded the empire until it stretched from Afghanistan to Bengal."
+      }
+     ]
+    },
+    {
+     "title": "Ashoka and His Dhamma",
+     "notes_html": "<h4>Life of Ashoka</h4>\n<p><b>Ashoka</b> (ruled 268–232 BCE) was the grandson of Chandragupta Maurya and the greatest Mauryan emperor. He became emperor of the Mauryan Empire in <b>268 BCE</b>. In the early part of his reign he expanded the empire, but the bloody <b>Kalinga War</b> (about 261 BCE) changed his life: seeing the terrible bloodshed, suffering and deaths of thousands filled him with sorrow and remorse. He gave up wars of conquest, embraced Buddhism, and adopted <b>Dhamma</b> — conquest by righteousness instead of by the sword.</p>\n<h4>What Was Dhamma?</h4>\n<p>Dhamma was a code of morality teaching respect for parents and elders, kindness to servants and animals, tolerance of all religions and non-violence. Ashoka engraved his edicts on rocks and polished stone pillars across the empire so that everyone could read his message.</p>\n<h4>Why His Period Is a Golden Era</h4>\n<p>Ashoka's period is called a golden era because after the Kalinga War he devoted his rule to the welfare of his people. He built hospitals, roads, wells and rest houses, planted trees along roads, protected animals, and sent missions of Buddhism to other countries, including Sri Lanka and Central Asia. His empire enjoyed peace, justice and prosperity, and he ruled it peacefully for about 40 years. His famous art includes the <b>Lion Capital at Sarnath</b>, now India's national emblem.</p>\n<h4>Why Ashoka Was Forgotten for So Long</h4>\n<p>Ashoka remained unknown for a long time because his edicts were written in the <b>Brahmi script</b>, which people forgot how to read after his empire ended. For nearly two thousand years no one could read his inscriptions. Only in the 19th century (1837) did <b>James Prinsep</b> decipher the Brahmi script; historians could then read the edicts and discover that 'Devanampiya Piyadasi' of the pillars was actually Emperor Ashoka.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Ashoka became emperor in 268 BCE; the Kalinga War (261 BCE) changed his life.</li>\n<li>He gave up conquest by the sword and adopted Dhamma — conquest by righteousness.</li>\n<li>He built hospitals, roads, wells and rest houses and spread Buddhism abroad.</li>\n<li>James Prinsep deciphered Brahmi in 1837 and revealed Ashoka to history.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "King Ashoka became the emperor of the Mauryan Empire in:",
+       "options": [
+        "321 BCE",
+        "185 BCE",
+        "320 CE",
+        "268 BCE"
+       ],
+       "answer": 3,
+       "why": "Ashoka, the grandson of Chandragupta Maurya, became emperor of the Mauryan Empire in 268 BCE and ruled until 232 BCE."
+      },
+      {
+       "q": "Which war changed the mind of Ashoka?",
+       "options": [
+        "The Battle of Jhelum",
+        "The Kalinga War",
+        "The Battle of Panipat",
+        "The Trojan War"
+       ],
+       "answer": 1,
+       "why": "The Kalinga War (about 261 BCE) changed Ashoka's mind; its terrible bloodshed filled him with remorse, and he gave up wars of conquest and embraced Buddhism."
+      },
+      {
+       "q": "After the Kalinga War, Ashoka adopted the policy of:",
+       "options": [
+        "Heavy taxation",
+        "Dhamma — conquest by righteousness",
+        "Isolation from neighbours",
+        "Military expansion"
+       ],
+       "answer": 1,
+       "why": "Ashoka adopted Dhamma, a code of morality teaching respect for elders, kindness to servants and animals, tolerance and non-violence — conquest by righteousness instead of the sword."
+      },
+      {
+       "q": "Ashoka spread his message by engraving edicts on:",
+       "options": [
+        "Clay tablets",
+        "Rocks and polished stone pillars",
+        "Palm leaves",
+        "Coins only"
+       ],
+       "answer": 1,
+       "why": "Ashoka engraved his edicts on rocks and polished stone pillars across the empire so that everyone could know his message of Dhamma."
+      },
+      {
+       "q": "Ashoka's period is called a golden era because he:",
+       "options": [
+        "Conquered many new lands",
+        "Devoted his rule to the welfare of his people",
+        "Collected great treasures",
+        "Built a huge army"
+       ],
+       "answer": 1,
+       "why": "After Kalinga, Ashoka built hospitals, roads, wells and rest houses, planted trees, protected animals and spread peace and justice, so his period is called a golden era."
+      },
+      {
+       "q": "Ashoka sent missions of Buddhism to:",
+       "options": [
+        "China and Rome only",
+        "Sri Lanka and Central Asia",
+        "Egypt and Greece",
+        "Arabia and Persia"
+       ],
+       "answer": 1,
+       "why": "Ashoka sent Buddhist missions to other countries, including Sri Lanka and Central Asia, spreading Buddhism far beyond India."
+      },
+      {
+       "q": "The script of Ashoka's edicts, forgotten for centuries, was:",
+       "options": [
+        "Kharoshthi",
+        "Brahmi",
+        "Hieroglyphic",
+        "Cuneiform"
+       ],
+       "answer": 1,
+       "why": "Ashoka's edicts were written in the Brahmi script, which people forgot how to read after his empire ended, so he remained unknown for nearly two thousand years."
+      },
+      {
+       "q": "The Brahmi script was deciphered in 1837 by:",
+       "options": [
+        "Howard Carter",
+        "James Prinsep",
+        "John Marshall",
+        "Alexander Cunningham"
+       ],
+       "answer": 1,
+       "why": "In 1837 James Prinsep deciphered the Brahmi script; historians then read the edicts and discovered that 'Devanampiya Piyadasi' was Emperor Ashoka."
+      },
+      {
+       "q": "The Lion Capital, India's national emblem, stands at:",
+       "options": [
+        "Pataliputra",
+        "Sarnath",
+        "Taxila",
+        "Ujjain"
+       ],
+       "answer": 1,
+       "why": "The Lion Capital at Sarnath, created under Ashoka, is now India's national emblem and a famous example of Mauryan art."
+      },
+      {
+       "q": "Ashoka ruled his vast empire peacefully for about:",
+       "options": [
+        "10 years",
+        "20 years",
+        "40 years",
+        "60 years"
+       ],
+       "answer": 2,
+       "why": "Ashoka ruled a vast empire peacefully for about 40 years (268–232 BCE), devoting his reign to Dhamma and public welfare."
+      }
+     ]
+    },
+    {
+     "title": "The Kushans and the Guptas",
+     "notes_html": "<h4>The Kushan Era</h4>\n<p>The <b>Kushans</b> were a Central Asian tribe who built a large empire in the 1st–3rd centuries CE covering Central Asia and north-western India, with capitals at Peshawar (Purushapura) and Mathura. Their greatest king, <b>Kanishka</b> (from 78 CE), was a patron of Buddhism: he held a Buddhist council and sent missionaries who spread Buddhism along the Silk Route into China. The era is famous for flourishing trade on the <b>Silk Route</b> between China, India and Rome, gold coins of fine quality, and religious tolerance and prosperity in the region of present-day Pakistan.</p>\n<h4>Gandhara Art</h4>\n<p><b>Gandhara Art</b> flourished in the Gandhara region (the present-day Peshawar valley and surroundings) under the patronage of the Kushan kings, especially Kanishka. Because the Kushan Empire stood where Greek, Roman, Persian and Indian cultures met, its artists combined Greek-Roman techniques with Buddhist subjects — producing the first human images of Buddha with wavy hair and draped robes like Greek statues. Monasteries at places like Taxila and Takht-i-Bahi were centres of this art.</p>\n<h4>The Gupta Empire — A Golden Age</h4>\n<p>The first ruler of the Gupta Empire was <b>Chandragupta-I</b>, who founded the empire around <b>320 CE</b> and started the Gupta Era. His son Samudragupta and grandson Chandragupta-II expanded it into a great power. The Gupta period was prosperous: agriculture flourished, foreign trade brought wealth, towns and markets were busy, and fine gold coins show the empire's economic strength — that is why this age is called the <b>Golden Age of India</b>. Gupta society followed the four-caste system strictly, while Kushan society was more mixed and cosmopolitan, with many languages and religions living side by side along the Silk Route.</p>\n<h4>Gupta Mathematics and the Barter Problem</h4>\n<p>The Gupta age gave great gifts to mathematics: <b>Aryabhata</b> wrote the Aryabhatiya (499 CE) and gave the value of pi (3.1416); the concept of <b>zero</b> as a number and the decimal place-value system were developed in India in this era and spread to the world. Trade in early times also faced the problems of the <b>barter system</b> — exchanging goods directly: each person had to find someone who wanted exactly what he had (double coincidence of wants), there was no common measure of value, goods could not be divided easily or stored if perishable. These problems led people to adopt money.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Kanishka, the greatest Kushan king, patronized Buddhism and Gandhara Art.</li>\n<li>Chandragupta-I founded the Gupta Empire around 320 CE.</li>\n<li>The Gupta age is called the Golden Age of India.</li>\n<li>Zero, the decimal system and Aryabhata's astronomy are Gupta-age gifts.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Chandragupta-I was the founder of the:",
+       "options": [
+        "Maurya Empire",
+        "Gupta Empire",
+        "Kushan Empire",
+        "Mughal Empire"
+       ],
+       "answer": 1,
+       "why": "Chandragupta-I was the founder of the Gupta Empire, which he established around 320 CE; he also started the Gupta Era."
+      },
+      {
+       "q": "The greatest king of the Kushans was:",
+       "options": [
+        "Ashoka",
+        "Kanishka",
+        "Samudragupta",
+        "Harsha"
+       ],
+       "answer": 1,
+       "why": "Kanishka (from 78 CE) was the greatest Kushan king, a patron of Buddhism who held a Buddhist council and spread Buddhism along the Silk Route into China."
+      },
+      {
+       "q": "Gandhara Art is famous for:",
+       "options": [
+        "The first human images of Buddha with Greco-Roman influence",
+        "Paintings of kings",
+        "Iron pillars",
+        "Rock-cut temples of the south"
+       ],
+       "answer": 0,
+       "why": "Under the Kushans, Gandhara artists combined Greek-Roman techniques with Buddhist subjects, producing the first human images of Buddha with wavy hair and draped robes."
+      },
+      {
+       "q": "The Kushan capitals were Peshawar (Purushapura) and:",
+       "options": [
+        "Taxila",
+        "Mathura",
+        "Ujjain",
+        "Pataliputra"
+       ],
+       "answer": 1,
+       "why": "The Kushan Empire, covering Central Asia and north-western India, had capitals at Peshawar (Purushapura) and Mathura."
+      },
+      {
+       "q": "The Gupta period is called the Golden Age of India because:",
+       "options": [
+        "It had the largest army",
+        "Agriculture and trade flourished and fine gold coins show its prosperity",
+        "It conquered China",
+        "Its kings built the Great Wall"
+       ],
+       "answer": 1,
+       "why": "In the Gupta period agriculture flourished, foreign trade brought wealth, towns were busy and gold coins of fine quality show economic strength, so it is called the Golden Age."
+      },
+      {
+       "q": "Who wrote the Aryabhatiya in the Gupta age?",
+       "options": [
+        "Chanakya",
+        "Kalidasa",
+        "Aryabhata",
+        "Varahamihira"
+       ],
+       "answer": 2,
+       "why": "Aryabhata, the great mathematician-astronomer of the Gupta age, wrote the Aryabhatiya (499 CE) and gave the value of pi as 3.1416."
+      },
+      {
+       "q": "Which mathematical ideas were developed in India in the Gupta era?",
+       "options": [
+        "Algebra only",
+        "Zero as a number and the decimal place-value system",
+        "Geometry of triangles",
+        "Logarithms"
+       ],
+       "answer": 1,
+       "why": "The concept of zero (0) as a number and the decimal place-value system — the basis of our modern numerals — were developed in India in this era and spread to the world."
+      },
+      {
+       "q": "Compared with Gupta society, Kushan society was:",
+       "options": [
+        "More caste-based",
+        "More mixed and cosmopolitan, with many languages and religions",
+        "Entirely Hindu",
+        "Ruled by priests"
+       ],
+       "answer": 1,
+       "why": "Kushan society included Indians, Central Asians, Greeks and Persians along the Silk Route, so many religions and customs lived side by side, unlike the more orthodox caste-based Gupta society."
+      },
+      {
+       "q": "The main problem of the barter system was:",
+       "options": [
+        "Goods were too heavy",
+        "The double coincidence of wants — each had to find someone wanting exactly what he had",
+        "Kings banned trade",
+        "Coins were scarce"
+       ],
+       "answer": 1,
+       "why": "Barter required a double coincidence of wants, had no common measure of value, and goods could not be divided or stored easily; these problems led people to adopt money."
+      },
+      {
+       "q": "The Silk Route trade of the Kushan era connected:",
+       "options": [
+        "India with Arabia only",
+        "China, India and Rome",
+        "India with Egypt by sea",
+        "Persia with Greece"
+       ],
+       "answer": 1,
+       "why": "The Kushan era is famous for flourishing trade on the Silk Route between China, India and Rome, which brought wealth and cultural exchange."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Rise of Islamic Civilization",
+   "lessons": [
+    {
+     "title": "Life of Hazrat Muhammad (peace be upon him)",
+     "notes_html": "<h4>Early Life</h4>\n<p>Hazrat Muhammad (peace be upon him) was born in <b>Makkah</b> in <b>571 CE</b>, the Year of the Elephant. His father Abdullah had died before his birth, and his mother Amina died when he was six, so he was raised by his grandfather and then his uncle Abu Talib. He became famous for honesty and was called <b>Al-Amin</b> (the Trustworthy). At 25 he married Hazrat Khadija (RA). At the age of 40 (<b>610 CE</b>) he received the first revelation in <b>Cave Hira</b> and began preaching Islam.</p>\n<h4>From Makkah to Medina</h4>\n<p>For thirteen years in Makkah he patiently invited people to worship one Allah, enduring persecution without violence. Tired of the Makkans' oppression, some Muslims had already migrated around <b>615 CE</b> to <b>Abyssinia (Ethiopia)</b>. In <b>622 CE</b> the Prophet (peace be upon him) migrated to Medina — the <b>Hijrah</b> — where he founded the first Islamic state, built Masjid-e-Nabvi as the centre of the community, and made agreements with other tribes.</p>\n<h4>Role in Spreading Islam</h4>\n<p>He spread Islam first by his own character and preaching. In Medina he sent letters and delegations inviting the rulers of Persia, Rome (Byzantium), Egypt and Abyssinia to Islam. Through his teachings, his example of justice, honesty and mercy, and the training of his companions, Islam spread throughout Arabia in his lifetime. The main events of the Medina period include the Battles of Badr, Uhud and Khandaq, the Treaty of Hudaybiyyah, the peaceful conquest of Makkah (<b>630 CE</b>) and the Farewell Pilgrimage (632 CE), in which he delivered his famous last sermon on the equality of mankind, the rights of women and the sanctity of life and property. He passed away in Medina in <b>632 CE</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Hazrat Muhammad (peace be upon him) was born in Makkah in 571 CE and was known as Al-Amin.</li>\n<li>The first revelation came in Cave Hira in 610 CE.</li>\n<li>The Hijrah to Medina in 622 CE founded the first Islamic state and started the Islamic calendar.</li>\n<li>He conquered Makkah peacefully in 630 CE and delivered the Farewell Sermon in 632 CE.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Hazrat Muhammad (peace be upon him) was born in:",
+       "options": [
+        "571 CE",
+        "570 CE",
+        "572 CE",
+        "610 CE"
+       ],
+       "answer": 0,
+       "why": "Hazrat Muhammad (peace be upon him) was born in Makkah in 571 CE, the Year of the Elephant, as given in the book."
+      },
+      {
+       "q": "For his honesty, the young Muhammad (peace be upon him) was called:",
+       "options": [
+        "Al-Faruq",
+        "Al-Amin (the Trustworthy)",
+        "Al-Siddiq",
+        "Al-Ghani"
+       ],
+       "answer": 1,
+       "why": "He became famous for honesty and was called Al-Amin, the Trustworthy, by the people of Makkah long before prophethood."
+      },
+      {
+       "q": "The first revelation came to the Prophet (peace be upon him) in Cave Hira in:",
+       "options": [
+        "571 CE",
+        "610 CE",
+        "622 CE",
+        "630 CE"
+       ],
+       "answer": 1,
+       "why": "At the age of 40, in 610 CE, he received the first revelation in Cave Hira and began preaching Islam."
+      },
+      {
+       "q": "Tired of the Makkans' oppression, some of the Muslims migrated in around 615 CE to:",
+       "options": [
+        "Medina",
+        "Taif",
+        "Syria",
+        "Abyssinia (Ethiopia)"
+       ],
+       "answer": 3,
+       "why": "Tired of the Makkans' oppression, some of the Muslims migrated in around 615 CE to Abyssinia (Ethiopia), whose just Christian king gave them shelter."
+      },
+      {
+       "q": "The Hijrah — migration to Medina — took place in:",
+       "options": [
+        "610 CE",
+        "622 CE",
+        "624 CE",
+        "632 CE"
+       ],
+       "answer": 1,
+       "why": "The Muslims migrated to Medina in 622 CE because of Quraysh persecution; there they could worship freely and form the first Islamic state. The Hijrah starts the Islamic calendar."
+      },
+      {
+       "q": "The Muslims migrated to Medina mainly because:",
+       "options": [
+        "Medina had better trade",
+        "The Quraysh persecuted them severely and Medina's people invited the Prophet",
+        "Makkah had no water",
+        "They wanted to build a mosque"
+       ],
+       "answer": 1,
+       "why": "The Muslims were boycotted, tortured and even plotted against in Makkah, while the people of Medina had accepted Islam and invited the Prophet (peace be upon him) to lead them."
+      },
+      {
+       "q": "The peaceful conquest of Makkah took place in:",
+       "options": [
+        "622 CE",
+        "628 CE",
+        "630 CE",
+        "632 CE"
+       ],
+       "answer": 2,
+       "why": "The conquest of Makkah in 630 CE was achieved peacefully, without bloodshed, after the Treaty of Hudaybiyyah had paved the way."
+      },
+      {
+       "q": "To spread Islam beyond Arabia, the Prophet (peace be upon him) sent letters and delegations to the rulers of:",
+       "options": [
+        "China and India",
+        "Persia, Rome (Byzantium), Egypt and Abyssinia",
+        "Spain and France",
+        "Russia and Britain"
+       ],
+       "answer": 1,
+       "why": "From Medina he sent letters and delegations inviting the rulers of Persia, Rome (Byzantium), Egypt and Abyssinia to Islam."
+      },
+      {
+       "q": "The Farewell Sermon (632 CE) emphasized:",
+       "options": [
+        "Conquest of new lands",
+        "Equality of mankind, rights of women and sanctity of life and property",
+        "Collection of taxes",
+        "Building of mosques"
+       ],
+       "answer": 1,
+       "why": "The Farewell Sermon summarized the message of Islam — equality of mankind, rights of women, and sanctity of life and property."
+      },
+      {
+       "q": "The first Islamic state was established at:",
+       "options": [
+        "Makkah",
+        "Taif",
+        "Medina",
+        "Kufa"
+       ],
+       "answer": 2,
+       "why": "After the Hijrah, the Prophet (peace be upon him) established the first Islamic state at Medina and built Masjid-e-Nabvi as the centre of the community."
+      }
+     ]
+    },
+    {
+     "title": "Battles of Islam and the Treaty of Hudaybiyyah",
+     "notes_html": "<h4>The Battle of Badr (624 CE)</h4>\n<p>The <b>Battle of Badr</b> was the first great battle of Islam, fought in <b>624 CE</b> between <b>313 Muslims</b> led by the Prophet (peace be upon him) and about 1,000 Quraysh of Makkah. Despite being few and poorly equipped, the Muslims won a decisive victory through faith, discipline and Allah's help. Many leading enemies were killed, and the victory established the Muslims as a strong power in Arabia.</p>\n<h4>The Battle of Uhud (625 CE)</h4>\n<p>The <b>Battle of Uhud</b> was fought in <b>625 CE</b> (3 AH), a year after Badr, at Mount Uhud near Medina. The Quraysh came with a large army to take revenge for Badr. The Muslims fought bravely but suffered heavy losses — including the martyrdom of Hazrat Hamza (RA) — when some archers left their post against orders. The battle taught the Muslims the importance of complete obedience to the Prophet (peace be upon him).</p>\n<h4>The Battle of Khandaq — the Trench (627 CE)</h4>\n<p>In the <b>Battle of Khandaq</b> (627 CE), a confederacy of about 10,000 men besieged Medina. On the advice of Hazrat Salman Farsi (RA), the Muslims dug a deep trench around the open side of the city, which the enemy cavalry could not cross. After a long siege, hunger, cold winds and divisions forced the enemy to withdraw. Outcomes: Makkah's power to attack Medina was broken forever, the prestige of the Muslims rose, and the initiative passed to the Muslims.</p>\n<h4>The Treaty of Hudaybiyyah (628 CE)</h4>\n<p>The <b>Treaty of Hudaybiyyah</b> (628 CE / 6 AH) was a peace treaty between the Muslims of Medina and the Quraysh of Makkah, signed when the Muslims were stopped from performing Umrah. Its terms included a ten-year truce, the Muslims returning that year and performing Umrah the next year, and freedom for tribes to ally with either side. Although it looked unfavourable, it proved a 'clear victory': Islam spread rapidly in the peace that followed, and it paved the way for the conquest of Makkah.</p>\n<h4>Key Points</h4>\n<ul>\n<li>At Badr (624 CE), 313 Muslims defeated about 1,000 Quraysh.</li>\n<li>At Uhud (625 CE), the archers leaving their post caused heavy Muslim losses.</li>\n<li>At Khandaq (627 CE), a trench dug on Salman Farsi's advice saved Medina.</li>\n<li>The Treaty of Hudaybiyyah (628 CE) brought ten years of peace and rapid spread of Islam.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "He led 313 warriors in the Battle of Badr in:",
+       "options": [
+        "622 CE",
+        "624 CE",
+        "625 CE",
+        "630 CE"
+       ],
+       "answer": 1,
+       "why": "The Prophet (peace be upon him) led 313 warriors in the Battle of Badr in 624 CE, winning a decisive victory over about 1,000 Quraysh of Makkah."
+      },
+      {
+       "q": "The Muslims at Badr numbered 313, while the Quraysh army was about:",
+       "options": [
+        "300",
+        "500",
+        "1,000",
+        "10,000"
+       ],
+       "answer": 2,
+       "why": "At Badr, 313 poorly equipped Muslims faced about 1,000 Quraysh and won through faith, discipline and Allah's help."
+      },
+      {
+       "q": "The Battle of Uhud was fought in:",
+       "options": [
+        "624 CE",
+        "625 CE",
+        "627 CE",
+        "628 CE"
+       ],
+       "answer": 1,
+       "why": "The Battle of Uhud was fought in 625 CE (3 AH), a year after Badr, at Mount Uhud near Medina."
+      },
+      {
+       "q": "The Muslims suffered heavy losses at Uhud mainly because:",
+       "options": [
+        "Their army was too small",
+        "Some archers left their post against orders",
+        "The enemy used elephants",
+        "A storm broke out"
+       ],
+       "answer": 1,
+       "why": "At Uhud the Muslims suffered heavy losses, including the martyrdom of Hazrat Hamza (RA), when some archers left their post against orders — teaching the importance of obedience."
+      },
+      {
+       "q": "Hazrat Hamza (RA) was martyred in the Battle of:",
+       "options": [
+        "Badr",
+        "Uhud",
+        "Khandaq",
+        "Hunayn"
+       ],
+       "answer": 1,
+       "why": "Hazrat Hamza (RA), the uncle of the Prophet (peace be upon him), was martyred in the Battle of Uhud in 625 CE."
+      },
+      {
+       "q": "The trench at Medina in 627 CE was dug on the advice of:",
+       "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Salman Farsi (RA)",
+        "Hazrat Ali (RA)"
+       ],
+       "answer": 2,
+       "why": "On the advice of Hazrat Salman Farsi (RA), the Muslims dug a deep trench around the open side of Medina, which the enemy cavalry could not cross."
+      },
+      {
+       "q": "The Battle of Khandaq ended with:",
+       "options": [
+        "Conquest of Medina by Quraysh",
+        "Withdrawal of the confederate army after a long siege",
+        "A treaty at Hudaybiyyah",
+        "Migration of the Muslims"
+       ],
+       "answer": 1,
+       "why": "Hunger, cold winds and divisions forced the confederate army of about 10,000 to withdraw; Makkah's power to attack Medina was broken forever."
+      },
+      {
+       "q": "The Treaty of Hudaybiyyah was signed in:",
+       "options": [
+        "624 CE",
+        "625 CE",
+        "628 CE",
+        "630 CE"
+       ],
+       "answer": 2,
+       "why": "The Treaty of Hudaybiyyah (628 CE / 6 AH) was a peace treaty between the Muslims of Medina and the Quraysh of Makkah."
+      },
+      {
+       "q": "An important term of the Treaty of Hudaybiyyah was:",
+       "options": [
+        "A ten-year truce between Muslims and Quraysh",
+        "Muslims would leave Medina",
+        "Quraysh would pay tribute",
+        "War would continue"
+       ],
+       "answer": 0,
+       "why": "The treaty included a ten-year truce, the Muslims returning that year and performing Umrah the next year, and freedom for tribes to ally with either side."
+      },
+      {
+       "q": "The Treaty of Hudaybiyyah is called a 'clear victory' because:",
+       "options": [
+        "The Muslims captured Makkah at once",
+        "Islam spread rapidly in the peace that followed",
+        "The Quraysh army was destroyed",
+        "It ended all taxes"
+       ],
+       "answer": 1,
+       "why": "Although it looked unfavourable, the treaty proved a clear victory: Islam spread rapidly in the peace that followed, and it paved the way for the conquest of Makkah."
+      }
+     ]
+    },
+    {
+     "title": "The Rashidun Caliphs",
+     "notes_html": "<h4>Hazrat Abu Bakr Siddiq (RA) — The First Caliph</h4>\n<p><b>Hazrat Abu Bakr Siddiq (RA)</b> (632–634 CE), the first Caliph, saved the Islamic state at its most dangerous moment. He faced severe challenges: false prophets like Musaylima arose claiming prophethood; many tribes rebelled and refused to pay zakat; and the empires of Persia and Rome threatened the borders. He met all these with firmness and faith: he fought the <b>Ridda wars</b>, enforced zakat, kept the state united, had the Holy Quran collected in book form, and sent armies towards Iraq and Syria, opening the way for Islam to spread beyond Arabia.</p>\n<h4>Hazrat Umar Bin Khattab (RA) — The Second Caliph</h4>\n<p><b>Hazrat Umar Bin Khattab (RA)</b> (634–644 CE) was the <b>second</b> Rashid Caliph. Under him Islam spread rapidly: Persia (Iraq and Iran), Syria, Palestine and Egypt came under Muslim rule. He organized the state with departments, courts, a calendar (Hijri) and stipends, and ruled with famous justice, so people of conquered lands welcomed Muslim rule and Islam spread widely and peacefully.</p>\n<h4>Hazrat Usman Ghani (RA) — The Third Caliph</h4>\n<p><b>Hazrat Usman Ghani (RA)</b> remained Caliph for about <b>twelve years</b>, from 644 CE to 656 CE. During his caliphate the Islamic state expanded greatly and the navy was established. His greatest service was the compilation of the authentic, standard copy of the Holy Quran, sent to all provinces — that is why he is called <b>Jami-ul-Quran</b> (compiler of the Quran). His martyrdom in 656 CE was the first great internal tragedy of the Muslim community: disagreement over bringing his killers to justice led to conflicts during the caliphate of Hazrat Ali (RA), and the unity of the caliphate was shaken.</p>\n<h4>Hazrat Ali (RA) — The Fourth Caliph</h4>\n<p><b>Hazrat Ali (RA)</b>, the fourth Caliph, remained Caliph for about <b>five years</b>. His caliphate faced the conflicts that followed the martyrdom of Hazrat Usman (RA), including the battles of Jamal and Siffin. The four Rashidun Caliphs together ruled for about thirty years and carried Islam from Arabia into Persia, Syria, Palestine and Egypt.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Abu Bakr (RA) united Arabia through the Ridda wars and compiled the Quran in book form.</li>\n<li>Umar (RA), the second caliph, organized the state and saw Islam reach Persia, Syria and Egypt.</li>\n<li>Usman (RA) ruled about twelve years and prepared the standard copy of the Quran — Jami-ul-Quran.</li>\n<li>Ali (RA), the fourth caliph, remained caliph for about five years.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Hazrat Umar Bin Khattab (RA) was the Rashid Caliph:",
+       "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+       ],
+       "answer": 1,
+       "why": "Hazrat Umar Bin Khattab (RA) was the second Rashid Caliph (634–644 CE), after Hazrat Abu Bakr Siddiq (RA)."
+      },
+      {
+       "q": "Hazrat Ali (RA) remained Caliph for:",
+       "options": [
+        "Two years",
+        "Five years",
+        "Ten years",
+        "Twelve years"
+       ],
+       "answer": 1,
+       "why": "Hazrat Ali (RA), the fourth Caliph, remained Caliph for about five years, as given in the book."
+      },
+      {
+       "q": "The first Caliph of Islam was:",
+       "options": [
+        "Hazrat Umar (RA)",
+        "Hazrat Usman (RA)",
+        "Hazrat Abu Bakr Siddiq (RA)",
+        "Hazrat Ali (RA)"
+       ],
+       "answer": 2,
+       "why": "Hazrat Abu Bakr Siddiq (RA) (632–634 CE) was the first Caliph, who saved the Islamic state at its most dangerous moment."
+      },
+      {
+       "q": "The wars fought by Abu Bakr (RA) against false prophets and rebellious tribes are called:",
+       "options": [
+        "The Crusades",
+        "The Ridda wars",
+        "The Persian wars",
+        "The Roman wars"
+       ],
+       "answer": 1,
+       "why": "Abu Bakr (RA) fought the Ridda (apostasy) wars against false prophets like Musaylima and tribes that refused zakat, and reunited Arabia within two years."
+      },
+      {
+       "q": "Abu Bakr (RA) had the Holy Quran:",
+       "options": [
+        "Translated into Persian",
+        "Collected in book form",
+        "Sent to China",
+        "Printed in Makkah"
+       ],
+       "answer": 1,
+       "why": "Among Abu Bakr's (RA) great services, he had the Holy Quran collected in book form to preserve it after many memorizers were martyred in battle."
+      },
+      {
+       "q": "Under Hazrat Umar (RA), which regions came under Muslim rule?",
+       "options": [
+        "Spain and France",
+        "Persia, Syria, Palestine and Egypt",
+        "India and China",
+        "Only Arabia"
+       ],
+       "answer": 1,
+       "why": "Under Umar (RA), Islam spread rapidly: Persia (Iraq and Iran), Syria, Palestine and Egypt came under Muslim rule."
+      },
+      {
+       "q": "Hazrat Umar (RA) organized the state by introducing:",
+       "options": [
+        "Departments, courts, the Hijri calendar and stipends",
+        "A new language",
+        "Paper currency",
+        "Standing navies only"
+       ],
+       "answer": 0,
+       "why": "Umar (RA) organized the state with departments, courts, a calendar (Hijri) and stipends, and ruled with famous justice."
+      },
+      {
+       "q": "Hazrat Usman Ghani (RA) remained Caliph for about:",
+       "options": [
+        "Two years",
+        "Five years",
+        "Ten years",
+        "Twelve years"
+       ],
+       "answer": 3,
+       "why": "Hazrat Usman Ghani (RA) remained Caliph for about twelve years, from 644 CE to 656 CE (23–35 AH)."
+      },
+      {
+       "q": "Hazrat Usman (RA) is called Jami-ul-Quran because he:",
+       "options": [
+        "Memorized the Quran first",
+        "Compiled the authentic, standard copy of the Holy Quran",
+        "Wrote a commentary of the Quran",
+        "Taught the Quran in Medina"
+       ],
+       "answer": 1,
+       "why": "Usman's (RA) greatest service was the compilation of the authentic, standard copy of the Holy Quran, sent to all provinces — hence his title Jami-ul-Quran."
+      },
+      {
+       "q": "An impact of the martyrdom of Hazrat Usman (RA) was:",
+       "options": [
+        "End of the caliphate",
+        "Internal strife (fitna) and conflicts during Hazrat Ali's (RA) caliphate",
+        "Conquest of Persia",
+        "The Hijrah to Medina"
+       ],
+       "answer": 1,
+       "why": "Usman's martyrdom in 656 CE opened the door to civil strife; disagreement over his killers led to the battles of Jamal and Siffin in Ali's (RA) caliphate and shook the unity of the caliphate."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
