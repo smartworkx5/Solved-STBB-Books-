@@ -1,0 +1,2929 @@
+{
+ "book": "kptbb-c6-general-science-not-stated",
+ "chapters": [
+  {
+   "title": "Unit 1: Cellular Organization of Plants and Animals",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A cell is the structural and functional unit of living organisms.</li><li>Muscle is a tissue: cells of the same kind group together to perform one function and make a tissue.</li><li>The circulatory system transports digested food to all parts of the body.</li><li>The nucleus controls all the activities of the cell, just as the brain controls the body.</li><li>Centrioles are present in animal cells; plants prepare food in their chloroplasts.</li><li>Euglena is a unicellular organism; it can be seen clearly with a microscope.</li><li>Mitochondria are called the power house of the cell.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. A cell is the ______ and functional unit of living organisms.</p><p><strong>Ans:</strong> structural</p><p><strong>Q:</strong> 2. Centriole is present in ______ cell.</p><p><strong>Ans:</strong> animal</p><p><strong>Q:</strong> 3. Cell membrane is the outer most covering in ______ cells.</p><p><strong>Ans:</strong> animal</p><p><strong>Q:</strong> 4. Euglena is a ______ organism.</p><p><strong>Ans:</strong> unicellular</p><p><strong>Q:</strong> 5. Plants prepare food in their ______.</p><p><strong>Ans:</strong> chloroplast</p><p><strong>Exercise B: Choose the correct answer:</strong></p><p><strong>Q:</strong> 1. Muscle is a type of ______.</p><p><strong>Options:</strong> (a) cell (b) tissue (c) organ (d) system</p><p><strong>Correct answer:</strong> tissue</p><p><strong>Q:</strong> 2. A branch on a stem is a part of ______ system.</p><p><strong>Options:</strong> (a) root (b) branch (c) shoot (d) conducting</p><p><strong>Correct answer:</strong> shoot</p><p><strong>Q:</strong> 3. Which system of your body is responsible for the transport of digested food?</p><p><strong>Options:</strong> (a) digestive system (b) circulatory system (c) respiratory system (d) skeletal system</p><p><strong>Correct answer:</strong> circulatory system</p><p><strong>Q:</strong> 4. Brain controls the body just like the ______ controls activities of a cell.</p><p><strong>Options:</strong> (a) mitochondria (b) cytoplasm (c) nucleus (d) ribosomes</p><p><strong>Correct answer:</strong> nucleus</p><p><strong>Q:</strong> 5. Which instrument can help to see amoeba clearly?</p><p><strong>Options:</strong> (a) hand lens (b) microscope (c) telescope (d) both b and c</p><p><strong>Correct answer:</strong> microscope</p><p><strong>Exercise C: Match Column A with Column B:</strong></p><p><strong>Q:</strong> 1. Vacuole</p><p><strong>Ans:</strong> store waste material of cells</p><p><strong>Q:</strong> 2. Mitochondria</p><p><strong>Ans:</strong> power house of the cell</p><p><strong>Q:</strong> 3. Nucleus</p><p><strong>Ans:</strong> control cell activities</p><p><strong>Q:</strong> 4. Chloroplast</p><p><strong>Ans:</strong> help in food preparation</p><p><strong>Q:</strong> 5. Cell wall</p><p><strong>Ans:</strong> outer layer of plant cell</p>",
+     "mcqs": [
+      {
+       "q": "Muscle is a type of ______.",
+       "options": [
+        "cell",
+        "tissue",
+        "organ",
+        "system"
+       ],
+       "answer": 1,
+       "why": "Many cells of the same kind join together to perform one job. Muscle is made of many muscle cells working together, so muscle is a tissue, not a single cell, an organ or a system."
+      },
+      {
+       "q": "A branch on a stem is a part of ______ system.",
+       "options": [
+        "root",
+        "branch",
+        "shoot",
+        "conducting"
+       ],
+       "answer": 2,
+       "why": "The part of the plant above the ground — the stem, its branches and the leaves — is the shoot system. A branch grows on the stem, so it is a part of the shoot system."
+      },
+      {
+       "q": "Which system of your body is responsible for the transport of digested food?",
+       "options": [
+        "digestive system",
+        "circulatory system",
+        "respiratory system",
+        "skeletal system"
+       ],
+       "answer": 1,
+       "why": "The circulatory system (heart and blood vessels) carries the digested food, dissolved in the blood, to all parts of the body. The digestive system only breaks the food down."
+      },
+      {
+       "q": "Brain controls the body just like the ______ controls activities of a cell.",
+       "options": [
+        "mitochondria",
+        "cytoplasm",
+        "nucleus",
+        "ribosomes"
+       ],
+       "answer": 2,
+       "why": "The nucleus is the control centre of the cell: it controls all the activities of the cell, just as the brain controls the whole body."
+      },
+      {
+       "q": "Which instrument can help to see amoeba clearly?",
+       "options": [
+        "hand lens",
+        "microscope",
+        "telescope",
+        "binoculars"
+       ],
+       "answer": 1,
+       "why": "An amoeba is a microscopic unicellular organism, far too small to be seen clearly with a hand lens. Only a microscope magnifies it enough. (The book's printed fourth option 'both b and c' is replaced here by 'binoculars', because a telescope is used for distant objects and cannot show an amoeba.)"
+      },
+      {
+       "q": "A cell is the ______ and functional unit of living organisms.",
+       "options": [
+        "structural",
+        "chemical",
+        "mechanical",
+        "electrical"
+       ],
+       "answer": 0,
+       "why": "Every living body is built of cells and every life activity takes place inside cells, so the cell is called the structural and functional unit of living organisms."
+      },
+      {
+       "q": "Centriole is present in ______ cell.",
+       "options": [
+        "plant",
+        "animal",
+        "bacterial",
+        "fungal"
+       ],
+       "answer": 1,
+       "why": "Centrioles are small bodies near the nucleus that take part in cell division. They are present in animal cells and are absent in plant cells."
+      },
+      {
+       "q": "Euglena is a ______ organism.",
+       "options": [
+        "multicellular",
+        "colonial",
+        "unicellular",
+        "non-living"
+       ],
+       "answer": 2,
+       "why": "The whole body of Euglena is made of only one cell, and that one cell performs all the life activities. Such an organism is called unicellular."
+      },
+      {
+       "q": "Plants prepare food in their ______.",
+       "options": [
+        "mitochondria",
+        "nucleus",
+        "chloroplast",
+        "vacuole"
+       ],
+       "answer": 2,
+       "why": "Chloroplasts are the green bodies in plant cells that contain chlorophyll. Plants prepare their food by photosynthesis inside the chloroplasts."
+      },
+      {
+       "q": "Which cell part is called the power house of the cell?",
+       "options": [
+        "Vacuole",
+        "Mitochondria",
+        "Nucleus",
+        "Cell wall"
+       ],
+       "answer": 1,
+       "why": "Mitochondria produce energy for the cell from food, so they are called the power house of the cell. The vacuole stores material and the nucleus controls the cell."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>An animal cell is bounded by the cell membrane; a plant cell also has a hard cell wall outside the membrane.</li><li>Plant cells have chloroplasts and one large central vacuole; animal cells have small vacuoles and centrioles.</li><li>Organization in a multicellular organism: Cell, then Tissue, then Organ, then Organ System, then Organism.</li><li>If the respiratory system does not work properly, enough energy is not produced from food and the person feels weak and may suffocate.</li><li>Parts of a light microscope: eye piece, nose piece, objective lenses, stage, coarse adjustment knob and fine adjustment knob.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise D: Label the following diagrams:</strong></p><p><strong>Q:</strong> 1. Label the diagram of an Animal Cell.</p><p><strong>Ans:</strong> Diagram (in words): The animal cell is an oval cell bounded by the cell (plasma) membrane, which is its outer most covering. Inside it, the labels are: Vacuole (a small sac-like structure near the top), Mitochondrion (oval bodies that produce energy), Nucleus (the large round body in the centre which controls all activities of the cell), Centrioles (two small bodies near the nucleus, each composed of 9 microtubules, involved in cell division) and Cytoplasm (the jelly-like liquid filling the cell).</p><p><strong>Q:</strong> 2. Label the diagram of a Plant Cell.</p><p><strong>Ans:</strong> Diagram (in words): The plant cell is a rectangular cell. Its labels are: Cell wall (the hard outer most covering), Cell membrane (present just under the cell wall), Chloroplast (green bodies containing chlorophyll), Vacuole membrane (the covering of the vacuole), Large central vacuole (the big sac in the centre), Nucleus (the round body on one side), Mitochondrion (energy-producing body) and Cytoplasm (the liquid filling the cell).</p><p><strong>Exercise E: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. What will happen to a person whose respiratory system is not working properly?</p><p><strong>Ans:</strong> The respiratory system helps in the production of energy from the food. If the respiratory system of a person is not working properly, he will not be able to breathe in air properly, so enough energy will not be produced from the food and the person will feel weak and may even suffocate.</p><p><strong>Q:</strong> 2. Describe basic organization of a multicellular organism.</p><p><strong>Ans:</strong> In a multicellular organism the organization is: Cell, then Tissue, then Organ, then Organ System, then Organism. Cells which perform the same function group together to make a tissue. Different tissues work together to make an organ. Many organs work together to make a system, and many systems combine to make the organism.</p><p><strong>Q:</strong> 3. Differentiate between an animal and a plant cell.</p><p><strong>Ans:</strong> A plant cell has a cell wall which is its outer most covering, but an animal cell has no cell wall and its cell membrane is the outer most covering. A plant cell has chloroplasts and one large central vacuole, while an animal cell has no chloroplast and has small vacuoles. Centrioles are present in animal cells but not in plant cells. Both cells have a cell membrane, cytoplasm, nucleus and mitochondria in common.</p><p><strong>Q:</strong> 4. Draw the diagram of a microscope and name its different parts.</p><p><strong>Ans:</strong> Diagram (in words): A light microscope has the following parts. Eye Piece: it magnifies the image many times. Nose Piece: it is turned to change the magnification of objective lenses. Objective Lenses: three lenses with different magnification. Stage: the area on which a slide is placed. Coarse Adjustment Knob: it moves the stage up and down for adjustment. Fine Adjustment Knob: it moves the body tube for sharpening the image. Mirror: it reflects light on the slide.</p>",
+     "mcqs": [
+      {
+       "q": "What is the outer most covering of an animal cell?",
+       "options": [
+        "cell wall",
+        "cell membrane",
+        "nucleus",
+        "cytoplasm"
+       ],
+       "answer": 1,
+       "why": "An animal cell has no cell wall. It is bounded by the thin cell (plasma) membrane, which is its outer most covering."
+      },
+      {
+       "q": "What is the outer most covering of a plant cell?",
+       "options": [
+        "cell membrane",
+        "chloroplast",
+        "cell wall",
+        "vacuole"
+       ],
+       "answer": 2,
+       "why": "A plant cell has a hard cell wall outside the cell membrane. The cell wall is the outer most covering of a plant cell and gives it a fixed shape."
+      },
+      {
+       "q": "Each centriole in an animal cell is composed of how many microtubules?",
+       "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+       ],
+       "answer": 2,
+       "why": "The diagram answer in this unit states that each centriole is composed of 9 microtubules, and the two centrioles near the nucleus are involved in cell division."
+      },
+      {
+       "q": "What is the first (lowest) level of organization in a multicellular organism?",
+       "options": [
+        "tissue",
+        "organ",
+        "cell",
+        "organ system"
+       ],
+       "answer": 2,
+       "why": "The organization of a multicellular organism starts from the cell: cell, then tissue, then organ, then organ system, and finally the organism."
+      },
+      {
+       "q": "Cells which perform the same function group together to make a ______.",
+       "options": [
+        "organ",
+        "system",
+        "tissue",
+        "organism"
+       ],
+       "answer": 2,
+       "why": "A group of cells of the same kind performing the same function is called a tissue, for example muscle tissue."
+      },
+      {
+       "q": "If the respiratory system of a person is not working properly, he may ______.",
+       "options": [
+        "feel weak and may even suffocate",
+        "grow faster",
+        "digest food quickly",
+        "see more clearly"
+       ],
+       "answer": 0,
+       "why": "The respiratory system helps in producing energy from food by taking in air. If it does not work properly, enough energy is not produced, so the person feels weak and may even suffocate."
+      },
+      {
+       "q": "How is the vacuole of a plant cell different from that of an animal cell?",
+       "options": [
+        "plant cell has one large central vacuole",
+        "plant cell has no vacuole",
+        "animal cell has one large vacuole",
+        "both cells have no vacuole"
+       ],
+       "answer": 0,
+       "why": "A plant cell has one large central vacuole, while an animal cell has only small vacuoles. Plant cells also have chloroplasts, which animal cells do not have."
+      },
+      {
+       "q": "Which part of a microscope magnifies the image many times?",
+       "options": [
+        "stage",
+        "eye piece",
+        "nose piece",
+        "mirror"
+       ],
+       "answer": 1,
+       "why": "In a light microscope, the eye piece is the lens at the top through which we look; it magnifies the image many times."
+      },
+      {
+       "q": "The stage of a microscope is the area on which ______.",
+       "options": [
+        "the slide is placed",
+        "the lens is fixed",
+        "light is produced",
+        "the eye rests"
+       ],
+       "answer": 0,
+       "why": "The stage is the flat area of the microscope on which the slide containing the specimen is placed for observation."
+      },
+      {
+       "q": "Many organs work together to make a ______.",
+       "options": [
+        "tissue",
+        "cell",
+        "organ system",
+        "organism"
+       ],
+       "answer": 2,
+       "why": "Different tissues make an organ, and many organs working together for one function make an organ system, such as the digestive system."
+      }
+     ]
+    },
+    {
+     "title": "Project Work",
+     "notes_html": "<h4>Project Work</h4><p><strong>Q:</strong> Draw the organs involved in the human digestive system and order them in the right sequence on a chart or on a table.</p><p><strong>Ans:</strong> The organs of the human digestive system in the right sequence are: 1. Mouth, 2. Oesophagus, 3. Stomach, 4. Small intestine, 5. Large intestine, 6. Rectum, 7. Anus. These organs work together for the digestion of food.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Sense Organs",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Receptor cells present in the sense organs receive stimuli like light, sound, taste and smell.</li><li>The retina is the layer of the eye that has sensory cells; the optic nerve takes its signals to the brain.</li><li>The ear drum vibrates when sound waves strike it; hearing is helped by the auditory nerve.</li><li>The tongue is the organ of taste; the sensations of sour and salty tastes are received on the sides of the tongue.</li><li>We smell odorous substances through the nose.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. Receptor cells are present in ______ organs.</p><p><strong>Ans:</strong> sense</p><p><strong>Q:</strong> 2. The layer of the eye that has sensory cells is called ______.</p><p><strong>Ans:</strong> retina</p><p><strong>Q:</strong> 3. Vibration of the ear drum is due to ______ waves.</p><p><strong>Ans:</strong> sound</p><p><strong>Q:</strong> 4. The sensation relating to sour and salty tastes are received by receptor cells located on the ______ of the tongue.</p><p><strong>Ans:</strong> sides</p><p><strong>Q:</strong> 5. You can smell odorous substances through your ______.</p><p><strong>Ans:</strong> nose</p><p><strong>Exercise B: Select the best answers:</strong></p><p><strong>Q:</strong> 1. We can sense different stimuli due to</p><p><strong>Options:</strong> (a) sense organs (b) blood (c) environment (d) nutrition</p><p><strong>Correct answer:</strong> sense organs</p><p><strong>Q:</strong> 2. In the eye, sensory cells are located on</p><p><strong>Options:</strong> (a) choroid (b) sclera (c) iris (d) retina</p><p><strong>Correct answer:</strong> retina</p><p><strong>Q:</strong> 3. The optic nerves behind the retina take signals to the</p><p><strong>Options:</strong> (a) arm (b) brain (c) ear (d) nose</p><p><strong>Correct answer:</strong> brain</p><p><strong>Q:</strong> 4. Hearing is helped by</p><p><strong>Options:</strong> (a) optic nerve (b) auditory nerve (c) sensory nerve (d) motor nerve</p><p><strong>Correct answer:</strong> auditory nerve</p><p><strong>Q:</strong> 5. Which organ is used for tasting?</p><p><strong>Options:</strong> (a) nose (b) ear (c) tongue (d) eye</p><p><strong>Correct answer:</strong> tongue</p>",
+     "mcqs": [
+      {
+       "q": "We can sense different stimuli due to ______.",
+       "options": [
+        "sense organs",
+        "blood",
+        "environment",
+        "nutrition"
+       ],
+       "answer": 0,
+       "why": "Stimuli such as light, sound, taste, smell and touch are received by our sense organs — eyes, ears, tongue, nose and skin — so we are able to sense them."
+      },
+      {
+       "q": "In the eye, sensory cells are located on ______.",
+       "options": [
+        "choroid",
+        "sclera",
+        "iris",
+        "retina"
+       ],
+       "answer": 3,
+       "why": "The retina is the layer of the eye which contains the sensory (light-sensitive) cells. The image of an object is formed on the retina."
+      },
+      {
+       "q": "The optic nerves behind the retina take signals to the ______.",
+       "options": [
+        "arm",
+        "brain",
+        "ear",
+        "nose"
+       ],
+       "answer": 1,
+       "why": "The image formed on the retina is converted into signals, and the optic nerve carries these signals to the brain, which interprets them as sight."
+      },
+      {
+       "q": "Hearing is helped by ______.",
+       "options": [
+        "optic nerve",
+        "auditory nerve",
+        "sensory nerve",
+        "motor nerve"
+       ],
+       "answer": 1,
+       "why": "The vibrations received by the inner ear are carried to the brain by the auditory nerve, so hearing is helped by the auditory nerve."
+      },
+      {
+       "q": "Which organ is used for tasting?",
+       "options": [
+        "nose",
+        "ear",
+        "tongue",
+        "eye"
+       ],
+       "answer": 2,
+       "why": "The tongue has taste buds with receptor cells for sweet, sour, salty and bitter tastes, so the tongue is the organ used for tasting."
+      },
+      {
+       "q": "Receptor cells are present in ______ organs.",
+       "options": [
+        "digestive",
+        "sense",
+        "respiratory",
+        "reproductive"
+       ],
+       "answer": 1,
+       "why": "Receptor cells are the special cells that receive stimuli from the surroundings. They are present in the sense organs such as the eyes, ears, nose, tongue and skin."
+      },
+      {
+       "q": "The layer of the eye that has sensory cells is called ______.",
+       "options": [
+        "cornea",
+        "iris",
+        "retina",
+        "pupil"
+       ],
+       "answer": 2,
+       "why": "Of all the parts of the eye, only the retina has sensory cells. Light falls on the retina and its sensory cells send the message to the brain."
+      },
+      {
+       "q": "Vibration of the ear drum is due to ______ waves.",
+       "options": [
+        "light",
+        "sound",
+        "water",
+        "heat"
+       ],
+       "answer": 1,
+       "why": "Sound waves collected by the outer ear travel through the ear canal and strike the ear drum, which makes the ear drum vibrate."
+      },
+      {
+       "q": "The sensations relating to sour and salty tastes are received by receptor cells located on the ______ of the tongue.",
+       "options": [
+        "tip",
+        "back",
+        "sides",
+        "centre"
+       ],
+       "answer": 2,
+       "why": "Different parts of the tongue receive different tastes. The receptor cells for sour and salty tastes are located on the sides of the tongue."
+      },
+      {
+       "q": "You can smell odorous substances through your ______.",
+       "options": [
+        "ear",
+        "nose",
+        "skin",
+        "tongue"
+       ],
+       "answer": 1,
+       "why": "The nose contains receptor cells for smell. Odorous substances present in the air reach these cells, and we smell them through the nose."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>The ear has three parts: outer ear (pinna and ear canal), middle ear (ear drum and three tiny bones called ossicles) and inner ear (semi-circular canals and cochlea).</li><li>The eye is a hollow, spherical eyeball with three layers; the outer most white layer is the sclerotic (sclera) and its thin transparent front part is the cornea.</li><li>An inverted image is formed on the retina; the brain interprets it and gives the sensation of an upright image.</li><li>Bitter taste buds are at the back of the tongue, sour taste buds on the sides and sweet taste buds in the central part.</li><li>After eating sweets, the sweet receptor cells become less sensitive for some time, so tea seems tasteless.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise C: Label the following diagrams:</strong></p><p><strong>Q:</strong> 1. Label the diagram of the Human Ear.</p><p><strong>Ans:</strong> Diagram (in words): The human ear has three main parts. Outer ear: Pinna (the outer funnel-like part that collects sound waves) and Ear canal (the hollow tube leading to the ear drum). Middle ear: Ear drum (the membrane at the end of the ear canal) and the Set of ear bones (three tiny bones called ossicles). Inner ear: Semi-circular canals (which also help in maintaining the balance of the body), Cochlea (the coiled, snail shell shaped structure filled with fluid) and Auditory nerve (which carries the messages to the brain).</p><p><strong>Q:</strong> 2. Label the diagram of the Human Eye.</p><p><strong>Ans:</strong> Diagram (in words): The human eye is a hollow, spherical eyeball with three layers. Its labels are: Sclerotic (the outer most white layer, also called sclera), Cornea (the thin transparent front part of the sclerotic layer), Aqueous humour (the fluid behind the cornea), Lens (behind the pupil, attached to muscles), Iris (the coloured part behind the cornea), Pupil (the small opening in the centre of the iris), Choroid (the black middle layer filled with blood vessels), Retina (the inner most layer made of sensory cells), Vitreous humour (the jelly filling the eyeball), Yellow spot (a point on the retina) and Optic nerve (which takes the signals to the brain).</p><p><strong>Exercise D: Answer the short questions:</strong></p><p><strong>Q:</strong> 1. Explain how we see different objects and pictures.</p><p><strong>Ans:</strong> Light reflects from an object and enters the eye through the cornea. It then passes through the eye lens and is focussed on the retina, where an inverted image of the object is formed. This image is sent to the brain through the optic nerve. The brain interprets it and gives the sensation of an upright image of that object. The brain also works out the size and distance of that object. In this way we see different objects and pictures.</p><p><strong>Q:</strong> 2. Why do we not feel the taste of a bitter almond till we have chewed it a bit?</p><p><strong>Ans:</strong> The taste buds for bitter taste are located at the back of the tongue. An unchewed bitter almond does not touch those taste buds, so its chemicals do not react with the taste receptor cells. When we chew it a bit, its juice reaches the back of the tongue and reacts with the bitter taste receptor cells, and only then we feel its bitter taste.</p><p><strong>Q:</strong> 3. Why do we find tea to be tasteless after we have eaten sweets or candies?</p><p><strong>Ans:</strong> When we eat sweets or candies, the sweet taste receptor cells of the tongue are strongly stimulated and become used to (less sensitive to) the sweet taste for some time. Tea contains only a little sugar, so after eating sweets its weak sweetness does not produce a clear message to the brain, and we find the tea to be tasteless.</p><p><strong>Exercise E: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Describe the structure of the human eye.</p><p><strong>Ans:</strong> The human eye consists of an eyeball, which is a hollow and spherical body protected by the eyelid. It consists of three layers. (i) The Sclerotic layer is the outermost white part of the eye; it protects the inner parts. It bulges out to form a thin and transparent structure called the cornea. Behind the cornea is a coloured area called the iris, which has a small opening in its centre called the pupil. Behind the pupil lies a lens attached to muscles. (ii) The Choroid is the middle layer of the eye. It is black in colour and is filled with blood vessels that bring oxygen and nutrients to the eye. (iii) The Retina is the innermost layer of the eyeball. It is made up of sensory cells on which the images of objects are formed. Behind the retina are optic nerves which take the signals to the brain and help us to see objects.</p><p><strong>Q:</strong> 2. Classify the taste buds on the tongue, on the basis of different tastes.</p><p><strong>Ans:</strong> On the basis of different tastes, the taste buds on the tongue are classified by the regions where they are located, as shown in the figure of the tongue: the taste buds for bitter taste are at the back of the tongue; the taste buds for sour taste are on the sides of the tongue; the taste buds for sweet taste are in the central part of the tongue; and the taste buds for salty and sweet tastes are at the front tip of the tongue. These taste buds contain the taste receptor cells.</p><p><strong>Q:</strong> 3. Explain the mechanism of hearing.</p><p><strong>Ans:</strong> Sound waves are collected by the pinna and carried to the ear canal. When these sound waves strike the ear drum, they cause vibrations in it. These vibrations are passed on to the three tiny bones (ossicles) in the middle ear. The bones transmit the vibrations to the inner ear. When the vibrations enter the cochlea fluid, they set the tiny hairs vibrating. They transmit the sound waves to the brain through the auditory nerve. Thus we hear the sound.</p>",
+     "mcqs": [
+      {
+       "q": "The function of the pinna of the ear is to ______.",
+       "options": [
+        "collect sound waves",
+        "make the ear drum",
+        "send signals to the brain",
+        "keep the balance of the body"
+       ],
+       "answer": 0,
+       "why": "The pinna is the outer, funnel-like part of the ear. It collects sound waves and directs them into the ear canal towards the ear drum."
+      },
+      {
+       "q": "The three tiny bones of the middle ear are called ______.",
+       "options": [
+        "ossicles",
+        "cochlea",
+        "pinna",
+        "canals"
+       ],
+       "answer": 0,
+       "why": "The middle ear contains a set of three tiny bones called ossicles. They pass the vibrations of the ear drum on to the inner ear."
+      },
+      {
+       "q": "Besides taking part in hearing, the semi-circular canals of the inner ear also help in ______.",
+       "options": [
+        "seeing",
+        "maintaining the balance of the body",
+        "tasting",
+        "smelling"
+       ],
+       "answer": 1,
+       "why": "The semi-circular canals in the inner ear take part in hearing and also help in maintaining the balance of the body."
+      },
+      {
+       "q": "The outer most white layer of the eye is called ______.",
+       "options": [
+        "retina",
+        "cornea",
+        "sclerotic (sclera)",
+        "iris"
+       ],
+       "answer": 2,
+       "why": "The eyeball has three layers. The outer most white layer is the sclerotic, also called sclera; it protects the inner parts of the eye."
+      },
+      {
+       "q": "The coloured part of the eye is the ______.",
+       "options": [
+        "pupil",
+        "lens",
+        "iris",
+        "cornea"
+       ],
+       "answer": 2,
+       "why": "Behind the cornea lies the coloured area of the eye called the iris. The small opening in its centre is the pupil."
+      },
+      {
+       "q": "The image formed on the retina of the eye is ______.",
+       "options": [
+        "upright",
+        "inverted",
+        "sideways",
+        "double"
+       ],
+       "answer": 1,
+       "why": "Light passing through the eye lens forms an inverted image on the retina. The brain interprets this image and gives the sensation of an upright object."
+      },
+      {
+       "q": "The image formed on the retina is sent to the brain through the ______.",
+       "options": [
+        "auditory nerve",
+        "optic nerve",
+        "spinal cord",
+        "blood vessels"
+       ],
+       "answer": 1,
+       "why": "The optic nerve carries the message of the image from the retina to the brain, where it is interpreted as the sensation of sight."
+      },
+      {
+       "q": "The taste buds for bitter taste are located ______.",
+       "options": [
+        "at the tip of the tongue",
+        "on the sides of the tongue",
+        "at the back of the tongue",
+        "in the centre of the tongue"
+       ],
+       "answer": 2,
+       "why": "Bitter taste buds are located at the back of the tongue. That is why an unchewed bitter almond is not tasted until chewing takes its juice to the back of the tongue."
+      },
+      {
+       "q": "Why does tea seem tasteless after we have eaten sweets or candies?",
+       "options": [
+        "the tongue becomes dry",
+        "sweet receptor cells become less sensitive for some time",
+        "the tea loses its sugar",
+        "the taste buds stop working"
+       ],
+       "answer": 1,
+       "why": "Eating sweets strongly stimulates the sweet receptor cells and they become less sensitive for some time. Tea contains only a little sugar, so its weak sweetness produces no clear message and the tea seems tasteless."
+      },
+      {
+       "q": "The cornea of the eye is ______.",
+       "options": [
+        "the coloured part of the eye",
+        "a thin transparent front part of the sclerotic layer",
+        "the opening in the centre of the iris",
+        "the fluid behind the cornea"
+       ],
+       "answer": 1,
+       "why": "The sclerotic layer bulges out at the front to form the cornea, a thin and transparent part through which light enters the eye."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Photosynthesis and Respiration in Plants",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Photosynthesis is the process by which plants make their own food.</li><li>Photosynthesis needs sunlight, carbon dioxide, water and chlorophyll; oxygen is given off in this process.</li><li>The main source of energy is sunlight; during photosynthesis light energy is converted into chemical energy.</li><li>Stomata are the small pores in the leaves that take in carbon dioxide.</li><li>The suitable temperature range for photosynthesis is 25 °C to 35 °C.</li><li>Mesophyll cells of the leaf contain chlorophyll.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. The main source of ______ is sunlight.</p><p><strong>Ans:</strong> energy</p><p><strong>Q:</strong> 2. Mesophyll cells contain ______.</p><p><strong>Ans:</strong> chlorophyll</p><p><strong>Q:</strong> 3. Epidermal layer in a leaf contain small pores called ______.</p><p><strong>Ans:</strong> stomata</p><p><strong>Q:</strong> 4. Normal temperature range for photosynthesis is ______ °C to ______ °C.</p><p><strong>Ans:</strong> 25 °C to 35 °C</p><p><strong>Q:</strong> 5. During photosynthesis light energy is converted into ______.</p><p><strong>Ans:</strong> chemical energy</p><p><strong>Exercise B: Choose the correct answer:</strong></p><p><strong>Q:</strong> 1. Plants make their own food through a process called:</p><p><strong>Options:</strong> (a) respiration (b) photosynthesis (c) fertilization (d) pollination</p><p><strong>Correct answer:</strong> photosynthesis</p><p><strong>Q:</strong> 2. Which of these is not needed in the process of photosynthesis?</p><p><strong>Options:</strong> (a) sunlight (b) carbon dioxide (c) chlorophyll (d) oxygen</p><p><strong>Correct answer:</strong> oxygen</p><p><strong>Q:</strong> 3. The small pores or openings in leaves that take in the carbon dioxide are called ______</p><p><strong>Options:</strong> (a) stomata (b) lamina (c) phloem (d) petiole</p><p><strong>Correct answer:</strong> stomata</p><p><strong>Q:</strong> 4. The suitable range of temperature for photosynthesis is</p><p><strong>Options:</strong> (a) 5°C to 15°C (b) 15°C to 45°C (c) 25°C to 35°C (d) 10°C to 25°C</p><p><strong>Correct answer:</strong> 25°C to 35°C</p><p><strong>Q:</strong> 5. What is given off by the plant during photosynthesis that animals need?</p><p><strong>Options:</strong> (a) oxygen (b) carbon dioxide (c) chlorophyll (d) water vapours</p><p><strong>Correct answer:</strong> oxygen</p>",
+     "mcqs": [
+      {
+       "q": "Plants make their own food through a process called ______.",
+       "options": [
+        "respiration",
+        "photosynthesis",
+        "fertilization",
+        "pollination"
+       ],
+       "answer": 1,
+       "why": "Green plants prepare their own food from carbon dioxide and water in the presence of sunlight and chlorophyll. This food-making process is called photosynthesis."
+      },
+      {
+       "q": "Which of these is not needed in the process of photosynthesis?",
+       "options": [
+        "sunlight",
+        "carbon dioxide",
+        "chlorophyll",
+        "oxygen"
+       ],
+       "answer": 3,
+       "why": "Photosynthesis needs sunlight, carbon dioxide, water and chlorophyll. Oxygen is not needed for it; oxygen is in fact produced and given off during photosynthesis."
+      },
+      {
+       "q": "The small pores or openings in leaves that take in the carbon dioxide are called ______.",
+       "options": [
+        "stomata",
+        "lamina",
+        "phloem",
+        "petiole"
+       ],
+       "answer": 0,
+       "why": "The epidermal layer of a leaf contains small pores called stomata. Carbon dioxide from the air enters the leaf through these stomata for photosynthesis."
+      },
+      {
+       "q": "The suitable range of temperature for photosynthesis is ______.",
+       "options": [
+        "5°C to 15°C",
+        "15°C to 45°C",
+        "25°C to 35°C",
+        "10°C to 25°C"
+       ],
+       "answer": 2,
+       "why": "Photosynthesis takes place best within a normal temperature range of 25 °C to 35 °C, as given in this unit."
+      },
+      {
+       "q": "What is given off by the plant during photosynthesis that animals need?",
+       "options": [
+        "oxygen",
+        "carbon dioxide",
+        "chlorophyll",
+        "water vapours"
+       ],
+       "answer": 0,
+       "why": "During photosynthesis plants give off oxygen into the atmosphere. Animals and human beings need this oxygen for breathing."
+      },
+      {
+       "q": "The main source of ______ is sunlight.",
+       "options": [
+        "energy",
+        "water",
+        "food",
+        "oxygen"
+       ],
+       "answer": 0,
+       "why": "Sunlight is the main source of energy for life on Earth. Plants trap this light energy during photosynthesis and change it into chemical energy."
+      },
+      {
+       "q": "Mesophyll cells of a leaf contain ______.",
+       "options": [
+        "stomata",
+        "chlorophyll",
+        "xylem",
+        "phloem"
+       ],
+       "answer": 1,
+       "why": "The mesophyll cells inside a leaf contain the green pigment chlorophyll, which traps sunlight for photosynthesis."
+      },
+      {
+       "q": "During photosynthesis light energy is converted into ______.",
+       "options": [
+        "heat energy",
+        "sound energy",
+        "chemical energy",
+        "electrical energy"
+       ],
+       "answer": 2,
+       "why": "During photosynthesis the light energy from the sun is converted into chemical energy, which is stored in the food (glucose) prepared by the plant."
+      },
+      {
+       "q": "The food prepared by plants during photosynthesis is ______.",
+       "options": [
+        "protein",
+        "glucose",
+        "fat",
+        "wax"
+       ],
+       "answer": 1,
+       "why": "In photosynthesis, plants combine carbon dioxide and water to synthesize their food in the form of glucose, a sugar."
+      },
+      {
+       "q": "The raw materials used in photosynthesis are ______.",
+       "options": [
+        "oxygen and water",
+        "carbon dioxide and water",
+        "glucose and oxygen",
+        "chlorophyll and soil"
+       ],
+       "answer": 1,
+       "why": "Photosynthesis uses carbon dioxide from the air and water from the soil as its raw materials, in the presence of sunlight and chlorophyll, to form glucose and oxygen."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Photosynthesis provides food to the plants themselves and, directly or indirectly, to all animals; oxygen is also produced in it.</li><li>Photosynthesis occurs in the presence of light and chlorophyll; respiration occurs at all times in animal and plant cells.</li><li>In photosynthesis glucose is formed; in respiration glucose is broken down and energy is released.</li><li>If all the stomata of a leaf are closed, carbon dioxide cannot enter the leaf, photosynthesis stops and the plant cannot prepare its food.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Discuss the importance of photosynthesis as a life supporting process.</p><p><strong>Ans:</strong> Photosynthesis is a life supporting process. Through it, plants combine carbon dioxide and water in the presence of sunlight to synthesize their food in the form of glucose, so it provides food to the plants themselves and, directly or indirectly, to all animals. Oxygen is also produced in this process; some of it is used by the plant itself and the remaining comes out of the leaves into the atmosphere, and this oxygen is utilized by the animals for their survival. A part of the glucose is used as food by the plant for energy, while the remaining glucose is converted into starch and stored in the stem, roots, fruits and seeds, which animals eat as food.</p><p><strong>Q:</strong> 2. Explain any three factors needed for photosynthesis.</p><p><strong>Ans:</strong> Three factors needed for photosynthesis are: (1) Light: light energy from the sun is necessary for photosynthesis; during photosynthesis this energy is converted into chemical energy. Low light intensity slows down the process, and at night or in the dark photosynthesis does not take place. (2) Carbon dioxide: during photosynthesis plants combine carbon dioxide and water to form glucose (food). A sharp increase or decrease in the concentration of carbon dioxide slows down the process. (3) Temperature: a suitable temperature ranging from 25°C to 35°C is required for photosynthesis; temperature below or above this range slows down the process. (Chlorophyll and water are the other essential factors.)</p><p><strong>Q:</strong> 3. Differentiate between photosynthesis and respiration.</p><p><strong>Ans:</strong> Photosynthesis occurs in the presence of light and chlorophyll in plant cells, while respiration occurs at all times in animal and plant cells. Photosynthesis requires energy (light) to make sugar (glucose), while respiration releases energy from sugar. In photosynthesis glucose is formed, while in respiration glucose is broken. In photosynthesis carbon dioxide and water are the raw materials, while in respiration carbon dioxide and water are the waste products. In photosynthesis oxygen is given out, while in respiration oxygen is taken in. Photosynthesis occurs only in plant cells, while respiration occurs in all animal and plant cells.</p><p><strong>Q:</strong> 4. What may happen to a plant if all stomata on its leaves are closed by using wax or vaseline?</p><p><strong>Ans:</strong> The stomata present at the lower surface of the leaf allow carbon dioxide to enter the leaf for photosynthesis, and they also help in the exchange of gases. If all the stomata are closed by wax or vaseline, carbon dioxide will not enter the leaf, so photosynthesis will stop and the plant will not be able to prepare its food. The exchange of gases will also stop, so the plant will not get energy and may die.</p>",
+     "mcqs": [
+      {
+       "q": "Photosynthesis is a life supporting process because it provides food ______.",
+       "options": [
+        "only to green plants",
+        "to plants and, directly or indirectly, to all animals",
+        "only to human beings",
+        "only to insects"
+       ],
+       "answer": 1,
+       "why": "Through photosynthesis plants prepare food for themselves, and all animals eat plants or eat other animals that eat plants. So photosynthesis feeds all living things, directly or indirectly."
+      },
+      {
+       "q": "The oxygen produced in photosynthesis is released into the atmosphere through the ______.",
+       "options": [
+        "roots",
+        "stem",
+        "leaves",
+        "flowers"
+       ],
+       "answer": 2,
+       "why": "Some of the oxygen produced in photosynthesis is used by the plant itself, and the remaining oxygen comes out of the leaves into the atmosphere."
+      },
+      {
+       "q": "What happens to photosynthesis when the light intensity is low?",
+       "options": [
+        "it becomes faster",
+        "it slows down",
+        "it changes into respiration",
+        "it produces more oxygen"
+       ],
+       "answer": 1,
+       "why": "Light energy from the sun is necessary for photosynthesis. Low light intensity slows down the process, and at night or in the dark photosynthesis does not take place."
+      },
+      {
+       "q": "Respiration in cells takes place ______.",
+       "options": [
+        "only in sunlight",
+        "only in green cells",
+        "at all times in animal and plant cells",
+        "only at night"
+       ],
+       "answer": 2,
+       "why": "Unlike photosynthesis, which needs light and chlorophyll, respiration goes on at all times in both animal and plant cells to release energy from food."
+      },
+      {
+       "q": "In respiration, glucose is ______.",
+       "options": [
+        "formed",
+        "broken down",
+        "stored unchanged",
+        "changed into chlorophyll"
+       ],
+       "answer": 1,
+       "why": "In photosynthesis glucose is formed, while in respiration glucose is broken down and the energy stored in it is released."
+      },
+      {
+       "q": "If all the stomata of a leaf are closed by using wax or vaseline, photosynthesis will ______.",
+       "options": [
+        "become faster",
+        "stop, because carbon dioxide cannot enter the leaf",
+        "continue normally",
+        "produce glucose without light"
+       ],
+       "answer": 1,
+       "why": "Stomata allow carbon dioxide to enter the leaf for photosynthesis and also help in the exchange of gases. If they are sealed with wax, carbon dioxide cannot enter, so photosynthesis stops and the plant cannot prepare its food."
+      },
+      {
+       "q": "Besides taking in carbon dioxide, stomata also help in ______.",
+       "options": [
+        "exchange of gases",
+        "making seeds",
+        "absorbing water from soil",
+        "supporting the plant"
+       ],
+       "answer": 0,
+       "why": "The stomata present on the leaf surface allow carbon dioxide to enter the leaf and also help in the exchange of gases between the leaf and the air."
+      },
+      {
+       "q": "Which of these factors is needed for photosynthesis?",
+       "options": [
+        "darkness",
+        "light",
+        "frost",
+        "moonlight only"
+       ],
+       "answer": 1,
+       "why": "The factors needed for photosynthesis include light, carbon dioxide and chlorophyll. Without light, photosynthesis cannot take place at all."
+      },
+      {
+       "q": "During photosynthesis, carbon dioxide and water are the ______.",
+       "options": [
+        "products",
+        "raw materials",
+        "wastes",
+        "pigments"
+       ],
+       "answer": 1,
+       "why": "In photosynthesis, carbon dioxide and water are the raw materials; glucose and oxygen are the products formed from them."
+      },
+      {
+       "q": "The energy for photosynthesis comes from ______.",
+       "options": [
+        "soil",
+        "wind",
+        "sunlight",
+        "roots"
+       ],
+       "answer": 2,
+       "why": "Photosynthesis requires energy in the form of light. This light energy comes from the sun and is converted into chemical energy in the food."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Environment and Interaction",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Non-living components of the environment are called abiotic components; the living components are biotic.</li><li>Green plants are regarded as producers in an environment; animals are the consumers.</li><li>Mutualism: both organisms are benefitted and neither is harmed. Parasitism: one organism benefits and the other is harmed. Predation: a predator kills and eats its prey.</li><li>Thar is an example of a desert environment; a tapeworm is a parasite living inside the human body.</li><li>There are two major types of natural environment.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. Non-living components of environment are called ______ component.</p><p><strong>Ans:</strong> abiotic</p><p><strong>Q:</strong> 2. In an environment ______ are regarded as producers.</p><p><strong>Ans:</strong> green plants</p><p><strong>Q:</strong> 3. Lion is regarded as a ______ in a predator-prey relationship.</p><p><strong>Ans:</strong> predator</p><p><strong>Q:</strong> 4. One of the examples of parasites in human body is ______.</p><p><strong>Ans:</strong> tapeworm</p><p><strong>Q:</strong> 5. Bacteria in the ______ of human being is an example of mutualism.</p><p><strong>Ans:</strong> intestines</p><p><strong>Exercise B: Choose the correct answer:</strong></p><p><strong>Q:</strong> 1. Identify the abiotic component in the following.</p><p><strong>Options:</strong> (a) lion (b) apple (c) water vapours (d) beetle</p><p><strong>Correct answer:</strong> water vapours</p><p><strong>Q:</strong> 2. The relationship between two organisms where both are benefitted and neither is harmed is called ______.</p><p><strong>Options:</strong> (a) predation (b) parasitism (c) mutualism (d) none of these</p><p><strong>Correct answer:</strong> mutualism</p><p><strong>Q:</strong> 3. Thar is an example of ______ environment.</p><p><strong>Options:</strong> (a) tropical rainforest (b) desert (c) aquatic (d) grassland</p><p><strong>Correct answer:</strong> desert</p><p><strong>Q:</strong> 4. Mosquito feeding on human blood is an example of:</p><p><strong>Options:</strong> (a) predation (b) parasitism (c) mutualism (d) none of these</p><p><strong>Correct answer:</strong> parasitism</p><p><strong>Q:</strong> 5. There are ______ major types of natural environment.</p><p><strong>Options:</strong> (a) five (b) three (c) two (d) four</p><p><strong>Correct answer:</strong> two</p>",
+     "mcqs": [
+      {
+       "q": "Identify the abiotic component in the following.",
+       "options": [
+        "lion",
+        "apple",
+        "water vapours",
+        "beetle"
+       ],
+       "answer": 2,
+       "why": "Abiotic components are the non-living parts of the environment. Lion, apple and beetle are living things, while water vapours are non-living, so they are the abiotic component."
+      },
+      {
+       "q": "The relationship between two organisms where both are benefitted and neither is harmed is called ______.",
+       "options": [
+        "predation",
+        "parasitism",
+        "mutualism",
+        "competition"
+       ],
+       "answer": 2,
+       "why": "In mutualism both organisms are benefitted and neither is harmed. (The book's printed fourth option 'none of these' is replaced here by 'competition', in which organisms struggle with each other for food and space.)"
+      },
+      {
+       "q": "Thar is an example of ______ environment.",
+       "options": [
+        "tropical rainforest",
+        "desert",
+        "aquatic",
+        "grassland"
+       ],
+       "answer": 1,
+       "why": "Thar is a hot, dry region with very little rainfall, so it is an example of a desert environment."
+      },
+      {
+       "q": "Mosquito feeding on human blood is an example of ______.",
+       "options": [
+        "predation",
+        "parasitism",
+        "mutualism",
+        "commensalism"
+       ],
+       "answer": 1,
+       "why": "A mosquito feeds on human blood and harms the host. When one organism benefits at the cost of the other, the relationship is parasitism. (The book's printed option 'none of these' is replaced here by 'commensalism'.)"
+      },
+      {
+       "q": "There are ______ major types of natural environment.",
+       "options": [
+        "five",
+        "three",
+        "two",
+        "four"
+       ],
+       "answer": 2,
+       "why": "According to this book, there are two major types of natural environment."
+      },
+      {
+       "q": "Non-living components of environment are called ______ component.",
+       "options": [
+        "abiotic",
+        "biotic",
+        "living",
+        "organic"
+       ],
+       "answer": 0,
+       "why": "The non-living components of the environment, such as sunlight, air, water and soil, are called abiotic components; the living components are called biotic."
+      },
+      {
+       "q": "In an environment ______ are regarded as producers.",
+       "options": [
+        "animals",
+        "green plants",
+        "bacteria",
+        "fungi"
+       ],
+       "answer": 1,
+       "why": "Green plants prepare their own food by photosynthesis, so in an environment they are regarded as the producers. Animals, which eat this food, are the consumers."
+      },
+      {
+       "q": "Lion is regarded as a ______ in a predator-prey relationship.",
+       "options": [
+        "prey",
+        "producer",
+        "predator",
+        "parasite"
+       ],
+       "answer": 2,
+       "why": "The animal that hunts and eats another animal is the predator. A lion hunts deer and other animals, so the lion is a predator and the hunted animal is its prey."
+      },
+      {
+       "q": "One of the examples of parasites in human body is ______.",
+       "options": [
+        "earthworm",
+        "housefly",
+        "cockroach",
+        "tapeworm"
+       ],
+       "answer": 3,
+       "why": "A tapeworm lives inside the human intestines and feeds on the digested food of its host, so it is a parasite living in the human body."
+      },
+      {
+       "q": "Bacteria in the ______ of human being is an example of mutualism.",
+       "options": [
+        "lungs",
+        "stomach",
+        "intestines",
+        "blood"
+       ],
+       "answer": 2,
+       "why": "Certain bacteria live in the intestines of human beings: the bacteria get food and shelter, and the humans benefit by being able to digest the food they eat. Both are benefitted, so this is mutualism."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Environment means everything that surrounds us — all the living and non-living things in the area we live in.</li><li>Abiotic components include sunlight, air, water, soil, sand, stones, temperature, minerals and rainfall.</li><li>Living things depend on non-living things: photosynthesis in plants depends on carbon dioxide, sunlight, water and temperature.</li><li>Rainforests are warm and humid all year with dense vegetation; deserts get less than 250 mm of rain a year and have rare, patchy vegetation.</li><li>If an environment has no producers, no food will be prepared and the consumers will die of hunger.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Define environment and identify its abiotic components.</p><p><strong>Ans:</strong> The area we live in and all the living and non-living things in it constitute our environment; in other words, everything that surrounds us is our environment. Its abiotic (non-living) components include sunlight, air, water, soil, sand, stones, temperature, minerals and rainfall. These are essential for the growth and survival of all living things.</p><p><strong>Q:</strong> 2. Evaluate the interdependence between living things and non-living things.</p><p><strong>Ans:</strong> Living things and non-living things depend on each other. The process of photosynthesis in plants depends upon abiotic factors like carbon dioxide, sunlight, water and temperature. Plants produce food for their own use as well as for other animals. The waste material of plants and animals is again used up by the plants, and the cycle goes on. In this way the biotic factors depend on the abiotic factors for survival and growth. Living things also depend on one another: for example, trees provide shelter from weather and enemies to birds, squirrels and monkeys, and also provide them food in the form of fruits, nuts, leaves, bark and roots.</p><p><strong>Q:</strong> 3. Why does vegetation in tropical rainforests differ from the vegetation in deserts?</p><p><strong>Ans:</strong> Rainforests receive a lot of rainfall around the year and their climate is warm and humid throughout the year, so they have dense vegetation and many trees grow very close to one another. Deserts are found in dry regions where the total annual rainfall is less than 250 mm; water is scarce and humidity in the air is very low, so vegetation is rare and patchy and plants are spaced apart. That is why vegetation in tropical rainforests differs from the vegetation in deserts.</p><p><strong>Q:</strong> 4. What will happen to an environment having no producers?</p><p><strong>Ans:</strong> Producers are the green plants which produce food by photosynthesis, and consumers are the animals which consume food prepared by the producers. If an environment has no producers, no food will be prepared in it. The consumers will get nothing to eat and will die of hunger, and the whole environment will be destroyed, because all living things require energy to live and this energy is obtained from the food made by producers.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is an abiotic component of the environment?",
+       "options": [
+        "grass",
+        "sunlight",
+        "rabbit",
+        "fungus"
+       ],
+       "answer": 1,
+       "why": "Sunlight is a non-living (abiotic) component of the environment, along with air, water, soil, sand, stones, temperature, minerals and rainfall. These are essential for the growth and survival of all living things."
+      },
+      {
+       "q": "Deserts are found in regions where the total annual rainfall is less than ______.",
+       "options": [
+        "250 mm",
+        "500 mm",
+        "750 mm",
+        "1000 mm"
+       ],
+       "answer": 0,
+       "why": "Deserts are found in dry regions where the total annual rainfall is less than 250 mm; water is scarce and humidity in the air is very low, so vegetation is rare and patchy."
+      },
+      {
+       "q": "The climate of tropical rainforests is ______.",
+       "options": [
+        "cold and dry",
+        "warm and humid throughout the year",
+        "hot and dry",
+        "snowy"
+       ],
+       "answer": 1,
+       "why": "Rainforests receive a lot of rainfall around the year and their climate is warm and humid throughout the year, so they have dense vegetation and many trees grow very close to one another."
+      },
+      {
+       "q": "Producers are the green plants which produce food by ______.",
+       "options": [
+        "respiration",
+        "digestion",
+        "photosynthesis",
+        "fermentation"
+       ],
+       "answer": 2,
+       "why": "Producers are the green plants, which produce food by photosynthesis. Consumers are the animals which consume the food prepared by the producers."
+      },
+      {
+       "q": "What will happen to an environment having no producers?",
+       "options": [
+        "consumers will make their own food",
+        "consumers will get nothing to eat and will die of hunger",
+        "consumers will become producers",
+        "the environment will improve"
+       ],
+       "answer": 1,
+       "why": "If an environment has no producers, no food will be prepared in it. The consumers will get nothing to eat and will die of hunger, and the whole environment will be destroyed, because all living things need energy which is obtained from food."
+      },
+      {
+       "q": "The area we live in and all the living and non-living things in it constitute our ______.",
+       "options": [
+        "environment",
+        "climate",
+        "weather",
+        "habitat name"
+       ],
+       "answer": 0,
+       "why": "Everything that surrounds us is our environment: the area we live in and all the living and non-living things in it together constitute the environment."
+      },
+      {
+       "q": "Photosynthesis in plants depends upon abiotic factors like ______.",
+       "options": [
+        "carbon dioxide, sunlight, water and temperature",
+        "only soil and sand",
+        "only rainfall",
+        "animals and insects"
+       ],
+       "answer": 0,
+       "why": "The process of photosynthesis in plants depends upon abiotic factors like carbon dioxide, sunlight, water and temperature. This shows the interdependence between living things and non-living things."
+      },
+      {
+       "q": "Vegetation in deserts is ______.",
+       "options": [
+        "dense and close together",
+        "rare and patchy, with plants spaced apart",
+        "only tall trees",
+        "found under water"
+       ],
+       "answer": 1,
+       "why": "In deserts water is scarce and humidity in the air is very low, so vegetation is rare and patchy and plants are spaced apart — unlike the dense vegetation of rainforests."
+      },
+      {
+       "q": "The waste material of plants and animals is again used up by ______.",
+       "options": [
+        "the sun",
+        "plants",
+        "rivers",
+        "machines"
+       ],
+       "answer": 1,
+       "why": "Living things and non-living things depend on each other in a cycle: plants produce food, animals use it, and the waste material of plants and animals is again used up by the plants."
+      },
+      {
+       "q": "A cat grabbing and killing a rat, and a lion preying on a deer, are examples of ______.",
+       "options": [
+        "mutualism",
+        "parasitism",
+        "predation",
+        "pollination"
+       ],
+       "answer": 2,
+       "why": "In predation, one animal (the predator) grabs, kills and eats another animal (the prey). The project work of this unit lists a cat killing a rat and a lion preying on a deer as examples of predation."
+      }
+     ]
+    },
+    {
+     "title": "Project Work",
+     "notes_html": "<h4>Project Work</h4><p><strong>Q:</strong> Find examples of predation, parasitism and mutualism and make a chart of them.</p><p><strong>Ans:</strong> Predation: a cat grabbing and killing a rat; a lion preying on a deer; a sparrow eating an insect; a tiger preying on a deer. Parasitism: a mosquito feeding on human blood; a tapeworm living inside the human intestines. Mutualism: a certain kind of bacteria living in the intestines of human beings — the bacteria get food and shelter, and the humans benefit by being able to digest the food they eat.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Atoms, Molecules, Mixtures and Compounds",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>The symbol used for sodium is Na.</li><li>Washing soda is a compound of sodium, carbon and oxygen; water is a compound, not a mixture.</li><li>Chromatography is used to separate coloured substances from each other.</li><li>In filtration, the particles left behind on the filter paper are called residue.</li><li>Methane, CH4, has 1 atom of carbon and 4 atoms of hydrogen.</li><li>Salt is obtained from a mixture of sand, salt and water by dissolving, then filtration, then evaporation.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Select the best answer:</strong></p><p><strong>Q:</strong> 1. The symbol used for sodium is ______</p><p><strong>Options:</strong> (a) S (b) Sd (c) Na (d) N</p><p><strong>Correct answer:</strong> Na</p><p><strong>Q:</strong> 2. The constituent elements of washing soda are ______</p><p><strong>Options:</strong> (a) carbon and oxygen (b) sodium and oxygen (c) sodium and carbon (d) sodium, carbon and oxygen</p><p><strong>Correct answer:</strong> sodium, carbon and oxygen</p><p><strong>Q:</strong> 3. Which of these is not a mixture?</p><p><strong>Options:</strong> (a) water (b) air (c) tea (d) alloy</p><p><strong>Correct answer:</strong> water</p><p><strong>Q:</strong> 4. Which method is usually used to separate coloured substances from each other?</p><p><strong>Options:</strong> (a) Simple distillation (b) Evaporation (c) Chromatography (d) Crystallization</p><p><strong>Correct answer:</strong> Chromatography</p><p><strong>Q:</strong> 5. The particles left behind on the filter paper in the filtration process are called ______</p><p><strong>Options:</strong> (a) filtrate (b) residue (c) distillate (d) none of them</p><p><strong>Correct answer:</strong> residue</p><p><strong>Q:</strong> 6. Which atoms are found in CH4 (methane)?</p><p><strong>Options:</strong> (a) 4 carbon and 4 hydrogen (b) 1 carbon and 1 hydrogen (c) 1 carbon and 4 hydrogen (d) 4 carbons and 1 hydrogen</p><p><strong>Correct answer:</strong> 1 carbon and 4 hydrogen</p><p><strong>Q:</strong> 7. The correct order for obtaining salt from a mixture of sand, salt and water is:</p><p><strong>Options:</strong> (a) dissolving - filtration - evaporation (b) evaporation - filtration - dissolving (c) filtration - dissolving - evaporation (d) dissolving - evaporation - filtration</p><p><strong>Correct answer:</strong> dissolving - filtration - evaporation</p>",
+     "mcqs": [
+      {
+       "q": "The symbol used for sodium is ______.",
+       "options": [
+        "S",
+        "Sd",
+        "Na",
+        "N"
+       ],
+       "answer": 2,
+       "why": "Sodium is represented by the symbol Na (from its Latin name). S is the symbol of sulphur and N is the symbol of nitrogen."
+      },
+      {
+       "q": "The constituent elements of washing soda are ______.",
+       "options": [
+        "carbon and oxygen",
+        "sodium and oxygen",
+        "sodium and carbon",
+        "sodium, carbon and oxygen"
+       ],
+       "answer": 3,
+       "why": "Washing soda is a compound made of three elements joined together: sodium, carbon and oxygen."
+      },
+      {
+       "q": "Which of these is not a mixture?",
+       "options": [
+        "water",
+        "air",
+        "tea",
+        "alloy"
+       ],
+       "answer": 0,
+       "why": "Water is a compound of hydrogen and oxygen combined chemically in a fixed ratio, so it is not a mixture. Air, tea and alloys are mixtures."
+      },
+      {
+       "q": "Which method is usually used to separate coloured substances from each other?",
+       "options": [
+        "Simple distillation",
+        "Evaporation",
+        "Chromatography",
+        "Crystallization"
+       ],
+       "answer": 2,
+       "why": "Chromatography is the method usually used to separate coloured substances, such as the dyes in ink, from each other."
+      },
+      {
+       "q": "The particles left behind on the filter paper in the filtration process are called ______.",
+       "options": [
+        "filtrate",
+        "residue",
+        "distillate",
+        "sediment"
+       ],
+       "answer": 1,
+       "why": "In filtration, the insoluble particles that are left behind on the filter paper are called the residue, while the liquid that passes through is the filtrate. (The book's printed fourth option 'none of them' is replaced here by 'sediment'.)"
+      },
+      {
+       "q": "Which atoms are found in CH4 (methane)?",
+       "options": [
+        "4 carbon and 4 hydrogen",
+        "1 carbon and 1 hydrogen",
+        "1 carbon and 4 hydrogen",
+        "4 carbons and 1 hydrogen"
+       ],
+       "answer": 2,
+       "why": "In the formula CH4, the letter C stands for carbon with no number after it, which means 1 atom, and H4 means 4 atoms of hydrogen. So methane has 1 carbon atom and 4 hydrogen atoms."
+      },
+      {
+       "q": "The correct order for obtaining salt from a mixture of sand, salt and water is:",
+       "options": [
+        "dissolving - filtration - evaporation",
+        "evaporation - filtration - dissolving",
+        "filtration - dissolving - evaporation",
+        "dissolving - evaporation - filtration"
+       ],
+       "answer": 0,
+       "why": "First the mixture is dissolved in water so the salt dissolves and the sand does not; then filtration removes the sand; then evaporation drives off the water and leaves the salt. Step 1: dissolving. Step 2: filtration. Step 3: evaporation."
+      },
+      {
+       "q": "CO2 (carbon dioxide) has ______.",
+       "options": [
+        "2 atoms of carbon and 1 atom of oxygen",
+        "1 atom of carbon and 2 atoms of oxygen",
+        "1 atom of carbon and 1 atom of oxygen",
+        "2 atoms of carbon and 2 atoms of oxygen"
+       ],
+       "answer": 1,
+       "why": "In CO2, C has no number after it, so there is 1 atom of carbon, and O2 shows 2 atoms of oxygen."
+      },
+      {
+       "q": "From the list oxygen, sea water, calcium, argon, water, air, iron and copper — which are metallic elements?",
+       "options": [
+        "oxygen and argon",
+        "calcium, iron and copper",
+        "water and air",
+        "sea water and iron"
+       ],
+       "answer": 1,
+       "why": "Metals are lustrous elements that conduct heat and electricity. From the list, calcium, iron and copper are metallic elements; oxygen and argon are non-metallic elements, and water, air and sea water are not elements at all."
+      },
+      {
+       "q": "Which one of the following is a compound?",
+       "options": [
+        "brass",
+        "air",
+        "water",
+        "tea"
+       ],
+       "answer": 2,
+       "why": "A compound is formed by the chemical combination of two or more elements in a fixed ratio. Water is a compound of hydrogen and oxygen; brass, air and tea are mixtures."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>CO2 has 1 atom of carbon and 2 atoms of oxygen; H2O has 2 atoms of hydrogen and 1 atom of oxygen; sugar, C12H22O11, has 12 carbon, 22 hydrogen and 11 oxygen atoms.</li><li>Metallic elements: calcium, iron and copper. Non-metallic elements: oxygen, argon, diamond (carbon), sulphur and nitrogen.</li><li>Compounds: water, carbon monoxide, sodium chloride and ammonia. Mixtures: sea water, air, brass, tea and milk.</li><li>An element cannot be broken down into a simpler substance; a compound is formed by the chemical combination of two or more elements in a fixed ratio.</li><li>A mixture is formed by physically combining substances in any proportion; its components keep their properties and can be separated by physical methods.</li><li>Salt is obtained from salt solution by evaporation: on heating, the water evaporates and solid salt is left behind.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Answer the following questions:</strong></p><p><strong>Q:</strong> 1(i). Carbon dioxide, CO2</p><p><strong>Ans:</strong> CO2 has 1 atom of carbon and 2 atoms of oxygen.</p><p><strong>Q:</strong> 1(ii). Water, H2O</p><p><strong>Ans:</strong> H2O has 2 atoms of hydrogen and 1 atom of oxygen.</p><p><strong>Q:</strong> 1(iii). Methane, CH4</p><p><strong>Ans:</strong> CH4 has 1 atom of carbon and 4 atoms of hydrogen.</p><p><strong>Q:</strong> 1(iv). Vinegar, CH3COOH</p><p><strong>Ans:</strong> CH3COOH has 2 atoms of carbon, 4 atoms of hydrogen and 2 atoms of oxygen.</p><p><strong>Q:</strong> 1(v). Sugar, C12H22O11</p><p><strong>Ans:</strong> C12H22O11 has 12 atoms of carbon, 22 atoms of hydrogen and 11 atoms of oxygen.</p><p><strong>Q:</strong> 2a. From the list (oxygen, sea water, calcium, argon, water, air, carbon monoxide, iron, sodium chloride, diamond, brass, copper, tea, sulphur, milk, nitrogen, ammonia) — which are metallic elements?</p><p><strong>Ans:</strong> Metallic elements: calcium, iron and copper.</p><p><strong>Q:</strong> 2b. Which are non-metallic elements?</p><p><strong>Ans:</strong> Non-metallic elements: oxygen, argon, diamond (carbon), sulphur and nitrogen.</p><p><strong>Q:</strong> 2c. Which are compounds?</p><p><strong>Ans:</strong> Compounds: water, carbon monoxide, sodium chloride and ammonia.</p><p><strong>Q:</strong> 2d. Which are mixtures?</p><p><strong>Ans:</strong> Mixtures: sea water, air, brass, tea and milk.</p><p><strong>Q:</strong> 3a. From the list (bromine, carbon dioxide, helium, steel, air, oil, marble, copper, water, sand, tin, bronze, mercury, salt) — which is a solid element?</p><p><strong>Ans:</strong> A solid element: copper (tin is also a solid element).</p><p><strong>Q:</strong> 3b. Which is a liquid element?</p><p><strong>Ans:</strong> A liquid element: bromine (mercury, a metal, is also a liquid at room temperature).</p><p><strong>Q:</strong> 3c. Which is a gaseous mixture?</p><p><strong>Ans:</strong> A gaseous mixture: air.</p><p><strong>Q:</strong> 3d. Which is a solid mixture?</p><p><strong>Ans:</strong> A solid mixture: steel (bronze and sand are also solid mixtures).</p><p><strong>Q:</strong> 3e. Which is a liquid compound?</p><p><strong>Ans:</strong> A liquid compound: water.</p><p><strong>Q:</strong> 3f. Which is a solid compound?</p><p><strong>Ans:</strong> A solid compound: salt (sodium chloride).</p><p><strong>Q:</strong> 3g. Which is a gaseous element?</p><p><strong>Ans:</strong> A gaseous element: helium.</p><p><strong>Q:</strong> 3h. Which is a gaseous compound?</p><p><strong>Ans:</strong> A gaseous compound: carbon dioxide.</p><p><strong>Q:</strong> 4a. Define: element</p><p><strong>Ans:</strong> An element is a substance that cannot be broken down into further simpler substance by either chemical or physical methods. It is composed of only one kind of atoms. For example, helium, gold and sodium are all elements.</p><p><strong>Q:</strong> 4b. Define: metal</p><p><strong>Ans:</strong> A metal is a substance that is lustrous (shiny) and opaque. Metals can pass electricity and heat (conductors), can be beaten into thin sheets and foils without breaking (malleable), can be drawn into thin wires (ductile), usually melt at high temperature and produce a bell-like sound when struck (sonorous). All metals are solid except mercury. For example, iron, copper, silver and gold.</p><p><strong>Q:</strong> 4c. Define: non-metal</p><p><strong>Ans:</strong> Non-metals have a dull surface and low density, except diamond (carbon). They cannot be beaten into thin sheets and foils (non-malleable) and cannot be drawn into thin wires (non-ductile). They cannot pass electricity and heat, except graphite (carbon). They may be solid, liquid or gas. For example, oxygen, sulphur and bromine.</p><p><strong>Q:</strong> 4d. Define: compound</p><p><strong>Ans:</strong> Compounds are pure substances which are formed by the chemical combination of two or more different elements in a fixed ratio. For example, water is a compound of hydrogen and oxygen.</p><p><strong>Q:</strong> 4e. Define: molecule</p><p><strong>Ans:</strong> The smallest particle of a substance which can exist independently and shows all the properties of that particular substance is called a molecule. A molecule is formed by the chemical combination of two or more atoms. For example, hydrogen (H2), oxygen (O2), carbon monoxide (CO) and water (H2O) molecules.</p><p><strong>Q:</strong> 4f. Define: mixture</p><p><strong>Ans:</strong> A mixture is an impure substance formed when two or more than two substances are physically combined with each other in any proportion. The components of a mixture keep their original properties and can be easily separated by physical means. For example, sugar solution (a mixture of sugar and water) and salt solution (a mixture of salt and water).</p><p><strong>Q:</strong> 5. Make a list of some common mixtures, stating what they are composed of.</p><p><strong>Ans:</strong> Some common mixtures and their composition are: Air — a mixture of different gases (nitrogen 78%, oxygen 21%, carbon dioxide 0.03%, noble gases 0.9% and water vapours). Ice-cream — a mixture of milk, sugar, starch and flavor. Tea — a mixture of water, sugar, tea and milk. Ink — a mixture of different dyes. Alloys — mixtures of different elements, e.g. brass is an alloy of zinc and copper. Sugar solution — a mixture of sugar and water. Salt solution — a mixture of salt and water.</p><p><strong>Q:</strong> 6. Devise a method for obtaining salt (sodium chloride) from salt solution in the school laboratory.</p><p><strong>Ans:</strong> Take the salt solution in an evaporating (china) dish and heat it gently in the school laboratory. The water of the solution evaporates on heating, and solid salt (sodium chloride) is left behind in the dish. This method is evaporation to dryness. (If the water is also to be recovered, distillation is used: the solution is heated in a distillation flask, the water vapours are condensed in the condenser and collected as distillate, leaving the salt behind in the flask.)</p>",
+     "mcqs": [
+      {
+       "q": "H2O (water) has ______.",
+       "options": [
+        "1 atom of hydrogen and 2 atoms of oxygen",
+        "2 atoms of hydrogen and 1 atom of oxygen",
+        "2 atoms of hydrogen and 2 atoms of oxygen",
+        "1 atom of hydrogen and 1 atom of oxygen"
+       ],
+       "answer": 1,
+       "why": "In H2O, H2 means 2 atoms of hydrogen and O with no number means 1 atom of oxygen."
+      },
+      {
+       "q": "Sugar, C12H22O11, has how many atoms of oxygen?",
+       "options": [
+        "12",
+        "22",
+        "11",
+        "45"
+       ],
+       "answer": 2,
+       "why": "The number written after the symbol O in C12H22O11 is 11, so one molecule of sugar has 11 atoms of oxygen (and 12 of carbon and 22 of hydrogen)."
+      },
+      {
+       "q": "Vinegar, CH3COOH, has how many atoms of carbon?",
+       "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+       ],
+       "answer": 1,
+       "why": "CH3COOH contains carbon at two places: the C of CH3 and the C of COOH. Adding them, 1 + 1 = 2 atoms of carbon (with 4 atoms of hydrogen and 2 atoms of oxygen)."
+      },
+      {
+       "q": "Which of the following is a non-metallic element?",
+       "options": [
+        "calcium",
+        "iron",
+        "sulphur",
+        "copper"
+       ],
+       "answer": 2,
+       "why": "Sulphur has a dull surface, cannot be beaten into sheets or drawn into wires and does not conduct electricity, so it is a non-metallic element. Calcium, iron and copper are metals."
+      },
+      {
+       "q": "Which of the following is a gaseous mixture?",
+       "options": [
+        "helium",
+        "carbon dioxide",
+        "air",
+        "water"
+       ],
+       "answer": 2,
+       "why": "Air is a mixture of different gases — nitrogen 78%, oxygen 21%, carbon dioxide 0.03%, noble gases 0.9% and water vapours — physically combined, so it is a gaseous mixture."
+      },
+      {
+       "q": "Which of the following is a solid mixture?",
+       "options": [
+        "steel",
+        "copper",
+        "salt",
+        "helium"
+       ],
+       "answer": 0,
+       "why": "Steel is an alloy, a mixture of iron with other elements, so it is a solid mixture. Copper is an element, salt is a compound and helium is a gaseous element."
+      },
+      {
+       "q": "Which element is a liquid at room temperature?",
+       "options": [
+        "copper",
+        "bromine",
+        "helium",
+        "tin"
+       ],
+       "answer": 1,
+       "why": "Bromine is a liquid element (mercury, a metal, is also a liquid at room temperature). Copper and tin are solid elements and helium is a gas."
+      },
+      {
+       "q": "Which of the following is a gaseous element?",
+       "options": [
+        "helium",
+        "carbon dioxide",
+        "air",
+        "water"
+       ],
+       "answer": 0,
+       "why": "Helium is a single element that exists as a gas. Carbon dioxide is a gaseous compound, air is a gaseous mixture and water is a liquid compound."
+      },
+      {
+       "q": "Which of the following is a gaseous compound?",
+       "options": [
+        "helium",
+        "air",
+        "carbon dioxide",
+        "oxygen"
+       ],
+       "answer": 2,
+       "why": "Carbon dioxide is formed by the chemical combination of carbon and oxygen and exists as a gas, so it is a gaseous compound. Helium and oxygen are elements and air is a mixture."
+      },
+      {
+       "q": "An element is a substance that ______.",
+       "options": [
+        "can be broken into many substances",
+        "cannot be broken down into a further simpler substance",
+        "is always a mixture",
+        "is formed by mixing two substances"
+       ],
+       "answer": 1,
+       "why": "An element is a substance that cannot be broken down into further simpler substances by either chemical or physical methods. It is composed of only one kind of atoms, for example helium, gold and sodium."
+      },
+      {
+       "q": "Metals can be beaten into thin sheets and foils without breaking. This property is called ______.",
+       "options": [
+        "ductile",
+        "malleable",
+        "sonorous",
+        "lustrous"
+       ],
+       "answer": 1,
+       "why": "Metals are malleable: they can be beaten into thin sheets and foils without breaking. Ductile means they can be drawn into thin wires, and lustrous means they are shiny."
+      },
+      {
+       "q": "Non-metals cannot pass electricity and heat, except ______.",
+       "options": [
+        "sulphur",
+        "bromine",
+        "graphite (carbon)",
+        "oxygen"
+       ],
+       "answer": 2,
+       "why": "Non-metals are non-conductors, but graphite, a form of carbon, is an exception: it can pass electricity. Diamond, another form of carbon, is an exception in hardness and shine."
+      },
+      {
+       "q": "Compounds are pure substances formed by ______.",
+       "options": [
+        "physical mixing of substances in any proportion",
+        "the chemical combination of two or more different elements in a fixed ratio",
+        "melting of a single element",
+        "dissolving one substance in another"
+       ],
+       "answer": 1,
+       "why": "A compound is formed when two or more different elements combine chemically in a fixed ratio, for example water is a compound of hydrogen and oxygen."
+      },
+      {
+       "q": "The smallest particle of a substance which can exist independently and shows all the properties of that substance is called a ______.",
+       "options": [
+        "atom",
+        "element",
+        "molecule",
+        "mixture"
+       ],
+       "answer": 2,
+       "why": "A molecule is the smallest particle of a substance that can exist independently and shows all the properties of that substance. It is formed by the chemical combination of two or more atoms."
+      },
+      {
+       "q": "The components of a mixture keep their original properties and can be separated by ______.",
+       "options": [
+        "chemical methods only",
+        "physical methods",
+        "burning only",
+        "no method at all"
+       ],
+       "answer": 1,
+       "why": "In a mixture the components are only physically combined and keep their original properties, so they can be easily separated by physical means, for example iron filings are separated from sulphur by a magnet."
+      }
+     ]
+    },
+    {
+     "title": "Project Work",
+     "notes_html": "<h4>Project Work</h4><p><strong>Q:</strong> a(i). Iron filings and sulphur powder are mixed on a paper and a magnet is held over it. What will happen?</p><p><strong>Ans:</strong> The iron filings will be attracted by the magnet and will stick to it, while the sulphur powder will stay on the paper. In this way the iron filings are separated from the sulphur.</p><p><strong>Q:</strong> a(ii). What does it show?</p><p><strong>Ans:</strong> It shows that in a mixture the components are only physically combined and keep their original properties (iron keeps its magnetic property), so they can be separated by physical methods, e.g. by magnetization.</p><p><strong>Q:</strong> b(i). Iron filings and sulphur powder are heated in a test tube until a black solid is formed. Can you separate the components from this black solid product?</p><p><strong>Ans:</strong> No. On heating, the iron and sulphur combine chemically and form a new black solid (a compound, iron sulphide). Its components have lost their original properties — the magnet does not attract it — so they cannot be separated by physical methods, only by chemical methods.</p><p><strong>Q:</strong> b(ii). What does it show?</p><p><strong>Ans:</strong> It shows that a compound is formed by the chemical combination of elements in a fixed ratio; its components lose their original properties and it can be separated into simpler substances only by chemical methods/reactions.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Air",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Air is a mixture of gases: nitrogen, oxygen, carbon dioxide and inert (noble) gases, along with water vapours.</li><li>Nitrogen is present in the maximum amount in air (78%); oxygen is 21% and carbon dioxide is 0.03%.</li><li>Oxygen is necessary for combustion (burning), rusting and respiration, but not for photosynthesis.</li><li>Carbon dioxide is used in soft drinks, in fire extinguishers and by plants in photosynthesis.</li><li>Liquid nitrogen is used as a coolant; oxygen is the gas necessary for the burning process.</li><li>Inert gases are used in electric bulbs, sign boards and weather balloons.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. Which of these gases are present in maximum amount in air?</p><p><strong>Options:</strong> (a) oxygen (b) nitrogen (c) chlorine (d) carbon dioxide</p><p><strong>Correct answer:</strong> nitrogen</p><p><strong>Q:</strong> 2. Oxygen is not necessary for?</p><p><strong>Options:</strong> (a) combustion (b) rusting (c) respiration (d) photosynthesis</p><p><strong>Correct answer:</strong> photosynthesis</p><p><strong>Q:</strong> 3. Carbon dioxide is used in?</p><p><strong>Options:</strong> (a) soft drinks (b) fire Extinguishers (c) photosynthesis (d) all of them</p><p><strong>Correct answer:</strong> all of them</p><p><strong>Q:</strong> 4. Which is true for nitrogen?</p><p><strong>Options:</strong> (a) used as dry ice (b) used as coolant (c) used in respiration (d) used in combustion</p><p><strong>Correct answer:</strong> used as coolant</p><p><strong>Q:</strong> 5. What is the volume of oxygen and carbon dioxide in air?</p><p><strong>Options:</strong> (a) 21% carbon dioxide and 0.03% oxygen (b) 0.03% carbon dioxide and 78% oxygen (c) 78% carbon dioxide and 21% oxygen (d) 0.03% carbon dioxide and 21% oxygen</p><p><strong>Correct answer:</strong> 0.03% carbon dioxide and 21% oxygen</p><p><strong>Q:</strong> 6. Inert gases are not used in? (Note: in the book the option letters are printed with 'c' twice by mistake; the options in order are electric bulbs, sign boards, photosynthesis and weather balloons.)</p><p><strong>Options:</strong> (a) electric bulbs (b) sign boards (c) photosynthesis (d) weather balloons</p><p><strong>Correct answer:</strong> photosynthesis</p><p><strong>Q:</strong> 7. Which gas in air is necessary for burning process?</p><p><strong>Options:</strong> (a) oxygen (b) nitrogen (c) carbon dioxide (d) argon</p><p><strong>Correct answer:</strong> oxygen</p>",
+     "mcqs": [
+      {
+       "q": "Which of these gases are present in maximum amount in air?",
+       "options": [
+        "oxygen",
+        "nitrogen",
+        "chlorine",
+        "carbon dioxide"
+       ],
+       "answer": 1,
+       "why": "Nitrogen makes up about 78% of the air, which is more than any other gas. Oxygen is about 21% and carbon dioxide only 0.03%."
+      },
+      {
+       "q": "Oxygen is not necessary for ______.",
+       "options": [
+        "combustion",
+        "rusting",
+        "respiration",
+        "photosynthesis"
+       ],
+       "answer": 3,
+       "why": "Oxygen is needed for burning (combustion), for rusting and for respiration. Photosynthesis does not need oxygen; plants take in carbon dioxide for it and give out oxygen."
+      },
+      {
+       "q": "Carbon dioxide is used in ______.",
+       "options": [
+        "soft drinks",
+        "fire extinguishers",
+        "photosynthesis",
+        "soft drinks, fire extinguishers and photosynthesis"
+       ],
+       "answer": 3,
+       "why": "Carbon dioxide is used in all three: it is dissolved in soft drinks, filled in fire extinguishers, and used by plants in photosynthesis. (The book's keyed option 'all of them' is written out here in full.)"
+      },
+      {
+       "q": "Which is true for nitrogen?",
+       "options": [
+        "used as dry ice",
+        "used as coolant",
+        "used in respiration",
+        "used in combustion"
+       ],
+       "answer": 1,
+       "why": "Liquid nitrogen is extremely cold and is used as a coolant. Nitrogen does not take part in respiration or combustion; in fact it slows down burning."
+      },
+      {
+       "q": "What is the volume of oxygen and carbon dioxide in air?",
+       "options": [
+        "21% carbon dioxide and 0.03% oxygen",
+        "0.03% carbon dioxide and 78% oxygen",
+        "78% carbon dioxide and 21% oxygen",
+        "0.03% carbon dioxide and 21% oxygen"
+       ],
+       "answer": 3,
+       "why": "Air contains about 21% oxygen and only 0.03% carbon dioxide. The remaining about 78% is nitrogen."
+      },
+      {
+       "q": "Inert gases are not used in ______.",
+       "options": [
+        "electric bulbs",
+        "sign boards",
+        "photosynthesis",
+        "weather balloons"
+       ],
+       "answer": 2,
+       "why": "Inert (noble) gases are filled in electric bulbs and sign boards and used in weather balloons, but they play no part in photosynthesis, which uses carbon dioxide."
+      },
+      {
+       "q": "Which gas in air is necessary for burning process?",
+       "options": [
+        "oxygen",
+        "nitrogen",
+        "carbon dioxide",
+        "argon"
+       ],
+       "answer": 0,
+       "why": "Burning (combustion) cannot take place without oxygen. That is why a burning candle goes out when its supply of air is cut off."
+      },
+      {
+       "q": "The constituent gases of air are ______.",
+       "options": [
+        "only oxygen and nitrogen",
+        "nitrogen, oxygen, carbon dioxide and inert gases",
+        "only carbon dioxide",
+        "hydrogen and oxygen only"
+       ],
+       "answer": 1,
+       "why": "The 'Fill the boxes' exercise of this unit shows air as a mixture of nitrogen, oxygen, carbon dioxide and inert (noble) gases. Air also contains water vapours in a variable percentage."
+      },
+      {
+       "q": "Argon is present in air in almost ______ by volume.",
+       "options": [
+        "21%",
+        "0.9%",
+        "78%",
+        "0.03%"
+       ],
+       "answer": 1,
+       "why": "Among the noble gases present in air, argon is present in the maximum amount — almost 0.9% by volume of air."
+      },
+      {
+       "q": "Water vapours are present in air in ______.",
+       "options": [
+        "a fixed 21%",
+        "a fixed 0.03%",
+        "a variable percentage",
+        "a fixed 78%"
+       ],
+       "answer": 2,
+       "why": "Unlike nitrogen (78%), oxygen (21%) and carbon dioxide (0.03%), water vapours are present in air in a variable percentage, changing from place to place and time to time."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>If the percentage of carbon dioxide in air increases, the natural balance of gases is disturbed and the air becomes unfit and harmful for living things.</li><li>Carbon dioxide can be reduced by planting more and more trees and by reducing the burning of coal, petroleum and natural gas.</li><li>Nitrogen of the air slows burning, rusting and decay; liquid nitrogen is used as a coolant; plants use nitrogen as nitrates and animals as proteins.</li><li>Noble gases are chemically inactive gases present in a very small fraction in air: helium, neon, argon, krypton and xenon; argon is the most abundant (almost 0.9%).</li><li>Water vapours are present in a variable percentage in air; on cooling they form clouds, rain, snow and fog.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill the boxes:</strong></p><p><strong>Q:</strong> Fill the boxes with names of constituent gases of the air.</p><p><strong>Ans:</strong> Diagram (in words): Air is a mixture of gases. The four boxes around 'Air' are filled with the names of its constituent gases: Nitrogen, Oxygen (already filled in the book), Carbon dioxide and Inert (noble) gases. Air also contains water vapours in a variable percentage.</p><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. What will be the disadvantage if the percentage of carbon dioxide is increased in air?</p><p><strong>Ans:</strong> Human beings and animals inhale oxygen and exhale carbon dioxide, while plants absorb carbon dioxide to prepare their food during photosynthesis; in this way the balance of carbon dioxide in the air is maintained. If the percentage of carbon dioxide in air is increased, this natural balance will be disturbed. The air will become unfit and harmful for living things, because carbon dioxide neither burns nor helps in burning and living things need oxygen for breathing.</p><p><strong>Q:</strong> 2. How can we reduce carbon dioxide in the air?</p><p><strong>Ans:</strong> We can reduce carbon dioxide in the air by planting more and more trees, because plants absorb carbon dioxide from the air and use it in photosynthesis to prepare their food. We should also reduce the burning of carbon-containing fuels like coal, petroleum and natural gas, because their burning is a main source of carbon dioxide.</p><p><strong>Q:</strong> 3. What will happen if all the trees are cut down?</p><p><strong>Ans:</strong> If all the trees are cut down, there will be no plants to absorb carbon dioxide for photosynthesis and to release oxygen. The carbon dioxide in the air will keep increasing and the oxygen will decrease, so the balance of gases in the air will be disturbed. Living things will not get enough oxygen to breathe, and animals will also lose their food and shelter which trees provide.</p><p><strong>Q:</strong> 4. How the nitrogen of the air is used?</p><p><strong>Ans:</strong> The nitrogen of the air is used in many ways: (i) it slows the burning, rusting and decay processes; (ii) liquid nitrogen is used as a coolant; (iii) animals use nitrogen in the form of proteins; (iv) plants use nitrogen in the form of nitrates (fertilizer); and (v) compounds of nitrogen are used in the preparation of fertilizers, medicine etc.</p><p><strong>Q:</strong> 5. What are noble gases? Name at least three noble gases which are present in air.</p><p><strong>Ans:</strong> Air contains some gases in a very small fraction called rare or inert gases. These gases are chemically inactive, so they are also known as noble gases. They are colourless and odourless. The noble gases present in air are helium, neon, argon, krypton and xenon; among them argon is present in the maximum amount (almost 0.9% by volume of air).</p><p><strong>Q:</strong> 6a. Complete the table: Nitrogen — percent by volume in air and one use.</p><p><strong>Ans:</strong> Nitrogen — Percent by volume in air: 78%. Use: liquid nitrogen is used as coolant; it also slows burning, rusting and decay, and its compounds are used in fertilizers.</p><p><strong>Q:</strong> 6b. Complete the table: Oxygen — percent by volume in air and one use.</p><p><strong>Ans:</strong> Oxygen — Percent by volume in air: 21%. Use: it is essential for breathing (respiration) and for burning.</p><p><strong>Q:</strong> 6c. Complete the table: Carbon dioxide — percent by volume in air and one use.</p><p><strong>Ans:</strong> Carbon dioxide — Percent by volume in air: 0.03%. Use: it is used by plants during photosynthesis to prepare their food; it is also used in fire extinguishers and soft drinks.</p><p><strong>Q:</strong> 6d. Complete the table: Water vapours — percent by volume in air and one use.</p><p><strong>Ans:</strong> Water vapours — Percent by volume in air: variable percentage. Use: when water vapours are cooled they change back into liquid and appear in the form of clouds, rain, snow and fog, so they support the water cycle.</p>",
+     "mcqs": [
+      {
+       "q": "Nitrogen makes up ______ of the air by volume.",
+       "options": [
+        "21%",
+        "0.03%",
+        "78%",
+        "0.9%"
+       ],
+       "answer": 2,
+       "why": "The table in this unit gives nitrogen as 78% by volume of air — the largest share of any gas in the air."
+      },
+      {
+       "q": "Oxygen makes up ______ of the air by volume.",
+       "options": [
+        "78%",
+        "21%",
+        "0.03%",
+        "1%"
+       ],
+       "answer": 1,
+       "why": "Oxygen is 21% by volume of air. It is essential for breathing (respiration) and for burning."
+      },
+      {
+       "q": "Carbon dioxide makes up ______ of the air by volume.",
+       "options": [
+        "21%",
+        "1%",
+        "0.9%",
+        "0.03%"
+       ],
+       "answer": 3,
+       "why": "Carbon dioxide is only 0.03% by volume of air. It is used by plants during photosynthesis and is also used in fire extinguishers and soft drinks."
+      },
+      {
+       "q": "Liquid nitrogen is used as a ______.",
+       "options": [
+        "fuel",
+        "coolant",
+        "fertilizer gas",
+        "drink"
+       ],
+       "answer": 1,
+       "why": "Liquid nitrogen is very cold, so it is used as a coolant. Nitrogen also slows the burning, rusting and decay processes."
+      },
+      {
+       "q": "Plants use the nitrogen of the air in the form of ______.",
+       "options": [
+        "proteins",
+        "nitrates (fertilizer)",
+        "pure nitrogen gas",
+        "ammonia gas only"
+       ],
+       "answer": 1,
+       "why": "Plants use nitrogen in the form of nitrates, which act as fertilizer, while animals use nitrogen in the form of proteins."
+      },
+      {
+       "q": "We can reduce carbon dioxide in the air by ______.",
+       "options": [
+        "cutting down trees",
+        "planting more and more trees",
+        "burning more coal",
+        "using more petroleum"
+       ],
+       "answer": 1,
+       "why": "Plants absorb carbon dioxide from the air for photosynthesis, so planting more and more trees reduces carbon dioxide. Burning coal, petroleum and natural gas increases it."
+      },
+      {
+       "q": "If all the trees are cut down, the oxygen in the air will ______.",
+       "options": [
+        "increase",
+        "decrease",
+        "stay the same",
+        "change into nitrogen"
+       ],
+       "answer": 1,
+       "why": "If all trees are cut down, there will be no plants to absorb carbon dioxide and release oxygen. Carbon dioxide will keep increasing and oxygen will decrease, disturbing the balance of gases in the air."
+      },
+      {
+       "q": "Noble gases are called noble because they are ______.",
+       "options": [
+        "very reactive",
+        "chemically inactive",
+        "coloured and smelly",
+        "present in large amounts"
+       ],
+       "answer": 1,
+       "why": "The rare gases in air are chemically inactive — they do not react with other substances — so they are also called noble or inert gases. They are colourless and odourless."
+      },
+      {
+       "q": "Which noble gas is present in the maximum amount in air?",
+       "options": [
+        "helium",
+        "neon",
+        "argon",
+        "xenon"
+       ],
+       "answer": 2,
+       "why": "The noble gases in air are helium, neon, argon, krypton and xenon. Among them argon is present in the maximum amount, almost 0.9% by volume."
+      },
+      {
+       "q": "When water vapours in the air are cooled, they appear in the form of ______.",
+       "options": [
+        "dust and smoke",
+        "clouds, rain, snow and fog",
+        "icebergs only",
+        "dew only"
+       ],
+       "answer": 1,
+       "why": "Water vapours support the water cycle: when they are cooled they change back into liquid and appear in the form of clouds, rain, snow and fog."
+      }
+     ]
+    },
+    {
+     "title": "Project Work",
+     "notes_html": "<h4>Project Work</h4><p><strong>Q:</strong> a. What happened to the candle after burning?</p><p><strong>Ans:</strong> The candle kept burning till it was completely burnt out. Its wax was used up in burning and changed into gases, so at the end nothing of the candle was left.</p><p><strong>Q:</strong> b. What do you think is necessary for burning of the candle?</p><p><strong>Ans:</strong> Oxygen (air) is necessary for the burning of the candle. As shown in the candle activity, when a burning candle is covered with a glass jar, the flame goes out because the supply of air (oxygen) is cut off.</p><p><strong>Q:</strong> c. Can you guess the chemical name of this burning process?</p><p><strong>Ans:</strong> The chemical name of this burning process is combustion.</p><p><strong>Q:</strong> d. Can you give the name of those gases which are formed during burning process?</p><p><strong>Ans:</strong> The gases formed during the burning process are carbon dioxide and water vapours.</p><p><strong>Q:</strong> e. Can this burning process be reversed? Give reasons.</p><p><strong>Ans:</strong> No, this burning process cannot be reversed. Burning is a chemical change in which the candle (wax) is converted into new substances, carbon dioxide and water vapours. These gases cannot be changed back into the candle by any physical method.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Solution and Suspension",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Table salt (sodium chloride) dissolves completely in water; sand, cooking oil and wax do not.</li><li>In a solution of salt in water, the salt is the solute and water is the solvent.</li><li>The solubility of potassium nitrate (KNO3) increases with an increase in temperature.</li><li>A saturated solution contains the maximum amount of solute at a given temperature.</li><li>An aqueous solution is formed by dissolving a solute in water.</li><li>In a suspension the solute is not completely dissolved in the solvent.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. Which of these are completely soluble in water?</p><p><strong>Options:</strong> (a) sand (b) cooking oil (c) wax (d) table salt (Sodium chloride)</p><p><strong>Correct answer:</strong> table salt (Sodium chloride)</p><p><strong>Q:</strong> 2. A solution is made by dissolving some salt in a beaker of water. The salt is referred as</p><p><strong>Options:</strong> (a) solute (b) filtrate (c) solution (d) solvent</p><p><strong>Correct answer:</strong> solute</p><p><strong>Q:</strong> 3. Solubility of which of the following substance increases with increase in temperature?</p><p><strong>Options:</strong> (a) table salt (NaCl) (b) carbon dioxide (c) potassium nitrate (KNO3) (d) oxygen</p><p><strong>Correct answer:</strong> potassium nitrate (KNO3)</p><p><strong>Q:</strong> 4. Which statement is true for saturated solution?</p><p><strong>Options:</strong> (a) maximum solute at given temperature (b) can dissolve more solute (c) small amount of solute (d) further added solute will vanish</p><p><strong>Correct answer:</strong> maximum solute at given temperature</p><p><strong>Q:</strong> 5. Water insoluble substance is?</p><p><strong>Options:</strong> (a) salt (b) sugar (c) cooking oil (d) milk</p><p><strong>Correct answer:</strong> cooking oil</p><p><strong>Q:</strong> 6. Aqueous solution is formed by dissolving a substance (solute) in ______.</p><p><strong>Options:</strong> (a) alcohol (b) water (c) cooking oil (d) vinegar</p><p><strong>Correct answer:</strong> water</p><p><strong>Q:</strong> 7. Which statement is true for suspension?</p><p><strong>Options:</strong> (a) Solute is completely dissolved in solvent (b) Solute is not completely dissolved in solvent (c) Have uniform composition (d) Solute cannot be seen with human eye</p><p><strong>Correct answer:</strong> Solute is not completely dissolved in solvent</p>",
+     "mcqs": [
+      {
+       "q": "Which of these are completely soluble in water?",
+       "options": [
+        "sand",
+        "cooking oil",
+        "wax",
+        "table salt (Sodium chloride)"
+       ],
+       "answer": 3,
+       "why": "Table salt dissolves completely in water and forms a clear solution. Sand, cooking oil and wax do not dissolve in water."
+      },
+      {
+       "q": "A solution is made by dissolving some salt in a beaker of water. The salt is referred as ______.",
+       "options": [
+        "solute",
+        "filtrate",
+        "solution",
+        "solvent"
+       ],
+       "answer": 0,
+       "why": "The substance that dissolves is called the solute, and the liquid in which it dissolves is the solvent. Here salt dissolves, so salt is the solute and water is the solvent."
+      },
+      {
+       "q": "Solubility of which of the following substance increases with increase in temperature?",
+       "options": [
+        "table salt (NaCl)",
+        "carbon dioxide",
+        "potassium nitrate (KNO3)",
+        "oxygen"
+       ],
+       "answer": 2,
+       "why": "The solubility of potassium nitrate (KNO3) increases greatly with an increase in temperature. Gases like carbon dioxide and oxygen become less soluble when temperature rises."
+      },
+      {
+       "q": "Which statement is true for saturated solution?",
+       "options": [
+        "maximum solute at given temperature",
+        "can dissolve more solute",
+        "small amount of solute",
+        "further added solute will vanish"
+       ],
+       "answer": 0,
+       "why": "A saturated solution already contains the maximum amount of solute that can dissolve at that temperature; any further solute added does not dissolve."
+      },
+      {
+       "q": "Water insoluble substance is ______.",
+       "options": [
+        "salt",
+        "sugar",
+        "cooking oil",
+        "milk"
+       ],
+       "answer": 2,
+       "why": "Cooking oil does not dissolve in water, so it is a water-insoluble substance. Salt and sugar dissolve completely in water."
+      },
+      {
+       "q": "Aqueous solution is formed by dissolving a substance (solute) in ______.",
+       "options": [
+        "alcohol",
+        "water",
+        "cooking oil",
+        "vinegar"
+       ],
+       "answer": 1,
+       "why": "An aqueous solution is one in which the solvent is water. Solutions in alcohol or other liquids are called non-aqueous solutions."
+      },
+      {
+       "q": "Which statement is true for suspension?",
+       "options": [
+        "Solute is completely dissolved in solvent",
+        "Solute is not completely dissolved in solvent",
+        "Have uniform composition",
+        "Solute cannot be seen with human eye"
+       ],
+       "answer": 1,
+       "why": "In a suspension the solute does not dissolve completely; its particles remain spread in the solvent, can be seen, and settle down after some time."
+      },
+      {
+       "q": "Brass is an example of which state of solution?",
+       "options": [
+        "solid solution",
+        "liquid solution",
+        "gas solution",
+        "suspension"
+       ],
+       "answer": 0,
+       "why": "The diagram exercise of this unit gives brass — a solution of zinc and copper metals — as the example of a solid solution."
+      },
+      {
+       "q": "Air is an example of which state of solution?",
+       "options": [
+        "solid solution",
+        "liquid solution",
+        "gas solution",
+        "suspension"
+       ],
+       "answer": 2,
+       "why": "Air is a solution of several gases (nitrogen, oxygen and others) mixed uniformly, so it is an example of a gas (gaseous) solution."
+      },
+      {
+       "q": "Sugar dissolved in water is an example of which state of solution?",
+       "options": [
+        "solid solution",
+        "liquid solution",
+        "gas solution",
+        "suspension"
+       ],
+       "answer": 1,
+       "why": "Sugar dissolves completely in water and the resulting solution is liquid, so sugar solution is an example of a liquid solution."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A solution is a homogeneous mixture with uniform composition; a suspension is heterogeneous, its particles can be seen and settle down on standing.</li><li>States of solution: solid (brass), liquid (sugar dissolved in water) and gas (air).</li><li>Water is called the universal solvent because more substances dissolve in water than in any other liquid.</li><li>Sugar dissolves faster in hot water because heat makes the particles move faster.</li><li>An unsaturated solution can be converted into a saturated solution by adding more solute until no more dissolves at that temperature.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the following diagram:</strong></p><p><strong>Q:</strong> Fill in the diagram of the states of solution with examples.</p><p><strong>Ans:</strong> Diagram (in words): 'State of Solution' has three branches. (1) Solid — example: Brass (a solid solution of zinc and copper metals). (2) Liquid — example: Sugar dissolved in water. (3) Gas — example: Air (a solution of several gases).</p><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Differentiate between suspension and solution.</p><p><strong>Ans:</strong> A solution is a homogeneous mixture of two or more substances, which has a uniform composition; the solute dissolves completely in the solvent and its particles cannot be seen. A suspension is a heterogeneous mixture (which does not have a uniform composition) of undissolved solute in a given solvent; the particles of the solute are bigger in size and can be seen with the human eye, they settle down if kept undisturbed for some time, and they can be separated by the process of filtration. For example, salt solution is a solution, while chalk and sand in water are suspensions.</p><p><strong>Q:</strong> 2. What will be the disadvantage if water was not a universal solvent?</p><p><strong>Ans:</strong> Water is called the universal solvent because more substances dissolve in water than in any other liquid. Wherever water goes, either through the air (water vapours), the ground (rivers, streams) or through our bodies (blood, food), it dissolves chemicals, minerals and nutrients. If water was not a universal solvent, substances like salts, sugar and alcohols could not be dissolved; our blood could not carry dissolved food and nutrients to the body parts, plants could not take up dissolved minerals, and the many solutions used in daily life, such as juices, drinks and medicines, could not be prepared.</p><p><strong>Q:</strong> 3. Why sugar will dissolve faster in hot water than ice chilled water?</p><p><strong>Ans:</strong> According to the particle model, the particles of matter are always in motion and adding heat to matter makes the particles move faster. In hot water the particles move faster than in ice chilled water, so they separate and spread the sugar particles quickly, and the solubility also increases with temperature. Therefore sugar dissolves faster in hot water than in ice chilled water.</p><p><strong>Q:</strong> 4. How can we convert an unsaturated solution into saturated solution?</p><p><strong>Ans:</strong> An unsaturated solution can dissolve more solute at a given temperature. To convert it into a saturated solution, keep adding more solute to it, a little at a time, and stir it well to dissolve. Continue until a stage comes when no more solute dissolves at that temperature and the extra solute starts settling at the bottom. The solution is now a saturated solution.</p><p><strong>Q:</strong> 5. Make a list of some common solutions that you use in your home and state from what they are made up of?</p><p><strong>Ans:</strong> Some common solutions used at home are: Tea — made of water, sugar, tea and milk. Sugar solution (sharbat) — made of sugar dissolved in water. Salt solution — made of table salt dissolved in water. Fruit juices — solutions and suspensions of fruit material in water. Carbonated (soft) drinks — solutions of carbon dioxide gas in water. Perfumes — non-aqueous solutions in which alcohol is used as solvent.</p>",
+     "mcqs": [
+      {
+       "q": "A solution has a ______ composition throughout.",
+       "options": [
+        "uniform",
+        "non-uniform",
+        "changing",
+        "layered"
+       ],
+       "answer": 0,
+       "why": "A solution is a homogeneous mixture of two or more substances which has a uniform composition; the solute dissolves completely and its particles cannot be seen."
+      },
+      {
+       "q": "The particles of the solute in a suspension ______.",
+       "options": [
+        "cannot be seen at all",
+        "disappear in the solvent",
+        "can be seen with the human eye and settle down on standing",
+        "become a gas"
+       ],
+       "answer": 2,
+       "why": "In a suspension the particles of the solute are bigger in size and can be seen with the human eye. They settle down if kept undisturbed for some time and can be separated by filtration."
+      },
+      {
+       "q": "A suspension can be separated by the process of ______.",
+       "options": [
+        "evaporation",
+        "filtration",
+        "burning",
+        "freezing"
+       ],
+       "answer": 1,
+       "why": "Because the particles in a suspension do not dissolve, they are stopped by filter paper and can be separated by filtration."
+      },
+      {
+       "q": "Water is called the universal solvent because ______.",
+       "options": [
+        "it is found everywhere",
+        "it dissolves gold",
+        "it is colourless",
+        "more substances dissolve in water than in any other liquid"
+       ],
+       "answer": 3,
+       "why": "Water is called the universal solvent because more substances dissolve in water than in any other liquid; wherever water goes it dissolves chemicals, minerals and nutrients."
+      },
+      {
+       "q": "Sugar will dissolve faster in hot water than in ice chilled water because ______.",
+       "options": [
+        "heat makes the particles move faster",
+        "hot water is sweet",
+        "sugar melts in cold water",
+        "ice adds more water"
+       ],
+       "answer": 0,
+       "why": "According to the particle model, particles of matter are always in motion and adding heat makes them move faster. In hot water the faster particles separate and spread the sugar quickly."
+      },
+      {
+       "q": "An unsaturated solution is one which ______.",
+       "options": [
+        "contains maximum solute",
+        "can dissolve more solute at a given temperature",
+        "contains no solute",
+        "has solute settled at the bottom"
+       ],
+       "answer": 1,
+       "why": "An unsaturated solution can dissolve more solute at a given temperature. Adding solute little by little, with stirring, converts it into a saturated solution."
+      },
+      {
+       "q": "To convert an unsaturated solution into a saturated solution, we should ______.",
+       "options": [
+        "add more solvent",
+        "cool it strongly",
+        "keep adding more solute until no more dissolves",
+        "filter it"
+       ],
+       "answer": 2,
+       "why": "Keep adding solute a little at a time and stir well. When a stage comes where no more solute dissolves at that temperature and extra solute starts settling at the bottom, the solution is saturated."
+      },
+      {
+       "q": "Perfumes are non-aqueous solutions in which the solvent is ______.",
+       "options": [
+        "water",
+        "oil",
+        "vinegar",
+        "alcohol"
+       ],
+       "answer": 3,
+       "why": "Perfumes, listed among the common solutions used at home in this unit, are non-aqueous solutions in which alcohol is used as the solvent."
+      },
+      {
+       "q": "Carbonated (soft) drinks are solutions of ______.",
+       "options": [
+        "carbon dioxide gas in water",
+        "oxygen gas in water",
+        "nitrogen gas in water",
+        "sugar in oil"
+       ],
+       "answer": 0,
+       "why": "Soft drinks are solutions of carbon dioxide gas dissolved in water, which is why they fizz when opened."
+      },
+      {
+       "q": "If water was not a universal solvent, our blood could not ______.",
+       "options": [
+        "flow in veins",
+        "carry dissolved food and nutrients to the body parts",
+        "remain liquid",
+        "be red in colour"
+       ],
+       "answer": 1,
+       "why": "If water was not a universal solvent, salts, sugar and alcohols could not be dissolved; our blood could not carry dissolved food and nutrients to the body parts, and plants could not take up dissolved minerals."
+      }
+     ]
+    },
+    {
+     "title": "Project Work",
+     "notes_html": "<h4>Project Work</h4><p><strong>Q:</strong> Put flour, clay, sugar, table salt, cooking oil, milk, spirit, lime and starch in separate glasses containing water, shake well and leave undisturbed. Classify these substances as solution or suspension.</p><p><strong>Ans:</strong> Solutions (the substance dissolves completely in water and nothing settles down): (iii) Sugar — dissolves completely, forming a clear sugar solution. (iv) Table salt — dissolves completely, forming a salt solution. (vii) Spirit — mixes completely with water. (vi) Milk — mixes uniformly with water and does not settle down on standing. Suspensions / not solutions (the substance does not dissolve completely): (i) Flour — does not dissolve; its particles settle down — suspension. (ii) Clay — does not dissolve; particles settle down — suspension. (v) Cooking oil — does not dissolve in water at all; it forms a separate layer on top of the water. (viii) Lime — only a little dissolves (forming limewater); the rest stays undissolved and settles down — suspension. (ix) Starch — does not dissolve in cold water; its particles settle down — suspension.</p><p><strong>Q:</strong> Observation of the above project.</p><p><strong>Ans:</strong> In the solution glasses the mixture stays uniform and clear and nothing settles at the bottom, because the solute dissolves completely in water. In the suspension glasses the particles can be seen in the water and, after some time, they settle down at the bottom, because the solute does not dissolve; such particles can be separated by filtration.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Unit 8: Energy and its Forms",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Energy is the ability to do work.</li><li>Energy possessed by a body due to its position is called potential energy; food possesses chemical energy.</li><li>One form of energy can be converted into another form.</li><li>The sun is the main source of energy; a moving car has kinetic energy.</li><li>Sound and light are forms of energy; a lamp is not a form of energy.</li><li>In a battery, chemical energy is changed into electrical energy.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1) Energy is the ability to do ______.</p><p><strong>Ans:</strong> work</p><p><strong>Q:</strong> 2) Energy possessed by a body due to its position is called ______.</p><p><strong>Ans:</strong> potential energy</p><p><strong>Q:</strong> 3) One form of ______ can be converted into another form.</p><p><strong>Ans:</strong> energy</p><p><strong>Q:</strong> 4) Food possesses ______ energy.</p><p><strong>Ans:</strong> chemical</p><p><strong>Q:</strong> 5) Sound and light are forms of ______.</p><p><strong>Ans:</strong> energy</p><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. The main source of energy is ______</p><p><strong>Options:</strong> (a) sun (b) water (c) wind (d) magnet</p><p><strong>Correct answer:</strong> sun</p><p><strong>Q:</strong> 2. A moving car has ______ energy.</p><p><strong>Options:</strong> (a) kinetic (b) potential (c) tidal (d) solar</p><p><strong>Correct answer:</strong> kinetic</p><p><strong>Q:</strong> 3. Which one is not a form of energy ______</p><p><strong>Options:</strong> (a) heat (b) light (c) sound (d) lamp</p><p><strong>Correct answer:</strong> lamp</p><p><strong>Q:</strong> 4. In a battery, chemical energy is changed into ______</p><p><strong>Options:</strong> (a) heat (b) sound (c) light (d) electrical</p><p><strong>Correct answer:</strong> electrical</p>",
+     "mcqs": [
+      {
+       "q": "The main source of energy is ______.",
+       "options": [
+        "sun",
+        "water",
+        "wind",
+        "magnet"
+       ],
+       "answer": 0,
+       "why": "The sun is the main source of energy for the Earth. Almost all other sources of energy depend directly or indirectly on the sun."
+      },
+      {
+       "q": "A moving car has ______ energy.",
+       "options": [
+        "kinetic",
+        "potential",
+        "tidal",
+        "solar"
+       ],
+       "answer": 0,
+       "why": "A car possesses energy because it is moving. The energy of a body due to its motion is called kinetic energy."
+      },
+      {
+       "q": "Which one is not a form of energy ______.",
+       "options": [
+        "heat",
+        "light",
+        "sound",
+        "lamp"
+       ],
+       "answer": 3,
+       "why": "Heat, light and sound are forms of energy. A lamp is a device that produces light; it is not itself a form of energy."
+      },
+      {
+       "q": "In a battery, chemical energy is changed into ______.",
+       "options": [
+        "heat",
+        "sound",
+        "light",
+        "electrical"
+       ],
+       "answer": 3,
+       "why": "A battery stores chemical energy. When it is used, this chemical energy is changed into electrical energy which runs the device."
+      },
+      {
+       "q": "Energy is the ability to do ______.",
+       "options": [
+        "rest",
+        "work",
+        "sleep",
+        "motion only"
+       ],
+       "answer": 1,
+       "why": "Energy is defined as the ability to do work. A body that has energy can make things move, heat up or change."
+      },
+      {
+       "q": "Energy possessed by a body due to its position is called ______ energy.",
+       "options": [
+        "kinetic",
+        "chemical",
+        "potential",
+        "electrical"
+       ],
+       "answer": 2,
+       "why": "The energy stored in a body due to its position is called potential energy, for example a stone raised to a certain height."
+      },
+      {
+       "q": "One form of ______ can be converted into another form.",
+       "options": [
+        "matter",
+        "energy",
+        "mass",
+        "force"
+       ],
+       "answer": 1,
+       "why": "One form of energy can be converted into another form: for example, in a battery chemical energy changes into electrical energy."
+      },
+      {
+       "q": "Food possesses ______ energy.",
+       "options": [
+        "solar",
+        "kinetic",
+        "chemical",
+        "tidal"
+       ],
+       "answer": 2,
+       "why": "Food stores chemical energy. Animals and human beings store this chemical energy of food and change it into heat and kinetic energy."
+      },
+      {
+       "q": "Sound and light are forms of ______.",
+       "options": [
+        "matter",
+        "energy",
+        "machines",
+        "force"
+       ],
+       "answer": 1,
+       "why": "Sound and light can travel and do work, so both are forms of energy, like heat and electrical energy."
+      },
+      {
+       "q": "A stretched rubber band possesses ______ energy.",
+       "options": [
+        "kinetic",
+        "potential",
+        "sound",
+        "light"
+       ],
+       "answer": 1,
+       "why": "A stretched rubber band has energy stored in it due to its stretched position, so it possesses potential energy. When released, this changes into kinetic energy."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Potential energy is stored in an object due to its position; kinetic energy is the energy of a body due to its motion.</li><li>When an electric fan is turned on, electrical energy is converted into mechanical (kinetic) energy.</li><li>In a swinging pendulum, potential energy and kinetic energy keep changing into each other but the total energy remains constant — the law of conservation of energy.</li><li>Our body needs energy all the time, even during sleep, for activities, growth and repair.</li><li>Energy from the sun reaches the Earth's surface as radiation and is absorbed into the environment by conduction and released by convection.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. What energy changes takes place when an electric fan is turned on?</p><p><strong>Ans:</strong> When an electric fan is turned on, electrical energy is converted into mechanical (kinetic) energy by its motor, which makes the blades of the fan move round. A small part of the electrical energy is also converted into heat and sound energy.</p><p><strong>Q:</strong> 2. What is the difference between kinetic energy and potential energy?</p><p><strong>Ans:</strong> The energy which is stored in an object due to its position is called potential energy; for example, a stretched rubber band or a stone raised to a certain height has potential energy. The energy in a body due to its motion is called kinetic energy; for example, moving vehicles, a bullet fired from a gun and a moving ball possess kinetic energy. So potential energy is due to position, while kinetic energy is due to motion.</p><p><strong>Q:</strong> 3. Conduct a simple experiment to show law of conservation of energy.</p><p><strong>Ans:</strong> Take a pendulum (a hanging ball) and push it to make to-and-fro motion. When the ball is moving, it has kinetic energy. When the ball reaches the extreme point, it has no more kinetic energy; at the highest extreme point the ball has potential energy. When the ball moves again, the potential energy converts into kinetic energy. The pendulum keeps swinging and changing the form of energy from kinetic to potential and back to kinetic, but the total amount of energy remains constant. This shows the law of conservation of energy: energy cannot be destroyed, it can only change its form.</p><p><strong>Q:</strong> 4. Why energy is so important in our lives?</p><p><strong>Ans:</strong> Energy is required for all activities and processes. Our body needs energy all the time: we need energy for walking, running, playing and studying, and energy is also needed when we are asleep. Energy keeps our body warm, it is necessary for the growth of our body and it is also used to repair the damaged parts of the body. All living things and machines use energy to do work, and energy converters like the radio, television and lamp improve the quality of our life.</p><p><strong>Q:</strong> 5. How energy transfer occur in our environment?</p><p><strong>Ans:</strong> Animals and human beings store the chemical energy of food and then change this chemical energy into heat and kinetic energy; in the end, the heat and kinetic energy dissipate into the atmosphere. Energy in the form of radiation transfers to the earth's surface from the sun and is absorbed into the environment by the conduction method and is then released into the atmosphere by convection processes. In this way, all types of energies pass through different organisms and in the end dissipate in the atmosphere.</p>",
+     "mcqs": [
+      {
+       "q": "What energy change takes place when an electric fan is turned on?",
+       "options": [
+        "electrical energy changes into mechanical (kinetic) energy",
+        "chemical energy changes into light",
+        "sound energy changes into heat only",
+        "potential energy changes into sound"
+       ],
+       "answer": 0,
+       "why": "When an electric fan is turned on, electrical energy is converted into mechanical (kinetic) energy by its motor, which makes the blades move round. A small part also changes into heat and sound energy."
+      },
+      {
+       "q": "Potential energy is the energy stored in an object due to its ______.",
+       "options": [
+        "motion",
+        "position",
+        "temperature",
+        "colour"
+       ],
+       "answer": 1,
+       "why": "Potential energy is due to position: a stretched rubber band or a stone raised to a certain height has potential energy."
+      },
+      {
+       "q": "Kinetic energy is the energy in a body due to its ______.",
+       "options": [
+        "position",
+        "shape",
+        "motion",
+        "rest"
+       ],
+       "answer": 2,
+       "why": "Kinetic energy is due to motion: moving vehicles, a bullet fired from a gun and a moving ball all possess kinetic energy."
+      },
+      {
+       "q": "A stone raised to a certain height has ______.",
+       "options": [
+        "kinetic energy",
+        "potential energy",
+        "sound energy",
+        "no energy"
+       ],
+       "answer": 1,
+       "why": "Raising a stone stores energy in it due to its height (position). This stored energy is potential energy; it changes into kinetic energy when the stone falls."
+      },
+      {
+       "q": "In a swinging pendulum, when the ball reaches the extreme (highest) point, it has ______.",
+       "options": [
+        "only kinetic energy",
+        "potential energy and no kinetic energy",
+        "no energy at all",
+        "only sound energy"
+       ],
+       "answer": 1,
+       "why": "At the highest extreme point the pendulum ball stops for a moment, so it has no kinetic energy; all its energy there is potential energy."
+      },
+      {
+       "q": "The law of conservation of energy shown by the pendulum is that ______.",
+       "options": [
+        "energy is destroyed at the top",
+        "the total amount of energy remains constant",
+        "energy increases at every swing",
+        "energy changes into matter"
+       ],
+       "answer": 1,
+       "why": "The pendulum keeps changing energy from kinetic to potential and back to kinetic, but the total amount of energy remains constant. This shows the law of conservation of energy."
+      },
+      {
+       "q": "Our body needs energy ______.",
+       "options": [
+        "only while playing",
+        "only while studying",
+        "all the time, even when we are asleep",
+        "only in winter"
+       ],
+       "answer": 2,
+       "why": "Energy is required for all activities: walking, running, playing and studying, and energy is also needed when we are asleep. It keeps the body warm and is used for growth and repair."
+      },
+      {
+       "q": "Energy in the form of radiation transfers to the Earth's surface from ______.",
+       "options": [
+        "the moon",
+        "the sun",
+        "the oceans",
+        "the wind"
+       ],
+       "answer": 1,
+       "why": "Energy in the form of radiation transfers to the Earth's surface from the sun and is absorbed into the environment by conduction and then released into the atmosphere by convection."
+      },
+      {
+       "q": "Animals and human beings change the chemical energy of food into ______.",
+       "options": [
+        "heat and kinetic energy",
+        "light and sound only",
+        "potential energy only",
+        "electrical energy only"
+       ],
+       "answer": 0,
+       "why": "Animals and human beings store the chemical energy of food and change it into heat and kinetic energy; in the end this energy dissipates into the atmosphere."
+      },
+      {
+       "q": "Energy converters like the radio, television and lamp ______.",
+       "options": [
+        "destroy energy",
+        "improve the quality of our life",
+        "work without energy",
+        "store sunlight"
+       ],
+       "answer": 1,
+       "why": "All living things and machines use energy to do work, and energy converters like the radio, television and lamp improve the quality of our life."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 9: Forces and Machines",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>There are seven types of simple machines.</li><li>A combination of both fixed and moveable pulleys is called a pulley system.</li><li>In a wheel and axle, the diameter of the wheel is larger than the diameter of the axle.</li><li>Wheels with teeth around them are called gears; a gear can transmit rotational force to another gear.</li><li>A pulley is a simple machine used to lift objects; a flag pole is an example of a fixed pulley.</li><li>A moveable pulley can lift a greater load by applying less effort; a hand drill consists of gears.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. There are ______ types of simple machines.</p><p><strong>Ans:</strong> seven</p><p><strong>Q:</strong> 2. A combination of both fixed and moveable pulleys is called ______.</p><p><strong>Ans:</strong> pulley system</p><p><strong>Q:</strong> 3. The diameter of wheel is ______ then the diameter of axle.</p><p><strong>Ans:</strong> larger</p><p><strong>Q:</strong> 4. Wheels with teeth around them are called ______.</p><p><strong>Ans:</strong> gears</p><p><strong>Q:</strong> 5. Gear can transmit ______ to another gear.</p><p><strong>Ans:</strong> rotational force</p><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. ______ gear is used to turn both the gears in the same direction.</p><p><strong>Options:</strong> (a) idler gear (b) driving gear (c) driven gear (d) none of them</p><p><strong>Correct answer:</strong> idler gear</p><p><strong>Q:</strong> 2. Pulley is a simple machine used to ______ the objects</p><p><strong>Options:</strong> (a) move (b) lift (c) stop (d) rotate</p><p><strong>Correct answer:</strong> lift</p><p><strong>Q:</strong> 3. A flag pole is an example of ______</p><p><strong>Options:</strong> (a) fixed pulley (b) moveable pulley (c) gear (d) wheel-axle</p><p><strong>Correct answer:</strong> fixed pulley</p><p><strong>Q:</strong> 4. A moveable pulley can lift greater load by applying ______ effort.</p><p><strong>Options:</strong> (a) equal (b) less (c) more (d) none</p><p><strong>Correct answer:</strong> less</p><p><strong>Q:</strong> 5. A hand drill consist of two mutually perpendicular ______</p><p><strong>Options:</strong> (a) gears (b) pulleys (c) wheels (d) levers</p><p><strong>Correct answer:</strong> gears</p>",
+     "mcqs": [
+      {
+       "q": "______ gear is used to turn both the gears in the same direction.",
+       "options": [
+        "idler gear",
+        "driving gear",
+        "driven gear",
+        "compound gear"
+       ],
+       "answer": 0,
+       "why": "An idler gear placed between the driving and driven gears makes both gears turn in the same direction. (The book's printed fourth option 'none of them' is replaced here by 'compound gear'.)"
+      },
+      {
+       "q": "Pulley is a simple machine used to ______ the objects.",
+       "options": [
+        "move",
+        "lift",
+        "stop",
+        "rotate"
+       ],
+       "answer": 1,
+       "why": "A pulley is a grooved wheel over which a rope passes. It is used to lift objects, for example drawing a bucket of water up from a well."
+      },
+      {
+       "q": "A flag pole is an example of ______.",
+       "options": [
+        "fixed pulley",
+        "moveable pulley",
+        "gear",
+        "wheel-axle"
+       ],
+       "answer": 0,
+       "why": "The pulley at the top of a flag pole is attached to a fixed support and does not move from its place, so it is a fixed pulley. It only changes the direction of the effort."
+      },
+      {
+       "q": "A moveable pulley can lift greater load by applying ______ effort.",
+       "options": [
+        "equal",
+        "less",
+        "more",
+        "double"
+       ],
+       "answer": 1,
+       "why": "In a moveable pulley the load is shared by the rope, so a greater load can be lifted by applying less effort."
+      },
+      {
+       "q": "A hand drill consist of two mutually perpendicular ______.",
+       "options": [
+        "gears",
+        "pulleys",
+        "wheels",
+        "levers"
+       ],
+       "answer": 0,
+       "why": "A hand drill works with two gears fitted at right angles (mutually perpendicular) to each other, which change the direction of rotation."
+      },
+      {
+       "q": "There are ______ types of simple machines.",
+       "options": [
+        "five",
+        "six",
+        "seven",
+        "eight"
+       ],
+       "answer": 2,
+       "why": "According to this unit, there are seven types of simple machines, including the lever, pulley, wheel and axle, gear, inclined plane, wedge and screw."
+      },
+      {
+       "q": "A combination of both fixed and moveable pulleys is called ______.",
+       "options": [
+        "gear system",
+        "pulley system",
+        "wheel and axle",
+        "lever system"
+       ],
+       "answer": 1,
+       "why": "When fixed and moveable pulleys are combined and used together, the arrangement is called a pulley system. It reduces the effort needed to lift a heavy load."
+      },
+      {
+       "q": "The diameter of wheel is ______ then the diameter of axle.",
+       "options": [
+        "smaller",
+        "equal",
+        "larger",
+        "half"
+       ],
+       "answer": 2,
+       "why": "In a wheel and axle, the wheel is the bigger part: the diameter of the wheel is larger than the diameter of the axle, so a small force on the wheel gives a bigger force at the axle."
+      },
+      {
+       "q": "Wheels with teeth around them are called ______.",
+       "options": [
+        "pulleys",
+        "gears",
+        "axles",
+        "levers"
+       ],
+       "answer": 1,
+       "why": "A gear is a wheel with teeth around its rim. The teeth of one gear mesh with the teeth of another gear to transmit force and motion."
+      },
+      {
+       "q": "Gear can transmit ______ to another gear.",
+       "options": [
+        "rotational force",
+        "light",
+        "sound",
+        "heat"
+       ],
+       "answer": 0,
+       "why": "Gears transmit rotational force (turning force) from one gear to another, in the same direction or in the opposite direction."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>In a fixed pulley the block is fixed and the pulley only changes the direction of the effort; in a moveable pulley the block moves with the load and less effort is needed.</li><li>Gear system: a force applied on a small gear turns a larger gear slowly but with great force; a larger gear turns a smaller gear faster but with less force.</li><li>A fixed pulley fitted at the top of a well is used to lift and lower the bucket of water.</li><li>Wheel and axle is used in the steering wheel of a vehicle, a screwdriver, the crank on a well, door knobs, water taps and a tricycle.</li><li>A pulley system reduces the effort needed to lift a heavy load; the greater the number of pulleys, the lesser the effort needed.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Differentiate between fixed pulley and moveable pulley.</p><p><strong>Ans:</strong> In a fixed pulley, the block of the pulley is connected to a fixed support and does not change its place. One end of the rope is attached to the object to be lifted and effort is applied at its free end; when the free end is pulled downward with an effort equal to the load, the object is lifted upward. A fixed pulley only changes the direction of the applied effort. In a moveable pulley, the block is not connected to a fixed support and the pulley is free to move. One end of the rope is connected with a fixed support, effort is applied at its free end, and the load is hung from the hook of the block of the pulley. Here two parts of the rope support the load, so the load is divided into two and a greater load can be lifted by applying less effort. A moveable pulley does not change the direction of a force; the applied force and the load move in the same direction.</p><p><strong>Q:</strong> 2. What are the characteristics of a gear system?</p><p><strong>Ans:</strong> The characteristics of a gear system are: (i) Gears can transmit rotational force to another gear in the same direction or in opposite direction. (ii) The size and number of teeth on a gear determine its working: a force applied on a small gear will turn the larger gear slowly, with fewer revolutions in a minute, but it will have a great force; on the other hand, a force applied on a larger gear will turn a smaller gear faster but it will have less force. (iii) The speed of the driven shaft depends on the number of teeth in each gear.</p><p><strong>Q:</strong> 3. Which type of simple machine would be used to lower and lift up the bucket of water in a well?</p><p><strong>Ans:</strong> A pulley is used to lower and lift up the bucket of water in a well. A fixed pulley is fitted at the top of the well; the bucket is tied to one end of the rope passing over the pulley, and when the free end of the rope is pulled down, the bucket is lifted up. The pulley only changes the direction of the applied effort, which makes it easier to draw water from the well. (The crank arrangement on a well works as a wheel and axle, as shown in the figure of the well in this unit.)</p><p><strong>Q:</strong> 4. Write some uses of a wheel and axle in our daily life?</p><p><strong>Ans:</strong> Wheel and axle is used in daily life in the steering wheel of a vehicle (a small force on the outer edge of the wheel provides a bigger force at the axle), in a screwdriver (its broader handle is the wheel and the tip is the axle), in the crank on a well, in a drill machine, in door knobs, roller skates, water taps and a tricycle.</p><p><strong>Q:</strong> 5. Differentiate between a pulley system and gear system.</p><p><strong>Ans:</strong> A pulley system is a combination of both fixed and moveable pulleys. A pulley is a grooved wheel over which a rope, belt or cable passes, and the pulley system is used for lifting objects to a certain height; it reduces the amount of effort needed to lift a heavy load, and the greater the number of pulleys in the system, the lesser the effort needed. A gear system is a combination of two or more gears. A gear is a wheel with teeth that mesh with the teeth of another gear, and the gear system is used to transmit or receive force and motion; when one gear drives another, both gears revolve in opposite directions (a third gear, the idler gear, makes them turn in the same direction), and the speed of the driven gear depends on the number of teeth in each gear. Gear systems are used in vehicles, bicycles, wind-up clocks, washing machines and hand drills.</p>",
+     "mcqs": [
+      {
+       "q": "A fixed pulley only changes ______.",
+       "options": [
+        "the amount of load",
+        "the direction of the applied effort",
+        "the weight of the rope",
+        "the size of the wheel"
+       ],
+       "answer": 1,
+       "why": "In a fixed pulley, the block is connected to a fixed support. The effort needed is equal to the load; the pulley only changes the direction of the applied effort, which makes lifting easier."
+      },
+      {
+       "q": "In a moveable pulley, the block of the pulley ______.",
+       "options": [
+        "is fixed to a support",
+        "is free to move with the load",
+        "has teeth on it",
+        "is made of rope"
+       ],
+       "answer": 1,
+       "why": "In a moveable pulley the block is not connected to a fixed support; the pulley is free to move, the load hangs from its hook, and less effort is needed to lift the load."
+      },
+      {
+       "q": "A force applied on a small gear will turn a larger gear ______.",
+       "options": [
+        "faster with less force",
+        "slowly, with fewer revolutions but great force",
+        "in the same speed",
+        "not at all"
+       ],
+       "answer": 1,
+       "why": "The size and number of teeth determine the working of gears: a small gear driving a larger gear makes it turn slowly, with fewer revolutions in a minute, but with great force."
+      },
+      {
+       "q": "The speed of the driven shaft in a gear system depends on ______.",
+       "options": [
+        "the colour of the gears",
+        "the number of teeth in each gear",
+        "the length of the rope",
+        "the weight of the machine"
+       ],
+       "answer": 1,
+       "why": "One of the characteristics of a gear system given in this unit is that the speed of the driven shaft depends on the number of teeth in each gear."
+      },
+      {
+       "q": "Which simple machine is used to lower and lift up the bucket of water in a well?",
+       "options": [
+        "gear",
+        "lever",
+        "pulley",
+        "wedge"
+       ],
+       "answer": 2,
+       "why": "A fixed pulley is fitted at the top of the well; the bucket is tied to one end of the rope passing over the pulley, and pulling the free end down lifts the bucket up."
+      },
+      {
+       "q": "The crank arrangement on a well works as a ______.",
+       "options": [
+        "gear system",
+        "wheel and axle",
+        "inclined plane",
+        "screw"
+       ],
+       "answer": 1,
+       "why": "As shown in the figure of the well in this unit, the crank arrangement on a well works as a wheel and axle: turning the large crank rotates the axle around which the rope winds."
+      },
+      {
+       "q": "In a screwdriver, the broader handle acts as the ______ and the tip as the axle.",
+       "options": [
+        "wheel",
+        "gear",
+        "pulley",
+        "lever"
+       ],
+       "answer": 0,
+       "why": "A screwdriver is an example of wheel and axle: its broader handle is the wheel and the tip is the axle, so a small turning force on the handle gives a bigger force at the tip."
+      },
+      {
+       "q": "In a pulley system, the greater the number of pulleys, ______.",
+       "options": [
+        "the greater the effort needed",
+        "the lesser the effort needed to lift a heavy load",
+        "the heavier the load becomes",
+        "the slower the rope moves only"
+       ],
+       "answer": 1,
+       "why": "A pulley system is used for lifting objects to a certain height; it reduces the amount of effort needed, and the greater the number of pulleys in the system, the lesser the effort needed."
+      },
+      {
+       "q": "The teeth of one gear ______ with the teeth of another gear.",
+       "options": [
+        "mesh",
+        "melt",
+        "break",
+        "slide off"
+       ],
+       "answer": 0,
+       "why": "A gear is a wheel with teeth that mesh (fit into) the teeth of another gear. Through this meshing, the gear system transmits or receives force and motion."
+      },
+      {
+       "q": "The steering wheel of a vehicle is an example of ______.",
+       "options": [
+        "fixed pulley",
+        "wheel and axle",
+        "gear only",
+        "wedge"
+       ],
+       "answer": 1,
+       "why": "The steering wheel works as a wheel and axle: a small force applied on the outer edge of the wheel provides a bigger force at the axle to turn the vehicle."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 10: Properties of Light",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>An instrument used to see distant objects is called a telescope; a microscope produces a large image of a small object.</li><li>The speed of light is 3 x 10^8 m/s.</li><li>An image formed by a plane mirror is laterally inverted; the angle of incidence is always equal to the angle of reflection.</li><li>A convex mirror always forms a virtual image; a concave mirror converges a parallel beam of light.</li><li>Mirrors used in car head lights and search lights are concave mirrors.</li><li>A mirror is not a rough surface; paper, wall and cloth are rough surfaces.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. An instrument used to see distant objects is called ______.</p><p><strong>Ans:</strong> telescope</p><p><strong>Q:</strong> 2. Speed of light is ______.</p><p><strong>Ans:</strong> 3 x 10^8 m/s</p><p><strong>Q:</strong> 3. Image formed in concave mirror is always ______.</p><p><strong>Ans:</strong> real and inverted (when the object is at or beyond the principal focus; if the object is between the focus and the mirror, the image is virtual, upright and magnified)</p><p><strong>Q:</strong> 4. Image formed by plane mirror is ______ inverted.</p><p><strong>Ans:</strong> laterally</p><p><strong>Q:</strong> 5. The angle of incidence is always ______ to the angle of reflection.</p><p><strong>Ans:</strong> equal</p><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. Image formed by convex mirror is always ______.</p><p><strong>Options:</strong> (a) virtual (b) erect and large (c) real (d) inverted</p><p><strong>Correct answer:</strong> virtual</p><p><strong>Q:</strong> 2. Concave mirror has the capability to ______ a parallel beam of light.</p><p><strong>Options:</strong> (a) converge (b) diverge (c) dispense (d) no change</p><p><strong>Correct answer:</strong> converge</p><p><strong>Q:</strong> 3. A microscope is an instrument used to produce a ______ image:</p><p><strong>Options:</strong> (a) large (b) small (c) short (d) far</p><p><strong>Correct answer:</strong> large</p><p><strong>Q:</strong> 4. Which one is not a rough surface:</p><p><strong>Options:</strong> (a) paper (b) wall (c) cloth (d) mirror</p><p><strong>Correct answer:</strong> mirror</p><p><strong>Q:</strong> 5. Mirrors used in car head lights and search lights are ______.</p><p><strong>Options:</strong> (a) convex (b) concave (c) plane (d) all of them</p><p><strong>Correct answer:</strong> concave</p><p><strong>Exercise C: Match column A with column B:</strong></p><p><strong>Q:</strong> Multiple reflection</p><p><strong>Ans:</strong> Kaleidoscope (multiple reflection is the phenomenon used in a kaleidoscope, where a number of images of an object are formed by two plane mirrors inclined to each other).</p><p><strong>Q:</strong> Periscope</p><p><strong>Ans:</strong> Two plane mirrors (a simple periscope is constructed by using two plane mirrors at 45 degrees in a tube).</p><p><strong>Q:</strong> Microscope</p><p><strong>Ans:</strong> Large image (a microscope is used to produce a large image of a small object like bacteria).</p><p><strong>Q:</strong> Pinhole camera</p><p><strong>Ans:</strong> Real image (the image formed by a pinhole camera is a real one).</p><p><strong>Q:</strong> Convex mirror</p><p><strong>Ans:</strong> Virtual image (a convex mirror always forms an upright, virtual and smaller image).</p>",
+     "mcqs": [
+      {
+       "q": "Image formed by convex mirror is always ______.",
+       "options": [
+        "virtual",
+        "erect and large",
+        "real",
+        "inverted"
+       ],
+       "answer": 0,
+       "why": "A convex mirror always forms an upright, virtual and smaller image. It can never form a real image on a screen."
+      },
+      {
+       "q": "Concave mirror has the capability to ______ a parallel beam of light.",
+       "options": [
+        "converge",
+        "diverge",
+        "dispense",
+        "no change"
+       ],
+       "answer": 0,
+       "why": "A concave mirror is a converging mirror: it brings a parallel beam of light together (converges it) at its focus. That is why concave mirrors are used in search lights and head lights."
+      },
+      {
+       "q": "A microscope is an instrument used to produce a ______ image.",
+       "options": [
+        "large",
+        "small",
+        "short",
+        "far"
+       ],
+       "answer": 0,
+       "why": "A microscope is used to produce a large image of a very small object, like bacteria, so that it can be studied."
+      },
+      {
+       "q": "Which one is not a rough surface?",
+       "options": [
+        "paper",
+        "wall",
+        "cloth",
+        "mirror"
+       ],
+       "answer": 3,
+       "why": "Paper, wall and cloth have rough surfaces which scatter light in many directions. A mirror has a smooth, shiny surface, so it is not a rough surface."
+      },
+      {
+       "q": "Mirrors used in car head lights and search lights are ______.",
+       "options": [
+        "convex",
+        "concave",
+        "plane",
+        "cylindrical"
+       ],
+       "answer": 1,
+       "why": "Car head lights and search lights use concave mirrors, which converge light into a strong parallel beam. (The book's printed option 'all of them' is replaced here by 'cylindrical', since only the concave mirror does this job.)"
+      },
+      {
+       "q": "An instrument used to see distant objects is called ______.",
+       "options": [
+        "microscope",
+        "periscope",
+        "telescope",
+        "kaleidoscope"
+       ],
+       "answer": 2,
+       "why": "A telescope is the instrument used to see distant objects, such as stars and planets, clearly and enlarged."
+      },
+      {
+       "q": "Speed of light is ______.",
+       "options": [
+        "3 x 10^8 m/s",
+        "3 x 10^5 m/s",
+        "340 m/s",
+        "1500 m/s"
+       ],
+       "answer": 0,
+       "why": "Light travels at a speed of 3 x 10^8 metres per second in vacuum, which is much faster than the speed of sound in air (about 340 m/s)."
+      },
+      {
+       "q": "Image formed by a plane mirror is ______ inverted.",
+       "options": [
+        "vertically",
+        "laterally",
+        "fully",
+        "never"
+       ],
+       "answer": 1,
+       "why": "A plane mirror forms an image that is laterally inverted: the left side of the object appears on the right side in the image, and vice versa."
+      },
+      {
+       "q": "When the object is at or beyond the principal focus, the image formed by a concave mirror is ______.",
+       "options": [
+        "virtual and upright",
+        "real and inverted",
+        "always smaller and erect",
+        "laterally inverted"
+       ],
+       "answer": 1,
+       "why": "The solved answer of this unit states that the image formed in a concave mirror is real and inverted when the object is at or beyond the principal focus; if the object is between the focus and the mirror, the image is virtual, upright and magnified."
+      },
+      {
+       "q": "The image formed by a pinhole camera is a ______ image.",
+       "options": [
+        "virtual",
+        "real",
+        "laterally inverted",
+        "equal sized"
+       ],
+       "answer": 1,
+       "why": "The matching exercise of this unit pairs the pinhole camera with a real image: the image formed by a pinhole camera is real and inverted."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A plane mirror forms a virtual, upright image of equal size; a pinhole camera forms a real, inverted and mostly smaller image.</li><li>Dark clothes absorb more light and produce more heat, so people wear dark clothes in winter; white clothes reflect most light, so they are worn in summer.</li><li>Transmission: light passes through transparent objects. Absorption: light is taken in by an opaque surface and creates heat. Reflection: light bounces back from a smooth shiny surface.</li><li>A kaleidoscope works on multiple reflection; a periscope is made of two plane mirrors; a convex mirror forms an upright, virtual and smaller image.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise D: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Compare the images formed by a plane mirror and pinhole camera.</p><p><strong>Ans:</strong> A plane mirror forms a virtual image, while a pinhole camera forms a real image. A plane mirror forms the image of equal size as of the object, while a pinhole camera mostly forms smaller or diminished images. A plane mirror forms an upright image, while a pinhole camera forms an inverted image.</p><p><strong>Q:</strong> 2. Mostly people wear white clothes in summer and dark clothes in winter season. Give reason.</p><p><strong>Ans:</strong> When a ray of light strikes an opaque surface, some of it gets absorbed and the energy from the light is transferred to the surface material, which creates heat. Dark clothes absorb more light, so more heat is produced and the body stays warm; therefore people wear dark clothes in the winter season. White clothes absorb very little light and reflect most of it, so the body stays cool; therefore people wear white clothes in summer.</p><p><strong>Q:</strong> 3. Differentiate between the transmission, absorption and reflection of light.</p><p><strong>Ans:</strong> Transmission of light: light passes through transparent objects easily, for example glass and some plastic sheets; the passage of light through a transparent object is called transmission of light. Absorption of light: when a ray of light strikes an opaque surface, some of it gets absorbed; the energy from the light is transferred to the surface material and this transfer creates a small amount of heat; such behaviour of light is called absorption of light. Reflection of light: when light falls on a smooth shiny object, like a mirror, it bounces back in one particular direction; this bouncing of light is called reflection of light.</p><p><strong>Q:</strong> 4. Prove the law of reflection through an activity.</p><p><strong>Ans:</strong> Take a drawing board and fix a white paper on it with a drawing pin. Place a mirror slab XY (fixed in standing position) on the white paper. Fix two common pins N and M obliquely in front of the mirror in a straight line. Look at the image of the pins in the mirror and fix two more common pins Q and R in such a way that the images of pins N and M and pins Q and R lie on the same straight line. Join all the points N, M, Q and R with the mirror XY at point P, and draw a normal at point P. Measure the angle of incidence NPS, which the incident ray NM forms with the normal, and the angle of reflection RPS, which the reflected ray QR forms with the normal. The two angles are found equal. This proves the law of reflection: the angle of incidence is equal to the angle of reflection (and the incident ray, the reflected ray and the normal all lie in the same plane).</p>",
+     "mcqs": [
+      {
+       "q": "Compare: a plane mirror forms a ______ image, while a pinhole camera forms a real image.",
+       "options": [
+        "virtual",
+        "real",
+        "coloured",
+        "moving"
+       ],
+       "answer": 0,
+       "why": "A plane mirror forms a virtual image (which cannot be taken on a screen), while a pinhole camera forms a real image. The plane mirror image is upright and of equal size; the pinhole image is inverted and mostly smaller."
+      },
+      {
+       "q": "People wear dark clothes in the winter season because dark clothes ______.",
+       "options": [
+        "reflect all light",
+        "absorb more light, so more heat is produced",
+        "are cheaper",
+        "block the wind only"
+       ],
+       "answer": 1,
+       "why": "When light strikes an opaque surface, some of it is absorbed and its energy creates heat. Dark clothes absorb more light, so more heat is produced and the body stays warm in winter."
+      },
+      {
+       "q": "People wear white clothes in summer because white clothes ______.",
+       "options": [
+        "absorb all light",
+        "produce light",
+        "store heat",
+        "absorb very little light and reflect most of it"
+       ],
+       "answer": 3,
+       "why": "White clothes absorb very little light and reflect most of it, so very little heat is produced and the body stays cool in summer."
+      },
+      {
+       "q": "The passage of light through a transparent object, like glass, is called ______.",
+       "options": [
+        "absorption of light",
+        "reflection of light",
+        "transmission of light",
+        "dispersion of light"
+       ],
+       "answer": 2,
+       "why": "Light passes through transparent objects easily, for example glass and some plastic sheets. This passage of light through a transparent object is called transmission of light."
+      },
+      {
+       "q": "When light falls on a smooth shiny object like a mirror and bounces back in one particular direction, this is called ______.",
+       "options": [
+        "absorption",
+        "transmission",
+        "reflection",
+        "refraction"
+       ],
+       "answer": 2,
+       "why": "Reflection of light is the bouncing back of light in one particular direction when it falls on a smooth shiny object like a mirror."
+      },
+      {
+       "q": "A kaleidoscope works on the phenomenon of ______.",
+       "options": [
+        "multiple reflection",
+        "single reflection",
+        "absorption",
+        "transmission"
+       ],
+       "answer": 0,
+       "why": "In a kaleidoscope, two plane mirrors inclined to each other form a number of images of an object. This phenomenon is called multiple reflection."
+      },
+      {
+       "q": "A simple periscope is constructed by using ______.",
+       "options": [
+        "one concave mirror",
+        "two plane mirrors at 45 degrees in a tube",
+        "two convex mirrors",
+        "a lens and a mirror"
+       ],
+       "answer": 1,
+       "why": "The matching exercise of this unit pairs the periscope with two plane mirrors: a simple periscope is constructed by using two plane mirrors at 45 degrees in a tube."
+      },
+      {
+       "q": "A convex mirror always forms an image that is ______.",
+       "options": [
+        "real, inverted and large",
+        "upright, virtual and smaller",
+        "inverted and equal sized",
+        "real and magnified"
+       ],
+       "answer": 1,
+       "why": "The matching exercise of this unit states that a convex mirror always forms an upright, virtual and smaller image, which is why it is used as a driving mirror."
+      },
+      {
+       "q": "In the law of reflection experiment with pins and a mirror, the measured angle of incidence is ______ the angle of reflection.",
+       "options": [
+        "greater than",
+        "less than",
+        "equal to",
+        "double"
+       ],
+       "answer": 2,
+       "why": "In the activity, the angle of incidence NPS and the angle of reflection are measured with the normal drawn at point P, and they are found equal. This proves the law of reflection: the angle of incidence is always equal to the angle of reflection."
+      },
+      {
+       "q": "Absorption of light takes place when light strikes ______.",
+       "options": [
+        "a transparent object",
+        "an opaque surface",
+        "a mirror only",
+        "a vacuum"
+       ],
+       "answer": 1,
+       "why": "When a ray of light strikes an opaque surface, some of it gets absorbed; the energy from the light is transferred to the surface material and this transfer creates a small amount of heat."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 11: Investigating Sound",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Sound waves cannot pass through a vacuum; sound needs a medium to travel.</li><li>Sound is a form of energy, produced by vibrations — the back and forth movement of an object.</li><li>The human ear can detect frequencies from 20 hertz to 20,000 hertz.</li><li>The speed of sound in air increases with an increase in temperature and greatly varies with temperature.</li><li>The speed of sound in iron is 5130 m/s; sound travels as longitudinal waves.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. Sound waves cannot pass through ______.</p><p><strong>Ans:</strong> vacuum</p><p><strong>Q:</strong> 2. Sound is also a form of ______.</p><p><strong>Ans:</strong> energy</p><p><strong>Q:</strong> 3. Human ear can detect frequency from 20 hertz to ______ hertz.</p><p><strong>Ans:</strong> 20,000</p><p><strong>Q:</strong> 4. Back and forth movement of an object is called ______.</p><p><strong>Ans:</strong> vibration</p><p><strong>Q:</strong> 5. Speed of sound in air greatly varies with ______.</p><p><strong>Ans:</strong> temperature</p><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. Sound cannot travel through ______</p><p><strong>Options:</strong> (a) iron (b) wood (c) water (d) vacuum</p><p><strong>Correct answer:</strong> vacuum</p><p><strong>Q:</strong> 2. Human ear has ______ distinct parts.</p><p><strong>Options:</strong> (a) four (b) two (c) one (d) three</p><p><strong>Correct answer:</strong> three</p><p><strong>Q:</strong> 3. Speed of sound ______ in air with increase in temperature.</p><p><strong>Options:</strong> (a) increases (b) decreases (c) remain same (d) both (b) and (c)</p><p><strong>Correct answer:</strong> increases</p><p><strong>Q:</strong> 4. Speed of sound in Iron is</p><p><strong>Options:</strong> (a) 5130 m/s (b) 1530 m/s (c) 3150 m/s (d) 1503 m/s</p><p><strong>Correct answer:</strong> 5130 m/s</p><p><strong>Q:</strong> 5. The sound is a form of energy which travel through any medium as</p><p><strong>Options:</strong> (a) longitudinal waves (b) transverse waves (c) only rarefaction (d) only compression</p><p><strong>Correct answer:</strong> longitudinal waves</p><p><strong>Exercise C: Match the column:</strong></p><p><strong>Q:</strong> Sound</p><p><strong>Ans:</strong> Longitudinal waves (sound travels as longitudinal waves).</p><p><strong>Q:</strong> Eardrum</p><p><strong>Ans:</strong> Human ear (the eardrum is the part of the human ear which is caused to vibrate by sound waves).</p><p><strong>Q:</strong> Energy</p><p><strong>Ans:</strong> Sound (sound is a form of energy).</p><p><strong>Q:</strong> Vacuum</p><p><strong>Ans:</strong> No sound (sound cannot travel through a vacuum, so there is no sound in a vacuum).</p><p><strong>Q:</strong> Human being</p><p><strong>Ans:</strong> 20 Hz - 20,000 Hz (a human being can hear frequencies from 20 Hz to 20,000 Hz).</p>",
+     "mcqs": [
+      {
+       "q": "Sound cannot travel through ______.",
+       "options": [
+        "iron",
+        "wood",
+        "water",
+        "vacuum"
+       ],
+       "answer": 3,
+       "why": "Sound needs a material medium (solid, liquid or gas) to travel. There is no medium in a vacuum, so sound cannot travel through a vacuum."
+      },
+      {
+       "q": "Human ear has ______ distinct parts.",
+       "options": [
+        "four",
+        "two",
+        "one",
+        "three"
+       ],
+       "answer": 3,
+       "why": "The human ear has three distinct parts: the outer ear, the middle ear and the inner ear."
+      },
+      {
+       "q": "Speed of sound ______ in air with increase in temperature.",
+       "options": [
+        "increases",
+        "decreases",
+        "remain same",
+        "first decreases then increases"
+       ],
+       "answer": 0,
+       "why": "The speed of sound in air increases with an increase in temperature: it is 332 m/s at 0°C and 340 m/s at 20°C. (The book's printed option 'both (b) and (c)' is replaced here by 'first decreases then increases'.)"
+      },
+      {
+       "q": "Speed of sound in Iron is ______.",
+       "options": [
+        "5130 m/s",
+        "1530 m/s",
+        "3150 m/s",
+        "1503 m/s"
+       ],
+       "answer": 0,
+       "why": "Sound travels fastest in solids. Its speed in iron is 5130 m/s, which is much faster than in water (about 1525 m/s) and in air (about 340 m/s)."
+      },
+      {
+       "q": "The sound is a form of energy which travel through any medium as ______.",
+       "options": [
+        "longitudinal waves",
+        "transverse waves",
+        "only rarefaction",
+        "only compression"
+       ],
+       "answer": 0,
+       "why": "Sound travels through a medium as longitudinal waves, made of compressions and rarefactions travelling one after the other."
+      },
+      {
+       "q": "Sound waves cannot pass through ______.",
+       "options": [
+        "solids",
+        "liquids",
+        "gases",
+        "vacuum"
+       ],
+       "answer": 3,
+       "why": "Sound waves need particles of a medium to pass their vibrations on. A vacuum has no particles, so sound waves cannot pass through it."
+      },
+      {
+       "q": "Sound is also a form of ______.",
+       "options": [
+        "matter",
+        "energy",
+        "machine",
+        "force"
+       ],
+       "answer": 1,
+       "why": "Sound does work as it travels from one place to another through a medium, so sound is a form of energy associated with the vibrations of matter."
+      },
+      {
+       "q": "Human ear can detect frequency from 20 hertz to ______ hertz.",
+       "options": [
+        "200 hertz",
+        "2,000 hertz",
+        "20,000 hertz",
+        "2,00,000 hertz"
+       ],
+       "answer": 2,
+       "why": "Hearing takes place when vibrations of frequencies ranging from 20 hertz to 20,000 hertz reach the inner ear. This is the hearing range of a human being."
+      },
+      {
+       "q": "Back and forth movement of an object is called ______.",
+       "options": [
+        "rotation",
+        "vibration",
+        "revolution",
+        "translation"
+       ],
+       "answer": 1,
+       "why": "The back and forth movement of an object is called vibration. Sound is produced when an object vibrates."
+      },
+      {
+       "q": "Speed of sound in air greatly varies with ______.",
+       "options": [
+        "humidity only",
+        "temperature",
+        "colour of air",
+        "pressure of sound"
+       ],
+       "answer": 1,
+       "why": "The speed of sound in air greatly varies with temperature: it increases as the temperature of the air increases."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Sound is produced by a vibrating body; a vibrating tuning fork can throw away a pith-ball, which proves sound is a form of energy.</li><li>Sound travels fastest in solids, slower in liquids and slowest in gases: iron 5130 m/s, water about 1525 m/s, air 332 m/s at 0°C and 340 m/s at 20°C.</li><li>The human ear has three distinct parts: outer ear, middle ear and inner ear; the eardrum vibrates when sound waves strike it.</li><li>Safety measures: do not enter any object into the ear, and do not try to listen to sounds of very high frequency.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise D: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Prove that sound is a form of energy.</p><p><strong>Ans:</strong> We know that when something moves, work is done. Sound travels from one place to another through a medium, so it does work; thus sound is the form of energy that moves and is associated with the vibrations or disturbances of matter. For example, when a vibrating tuning fork is touched with a pith-ball, the ball is thrown away by the vibrations, and sound energy is so strong that some of the sound frequencies can even break glass windows. This proves that sound is a form of energy.</p><p><strong>Q:</strong> 2. How sound is produced. Explain with examples.</p><p><strong>Ans:</strong> Sound is produced by a vibrating body. Vibrations mean the back and forth movement of an object. For example, when you strike a metallic object with a spoon, a sound is produced and you can feel the vibrations by touching the metallic object with your hand. When the volume of a cassette player is high, the sheet of the loudspeaker vibrates very fast and produces loud sound. Similarly, if we touch our throat while we are talking, we can feel the vibrations in our voice box. A rubber chord fixed between two hooks also produces sound when it is plucked, because it vibrates. Thus sound is produced when an object vibrates.</p><p><strong>Q:</strong> 3. Compare the speed of sound in solids, liquids and gaseous media.</p><p><strong>Ans:</strong> Sound generally moves much faster in liquids and solids than in gases. The speed of sound in dry, sea level air at a temperature of 0°C is 332 m/s, and at 20°C it is 340 m/s. The speed of sound in water is approximately 1525 m/s, which is almost five times as fast as in the air. The speed of sound in iron (solid) is 5130 m/s, which is much faster than in water (liquid) and air (gas). So sound travels fastest in solids, slower in liquids and slowest in gases.</p><p><strong>Q:</strong> 4. Explain how does human ear receive sound waves.</p><p><strong>Ans:</strong> The process of hearing begins when sound waves strike upon an ear. The human ear has three distinct parts: the outer ear, the middle ear and the inner ear. The outer ear collects the sound waves and directs them along the ear canal to the eardrum, which is caused to vibrate. The message of these vibrations is sent to the brain. The brain interprets this message as the sensation of the sound. Hearing takes place whenever vibrations of frequencies ranging from 20 Hertz to 20,000 Hertz reach the inner ear.</p><p><strong>Q:</strong> 5. Write down any two safety measures, which will protect your ear drum from the damage.</p><p><strong>Ans:</strong> Two safety measures to protect the eardrum are: (i) Do not enter any object into the ear, because the eardrum is very sensitive and can be easily damaged. (ii) Do not try to listen to the sound which has high frequency, and do all the activities related to sound production carefully.</p>",
+     "mcqs": [
+      {
+       "q": "Sound is produced by ______.",
+       "options": [
+        "a resting body",
+        "a vibrating body",
+        "a cold body",
+        "a transparent body"
+       ],
+       "answer": 1,
+       "why": "Sound is produced by a vibrating body. When you strike a metallic object with a spoon, it vibrates and produces sound, and the vibrations can be felt by touching it."
+      },
+      {
+       "q": "When a vibrating tuning fork is touched with a pith-ball, the ball is thrown away. This proves that ______.",
+       "options": [
+        "sound is a form of energy",
+        "sound is a solid",
+        "the fork is magnetic",
+        "the ball is charged"
+       ],
+       "answer": 0,
+       "why": "The vibrating fork does work on the pith-ball and throws it away. Sound travels and does work, so sound is the form of energy associated with vibrations of matter; strong sound can even break glass windows."
+      },
+      {
+       "q": "The speed of sound in dry air at 20°C is ______.",
+       "options": [
+        "332 m/s",
+        "340 m/s",
+        "5130 m/s",
+        "1525 m/s"
+       ],
+       "answer": 1,
+       "why": "The speed of sound in dry, sea level air is 332 m/s at 0°C and 340 m/s at 20°C, because the speed of sound in air increases with temperature."
+      },
+      {
+       "q": "The speed of sound in water is approximately ______.",
+       "options": [
+        "340 m/s",
+        "332 m/s",
+        "1525 m/s",
+        "5130 m/s"
+       ],
+       "answer": 2,
+       "why": "The speed of sound in water is approximately 1525 m/s, which is almost five times as fast as in air."
+      },
+      {
+       "q": "Sound travels fastest in ______.",
+       "options": [
+        "gases",
+        "liquids",
+        "solids",
+        "vacuum"
+       ],
+       "answer": 2,
+       "why": "Sound generally moves much faster in liquids and solids than in gases: fastest in solids (iron 5130 m/s), slower in liquids (water 1525 m/s) and slowest in gases (air about 340 m/s)."
+      },
+      {
+       "q": "The process of hearing begins when sound waves strike upon ______.",
+       "options": [
+        "the brain",
+        "an ear",
+        "the tongue",
+        "the nose"
+       ],
+       "answer": 1,
+       "why": "Hearing begins when sound waves strike an ear. The outer ear collects the waves and directs them along the ear canal to the eardrum, which is caused to vibrate."
+      },
+      {
+       "q": "The message of the vibrations of the eardrum is finally sent to ______.",
+       "options": [
+        "the heart",
+        "the brain",
+        "the lungs",
+        "the skin"
+       ],
+       "answer": 1,
+       "why": "The vibrations of the eardrum pass through the ear to the inner ear, and their message is sent to the brain. The brain interprets this message as the sensation of sound."
+      },
+      {
+       "q": "One safety measure to protect the ear drum is ______.",
+       "options": [
+        "enter a pin into the ear to clean it",
+        "do not enter any object into the ear",
+        "listen to very loud sounds daily",
+        "cover the ears with water"
+       ],
+       "answer": 1,
+       "why": "The eardrum is very sensitive and can be easily damaged, so we should not enter any object into the ear. We should also avoid listening to sounds of very high frequency."
+      },
+      {
+       "q": "If we touch our throat while we are talking, we can feel ______.",
+       "options": [
+        "the pulse",
+        "vibrations in our voice box",
+        "the temperature",
+        "the bones moving"
+       ],
+       "answer": 1,
+       "why": "Talking produces sound because the voice box vibrates. Touching the throat while talking lets us feel these vibrations, which shows that sound is produced by a vibrating body."
+      },
+      {
+       "q": "In the matching of this unit, vacuum is matched with ______.",
+       "options": [
+        "longitudinal waves",
+        "no sound",
+        "human ear",
+        "energy"
+       ],
+       "answer": 1,
+       "why": "Sound cannot travel through a vacuum because there is no medium in it, so a vacuum is matched with 'no sound' in this unit's matching exercise."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 12: Space and Satellites",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A celestial body revolving around a planet is known as a satellite.</li><li>Polar satellites provide weather information and maps of ozone levels.</li><li>The speed of a geostationary satellite is equal to the revolving speed of the Earth; a geostationary orbit is exactly above the equator.</li><li>Navigational satellites pinpoint the location of an object on Earth; a surveillance satellite is used to monitor military activities.</li><li>More than 300 communication satellites have been launched since 1957; Landsat satellite is used for mapping land.</li><li>Halley's comet appears approximately every 76 years.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Fill in the blanks:</strong></p><p><strong>Q:</strong> 1. A celestial body revolving around a planet is known as ______.</p><p><strong>Ans:</strong> satellite</p><p><strong>Q:</strong> 2. ______ satellites provide weather information and map of ozone levels.</p><p><strong>Ans:</strong> Polar</p><p><strong>Q:</strong> 3. The speed of ______ is equal to the revolving speed of the Earth.</p><p><strong>Ans:</strong> geostationary satellite</p><p><strong>Q:</strong> 4. ______ pinpoint the location of the object on Earth.</p><p><strong>Ans:</strong> Navigational satellites</p><p><strong>Q:</strong> 5. ______ is used to monitor the military activities.</p><p><strong>Ans:</strong> Surveillance satellite</p><p><strong>Exercise B: Select the best answer:</strong></p><p><strong>Q:</strong> 1. Over ______ communication satellites have been launched since 1957.</p><p><strong>Options:</strong> (a) 100 (b) 200 (c) 300 (d) 600</p><p><strong>Correct answer:</strong> 300</p><p><strong>Q:</strong> 2. ______ satellite is used for mapping land.</p><p><strong>Options:</strong> (a) Sputnik (b) Explorer (c) Landsat (d) Polar</p><p><strong>Correct answer:</strong> Landsat</p><p><strong>Q:</strong> 3. Geostationary orbit is exactly above the ______</p><p><strong>Options:</strong> (a) north pole (b) equator (c) south pole (d) none</p><p><strong>Correct answer:</strong> equator</p><p><strong>Q:</strong> 4. Halley's comet appears approximately every ______ years.</p><p><strong>Options:</strong> (a) 76 (b) 600 (c) 700 (d) 67</p><p><strong>Correct answer:</strong> 76</p>",
+     "mcqs": [
+      {
+       "q": "Over ______ communication satellites have been launched since 1957.",
+       "options": [
+        "100",
+        "200",
+        "300",
+        "600"
+       ],
+       "answer": 2,
+       "why": "According to this unit, over 300 communication satellites have been launched since 1957, the year the first artificial satellite was sent into space."
+      },
+      {
+       "q": "______ satellite is used for mapping land.",
+       "options": [
+        "Sputnik",
+        "Explorer",
+        "Landsat",
+        "Polar"
+       ],
+       "answer": 2,
+       "why": "The Landsat satellite is used for mapping land. Polar satellites provide weather information and maps of ozone levels."
+      },
+      {
+       "q": "Geostationary orbit is exactly above the ______.",
+       "options": [
+        "north pole",
+        "equator",
+        "south pole",
+        "prime meridian"
+       ],
+       "answer": 1,
+       "why": "A geostationary satellite revolves in an orbit exactly above the equator at the same speed as the Earth, so it appears fixed at one place in the sky. (The book's printed option 'none' is replaced here by 'prime meridian'.)"
+      },
+      {
+       "q": "Halley's comet appears approximately every ______ years.",
+       "options": [
+        "76",
+        "600",
+        "700",
+        "67"
+       ],
+       "answer": 0,
+       "why": "Halley's comet is a famous comet that returns and becomes visible from the Earth approximately every 76 years."
+      },
+      {
+       "q": "A celestial body revolving around a planet is known as ______.",
+       "options": [
+        "a star",
+        "a satellite",
+        "a comet only",
+        "an asteroid only"
+       ],
+       "answer": 1,
+       "why": "Any celestial (heavenly) body that revolves around a planet is known as a satellite. The Earth's moon is its natural satellite."
+      },
+      {
+       "q": "______ satellites provide weather information and map of ozone levels.",
+       "options": [
+        "Polar",
+        "Navigational",
+        "Surveillance",
+        "Communication"
+       ],
+       "answer": 0,
+       "why": "Polar satellites pass over the poles and provide weather information and maps of ozone levels in the atmosphere."
+      },
+      {
+       "q": "The speed of ______ is equal to the revolving speed of the Earth.",
+       "options": [
+        "polar satellite",
+        "geostationary satellite",
+        "navigational satellite",
+        "weather satellite"
+       ],
+       "answer": 1,
+       "why": "A geostationary satellite revolves around the Earth at the same speed as the Earth itself, so it stays above the same place on the equator."
+      },
+      {
+       "q": "______ pinpoint the location of the object on Earth.",
+       "options": [
+        "Weather satellites",
+        "Surveillance satellites",
+        "Navigational satellites",
+        "Polar satellites"
+       ],
+       "answer": 2,
+       "why": "Navigational satellites pinpoint the location of objects on Earth. The Global Positioning System (GPS) works on this principle."
+      },
+      {
+       "q": "______ is used to monitor the military activities.",
+       "options": [
+        "Landsat",
+        "Surveillance satellite",
+        "Weather satellite",
+        "Communication satellite"
+       ],
+       "answer": 1,
+       "why": "A surveillance satellite is used to monitor (watch) military activities from space."
+      },
+      {
+       "q": "The best known natural satellite of the Earth is ______.",
+       "options": [
+        "the Sun",
+        "the Moon",
+        "Mars",
+        "GPS"
+       ],
+       "answer": 1,
+       "why": "In astronomy, a celestial body that revolves around a planet is a natural satellite. The best known natural satellite is the Earth's moon; other planets also have moons."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Telecommunication satellites carry radio, T.V. and telephone signals over long distances; the GPS, a group of 24 satellites, enables a person to determine his location, speed, direction and time anywhere.</li><li>Satellites are of two major types: natural satellites (like the Earth's moon) and artificial satellites (objects launched into orbit by human beings).</li><li>Asteroids are rocky bodies up to 1000 km in diameter moving in elliptical orbits between Mars and Jupiter.</li><li>Comets are small icy bodies with a head, a coma and a long luminous tail when near the Sun.</li><li>Kinds of meteors: brilliant meteors (fireballs), bolides (which explode with a sound like thunder) and fainter meteors (shooting stars); a cluster of meteors from a fixed point is called a meteor shower.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise C: Answer the following questions:</strong></p><p><strong>Q:</strong> 1. Describe the uses of various satellites in space.</p><p><strong>Ans:</strong> Scientists have developed many kinds of satellites, each designed to serve a specific purpose or mission. Telecommunications satellites help in carrying radio, T.V. and telephone signals over long distances, and communication satellites link remote areas of earth with telephone and television. Navigational satellites pinpoint the location of objects on Earth; the Global Positioning System (GPS), a group of 24 satellites, enables a person to determine his location, speed, direction and time anywhere. Weather satellites help in weather forecast, and polar satellites provide weather information and also map ozone levels. Surveillance satellites are used to monitor military activities. Scientific satellites give a space based platform for observation of Earth, the other planets, the Sun, the comets, the galaxies and the outer space. Landsat satellites have taken photographs of earth's continents and surrounding coastal regions, and their data is used for mapping land, managing forested land, estimating crop production and protecting wild life.</p><p><strong>Q:</strong> 2. Define satellites. Classify the satellites into its major types.</p><p><strong>Ans:</strong> Any heavenly body that revolves around the planets is known as a satellite. Satellites are classified into two major types: (1) Natural satellites: in astronomy, a celestial body that revolves around a planet is known as a natural satellite; the best known natural satellite is the Earth's moon, and other planets also have moons. Beside moons of planets, some other bodies (natural satellites) are asteroids, comets and meteoroids, which are moving around the sun. (2) Artificial satellites: an object launched into orbit by human beings is called an artificial satellite; it revolves around the Earth or other planets. The first artificial satellite was launched in 1957. Artificial satellites play a key role in communications, industry, military intelligence and in the scientific study of the Earth and outer space.</p><p><strong>Q:</strong> 3. Differentiate between Asteroids, Comets and Meteors.</p><p><strong>Ans:</strong> Asteroids: size up to 1000 km in diameter; shape irregular; composition carbon, iron and other metals; location between Mars and Jupiter. They are rocky bodies of different sizes that move in elliptical orbits between Mars and Jupiter. Comets: size up to 20 km in diameter; shape irregular; composition iron, rock, ammonia and other gases; they move in elliptical orbit around the sun. They are relatively small, icy celestial bodies revolving around the Sun, with a head, a coma and a long luminous tail when near the Sun. Meteors: size from few centimeters to few meters in diameter; shape irregular; composition iron, rock, etc.; they are the wandering bodies in the solar system. A meteor is a small solid body made up of rocks and iron which burns with light when it enters the Earth's atmosphere.</p><p><strong>Q:</strong> 4. Explain the different kinds of meteors.</p><p><strong>Ans:</strong> The different kinds of meteors are: (1) Brilliant meteors: they are known as fireballs; they occur singly and consist of a luminous head, followed by a tail of light. (2) Bolides: these are the kind of meteors that have been seen to explode with a sound like thunder. (3) Fainter meteors: they are called shooting or falling stars. We usually can see several of them on a clear starry night; sometimes hundreds of such meteors occur simultaneously and appear from a fixed point, and this cluster of meteors is called meteor showers. (A few meteors, the very large ones, sometimes strike the surface of the earth; they are called meteorites.)</p>",
+     "mcqs": [
+      {
+       "q": "The Global Positioning System (GPS) is a group of ______ satellites.",
+       "options": [
+        "12",
+        "24",
+        "36",
+        "100"
+       ],
+       "answer": 1,
+       "why": "The Global Positioning System (GPS), a group of 24 navigational satellites, enables a person to determine his location, speed, direction and time anywhere on Earth."
+      },
+      {
+       "q": "GPS enables a person to determine his location, speed, direction and ______.",
+       "options": [
+        "height",
+        "time",
+        "weight",
+        "temperature"
+       ],
+       "answer": 1,
+       "why": "With the help of GPS satellites, a person can determine his location, speed, direction and time anywhere on Earth."
+      },
+      {
+       "q": "An object launched into orbit by human beings is called ______.",
+       "options": [
+        "a natural satellite",
+        "an artificial satellite",
+        "a comet",
+        "a meteor"
+       ],
+       "answer": 1,
+       "why": "Satellites are classified into natural satellites, which revolve around planets by nature, and artificial satellites — objects launched into orbit by human beings."
+      },
+      {
+       "q": "Asteroids move in elliptical orbits between ______.",
+       "options": [
+        "Earth and Mars",
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "the Earth and the Moon"
+       ],
+       "answer": 1,
+       "why": "Asteroids are rocky bodies of different sizes, up to 1000 km in diameter, that move in elliptical orbits between Mars and Jupiter."
+      },
+      {
+       "q": "Asteroids can be up to ______ in diameter.",
+       "options": [
+        "20 km",
+        "100 km",
+        "1000 km",
+        "10,000 km"
+       ],
+       "answer": 2,
+       "why": "Asteroids are irregular rocky bodies composed of carbon, iron and other metals, with sizes up to 1000 km in diameter."
+      },
+      {
+       "q": "When a comet comes near the Sun, it shows a head, a coma and ______.",
+       "options": [
+        "rings",
+        "a long luminous tail",
+        "craters",
+        "oceans"
+       ],
+       "answer": 1,
+       "why": "Comets are relatively small, icy celestial bodies revolving around the Sun. When near the Sun they show a head, a coma and a long luminous tail."
+      },
+      {
+       "q": "Brilliant meteors are known as ______.",
+       "options": [
+        "bolides",
+        "fireballs",
+        "shooting stars",
+        "meteor showers"
+       ],
+       "answer": 1,
+       "why": "Brilliant meteors are known as fireballs; they occur singly and consist of a luminous head followed by a tail of light."
+      },
+      {
+       "q": "Bolides are the meteors that ______.",
+       "options": [
+        "fall into the sea",
+        "explode with a sound like thunder",
+        "orbit the Earth",
+        "appear every 76 years"
+       ],
+       "answer": 1,
+       "why": "Bolides are the kind of meteors that have been seen to explode with a sound like thunder."
+      },
+      {
+       "q": "A cluster of many meteors appearing from a fixed point is called ______.",
+       "options": [
+        "a fireball",
+        "a bolide",
+        "meteor showers",
+        "a comet"
+       ],
+       "answer": 2,
+       "why": "Fainter meteors are called shooting or falling stars. Sometimes hundreds of them occur simultaneously and appear from a fixed point; this cluster of meteors is called meteor showers."
+      },
+      {
+       "q": "Telecommunication satellites help in carrying ______ over long distances.",
+       "options": [
+        "radio, T.V. and telephone signals",
+        "water and food",
+        "passengers",
+        "electricity"
+       ],
+       "answer": 0,
+       "why": "Telecommunications satellites help in carrying radio, T.V. and telephone signals over long distances, and communication satellites link remote areas of the Earth with telephone and television."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

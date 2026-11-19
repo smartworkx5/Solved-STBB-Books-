@@ -1,0 +1,2713 @@
+{
+ "book": "pctb-c8-computer-science-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Emerging Technologies",
+   "lessons": [
+    {
+     "title": "Emerging Technologies, Robotics and Artificial Intelligence",
+     "notes_html": "<h4>Emerging Technology</h4>\n<p><b>Emerging technology</b> is generally referred to as a <b>new technology</b> — a technology that is newly developing and is expected to change the way we live and work. Important examples are <b>Artificial Intelligence</b>, <b>robotics</b>, <b>blockchain</b>, <b>Virtual Reality</b> and 5G. An older technology such as 3G is not an emerging technology.</p>\n<h4>Robotics</h4>\n<p><b>Robotics</b> is the branch of technology that designs and builds <b>robots</b>. Robotics is replacing human efforts in many dangerous and repetitive jobs. The primary difficulties in robotics are that robots have no feelings or emotions, they are costly to design and maintain, they need a continuous power supply, and building robots that can safely work in every kind of environment is very difficult. Robots also cannot take decisions like humans in unexpected situations.</p>\n<h4>Artificial Intelligence</h4>\n<p><b>Artificial Intelligence (AI)</b> enables machines to act and think like humans. Applications of AI include self-driving cars, expert systems, <b>chatbots</b>, gaming, marketing, social media, natural language processing, machine vision and navigation control. AI is used in almost every field of life, such as healthcare, education, business and transport. A chatbot is an example of Artificial Intelligence.</p>\n<h4>Machine Learning</h4>\n<p><b>Machine Learning</b> is a branch of Artificial Intelligence that enables a system to learn and improve itself from its experience without any user interference. A machine learning system improves itself with experience, just as humans learn from practice.</p>\n<h4>Computer Assisted Translation</h4>\n<p><b>CAT</b> is also known as <b>Computer Assisted Translation</b>. Its main purpose is to help translators translate written and spoken text from one language to another quickly and accurately with the help of software programs. It increases the speed and consistency of translation work.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Emerging technology means a new technology.</li>\n<li>Machine Learning is a branch of AI that improves itself from experience.</li>\n<li>A chatbot is an example of Artificial Intelligence.</li>\n<li>CAT stands for Computer Assisted Translation.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "______ is generally referred to as 'Emerging Technology'.",
+       "options": [
+        "New technology",
+        "Discontinued technology",
+        "Best technology",
+        "Old technology"
+       ],
+       "answer": 0,
+       "why": "Emerging technology is generally referred to as a new technology — one that is newly developing and expected to change the way we live and work."
+      },
+      {
+       "q": "Which of the following is NOT an example of an emerging technology?",
+       "options": [
+        "Virtual Reality",
+        "Blockchain",
+        "Robotics",
+        "3G"
+       ],
+       "answer": 3,
+       "why": "3G is an older, established mobile technology. Virtual Reality, Blockchain and Robotics are all new, fast-developing technologies, so they are emerging technologies."
+      },
+      {
+       "q": "______ is a branch of Artificial Intelligence that enables a system to learn and improve itself from its experience without any user interference.",
+       "options": [
+        "Blockchain",
+        "Machine Learning",
+        "Virtual Reality",
+        "Robotics"
+       ],
+       "answer": 1,
+       "why": "Machine Learning is the branch of Artificial Intelligence that enables a system to learn and improve itself from its own experience without any user interference."
+      },
+      {
+       "q": "A chatbot is an example of:",
+       "options": [
+        "Artificial Intelligence",
+        "Virtual Reality",
+        "Augmented Reality",
+        "Robotics"
+       ],
+       "answer": 0,
+       "why": "A chatbot is a program that talks with users like a human by understanding and answering their questions, which is an application of Artificial Intelligence."
+      },
+      {
+       "q": "CAT is also known as:",
+       "options": [
+        "Computer Assisted Transaction",
+        "Computer Authorised Translation",
+        "Computer Assisted Translation",
+        "Computer Application Translation"
+       ],
+       "answer": 2,
+       "why": "CAT stands for Computer Assisted Translation — software that helps translators translate written and spoken text quickly and accurately."
+      },
+      {
+       "q": "An emerging technology is best described as a technology that is:",
+       "options": [
+        "Already outdated and unused",
+        "Newly developing and bringing change",
+        "Discontinued by its makers",
+        "Used only inside factories"
+       ],
+       "answer": 1,
+       "why": "Emerging technology is a new technology that is developing fast and bringing technical and social change — it is not an old, discontinued or 'absolute' technology."
+      },
+      {
+       "q": "A machine learning system improves its performance by:",
+       "options": [
+        "Being replaced by a new system every year",
+        "Needing user interference at every step",
+        "Switching itself off and restarting",
+        "Learning from its experience and data"
+       ],
+       "answer": 3,
+       "why": "Machine Learning enables a system to learn and improve itself from its experience, without any user interference — the system gets better as it processes more data."
+      },
+      {
+       "q": "Robotics is increasingly used in industry because it:",
+       "options": [
+        "Works without any power supply",
+        "Has feelings like human workers",
+        "Makes all products free of cost",
+        "Replaces human effort in dangerous and repetitive jobs"
+       ],
+       "answer": 3,
+       "why": "Robotics is replacing human efforts in dangerous, difficult and repetitive work, although robots are costly, need continuous power and have no feelings or emotions."
+      },
+      {
+       "q": "Which of the following is an application of Artificial Intelligence?",
+       "options": [
+        "Typewriters",
+        "Chatbots",
+        "Abacus",
+        "Fax machines"
+       ],
+       "answer": 1,
+       "why": "Applications of AI include self-driving cars, expert systems, chatbots, gaming, marketing, machine vision and navigation control. The other options are old devices that do not use AI."
+      },
+      {
+       "q": "Which of the following is a primary difficulty in robotics?",
+       "options": [
+        "Robots work without any power supply",
+        "Robots are very cheap to build",
+        "Robots have no feelings or emotions",
+        "Robots can decide like humans in every situation"
+       ],
+       "answer": 2,
+       "why": "The difficulties in robotics include: robots have no feelings or emotions, they are costly to design and maintain, they need a continuous power supply, and they cannot take decisions like humans in unexpected situations."
+      }
+     ]
+    },
+    {
+     "title": "Virtual Reality, Augmented Reality and 3D Technologies",
+     "notes_html": "<h4>Virtual Reality</h4>\n<p><b>Virtual Reality (VR)</b> is a technology that creates a computer-generated imitation of the real world where people can interact in an apparently real or physical way. The user is fully immersed in the virtual environment through a <b>VR headset</b> (VR head-mounted display), which covers the eyes and shows a computer-generated 3D world, often together with headphones and hand controllers. VR is a 3D experience, not a 2D image.</p>\n<h4>Augmented Reality</h4>\n<p><b>Augmented Reality (AR)</b> is a technology that overlays computer-generated images, sounds or information on a view of the real world. Unlike Virtual Reality, it does not replace the real world; it adds digital elements to it — for example, seeing furniture in your own room through a phone camera before buying it.</p>\n<h4>Difference Between VR and AR</h4>\n<p>Virtual Reality creates a completely computer-generated world; the user is fully immersed in it through a VR headset and cannot see the real surroundings. Augmented Reality keeps the user in the real world and only overlays digital images or information on it, usually through a phone or smart glasses. In short, <b>VR replaces reality, while AR adds to reality</b>. So VR and AR are not the same technology.</p>\n<h4>3D Imaging</h4>\n<p><b>3D imaging</b> is used in medical imaging (CT and MRI scans), movies and video games, architecture and building design, manufacturing and product design, virtual reality, and in maps and weather forecasting. It helps us view objects with depth, just like real objects.</p>\n<h4>Holographic Imaging</h4>\n<p><b>Holographic imaging</b> is a technique that creates a three-dimensional (3D) image, called a <b>hologram</b>, of an object using laser light. The image appears to float in the air and can be viewed from different angles without any special glasses. A simple hologram effect can be created at home with a smartphone and a transparent plastic pyramid (made from a CD case or clear sheet): place the inverted pyramid on the phone screen and play a hologram video; the four sides reflect the images and a 3D-like floating image appears inside the pyramid.</p>\n<h4>Key Points</h4>\n<ul>\n<li>VR replaces reality; AR adds digital elements to reality.</li>\n<li>A VR headset is used to experience virtual reality.</li>\n<li>A hologram is a 3D image created using laser light.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "______ technology is a computer-generated imitation of the real world where people can interact in an apparently real or physical way.",
+       "options": [
+        "Augmented Reality",
+        "Blockchain",
+        "Machine Learning",
+        "Virtual Reality"
+       ],
+       "answer": 3,
+       "why": "Virtual Reality is the computer-generated imitation of the real world in which people can interact in an apparently real or physical way, through a VR headset."
+      },
+      {
+       "q": "Virtual Reality creates an environment that is:",
+       "options": [
+        "Two-dimensional (2D)",
+        "Three-dimensional (3D)",
+        "Only text on a screen",
+        "Printed on paper"
+       ],
+       "answer": 1,
+       "why": "Virtual Reality is not a 2D image; it creates a three-dimensional (3D) computer-generated world in which the user feels present."
+      },
+      {
+       "q": "The environment created by Virtual Reality feels ______ to the user.",
+       "options": [
+        "Real and natural, although it is computer-generated",
+        "Completely blank",
+        "Like reading a book",
+        "Like a still photograph only"
+       ],
+       "answer": 0,
+       "why": "Virtual Reality creates a natural-feeling environment: the imitation of the real world is so complete that the user interacts with it in an apparently real or physical way."
+      },
+      {
+       "q": "Which device is used to experience virtual reality?",
+       "options": [
+        "A printer",
+        "A scanner",
+        "A VR headset (head-mounted display)",
+        "A keyboard"
+       ],
+       "answer": 2,
+       "why": "A VR headset (VR head-mounted display) covers the eyes and shows the computer-generated 3D world, often with headphones and hand controllers, so the user feels present inside the virtual environment."
+      },
+      {
+       "q": "Augmented Reality overlays digital images and information on:",
+       "options": [
+        "A completely imaginary world",
+        "A view of the real world",
+        "A printed book",
+        "A blank screen"
+       ],
+       "answer": 1,
+       "why": "Augmented Reality overlays computer-generated images, sounds or information on a view of the real world; it does not replace the real world, it adds digital elements to it."
+      },
+      {
+       "q": "The main difference between VR and AR is that:",
+       "options": [
+        "VR adds to reality, while AR replaces it",
+        "Both replace reality completely",
+        "Both are used only for games",
+        "VR replaces reality, while AR adds to reality"
+       ],
+       "answer": 3,
+       "why": "VR fully immerses the user in a computer-generated world and hides the real surroundings, while AR keeps the user in the real world and only overlays digital information on it."
+      },
+      {
+       "q": "A hologram is a three-dimensional image created using:",
+       "options": [
+        "Sunlight",
+        "Candle light",
+        "Torch light",
+        "Laser light"
+       ],
+       "answer": 3,
+       "why": "Holographic imaging creates a 3D image, called a hologram, of an object using laser light; the image appears to float in the air and can be viewed from different angles without special glasses."
+      },
+      {
+       "q": "Which of the following is an application of 3D imaging?",
+       "options": [
+        "Writing letters",
+        "CT and MRI scans in medical imaging",
+        "Sending SMS messages",
+        "Listening to the radio"
+       ],
+       "answer": 1,
+       "why": "3D imaging is used in medical imaging (CT and MRI scans), movies and video games, architecture, manufacturing, virtual reality, maps and weather forecasting."
+      },
+      {
+       "q": "To create a simple hologram effect at home, we place a transparent plastic pyramid on:",
+       "options": [
+        "A television that is switched off",
+        "A printed photograph",
+        "A smartphone screen playing a hologram video",
+        "A computer monitor showing text"
+       ],
+       "answer": 2,
+       "why": "Placing an inverted transparent plastic pyramid on a phone screen playing a hologram video makes the four sides reflect the images, and a 3D-like floating image appears inside the pyramid."
+      },
+      {
+       "q": "An example of Augmented Reality is:",
+       "options": [
+        "Seeing furniture in your own room through a phone camera before buying it",
+        "Wearing a VR headset to enter a game world",
+        "Watching a 2D cartoon on TV",
+        "Listening to a song on the radio"
+       ],
+       "answer": 0,
+       "why": "In this example the real room is still visible and only a digital image of the furniture is added to it through the phone camera — that is Augmented Reality."
+      }
+     ]
+    },
+    {
+     "title": "Blockchain, 5G and Self-Driving Cars",
+     "notes_html": "<h4>Blockchain</h4>\n<p><b>Blockchain</b> is a method of storing data that makes it difficult or impossible to change, hack or cheat the system. Data is stored in <b>blocks</b>, and each block is linked with the previous block, forming a chain. Once a transaction or file is recorded in a block, it cannot be <b>modified</b>. Copies of the chain are kept on many computers, so no single person controls it. Blockchain is used in digital currencies like Bitcoin, in banking, in record keeping and in secure data sharing.</p>\n<h4>Distributed Applications</h4>\n<p><b>Distributed</b> applications are those which operate simultaneously on several different computers. Blockchain is a distributed system because copies of the same chain are kept and updated on many computers at the same time.</p>\n<h4>5G Technology</h4>\n<p><b>5G</b>, the fifth generation of cellular technology, is better than previous generations because it gives a much higher data rate (estimated up to <b>20 Gbps</b>), very low delay (latency), connects many more devices at the same time, and is more reliable. It supports self-driving cars, smart cities and the Internet of Things.</p>\n<h4>Self-Driving Cars</h4>\n<p>A <b>self-driving car</b> is also known as an <b>autonomous vehicle (AV)</b>, a <b>driverless car</b>, or a <b>robotic car</b>. Such a car uses sensors, cameras, radar and GPS to observe its surroundings and to navigate without a human driver. It is not a manual vehicle, because no human driver drives it.</p>\n<h4>Key Points</h4>\n<ul>\n<li>In blockchain, recorded data cannot be modified.</li>\n<li>The estimated data rate of 5G is up to 20 Gbps.</li>\n<li>A self-driving car is also called an autonomous or driverless car.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "______ applications are those which operate simultaneously on several different computers.",
+       "options": [
+        "Embedded",
+        "Distributed",
+        "Virtual",
+        "Standalone"
+       ],
+       "answer": 1,
+       "why": "Distributed applications are those which operate simultaneously on several different computers — for example, blockchain, whose copies are kept on many computers."
+      },
+      {
+       "q": "In a blockchain system, the transaction or file recorded cannot be ______.",
+       "options": [
+        "modified",
+        "opened",
+        "read",
+        "saved"
+       ],
+       "answer": 0,
+       "why": "Once a transaction or file is recorded in a block of the blockchain, it cannot be modified — this is what makes blockchain secure and trustworthy."
+      },
+      {
+       "q": "The estimated data rate of 5G technology is ______.",
+       "options": [
+        "10 Gbps",
+        "15 Gbps",
+        "20 Gbps",
+        "25 Gbps"
+       ],
+       "answer": 2,
+       "why": "5G gives a much higher data rate than previous generations, estimated up to 20 Gbps, with very low delay (latency)."
+      },
+      {
+       "q": "A self-driving car is also known as a ______ car.",
+       "options": [
+        "manual",
+        "robotic",
+        "horse-drawn",
+        "steam"
+       ],
+       "answer": 1,
+       "why": "A self-driving car is also known as an autonomous vehicle (AV), a driverless car or a robotic car, because it navigates using sensors, cameras, radar and GPS without a human driver."
+      },
+      {
+       "q": "A self-driving car navigates on the road:",
+       "options": [
+        "With a driver holding the steering wheel at all times",
+        "Only on railway tracks",
+        "Only when it is pushed by people",
+        "Without a human driver"
+       ],
+       "answer": 3,
+       "why": "A self-driving car is not a manual vehicle: it uses sensors, cameras, radar and GPS to observe its surroundings and navigate without a human driver."
+      },
+      {
+       "q": "In blockchain, data is stored in ______ linked together to form a chain.",
+       "options": [
+        "folders",
+        "pages",
+        "tables",
+        "blocks"
+       ],
+       "answer": 3,
+       "why": "In blockchain, data is stored in blocks, and each block is linked with the previous block, forming a chain that is very difficult to change or hack."
+      },
+      {
+       "q": "Which of the following is a use of blockchain?",
+       "options": [
+        "Printing books",
+        "Digital currencies like Bitcoin",
+        "Painting pictures",
+        "Cooking food"
+       ],
+       "answer": 1,
+       "why": "Blockchain is used in digital currencies like Bitcoin, in banking, in record keeping and in secure data sharing, because recorded data cannot be modified."
+      },
+      {
+       "q": "A self-driving car observes its surroundings using:",
+       "options": [
+        "Only a steering wheel",
+        "Paper maps",
+        "Sensors, cameras, radar and GPS",
+        "A rear-view mirror only"
+       ],
+       "answer": 2,
+       "why": "A self-driving car uses sensors, cameras, radar and GPS to observe its surroundings and to navigate without a human driver."
+      },
+      {
+       "q": "5G is better than previous generations because it provides:",
+       "options": [
+        "Higher data rate and very low latency",
+        "Slower speed and more delay",
+        "Fewer connected devices",
+        "Service in one city only"
+       ],
+       "answer": 0,
+       "why": "5G gives a much higher data rate (up to 20 Gbps), very low delay, connects many more devices at the same time and is more reliable than previous generations."
+      },
+      {
+       "q": "Copies of the blockchain are kept on:",
+       "options": [
+        "One single computer only",
+        "A USB flash drive",
+        "Printed paper files",
+        "Many computers at the same time"
+       ],
+       "answer": 3,
+       "why": "Blockchain is a distributed system: copies of the chain are kept on many computers, so no single person controls it and the data stays secure."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Data Communication and Computer Networks",
+   "lessons": [
+    {
+     "title": "Data Communication and Types of Networks",
+     "notes_html": "<h4>Data Communication</h4>\n<p><b>Data communication</b> is the exchange of data between two devices through some transmission medium. The <b>message</b> is the information or data to be communicated, such as text, numbers, pictures or sound. An <b>encoder</b> converts the message into signals suitable for transmission, and a <b>decoder</b> converts the received signals back into the original message.</p>\n<h4>Why Computer Networks Are Necessary</h4>\n<p>Computer networks are necessary because they allow sharing of resources such as printers, files and internet connections, fast communication between people, sharing of data and software, and central control and backup of information. They save time, money and effort in offices, schools and homes.</p>\n<h4>LAN and WAN</h4>\n<p>A <b>LAN (Local Area Network)</b> covers a small geographical area such as a room, building or office; the entire LAN is simple to operate and easy to control, and it is usually owned by one organization. A <b>WAN (Wide Area Network)</b> covers a greater distance, operates citywide, nationwide or worldwide, and is made by connecting many LANs through communication devices such as PSTN (Public Switched Telephone Network) or satellite links. In a WAN, the computers are not physically connected to each other. A <b>MAN</b> covers a city-sized area, between LAN and WAN.</p>\n<h4>VPN and DNS</h4>\n<p>A <b>VPN</b> is a secured connection over the internet. A <b>Domain Name Server (DNS)</b> translates human-readable domain names (such as www.example.com) into IP addresses that computers use to locate each other on the internet; it directs web and email traffic to the correct server.</p>\n<h4>Packet Transmission and TCP/IP</h4>\n<p>In packet transmission, data is broken into small <b>packets</b>. <b>TCP</b> (Transmission Control Protocol) divides the data into packets, numbers them, and at the receiving end reassembles them in order and requests re-sending of any missing packet. <b>IP</b> (Internet Protocol) adds the source and destination addresses and routes each packet across the network.</p>\n<h4>Internet of Things</h4>\n<p>The <b>Internet of Things (IoT)</b> connects everyday devices — lights, fans, refrigerators, watches and cars — to the internet so they can be controlled remotely and can exchange data. Because it makes homes and cities smarter and life more comfortable, IoT is spreading quickly and will become even more popular in the future.</p>\n<h4>Key Points</h4>\n<ul>\n<li>A LAN covers a small area; a WAN covers a large distance.</li>\n<li>A VPN is a secured connection over the internet.</li>\n<li>DNS translates domain names into IP addresses.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The network with a small geographical area is called:",
+       "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "VPN"
+       ],
+       "answer": 0,
+       "why": "A LAN (Local Area Network) covers a small geographical area such as a room, building or office, and is simple to operate and easy to control."
+      },
+      {
+       "q": "In the ______ network, computers are not physically connected.",
+       "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+       ],
+       "answer": 2,
+       "why": "In a WAN, distant networks are joined through communication links such as PSTN or satellite links, so the computers are not physically connected to each other."
+      },
+      {
+       "q": "______ is a secured connection over the internet.",
+       "options": [
+        "LAN",
+        "VPN",
+        "WAN",
+        "MAN"
+       ],
+       "answer": 1,
+       "why": "A VPN (Virtual Private Network) is a secured connection over the internet that keeps the data safe while it travels."
+      },
+      {
+       "q": "PSTN (Public Switched Telephone Network) or satellite links are ______ devices used for WAN.",
+       "options": [
+        "deleting",
+        "storing",
+        "printing",
+        "communication"
+       ],
+       "answer": 3,
+       "why": "PSTN and satellite links are communication devices/links used to connect distant LANs together to form a WAN."
+      },
+      {
+       "q": "A LAN is simple to operate and easy to control because it:",
+       "options": [
+        "Covers the whole country",
+        "Uses only satellites",
+        "Has no computers in it",
+        "Covers a small area and is owned by one organization"
+       ],
+       "answer": 3,
+       "why": "The entire LAN is simple to operate and easy to control because it covers a small geographical area, such as one office, and is usually owned by a single organization."
+      },
+      {
+       "q": "A WAN covers a greater distance and operates:",
+       "options": [
+        "Only inside one room",
+        "Nationwide or worldwide",
+        "Only inside one building",
+        "Only inside one school"
+       ],
+       "answer": 1,
+       "why": "WAN covers a greater distance and operates citywide, nationwide or worldwide by connecting many LANs together."
+      },
+      {
+       "q": "The device that converts the message into signals suitable for transmission is called an:",
+       "options": [
+        "Decoder",
+        "Printer",
+        "Encoder",
+        "Monitor"
+       ],
+       "answer": 2,
+       "why": "An encoder converts the message into signals suitable for transmission, while a decoder converts the received signals back into the original message."
+      },
+      {
+       "q": "In data communication, the 'message' is:",
+       "options": [
+        "The information or data to be communicated",
+        "The cable used for sending",
+        "The computer at the receiving end",
+        "The power supply of the network"
+       ],
+       "answer": 0,
+       "why": "The message is the information or data to be communicated, such as text, numbers, pictures or sound."
+      },
+      {
+       "q": "The function of a Domain Name Server (DNS) is to:",
+       "options": [
+        "Store all the websites of the world",
+        "Print web pages",
+        "Block all viruses",
+        "Translate domain names into IP addresses"
+       ],
+       "answer": 3,
+       "why": "A DNS translates human-readable domain names, such as www.example.com, into the IP addresses that computers use to locate each other on the internet."
+      },
+      {
+       "q": "In packet transmission through the internet, TCP is responsible for:",
+       "options": [
+        "Giving every computer its name",
+        "Dividing data into numbered packets and reassembling them in order",
+        "Drawing the network cables",
+        "Deleting old packets"
+       ],
+       "answer": 1,
+       "why": "TCP divides the data into packets, numbers them, and at the receiving end reassembles them in order and requests re-sending of any missing packet; IP routes the packets using addresses."
+      }
+     ]
+    },
+    {
+     "title": "Guided Transmission Media: Twisted Pair, Coaxial and Fiber Optic Cables",
+     "notes_html": "<h4>Twisted Pair Cable</h4>\n<p>A <b>twisted pair cable</b> is made by twisting <b>two</b> separate insulated copper wires together that run parallel to one another — not seven wires. Twisting reduces noise and interference. Advantages: it is cheap, easy to install and widely available, and is commonly used in telephone lines and LANs. Disadvantages: it has low bandwidth, is easily affected by noise and electromagnetic interference, and signals become weak over long distances, so it is suitable only for short distances.</p>\n<h4>Coaxial Cable</h4>\n<p>A <b>coaxial cable</b> is a guided transmission medium consisting of a central copper conductor surrounded by insulation, a metallic shield and an outer plastic jacket. Advantages: it carries data over larger distances than twisted pair, has higher bandwidth, and is less susceptible to noise and interference because of its shield; it is frequently used in cable television (CATV) networks. Disadvantages: it is more expensive and thicker/less flexible than twisted pair, installation is more difficult, and a fault in the cable can disturb the whole network.</p>\n<h4>Fiber Optic Cable</h4>\n<p>The basic elements of a <b>fiber optic cable</b> are: the <b>core</b> (thin glass or plastic fiber that carries light), the <b>cladding</b> (a layer around the core that reflects light back into the core), and the protective plastic coating/jacket that protects the fibers from electromagnetic interference, heat and cold. Optical fiber cable is thinner and lighter in weight than copper cable, so it can withstand more pressure than a copper cable.</p>\n<h4>Key Points</h4>\n<ul>\n<li>A twisted pair has two insulated copper wires twisted together.</li>\n<li>A coaxial cable has a central conductor, insulation, a metallic shield and a jacket.</li>\n<li>In fiber optic cable, the core carries light and the cladding reflects it back.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Each twisted pair consists of ______ insulated copper wires twisted together.",
+       "options": [
+        "seven",
+        "five",
+        "two",
+        "ten"
+       ],
+       "answer": 2,
+       "why": "A twisted pair is made by twisting two separate insulated copper wires together; the twisting reduces noise and interference."
+      },
+      {
+       "q": "An optical fiber cable is thinner and lighter than a copper cable, so it can:",
+       "options": [
+        "Never carry light signals",
+        "Withstand more pressure than a copper cable",
+        "Only be used for telephone calls",
+        "Work without a core"
+       ],
+       "answer": 1,
+       "why": "Optical Fiber Cable is thinner and lighter in weight, so it can withstand more pressure than a copper cable, and it carries data as light signals through its core."
+      },
+      {
+       "q": "A coaxial cable is frequently used in:",
+       "options": [
+        "Wireless radio stations",
+        "Satellite dishes only",
+        "Bluetooth devices",
+        "Cable television (CATV) networks"
+       ],
+       "answer": 3,
+       "why": "Coaxial cable is frequently used in cable television (CATV) networks because it can be cabled over larger distances than twisted-pair cable and carries signals with less interference."
+      },
+      {
+       "q": "In a fiber optic cable, the part that carries the light is the:",
+       "options": [
+        "Cladding",
+        "Plastic jacket",
+        "Metallic shield",
+        "Core"
+       ],
+       "answer": 3,
+       "why": "The core is the thin glass or plastic fiber at the centre of the cable that carries light; the cladding around it reflects the light back into the core."
+      },
+      {
+       "q": "In a fiber optic cable, the cladding is the layer that:",
+       "options": [
+        "Produces the light signal",
+        "Reflects light back into the core",
+        "Connects the cable to the computer",
+        "Gives electric power to the cable"
+       ],
+       "answer": 1,
+       "why": "The cladding is a layer around the core that reflects light back into the core, keeping the signal travelling along the fiber."
+      },
+      {
+       "q": "Twisting the two wires in a twisted pair cable helps to:",
+       "options": [
+        "Increase the weight of the cable",
+        "Make the cable wireless",
+        "Reduce noise and interference",
+        "Store more data in the cable"
+       ],
+       "answer": 2,
+       "why": "The two insulated copper wires are twisted together because twisting reduces noise and electromagnetic interference in the signal."
+      },
+      {
+       "q": "Which of the following is a disadvantage of twisted pair cable?",
+       "options": [
+        "Signals become weak over long distances",
+        "It is the most expensive cable",
+        "It cannot be used in LANs",
+        "It is very difficult to install"
+       ],
+       "answer": 0,
+       "why": "Twisted pair has low bandwidth, is easily affected by noise, and its signals become weak over long distances, so it is suitable only for short distances — although it is cheap and easy to install."
+      },
+      {
+       "q": "The metallic shield in a coaxial cable protects the signal from:",
+       "options": [
+        "Rain and sunlight",
+        "Being copied by users",
+        "High electricity bills",
+        "Noise and interference"
+       ],
+       "answer": 3,
+       "why": "The braided metallic shield around the central conductor makes the coaxial cable less susceptible to noise and interference than twisted pair cable."
+      },
+      {
+       "q": "Compared with twisted pair, a coaxial cable can carry data:",
+       "options": [
+        "Only over a few centimetres",
+        "Over larger distances with higher bandwidth",
+        "Without any cable at all",
+        "More slowly in every case"
+       ],
+       "answer": 1,
+       "why": "Coaxial cable carries data over larger distances than twisted pair and has higher bandwidth, though it is more expensive and less flexible."
+      },
+      {
+       "q": "The outer plastic jacket of a fiber optic cable protects the fibers from:",
+       "options": [
+        "Electromagnetic interference, heat and cold",
+        "Being seen by users",
+        "Light entering the core",
+        "All kinds of data loss forever"
+       ],
+       "answer": 0,
+       "why": "The protective plastic coating/jacket of a fiber optic cable protects the fibers from electromagnetic interference, heat and cold."
+      }
+     ]
+    },
+    {
+     "title": "Wireless Transmission Media: Radio Waves, Microwaves, Wi-Fi and Li-Fi",
+     "notes_html": "<h4>Unguided (Wireless) Transmission Media</h4>\n<p><b>Unguided media</b> transmit electromagnetic waves without using any physical medium; the waves travel through air or space. They are also called wireless transmission media. Their three categories are: (1) <b>Radio waves</b> — low-frequency waves that travel in all directions through open space; used in radio, television and cellular networks. (2) <b>Microwaves</b> — high-frequency waves that travel only in a straight line and need line-of-sight antennas; used in long-distance telephone communication, mobile phones and satellite links. (3) <b>Infrared</b> — very short-range waves used in remote controls and short-distance device communication; they cannot pass through walls.</p>\n<h4>Satellite Communication and GPS</h4>\n<p>Satellite communication uses satellites in space to send signals over very long distances. <b>GPS</b> (Global Positioning System) is a subcategory of satellite communication, used to find locations and directions.</p>\n<h4>Wi-Fi, Li-Fi and Bluetooth</h4>\n<p><b>Wi-Fi</b> stands for <b>Wireless Fidelity</b>. A Wi-Fi network is an internet connection that is shared with multiple devices in a home or business via a wireless router, using radio waves. <b>Li-Fi</b> is a wireless optical networking technology that uses <b>LEDs</b> (light) for data transmission. Li-Fi can be much faster and more secure because light does not pass through walls, but it works only where light can reach; Wi-Fi covers a larger area and passes through walls and doors. <b>Bluetooth</b> is an important short-range (low-range) wireless communication system that lets nearby devices communicate with each other <b>without cables</b>.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Unguided media send waves through air or space without any physical medium.</li>\n<li>Microwaves travel only in a straight line.</li>\n<li>Li-Fi uses LEDs; Wi-Fi uses radio waves.</li>\n<li>Bluetooth works without cables over a short range.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Li-Fi is a wireless optical networking technology that uses ______ for data transmission.",
+       "options": [
+        "fiber optic cable",
+        "LEDs",
+        "coaxial cable",
+        "radio towers"
+       ],
+       "answer": 1,
+       "why": "Li-Fi uses light from LEDs for data transmission, while Wi-Fi uses radio waves; light does not pass through walls, which makes Li-Fi more secure but limited to where light can reach."
+      },
+      {
+       "q": "An unguided transmission media transmits electromagnetic waves without using any ______ medium.",
+       "options": [
+        "social",
+        "digital",
+        "electrical",
+        "physical"
+       ],
+       "answer": 3,
+       "why": "Unguided media transmit electromagnetic waves through air or space without using any physical medium such as a cable — that is why they are called wireless media."
+      },
+      {
+       "q": "______ is a subcategory of satellite communication.",
+       "options": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Router",
+        "GPS"
+       ],
+       "answer": 3,
+       "why": "GPS (Global Positioning System) is a subcategory of satellite communication; it uses satellites to find locations and directions."
+      },
+      {
+       "q": "A ______ network is an internet connection that is shared with multiple devices in a home or business via a wireless router.",
+       "options": [
+        "Li-Fi",
+        "Wi-Fi",
+        "GPS",
+        "PSTN"
+       ],
+       "answer": 1,
+       "why": "A Wi-Fi network shares one internet connection with multiple devices in a home or business through a wireless router."
+      },
+      {
+       "q": "Wi-Fi stands for:",
+       "options": [
+        "Wired Fidelity",
+        "Wired Function",
+        "Wireless Fidelity",
+        "Wireless Function"
+       ],
+       "answer": 2,
+       "why": "Wi-Fi stands for Wireless Fidelity; it uses radio waves to connect devices to a network without cables."
+      },
+      {
+       "q": "Bluetooth is an important ______-range wireless communication system.",
+       "options": [
+        "low (short)",
+        "high",
+        "worldwide",
+        "satellite"
+       ],
+       "answer": 0,
+       "why": "Bluetooth is a short-range (low-range) wireless communication system used to connect nearby devices such as phones, headphones and computers."
+      },
+      {
+       "q": "Bluetooth technology allows devices to communicate with each other:",
+       "options": [
+        "Only through cables",
+        "Only through satellites",
+        "Only when switched off",
+        "Without using cables"
+       ],
+       "answer": 3,
+       "why": "Bluetooth is a wireless technology — devices communicate using radio waves over a short range, not through cables."
+      },
+      {
+       "q": "Microwaves travel:",
+       "options": [
+        "In all directions equally",
+        "Only in a straight line",
+        "Only through copper wires",
+        "Only under water"
+       ],
+       "answer": 1,
+       "why": "Microwaves travel only in a straight line and need line-of-sight antennas, unlike radio waves which travel in all directions."
+      },
+      {
+       "q": "Which of the following is a category of unguided transmission media?",
+       "options": [
+        "Infrared",
+        "Twisted pair cable",
+        "Coaxial cable",
+        "Fiber optic cable"
+       ],
+       "answer": 0,
+       "why": "The three categories of unguided media are radio waves, microwaves and infrared. Twisted pair, coaxial and fiber optic are guided (cabled) media."
+      },
+      {
+       "q": "Li-Fi can be more secure than Wi-Fi because:",
+       "options": [
+        "It uses longer cables",
+        "It needs no electricity",
+        "Light does not pass through walls",
+        "It works in total darkness only"
+       ],
+       "answer": 2,
+       "why": "Light does not pass through walls, so a Li-Fi signal stays inside the room; Wi-Fi radio waves pass through walls and doors and cover a larger area, but can be picked up outside."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Microsoft Excel",
+   "lessons": [
+    {
+     "title": "Workbook, Worksheet and the Excel Interface",
+     "notes_html": "<h4>MS Excel: Workbook and Worksheet</h4>\n<p><b>MS Excel</b> is spreadsheet software. A <b>workbook</b> is the Excel file that typically contains one or more worksheets. A <b>worksheet</b> is a single sheet of rows and columns inside a workbook where data is entered; the intersection of a row and a column is called a <b>cell</b>. One workbook can hold many related worksheets, shown as sheet tabs at the bottom.</p>\n<h4>Components of the Excel Interface</h4>\n<ul>\n<li><b>Title Bar</b>: shows the name of the workbook.</li>\n<li><b>Ribbon</b>: contains tabs and the icons (toolbars) for commands.</li>\n<li><b>Formula Bar</b>: shows the contents or formula of the active cell.</li>\n<li><b>Name Box</b>: shows the address of the active cell.</li>\n<li><b>Worksheet area</b>: a grid of rows (numbered) and columns (lettered) whose intersections form cells.</li>\n<li><b>Sheet Tabs</b>: for moving between worksheets.</li>\n<li><b>Scroll Bars</b>: for moving up/down and left/right.</li>\n<li><b>Status Bar</b>: at the bottom, shows information such as sum, average and count of selected cells, and the zoom slider — it is not used to display colours.</li>\n</ul>\n<h4>The Ribbon Tabs</h4>\n<p>The main Ribbon tabs in MS Excel are: <b>File</b> — opening, saving, printing and closing workbooks; <b>Home</b> — clipboard, font, alignment, number formats, styles and editing; <b>Insert</b> — tables, charts, pictures and symbols; <b>Page Layout</b> — page setup, margins, orientation and themes; <b>Formulas</b> — the function library, including all built-in functions; <b>Data</b> — sorting, filtering and data tools; <b>Review</b> — spelling, comments and sheet protection; <b>View</b> — workbook views, zoom and window options. Each tab groups related commands as icons on the ribbon.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The intersection of a row and a column is called a cell.</li>\n<li>A workbook contains one or more worksheets.</li>\n<li>The Name Box shows the address of the active cell.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The intersection of a row and a column in a worksheet is called a ______.",
+       "options": [
+        "table",
+        "spreadsheet",
+        "workbook",
+        "cell"
+       ],
+       "answer": 3,
+       "why": "A worksheet is a grid of rows and columns, and the intersection of one row and one column forms a cell, where data is entered."
+      },
+      {
+       "q": "A ______ typically contains one or more worksheets.",
+       "options": [
+        "spreadsheet cell",
+        "workspace",
+        "office",
+        "workbook"
+       ],
+       "answer": 3,
+       "why": "A workbook is the Excel file that typically contains one or more worksheets, shown as sheet tabs at the bottom of the window."
+      },
+      {
+       "q": "MS Excel is a ______ software.",
+       "options": [
+        "word processing",
+        "spreadsheet",
+        "presentation",
+        "database only"
+       ],
+       "answer": 1,
+       "why": "MS Excel is spreadsheet software used to save and process data in rows and columns and to perform calculations with formulas and functions."
+      },
+      {
+       "q": "The Status Bar in Excel is used to:",
+       "options": [
+        "Display colours for painting",
+        "Type formulas into cells",
+        "Show information such as sum, average and count of selected cells",
+        "Print the worksheet"
+       ],
+       "answer": 2,
+       "why": "The Status Bar, at the bottom of the window, shows information such as the sum, average and count of the selected cells and the zoom slider — it is not used to display colours."
+      },
+      {
+       "q": "The Ribbon in Excel:",
+       "options": [
+        "Contains tabs with icons for commands",
+        "Contains no icons at all",
+        "Is used only for printing",
+        "Shows the name of the workbook"
+       ],
+       "answer": 0,
+       "why": "The Ribbon contains tabs such as File, Home, Insert and Formulas, and each tab groups related commands as icons (toolbars) on the ribbon."
+      },
+      {
+       "q": "The address of the active cell is shown in the:",
+       "options": [
+        "Title Bar",
+        "Status Bar",
+        "Scroll Bar",
+        "Name Box"
+       ],
+       "answer": 3,
+       "why": "The Name Box shows the address of the active cell, while the Formula Bar shows the contents or formula of that cell."
+      },
+      {
+       "q": "The name of the workbook is shown on the:",
+       "options": [
+        "Formula Bar",
+        "Title Bar",
+        "Name Box",
+        "Sheet Tab"
+       ],
+       "answer": 1,
+       "why": "The Title Bar at the top of the Excel window shows the name of the workbook that is currently open."
+      },
+      {
+       "q": "The contents or formula of the active cell are shown in the:",
+       "options": [
+        "Formula Bar",
+        "Title Bar",
+        "Status Bar",
+        "Ribbon"
+       ],
+       "answer": 0,
+       "why": "The Formula Bar shows the contents or formula of the active cell, so the user can see and edit what is inside the cell."
+      },
+      {
+       "q": "To move between the different worksheets of a workbook, we use the:",
+       "options": [
+        "Scroll Bars only",
+        "Title Bar",
+        "Sheet Tabs",
+        "Print Preview"
+       ],
+       "answer": 2,
+       "why": "Sheet Tabs at the bottom of the window are used for moving between the worksheets contained in one workbook."
+      },
+      {
+       "q": "All of Excel's built-in functions are found in the function library on the ______ tab.",
+       "options": [
+        "File",
+        "Formulas",
+        "View",
+        "Review"
+       ],
+       "answer": 1,
+       "why": "The Formulas tab contains the function library, including all of Excel's built-in functions; the other tabs group different commands."
+      }
+     ]
+    },
+    {
+     "title": "Formulas, Functions and Charts in Excel",
+     "notes_html": "<h4>Formulas and Functions</h4>\n<p>Every formula in Excel begins with an <b>equal sign (=)</b>, followed by the calculation. <b>Functions</b> are predefined, built-in formulas: a function is a formula with a <b>name</b>. All of Excel's functions are located on the Ribbon's <b>Formulas</b> tab. Three built-in functions are: <b>SUM</b>, which adds the values in a range of cells, e.g. =SUM(A1:A5); <b>AVERAGE</b>, which finds the mean of values, e.g. =AVERAGE(A1:A5) — the AVERAGE function requires reference to the address of cells; and <b>IF</b>, which tests a condition and returns one value if true and another if false, e.g. =IF(A1&gt;=50,\"Pass\",\"Fail\"). Other examples are MAX, MIN and COUNT.</p>\n<h4>The IF Function</h4>\n<p>The <b>IF function</b> allows you to make logical comparisons between values. It is used to test if a certain condition in a worksheet is <b>true</b> or false, and it returns one result when the condition is true and another result when it is false.</p>\n<h4>A Worked Calculation</h4>\n<p>Marks of a student in five subjects are in cells B2:F2 (70, 80, 75, 90, 85). Total: type <b>=SUM(B2:F2)</b> — the result is 400. Average: type <b>=AVERAGE(B2:F2)</b> — the result is 80. Both functions take the cell range as their argument and calculate automatically when the values change.</p>\n<h4>Charts</h4>\n<p>Data may be represented in different formats like <b>graphs</b> and charts to understand data visually. <b>Charts</b> are also commonly known as graphs. To create a chart of a store's monthly sales: enter data in two columns (Month and Sales), select the data range including headings, click the Insert tab and choose a chart type such as Column Chart, then add a chart title and axis labels. The chart shows at a glance in which month sales were highest or lowest.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Every Excel formula starts with the = sign.</li>\n<li>Functions are built-in formulas with a name, found on the Formulas tab.</li>\n<li>Charts are also commonly known as graphs.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Data may be represented in different formats like ______ and charts to understand data visually.",
+       "options": [
+        "cells",
+        "formulas",
+        "calculations",
+        "graphs"
+       ],
+       "answer": 3,
+       "why": "Data may be represented in different formats like graphs and charts so that it can be understood visually at a glance."
+      },
+      {
+       "q": "Functions are formulas with a ______.",
+       "options": [
+        "heading",
+        "name",
+        "sign",
+        "picture"
+       ],
+       "answer": 1,
+       "why": "A function is a predefined formula with a name, such as SUM, AVERAGE or IF, which performs a specific calculation."
+      },
+      {
+       "q": "All of Excel's functions are located on the Ribbon's ______ tab.",
+       "options": [
+        "Data",
+        "Home",
+        "Formulas",
+        "Function"
+       ],
+       "answer": 2,
+       "why": "All of Excel's functions are located in the function library on the Ribbon's Formulas tab."
+      },
+      {
+       "q": "In a cell, the ______ sign is always used at the beginning of a formula.",
+       "options": [
+        "=",
+        "+",
+        "#",
+        "/"
+       ],
+       "answer": 0,
+       "why": "Every formula in Excel must be preceded by an equal sign (=); only then does Excel treat the entry as a calculation."
+      },
+      {
+       "q": "Excel comes with built-in ______, which are predefined formulas.",
+       "options": [
+        "headings",
+        "formats",
+        "pictures",
+        "functions"
+       ],
+       "answer": 3,
+       "why": "Excel comes with built-in functions, which are predefined formulas such as SUM, AVERAGE, MAX, MIN and IF."
+      },
+      {
+       "q": "Which of the following allows you to make logical comparisons between values?",
+       "options": [
+        "For Function",
+        "IF Function",
+        "Else Function",
+        "SUM Function"
+       ],
+       "answer": 1,
+       "why": "The IF function allows you to make logical comparisons between a value and what you expect, returning one result if the condition is true and another if it is false."
+      },
+      {
+       "q": "The IF function is used to test if a certain condition in a worksheet is ______ or false.",
+       "options": [
+        "true",
+        "one",
+        "yes",
+        "zero"
+       ],
+       "answer": 0,
+       "why": "The IF function tests whether a condition is true or false — for example =IF(A1>=50,\"Pass\",\"Fail\") prints Pass when the marks are 50 or more."
+      },
+      {
+       "q": "______ are also commonly known as graphs.",
+       "options": [
+        "Cells",
+        "Functions",
+        "Charts",
+        "Formulas"
+       ],
+       "answer": 2,
+       "why": "Charts are also commonly known as graphs; they represent data visually so that it can be understood at a glance."
+      },
+      {
+       "q": "Marks in cells B2:F2 are 70, 80, 75, 90 and 85. The formula =AVERAGE(B2:F2) will give:",
+       "options": [
+        "400",
+        "80",
+        "85",
+        "75"
+       ],
+       "answer": 1,
+       "why": "The total is 70+80+75+90+85 = 400, and the average of five subjects is 400 ÷ 5 = 80. The value 400 would be given by =SUM(B2:F2)."
+      },
+      {
+       "q": "The AVERAGE function of Excel requires:",
+       "options": [
+        "A printed copy of the sheet",
+        "An internet connection",
+        "A chart of the data",
+        "Reference to the address of cells"
+       ],
+       "answer": 3,
+       "why": "Like other functions, AVERAGE works on a range given by cell addresses, e.g. =AVERAGE(A1:A5), and recalculates automatically when the values change."
+      }
+     ]
+    },
+    {
+     "title": "Formatting in Excel and Lab Activities",
+     "notes_html": "<h4>Formatting in MS Excel</h4>\n<p>Formatting in MS Excel includes making text bold, italic or underlined, changing font size and colour, filling a cell with a <b>background colour</b>, applying borders, <b>merging cells</b>, aligning text, and using number formats such as currency, percentage and dates. So the background colour of a cell can be changed, and two or more cells can be merged into one. Formatting makes the worksheet clear, attractive and easy to read.</p>\n<h4>Resizing a Column</h4>\n<p>To resize a column, place the mouse pointer on the right border of the column header until it becomes a double-headed arrow, then drag it to the required width. Alternatively, double-click the border to auto-fit the column to its contents, or right-click the column header, choose Column Width, and type an exact value.</p>\n<h4>Lab Activity: Marks Table of 10 Students</h4>\n<p>Create columns: Name, Subject 1 to Subject 5, Total, Average. Enter marks for 10 students. In Total use <b>=SUM(B2:F2)</b> and in Average use <b>=AVERAGE(B2:F2)</b>, then copy the formulas down for all students. Taking 40 as pass marks, check each subject cell; wherever a student's marks in a subject are below 40, select that student's name cell and apply red fill colour (Home tab &gt; Fill Color &gt; Red) to show the failure clearly.</p>\n<h4>Lab Activity: Class Data Chart</h4>\n<p>Collect class data (birthday month / favourite food) and make a two-column table: the answer choice (e.g. Jan, Feb, ... or a food item) in the left column and the number of students in the right column. Count the class responses and fill in the numbers. Select the table, then Insert &gt; Chart (column or pie) to draw the graph. The tallest bar / largest slice shows the most common birthday month or the class's favourite food.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The background colour of a cell can be changed, and cells can be merged.</li>\n<li>Double-clicking a column border auto-fits the column width.</li>\n<li>In the marks-table activity, a failed student's name cell is filled red.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The background colour of a cell in Excel:",
+       "options": [
+        "Can never be changed",
+        "Can be changed using Fill Color",
+        "Changes automatically every day",
+        "Can only be white"
+       ],
+       "answer": 1,
+       "why": "You can change the background colour of a cell by filling it with a colour from the Home tab's Fill Color option — formatting also includes borders, fonts and number formats."
+      },
+      {
+       "q": "Two or more cells of an Excel sheet:",
+       "options": [
+        "Can never be merged",
+        "Merge automatically when typed in",
+        "Can be merged into one cell",
+        "Can only be merged by printing"
+       ],
+       "answer": 2,
+       "why": "Two or more cells can be merged into a single cell using the Merge option; merging is a common formatting feature of Excel."
+      },
+      {
+       "q": "To auto-fit a column to its contents, we:",
+       "options": [
+        "Double-click the right border of the column header",
+        "Restart Excel",
+        "Delete the column",
+        "Press the Print button"
+       ],
+       "answer": 0,
+       "why": "Double-clicking the right border of the column header auto-fits the column to its contents; dragging the border or typing an exact Column Width also resizes it."
+      },
+      {
+       "q": "An exact column width can be typed by right-clicking the column header and choosing:",
+       "options": [
+        "Row Height",
+        "Sheet Name",
+        "Print Area",
+        "Column Width"
+       ],
+       "answer": 3,
+       "why": "Right-clicking the column header and choosing Column Width lets you type an exact value for the width of the column."
+      },
+      {
+       "q": "In the lab activity of the marks table, the Total for each student is calculated with:",
+       "options": [
+        "=TOTAL(B2:F2)",
+        "=SUM(B2:F2)",
+        "=ADD(B2:F2)",
+        "=COUNT(B2:F2)"
+       ],
+       "answer": 1,
+       "why": "The SUM function adds the marks in the five subject cells, e.g. =SUM(B2:F2), and the formula is then copied down for all 10 students."
+      },
+      {
+       "q": "In the marks-table activity, a student's name cell is filled red when:",
+       "options": [
+        "The student has failed a subject (marks below 40)",
+        "The student is absent",
+        "The student has the highest marks",
+        "The student's name is the longest"
+       ],
+       "answer": 0,
+       "why": "Taking 40 as pass marks, wherever a student's marks in a subject are below 40, the student's name cell is filled red (Home tab > Fill Color > Red) to show the failure clearly."
+      },
+      {
+       "q": "Red fill colour is applied to a cell from the ______ tab.",
+       "options": [
+        "Data",
+        "View",
+        "Home",
+        "Review"
+       ],
+       "answer": 2,
+       "why": "Fill Color is found on the Home tab, which groups font, alignment, number formats and styles — the tools used for formatting cells."
+      },
+      {
+       "q": "To create a chart of class data in Excel, after selecting the table we click:",
+       "options": [
+        "File > Print",
+        "Insert > Chart",
+        "Review > Spelling",
+        "View > Zoom"
+       ],
+       "answer": 1,
+       "why": "Charts are inserted from the Insert tab: select the data table first, then Insert > Chart and choose a column or pie chart."
+      },
+      {
+       "q": "In the class-data chart, the tallest bar shows:",
+       "options": [
+        "The tallest student in the class",
+        "The first student in the register",
+        "The total number of students",
+        "The most common birthday month or the class's favourite food"
+       ],
+       "answer": 3,
+       "why": "The chart's tallest bar (or largest pie slice) represents the choice with the greatest number of students — the most common birthday month or the favourite food."
+      },
+      {
+       "q": "Which of the following is an example of formatting in Excel?",
+       "options": [
+        "Deleting the whole workbook",
+        "Closing the Excel window",
+        "Removing the Ribbon",
+        "Making text bold and applying a number format"
+       ],
+       "answer": 3,
+       "why": "Formatting includes bold/italic/underline, font size and colour, cell fill, borders, merging, alignment and number formats such as currency, percentage and dates."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Google Sheets",
+   "lessons": [
+    {
+     "title": "Introduction to Google Sheets",
+     "notes_html": "<h4>What is Google Sheets?</h4>\n<p><b>Google Sheets</b> is a free, online, web-based <b>spreadsheet</b> application developed by Google. It is linked with a Google Account, runs in the browser without downloading or installation, and is used to save and process data in rows and columns and to perform calculations with formulas and functions. Google Sheets is available in <b>83 languages</b>, and it was launched as part of the G Suite pack in <b>2006</b>.</p>\n<h4>Why We Use Google Sheets</h4>\n<p>We use Google Sheets to organize data in rows and columns, perform calculations with formulas and functions, create charts, and share the sheet with others for real-time collaboration. Work is saved automatically online (on Google Drive), so it can be opened anywhere with an internet connection.</p>\n<h4>Applications of Google Sheets</h4>\n<p>Applications of Google Sheets include preparing budgets and accounts, maintaining marks sheets and attendance records, making lists and timetables, analyzing data with pivot tables, creating charts and graphs, and collaborative project work where many users edit the same sheet at the same time from different places. Google Sheets is a spreadsheet program — it is not used to write letters and memos.</p>\n<h4>Google Sheets vs Excel</h4>\n<p>Google Sheets is a free online web-based application by Google that runs in a browser and saves files on <b>Google Drive</b> (not OneDrive, which belongs to Microsoft). Excel is Microsoft's installed spreadsheet software that saves files on the computer (or OneDrive). Both can be used in offline mode. Sheets is best for sharing and real-time collaboration; Excel offers more advanced features and is better suited to large and complex work — for small volumes of data, either is easy to use.</p>\n<h4>What Makes Google Sheets Better for Teamwork</h4>\n<p>Google Sheets is free, needs no installation, saves work automatically, allows many people to edit the same sheet in real time, keeps a complete version history, and can be used on any device through a browser. These features make it better than Excel for teamwork and online work.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Google Sheets is a free online spreadsheet app by Google.</li>\n<li>It is available in 83 languages and was launched in 2006.</li>\n<li>Files are saved on Google Drive, not OneDrive.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Google Sheets is available in ______ languages.",
+       "options": [
+        "63",
+        "73",
+        "83",
+        "93"
+       ],
+       "answer": 2,
+       "why": "Google Sheets is available in 83 languages, which makes the free online spreadsheet application usable by people all over the world."
+      },
+      {
+       "q": "We can use ______ in offline mode only.",
+       "options": [
+        "both Google Sheets and Excel",
+        "Google Sheets only",
+        "Excel only",
+        "neither of them"
+       ],
+       "answer": 0,
+       "why": "The book's key states that both can be used in offline mode: Excel is an installed desktop program, and Google Sheets can also be set up to work offline in the browser."
+      },
+      {
+       "q": "Google Sheets was launched as part of the G Suite pack in ______.",
+       "options": [
+        "2000",
+        "2002",
+        "2004",
+        "2006"
+       ],
+       "answer": 3,
+       "why": "Google launched Google Sheets as part of the G Suite pack in 2006; it has since become a popular free online spreadsheet application."
+      },
+      {
+       "q": "Google Sheets is a ______ program.",
+       "options": [
+        "word processing",
+        "spreadsheet",
+        "presentation",
+        "photo editing"
+       ],
+       "answer": 1,
+       "why": "Google Sheets is a spreadsheet program: it saves and processes data in columns and rows and allows you to do calculations with formulas and functions."
+      },
+      {
+       "q": "Google Sheets is used to write letters and memos.",
+       "options": [
+        "False — it is a spreadsheet program for data and calculations",
+        "True — it is a word processor",
+        "True — it replaces Google Docs completely",
+        "False — it is only a game"
+       ],
+       "answer": 0,
+       "why": "The statement is false. Google Sheets is used for data in rows and columns, calculations, charts and records — letters and memos are written in a word processor such as Google Docs."
+      },
+      {
+       "q": "Google Sheets saves its files on:",
+       "options": [
+        "OneDrive",
+        "A floppy disk",
+        "Google Drive",
+        "The computer's desktop only"
+       ],
+       "answer": 2,
+       "why": "Google Sheets does not use OneDrive (that is Microsoft's storage); its files are saved automatically online on Google Drive, linked with the user's Google Account."
+      },
+      {
+       "q": "Google Sheets is developed by:",
+       "options": [
+        "Microsoft",
+        "Google",
+        "Apple",
+        "Adobe"
+       ],
+       "answer": 1,
+       "why": "Google Sheets is a free, online, web-based spreadsheet application developed by Google and linked with a Google Account."
+      },
+      {
+       "q": "Which of the following is an application of Google Sheets?",
+       "options": [
+        "Editing videos",
+        "Designing buildings",
+        "Driving a car",
+        "Maintaining marks sheets and attendance records"
+       ],
+       "answer": 3,
+       "why": "Applications of Google Sheets include budgets and accounts, marks sheets and attendance records, lists, timetables, pivot tables, charts and collaborative project work."
+      },
+      {
+       "q": "What makes Google Sheets better than Excel for teamwork?",
+       "options": [
+        "It has no rows and columns",
+        "It works only on one computer",
+        "It deletes old versions of the file",
+        "Many people can edit the same sheet in real time, and work is saved automatically"
+       ],
+       "answer": 3,
+       "why": "Google Sheets is free, needs no installation, saves automatically, keeps a complete version history and allows real-time collaboration — features that make it better for teamwork and online work."
+      },
+      {
+       "q": "To use Google Sheets, a user mainly needs:",
+       "options": [
+        "A printer and scanner",
+        "A browser and a Google Account",
+        "A gaming computer",
+        "A paid CD for installation"
+       ],
+       "answer": 1,
+       "why": "Google Sheets runs in the browser without downloading or installation; it is linked with a Google Account and can be used on any device with an internet connection."
+      }
+     ]
+    },
+    {
+     "title": "Working with Google Sheets: Selection, Formulas and Ranges",
+     "notes_html": "<h4>Creating New Sheets and Selecting Cells</h4>\n<p>Open the spreadsheet and click the '+' (Add Sheet) button at the bottom-left corner to add a new sheet tab; you can also use the shortcut key <b>Shift + F11</b> to create new sheets. Right-click a sheet tab to rename, duplicate, move or delete a sheet. To select multiple cells, click the first cell and drag the mouse over the other cells, or click the first cell, hold Shift and click the last cell of the range; for non-adjacent cells, hold Ctrl and click each cell. Selecting a cell, selecting multiple cells and selecting a column are all <b>selection operations</b>. You can select the entire spreadsheet by pressing <b>Ctrl+A</b>. The <b>Name Box</b> displays the reference of which cell or range you have selected. The buttons you press to perform actions are known as <b>commands</b>, and you can change the font colour of any cell.</p>\n<h4>Formulas and Functions</h4>\n<p>A formula in Google Sheets is an expression used to do mathematical calculations; formulas always start with the <b>equal sign (=)</b> typed in the cell, followed by the calculation. The predefined formulas in Google Sheets are referred to as <b>functions</b>. Three examples: =A1+B1 (adds two cells), =SUM(A1:A5) (total of a range), =AVERAGE(A1:A5) (mean of a range). Note that the MAX function returns the <b>maximum</b> value in a range — the function that returns the minimum value is MIN. The <b>Data Grid</b> is the part that saves and processes data in columns and rows and allows you to do calculations. To fill out a whole row with a formula, enter the formula in the first cell (e.g. =A1+B1 in cell C1), then drag the small <b>fill handle</b> (the square at the cell's bottom-right corner) across the row; the formula is copied with automatically adjusted cell references.</p>\n<h4>Ranges</h4>\n<p>A <b>range</b> in Google Sheets is a group of cells selected together, identified by the reference of its first (top-left) cell and last (bottom-right) cell separated by a colon — e.g. A1:C5 means all cells from A1 to C5. Ranges are used in formulas and functions such as =SUM(A1:A10), in formatting many cells at once, in sorting and filtering, and in creating charts and pivot tables. A range can be a single row, a single column, or a rectangular block of rows and columns.</p>\n<h4>The Toolbar (Ribbon) in Google Sheets</h4>\n<p>The toolbar/ribbon area below the menu bar contains the buttons (commands) used to perform actions: undo/redo, print, zoom, number formats, font name and size, bold/italic, text and fill colour, borders, merge cells, alignment, text wrapping, inserting links, comments and charts, and filters. Above it, the menus — File, Edit, View, Insert, Format, Data, Tools, Extensions and Help — group all commands by type.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Shift + F11 creates a new sheet; Ctrl+A selects the entire spreadsheet.</li>\n<li>Formulas always start with the = sign; predefined formulas are called functions.</li>\n<li>A range is written with a colon, e.g. A1:C5.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "You can use the shortcut key Shift + ______ to create new sheets.",
+       "options": [
+        "F11",
+        "F3",
+        "F6",
+        "F9"
+       ],
+       "answer": 0,
+       "why": "Pressing Shift + F11 creates a new sheet in Google Sheets; the '+' (Add Sheet) button at the bottom-left corner does the same job."
+      },
+      {
+       "q": "You can select the entire spreadsheet by pressing ______ for Windows.",
+       "options": [
+        "Ctrl+B",
+        "Ctrl+C",
+        "Ctrl+D",
+        "Ctrl+A"
+       ],
+       "answer": 3,
+       "why": "Ctrl+A selects the entire spreadsheet; the Name Box then displays the reference of the selected range."
+      },
+      {
+       "q": "Formulas always start with the ______ typed in the cell, followed by your calculation.",
+       "options": [
+        "parenthesis",
+        "equal sign",
+        "dollar sign",
+        "hashtag"
+       ],
+       "answer": 1,
+       "why": "A formula in Google Sheets always starts with an equal sign (=) typed in the cell, followed by the calculation, e.g. =A1+B1."
+      },
+      {
+       "q": "The ______ displays the reference of which cell or range you have selected.",
+       "options": [
+        "Name Box",
+        "Menu Bar",
+        "Scroll Bar",
+        "Title Bar"
+       ],
+       "answer": 0,
+       "why": "The Name Box displays the reference of the cell or range you have selected, such as A1 or A1:C5."
+      },
+      {
+       "q": "The predefined formulas in Google Sheets are referred to as ______.",
+       "options": [
+        "rows",
+        "ranges",
+        "functions",
+        "groups"
+       ],
+       "answer": 2,
+       "why": "Predefined formulas in Google Sheets are called functions — for example SUM, AVERAGE and MAX are built-in functions."
+      },
+      {
+       "q": "______ saves and processes data in columns and rows and allows you to do calculations.",
+       "options": [
+        "Formatting",
+        "Data Grid",
+        "Exploring",
+        "Printing"
+       ],
+       "answer": 1,
+       "why": "The Data Grid is the grid of columns and rows in which data is saved and processed and calculations are performed in Google Sheets."
+      },
+      {
+       "q": "Selecting a cell, selecting multiple cells and selecting a column are all examples of:",
+       "options": [
+        "Printing operations",
+        "Sharing operations",
+        "Deleting operations",
+        "Selection operations"
+       ],
+       "answer": 3,
+       "why": "Selecting a Cell, Selecting Multiple Cells and Selecting a Column are the selection operations used to choose cells before applying a command."
+      },
+      {
+       "q": "The font colour of a cell in Google Sheets:",
+       "options": [
+        "Can never be changed",
+        "Is always black",
+        "Changes only on printing",
+        "Can be changed for any cell"
+       ],
+       "answer": 3,
+       "why": "You can change the font colour of any cell in Google Sheets using the text colour command on the toolbar."
+      },
+      {
+       "q": "The MAX function in Google Sheets returns:",
+       "options": [
+        "The minimum value in a range",
+        "The maximum value in a range",
+        "The total of a range",
+        "The number of cells in a range"
+       ],
+       "answer": 1,
+       "why": "MAX returns the largest (maximum) value in a range; the statement 'Max returns the minimum value' is false — MIN returns the minimum value."
+      },
+      {
+       "q": "A range from cell A1 to cell C5 is written as:",
+       "options": [
+        "A1-C5",
+        "A1+C5",
+        "A1:C5",
+        "A1/C5"
+       ],
+       "answer": 2,
+       "why": "A range is identified by the reference of its first (top-left) cell and last (bottom-right) cell separated by a colon, e.g. A1:C5."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Computational Thinking",
+   "lessons": [
+    {
+     "title": "Computational Thinking and Its Techniques",
+     "notes_html": "<h4>What is Computational Thinking?</h4>\n<p><b>Computational thinking (CT)</b> is a problem-solving method that allows us to take a complex problem, understand what the problem is and develop possible solutions, so that the solution can be carried out by a person or a computer. It is important to learn because it helps us solve problems logically and step by step, and the same thinking is used in programming, science, business and daily life.</p>\n<h4>The Four Techniques</h4>\n<ul>\n<li><b>Decomposition</b>: breaking a complex problem or system into smaller, more manageable parts, solving each part separately, and then combining the results to solve the whole problem.</li>\n<li><b>Pattern Recognition</b>: observing patterns, trends and regularities in data, along with looking for similarities among and within problems.</li>\n<li><b>Abstraction</b>: focusing only on the important details of a problem, while ignoring irrelevant information, so the problem becomes simpler to understand and solve.</li>\n<li><b>Algorithm Design</b>: developing a step-by-step approach for solving a problem.</li>\n</ul>\n<p>Decomposition divides the problem; abstraction filters the information. <b>Factoring problems</b> are problems that can be broken down (factored) into smaller independent parts, where each part is solved separately and the partial results are then combined — for example, the total cost of a school trip can be factored into transport cost, food cost and ticket cost, each found separately and then added.</p>\n<h4>Pros and Cons of Computational Thinking</h4>\n<p>Pros: (1) It breaks difficult problems into simple parts, so solutions become clear and reliable. (2) Its solutions can be reused — the same pattern or algorithm can solve many similar problems, and can be given to a computer. Working on independent parts at the same time (concurrency) speeds up the solution; it does not slow it down. Cons: (1) Thinking in strict steps is not possible for every problem; some problems (like the halting problem) are undecidable. (2) It takes time and practice to decompose a problem correctly, and over-simplifying (too much abstraction) can hide an important detail.</p>\n<h4>Key Points</h4>\n<ul>\n<li>CT = Computational Thinking.</li>\n<li>Decomposition breaks a problem into parts; abstraction keeps only important details.</li>\n<li>Pattern recognition finds similarities; algorithm design gives the step-by-step solution.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Developing a step-by-step approach for solving a problem is:",
+       "options": [
+        "Decomposition",
+        "Abstraction",
+        "Pattern Recognition",
+        "Algorithm Design"
+       ],
+       "answer": 3,
+       "why": "Algorithm Design is the technique of developing a step-by-step approach for solving a problem; decomposition breaks the problem into parts instead."
+      },
+      {
+       "q": "______ allows us to take a complex problem, understand what the problem is and develop possible solutions.",
+       "options": [
+        "Excel",
+        "Computational thinking",
+        "Formulas",
+        "Typing"
+       ],
+       "answer": 1,
+       "why": "Computational thinking is the problem-solving method that allows us to take a complex problem, understand it and develop possible solutions."
+      },
+      {
+       "q": "Observing patterns, trends and regularities in data, along with looking for similarities among and within problems, is:",
+       "options": [
+        "Pattern Recognition",
+        "Decomposition",
+        "Abstraction",
+        "Algorithm Design"
+       ],
+       "answer": 0,
+       "why": "Pattern Recognition means observing patterns, trends and regularities in data and looking for similarities among and within problems."
+      },
+      {
+       "q": "Focusing only on the important details, while ignoring irrelevant information, is:",
+       "options": [
+        "Decomposition",
+        "Algorithm Design",
+        "Abstraction",
+        "Pattern Recognition"
+       ],
+       "answer": 2,
+       "why": "Abstraction is focusing only on the important details of a problem while ignoring irrelevant information, so that the problem becomes simpler to solve."
+      },
+      {
+       "q": "The full form of CT is:",
+       "options": [
+        "Computer Technology",
+        "Computational Thinking",
+        "Computer Tomography",
+        "Central Terminal"
+       ],
+       "answer": 1,
+       "why": "CT stands for Computational Thinking — the problem-solving approach built on decomposition, pattern recognition, abstraction and algorithm design."
+      },
+      {
+       "q": "Computational thinking allows the development of solutions to a problem.",
+       "options": [
+        "False — it only describes problems",
+        "False — it is only used for drawing",
+        "True — but only for mathematics problems",
+        "True — that is its main purpose"
+       ],
+       "answer": 3,
+       "why": "The statement 'computational thinking does not allow the development of solutions' is false: CT is exactly a method for understanding a problem and developing possible solutions to it."
+      },
+      {
+       "q": "Breaking a complex problem into smaller, easier parts and solving each part separately is called:",
+       "options": [
+        "Abstraction",
+        "Iteration",
+        "Nesting",
+        "Decomposition"
+       ],
+       "answer": 3,
+       "why": "Decomposition means breaking a complex problem into smaller, more manageable parts, solving each part separately, and then combining the results."
+      },
+      {
+       "q": "The total cost of a school trip is found by calculating transport, food and ticket costs separately and then adding them. This is an example of:",
+       "options": [
+        "A halting problem",
+        "A factoring problem",
+        "An abstraction error",
+        "A flowchart symbol"
+       ],
+       "answer": 1,
+       "why": "Factoring problems are broken down into smaller independent parts — here transport, food and ticket costs — each solved separately and then combined into the complete solution."
+      },
+      {
+       "q": "Concurrency (working on independent parts at the same time):",
+       "options": [
+        "Slows down the solution",
+        "Makes the problem impossible",
+        "Speeds up the solution",
+        "Deletes parts of the problem"
+       ],
+       "answer": 2,
+       "why": "The statement 'concurrency slows down the solution' is false: solving independent parts at the same time makes the overall solution faster."
+      },
+      {
+       "q": "Which of the following is an advantage (pro) of computational thinking?",
+       "options": [
+        "Solutions can be reused for many similar problems",
+        "Every problem becomes undecidable",
+        "No practice is ever needed",
+        "Important details are always hidden"
+       ],
+       "answer": 0,
+       "why": "A pro of CT is that its solutions can be reused — the same pattern or algorithm can solve many similar problems and can be given to a computer. Its cons include the time needed to decompose correctly."
+      }
+     ]
+    },
+    {
+     "title": "Algorithms, Pseudocode and Flowcharts",
+     "notes_html": "<h4>Algorithms</h4>\n<p>An <b>algorithm</b> is a step-by-step set of instructions for solving a problem. Rules for writing an algorithm: begin with the word <b>Start</b> and end with Stop; write each step in a separate line; steps must be clear, simple and in a definite order; the algorithm must take input, process it and produce output; it must finish in a finite number of steps; and it should be general enough to solve the problem for different inputs. Repeating an action again and again is called <b>iteration</b>. Algorithms are used everywhere in real life: recipes for cooking, instructions to reach a place, withdrawing money from an ATM, search engines, navigation apps, and washing machines and lifts following fixed step-by-step procedures.</p>\n<h4>Pseudocode</h4>\n<p><b>Pseudocode</b> is an informal, plain-language description of an algorithm that uses simple English statements together with programming-like keywords such as INPUT, IF, THEN, ELSE, WHILE and PRINT. It is not a real programming language; it helps the programmer plan the logic before writing actual code. Pseudocode is often better than a flowchart because it is quicker to write and easier to change, can describe long and complex logic in a small space, and converts easily into program code — while flowcharts are better for beginners and for showing decisions visually.</p>\n<h4>Flowcharts</h4>\n<p>A <b>flowchart</b> is a diagram that represents an algorithm using standard symbols connected by flow lines (arrows). The <b>oval</b> represents Start/Stop — there can be only one start and one stop symbol in a flowchart. The <b>rectangle</b> shows a process, the <b>diamond</b> shows a decision, and the <b>parallelogram</b> shows input/output. The flow lines (arrows), not the diamond, show the direction of the flow of data and instructions, and flow lines can cross each other. Like an algorithm, certain rules must be followed while drawing a flowchart. <b>Nesting</b> is the placement of one object within another object.</p>\n<h4>Example: Boiling Water</h4>\n<p>Algorithm: Step 1: Start. Step 2: Take a kettle/pot. Step 3: Fill it with water. Step 4: Place it on the stove and turn on the heat. Step 5: Wait until the water boils (bubbles and steam appear). Step 6: Turn off the stove. Step 7: Stop. Flowchart (in words): Oval 'Start' → Rectangle 'Fill pot with water' → Rectangle 'Heat the water' → Diamond 'Is water boiling?' — if No, loop back to heating/waiting; if Yes → Rectangle 'Turn off the stove' → Oval 'Stop'.</p>\n<h4>The Halting Problem</h4>\n<p>The <b>halting problem</b> asks: can we write a program that, given any other program and its input, always decides whether that program will eventually stop (halt) or run forever? It is undecidable. Proof (by contradiction): suppose such a decider H exists. Build a program P that does the opposite of what H predicts for P itself: if H says P halts, P loops forever; if H says P loops, P halts. Both cases give a contradiction, so H cannot exist.</p>\n<h4>Key Points</h4>\n<ul>\n<li>An algorithm begins with Start and ends with Stop; each step is on a separate line.</li>\n<li>In a flowchart: oval = Start/Stop, rectangle = process, diamond = decision, parallelogram = input/output.</li>\n<li>The halting problem is undecidable.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Sometimes we want to repeat an action again and again, which is called ______.",
+       "options": [
+        "solution",
+        "iteration",
+        "copying",
+        "deletion"
+       ],
+       "answer": 1,
+       "why": "Repeating an action again and again is called iteration; loops in programs perform iteration."
+      },
+      {
+       "q": "There can be only one start and ______ stop symbol in a flowchart.",
+       "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+       ],
+       "answer": 0,
+       "why": "A flowchart has exactly one Start symbol and one Stop symbol, both drawn as ovals, so the flow has a single clear beginning and end."
+      },
+      {
+       "q": "The Start/Stop box in a flowchart is represented by ______.",
+       "options": [
+        "a parallelogram",
+        "a rectangle",
+        "an oval",
+        "a diamond"
+       ],
+       "answer": 2,
+       "why": "The Start/Stop box is an oval (terminator); the rectangle is a process, the diamond a decision and the parallelogram input/output."
+      },
+      {
+       "q": "The decision box in a flowchart is represented by ______.",
+       "options": [
+        "an oval",
+        "a diamond",
+        "a parallelogram",
+        "a rectangle"
+       ],
+       "answer": 1,
+       "why": "A decision — a question with Yes/No branches — is shown by a diamond in a flowchart."
+      },
+      {
+       "q": "______ is the placement of one object within another object.",
+       "options": [
+        "Halting",
+        "Flowchart",
+        "Iteration",
+        "Nesting"
+       ],
+       "answer": 3,
+       "why": "Nesting is the placement of one object (or construct) within another object — for example, a loop placed inside another loop."
+      },
+      {
+       "q": "An algorithm always begins with the word ______.",
+       "options": [
+        "Stop",
+        "Input",
+        "Begin Coding",
+        "Start"
+       ],
+       "answer": 3,
+       "why": "One rule of writing an algorithm is that it always begins with the word Start and ends with Stop, with each step written in a separate line."
+      },
+      {
+       "q": "In a flowchart, the direction of the flow of data and instructions is shown by:",
+       "options": [
+        "The diamond",
+        "The flow lines (arrows)",
+        "The oval",
+        "The rectangle"
+       ],
+       "answer": 1,
+       "why": "The statement 'a diamond shows the direction of flow' is false: the diamond shows a decision, while the flow lines (arrows) show the direction of flow."
+      },
+      {
+       "q": "Each step in an algorithm should be written:",
+       "options": [
+        "All in one long paragraph",
+        "Only as a picture",
+        "In a separate line",
+        "In any random order"
+       ],
+       "answer": 2,
+       "why": "A rule for writing algorithms is that each step should be written in a separate line, in a clear and definite order."
+      },
+      {
+       "q": "Flow lines in a flowchart:",
+       "options": [
+        "Can cross each other",
+        "Can never cross each other",
+        "Are not allowed at all",
+        "Must always be red"
+       ],
+       "answer": 0,
+       "why": "Flow lines can cross each other in a flowchart when the flow requires it, although a clear flowchart avoids crossings where possible."
+      },
+      {
+       "q": "Rules must be followed while drawing a flowchart, just like an algorithm.",
+       "options": [
+        "False — any shapes can be used anywhere",
+        "False — flowcharts have no rules",
+        "True — but symbols can be invented freely",
+        "True — standard symbols and one Start and one Stop are required"
+       ],
+       "answer": 3,
+       "why": "Like an algorithm, certain rules must be followed while drawing a flowchart: standard symbols (oval, rectangle, diamond, parallelogram), one start and one stop, and flow lines showing direction."
+      }
+     ]
+    },
+    {
+     "title": "Problem-Solving Activities with Computational Thinking",
+     "notes_html": "<h4>Tic-Tac-Toe Strategy</h4>\n<p>Ali's strategy to win at tic-tac-toe: (1) take the centre square first, as it gives the most winning lines; (2) take corners rather than edges; (3) always block the opponent when the opponent has two marks in a row; (4) try to create a 'fork' — two possible winning lines at the same time — because the opponent can block only one of them. This is pattern recognition and planning ahead.</p>\n<h4>Flowchart Activity: Bilal's Bus or Subway</h4>\n<p>Bilal takes the bus to school if it is before 7 a.m., otherwise he takes the subway. Flowchart (in words): Oval 'Start' → Process 'Bilal leaves home and looks at his watch' → Input 'Read the time' → Diamond 'Is the time before 7 a.m.?' — Yes branch → Process 'Take the bus'; No branch → Process 'Take the subway' → both branches join → Process 'Reach school' → Oval 'Stop'.</p>\n<h4>Pseudocode Drawing and Examples</h4>\n<p>Following the pseudocode 'move forward 100 steps, turn right 90 degrees' repeated 4 times draws a <b>square</b>: each pair of instructions draws one side and turns one corner; after four sides and four right turns (360 degrees in total) the pen returns to the starting point. Examples of pseudocode: (1) Add two numbers: INPUT A, B; SUM = A + B; PRINT SUM. (2) Make tea: BOIL water; ADD tea leaves; ADD sugar and milk; SIMMER 2 minutes; POUR and SERVE. (3) Find the larger number: INPUT A, B; IF A &gt; B THEN PRINT A ELSE PRINT B.</p>\n<h4>Sudoku and Logic Puzzles</h4>\n<p>The 4 × 4 Sudoku (given: row 1 has 1 in column 2; row 2 has 2 in column 3; row 3 has 3 in column 2; row 4 has 1 in column 3) solves to — Row 1: 2, 1, 3, 4. Row 2: 3, 4, 2, 1. Row 3: 1, 3, 4, 2. Row 4: 4, 2, 1, 3. Every row, column and 2 × 2 box contains 1, 2, 3 and 4 exactly once. In the cake-baking competition (clues: Mariam was not first; Usman was not last; Neha was placed next to neither Mariam nor Usman; Ali scored better than Mariam), the result is: 1st Neha, 2nd Ali, 3rd Usman, 4th Mariam.</p>\n<h4>River-Crossing Puzzles</h4>\n<p>Wolf, goat and cabbage (the boat carries the man plus one item): (1) Take the goat across; leave it on the far bank. (2) Return alone. (3) Take the wolf across. (4) Bring the goat back. (5) Take the cabbage across (wolf and cabbage are safe together). (6) Return alone. (7) Take the goat across again. The fox, chicken and grain puzzle is solved in exactly the same way, taking the chicken first.</p>\n<h4>Muddy City and the Bridges of Königsberg</h4>\n<p>The Muddy City problem — pave enough streets so everyone can travel between all houses only on paved roads at the least cost — is solved by building a <b>minimum spanning tree</b> greedily: repeatedly choose the cheapest street that connects a house not yet connected, never pave a street that forms a complete loop, and stop when all houses are connected (47 counters in the book's map). For Königsberg's seven bridges: representing each land mass as a vertex and each bridge as an edge, a walk using every edge exactly once is possible only with 0 or 2 odd-degree vertices; all four land masses have an odd number of bridges (3, 3, 3 and 5), so such a walk is <b>impossible</b>.</p>\n<h4>Choosing the Best Algorithm: Linear vs Binary Search</h4>\n<p>To find a name in a class list: <b>linear search</b> checks names one by one from the start — simple, but slow for a long list. <b>Binary search</b> (the list must be sorted) checks the middle name and then searches only the half where the name can be, repeating until found. Binary search is the best algorithm here because it halves the remaining list at each step, so it needs far fewer comparisons for large lists.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The pseudocode drawing activity produces a square.</li>\n<li>In river-crossing puzzles, take the middle item (goat/chicken) across first.</li>\n<li>Binary search is faster than linear search on a sorted list.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Following the pseudocode 'move forward 100 steps, turn right 90 degrees' four times draws which shape?",
+       "options": [
+        "A square",
+        "A triangle",
+        "A circle",
+        "A pentagon"
+       ],
+       "answer": 0,
+       "why": "Each pair of instructions draws one side of 100 steps and turns one corner of 90 degrees; four sides and four right turns (360 degrees in total) complete a closed square."
+      },
+      {
+       "q": "In the tic-tac-toe activity, the best first move for Ali is to take:",
+       "options": [
+        "Any edge square",
+        "No square at all",
+        "The centre square",
+        "The opponent's square"
+       ],
+       "answer": 2,
+       "why": "The centre square gives the most winning lines in tic-tac-toe; Ali should also take corners, block the opponent's two-in-a-row, and try to create a fork."
+      },
+      {
+       "q": "In tic-tac-toe, a 'fork' means:",
+       "options": [
+        "Giving up one turn",
+        "Creating two possible winning lines at the same time",
+        "Drawing the game deliberately",
+        "Taking all four corners"
+       ],
+       "answer": 1,
+       "why": "A fork creates two possible winning lines at the same time; the opponent can block only one of them, so the player wins with the other."
+      },
+      {
+       "q": "In the cake-baking competition puzzle, who placed 1st?",
+       "options": [
+        "Ali",
+        "Usman",
+        "Mariam",
+        "Neha"
+       ],
+       "answer": 3,
+       "why": "From the clues (Mariam not first; Usman not last; Neha next to neither Mariam nor Usman; Ali better than Mariam), the order is 1st Neha, 2nd Ali, 3rd Usman, 4th Mariam."
+      },
+      {
+       "q": "In the wolf, goat and cabbage puzzle, which item must be taken across the river first?",
+       "options": [
+        "The wolf",
+        "The cabbage",
+        "All three together",
+        "The goat"
+       ],
+       "answer": 3,
+       "why": "The goat must go first, because the wolf does not eat the cabbage; later the goat is brought back once, so it is never left alone with the wolf or the cabbage."
+      },
+      {
+       "q": "The Muddy City problem is solved at the least cost by building a:",
+       "options": [
+        "Complete loop of every street",
+        "Minimum spanning tree",
+        "Second bridge over the river",
+        "List of all houses in order"
+       ],
+       "answer": 1,
+       "why": "Greedily paving the cheapest street that connects a not-yet-connected house — and never completing a loop — builds a minimum spanning tree that connects all houses with the fewest stones."
+      },
+      {
+       "q": "In the Muddy City strategy, a street that forms a complete loop should:",
+       "options": [
+        "Always be paved first",
+        "Be paved twice",
+        "Never be paved",
+        "Be given to another city"
+       ],
+       "answer": 2,
+       "why": "A street that forms a complete loop is never paved, because one street of the loop can be removed without disconnecting anyone — paving it would waste stones."
+      },
+      {
+       "q": "A walk crossing each of Königsberg's seven bridges exactly once is:",
+       "options": [
+        "Impossible, because all four land masses have an odd number of bridges",
+        "Possible in exactly one way",
+        "Possible only at night",
+        "Possible if we start on an island"
+       ],
+       "answer": 0,
+       "why": "An Eulerian trail needs 0 or 2 vertices of odd degree; in Königsberg all four land masses have odd degrees (3, 3, 3 and 5), so no route can cross each bridge exactly once."
+      },
+      {
+       "q": "Binary search is better than linear search for a long list because it:",
+       "options": [
+        "Checks every name twice",
+        "Needs the list to be unsorted",
+        "Always starts from the end",
+        "Halves the remaining list at each step"
+       ],
+       "answer": 3,
+       "why": "Binary search checks the middle name and discards half the list each time, so it needs far fewer comparisons than linear search, which checks names one by one."
+      },
+      {
+       "q": "In the solved 4 × 4 Sudoku, the first row is:",
+       "options": [
+        "1, 2, 3, 4",
+        "2, 1, 3, 4",
+        "2, 3, 1, 4",
+        "4, 1, 3, 2"
+       ],
+       "answer": 1,
+       "why": "The solved grid is Row 1: 2, 1, 3, 4; Row 2: 3, 4, 2, 1; Row 3: 1, 3, 4, 2; Row 4: 4, 2, 1, 3 — every row, column and 2 × 2 box contains 1, 2, 3 and 4 exactly once, matching the given clues."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Programming (Scratch)",
+   "lessons": [
+    {
+     "title": "Scratch Basics: Sprites, Scripts and Block Categories",
+     "notes_html": "<h4>What Is in Every Scratch Project?</h4>\n<p>Every Scratch project contains a <b>Sprite</b> (a character or object that performs actions), the <b>Stage</b> (the background area where the project runs) and a <b>Script</b> (the set of joined blocks that tells the sprite what to do). The <b>blocks</b> serve as <b>commands</b> that can be joined together like puzzle pieces to build a script.</p>\n<h4>The Block Categories</h4>\n<ul>\n<li><b>Motion</b>: used for moving sprites around the stage — blocks such as 'move 10 steps', 'turn 15 degrees', 'go to x: y:' and 'if on edge, bounce', which control the position and direction of a sprite.</li>\n<li><b>Looks</b>: used for animating sprites, giving them speech bubbles, and changing their size and appearance — blocks such as 'say Hello!', 'switch costume to', 'change size by' and 'set size to %'.</li>\n<li><b>Sound</b>: used for playing recordings or musical notes — blocks such as 'play sound', 'play drum' and 'play note'.</li>\n<li><b>Events and Control</b>: Events blocks (such as 'when green flag clicked' and 'when space key pressed') describe what happens when something occurs and start scripts; Control blocks (such as 'repeat', 'forever', 'wait' and 'if...then') make parts of the program repeat or run only under a condition.</li>\n<li><b>Sensing</b>: used to test whether your sprite is touching another sprite or another colour, or to get information about other sprites — blocks such as 'touching...?', 'touching colour...?', 'ask... and wait' and 'mouse x/y'.</li>\n<li><b>Operators</b>: used for Maths, random numbers, and doing things to text — arithmetic blocks (+, −, ×, ÷), 'pick random', comparison blocks (&gt;, &lt;, =) and text blocks such as 'join' and 'length of'.</li>\n</ul>\n<h4>Backdrops</h4>\n<p>A program can have more than one <b>backdrop</b>. Click the Stage and then the Backdrops tab, and use the 'Choose a Backdrop' button (or paint/upload) to add more backdrops. To change the backdrop during the program, use the Looks blocks 'switch backdrop to ...' or 'next backdrop' — for example, to start a new level of a game when the player reaches a certain score.</p>\n<h4>Why Scratch Is Good for Beginners</h4>\n<p>Scratch is good for animation, games and storytelling because programs are made by joining colourful blocks like puzzle pieces, so there are no typing or syntax errors. It has ready-made sprites, costumes, sounds and backdrops, and blocks for motion, looks and events, so animations, games and interactive stories can be created quickly and the results are seen immediately on the stage.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Every Scratch project has a sprite, a stage and a script.</li>\n<li>Motion blocks move sprites; Looks blocks change appearance; Sensing blocks test touching.</li>\n<li>Blocks are commands that join together like puzzle pieces.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A character or object that performs actions on the stage in a Scratch project is called a:",
+       "options": [
+        "Backdrop",
+        "Script area",
+        "Sprite",
+        "Sound file"
+       ],
+       "answer": 2,
+       "why": "Every Scratch project contains a sprite (the character that acts), the stage (where the project runs) and a script (the joined blocks that control the sprite)."
+      },
+      {
+       "q": "The blocks in Scratch serve as ______ that can be joined together.",
+       "options": [
+        "stories",
+        "commands",
+        "reminders",
+        "scores"
+       ],
+       "answer": 1,
+       "why": "Blocks serve as commands that can be joined together like puzzle pieces to build a script for the sprite."
+      },
+      {
+       "q": "______ blocks are used for moving sprites around the stage.",
+       "options": [
+        "Control",
+        "Stage",
+        "Loop",
+        "Motion"
+       ],
+       "answer": 3,
+       "why": "The Motion category contains blocks such as 'move 10 steps' and 'turn 15 degrees' that move sprites around the stage."
+      },
+      {
+       "q": "The category used for animating sprites, giving them speech bubbles and changing their size is:",
+       "options": [
+        "Sound",
+        "Sensing",
+        "Operators",
+        "Looks"
+       ],
+       "answer": 3,
+       "why": "The Looks category contains blocks such as 'say Hello!', 'switch costume to' and 'change size by', which control how a sprite looks and what it says."
+      },
+      {
+       "q": "Blocks such as 'play sound', 'play drum' and 'play note' belong to the ______ category.",
+       "options": [
+        "Motion",
+        "Sound",
+        "Looks",
+        "Events"
+       ],
+       "answer": 1,
+       "why": "The Sound category is used for playing recordings or musical notes, adding music and sound effects to a project."
+      },
+      {
+       "q": "To test whether a sprite is touching another sprite or a colour, we use the ______ category.",
+       "options": [
+        "Operators",
+        "Variables",
+        "Sensing",
+        "My Blocks"
+       ],
+       "answer": 2,
+       "why": "The Sensing category contains blocks such as 'touching...?' and 'touching colour...?', which let a sprite sense its surroundings."
+      },
+      {
+       "q": "'Pick random', arithmetic blocks and 'join' text blocks are found in the ______ category.",
+       "options": [
+        "Operators",
+        "Sensing",
+        "Control",
+        "Looks"
+       ],
+       "answer": 0,
+       "why": "The Operators category is used for Maths, random numbers and doing things to text — it holds arithmetic, comparison and text blocks such as 'join' and 'length of'."
+      },
+      {
+       "q": "To change the backdrop during a running program, we use:",
+       "options": [
+        "The Sound block 'play note'",
+        "The Motion block 'move 10 steps'",
+        "The Sensing block 'touching...?'",
+        "The Looks block 'switch backdrop to ...'"
+       ],
+       "answer": 3,
+       "why": "Backdrops are changed during the program with the Looks blocks 'switch backdrop to ...' or 'next backdrop' — for example, to start a new level of a game."
+      },
+      {
+       "q": "Scratch is considered good for beginners because:",
+       "options": [
+        "It has no sprites or sounds",
+        "Programs are made by joining blocks, so there are no typing or syntax errors",
+        "It only runs one program",
+        "It needs long typed code"
+       ],
+       "answer": 1,
+       "why": "In Scratch, programs are made by joining colourful blocks like puzzle pieces, so beginners face no typing or syntax errors and see results immediately on the stage."
+      },
+      {
+       "q": "The area where a Scratch project runs and is watched is called the:",
+       "options": [
+        "Stage",
+        "Script",
+        "Backdrop library",
+        "Costume tab"
+       ],
+       "answer": 0,
+       "why": "The Stage is the background area where the project runs; sprites perform their actions on the stage."
+      }
+     ]
+    },
+    {
+     "title": "Programming Concepts in Scratch: Loops, Conditions, Variables and Functions",
+     "notes_html": "<h4>Programming and Program</h4>\n<p><b>Programming</b> is the process or activity of writing instructions for a computer — designing, coding, testing and improving them. A <b>program</b> is the finished product: a set of instructions (code) written in a programming language that the computer follows to perform a task. In short, programming is the work; the program is the result of that work.</p>\n<h4>Elements of Programming</h4>\n<p>Four elements are enough to build almost any program: (1) <b>Variables</b> — named storage for values that can change, e.g. score and lives. (2) <b>Sequence</b> — instructions executed one after another in order; the blocks in a script form a sequence of commands. (3) <b>Selection (conditionals)</b> — 'if...then...else' blocks choose different actions depending on whether a Boolean expression is true or false. (4) <b>Iteration (loops)</b> — 'repeat', 'forever' and 'repeat until' blocks repeat actions.</p>\n<h4>Variables and Boolean Expressions</h4>\n<p>A <b>variable</b> is a named storage place in a program that holds a value which can change while the program runs — for example score, lives or speed in a game. In Scratch, variables are created from the Variables category, and blocks can set, change and show their values. A <b>Boolean expression</b> is an expression that is either true or <b>false</b> — for example 'score &gt; 10' or 'touching the edge?'. In Scratch, Boolean expressions are the pointed (hexagonal) blocks found mostly in Sensing and Operators; they fit inside the condition slots of blocks like 'if...then' and 'repeat until', which is how you can identify them.</p>\n<h4>Loops</h4>\n<p>A <b>loop</b> is a programming construct that repeats a set of instructions again and again, instead of writing them many times. In Scratch: 'repeat 10' runs the enclosed blocks exactly 10 times; 'forever' runs them endlessly until the program stops; 'repeat until &lt;condition&gt;' runs them until the condition becomes true — so a loop and a <b>condition</b> are combined in the 'repeat until' block. Example: to draw a square, repeat 4 times: 'move 100 steps, turn 90 degrees'.</p>\n<h4>Functions and My Blocks</h4>\n<p>In programming, a <b>function</b> is a block of code that you may <b>reuse</b> repeatedly rather than having to write it out several times. In Scratch, a function is some block that performs some task, and new blocks are made from the <b>My Blocks</b> category. <b>Nesting</b> means combining two structured programming constructs in a way that one construct is inside the other. The <b>Text to Speech</b> feature is used to convert text into speech in Scratch.</p>\n<h4>Key Points</h4>\n<ul>\n<li>A Boolean expression is either true or false.</li>\n<li>'Repeat until' combines a loop with a condition.</li>\n<li>New custom blocks are made in My Blocks; functions are reused code.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "A loop and a ______ are combined in the 'repeat until' block.",
+       "options": [
+        "formula",
+        "condition",
+        "sprite",
+        "variable"
+       ],
+       "answer": 1,
+       "why": "The 'repeat until' block combines a loop with a condition: the enclosed blocks keep repeating until the condition becomes true."
+      },
+      {
+       "q": "Which of the following is used to make a new block in Scratch?",
+       "options": [
+        "Sensing",
+        "Control",
+        "Variables",
+        "My Blocks"
+       ],
+       "answer": 3,
+       "why": "New custom blocks (functions) are made from the My Blocks category, so a task can be defined once and reused."
+      },
+      {
+       "q": "In programming, a Boolean expression is an expression that is either true or ______.",
+       "options": [
+        "blank",
+        "yes",
+        "true only",
+        "false"
+       ],
+       "answer": 3,
+       "why": "A Boolean expression has only two possible values: true or false — for example 'score > 10' is either true or false."
+      },
+      {
+       "q": "In programming, a function is a block of code that you may ______ repeatedly rather than having to write it out several times.",
+       "options": [
+        "print",
+        "reuse",
+        "destroy",
+        "hide"
+       ],
+       "answer": 1,
+       "why": "A function groups instructions under one name so they can be reused repeatedly instead of being written out several times."
+      },
+      {
+       "q": "A ______, in the context of Scratch, is some block that performs some task.",
+       "options": [
+        "loop",
+        "variable",
+        "function",
+        "statement"
+       ],
+       "answer": 2,
+       "why": "In Scratch, a function is a block that performs some task; making such a block in My Blocks lets the whole task run with a single block."
+      },
+      {
+       "q": "______ is used to convert the text into speech in Scratch.",
+       "options": [
+        "Text to Speech",
+        "Loops",
+        "Conditionals",
+        "Editor"
+       ],
+       "answer": 0,
+       "why": "The Text to Speech feature converts written text into spoken words in a Scratch project."
+      },
+      {
+       "q": "Combining two programming constructs so that one construct is inside the other is called:",
+       "options": [
+        "Looping",
+        "Deleting",
+        "Printing",
+        "Nesting"
+       ],
+       "answer": 3,
+       "why": "Nesting indicates that two structured programming constructs are combined in a way that one construct is inside the other — for example, an 'if' block inside a 'repeat' block."
+      },
+      {
+       "q": "In a game, the player's score that keeps changing while the program runs is stored in a:",
+       "options": [
+        "Backdrop",
+        "Variable",
+        "Costume",
+        "Sound"
+       ],
+       "answer": 1,
+       "why": "A variable is a named storage place that holds a value which can change while the program runs — score, lives and speed are common game variables."
+      },
+      {
+       "q": "Boolean blocks in Scratch can be identified because they are:",
+       "options": [
+        "Pointed (hexagonal) blocks that fit into condition slots",
+        "Always coloured red",
+        "Round like the stage",
+        "Found only in the Sound category"
+       ],
+       "answer": 0,
+       "why": "Boolean expressions are the pointed (hexagonal) blocks found mostly in Sensing and Operators; they fit inside condition slots of blocks like 'if...then' and 'repeat until'."
+      },
+      {
+       "q": "The 'forever' loop runs its enclosed blocks:",
+       "options": [
+        "Exactly ten times",
+        "Only one time",
+        "Endlessly until the program stops",
+        "Only when the sprite is clicked"
+       ],
+       "answer": 2,
+       "why": "A 'forever' loop runs the enclosed blocks endlessly until the program stops — for example, a game keeps checking 'if the sprite touches the edge' for the whole game."
+      }
+     ]
+    },
+    {
+     "title": "Scratch Projects, Cloning and Coding Tasks",
+     "notes_html": "<h4>Events and Control in Projects</h4>\n<p>The <b>Events</b> category starts scripts when something happens — for example 'when green flag clicked', 'when a key is pressed', or 'when this sprite is clicked' — and sends/receives broadcast messages between sprites. The <b>Control</b> category controls the flow of a script: 'wait' pauses it, 'repeat' and 'forever' loop blocks, 'if...then' and 'if...then...else' run blocks only when a condition is true, and cloning blocks create and delete copies of a sprite.</p>\n<h4>Cloning Blocks</h4>\n<p>The three main blocks for cloning in Scratch (Control category) are: (1) <b>'create clone of myself'</b> — makes an exact copy of the sprite while the program runs. (2) <b>'when I start as a clone'</b> — the script under this block runs for each new clone, giving it its own action. (3) <b>'delete this clone'</b> — removes the clone when its work is finished, so too many copies do not fill the stage.</p>\n<h4>Reading a Script</h4>\n<p>Consider the script: when green flag clicked → switch to costume costume2 → set size to 100% → turn 15 degrees → move 10 steps → if on edge, bounce. It means: when the green flag is clicked, the sprite changes into its second costume (costume2), its size is set to 100%, it turns 15 degrees clockwise, moves forward 10 steps, and if it touches the edge of the stage it bounces back (turns around to face the opposite direction).</p>\n<h4>Why Write Functions?</h4>\n<p>A function groups a sequence of instructions under one name (e.g. 'jump'), so the whole action can be run by simply calling the function wherever it is needed. Advantages: the code is shorter and tidier; the same instructions are not written again and again; a mistake can be corrected in one place only; and the main script becomes easier to read and understand. Writing the instructions directly everywhere would duplicate code and make the program hard to change.</p>\n<h4>Coding Tasks</h4>\n<p><b>Calculator:</b> Ask 'Enter first number' and store in variable A; ask 'Enter second number' and store in B; ask 'Choose: 1 sum, 2 difference, 3 product, 4 quotient'. Use if/else: if choice = 1, say A + B; if 2, say A − B; if 3, say A × B; if 4, say A ÷ B. <b>Trampoline jump:</b> when the space key is pressed (or forever, if touching the trampoline), change the costume to the 'jumping' costume, change y by +10 repeatedly until the peak, then change y by −10 until the sprite lands back on the trampoline, and switch back to the normal costume.</p>\n<h4>Limits of Scratch</h4>\n<p>Limits of Scratch include: it is designed for learning, so it is slower and less powerful than text-based languages for very large or complex programs; projects run inside the Scratch environment/website and cannot easily become standalone professional software; advanced topics such as working with files, databases and real hardware are limited; and very detailed graphics or 3D games are difficult to build.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Cloning uses three blocks: create clone, when I start as a clone, delete this clone.</li>\n<li>Functions save repetition and make code easier to correct.</li>\n<li>Scratch is designed for learning, so it has limits for very large programs.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "How many main blocks are used for cloning in Scratch?",
+       "options": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+       ],
+       "answer": 3,
+       "why": "The three main cloning blocks are 'create clone of myself', 'when I start as a clone' and 'delete this clone' — all in the Control category."
+      },
+      {
+       "q": "The block 'create clone of myself' is used to:",
+       "options": [
+        "Delete the sprite forever",
+        "Change the backdrop",
+        "Play a sound",
+        "Make an exact copy of the sprite while the program runs"
+       ],
+       "answer": 3,
+       "why": "'Create clone of myself' makes an exact copy of the sprite while the program runs; the clone then follows the script under 'when I start as a clone'."
+      },
+      {
+       "q": "A clone should be removed with 'delete this clone' so that:",
+       "options": [
+        "The stage becomes empty",
+        "Too many copies do not fill the stage",
+        "The program runs forever",
+        "The backdrop changes"
+       ],
+       "answer": 1,
+       "why": "'Delete this clone' removes the clone when its work is finished, so too many copies do not fill the stage and slow the project."
+      },
+      {
+       "q": "In the script 'when green flag clicked → switch to costume2 → set size to 100% → turn 15 degrees → move 10 steps → if on edge, bounce', the sprite turns by:",
+       "options": [
+        "10 degrees",
+        "90 degrees",
+        "15 degrees",
+        "100 degrees"
+       ],
+       "answer": 2,
+       "why": "The script sets the size to 100%, then turns the sprite 15 degrees clockwise and moves it 10 steps; the numbers 10 and 100 belong to the move and size blocks."
+      },
+      {
+       "q": "In the same script, 'if on edge, bounce' makes the sprite:",
+       "options": [
+        "Turn around and face the opposite direction at the stage edge",
+        "Disappear from the stage",
+        "Change its costume",
+        "Play a drum sound"
+       ],
+       "answer": 0,
+       "why": "If the sprite touches the edge of the stage, it bounces back — it turns around to face the opposite direction and keeps moving."
+      },
+      {
+       "q": "In the calculator coding task, the two numbers entered by the user are stored in:",
+       "options": [
+        "Two backdrops",
+        "Two costumes",
+        "Two sounds",
+        "Variables A and B"
+       ],
+       "answer": 3,
+       "why": "The calculator asks for the first number and stores it in variable A, asks for the second number and stores it in B, then uses if/else to say A+B, A−B, A×B or A÷B according to the user's choice."
+      },
+      {
+       "q": "In the trampoline coding task, when the sprite goes up, we should also:",
+       "options": [
+        "Delete the sprite",
+        "Change the costume to the jumping costume",
+        "Stop the program",
+        "Change the backdrop to the menu"
+       ],
+       "answer": 1,
+       "why": "In the trampoline task the costume is changed to the 'jumping' costume when the sprite goes up, and switched back to the normal costume when it lands on the trampoline."
+      },
+      {
+       "q": "An advantage of writing a function instead of repeating the same instructions everywhere is:",
+       "options": [
+        "A mistake can be corrected in one place only",
+        "The program becomes longer",
+        "The code is duplicated many times",
+        "The script becomes harder to read"
+       ],
+       "answer": 0,
+       "why": "A function groups instructions under one name: the code is shorter and tidier, nothing is repeated, and a mistake can be corrected in one place only."
+      },
+      {
+       "q": "Which of the following is a limit of Scratch?",
+       "options": [
+        "It cannot make any games",
+        "It has no sounds or costumes",
+        "It is slower and less powerful for very large or complex programs",
+        "It works only without a stage"
+       ],
+       "answer": 2,
+       "why": "Scratch is designed for learning: it is slower and less powerful than text-based languages for very large programs, and files, databases and detailed 3D graphics are limited."
+      },
+      {
+       "q": "Scripts in Scratch are usually started by the Events block:",
+       "options": [
+        "'Play sound'",
+        "'When green flag clicked'",
+        "'Move 10 steps'",
+        "'Say Hello!'"
+       ],
+       "answer": 1,
+       "why": "The Events category starts scripts when something happens — 'when green flag clicked' is the most common starting block of a Scratch script."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7: Digital Citizenship",
+   "lessons": [
+    {
+     "title": "The Internet, Digital Footprints and Online Ethics",
+     "notes_html": "<h4>What Is the Internet?</h4>\n<p>The <b>Internet</b> is a worldwide <b>network of networks</b> that connects millions of computers, mobiles and other devices. Through it, people can share information, communicate by email and messages, study (e-Learning), shop, bank and use social media from anywhere in the world. Studying from home through the Internet is called <b>e-Learning</b>.</p>\n<h4>Digital Footprints</h4>\n<p>A <b>digital footprint</b>, also known as a <b>Digital Dossier</b>, is the trail of traces a person leaves while using the internet — posts, comments, likes, searches, photos, location and purchase history. It is the impression of a user that he leaves while using the Internet. Footprints can be active (things we post ourselves) or passive (data collected about us). We should manage them carefully because they build our online impression and reputation.</p>\n<h4>Ethics and the Ethical Use of the Digital Environment</h4>\n<p><b>Ethics</b> are the moral rules that tell us what is right and wrong in our behaviour. Ethical use of the digital environment means: respect others online and never bully or troll; do not copy or use content written by others without permission; do not hack, spam or spread false information; protect your own and others' privacy; share business ideas and personal data carefully (do not share your business ideas with others carelessly); and follow the laws and rules of the platforms you use. A good digital citizen keeps privacy settings <b>on</b>, never uploads inappropriate content, and avoids friend requests from strangers.</p>\n<h4>Intellectual Property Rights</h4>\n<p><b>Intellectual property (IP)</b> means creations of the mind — books, music, inventions, software, designs, brand names and artwork. Intellectual property rights are the legal rights that protect these creations, so that only the owner can use, sell or copy them for a certain time, and others must take permission. Main types: (1) <b>Copyright</b> for books, songs, films, pictures and software. (2) <b>Patent</b> for new inventions. (3) <b>Trademark</b> for brand names and logos. (4) Trade secrets for confidential business information. These rights encourage creativity and invention, and using someone's work without permission is a violation.</p>\n<h4>Disadvantages of the Internet</h4>\n<p>Three disadvantages of the Internet are: (1) Cyber crimes such as hacking, fraud and identity theft. (2) Harmful or inappropriate content and cyberbullying, especially for children. (3) Addiction and waste of time on social media and games, which affects health and studies; viruses and spam are further problems.</p>\n<h4>Key Points</h4>\n<ul>\n<li>The Internet is called the network of networks.</li>\n<li>A digital footprint is also known as a Digital Dossier.</li>\n<li>Copyright and trademark are examples of intellectual property rights.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The Internet is also called the network of:",
+       "options": [
+        "computers only",
+        "mobiles",
+        "tablets",
+        "networks"
+       ],
+       "answer": 3,
+       "why": "The Internet is called the network of networks because it joins millions of separate networks all over the world into one worldwide network."
+      },
+      {
+       "q": "Studying from home through the Internet is called:",
+       "options": [
+        "i-Learning",
+        "e-Learning",
+        "c-Learning",
+        "m-Learning only"
+       ],
+       "answer": 1,
+       "why": "Studying from home through the Internet is called e-Learning — learning through electronic means such as online classes and recorded lectures."
+      },
+      {
+       "q": "A digital footprint is also known as:",
+       "options": [
+        "Digital Diary",
+        "Database",
+        "Digital Dossier",
+        "Digital Locker"
+       ],
+       "answer": 2,
+       "why": "A digital footprint is also known as a Digital Dossier — the complete trail of traces a person leaves while using the internet."
+      },
+      {
+       "q": "A digital footprint is:",
+       "options": [
+        "The impression and traces a user leaves while using the Internet",
+        "A shoe print stored in a computer",
+        "A password saved in the browser",
+        "A type of computer virus"
+       ],
+       "answer": 0,
+       "why": "A digital footprint is the impression of a user that he leaves while using the Internet — his posts, comments, searches, photos and other traces."
+      },
+      {
+       "q": "To stay safe online, we should keep our privacy settings:",
+       "options": [
+        "Always off",
+        "Off for friends only",
+        "There are no privacy settings",
+        "Always on"
+       ],
+       "answer": 3,
+       "why": "The advice 'keep your privacy settings always off' is wrong: privacy settings should always be kept on so that personal information is shared only with known people."
+      },
+      {
+       "q": "Uploading inappropriate content online is:",
+       "options": [
+        "Always allowed",
+        "Wrong — it must never be done",
+        "Allowed for students",
+        "A good way to become famous"
+       ],
+       "answer": 1,
+       "why": "A good digital citizen never uploads inappropriate content online; such content harms others, damages the uploader's digital footprint and can be a cyber crime."
+      },
+      {
+       "q": "Using the content written by others without their permission is:",
+       "options": [
+        "Wrong — permission must be taken",
+        "Always allowed on the internet",
+        "Allowed if we change one word",
+        "A right of every internet user"
+       ],
+       "answer": 0,
+       "why": "We should not use the content written by others without their permission; it is protected by intellectual property rights such as copyright."
+      },
+      {
+       "q": "Which of the following is an example of an intellectual property right?",
+       "options": [
+        "A driving licence",
+        "A school admission form",
+        "Copyright over a book or song",
+        "A bus ticket"
+       ],
+       "answer": 2,
+       "why": "Copyright — the right of an author, artist or programmer over his book, song, picture or software — is an intellectual property right; trademark over a brand name or logo is another example."
+      },
+      {
+       "q": "A trademark protects:",
+       "options": [
+        "A new invention",
+        "A brand name or logo",
+        "A student's marks sheet",
+        "A computer password"
+       ],
+       "answer": 1,
+       "why": "A trademark is the right over a brand name or logo, so no other business can use the same name or mark; a patent, by contrast, protects a new invention."
+      },
+      {
+       "q": "Which of the following is a disadvantage of the Internet?",
+       "options": [
+        "Fast communication",
+        "e-Learning from home",
+        "Online banking",
+        "Cyber crimes such as hacking and identity theft"
+       ],
+       "answer": 3,
+       "why": "Disadvantages of the Internet include cyber crimes (hacking, fraud, identity theft), harmful content and cyberbullying, and addiction and waste of time — while fast communication and e-Learning are advantages."
+      }
+     ]
+    },
+    {
+     "title": "Cyber Crimes: Hacking, Spam and Social Engineering",
+     "notes_html": "<h4>Cyber Crimes and Hacking</h4>\n<p>Crimes that are committed through the internet are called <b>cyber crimes</b>. <b>Hacking</b> is breaking into someone else's computer system or account without permission. Hackers break into other people's computer systems to steal important data and to destroy the system. Hacking is a cyber crime and is punishable by law.</p>\n<h4>Spamming and How to Avoid It</h4>\n<p><b>Spamming</b> refers to sending an email from an unidentified source — bulk, unwanted messages sent to many people. Measures to avoid spam: <b>preview your message before opening it</b>, and <b>do not click on spam email</b> or its links and attachments. Spam emails often have an unidentified or slightly misspelled sender address, a general greeting like 'Dear Customer', urgent threats or unbelievable prizes, spelling mistakes, and requests for passwords or bank details — genuine companies never ask for these by email.</p>\n<h4>Email Spoofing</h4>\n<p>In <b>email spoofing</b>, the criminal changes the 'From' address of an email so it appears to come from a trusted person or company, such as a bank. The victim trusts the fake email and may click a harmful link or share passwords and bank details. Checking the real sender address and not clicking unknown links protects against it.</p>\n<h4>Social Engineering</h4>\n<p><b>Social engineering</b> is the technique used by cybercriminals to attain information from individuals — tricking people into giving their passwords, OTPs or bank details themselves, instead of breaking into the computer technically.</p>\n<h4>Cyberbullying: Stop and Prevent</h4>\n<p>Two ways to stop cyberbullying: (1) Do not respond to the bully; block and report the account on the platform, and save the messages as evidence. (2) Inform a trusted adult — parents or teacher — and, in serious cases, report to the FIA Cybercrime Wing. Ways to prevent it: keep privacy settings on and share personal information only with known people; avoid friend requests from strangers; never upload inappropriate content; treat others online with the same respect as face to face; and tell parents or teachers immediately if it happens.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Crimes committed through the internet are called cyber crimes.</li>\n<li>Preview messages before opening them and never click spam email.</li>\n<li>Social engineering tricks people into giving information themselves.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Why do hackers break into other people's computer systems?",
+       "options": [
+        "To repair the system free of cost",
+        "To steal important data and to destroy the system",
+        "To update the system's software",
+        "To protect the owner's data"
+       ],
+       "answer": 1,
+       "why": "Hackers break into other people's computer systems to steal important data and to destroy or damage the system — hacking is a cyber crime punishable by law."
+      },
+      {
+       "q": "Crimes that are committed through the internet are called:",
+       "options": [
+        "Fiber crimes",
+        "Internet games",
+        "Cyber crimes",
+        "Traffic crimes"
+       ],
+       "answer": 2,
+       "why": "Crimes committed through the internet — such as hacking, fraud, identity theft and cyberbullying — are called cyber crimes."
+      },
+      {
+       "q": "According to the book, spamming refers to:",
+       "options": [
+        "Sending an email from an unidentified source",
+        "Sending wrong homework",
+        "Sending a greeting card",
+        "Sending an email to a friend"
+       ],
+       "answer": 0,
+       "why": "The book defines spamming as sending an email from an unidentified source — unwanted bulk messages that should not be opened or clicked."
+      },
+      {
+       "q": "Which measures help us avoid spam?",
+       "options": [
+        "Open every email immediately",
+        "Click all links in unknown emails",
+        "Reply to spam with your details",
+        "Preview the message before opening it and never click on spam email"
+       ],
+       "answer": 3,
+       "why": "To avoid spam: preview your message before opening it, and do not click on spam email, its links or its attachments — delete it and mark it as spam."
+      },
+      {
+       "q": "The technique used by cybercriminals to attain information from individuals is called:",
+       "options": [
+        "Cyber bullying",
+        "Social engineering",
+        "Cyber troll",
+        "Data entry"
+       ],
+       "answer": 1,
+       "why": "Social engineering is the technique by which cybercriminals trick individuals into giving information — such as passwords and OTPs — themselves."
+      },
+      {
+       "q": "To protect your computer, you should install:",
+       "options": [
+        "Updated antivirus software",
+        "No antivirus at all",
+        "Only games",
+        "Unknown free software from any site"
+       ],
+       "answer": 0,
+       "why": "The advice 'don't install updated antivirus' is wrong: an updated antivirus must be installed and the operating system kept updated to protect the computer from viruses and hacking."
+      },
+      {
+       "q": "Friend requests from strangers should be:",
+       "options": [
+        "Accepted immediately",
+        "Accepted without checking",
+        "Avoided",
+        "Shared with everyone"
+       ],
+       "answer": 2,
+       "why": "We should avoid friend requests from strangers, because criminals use fake profiles to collect personal information and commit fraud."
+      },
+      {
+       "q": "In email spoofing, the criminal:",
+       "options": [
+        "Deletes his own email account",
+        "Changes the 'From' address so the email looks like it comes from a trusted person or company",
+        "Sends the email by post",
+        "Writes the email in another language"
+       ],
+       "answer": 1,
+       "why": "In email spoofing the 'From' address is faked to look like a bank or trusted person, so the victim trusts the email and may share passwords or bank details."
+      },
+      {
+       "q": "If a student is being cyberbullied, the first steps are to:",
+       "options": [
+        "Reply with abuse",
+        "Delete all evidence and stay silent",
+        "Share the bully's messages with everyone",
+        "Not respond, block and report the bully, and inform parents or a teacher"
+       ],
+       "answer": 3,
+       "why": "To stop cyberbullying: do not respond to the bully; block and report the account and save the messages as evidence; and inform a trusted adult or the FIA Cybercrime Wing in serious cases."
+      },
+      {
+       "q": "An email that says 'Dear Customer, you have won a prize! Click this link and enter your bank PIN' is most likely:",
+       "options": [
+        "A genuine bank message",
+        "A message from a teacher",
+        "An antivirus update",
+        "Spam / a phishing attempt"
+       ],
+       "answer": 3,
+       "why": "Unbelievable prizes, a general greeting, urgency and a request for a bank PIN are classic signs of spam and phishing; genuine companies never ask for PINs or passwords by email."
+      }
+     ]
+    },
+    {
+     "title": "Online Transaction Fraud, Social Media and Staying Safe Online",
+     "notes_html": "<h4>Types of Online Transaction Fraud</h4>\n<ul>\n<li><b>Identity theft</b>: using someone's personal data (CNIC, card number, passwords) to make transactions in the victim's name.</li>\n<li><b>Banking fraud</b>: fake calls, emails or websites obtain bank details and empty the account.</li>\n<li><b>Job fraud</b>: fake job advertisements demand registration fees or personal data and disappear.</li>\n<li><b>Shopping fraud</b>: fake online stores take advance payment and never send the goods.</li>\n<li><b>Phishing</b>: fake emails/sites that steal login details.</li>\n</ul>\n<p>A <b>cyber troll</b> — a person who posts upsetting messages online — is not a transaction fraud.</p>\n<h4>How to Avoid Hacking and Email Hacking</h4>\n<p>We can avoid hacking by: using strong passwords and <b>changing them regularly</b>; <b>keeping the operating system and apps updated</b>; installing updated antivirus software; <b>not plugging in devices we are not sure about</b>; not opening spam emails or unknown links; keeping privacy settings on; and avoiding friend requests and messages from strangers. These same measures — changing passwords, updating the operating system and not plugging in unknown devices — protect email accounts from hacking.</p>\n<h4>Protecting Computers</h4>\n<p>Common protections: install and update antivirus software; keep the operating system and programs updated; use strong passwords and change them regularly; turn on the firewall; back up important data; download only from trusted sources; and avoid spam links and unknown USB devices. If computers are not protected, viruses and malware can delete or steal data, hackers can break in and misuse accounts, the system can slow down or crash, and the user can suffer money loss and privacy loss.</p>\n<h4>Social Media: Advantages and Disadvantages</h4>\n<p><b>Social media</b> means websites and apps (such as Facebook, WhatsApp, YouTube and Instagram) that let people create and share content and connect with others online. Advantages: easy connection with distant friends and relatives; learning about culture and the world; business promotion, selling goods and services and advertising income; entertainment and quick sharing of news. Disadvantages: addiction and waste of time; health effects of excessive use; cyberbullying and cyberstalking; sale or misuse of personal data and identity fraud; and spread of false information. Used with care and time limits, social media is a benefit; used carelessly, it is harmful.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Identity theft, banking fraud and job fraud are transaction frauds; a cyber troll is not.</li>\n<li>Change passwords regularly and keep the operating system updated.</li>\n<li>Social media is useful with care and harmful when used carelessly.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which of the following measures helps to avoid email hacking?",
+       "options": [
+        "Share your password with friends",
+        "Use the same password for every account forever",
+        "Keep changing your passwords regularly",
+        "Never update your operating system"
+       ],
+       "answer": 2,
+       "why": "Avoiding email hacking requires changing passwords regularly, keeping the operating system updated, and not plugging in devices you are not sure about — sharing passwords or never updating does the opposite."
+      },
+      {
+       "q": "Which of the following is NOT a transaction fraud?",
+       "options": [
+        "Cyber troll",
+        "Identity theft",
+        "Banking fraud",
+        "Job fraud"
+       ],
+       "answer": 0,
+       "why": "Identity theft, banking fraud and job fraud all cheat people during online transactions; a cyber troll only posts upsetting messages and is not a transaction fraud."
+      },
+      {
+       "q": "Using someone's personal data to make transactions in his name is called:",
+       "options": [
+        "Cyber troll",
+        "e-Learning",
+        "Data backup",
+        "Identity theft"
+       ],
+       "answer": 3,
+       "why": "Identity theft means the criminal steals personal data (CNIC, card number, passwords) and makes transactions in the victim's name."
+      },
+      {
+       "q": "In job fraud, the criminals usually:",
+       "options": [
+        "Give real jobs to everyone",
+        "Publish fake job offers and demand fees or personal data",
+        "Return all the money",
+        "Work for a government office"
+       ],
+       "answer": 1,
+       "why": "Job fraud works through fake job advertisements that demand registration fees or personal data and then disappear."
+      },
+      {
+       "q": "Fake emails or websites that steal login details are called:",
+       "options": [
+        "Phishing",
+        "Formatting",
+        "Browsing",
+        "Downloading"
+       ],
+       "answer": 0,
+       "why": "Phishing uses fake emails and websites that look genuine to steal login details such as usernames and passwords."
+      },
+      {
+       "q": "If a computer is not protected, one possible result is:",
+       "options": [
+        "The computer becomes faster forever",
+        "Hackers cannot reach it",
+        "Viruses and malware can delete or steal data",
+        "Data becomes impossible to lose"
+       ],
+       "answer": 2,
+       "why": "Without protection — antivirus, updates, strong passwords, firewall and backups — viruses and malware can delete or steal data, hackers can misuse accounts, and the user can suffer money and privacy loss."
+      },
+      {
+       "q": "Which of the following is an advantage of social media?",
+       "options": [
+        "Addiction and waste of time",
+        "Easy connection with distant friends and relatives",
+        "Cyberbullying",
+        "Spread of false information"
+       ],
+       "answer": 1,
+       "why": "Advantages of social media include easy connection with distant friends and relatives, learning, business promotion and quick sharing of news; addiction, cyberbullying and false information are its disadvantages."
+      },
+      {
+       "q": "Business ideas and personal data online should be:",
+       "options": [
+        "Posted publicly for everyone",
+        "Sent to strangers who ask",
+        "Written in every comment",
+        "Shared carefully, not openly with everyone"
+       ],
+       "answer": 3,
+       "why": "Ethical and safe digital behaviour means not sharing business ideas and personal data openly with others; careless sharing leads to copying, fraud and identity theft."
+      },
+      {
+       "q": "Keeping the operating system updated helps to:",
+       "options": [
+        "Make the computer slower",
+        "Delete all user files",
+        "Stop the internet forever",
+        "Protect the computer from hacking and viruses"
+       ],
+       "answer": 3,
+       "why": "Updates fix security weaknesses, so keeping the operating system and apps updated — together with strong passwords and updated antivirus — is a main defence against hacking."
+      },
+      {
+       "q": "A fake online store that takes advance payment and never delivers the goods commits:",
+       "options": [
+        "Cyber troll",
+        "Shopping fraud",
+        "e-Learning fraud",
+        "None — it is legal"
+       ],
+       "answer": 1,
+       "why": "Shopping fraud is a type of online transaction fraud: fake online stores take advance payment and never send the goods."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8: Entrepreneurship in Digital Age",
+   "lessons": [
+    {
+     "title": "Entrepreneurship and the Business Plan",
+     "notes_html": "<h4>Entrepreneurship in the Digital Age</h4>\n<p><b>Entrepreneurship</b> refers to the convenience of launching a <b>business</b> online. Entrepreneurship in the digital age means starting and running a business online — launching products or services through the internet and promoting them with digital marketing. A digital entrepreneur uses websites, social media, email and search engines to reach customers at low cost, receives orders and payments online, and grows the business from anywhere.</p>\n<h4>The Business Plan</h4>\n<p>A <b>business plan</b> is a document setting out the objectives of the business. Its key components are: <b>executive summary</b> (the whole plan summarised), business description, market research, products/services, marketing plan, operations, team, and financial plan/forecast. Benefits: it gives clear objectives and strategies, helps get loans or investors, foresees costs and risks, and measures progress. Without a business plan, a business works without direction — money is wasted, mistakes repeat, and the chance of failure increases greatly.</p>\n<h4>Executive Summary and Value Proposition</h4>\n<p>The entire business plan is <b>summarised</b> in the executive summary, which is read first by investors and partners. A <b>value proposition</b> is a simple statement that summarises why a customer would choose your product or service.</p>\n<h4>Market Research</h4>\n<p>The marketing process also involves identifying a potential market, assessing the size of the market, and determining an approximate estimate of the product's value. Good market research tells the entrepreneur who the customers are and what they are willing to pay.</p>\n<h4>Creativity and Obstacles</h4>\n<p>A digital entrepreneur can enhance creativity by: studying customers and competitors for new ideas; following trends and new technologies; brainstorming with a team; experimenting with new content formats such as videos, reels and stories; taking feedback from customers and improving products; and learning new digital tools and skills regularly. Obstacles faced by digital entrepreneurship include: strong online competition; shortage of money and skilled staff at the start; fast-changing technology and platform rules; online fraud, hacking and payment risks; building customer trust without a physical shop; poor internet access in some areas; and difficulty in reaching the right audience among millions of online users.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Entrepreneurship means launching a business — in the digital age, online.</li>\n<li>The executive summary summarises the entire business plan.</li>\n<li>A value proposition states why a customer would choose your product.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Entrepreneurship refers to the convenience of launching a ______ online.",
+       "options": [
+        "business",
+        "education",
+        "shopping",
+        "program"
+       ],
+       "answer": 0,
+       "why": "Entrepreneurship in the digital age refers to the convenience of launching a business online and running it through the internet."
+      },
+      {
+       "q": "The entire business plan is ______ in the executive summary.",
+       "options": [
+        "copied",
+        "deleted",
+        "shared",
+        "summarised"
+       ],
+       "answer": 3,
+       "why": "The executive summary summarises the entire business plan — its objectives, products, market and finances — in a short form that is read first."
+      },
+      {
+       "q": "A ______ is a simple statement that summarises why a customer would choose your product or service.",
+       "options": [
+        "quality assurance",
+        "value proposition",
+        "promotion",
+        "executive summary"
+       ],
+       "answer": 1,
+       "why": "A value proposition is the simple statement that summarises why a customer would choose your product or service over others."
+      },
+      {
+       "q": "The ______ process also involves identifying a potential market, assessing the size of the market, and determining an approximate estimate of the product's value.",
+       "options": [
+        "Marketing",
+        "Costing",
+        "Market need",
+        "Operations"
+       ],
+       "answer": 0,
+       "why": "According to the book, the marketing process involves identifying a potential market, assessing the size of the market, and determining an approximate estimate of the product's value."
+      },
+      {
+       "q": "A business plan is:",
+       "options": [
+        "A type of advertisement",
+        "A bank account",
+        "A document setting out the objectives of the business",
+        "A social media page"
+       ],
+       "answer": 2,
+       "why": "A business plan is a document setting out the objectives of the business, together with its products, market research, marketing plan, operations and financial forecast."
+      },
+      {
+       "q": "Which of the following is a key component of a business plan?",
+       "options": [
+        "A list of favourite songs",
+        "Financial plan and forecast",
+        "A school timetable",
+        "A collection of jokes"
+       ],
+       "answer": 1,
+       "why": "Key components of a business plan include the executive summary, business description, market research, products/services, marketing plan, operations, team and financial plan/forecast."
+      },
+      {
+       "q": "A benefit of having a business plan is that it:",
+       "options": [
+        "Guarantees profit in one day",
+        "Removes all competition",
+        "Makes marketing unnecessary",
+        "Helps get loans or investors"
+       ],
+       "answer": 3,
+       "why": "A business plan gives clear objectives and strategies, helps get loans or investors, foresees costs and risks, and measures progress."
+      },
+      {
+       "q": "Without a business plan, a business:",
+       "options": [
+        "Always succeeds faster",
+        "Needs no money at all",
+        "Gets customers automatically",
+        "Works without direction, so money is wasted and failure becomes more likely"
+       ],
+       "answer": 3,
+       "why": "Without a business plan a business works without direction — money is wasted, mistakes repeat, and the chance of failure increases greatly."
+      },
+      {
+       "q": "A digital entrepreneur can enhance creativity by:",
+       "options": [
+        "Copying competitors exactly",
+        "Brainstorming with a team and experimenting with new content formats",
+        "Ignoring customer feedback",
+        "Never learning new tools"
+       ],
+       "answer": 1,
+       "why": "Creativity grows by studying customers and competitors, following trends, brainstorming with a team, experimenting with videos, reels and stories, and taking customer feedback."
+      },
+      {
+       "q": "Which of the following is an obstacle faced by digital entrepreneurship?",
+       "options": [
+        "Too many customers with no competition",
+        "Technology that never changes",
+        "Strong online competition and fast-changing technology",
+        "Free unlimited money for every business"
+       ],
+       "answer": 2,
+       "why": "Obstacles include strong online competition, shortage of money and skilled staff, fast-changing technology and platform rules, online fraud and difficulty in building customer trust."
+      }
+     ]
+    },
+    {
+     "title": "Digital Marketing and Its Components",
+     "notes_html": "<h4>Digital Marketing</h4>\n<p><b>Digital marketing</b>, also called <b>online marketing</b>, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. It is not called 'inline marketing'. The goals of digital marketing are: to promote brands and connect with potential customers; to increase sales and business growth; to reach a large, targeted audience at low cost; to build a good online reputation through positive reviews; to increase website traffic (including through SEO and paid search); and to keep customers informed and loyal through messages, emails and social media. Advertisement is a component of digital marketing.</p>\n<h4>Components of a Digital Marketing Plan</h4>\n<p>Components include: business goals and objectives; target audience/market research; value proposition; website and SEO; content marketing; social media marketing; email marketing; online advertising (paid search and display ads); mobile and video marketing; budget; and measuring results (analytics) with quality assurance. Four components explained: (1) Executive summary and goals. (2) Market research and value proposition. (3) Channels and content — SEO, social media, email, video and paid advertising. (4) Budget, quality assurance and measurement.</p>\n<h4>Types of Digital Marketing</h4>\n<ul>\n<li><b>Content marketing</b>: creating and sharing useful, interesting content — articles, blogs, pictures and videos — to attract and engage a target audience instead of directly advertising a product.</li>\n<li><b>Email marketing</b>: a direct marketing scheme that involves sending promotional <b>messages</b> to customers by email — new products, offers, discounts and newsletters. Email is definitely used for marketing.</li>\n<li><b>Video marketing</b>: enables companies to connect with customers in a more <b>visually</b> engaging and cooperating way.</li>\n<li><b>Reputation marketing</b>: focuses on gathering and endorsing positive online reviews.</li>\n<li><b>Paid search</b>: increases the visibility of a website in search engines; hashtags help people to find your tweets on social media.</li>\n</ul>\n<h4>SEO and Optimising a Website</h4>\n<p><b>SEO (Search Engine Optimisation)</b> focuses on improving the natural (unpaid) traffic to a website by making it rank higher in search engine results, so customers searching for related words find our website first. The four steps to optimising a website are: (1) Research — find the keywords customers search for and study competitors. (2) On-page optimisation — use keywords in titles, headings and content, and improve page quality and loading speed. (3) Technical optimisation — make the site mobile-friendly, secure (HTTPS) and easy for search engines to crawl and index. (4) Off-page optimisation and review — build quality links and reputation, then measure traffic and keep improving.</p>\n<h4>Social Media Marketing</h4>\n<p>Social media marketing is promoting products and brands through social media platforms such as Facebook, Instagram and YouTube. It helps a start-up because it is free or cheap, reaches many customers quickly, builds a brand image, and lets the owner talk directly with customers. When selecting a platform, consider: where your target customers are (young customers on TikTok/Instagram, professionals on LinkedIn); the type of product (clothes and food sell well with photos and short videos); cost and features; and your content ability.</p>\n<h4>Key Points</h4>\n<ul>\n<li>Digital marketing is also called online marketing.</li>\n<li>Email marketing sends promotional messages to customers.</li>\n<li>SEO improves the natural (unpaid) traffic of a website.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Which of the following is also referred to as digital marketing?",
+       "options": [
+        "Online Banking",
+        "Online Shopping",
+        "Offline Marketing",
+        "Online Marketing"
+       ],
+       "answer": 3,
+       "why": "Digital marketing is also referred to as online marketing — the promotion of brands to connect with potential customers using the internet."
+      },
+      {
+       "q": "Video marketing enables companies to connect with customers in a more ______ engaging and cooperating way.",
+       "options": [
+        "tastefully",
+        "visually",
+        "audible",
+        "silently"
+       ],
+       "answer": 1,
+       "why": "Video marketing connects with customers in a more visually engaging and cooperating way, because customers can see the product in action."
+      },
+      {
+       "q": "Email marketing is a direct marketing scheme that involves sending promotional ______ to customers.",
+       "options": [
+        "messages",
+        "calls",
+        "orders",
+        "magazines"
+       ],
+       "answer": 0,
+       "why": "Email marketing involves sending promotional messages to customers by email — new product announcements, offers, discounts and newsletters."
+      },
+      {
+       "q": "______ marketing focuses on gathering and endorsing positive online reviews.",
+       "options": [
+        "SEO",
+        "Email",
+        "Reputation",
+        "Video"
+       ],
+       "answer": 2,
+       "why": "Reputation marketing focuses on gathering and endorsing positive online reviews, which build trust in the brand."
+      },
+      {
+       "q": "Digital marketing is also called 'inline marketing'.",
+       "options": [
+        "True — both names are correct",
+        "False — it is called online marketing",
+        "True — inline is the official name",
+        "False — it is called offline marketing"
+       ],
+       "answer": 1,
+       "why": "The statement is false: digital marketing is also called online marketing, not 'inline marketing'."
+      },
+      {
+       "q": "Advertisement is a component of digital marketing.",
+       "options": [
+        "False — it is never used online",
+        "False — it belongs only to newspapers",
+        "True — but only on television",
+        "True"
+       ],
+       "answer": 3,
+       "why": "The statement 'advertisement is not a component of digital marketing' is false: online advertising — paid search and display ads — is an important component of a digital marketing plan."
+      },
+      {
+       "q": "Email is used for marketing.",
+       "options": [
+        "False — email is never used for marketing",
+        "False — email is only for personal letters",
+        "True — but only printed emails",
+        "True — email marketing sends promotional messages"
+       ],
+       "answer": 3,
+       "why": "The statement 'email is not used for marketing' is false: email marketing is a direct marketing scheme that sends promotional messages to customers."
+      },
+      {
+       "q": "Paid Search increases the visibility of a website in search engines.",
+       "options": [
+        "False — it hides the website",
+        "True",
+        "False — it works only on social media",
+        "True — but it deletes the website"
+       ],
+       "answer": 1,
+       "why": "Paid search increases the visibility of a website in search engine results by showing paid advertisements for searched keywords."
+      },
+      {
+       "q": "Hashtags on social media help people to:",
+       "options": [
+        "Delete old posts",
+        "Hide your account",
+        "Find your tweets and posts on a topic",
+        "Print web pages"
+       ],
+       "answer": 2,
+       "why": "Hashtags help people to find your tweets: clicking or searching a hashtag shows all posts on that topic."
+      },
+      {
+       "q": "SEO is used on websites to:",
+       "options": [
+        "Improve natural (unpaid) traffic by ranking higher in search results",
+        "Make the website invisible",
+        "Delete old web pages",
+        "Send emails to customers"
+       ],
+       "answer": 0,
+       "why": "SEO (Search Engine Optimisation) improves the natural (unpaid) traffic to a website by making it rank higher in search engine results, bringing more visitors and sales without paying for ads."
+      }
+     ]
+    },
+    {
+     "title": "Transactions, Payments and Using Digital Platforms for Business",
+     "notes_html": "<h4>Transaction and Payment</h4>\n<p>A <b>transaction</b> is an instance of buying or selling something; the act of <b>agreement</b> between a buyer and a seller is referred to as a transaction. A transaction is the complete act of buying or selling — it includes choosing the product, agreeing the price, paying and receiving the goods. <b>Payment</b> is only one part of it: the actual transfer of money from buyer to seller.</p>\n<h4>Making Safe Payments</h4>\n<p>Safe payments: pay only on trusted, secure websites (https); use known methods such as bank transfer, cards or cash on delivery; never share OTP, PIN or passwords with anyone; avoid public Wi-Fi for banking; check statements regularly; and keep receipts/screenshots of every payment.</p>\n<h4>Quality Assurance</h4>\n<p>The way to prevent mistakes is called <b>quality assurance</b>. In a digital marketing plan, quality assurance checks content, links, prices and offers before and after publishing, so that customers receive correct information and the business keeps its good reputation.</p>\n<h4>Using Digital Marketing Platforms to Enhance a Business</h4>\n<p>A business can be enhanced by: creating a business website and optimising it with SEO so customers find it on Google; opening business pages on Facebook and Instagram and posting regular photos, videos and offers, using hashtags so people can find the posts; using WhatsApp Business for direct orders and customer support; running small paid-search and social-media ad campaigns targeted at the city and age group; collecting and displaying positive customer reviews (reputation marketing); sending promotional emails to regular customers; and checking the results monthly to spend more on the platform that brings the most sales.</p>\n<h4>Key Points</h4>\n<ul>\n<li>A transaction is the complete act of buying or selling; payment is only the transfer of money.</li>\n<li>Never share OTP, PIN or passwords with anyone.</li>\n<li>Quality assurance is the way to prevent mistakes.</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "The ______ is an instance of buying or selling something.",
+       "options": [
+        "payment",
+        "transaction",
+        "sharing",
+        "storing"
+       ],
+       "answer": 1,
+       "why": "A transaction is an instance of buying or selling something — the complete act between a buyer and a seller, of which payment is only one part."
+      },
+      {
+       "q": "The act of ______ between a buyer and a seller is referred to as a transaction.",
+       "options": [
+        "agreement",
+        "disagreement",
+        "dispute",
+        "silence"
+       ],
+       "answer": 0,
+       "why": "The act of agreement between a buyer and a seller — on the product and the price — is referred to as a transaction."
+      },
+      {
+       "q": "The way to prevent mistakes is called:",
+       "options": [
+        "Quality deletion",
+        "Marketing research",
+        "Quality assurance",
+        "Paid search"
+       ],
+       "answer": 2,
+       "why": "Quality assurance is the way to prevent mistakes: checking content, prices and processes so that errors are caught before customers are affected."
+      },
+      {
+       "q": "Payment differs from a transaction because payment is:",
+       "options": [
+        "The complete act of buying and selling",
+        "Only the actual transfer of money from buyer to seller",
+        "Choosing the product",
+        "Receiving the goods at home"
+       ],
+       "answer": 1,
+       "why": "A transaction includes choosing the product, agreeing the price, paying and receiving the goods; payment is only the transfer of money part of it."
+      },
+      {
+       "q": "To make payments safely online, we should never share our:",
+       "options": [
+        "Shopping list",
+        "Delivery address with the seller",
+        "Order number with the courier",
+        "OTP, PIN or passwords with anyone"
+       ],
+       "answer": 3,
+       "why": "Safe payments require never sharing OTP, PIN or passwords with anyone; banks never ask for them, and sharing them lets criminals empty the account."
+      },
+      {
+       "q": "For online banking and payments, we should avoid:",
+       "options": [
+        "Secure https websites",
+        "Cash on delivery",
+        "Checking bank statements",
+        "Public Wi-Fi"
+       ],
+       "answer": 3,
+       "why": "Public Wi-Fi is not safe for banking because others may spy on the connection; trusted https websites, known payment methods and regular statement checks keep payments safe."
+      },
+      {
+       "q": "A business can take direct orders and give customer support through:",
+       "options": [
+        "A printed newspaper",
+        "WhatsApp Business",
+        "A radio announcement only",
+        "Word of mouth only"
+       ],
+       "answer": 1,
+       "why": "Using digital platforms to enhance a business includes WhatsApp Business for direct orders and customer support, along with a website, social media pages and email marketing."
+      },
+      {
+       "q": "Collecting and displaying positive customer reviews is an example of:",
+       "options": [
+        "Email spoofing",
+        "Quality deletion",
+        "Reputation marketing",
+        "Paid printing"
+       ],
+       "answer": 2,
+       "why": "Gathering and endorsing positive online reviews is reputation marketing; it builds trust and brings more customers to the business."
+      },
+      {
+       "q": "Before paying on a website, a customer should check that the website is:",
+       "options": [
+        "Trusted and secure (https)",
+        "The first link he ever saw",
+        "Asking for his PIN by email",
+        "Full of spelling mistakes"
+       ],
+       "answer": 0,
+       "why": "Safe payments are made only on trusted, secure websites (https); a site asking for a PIN by email or full of errors is a warning sign of fraud."
+      },
+      {
+       "q": "Results of digital marketing should be checked regularly so that the business can:",
+       "options": [
+        "Stop all marketing forever",
+        "Delete its website",
+        "Ignore customer feedback",
+        "Spend more on the platform that brings the most sales"
+       ],
+       "answer": 3,
+       "why": "Measuring results — traffic, reviews and sales — shows which platform works best, so the budget can be spent where it brings the most sales."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

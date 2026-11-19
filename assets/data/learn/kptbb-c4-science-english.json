@@ -1,0 +1,2425 @@
+{
+ "book": "kptbb-c4-science-english",
+ "chapters": [
+  {
+   "title": "Chapter 1: Characteristics and Life Processes of Organisms",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Living things use food to remain alive, breathe, move on their own, grow and produce living things of their own kind, and they have the ability to sense.</li><li>Plants make their own food and generally cannot move from one place to another; animals depend on plants and other animals for their food and can move from place to place.</li><li>Vertebrates are animals having a backbone, for example fish, frog, lizard, pigeon and cat. Invertebrates have no backbone, for example cockroach, honey bee, butterfly, starfish and snail.</li><li>There are four types of teeth: incisors for biting and cutting, canines for piercing and tearing, premolars for chewing and grinding, and molars also for chewing and grinding.</li><li>Bones and muscles work together: when muscles contract, they pull the bones, so the bone moves at the joint.</li><li>The lungs exchange oxygen between blood and air; the heart works like a pump and circulates blood all over the body.</li><li>Many plants produce fruits to protect the seeds. Fish have fins and a tail. Non-flowering plants have no flower; pine is a non-flowering plant.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Which one is common among butterfly, bird and bat?</p><p><strong>Options:</strong> (a) Teeth (b) Hair (c) Bones (d) Wings</p><p><strong>Correct answer:</strong> Wings</p><p><strong>Q:</strong> Many plants produce fruits:</p><p><strong>Options:</strong> (a) to protect seeds. (b) to produce food for the seeds. (c) to store water for the seed germination. (d) to stop seeds from dispersal.</p><p><strong>Correct answer:</strong> to protect seeds.</p><p><strong>Q:</strong> Fish are vertebrate and swim in water. Which one of the following is true?</p><p><strong>Options:</strong> (a) Have fur on the body (b) Have feathers and a tail (c) Have four legs (d) Have fins and a tail</p><p><strong>Correct answer:</strong> Have fins and a tail</p><p><strong>Q:</strong> Which part of a plant is absent in non- flowering plants?</p><p><strong>Options:</strong> (a) Root (b) Shoot (c) Leaf (d) Flower</p><p><strong>Correct answer:</strong> Flower</p><p><strong>Q:</strong> Which one of the following is a non- flowering plant?</p><p><strong>Options:</strong> (a) Apple (b) Rose (c) Mango (d) Pine</p><p><strong>Correct answer:</strong> Pine</p><p><strong>Q:</strong> Which statement is correct for all the vertebrates?</p><p><strong>Options:</strong> (a) Have fur (b) Have more than four legs (c) Have backbone (d) Can fly in air</p><p><strong>Correct answer:</strong> Have backbone</p>",
+     "mcqs": [
+      {
+       "q": "Which one is common among butterfly, bird and bat?",
+       "options": [
+        "Wings",
+        "Teeth",
+        "Hair",
+        "Bones"
+       ],
+       "answer": 0,
+       "why": "Butterflies, birds and bats are very different animals, but all three have wings and can fly. A butterfly has no teeth, hair or bones like the others, so wings are the common feature."
+      },
+      {
+       "q": "Many plants produce fruits:",
+       "options": [
+        "to produce food for the seeds.",
+        "to protect seeds.",
+        "to store water for the seed germination.",
+        "to stop seeds from dispersal."
+       ],
+       "answer": 1,
+       "why": "Many plants produce fruits to protect the seeds inside them. The fruit covers the seeds and keeps them safe until they grow into new plants."
+      },
+      {
+       "q": "Fish are vertebrate and swim in water. Which one of the following is true?",
+       "options": [
+        "Have fur on the body",
+        "Have feathers and a tail",
+        "Have fins and a tail",
+        "Have four legs"
+       ],
+       "answer": 2,
+       "why": "Fish are vertebrates that swim in water. They have fins and a tail, which help them to swim. Fish do not have fur, feathers or four legs."
+      },
+      {
+       "q": "Which part of a plant is absent in non- flowering plants?",
+       "options": [
+        "Root",
+        "Shoot",
+        "Leaf",
+        "Flower"
+       ],
+       "answer": 3,
+       "why": "Non-flowering plants have roots, shoots and leaves, but they never produce flowers. The flower is the part absent in non-flowering plants."
+      },
+      {
+       "q": "Which one of the following is a non- flowering plant?",
+       "options": [
+        "Pine",
+        "Apple",
+        "Rose",
+        "Mango"
+       ],
+       "answer": 0,
+       "why": "Apple, rose and mango plants produce flowers, so they are flowering plants. The pine does not produce flowers, so it is a non-flowering plant."
+      },
+      {
+       "q": "Which statement is correct for all the vertebrates?",
+       "options": [
+        "Have fur",
+        "Have backbone",
+        "Have more than four legs",
+        "Can fly in air"
+       ],
+       "answer": 1,
+       "why": "Vertebrates are the animals that have a backbone (vertebral column). Not all vertebrates have fur or can fly, but every vertebrate has a backbone."
+      },
+      {
+       "q": "Which one of the following is an invertebrate?",
+       "options": [
+        "Fish",
+        "Frog",
+        "Butterfly",
+        "Cat"
+       ],
+       "answer": 2,
+       "why": "Invertebrates are animals without a backbone. A butterfly has no backbone, while a fish, a frog and a cat all have backbones, so they are vertebrates."
+      },
+      {
+       "q": "Which part of the body pumps blood all over the body?",
+       "options": [
+        "Lungs",
+        "Heart",
+        "Bones",
+        "Muscles"
+       ],
+       "answer": 1,
+       "why": "The heart works continuously like a pump throughout life. Its muscles contract and relax and it circulates blood all over the body through blood vessels."
+      },
+      {
+       "q": "Which teeth are used for biting and cutting food?",
+       "options": [
+        "Canines",
+        "Premolars",
+        "Molars",
+        "Incisors"
+       ],
+       "answer": 3,
+       "why": "Incisors are used for biting and cutting food. Canines pierce and tear food, while premolars and molars are used for chewing and grinding food."
+      },
+      {
+       "q": "How do plants get their food?",
+       "options": [
+        "They eat other plants",
+        "They make their own food",
+        "They depend on animals for food",
+        "They eat insects only"
+       ],
+       "answer": 1,
+       "why": "Plants make their own food, while animals depend on plants and other animals for their food. This is an important difference between plants and animals."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Living things breathe, use food, move on their own, grow, produce their own kind and can sense.</li><li>Vertebrates have a backbone (fish, frog, lizard, pigeon, cat); invertebrates have no backbone (cockroach, honey bee, butterfly, starfish, snail).</li><li>Incisors bite and cut food; canines pierce and tear food; premolars and molars chew and grind food. A tiger uses its large canines for piercing prey and a rat uses its large incisors for biting food.</li><li>Bones are united at the joints to form the skeleton; muscles attached to the bones pull them so we can sit, walk, run and jump.</li><li>Air enters the lungs through the nose and windpipe; the exchange of oxygen between blood and air takes place in the lungs.</li><li>The heart pumps blood continuously all over the body through blood vessels.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Write any four characteristics of living things?</p><p><strong>Ans:</strong> Four characteristics of living things are: (1) Living things use food to remain alive. (2) Living things breathe. (3) Living things can move on their own. (4) Living things grow and produce living things of their own kind. They also have the ability to sense.</p><p><strong>Q:</strong> Compare any three differences between plants and animals?</p><p><strong>Ans:</strong> Plants are usually green in colour, while animals are found in various colours. Plants make their own food, while animals depend on plants and other animals for their food. Generally, plants cannot move from one place to another, while animals can move from one place to another.</p><p><strong>Q:</strong> Differentiate between vertebrates and invertebrates.</p><p><strong>Ans:</strong> Vertebrates are the animals having a backbone (vertebral column), for example fish, frog, lizard, pigeon and cat. Invertebrates are the animals having no backbone, for example cockroach, honey bee, butterfly, starfish and snail.</p><p><strong>Q:</strong> Name the types of teeth and write their functions.</p><p><strong>Ans:</strong> There are four types of teeth. Incisors are used for biting and cutting food. Canines are used for piercing and tearing food. Premolars are used for chewing and grinding food. Molars are also used for chewing and grinding food.</p><p><strong>Q:</strong> What functions do bones and muscles perform together?</p><p><strong>Ans:</strong> Bones are united at the joints to form the skeleton, and muscles are attached to and cover the bones. When muscles contract, they pull the bones, so the bone moves at the joint. In this way bones and muscles work together and help us to move our hands, arms, feet and legs, and to sit, walk, run and jump.</p><p><strong>Q:</strong> Describe the functions of lungs and heart.</p><p><strong>Ans:</strong> During breathing, air enters our lungs through the nose and windpipe. The lungs keep expanding and contracting, and the exchange of oxygen between blood and air takes place in the lungs; when they expand we inhale air and when they contract air is exhaled. The heart works continuously like a pump throughout life; its muscles contract and relax and it circulates blood all over the body through blood vessels.</p><p><strong>Q:</strong> The diagrams show a tiger skull and a rat skull. Describe the diagrams.</p><p><strong>Ans:</strong> Diagram (in words): There are two skull diagrams. The upper, larger diagram is labelled 'Skull of Tiger' and its long, pointed front teeth are labelled 'canines'. The lower, smaller diagram is labelled 'Skull of Rat' and its front teeth are labelled 'incisors'. A tiger has large canines and a rat has large incisors.</p><p><strong>Q:</strong> (a) What does a tiger do with its canines?</p><p><strong>Ans:</strong> A tiger has large canines. It uses its canines for piercing the prey, because canines perform the function of piercing and tearing food.</p><p><strong>Q:</strong> (b) What does a rat do with its incisors?</p><p><strong>Ans:</strong> A rat has large incisors. It uses its incisors for biting food or killing prey, because incisors perform the function of biting and cutting food.</p>",
+     "mcqs": [
+      {
+       "q": "Which one of the following is a characteristic of living things?",
+       "options": [
+        "They never grow",
+        "They breathe",
+        "They cannot move",
+        "They do not need food"
+       ],
+       "answer": 1,
+       "why": "Living things breathe, use food to remain alive, move on their own, grow and produce living things of their own kind, and they also have the ability to sense."
+      },
+      {
+       "q": "Which one of the following animals is a vertebrate?",
+       "options": [
+        "Snail",
+        "Starfish",
+        "Honey bee",
+        "Pigeon"
+       ],
+       "answer": 3,
+       "why": "Vertebrates are animals having a backbone. Fish, frog, lizard, pigeon and cat are vertebrates, while snail, starfish and honey bee have no backbone."
+      },
+      {
+       "q": "Canines are used for:",
+       "options": [
+        "biting and cutting food",
+        "piercing and tearing food",
+        "chewing food only",
+        "grinding food only"
+       ],
+       "answer": 1,
+       "why": "Canines are sharp teeth used for piercing and tearing food. A tiger has large canines and uses them for piercing its prey."
+      },
+      {
+       "q": "What happens when muscles contract?",
+       "options": [
+        "They push the bones apart",
+        "They pull the bones, so the bone moves at the joint",
+        "They make the bones soft",
+        "They stop the blood"
+       ],
+       "answer": 1,
+       "why": "Muscles are attached to and cover the bones. When muscles contract, they pull the bones, so the bone moves at the joint and we can sit, walk, run and jump."
+      },
+      {
+       "q": "The exchange of oxygen between blood and air takes place in the:",
+       "options": [
+        "heart",
+        "nose",
+        "lungs",
+        "bones"
+       ],
+       "answer": 2,
+       "why": "During breathing, air enters our lungs through the nose and windpipe, and the exchange of oxygen between blood and air takes place in the lungs."
+      },
+      {
+       "q": "A rat uses its large incisors for:",
+       "options": [
+        "piercing prey",
+        "biting and cutting food",
+        "chewing and grinding food",
+        "pumping blood"
+       ],
+       "answer": 1,
+       "why": "A rat has large incisors. It uses its incisors for biting food or killing prey, because incisors perform the function of biting and cutting food."
+      },
+      {
+       "q": "Generally, plants cannot:",
+       "options": [
+        "make their own food",
+        "grow",
+        "move from one place to another",
+        "produce seeds"
+       ],
+       "answer": 2,
+       "why": "Generally, plants cannot move from one place to another, while animals can move from one place to another. Plants stay in one place and make their own food."
+      },
+      {
+       "q": "Which pair is correct?",
+       "options": [
+        "Premolars — piercing food",
+        "Molars — chewing and grinding food",
+        "Incisors — tearing food",
+        "Canines — biting food"
+       ],
+       "answer": 1,
+       "why": "Molars are used for chewing and grinding food. Incisors bite and cut, canines pierce and tear, and premolars also chew and grind."
+      },
+      {
+       "q": "Bones are united at the joints to form the:",
+       "options": [
+        "muscles",
+        "skeleton",
+        "lungs",
+        "skin"
+       ],
+       "answer": 1,
+       "why": "Bones are united at the joints to form the skeleton, and muscles are attached to and cover the bones. In this way bones and muscles work together and help us to move."
+      },
+      {
+       "q": "A tiger uses its large canines to:",
+       "options": [
+        "chew grass",
+        "pierce its prey",
+        "cut fruit",
+        "grind seeds"
+       ],
+       "answer": 1,
+       "why": "A tiger has large canines. It uses its canines for piercing the prey, because canines perform the function of piercing and tearing food."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> How are the invertebrates useful for humans?</p><p><strong>Ans:</strong> Invertebrates are animals without a backbone, such as the honey bee, butterfly, cockroach, starfish and snail. They are a useful part of biodiversity: the honey bee gives us honey, and insects like the butterfly help flowers in forming fruits and seeds. They also serve as food for many other animals, so they keep the balance of living things.</p><p><strong>Q:</strong> Write the importance of biodiversity.</p><p><strong>Ans:</strong> Biodiversity means the number of various types of living things found at a particular place. It is important because all these living things are different in their functions and structures and are essential for one another. If biodiversity is lost and living things become extinct due to destruction of habitat, change of climate, increase of temperature and shortage of water, the balance of life on Earth is disturbed.</p><p><strong>Q:</strong> What is the importance of a flower?</p><p><strong>Ans:</strong> Flowers are the beautiful, colourful part of a flowering plant. Fruits and seeds are formed from the flowers: when seeds are being formed within the flower, the area surrounding it ripens into fruit. In this way flowers produce seeds, and the seeds produce new plants.</p><p><strong>Q:</strong> Project: Pumping of blood by the heart — what is made and what is observed?</p><p><strong>Ans:</strong> Things needed: balloon, red color, jar, water, scissors, tape and straws (one blue and one pink). Steps: (i) Cut the balloon as per figure 1. (ii) Fill half of the jar with water and add a few drops of red colour (figure 2). (iii) Cover the mouth of the jar with the balloon (figure 3). (iv) Make two holes on the balloon about one inch apart; put the blue straw in one hole and the pink straw in the other (figure 4). (v) Cover the holes around the straws with tape and also cover the opening of the blue straw with tape; keep the jar in a tray (figure 5). (vi) Push the middle part between the two straws with your fingers. Observation: red liquid comes out of the pink straw, which is similar to the pumping of blood by the heart.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Ecosystem",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>The environment is the sum of all living and non-living things around an organism; every living thing lives in a particular environment.</li><li>An ecosystem is the collection of abiotic and biotic components in an area.</li><li>Abiotic components are non-living, for example temperature, air, water, light and soil. Biotic components are living: producers (plants), consumers (animals) and decomposers (bacteria and fungi).</li><li>A food chain begins at a producer, for example Plant → Grasshopper → Rat → Owl.</li><li>If food resources increase, predators get more food, so the population of predators increases.</li><li>Cutting of forests and pollution harm the ecosystem; tree plantation is done for the conservation of the ecosystem.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> What is an ecosystem?</p><p><strong>Options:</strong> (a) System of non-living things in an environment. (b) Area having a group of living and dead things. (c) System of living things in an environment. (d) The collection of abiotic and biotic components in an area.</p><p><strong>Correct answer:</strong> The collection of abiotic and biotic components in an area.</p><p><strong>Q:</strong> All the biotic components are:</p><p><strong>Options:</strong> (a) animals (b) producers. (c) living things (d) non-living things.</p><p><strong>Correct answer:</strong> living things</p><p><strong>Q:</strong> Food chain:</p><p><strong>Options:</strong> (a) begins at a producer. (b) begins at a consumer. (c) begins at a decomposer. (d) ends at producer.</p><p><strong>Correct answer:</strong> begins at a producer.</p><p><strong>Q:</strong> For the conservation of ecosystem:</p><p><strong>Options:</strong> (a) forests are being cut. (b) roads are being built. (c) tree plantation is being done. (d) factories are being installed.</p><p><strong>Correct answer:</strong> tree plantation is being done.</p><p><strong>Q:</strong> Fungus is an example of:</p><p><strong>Options:</strong> (a) producer. (b) consumer. (c) decomposer. (d) none of them.</p><p><strong>Correct answer:</strong> decomposer.</p>",
+     "mcqs": [
+      {
+       "q": "What is an ecosystem?",
+       "options": [
+        "The collection of abiotic and biotic components in an area.",
+        "System of non-living things in an environment.",
+        "Area having a group of living and dead things.",
+        "System of living things in an environment."
+       ],
+       "answer": 0,
+       "why": "An ecosystem is the collection of abiotic (non-living) and biotic (living) components in an area. It is not only the living things or only the non-living things."
+      },
+      {
+       "q": "All the biotic components are:",
+       "options": [
+        "animals",
+        "living things",
+        "producers.",
+        "non-living things."
+       ],
+       "answer": 1,
+       "why": "Biotic components are the living components of an ecosystem, that is, all living things such as plants, animals, bacteria and fungi."
+      },
+      {
+       "q": "Food chain:",
+       "options": [
+        "begins at a consumer.",
+        "begins at a decomposer.",
+        "begins at a producer.",
+        "ends at producer."
+       ],
+       "answer": 2,
+       "why": "A food chain begins at a producer. Plants are producers because they make their own food; consumers eat the plants or other animals after that."
+      },
+      {
+       "q": "For the conservation of ecosystem:",
+       "options": [
+        "forests are being cut.",
+        "roads are being built.",
+        "factories are being installed.",
+        "tree plantation is being done."
+       ],
+       "answer": 3,
+       "why": "For the conservation of the ecosystem, tree plantation is being done. Cutting forests, building roads and installing factories harm the ecosystem instead."
+      },
+      {
+       "q": "Fungus is an example of:",
+       "options": [
+        "decomposer.",
+        "producer.",
+        "consumer.",
+        "abiotic component."
+       ],
+       "answer": 0,
+       "why": "Fungus is an example of a decomposer. Decomposers such as bacteria and fungi break down dead things; producers make food and consumers eat other living things."
+      },
+      {
+       "q": "Which one of the following is an abiotic component of an ecosystem?",
+       "options": [
+        "Plant",
+        "Animal",
+        "Water",
+        "Fungus"
+       ],
+       "answer": 2,
+       "why": "Abiotic components are the non-living components of an ecosystem, for example temperature, air, water, light and soil. Plants, animals and fungi are living, so they are biotic."
+      },
+      {
+       "q": "In the food chain Plant → Grasshopper → Rat → Owl, the rat eats the:",
+       "options": [
+        "owl",
+        "plant",
+        "grasshopper",
+        "fungus"
+       ],
+       "answer": 2,
+       "why": "In this food chain the grasshopper eats the plant, the rat eats the grasshopper, and the owl eats the rat. Each step shows who eats whom."
+      },
+      {
+       "q": "The producers in an ecosystem are:",
+       "options": [
+        "animals",
+        "plants",
+        "bacteria",
+        "fungi"
+       ],
+       "answer": 1,
+       "why": "Biotic components are divided into producers, consumers and decomposers. Plants are the producers because they make their own food."
+      },
+      {
+       "q": "If the food resources are increased, the population of predators will:",
+       "options": [
+        "decrease",
+        "stay the same",
+        "increase",
+        "disappear"
+       ],
+       "answer": 2,
+       "why": "If food resources are increased, more prey animals will be available. The predators will get more food, survive and reproduce better, so the population of predators will increase."
+      },
+      {
+       "q": "Which human activity destroys the habitats of wildlife?",
+       "options": [
+        "Tree plantation",
+        "Cutting of forests",
+        "Keeping water clean",
+        "Protecting animals"
+       ],
+       "answer": 1,
+       "why": "Cutting of forests (deforestation) to establish cities, build roads and factories destroys the habitats of wildlife and affects the ecosystem badly."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Environment: all living and non-living things around an organism, interacting with each other.</li><li>Abiotic components: temperature, air, water, light and soil. Biotic components: producers (plants), consumers (animals) and decomposers (bacteria and fungi).</li><li>Food chain of the chapter: Plant → Grasshopper → Rat → Owl. The grasshopper eats the plant, the rat eats the grasshopper and the owl eats the rat.</li><li>Biodiversity means the number of various types of living things found at a particular place; where there is more biodiversity, living things compete for food and space.</li><li>Human activities harming the ecosystem: cutting of forests, pollution of environment and water, and unnecessary hunting of animals.</li><li>The female ostrich is light brown and sits on the eggs in the daytime; the black male warms them at night, so predators cannot easily see them.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Define environment.</p><p><strong>Ans:</strong> The environment can be defined as a sum of all living and non-living things around an organism. The living and non-living components of an environment interact with each other, and every living thing lives in a particular environment, for example a fish lives in water and a tiger lives in a forest.</p><p><strong>Q:</strong> Write the names of three biotic and abiotic components of an ecosystem.</p><p><strong>Ans:</strong> Abiotic components are the non-living components of an ecosystem, for example temperature, air and water (light and soil are also abiotic). Biotic components are the living components, which are divided into producers (plants), consumers (animals) and decomposers (bacteria and fungi); for example plants, animals and fungi are three biotic components.</p><p><strong>Q:</strong> Draw a simple food chain.</p><p><strong>Ans:</strong> Diagram (in words): The book's food chain figure shows four pictures joined by arrows in a line, with labels under them: 'Plant' → 'Grasshopper' → 'Rat' → 'Owl', and the whole figure is captioned 'Food chain'. The grasshopper eats the plant, the rat eats the grasshopper, and the owl eats the rat.</p><p><strong>Q:</strong> If the food resources are increased what will be the effect on the population of predator?</p><p><strong>Ans:</strong> If food resources are increased, more prey animals will be available to eat. The predators will get more food, so they will survive and reproduce better, and the population of predators will increase.</p><p><strong>Q:</strong> Write two human activities which are affecting the ecosystem.</p><p><strong>Ans:</strong> Two human activities affecting the ecosystem are: (1) cutting of forests (deforestation) to establish cities, build roads and factories, which destroys the habitats of wildlife; and (2) pollution of the environment and water resources, along with unnecessary hunting of animals, due to which many wild organisms have become extinct and many others have become endangered.</p><p><strong>Q:</strong> What is the relationship between biodiversity and competition among living things in a balanced ecosystem?</p><p><strong>Ans:</strong> Biodiversity means many types of living things live at a place. All the organisms in an ecosystem depend on the resources available in that area, but an area can provide food and place only to a limited number of living things. So where there is more biodiversity, the living things compete with each other for food and space, for example in a grassland all the herbivores compete for grass. In a balanced ecosystem this competition stays within limits and the ecosystem remains self-sustaining and durable.</p>",
+     "mcqs": [
+      {
+       "q": "The environment can be defined as:",
+       "options": [
+        "only living things around us",
+        "only non-living things around us",
+        "the sum of all living and non-living things around an organism",
+        "only plants and animals"
+       ],
+       "answer": 2,
+       "why": "The environment is the sum of all living and non-living things around an organism, and the living and non-living components of an environment interact with each other."
+      },
+      {
+       "q": "Which one of the following is a decomposer?",
+       "options": [
+        "Plant",
+        "Rat",
+        "Bacteria",
+        "Owl"
+       ],
+       "answer": 2,
+       "why": "Decomposers are bacteria and fungi. Plants are producers and animals like the rat and the owl are consumers in the ecosystem."
+      },
+      {
+       "q": "A fish lives in water and a tiger lives in a forest. This shows that:",
+       "options": [
+        "living things can live anywhere",
+        "every living thing lives in a particular environment",
+        "the environment has no living things",
+        "only big animals need an environment"
+       ],
+       "answer": 1,
+       "why": "Every living thing lives in a particular environment, for example a fish lives in water and a tiger lives in a forest."
+      },
+      {
+       "q": "In a balanced ecosystem, living things compete with each other for:",
+       "options": [
+        "food and space",
+        "colours and shapes",
+        "names and sizes",
+        "light only"
+       ],
+       "answer": 0,
+       "why": "An area can provide food and place only to a limited number of living things, so where there is more biodiversity, the living things compete with each other for food and space."
+      },
+      {
+       "q": "The female ostrich sits on the eggs in the daytime because:",
+       "options": [
+        "she is black in colour",
+        "her light brown colour matches the dry ground and sand",
+        "she cannot run fast",
+        "the male sits with her"
+       ],
+       "answer": 1,
+       "why": "The female ostrich is light brown in colour, which matches the colour of the dry ground and sand in the daytime, so predators cannot easily see her while she warms the eggs."
+      },
+      {
+       "q": "The male ostrich warms the eggs at night because:",
+       "options": [
+        "he is light brown",
+        "he is black and matches the darkness of the night",
+        "he is the heaviest bird",
+        "he can fly at night"
+       ],
+       "answer": 1,
+       "why": "The male ostrich is black in colour, which matches the darkness of the night. So at night predators cannot easily see him while he sits on the eggs to warm them."
+      },
+      {
+       "q": "Ostriches escape from predators by:",
+       "options": [
+        "flying away",
+        "hiding in water",
+        "running at a speed of 70 kilometres per hour or fighting with their strong paw",
+        "climbing trees"
+       ],
+       "answer": 2,
+       "why": "Ostriches are the largest and heaviest birds but they cannot fly. To escape from predators, they fight with their strong paw or run away with a speed of 70 kilometres per hour."
+      },
+      {
+       "q": "Biodiversity means:",
+       "options": [
+        "only one type of living thing at a place",
+        "the number of various types of living things found at a particular place",
+        "only plants found at a place",
+        "the non-living things at a place"
+       ],
+       "answer": 1,
+       "why": "Biodiversity means the number of various types of living things found at a particular place. All these living things are different in their functions and structures and are essential for one another."
+      },
+      {
+       "q": "Which activity has made many wild organisms endangered?",
+       "options": [
+        "Tree plantation",
+        "Unnecessary hunting of animals",
+        "Clean drinking water",
+        "Balanced food chains"
+       ],
+       "answer": 1,
+       "why": "Pollution of the environment and unnecessary hunting of animals are human activities due to which many wild organisms have become extinct and many others have become endangered."
+      },
+      {
+       "q": "In the food chain Plant → Grasshopper → Rat → Owl, the owl is a:",
+       "options": [
+        "producer",
+        "consumer",
+        "decomposer",
+        "abiotic component"
+       ],
+       "answer": 1,
+       "why": "The owl eats the rat, so it is a consumer. Consumers are the animals that eat plants or other animals; plants are producers and bacteria and fungi are decomposers."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> The ostrich are the largest and heaviest birds but they cannot fly. To escape from the predator, they fight with their strong paw or run away with a speed of 70 kilometer per hour. The light brown coloured female lays eggs. The female sits on eggs at the day time, whereas the black coloured male warm them at night. (a) Why female warms eggs at day time?</p><p><strong>Ans:</strong> The female ostrich is light brown in colour, which matches the colour of the dry ground and sand in the day time. So in daylight the predators cannot easily see her while she sits on the eggs to warm them, and the eggs remain safe.</p><p><strong>Q:</strong> (b) Why male warms eggs at night?</p><p><strong>Ans:</strong> The male ostrich is black in colour, which matches the darkness of the night. So at night the predators cannot easily see him while he sits on the eggs to warm them, and the eggs remain safe from predators.</p><p><strong>Q:</strong> Project: Make a model of ecosystem using abiotic and biotic components of ecosystem — what is made and what is observed?</p><p><strong>Ans:</strong> A model of an ecosystem is made from at least two bottles. (i) Cut the bottles as shown in the picture. In the first bottle pour water to show the aquatic ecosystem; in the second bottle put soil and a small plant to show the land ecosystem. (ii) Connect the ecosystems of both bottles (connect soil with water with a thick thread) so that the plant may receive water and minerals. The model's figure is labelled 'Plant', 'Soil', 'Thick thread' and 'Water', and the cut line on the bottle is labelled 'Cut'. (iii) Observe it daily and write a report of the result: the plant receives water and minerals through the thick thread and keeps growing, showing how abiotic and biotic components work together in an ecosystem.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: Human Health",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Three reasons of sickness are germs, shortage of healthy food and pollution.</li><li>A disease which can be transmitted from one person to another is a contagious disease, for example flu, polio, Tuberculosis (TB), hepatitis and COVID-19. Diabetes and cancer are non-contagious diseases.</li><li>Polio is caused by a virus. Milk contains the most calcium among the given foods.</li><li>For prevention from contagious diseases it is necessary to wear a mask, wash hands and get vaccinated.</li><li>In vaccination, weak or dead germs are injected into the body; antibodies are produced in the blood and immunity develops.</li><li>A balanced diet contains different kinds of food in proper quantities from all four groups: dairy, grain, meat/protein, and fruit and vegetable.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> If our body temperature increases from 98.6°F to 101°F then it's cause is:</p><p><strong>Options:</strong> (a) hot weather (b) fever (c) sitting in the sun (d) sitting near fire</p><p><strong>Correct answer:</strong> fever</p><p><strong>Q:</strong> In which food most of the calcium is found?</p><p><strong>Options:</strong> (a) Meat (b) Rice (c) Milk (d) Pulse</p><p><strong>Correct answer:</strong> Milk</p><p><strong>Q:</strong> If you have flu then what you will do to save yourself and others?</p><p><strong>Options:</strong> (a) will exercise (b) will sleep for more time (c) will sit in the sun (d) will wear mask</p><p><strong>Correct answer:</strong> will wear mask</p><p><strong>Q:</strong> What is the cause of polio?</p><p><strong>Options:</strong> (a) Bacteria (b) Virus (c) House fly (d) Mosquito</p><p><strong>Correct answer:</strong> Virus</p><p><strong>Q:</strong> It is necessary for the prevention from contagious disease:</p><p><strong>Options:</strong> (a) Wearing mask, washing hand, vaccination. (b) Wearing mask, washing hand sitting in the sun. (c) Washing hands, sitting in the sun, sleeping more. (d) Vaccination, washing hand, not sitting in the sun.</p><p><strong>Correct answer:</strong> Wearing mask, washing hand, vaccination.</p>",
+     "mcqs": [
+      {
+       "q": "If our body temperature increases from 98.6°F to 101°F then it's cause is:",
+       "options": [
+        "fever",
+        "hot weather",
+        "sitting in the sun",
+        "sitting near fire"
+       ],
+       "answer": 0,
+       "why": "The normal body temperature is 98.6°F. If our body temperature increases from 98.6°F to 101°F, its cause is fever, not hot weather or sitting in the sun or near fire."
+      },
+      {
+       "q": "In which food most of the calcium is found?",
+       "options": [
+        "Meat",
+        "Milk",
+        "Rice",
+        "Pulse"
+       ],
+       "answer": 1,
+       "why": "Milk contains the most calcium among the given foods. Milk is in the dairy group of food, which is rich in calcium that makes our bones and teeth strong."
+      },
+      {
+       "q": "If you have flu then what you will do to save yourself and others?",
+       "options": [
+        "will exercise",
+        "will sleep for more time",
+        "will wear mask",
+        "will sit in the sun"
+       ],
+       "answer": 2,
+       "why": "Flu is a contagious disease that spreads from one person to another. If you have flu, you will wear a mask to save yourself and others from the germs."
+      },
+      {
+       "q": "What is the cause of polio?",
+       "options": [
+        "Bacteria",
+        "House fly",
+        "Mosquito",
+        "Virus"
+       ],
+       "answer": 3,
+       "why": "Polio is a contagious disease caused by a virus. Bacteria, house flies and mosquitoes are not the cause of polio itself."
+      },
+      {
+       "q": "It is necessary for the prevention from contagious disease:",
+       "options": [
+        "Wearing mask, washing hand, vaccination.",
+        "Wearing mask, washing hand sitting in the sun.",
+        "Washing hands, sitting in the sun, sleeping more.",
+        "Vaccination, washing hand, not sitting in the sun."
+       ],
+       "answer": 0,
+       "why": "For the prevention from contagious diseases it is necessary to wear a mask, wash hands and get vaccination. Sitting in the sun or sleeping more does not prevent contagious diseases."
+      },
+      {
+       "q": "Which one of the following is a contagious disease?",
+       "options": [
+        "Diabetes",
+        "Cancer",
+        "Flu",
+        "Fever"
+       ],
+       "answer": 2,
+       "why": "A disease which can be transmitted from one person to another is called a contagious disease, for example flu, polio, Tuberculosis (TB), hepatitis and COVID-19. Diabetes and cancer are non-contagious."
+      },
+      {
+       "q": "In vaccination, what is injected into the body?",
+       "options": [
+        "Strong living germs",
+        "Weak or dead germs of a disease",
+        "Only water",
+        "Antibodies of animals"
+       ],
+       "answer": 1,
+       "why": "In the vaccination process, the weak or dead germs of a disease are injected into the body. Antibodies are then produced in the blood to fight the disease and immunity develops."
+      },
+      {
+       "q": "A balanced diet contains food from:",
+       "options": [
+        "only one food group",
+        "two food groups",
+        "all four food groups in proper quantities",
+        "no food group"
+       ],
+       "answer": 2,
+       "why": "A balanced diet contains different kinds of food in proper quantities and proportions from all four groups: dairy group, grain group, meat/protein group and fruit and vegetable group."
+      },
+      {
+       "q": "Which one of the following is NOT a reason of sickness?",
+       "options": [
+        "Germs",
+        "Shortage of healthy food",
+        "Pollution",
+        "Balanced diet"
+       ],
+       "answer": 3,
+       "why": "Three reasons of sickness are germs, shortage of healthy food and pollution. By taking a balanced diet we remain healthy and energetic, so it is not a reason of sickness."
+      },
+      {
+       "q": "The normal temperature of our body is:",
+       "options": [
+        "96.6°F",
+        "98.6°F",
+        "100°F",
+        "101°F"
+       ],
+       "answer": 1,
+       "why": "The normal body temperature is 98.6°F. When it increases to 101°F, it is fever, which is a sign of sickness in the body."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Coughing is an instant response of the body that removes the obstruction of the windpipe, such as mucus.</li><li>Filtration separates the particles present in water through a filter, but it does not kill germs.</li><li>Germs in water are killed by boiling the water for 5 to 10 minutes; chlorine is used for this purpose in large filtration plants.</li><li>Water can be made suitable for drinking by boiling and by filtration.</li><li>Healthy life: take a balanced diet, drink clean water, exercise regularly, brush teeth twice a day, wash hands with soap for at least 20 seconds, and sleep 8 to 10 hours daily (children).</li><li>If the body temperature rises from 98.6°F to 101°F, the cause is fever; if you have flu, wear a mask to save yourself and others.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Write any three reasons of sickness.</p><p><strong>Ans:</strong> Three reasons of sickness given in the chapter are germs, shortage of healthy food and pollution. Germs cause many diseases, and we fall ill when we do not get proper healthy food. Pollution also makes people sick.</p><p><strong>Q:</strong> Differentiate between contagious and non-contagious diseases.</p><p><strong>Ans:</strong> A disease which can be transmitted from one person to another person is called a contagious disease, for example flu, polio, Tuberculosis (TB), hepatitis and COVID-19. A non-contagious disease is not transmitted from one person to another, for example diabetes and cancer.</p><p><strong>Q:</strong> Write a benefit of coughing?</p><p><strong>Ans:</strong> Cough is an instant response of our body due to the soreness and scratchiness of the throat. The benefit of coughing is that it removes the obstruction of the windpipe, such as mucus of the wind pipe.</p><p><strong>Q:</strong> How does vaccination save us from diseases?</p><p><strong>Ans:</strong> In the vaccination process, the weak or dead germs of a disease are injected into the body. Antibodies are then produced in the blood to fight the disease and immunity develops in the body. In this way vaccination improves the immunity of the body and saves us from diseases.</p><p><strong>Q:</strong> What is meant by balanced diet?</p><p><strong>Ans:</strong> A diet that contains different kinds of food in proper quantities and proportions to fulfil the need of the body is called a balanced diet. It includes food from all four groups: dairy group, grain group, meat/protein group and fruit and vegetable group. By taking a balanced diet we remain healthy and energetic.</p><p><strong>Q:</strong> Look at the picture of drinking water filtration plant for the public and write the answers. i. What is the function of filter?</p><p><strong>Ans:</strong> The function of a filter is to clean water by separating the particles present in it. When water is passed through the filter, the particles present in water cannot pass through the pores of the filter and we get clean water. This process is called filtration.</p><p><strong>Q:</strong> Can filtration also stops the germs?</p><p><strong>Ans:</strong> No. Filtration only separates the particles present in water; it does not kill the germs. That is why chlorine is used in large filtration plants to kill the germs, and at home germs are killed by boiling the water.</p><p><strong>Q:</strong> How can germs be killed in water?</p><p><strong>Ans:</strong> Germs in water can be killed by boiling. Keep on heating water in a pot till boiling, then let it boil for another 5 to 10 minutes; due to this the germs present in water will be killed. Chlorine is also used for this purpose in large filtration plants.</p><p><strong>Q:</strong> How can water be made suitable for drinking?</p><p><strong>Ans:</strong> Water can be made clean and suitable for drinking by two methods: boiling and filtration. Boiling kills the germs present in water, and filtration separates the particles present in water through a filter, so we get clean water.</p>",
+     "mcqs": [
+      {
+       "q": "The benefit of coughing is that it:",
+       "options": [
+        "spreads germs in the air",
+        "removes the obstruction of the windpipe",
+        "makes the throat sore",
+        "stops breathing"
+       ],
+       "answer": 1,
+       "why": "Cough is an instant response of our body due to the soreness and scratchiness of the throat. Its benefit is that it removes the obstruction of the windpipe, such as mucus of the windpipe."
+      },
+      {
+       "q": "Filtration of water separates:",
+       "options": [
+        "the germs present in water",
+        "the particles present in water",
+        "the colour of water only",
+        "the taste of water only"
+       ],
+       "answer": 1,
+       "why": "The function of a filter is to clean water by separating the particles present in it. The particles cannot pass through the pores of the filter, so we get clean water. This process is called filtration."
+      },
+      {
+       "q": "Filtration alone cannot make water germ-free because it:",
+       "options": [
+        "does not kill the germs",
+        "adds more germs",
+        "removes all the water",
+        "changes the water into steam"
+       ],
+       "answer": 0,
+       "why": "Filtration only separates the particles present in water; it does not kill the germs. That is why chlorine is used in large filtration plants to kill the germs, and at home germs are killed by boiling."
+      },
+      {
+       "q": "Germs in water are killed by boiling the water for:",
+       "options": [
+        "1 minute",
+        "2 minutes",
+        "5 to 10 minutes",
+        "1 hour"
+       ],
+       "answer": 2,
+       "why": "Keep on heating water in a pot till boiling, then let it boil for another 5 to 10 minutes; due to this the germs present in water will be killed."
+      },
+      {
+       "q": "In large filtration plants, germs are killed by using:",
+       "options": [
+        "sand",
+        "chlorine",
+        "soap",
+        "salt"
+       ],
+       "answer": 1,
+       "why": "Filtration separates particles but does not kill germs, so chlorine is used in large filtration plants to kill the germs in water."
+      },
+      {
+       "q": "Water can be made suitable for drinking by:",
+       "options": [
+        "boiling and filtration",
+        "cooling and freezing",
+        "adding colour",
+        "keeping it uncovered"
+       ],
+       "answer": 0,
+       "why": "Water can be made clean and suitable for drinking by two methods: boiling, which kills the germs, and filtration, which separates the particles present in water."
+      },
+      {
+       "q": "For how many seconds should we wash hands properly with soap?",
+       "options": [
+        "At least 5 seconds",
+        "At least 10 seconds",
+        "At least 20 seconds",
+        "At least 60 seconds"
+       ],
+       "answer": 2,
+       "why": "One principle of a healthy life is to wash hands properly with soap for at least 20 seconds before and after meals and after using the toilet."
+      },
+      {
+       "q": "Children must sleep daily for:",
+       "options": [
+        "4 to 6 hours",
+        "6 to 8 hours",
+        "8 to 10 hours",
+        "12 to 14 hours"
+       ],
+       "answer": 2,
+       "why": "Getting enough sleep is a principle of living a healthy life, and children must sleep 8 to 10 hours daily."
+      },
+      {
+       "q": "Antibodies are produced in the blood after vaccination to:",
+       "options": [
+        "make us sleepy",
+        "fight the disease and develop immunity",
+        "increase body temperature",
+        "spread the disease"
+       ],
+       "answer": 1,
+       "why": "When weak or dead germs are injected in vaccination, antibodies are produced in the blood to fight the disease and immunity develops in the body, which saves us from diseases."
+      },
+      {
+       "q": "Which one of the following is a non-contagious disease?",
+       "options": [
+        "Flu",
+        "Polio",
+        "Hepatitis",
+        "Diabetes"
+       ],
+       "answer": 3,
+       "why": "A non-contagious disease is not transmitted from one person to another, for example diabetes and cancer. Flu, polio and hepatitis are contagious diseases."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> Interview a doctor or a health worker and enquire about the principles of living a healthy life. Write in the table.</p><p><strong>Ans:</strong> The principles of living a healthy life, as given in this chapter, are: 1. Take a balanced diet with proper quantity of food from all food groups. 2. Drink clean water. 3. Exercise regularly, for example walking, running and playing. 4. Brush your teeth twice a day, once in the morning after getting up and at night before going to sleep, and wash hands properly with soap for at least 20 seconds before and after meals and after using the toilet. 5. Get enough sleep; children must sleep 8 to 10 hours daily, and protect yourself from diseases by wearing a mask and getting vaccinated.</p><p><strong>Q:</strong> Project: Observe the kitchen of your home — what is observed and what is written in the table?</p><p><strong>Ans:</strong> Observe the kitchen of your home and find out the factors which may cause diseases, and fill the table with columns Serial No, Factor, Cause of Spreading Disease and Way of Prevention. Examples from the chapter are: uncovered food and polluted water in the kitchen let germs reach our food and water, and germs are transmitted through polluted water, food or blood and cause diseases like hepatitis, cholera and typhoid; dirty hands also carry germs to food. Prevention is to drink clean (boiled or filtered) water, keep food covered and clean, and wash hands properly with soap before and after meals.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Matter and its Characteristics",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Anything which occupies space and possesses mass is called matter. Matter occurs in three states: solid, liquid and gas.</li><li>Solids have a definite shape and volume; liquids have a definite volume but no definite shape; gases have no definite shape and volume.</li><li>Gas has the lowest density because its particles are much farther apart from one another than in a solid or a liquid.</li><li>Metal is a better conductor of heat than wood, so cooking utensils are made of metals like iron, copper and aluminium.</li><li>Rubber is a non-conductor; it does not allow electricity to pass through it, so rubber gloves protect an electrician from electric shock.</li><li>Ice floats on the surface of water, partly above it. The order of water, ice and steam from coldest to hottest is: ice, water, steam.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Which one of these has the most volume?</p><p><strong>Options:</strong> (a) Book (b) Pencil (c) Eraser (d) Cricketbat</p><p><strong>Correct answer:</strong> Cricketbat</p><p><strong>Q:</strong> Which one of these groups is the correct example of the three states of matter?</p><p><strong>Options:</strong> (a) Snow, Rain, Cloud (b) Dew, Rain, Water vapours (c) Snow, Cloud, Steam (d) Rain, Water vapours, Cloud</p><p><strong>Correct answer:</strong> Snow, Rain, Cloud</p><p><strong>Q:</strong> Put two spoons made of steel and wood in a cup of hot water. After few minutes the steel spoon become hot whereas, the wooden spoon does not become hot. What does it show?</p><p><strong>Options:</strong> (a) The steel became hot soon in the presence of wood. (b) Metal is a better conductor of heat than wood. (c) Wood is a better conductor of heat than metal. (d) Metal heats the water quickly than wood.</p><p><strong>Correct answer:</strong> Metal is a better conductor of heat than wood.</p><p><strong>Q:</strong> A piece of ice has been put into a glass of water. Which picture is showing the correct position of the ice?</p><p><strong>Options:</strong> (a) A - ice sunk to the bottom of the glass (b) B - ice sunk in the middle of the water (c) C - ice in the upper middle of the water, fully under the surface (d) D - ice floating at the surface of the water, partly above it</p><p><strong>Correct answer:</strong> D - ice floating at the surface of the water, partly above it</p><p><strong>Q:</strong> Water, ice and steam all have different temperatures. What is the order from coldest to hottest?</p><p><strong>Options:</strong> (a) Steam, Ice, Water (b) Ice, Steam, Water (c) Steam, Water, Ice (d) Ice, Water, Steam</p><p><strong>Correct answer:</strong> Ice, Water, Steam</p>",
+     "mcqs": [
+      {
+       "q": "Which one of these has the most volume?",
+       "options": [
+        "Cricketbat",
+        "Book",
+        "Pencil",
+        "Eraser"
+       ],
+       "answer": 0,
+       "why": "Volume is the space occupied by a thing. Among a book, a pencil, an eraser and a cricket bat, the cricket bat is the biggest, so it has the most volume."
+      },
+      {
+       "q": "Which one of these groups is the correct example of the three states of matter?",
+       "options": [
+        "Dew, Rain, Water vapours",
+        "Snow, Rain, Cloud",
+        "Snow, Cloud, Steam",
+        "Rain, Water vapours, Cloud"
+       ],
+       "answer": 1,
+       "why": "The three states of matter are solid, liquid and gas. Snow is the solid form of water, rain is liquid water, and clouds are made of water vapour, the gas form, so this group shows all three states."
+      },
+      {
+       "q": "Put two spoons made of steel and wood in a cup of hot water. After few minutes the steel spoon become hot whereas, the wooden spoon does not become hot. What does it show?",
+       "options": [
+        "The steel became hot soon in the presence of wood.",
+        "Wood is a better conductor of heat than metal.",
+        "Metal is a better conductor of heat than wood.",
+        "Metal heats the water quickly than wood."
+       ],
+       "answer": 2,
+       "why": "The steel spoon became hot while the wooden spoon did not. This shows that metal is a better conductor of heat than wood, so heat passed quickly through the steel spoon."
+      },
+      {
+       "q": "A piece of ice has been put into a glass of water. Which picture is showing the correct position of the ice?",
+       "options": [
+        "A - ice sunk to the bottom of the glass",
+        "B - ice sunk in the middle of the water",
+        "C - ice in the upper middle of the water, fully under the surface",
+        "D - ice floating at the surface of the water, partly above it"
+       ],
+       "answer": 3,
+       "why": "Ice is lighter than water, so a piece of ice floats at the surface of the water, partly above it. It does not sink to the bottom or stay fully under the surface."
+      },
+      {
+       "q": "Water, ice and steam all have different temperatures. What is the order from coldest to hottest?",
+       "options": [
+        "Ice, Water, Steam",
+        "Steam, Ice, Water",
+        "Ice, Steam, Water",
+        "Steam, Water, Ice"
+       ],
+       "answer": 0,
+       "why": "Ice is the coldest, then water, and steam is the hottest. So the order from coldest to hottest is: Ice, Water, Steam."
+      },
+      {
+       "q": "Anything which occupies space and possesses mass is called:",
+       "options": [
+        "energy",
+        "matter",
+        "force",
+        "machine"
+       ],
+       "answer": 1,
+       "why": "Anything which occupies space and possesses mass is called matter. Matter generally occurs in three states: solid, liquid and gas, for example a brick is a solid and water is a liquid."
+      },
+      {
+       "q": "Which state of matter has a definite shape and volume?",
+       "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Steam"
+       ],
+       "answer": 0,
+       "why": "Solids have a definite shape and volume; their particles are strongly attached with each other. Liquids have a definite volume but no definite shape, and gases have neither."
+      },
+      {
+       "q": "Which state of matter has the lowest density?",
+       "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Ice"
+       ],
+       "answer": 2,
+       "why": "Gas has the lowest density. The particles in a gas are much farther apart from one another than in a solid or a liquid, so the mass present in a definite volume is the least in a gas. (The book prints the word as 'destiny'; it means density.)"
+      },
+      {
+       "q": "Cooking utensils are made of metals because metals are:",
+       "options": [
+        "bad conductors of heat",
+        "good conductors of heat",
+        "non-conductors of heat",
+        "soft and weak"
+       ],
+       "answer": 1,
+       "why": "Cooking utensils are made of metals because metals are good conductors of heat, for example iron, copper and aluminium. Heat passes quickly through the metal to the food inside."
+      },
+      {
+       "q": "Which one of the following is a liquid?",
+       "options": [
+        "Brick",
+        "Table",
+        "Water",
+        "Steam"
+       ],
+       "answer": 2,
+       "why": "Water is a liquid: it has a definite volume but no definite shape and takes the shape of the vessel. A brick and a table are solids, and steam is a gas."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>In a solid, particles are strongly attached, have strong forces of attraction and vibrate about their mean position. In a gas, particles are far apart, move fast and can move freely in all directions.</li><li>Liquids take the shape of the vessel in which they are poured, but their volume remains the same.</li><li>Metals are shiny; some are hard and strong (iron) and some are soft (gold, silver, copper). Metals are used for bells because they give a clear ringing sound, and for ornaments because they are shiny.</li><li>Copper and aluminium allow electricity to pass and are used for electric wires; wood and rubber are non-conductors.</li><li>A cricket bat has more volume than a book, a pencil or an eraser.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Define matter and write the name of its three states.</p><p><strong>Ans:</strong> Anything which occupies space and possesses mass is called matter. Matter generally occurs in three states: solid, liquid and gas. For example, a brick is a solid, water is a liquid and the steam rising from boiling water is a gas.</p><p><strong>Q:</strong> Differentiate between solid and liquid.</p><p><strong>Ans:</strong> Solids have a definite shape and volume; their particles are strongly attached with each other and they cannot be easily pressed, for example book, table, pen and chair. Liquids have a definite volume but no definite shape; they take the shape of the vessel in which they are poured, for example water poured from a cup into a glass changes its shape but its volume remains the same.</p><p><strong>Q:</strong> Which state of matter has lowest destiny?</p><p><strong>Ans:</strong> Gas has the lowest density. The particles in a gas are much farther apart from one another than in a solid or a liquid, so the mass present in a definite volume is the least in a gas. (The book prints this word as 'destiny'; it means density.)</p><p><strong>Q:</strong> Compare the arrangement of particles in solid and gas.</p><p><strong>Ans:</strong> In a solid, the particles are strongly attached with each other, have strong forces of attraction, and vibrate to and fro about their mean position, so solids maintain a definite shape and volume. In a gas, the particles are much farther apart from one another, move fast because of weaker forces of attraction, and can move freely in all directions and occupy all the available space, so gases have no definite shape and volume.</p><p><strong>Q:</strong> Why are the cooking utensils made of metals?</p><p><strong>Ans:</strong> Cooking utensils are made of metals because metals are good conductors of heat, for example iron, copper and aluminium. Heat passes quickly through the metal to the food inside, so the food cooks properly. Metals are also usually hard and strong, so the utensils do not break easily.</p><p><strong>Q:</strong> Why does the electrician wear rubber gloves during repairing of electric switch at your home?</p><p><strong>Ans:</strong> Rubber is a non-conductor: it does not allow electricity (and heat) to pass through it, like wood and rubber given in the chapter as non-conductors. Metals such as copper and aluminium allow electricity to pass and are used for electric wires, but rubber gloves stop the electricity from reaching the electrician's hands. So the gloves protect him from an electric shock while repairing the switch.</p>",
+     "mcqs": [
+      {
+       "q": "In a solid, the particles:",
+       "options": [
+        "are far apart and move freely",
+        "are strongly attached and vibrate about their mean position",
+        "do not attract each other",
+        "occupy all the available space"
+       ],
+       "answer": 1,
+       "why": "In a solid, the particles are strongly attached with each other, have strong forces of attraction, and vibrate to and fro about their mean position, so solids maintain a definite shape and volume."
+      },
+      {
+       "q": "When water is poured from a cup into a glass, its shape changes but its volume:",
+       "options": [
+        "increases",
+        "decreases",
+        "remains the same",
+        "becomes zero"
+       ],
+       "answer": 2,
+       "why": "Liquids have a definite volume but no definite shape; they take the shape of the vessel in which they are poured. Water poured from a cup into a glass changes its shape but its volume remains the same."
+      },
+      {
+       "q": "In a gas, the particles move fast because:",
+       "options": [
+        "the forces of attraction are strong",
+        "the forces of attraction are weaker",
+        "they are strongly attached",
+        "they cannot move"
+       ],
+       "answer": 1,
+       "why": "In a gas, the particles are much farther apart from one another, move fast because of weaker forces of attraction, and can move freely in all directions and occupy all the available space."
+      },
+      {
+       "q": "An electrician wears rubber gloves while repairing a switch because rubber:",
+       "options": [
+        "is a good conductor of electricity",
+        "does not allow electricity to pass through it",
+        "is a metal",
+        "becomes hot quickly"
+       ],
+       "answer": 1,
+       "why": "Rubber is a non-conductor: it does not allow electricity to pass through it. The gloves stop the electricity from reaching the electrician's hands and protect him from an electric shock."
+      },
+      {
+       "q": "Metal is used in a bell because:",
+       "options": [
+        "metals are soft and dull",
+        "metals give a clear ringing sound and do not break easily",
+        "metals cannot be shaped",
+        "metals are non-conductors"
+       ],
+       "answer": 1,
+       "why": "Metal is used in the bell because metals usually have more density and give a clear ringing sound when struck. Metals are also hard and strong, so a metal bell does not break."
+      },
+      {
+       "q": "Metals are preferred for making ornaments because all metals are:",
+       "options": [
+        "rough",
+        "dull",
+        "shiny",
+        "liquid"
+       ],
+       "answer": 2,
+       "why": "Metals are preferred for making ornaments because all the metals are shiny, which makes the ornaments look beautiful. Soft metals like gold, silver and copper can easily be shaped into ornaments."
+      },
+      {
+       "q": "Which metals are used for electric wires?",
+       "options": [
+        "Gold and silver",
+        "Copper and aluminium",
+        "Iron and gold",
+        "Silver and iron"
+       ],
+       "answer": 1,
+       "why": "Metals such as copper and aluminium allow electricity to pass through them and are used for electric wires, while rubber and wood are non-conductors."
+      },
+      {
+       "q": "Which metal is hard and strong and used to make tools and machines?",
+       "options": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Iron"
+       ],
+       "answer": 3,
+       "why": "Iron is a shiny, hard and strong metal of grey colour. It is used to make tools, machines and cooking utensils. Gold, silver and copper are soft metals."
+      },
+      {
+       "q": "Aluminium is used as foil to cover cooked food because it is:",
+       "options": [
+        "a heavy metal",
+        "a light metal",
+        "a non-metal",
+        "a liquid metal"
+       ],
+       "answer": 1,
+       "why": "Aluminium is a shiny, light metal used for utensils and wire and as foil to cover cooked food. Most metals are grey, while aluminium is light blue in colour."
+      },
+      {
+       "q": "Which one of the following is a non-conductor?",
+       "options": [
+        "Copper",
+        "Aluminium",
+        "Wood",
+        "Iron"
+       ],
+       "answer": 2,
+       "why": "Wood and rubber are given in the chapter as non-conductors: they do not allow electricity and heat to pass through them easily. Copper, aluminium and iron are metals and conductors."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> Why is metal used in the bell?</p><p><strong>Ans:</strong> Metal is used in the bell because metals usually have more density, and if you strike any metal you can hear the sound of the metal due to its density. Metals are also hard and strong, so a metal bell gives a clear ringing sound and does not break.</p><p><strong>Q:</strong> Why are metals preferred for making ornaments?</p><p><strong>Ans:</strong> Metals are preferred for making ornaments because all the metals are shiny, which makes the ornaments look beautiful. Some metals such as gold, silver and copper are soft, so they can easily be shaped and made into ornaments, foil sheets and wires.</p><p><strong>Q:</strong> Project: Collect five types of metals — what is observed and written?</p><p><strong>Ans:</strong> Collect five types of metals, observe them and write their properties in a table with columns Serial No., Metal, Appearance, Texture and Colour. From the chapter: 1. Gold - shiny, soft, yellow. 2. Copper - shiny, soft, reddish; used to make wire. 3. Silver - shiny, soft, white. 4. Aluminium - shiny, light metal, light blue (most metals are grey); used for utensils and wire and as foil to cover cooked food. 5. Iron - shiny, hard and strong, grey; used to make tools, machines and cooking utensils. The observation is that all metals are shiny, they are usually solid, some are hard and strong and some are soft, and they occur in various colours.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Forms of Energy and Energy Transfer",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Light, heat, sound and electrical energy are forms of energy; water is not a form of energy.</li><li>Sound is produced by vibrations and needs a medium to travel, so sound cannot travel through space. Light and heat can travel through space without a medium.</li><li>We hear an echo when sound comes back after bouncing off a wall at a certain distance.</li><li>Sunlight has seven colours: red, orange, yellow, green, blue, indigo and violet. A rainbow is seen after rain when sunlight passes through water droplets.</li><li>In a television, electrical energy is transformed into light energy and sound energy. Electrical energy can also be transformed into heat.</li><li>Heat always travels from a hot object to a cold object. If a hand is taken nearer to the lighted lamp than to the wall, its shadow will be bigger.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Which of the following is NOT a form of energy?</p><p><strong>Options:</strong> (a) Light (b) Sound (c) Water (d) Heat</p><p><strong>Correct answer:</strong> Water</p><p><strong>Q:</strong> We hear echo when sound:</p><p><strong>Options:</strong> (a) reaches us direct from the source. (b) comes after bouncing back from a wall at a certain distance. (c) comes from a loud speaker. (d) is very loud.</p><p><strong>Correct answer:</strong> comes after bouncing back from a wall at a certain distance.</p><p><strong>Q:</strong> How many colours are present in sunlight?</p><p><strong>Options:</strong> (a) 1 (b) 3 (c) 5 (d) 7</p><p><strong>Correct answer:</strong> 7</p><p><strong>Q:</strong> If you take your hand nearer to the lighted lamp than to the wall, the shadow of your hand:</p><p><strong>Options:</strong> (a) will not form. (b) will be smaller. (c) will be bigger. (d) will be of the same size.</p><p><strong>Correct answer:</strong> will be bigger.</p><p><strong>Q:</strong> Electrical energy can be transformed into:</p><p><strong>Options:</strong> (a) heat. (b) light. (c) sound. (d) all of these.</p><p><strong>Correct answer:</strong> all of these.</p>",
+     "mcqs": [
+      {
+       "q": "Which of the following is NOT a form of energy?",
+       "options": [
+        "Water",
+        "Light",
+        "Sound",
+        "Heat"
+       ],
+       "answer": 0,
+       "why": "Light, sound and heat are forms of energy. Water is a form of matter, not a form of energy, so water is the one that is NOT a form of energy."
+      },
+      {
+       "q": "We hear echo when sound:",
+       "options": [
+        "reaches us direct from the source.",
+        "comes after bouncing back from a wall at a certain distance.",
+        "comes from a loud speaker.",
+        "is very loud."
+       ],
+       "answer": 1,
+       "why": "We hear an echo when sound comes after bouncing back from a wall at a certain distance. The sound that reaches us direct from the source is not an echo."
+      },
+      {
+       "q": "How many colours are present in sunlight?",
+       "options": [
+        "1",
+        "3",
+        "7",
+        "5"
+       ],
+       "answer": 2,
+       "why": "Sunlight is made of seven colours: red, orange, yellow, green, blue, indigo and violet. These seven colours are also seen in a rainbow."
+      },
+      {
+       "q": "If you take your hand nearer to the lighted lamp than to the wall, the shadow of your hand:",
+       "options": [
+        "will not form.",
+        "will be smaller.",
+        "will be of the same size.",
+        "will be bigger."
+       ],
+       "answer": 3,
+       "why": "A shadow becomes bigger when the object is nearer to the light source. If you take your hand nearer to the lighted lamp than to the wall, the shadow of your hand will be bigger."
+      },
+      {
+       "q": "Electrical energy can be transformed into:",
+       "options": [
+        "Heat, light and sound",
+        "heat.",
+        "light.",
+        "sound."
+       ],
+       "answer": 0,
+       "why": "Electrical energy can be transformed into heat (as in an iron), light (as in a bulb) and sound (as in a radio or television), so it can change into heat, light and sound."
+      },
+      {
+       "q": "Which one of the following is a form of energy?",
+       "options": [
+        "Water",
+        "Wood",
+        "Heat",
+        "Stone"
+       ],
+       "answer": 2,
+       "why": "Heat is a form of energy, like light, sound and electrical energy. Water, wood and stone are forms of matter, not energy."
+      },
+      {
+       "q": "Sound cannot travel through space because:",
+       "options": [
+        "space is very hot",
+        "there is no air or medium in space",
+        "space is too bright",
+        "sound is too slow"
+       ],
+       "answer": 1,
+       "why": "Sound is produced by vibrations and these vibrations reach our ears through the particles of the air, so sound needs a medium to travel. There is no air in space, so sound cannot travel there."
+      },
+      {
+       "q": "In a television, electrical energy is transformed into:",
+       "options": [
+        "light energy and sound energy",
+        "heat energy only",
+        "sound energy only",
+        "no other form"
+       ],
+       "answer": 0,
+       "why": "In a television, electrical energy is transformed into light energy and sound energy. The light gives us the picture on the screen and the sound lets us hear the voices and music."
+      },
+      {
+       "q": "A rainbow is formed when sunlight passes through:",
+       "options": [
+        "dry dust in the air",
+        "drops of water suspended in the air after rain",
+        "thick clouds only",
+        "smoke of factories"
+       ],
+       "answer": 1,
+       "why": "After rain, some drops of water are suspended in the air, and when sunlight passes through these water droplets, they divide it into seven colours, like a prism. This band of seven colours is called a rainbow."
+      },
+      {
+       "q": "Which energy reaches us from the Sun across space?",
+       "options": [
+        "Sound energy",
+        "Light and heat energy",
+        "Electrical energy",
+        "No energy"
+       ],
+       "answer": 1,
+       "why": "Light and heat can travel through space. The Sun is the biggest source of energy on Earth, and its energy reaches us across space — we see it as light and feel it as heat."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>The Sun is the biggest source of energy on Earth; its light and heat reach us across space.</li><li>The buzzing of a mosquito is produced by the fast vibrations of its wings, which travel through the air to our ears.</li><li>A lighted bulb gives out heat along with light, so a thermometer brought near it shows a rise in temperature as the mercury expands.</li><li>A reflector is a shiny and smooth surface; it bounces light forward in one direction, so a torch with a reflector (Sidra's) throws more light on a wall than a torch without one (Ali's).</li><li>A simple electric circuit can be completed by joining a metal object like a nail or a key with the ends of the wire; cotton bud, plastic pen, ice-cream stick and pencil do not complete the path.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Can light and heat travel through space?</p><p><strong>Ans:</strong> Yes, light and heat can travel through space. The Sun is the biggest source of energy on Earth, and its energy reaches us across space — we see it as light and feel it as heat. Unlike sound, light and heat do not need air or any other medium to travel.</p><p><strong>Q:</strong> Why sound cannot travel through space?</p><p><strong>Ans:</strong> Sound is produced by vibrations in an object, and these vibrations reach our ears through the particles of the air, so sound needs a medium to travel. There is no air in space, so sound cannot travel there. That is why we cannot hear the sound of explosions in the Sun.</p><p><strong>Q:</strong> How do we sense the buzzing of mosquito?</p><p><strong>Ans:</strong> The buzzing of a mosquito is a sound produced by the fast vibrations of its wings. These vibrations travel through the particles of the air and reach our ears. In this way we hear and sense the buzzing of the mosquito.</p><p><strong>Q:</strong> Into which two forms, the electrical energy is transformed in a television?</p><p><strong>Ans:</strong> In a television, electrical energy is transformed into light energy and sound energy. The light gives us the picture on the screen and the sound lets us hear the voices and music. This is an example of electrical energy changing into other forms of energy.</p><p><strong>Q:</strong> When can we see rainbow? How is it formed?</p><p><strong>Ans:</strong> We can see a rainbow after rain. After rain, some drops of water are suspended in the air, and when sunlight passes through these water droplets, they divide it into seven colours — red, orange, yellow, green, blue, indigo and violet — like a prism. This band of seven colours in the sky is called a rainbow.</p><p><strong>Q:</strong> If we bring a thermometer near a lighted bulb, will the thermometer show change in temperature? If yes, would the temperature rise or fall? Explain.</p><p><strong>Ans:</strong> Yes, the thermometer will show a change and the temperature will rise. A lighted bulb gives out heat along with light, and heat always travels from a hot object to a cold object, so heat from the bulb reaches the thermometer. When the bulb of the thermometer gets this heat, the mercury inside it expands and rises in the glass tube, showing a higher temperature.</p><p><strong>Q:</strong> You are holding a glass of cold water in a room. The temperature of different things is as follows: Your temperature: 37 °C, Temperature of water: 5 °C, Temperature of room: 30 °C. Draw arrows in the picture to show the directions of the heat flow.</p><p><strong>Ans:</strong> Diagram (in words): The picture shows a hand holding a cup of cold water, with the labels 5 °C on the water in the cup, 30 °C for the room and 37 °C for the hand holding the cup. Heat always travels from a hot object to a cold object, so the arrows of heat flow point towards the cold water: one arrow from the hand (37 °C, the hottest) into the water (5 °C), and one arrow from the warmer room air (30 °C) into the water (5 °C). No arrow points away from the water, because the cold water does not give heat to the hotter hand or room.</p><p><strong>Q:</strong> Sidra has a reflector in her torch. There is no reflector in the torch of Ali. Which torch will throw more light on a wall at 5-meter distance? Tick (✓) in the right box. (Ali's torch / Sidra's torch)</p><p><strong>Ans:</strong> Sidra's torch will throw more light on the wall. The reflector in her torch is a shiny and smooth surface, so the light striking it bounces back and is sent forward in one direction, as in reflection of light. Ali's torch has no reflector, so its light spreads out and less light reaches the wall 5 metres away.</p>",
+     "mcqs": [
+      {
+       "q": "The buzzing of a mosquito is produced by:",
+       "options": [
+        "its legs rubbing together",
+        "the fast vibrations of its wings",
+        "air passing through its mouth",
+        "its body striking the air once"
+       ],
+       "answer": 1,
+       "why": "The buzzing of a mosquito is a sound produced by the fast vibrations of its wings. These vibrations travel through the particles of the air and reach our ears."
+      },
+      {
+       "q": "If we bring a thermometer near a lighted bulb, the temperature shown will:",
+       "options": [
+        "fall",
+        "rise",
+        "stay the same",
+        "become zero"
+       ],
+       "answer": 1,
+       "why": "A lighted bulb gives out heat along with light, and heat travels from a hot object to a cold object. The mercury in the thermometer expands with this heat and rises, showing a higher temperature."
+      },
+      {
+       "q": "Heat always travels:",
+       "options": [
+        "from a cold object to a hot object",
+        "from a hot object to a cold object",
+        "only upwards",
+        "only through metals"
+       ],
+       "answer": 1,
+       "why": "Heat always travels from a hot object to a cold object. That is why heat from a hand at 37 °C and from room air at 30 °C flows into cold water at 5 °C, and not away from it."
+      },
+      {
+       "q": "Sidra's torch has a reflector and Ali's torch has none. Which torch will throw more light on a wall 5 metres away?",
+       "options": [
+        "Ali's torch",
+        "Sidra's torch",
+        "Both equal",
+        "Neither"
+       ],
+       "answer": 1,
+       "why": "The reflector in Sidra's torch is a shiny and smooth surface, so the light striking it bounces back and is sent forward in one direction. Ali's torch has no reflector, so its light spreads out and less light reaches the wall."
+      },
+      {
+       "q": "To complete a broken electric circuit so that the bulb lights up, we should join the ends of the wire with:",
+       "options": [
+        "a cotton bud",
+        "a plastic ball pen",
+        "a nail or a key",
+        "an ice-cream stick"
+       ],
+       "answer": 2,
+       "why": "Metal lets the electric current pass through it, so joining a metal object — the nail or the key — with the ends of the wire completes the electric path and the bulb lights up. The cotton bud, plastic pen, ice-cream stick and pencil are not metals."
+      },
+      {
+       "q": "We cannot hear the sound of explosions in the Sun because:",
+       "options": [
+        "the Sun is too far for light",
+        "sound cannot travel through space",
+        "the Sun makes no sound",
+        "air blocks the sound"
+       ],
+       "answer": 1,
+       "why": "Sound needs a medium like air to travel, and there is no air in space. That is why we cannot hear the sound of explosions in the Sun, although its light and heat reach us."
+      },
+      {
+       "q": "The seven colours of sunlight are:",
+       "options": [
+        "red, orange, yellow, green, blue, indigo and violet",
+        "red, pink, brown, black, white, grey and blue",
+        "only red, green and blue",
+        "seven shades of yellow"
+       ],
+       "answer": 0,
+       "why": "When sunlight passes through water droplets after rain, it is divided into seven colours — red, orange, yellow, green, blue, indigo and violet — which form the rainbow."
+      },
+      {
+       "q": "A reflector in a torch is:",
+       "options": [
+        "a rough black surface",
+        "a shiny and smooth surface",
+        "a piece of cotton",
+        "a plastic cover"
+       ],
+       "answer": 1,
+       "why": "The reflector in a torch is a shiny and smooth surface, so the light striking it bounces back and is sent forward in one direction, as in the reflection of light."
+      },
+      {
+       "q": "In the experiment with cold water (5 °C), a hand (37 °C) and a room (30 °C), the heat flows:",
+       "options": [
+        "from the water to the hand and the room",
+        "towards the cold water from the hand and the room",
+        "from the room to the hand only",
+        "in no direction"
+       ],
+       "answer": 1,
+       "why": "Heat always travels from a hot object to a cold object, so the arrows of heat flow point towards the cold water: from the hand (37 °C) and from the warmer room air (30 °C) into the water (5 °C)."
+      },
+      {
+       "q": "A simple telephone made of two paper cups and a string shows that sound:",
+       "options": [
+        "does not need any medium",
+        "is produced by vibrations and travels along the string",
+        "can travel through space",
+        "is a form of light"
+       ],
+       "answer": 1,
+       "why": "When one person speaks into one cup, the vibrations of the sound travel along the tight string and the other person hears the sound in the second cup, showing that sound is produced by vibrations and needs a medium to travel."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> A simple electric circuit consists of battery, bulb and electric wire. Its electric path has broken and the bulb is not glowing. We want to complete the electric path so that bulb can light up by using the electric energy of the battery. We have cotton bud, a plastic ball pen, an ice-cream stick, nail, a key and a pencil. Which thing should we join with the ends of the wire so that electric circuit is complete and the bulb lights up?</p><p><strong>Ans:</strong> Diagram (in words): The circuit diagram shows a Bulb at the top, an Electric wire on the left side and a Battery or Cell at the bottom, with a break in the path on the right side; the objects shown below are labelled Nail, Ice-cream stick, Key, Pencil and Cotton bud (the plastic ball pen is named in the text). We should join a metal object — the nail or the key — with the ends of the wire. Metal lets the electric current pass through it, so the electric path becomes complete and the bulb lights up, while cotton bud, plastic ball pen, ice-cream stick and pencil are not metals and do not complete the path.</p><p><strong>Q:</strong> Project: Let us make a telephone — what is made and what is observed?</p><p><strong>Ans:</strong> A simple telephone is made from two paper cups, two small pieces of twig, a string or thin wire (7 metres) and a pencil or nail for making holes in the paper cups, as shown in the diagram labelled Paper Cup at each end and String or wire joining them. A hole is made in the bottom of each cup, the string or wire is passed through and tied with the twigs so that the two cups are joined by the tight string. When one person speaks into one cup, the vibrations of the sound travel along the string and the other person hears the sound in the second cup, showing that sound is produced by vibrations and needs a medium to travel.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6: Force and Motion",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Force is a push or a pull. When a body changes its position, it is called motion.</li><li>All bodies are attracted towards the Earth due to gravity. Gravity acts on all objects.</li><li>Friction is the force that stops or tends to stop moving objects; it always acts against the direction of movement.</li><li>With the same force, a toy car travels longer on a smooth marble floor than on rocky soil, brick floor or ground, because there is less friction.</li><li>A pulley is a simple machine that consists of a grooved wheel with a rope. Other simple machines are the lever, gear and ramp (inclined plane).</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> What is force?</p><p><strong>Options:</strong> (a) Push (b) Pull (c) Lift (d) Push and pull</p><p><strong>Correct answer:</strong> Push and pull</p><p><strong>Q:</strong> When a body changes its position, it is called:</p><p><strong>Options:</strong> (a) friction (b) force (c) motion (d) gravity</p><p><strong>Correct answer:</strong> motion</p><p><strong>Q:</strong> All bodies are attracted towards the Earth due to:</p><p><strong>Options:</strong> (a) force (b) friction (c) gravity (d) motion</p><p><strong>Correct answer:</strong> gravity</p><p><strong>Q:</strong> If we apply the same force on a toy car, it will travel longer on:</p><p><strong>Options:</strong> (a) rocky soil (b) marble floor (c) floor of bricks (d) ground</p><p><strong>Correct answer:</strong> marble floor</p><p><strong>Q:</strong> Which machine consists of grooved wheel?</p><p><strong>Options:</strong> (a) Lever (b) Pulley (c) Inclined plane (d) Gear</p><p><strong>Correct answer:</strong> Pulley</p>",
+     "mcqs": [
+      {
+       "q": "What is force?",
+       "options": [
+        "Push and pull",
+        "Push",
+        "Pull",
+        "Lift"
+       ],
+       "answer": 0,
+       "why": "Force is a push or a pull applied on a body. When we push or pull a body, we apply force on it and the body may start moving, change speed or stop."
+      },
+      {
+       "q": "When a body changes its position, it is called:",
+       "options": [
+        "friction",
+        "motion",
+        "force",
+        "gravity"
+       ],
+       "answer": 1,
+       "why": "When a body changes its position, it is called motion. Force, friction and gravity are forces; the change of position itself is motion."
+      },
+      {
+       "q": "All bodies are attracted towards the Earth due to:",
+       "options": [
+        "force",
+        "friction",
+        "gravity",
+        "motion"
+       ],
+       "answer": 2,
+       "why": "All bodies are attracted towards the Earth due to gravity. The Earth pulls bodies towards itself with this force, which acts on all objects."
+      },
+      {
+       "q": "If we apply the same force on a toy car, it will travel longer on:",
+       "options": [
+        "rocky soil",
+        "floor of bricks",
+        "ground",
+        "marble floor"
+       ],
+       "answer": 3,
+       "why": "A toy car travels longer where there is less friction. A marble floor is smooth, so it has less friction than rocky soil, a floor of bricks or the ground, and the car travels longer on it."
+      },
+      {
+       "q": "Which machine consists of grooved wheel?",
+       "options": [
+        "Pulley",
+        "Lever",
+        "Inclined plane",
+        "Gear"
+       ],
+       "answer": 0,
+       "why": "A pulley consists of a grooved wheel with a rope passing over it. A lever is a rod, an inclined plane is a ramp, and a gear is a toothed wheel, so the grooved wheel belongs to the pulley."
+      },
+      {
+       "q": "The force that stops or tends to stop moving objects is called:",
+       "options": [
+        "motion",
+        "gravity",
+        "friction",
+        "machine"
+       ],
+       "answer": 2,
+       "why": "Friction is the force that stops or tends to stop moving objects. It occurs when a body moves in contact with another body, and it always acts against the direction of movement."
+      },
+      {
+       "q": "Which one of the following is a simple machine?",
+       "options": [
+        "Lever",
+        "Friction",
+        "Gravity",
+        "Motion"
+       ],
+       "answer": 0,
+       "why": "Everything that makes our work easier is called a machine. Lever, pulley, gear and ramp (inclined plane) are simple machines that help make motion easier."
+      },
+      {
+       "q": "Gravity acts on:",
+       "options": [
+        "only heavy objects",
+        "only falling objects",
+        "all objects",
+        "only objects in the air"
+       ],
+       "answer": 2,
+       "why": "The Earth pulls bodies towards itself with the force called gravity, and it acts on all objects — for example leaves fall to the ground and a ball thrown upward returns to the ground."
+      },
+      {
+       "q": "Friction always acts:",
+       "options": [
+        "in the direction of movement",
+        "against the direction of movement",
+        "towards the sky",
+        "towards the Earth only"
+       ],
+       "answer": 1,
+       "why": "Friction is the force that stops or tends to stop moving objects, for example a kicked football stops after covering a certain distance. Friction always acts against the direction of movement."
+      },
+      {
+       "q": "A kicked football stops after covering a certain distance due to:",
+       "options": [
+        "gravity only",
+        "friction",
+        "a machine",
+        "its own wish"
+       ],
+       "answer": 1,
+       "why": "Friction occurs when a body moves in contact with another body. The friction between the football and the ground stops it after covering a certain distance."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Force and motion are closely related: force can start a body moving, increase or decrease its speed, change its direction, or stop it.</li><li>We cannot walk on ice easily because there is very little friction on its smooth surface; friction between the pencil tip and paper makes writing possible.</li><li>Everything that makes our work easier is called a machine; machines change the amount and direction of force.</li><li>For an icy surface the ice-skate boot with a blade is suitable; for a playground, a sports shoe with studs; for rocky soil, a strong boot with a thick rough sole.</li><li>A ramp (inclined plane) helps to take a wheelchair up to a stage because it needs less force to move objects up.</li><li>While writing we use a push force; pencils become blunt because friction wears the tip down.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> How force and motion are related? Explain.</p><p><strong>Ans:</strong> Force and motion are closely related. When we push or pull a body, we apply force on it, and the body starts moving, that is, it changes its position, which is called motion. Force can also increase or decrease the speed of a moving body, change its direction of motion, or stop it.</p><p><strong>Q:</strong> What is meant by gravity? On which objects it acts?</p><p><strong>Ans:</strong> The Earth pulls bodies towards itself with a specific force, and this force is called gravity. It acts on all objects — for example, the leaves of a tree fall to the ground, fountain water falls on the ground, and a ball thrown upward returns to the ground after reaching a certain height because of gravity.</p><p><strong>Q:</strong> Define friction. In which direction it acts?</p><p><strong>Ans:</strong> Friction is the force that stops or tends to stop moving objects. It occurs when a body moves in contact with another body, for example when a kicked football stops after covering a certain distance. Friction always acts against the direction of movement.</p><p><strong>Q:</strong> What is a machine and how does it work for us?</p><p><strong>Ans:</strong> Everything that makes our work easier is called a machine. Machines make our work easier by changing the amount and direction of force, so that heavy things can be lifted with less force. Lever, pulley, gear and ramp (inclined plane) are simple machines that help make motion easier.</p><p><strong>Q:</strong> Why cannot we walk on ice easily?</p><p><strong>Ans:</strong> We cannot walk on ice easily because there is very little friction on the smooth surface of ice. The chapter tells us that we cannot walk on Earth without friction, and if there is less friction it becomes difficult to walk. On ice our feet slip instead of gripping the ground, so walking becomes difficult.</p><p><strong>Q:</strong> Look carefully at the pictures given below. Which one of these shoes is suitable for rocky soil, which one for playground and which one for icy surface? Explain the reason in your answer.</p><p><strong>Ans:</strong> The shoe for the icy surface is the ice-skate boot with a blade (first picture), because its smooth blade slides easily over ice where there is very little friction. The shoe for the playground is the blue sports shoe with studs (middle picture), because the studs give it a better grip on the ground through friction, so the player does not slip while running. The shoe for rocky soil is the high, strong boot with laces and a thick rough sole (third picture), because it protects the foot on hard, uneven rocky ground and its rough sole provides friction for grip.</p><p><strong>Q:</strong> The patient is sitting in a wheelchair. Which machine will be helpful to take him on stage and why?</p><p><strong>Ans:</strong> The ramp (inclined plane) shown in the lower picture will be helpful, not the lever shown in the upper picture. An inclined plane is a simple machine with one end relatively higher than the other, and it requires less force and energy to move objects from one place to another. With a ramp placed against the stage, the wheelchair can be pushed easily from the bottom to the top.</p>",
+     "mcqs": [
+      {
+       "q": "Force can do which of the following to a moving body?",
+       "options": [
+        "Only start it",
+        "Increase or decrease its speed, change its direction, or stop it",
+        "Only change its colour",
+        "Nothing at all"
+       ],
+       "answer": 1,
+       "why": "Force and motion are closely related. Force can make a body start moving, increase or decrease the speed of a moving body, change its direction of motion, or stop it."
+      },
+      {
+       "q": "We cannot walk on ice easily because:",
+       "options": [
+        "ice has too much friction",
+        "there is very little friction on the smooth surface of ice",
+        "gravity does not act on ice",
+        "ice is a machine"
+       ],
+       "answer": 1,
+       "why": "We cannot walk on Earth without friction. On the smooth surface of ice there is very little friction, so our feet slip instead of gripping the ground and walking becomes difficult."
+      },
+      {
+       "q": "Machines make our work easier by:",
+       "options": [
+        "removing all force",
+        "changing the amount and direction of force",
+        "stopping all motion",
+        "increasing friction always"
+       ],
+       "answer": 1,
+       "why": "Machines make our work easier by changing the amount and direction of force, so that heavy things can be lifted with less force."
+      },
+      {
+       "q": "Which shoe is suitable for an icy surface?",
+       "options": [
+        "A sports shoe with studs",
+        "An ice-skate boot with a blade",
+        "A strong boot with a thick rough sole",
+        "A soft slipper"
+       ],
+       "answer": 1,
+       "why": "The ice-skate boot with a blade is suitable for the icy surface because its smooth blade slides easily over ice where there is very little friction."
+      },
+      {
+       "q": "The sports shoe with studs is suitable for the playground because:",
+       "options": [
+        "the studs reduce friction to zero",
+        "the studs give a better grip on the ground through friction",
+        "the studs make the shoe heavier",
+        "the studs slide on the ground"
+       ],
+       "answer": 1,
+       "why": "The studs of the sports shoe give it a better grip on the ground through friction, so the player does not slip while running in the playground."
+      },
+      {
+       "q": "Which machine will help to take a patient in a wheelchair up to a stage?",
+       "options": [
+        "Lever",
+        "Pulley",
+        "Ramp (inclined plane)",
+        "Gear"
+       ],
+       "answer": 2,
+       "why": "An inclined plane is a simple machine with one end relatively higher than the other, and it requires less force and energy to move objects. With a ramp against the stage, the wheelchair can be pushed easily from the bottom to the top."
+      },
+      {
+       "q": "While writing with a pencil, we use:",
+       "options": [
+        "a pull force only",
+        "a push force",
+        "gravity only",
+        "no force"
+       ],
+       "answer": 1,
+       "why": "While writing, we use a push force. We press the pencil against the paper and push it along to form the letters, just as throwing an object is pushing it."
+      },
+      {
+       "q": "Writing on paper is possible because of:",
+       "options": [
+        "gravity between pencil and paper",
+        "friction between the pencil tip and the paper",
+        "the colour of the pencil",
+        "the smoothness of paper"
+       ],
+       "answer": 1,
+       "why": "Friction between the pencil tip and the paper makes writing possible: the lead rubs against the paper and leaves its mark. It is difficult to write on a smooth plastic sheet, which has very little friction."
+      },
+      {
+       "q": "After using a pencil for some time, we need to sharpen it because:",
+       "options": [
+        "friction wears the tip down and makes it blunt",
+        "gravity pulls the tip away",
+        "the paper cuts the tip",
+        "the tip melts in heat"
+       ],
+       "answer": 0,
+       "why": "We need to sharpen the pencil because friction wears the pencil down as we write. The tip of the lead keeps rubbing against the paper, so due to friction it becomes blunt and worn out."
+      },
+      {
+       "q": "A pulley used for hoisting a flag makes the work easier because it:",
+       "options": [
+        "removes gravity",
+        "changes the direction of force",
+        "stops friction completely",
+        "makes the flag lighter than air"
+       ],
+       "answer": 1,
+       "why": "When the rope passing over the pulley is pulled down on one side, the flag is lifted up on the other side. The pulley changes the direction of force and makes it easier to lift things."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> Suppose you are writing on a notebook with a pencil. Answer the following questions based on observation: a) What force do you use (push or pull) while writing?</p><p><strong>Ans:</strong> While writing, we use a push force. We press the pencil against the paper and push it along to form the letters, just as throwing an object is pushing it.</p><p><strong>Q:</strong> Suppose you are writing on a notebook with a pencil. Answer the following questions based on observation: b) What is the role of friction in writing on paper with pencil?</p><p><strong>Ans:</strong> Friction between the pencil tip and the paper makes writing possible. Because of this friction, the lead of the pencil rubs against the paper and leaves its mark on the page — that is why it is easy to write on paper, which has enough friction, while it is difficult to write on a smooth plastic sheet, which has very little friction.</p><p><strong>Q:</strong> Suppose you are writing on a notebook with a pencil. Answer the following questions based on observation: c) After using the pencil, why do we need to sharp it?</p><p><strong>Ans:</strong> We need to sharpen the pencil because friction wears the pencil down as we write. The tip of the lead keeps rubbing against the paper, so due to friction it becomes blunt and worn out, just as friction causes wear and tear of shoes, tyres and machine parts. Sharpening makes the tip pointed again so that we can write clearly.</p><p><strong>Q:</strong> Project: Making a Pulley for Hoisting a Flag — what is made and what is observed?</p><p><strong>Ans:</strong> A mast (flag pole) is made in the school ground with the help of a bamboo, an iron hanger, a small wooden reel, rope, flag, plumb line and bricks, and the small wooden reel fixed at the top works as the pulley — a simple machine consisting of a grooved wheel and a rope. The national flag of Pakistan is tied to the rope passing over the pulley and hoisted with this pulley. When the rope is pulled down on one side, the flag is lifted up on the other side, showing that a pulley changes the direction of force and makes it easier to lift things.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7: The Earth and its Resources",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Natural resources are the basic materials that humans get from land, sea or air; everything we use is made from natural resources.</li><li>Renewable resources are unlimited resources which can be replaced after use, for example air, water, soil, forests and solar energy.</li><li>Non-renewable resources are limited, for example coal, petrol, diesel, natural gas and oil; they take millions of years to form and cannot be replaced easily once used.</li><li>Fossils are the remains or imprints of organisms that lived on the Earth long ago, found under rocks, soil and under the sea; they give information about extinct animals like dinosaurs.</li><li>Glass is made from sand. About 29 percent of the Earth's surface is land. About 97 percent of the water on Earth is in the oceans and only 3 percent is freshwater.</li><li>To make things reusable is called recycling. Deforestation destroys the homes of animals and reduces fresh air.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Glass is made from:</p><p><strong>Options:</strong> (a) sugar. (b) sand. (c) plastic. (d) rubber.</p><p><strong>Correct answer:</strong> sand.</p><p><strong>Q:</strong> About what percentage of the Earth's surface is land?</p><p><strong>Options:</strong> (a) 1 percent (b) 21 percent (c) 29 percent (d) 30 percent</p><p><strong>Correct answer:</strong> 29 percent</p><p><strong>Q:</strong> Remains of dead animals and plants found in the earth are called:</p><p><strong>Options:</strong> (a) soil. (b) minerals. (c) stones. (d) fossils.</p><p><strong>Correct answer:</strong> fossils.</p><p><strong>Q:</strong> To make things reusable is called:</p><p><strong>Options:</strong> (a) recycling. (b) conservation of resources. (c) care. (d) cycling.</p><p><strong>Correct answer:</strong> recycling.</p><p><strong>Q:</strong> An example of non-renewable resources is:</p><p><strong>Options:</strong> (a) oil. (b) soil. (c) air. (d) solar energy.</p><p><strong>Correct answer:</strong> oil.</p>",
+     "mcqs": [
+      {
+       "q": "Glass is made from:",
+       "options": [
+        "sand.",
+        "sugar.",
+        "plastic.",
+        "rubber."
+       ],
+       "answer": 0,
+       "why": "Glass is made from sand. Sand is melted at high temperature to make glass; sugar, plastic and rubber are not used to make glass."
+      },
+      {
+       "q": "About what percentage of the Earth's surface is land?",
+       "options": [
+        "1 percent",
+        "29 percent",
+        "21 percent",
+        "30 percent"
+       ],
+       "answer": 1,
+       "why": "About 29 percent of the Earth's surface is land. The remaining large part of the Earth's surface is covered with water, mostly in the oceans."
+      },
+      {
+       "q": "Remains of dead animals and plants found in the earth are called:",
+       "options": [
+        "soil.",
+        "minerals.",
+        "fossils.",
+        "stones."
+       ],
+       "answer": 2,
+       "why": "Remains of dead animals and plants found in the earth are called fossils. They are preserved under rocks, soil and under the sea and tell us about living things of long ago."
+      },
+      {
+       "q": "To make things reusable is called:",
+       "options": [
+        "conservation of resources.",
+        "care.",
+        "cycling.",
+        "recycling."
+       ],
+       "answer": 3,
+       "why": "To make things reusable is called recycling. Recycling saves natural resources because old things are used again instead of making everything new."
+      },
+      {
+       "q": "An example of non-renewable resources is:",
+       "options": [
+        "oil.",
+        "soil.",
+        "air.",
+        "solar energy."
+       ],
+       "answer": 0,
+       "why": "Oil is an example of a non-renewable resource: it is limited, takes millions of years to form and cannot be replaced easily. Soil, air and solar energy are renewable resources."
+      },
+      {
+       "q": "Which one of the following is a renewable resource?",
+       "options": [
+        "Coal",
+        "Petrol",
+        "Forests",
+        "Natural gas"
+       ],
+       "answer": 2,
+       "why": "Forests are called renewable resources because they can be replaced after use: new trees can be planted and grown again in place of the trees that are cut. Coal, petrol and natural gas are non-renewable."
+      },
+      {
+       "q": "About what percentage of the water on Earth is in the oceans?",
+       "options": [
+        "29 percent",
+        "50 percent",
+        "75 percent",
+        "97 percent"
+       ],
+       "answer": 3,
+       "why": "About 97% of the water present on Earth is in the oceans. Only the remaining 3% is present in glaciers, rivers, streams and lakes as freshwater."
+      },
+      {
+       "q": "Fossils provide information about:",
+       "options": [
+        "animals and plants that live today only",
+        "organisms that lived a long time ago, such as dinosaurs",
+        "the weather of next year",
+        "new machines"
+       ],
+       "answer": 1,
+       "why": "Fossils are the imprints or remains of organisms that lived on the Earth thousands of years ago. They provide information about animals and plants that do not exist now, such as dinosaurs."
+      },
+      {
+       "q": "Non-renewable resources take how long to form?",
+       "options": [
+        "A few days",
+        "A few months",
+        "Millions of years",
+        "One year"
+       ],
+       "answer": 2,
+       "why": "Non-renewable resources such as coal, petrol, diesel and natural gas take millions of years to form, and once they are used, they cannot be replaced by new ones easily."
+      },
+      {
+       "q": "The basic materials that humans get from land, sea or air are called:",
+       "options": [
+        "machines",
+        "natural resources",
+        "fossils",
+        "factories"
+       ],
+       "answer": 1,
+       "why": "The basic material that humans get from land, sea or air is called natural resources, and we obtain the basic material for making necessary items of life from them. There is no substitute for natural resources."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Forests are renewable resources because new trees can be planted and grown again in place of the trees that are cut.</li><li>Rainwater is added in rivers and streams, and snow melting on mountains also becomes water; this water flows through rivers and streams and finally falls into lakes and oceans.</li><li>Two disadvantages of deforestation: it destroys the natural habitats (homes) of animals, and it reduces fresh, oxygenated air and timber and helps cause climatic change and pollution.</li><li>A complete fossil of a jellyfish cannot be obtained easily because it is a soft animal with no hard parts; its soft body decomposes quickly after death.</li><li>From the teeth and jaws of fossil skulls we know the feed of animals: sharp, pointed teeth show a meat-eating animal, while a beak-like mouth with no sharp teeth shows a plant-eating animal.</li><li>Water is renewable, yet people face lack of clean drinking water because only 3 percent is freshwater and careless use and pollution spoil it.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> What are fossils? About which organisms do they provide information?</p><p><strong>Ans:</strong> Fossils are the imprints or remains of organisms that lived on the Earth thousands of years ago and are now found under rocks, soil and under the sea. They provide information about animals and plants that lived a long time ago and do not exist now, such as dinosaurs, which lived millions of years ago and are now extinct.</p><p><strong>Q:</strong> Why are forests called renewable resources?</p><p><strong>Ans:</strong> Forests are called renewable resources because they are unlimited resources that can be replaced after use. New trees can be planted and grown again in place of the trees that are cut, so forests can be obtained again after their use, like air, water, soil and solar energy.</p><p><strong>Q:</strong> How does water reach oceans and lakes?</p><p><strong>Ans:</strong> Rainwater is added in rivers and streams, and the snow falling on mountains also melts and becomes water. This water flows through rivers and streams from the mountains and finally falls into the lakes and oceans. About 97% of the water present on Earth is in the oceans.</p><p><strong>Q:</strong> Describe any two disadvantages of deforestation.</p><p><strong>Ans:</strong> First, forests are natural habitats for animals, so cutting forests destroys the homes of many animals. Second, forests provide us fresh and oxygenated air and timber, so deforestation reduces fresh air and land resources and helps cause climatic change and pollution.</p><p><strong>Q:</strong> Differentiate between renewable and non-renewable resources.</p><p><strong>Ans:</strong> Renewable resources are unlimited resources which can be replaced after use, for example air, water, soil, forests and solar energy. Non-renewable resources are limited resources such as coal, petrol, diesel and natural gas, which take millions of years to form, and once they are used, they cannot be replaced by new ones easily.</p><p><strong>Q:</strong> We found the skulls of various animals during the excavation. How do we know about their feed?</p><p><strong>Ans:</strong> The skulls are fossils — remains of animals preserved in soil and rocks, which are dug out during excavation. We know about their feed from the shape of their teeth and jaws: the skull with a beak-like mouth and no sharp teeth (skull 1) belonged to a plant-eating animal, while the skull with sharp, pointed teeth (skull 2) belonged to a meat-eating animal, because sharp teeth are used for tearing flesh and flat teeth or beaks are used for eating plants.</p><p><strong>Q:</strong> Jellyfish is a soft invertebrate. Can we obtain fossil of jellyfish?</p><p><strong>Ans:</strong> A complete fossil of a jellyfish cannot be obtained easily because it is a soft animal with no hard parts like bones or skeleton. Its soft body decomposes quickly after death, so no hard remains are preserved in rocks, soil or under the sea. At most, only its imprint could be preserved if it was buried quickly, like a footprint preserved in a hardened mixture.</p>",
+     "mcqs": [
+      {
+       "q": "Forests are called renewable resources because:",
+       "options": [
+        "they can never be cut",
+        "new trees can be planted and grown again in place of the trees that are cut",
+        "they are found only in cities",
+        "they do not need water"
+       ],
+       "answer": 1,
+       "why": "Forests are renewable resources because they are unlimited resources that can be replaced after use. New trees can be planted and grown again in place of the trees that are cut."
+      },
+      {
+       "q": "Water reaches oceans and lakes through:",
+       "options": [
+        "pipes only",
+        "rain falling only on oceans",
+        "rivers and streams flowing from the mountains",
+        "underground machines"
+       ],
+       "answer": 2,
+       "why": "Rainwater is added in rivers and streams, and the snow falling on mountains also melts and becomes water. This water flows through rivers and streams from the mountains and finally falls into the lakes and oceans."
+      },
+      {
+       "q": "Which one is a disadvantage of deforestation?",
+       "options": [
+        "It gives homes to animals",
+        "It destroys the natural habitats of animals",
+        "It increases fresh air",
+        "It increases timber forever"
+       ],
+       "answer": 1,
+       "why": "Forests are natural habitats for animals, so cutting forests destroys the homes of many animals. Forests also provide fresh and oxygenated air and timber, so deforestation reduces them too."
+      },
+      {
+       "q": "A complete fossil of a jellyfish cannot be obtained easily because:",
+       "options": [
+        "jellyfish live in deep water only",
+        "jellyfish are very small",
+        "jellyfish have strong bones",
+        "it is a soft animal with no hard parts and its body decomposes quickly"
+       ],
+       "answer": 3,
+       "why": "A jellyfish is a soft invertebrate with no hard parts like bones or skeleton. Its soft body decomposes quickly after death, so no hard remains are preserved in rocks, soil or under the sea."
+      },
+      {
+       "q": "A fossil skull with sharp, pointed teeth belonged to:",
+       "options": [
+        "a plant-eating animal",
+        "an animal with no teeth",
+        "a meat-eating animal",
+        "a bird with a beak"
+       ],
+       "answer": 2,
+       "why": "We know about the feed of fossil animals from the shape of their teeth and jaws: sharp, pointed teeth are used for tearing flesh, so the skull belonged to a meat-eating animal."
+      },
+      {
+       "q": "Only what percentage of the Earth's water is freshwater in glaciers, rivers, streams and lakes?",
+       "options": [
+        "3 percent",
+        "29 percent",
+        "50 percent",
+        "97 percent"
+       ],
+       "answer": 0,
+       "why": "About 97% of the water on Earth is in the oceans and only the remaining 3% is present in glaciers, rivers, streams and lakes as freshwater, so clean drinking water can become short."
+      },
+      {
+       "q": "Which one of the following is made from a natural resource obtained from a tree?",
+       "options": [
+        "A pencil made from the wood of a tree",
+        "A glass made from sand only",
+        "A brick made from clay only",
+        "Water in a river"
+       ],
+       "answer": 0,
+       "why": "Everything we use is made from natural resources in one way or the other, such as a pencil made from the wood of a tree and a rubber obtained from a rubber tree."
+      },
+      {
+       "q": "Dinosaurs are animals that:",
+       "options": [
+        "live in our forests today",
+        "live in the oceans",
+        "lived millions of years ago and are now extinct",
+        "were never real"
+       ],
+       "answer": 2,
+       "why": "Fossils provide information about animals and plants that lived a long time ago and do not exist now, such as dinosaurs, which lived millions of years ago and are now extinct."
+      },
+      {
+       "q": "If resources are used carelessly by a growing population, then:",
+       "options": [
+        "resources will keep increasing",
+        "we will have fewer resources than in the past",
+        "new resources will form in days",
+        "nothing will change"
+       ],
+       "answer": 1,
+       "why": "The Earth has limited natural resources, and non-renewable resources take millions of years to form. Growing population and lavish use are rapidly reducing them, so we have fewer resources unless we conserve them carefully."
+      },
+      {
+       "q": "Which group contains only renewable resources?",
+       "options": [
+        "Coal, petrol and diesel",
+        "Natural gas and oil",
+        "Petrol and solar energy",
+        "Air, water, soil, forests and solar energy"
+       ],
+       "answer": 3,
+       "why": "Renewable resources are unlimited resources which can be replaced after use, for example air, water, soil, forests and solar energy. Coal, petrol, diesel and natural gas are non-renewable."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> Is there anything that is not made from natural resources?</p><p><strong>Ans:</strong> No. The basic material that humans get from land, sea or air is called natural resources, and we obtain the basic material for making necessary items of life from land, sea or air. So everything we use, such as a pencil made from the wood of a tree and a rubber obtained from a rubber tree, is made from natural resources in one way or the other. There is no substitute for natural resources.</p><p><strong>Q:</strong> Water is a renewable resource. There should be plenty of water for every human being on the Earth but why is it not so?</p><p><strong>Ans:</strong> Although water is a renewable resource, about 97% of the water on Earth is in the oceans and only the remaining 3% is present in glaciers, rivers, streams and lakes as freshwater. Due to growing population and careless use, humans are facing lack of clean drinking water and water pollution, so if water is not used carefully, even this renewable resource can run out or become unusable.</p><p><strong>Q:</strong> Is it possible that we have more resources than those of the past?</p><p><strong>Ans:</strong> No, it is not possible. The Earth has limited natural resources, and non-renewable resources like coal, petrol and natural gas take millions of years to form and cannot be replaced easily once used. Growing population and lavish use of resources are rapidly reducing them, so we have fewer resources than in the past, not more, unless we conserve them carefully.</p><p><strong>Q:</strong> Project: Make a model of the flow of water from glacier to sea — what is made and what is observed?</p><p><strong>Ans:</strong> A model of the flow of water from glacier to sea is made with the help of chipboard, clay, soil, sand, water, lime, green and blue colours, toy carts and pebbles. Mountains with glaciers are shown at the high end, rivers and streams flow down from them through the land and a lake, and finally reach the sea at the low end. It is observed that water in rivers and streams flows from mountains to oceans or lakes, as rainwater and melted snow flow downwards and finally fall into lakes and oceans.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8: Earth's Weather and Climates",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Weather is the daily condition of the environment or atmosphere of a location; it is a short duration condition. Climate is the general and average weather conditions of an area over a long time.</li><li>On the basis of climate, the Earth is divided into three zones: Tropical, Temperate and Polar.</li><li>The Tropical Zone receives vertical Sun rays, so it is hot. The Polar Zone receives the most slanting and weak rays, so its climate is extremely cold.</li><li>Pakistan is located in the Temperate Zone, where the Sun rays fall slant, so the climate is mild.</li><li>Due to smoke and gases emitted from factories and vehicles, the average temperature of the Earth is increasing.</li><li>With the rise of height from sea level, the climate becomes cooler and the winter season becomes longer.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> If it rains suddenly, what do you observe?</p><p><strong>Options:</strong> (a) Weather condition (b) Climate (c) Weather and climate (d) Location</p><p><strong>Correct answer:</strong> Weather condition</p><p><strong>Q:</strong> Which zone of the Earth receives vertical Sun rays?</p><p><strong>Options:</strong> (a) Temperate (b) Tropical (c) Polar (d) All of these</p><p><strong>Correct answer:</strong> Tropical</p><p><strong>Q:</strong> The climate of the regions of Polar Zone is:</p><p><strong>Options:</strong> (a) extremely cold. (b) warm. (c) humid. (d) mild.</p><p><strong>Correct answer:</strong> extremely cold.</p><p><strong>Q:</strong> Due to the smoke and gases emitted from factories and vehicles, the average temperature of the Earth is:</p><p><strong>Options:</strong> (a) increasing. (b) decreasing. (c) not affected. (d) sometime increasing and sometime decreasing.</p><p><strong>Correct answer:</strong> increasing.</p><p><strong>Q:</strong> In how many zones the Earth is divided on the basis of climate?</p><p><strong>Options:</strong> (a) 2 (b) 3 (c) 4 (d) 5</p><p><strong>Correct answer:</strong> 3</p>",
+     "mcqs": [
+      {
+       "q": "If it rains suddenly, what do you observe?",
+       "options": [
+        "Weather condition",
+        "Climate",
+        "Weather and climate",
+        "Location"
+       ],
+       "answer": 0,
+       "why": "Sudden rain is a weather condition. Weather is the daily condition of the atmosphere of a location, which may last one or many days, while climate is the average condition over a long time."
+      },
+      {
+       "q": "Which zone of the Earth receives vertical Sun rays?",
+       "options": [
+        "Temperate",
+        "Tropical",
+        "Polar",
+        "Frigid zone"
+       ],
+       "answer": 1,
+       "why": "The Tropical Zone of the Earth receives vertical Sun rays, so it is the hot zone. The Temperate Zone receives slant rays and the Polar Zone receives the most slanting rays."
+      },
+      {
+       "q": "The climate of the regions of Polar Zone is:",
+       "options": [
+        "warm.",
+        "humid.",
+        "extremely cold.",
+        "mild."
+       ],
+       "answer": 2,
+       "why": "The climate of the regions of the Polar Zone is extremely cold, because here the Sun rays are more slanted and weak and the temperature is minimum at the poles."
+      },
+      {
+       "q": "Due to the smoke and gases emitted from factories and vehicles, the average temperature of the Earth is:",
+       "options": [
+        "decreasing.",
+        "not affected.",
+        "sometime increasing and sometime decreasing.",
+        "increasing."
+       ],
+       "answer": 3,
+       "why": "Due to the smoke and gases emitted from factories and vehicles, the average temperature of the Earth is increasing. This is making the climate of the Earth warmer."
+      },
+      {
+       "q": "In how many zones the Earth is divided on the basis of climate?",
+       "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+       ],
+       "answer": 0,
+       "why": "On the basis of climate, the Earth is divided into 3 zones: the Tropical Zone, the Temperate Zone and the Polar Zone."
+      },
+      {
+       "q": "Weather is:",
+       "options": [
+        "the average condition of an area over a long time",
+        "the daily condition of the atmosphere of a location",
+        "the condition inside a house",
+        "the temperature of the Sun"
+       ],
+       "answer": 1,
+       "why": "Weather is the daily condition of the environment or atmosphere of a location. Its duration may be one or many days, so it is a short duration condition."
+      },
+      {
+       "q": "Climate is:",
+       "options": [
+        "the weather of one day",
+        "the weather of one week",
+        "the general and average weather conditions of an area over a long time",
+        "the rain of one season only"
+       ],
+       "answer": 2,
+       "why": "Climate is the general and average weather conditions of an area, which describe the general and long-lasting weather conditions of that area, unlike weather which is for a short duration."
+      },
+      {
+       "q": "Pakistan is located in which climate zone?",
+       "options": [
+        "Tropical Zone",
+        "Temperate Zone",
+        "Polar Zone",
+        "No zone"
+       ],
+       "answer": 1,
+       "why": "Our country Pakistan is located in the Temperate Zone, which is located between the Tropical and Polar Zones. Here the Sun rays fall slant, so the climate is mild."
+      },
+      {
+       "q": "The climate of the Temperate Zone is:",
+       "options": [
+        "extremely cold",
+        "very hot",
+        "mild",
+        "always raining"
+       ],
+       "answer": 2,
+       "why": "In the Temperate Zone the Sun rays fall slant and are weak, so its climate is mild — neither as hot as the Tropical Zone nor as cold as the Polar Zone."
+      },
+      {
+       "q": "With the rise of height from sea level, the climate becomes:",
+       "options": [
+        "hotter",
+        "cooler",
+        "the same",
+        "dry only"
+       ],
+       "answer": 1,
+       "why": "With the rise of height from the sea level, the climate becomes cooler and the duration of winter season increases. Places at greater height have a cooler climate."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Near the equator the Sun rays fall vertically, so the climate is hot; as we move away from the equator the rays become more slant and weak and the climate becomes less hot, with minimum temperature at the poles.</li><li>Skardu is at a great height from sea level, so its temperature falls below zero in winter; Karachi is near the sea at low height, so its winter temperature remains mild.</li><li>On the figure of the Earth, the bands from top to bottom are: Polar Zone, Temperate Zone, Tropical Zone (around the Equator), Temperate Zone and Polar Zone.</li><li>The Moon has no air, clouds or water like the Earth, so there are no storms, rains and snowfall on the Moon and it has no weather like ours.</li><li>A wind vane shows the direction from which the wind is blowing; a rain gauge measures the amount of rain, read on a millimetre scale.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Differentiate between weather and climate.</p><p><strong>Ans:</strong> Weather is the daily condition of the environment or atmosphere of a location. Its duration may be one or many days, so it is a short duration condition. Climate is the general and average weather conditions of an area, which describe the general and long-lasting weather conditions of that area.</p><p><strong>Q:</strong> What is the relation between climate and the height from sea level?</p><p><strong>Ans:</strong> With the rise of height from the sea level, the climate becomes cooler and the duration of winter season increases. So places at greater height from sea level have a cooler climate, while places near sea level have a milder climate.</p><p><strong>Q:</strong> Why does climate change with distance from the equator?</p><p><strong>Ans:</strong> The climate or weather changes of any region depend upon falling of Sun rays vertically or slanting. Near the equator the Sun rays fall vertically, so the climate there is hot. As we move away from the equator, the Sun rays become more slant and weak and the climate becomes less hot, and eventually the temperature is minimum at the poles.</p><p><strong>Q:</strong> Why is the climate of Polar Zone very cold?</p><p><strong>Ans:</strong> The Polar Zone consists of the areas around the north and south poles of the Earth. Here, the Sun rays are more slanted and weak. Therefore, the climate of this zone is the coldest, and the temperature is minimum at the poles.</p><p><strong>Q:</strong> In which zone, our country is located on the basis of climate? Explain.</p><p><strong>Ans:</strong> Our country Pakistan is located in the Temperate Zone, which is located between the Tropical and Polar Zones. Here, the Sun rays fall slant, so the climate of this zone is mild due to weak Sun rays, and it is neither as hot as the Tropical Zone nor as cold as the Polar Zone.</p><p><strong>Q:</strong> Identify the different zones on the figure of the Earth, on the basis of climate.</p><p><strong>Ans:</strong> Diagram (in words): The figure shows the Earth as a circle divided into horizontal bands by the climate zones, with a thick black line across the middle for the Equator. From top to bottom the bands are: Polar Zone (dark band at the top), Temperate Zone (light pink band), Tropical Zone (narrow dark red band across the centre, around the Equator), Temperate Zone (light pink band) and Polar Zone (dark band at the bottom). The book's labelled diagram on printed page 96 names every label as: Polar Zone, Temperate Zone, Tropical Zone, Equator, Temperate Zone and Polar Zone.</p><p><strong>Q:</strong> What is the climate of these zones? Describe the reasons.</p><p><strong>Ans:</strong> The Tropical Zone, around the equator, is hot because here the Sun rays fall vertically. The Temperate Zone, between the Tropical and Polar Zones, has a mild climate because here the Sun rays fall slant and are weak. The Polar Zone, around the north and south poles, is the coldest because here the Sun rays are more slanted and weak.</p><p><strong>Q:</strong> In winter, the temperature of Skardu, a city of Gilgit Baltistan is below zero degree centigrade while the temperature of Karachi is mild. Why is it so?</p><p><strong>Ans:</strong> Skardu is a hilly area at a great height from sea level, and with the rise of height from the sea level, the climate becomes cooler and the duration of winter increases, so its temperature falls below zero degree centigrade in winter. Karachi is located near the sea at low height, and waterbodies make the climate of the adjacent land areas mild, so the temperature of Karachi remains mild in winter.</p>",
+     "mcqs": [
+      {
+       "q": "Near the equator, the climate is hot because:",
+       "options": [
+        "the Sun rays fall slanting there",
+        "the Sun rays fall vertically there",
+        "there is no air there",
+        "it is near the poles"
+       ],
+       "answer": 1,
+       "why": "The climate changes of any region depend upon falling of Sun rays vertically or slanting. Near the equator the Sun rays fall vertically, so the climate there is hot."
+      },
+      {
+       "q": "The temperature is minimum at the poles because:",
+       "options": [
+        "the Sun rays are vertical there",
+        "the Sun rays are the most slant and weak there",
+        "there is more water there",
+        "the wind does not blow there"
+       ],
+       "answer": 1,
+       "why": "As we move away from the equator, the Sun rays become more slant and weak and the climate becomes less hot, and eventually the temperature is minimum at the poles."
+      },
+      {
+       "q": "In winter, the temperature of Skardu falls below zero degree centigrade because Skardu:",
+       "options": [
+        "is near the sea",
+        "is a hilly area at a great height from sea level",
+        "is in the Tropical Zone",
+        "has no winter"
+       ],
+       "answer": 1,
+       "why": "Skardu is a hilly area at a great height from sea level, and with the rise of height the climate becomes cooler and the duration of winter increases, so its temperature falls below zero in winter."
+      },
+      {
+       "q": "The temperature of Karachi remains mild in winter because Karachi:",
+       "options": [
+        "is at a great height",
+        "is located near the sea at low height",
+        "is in the Polar Zone",
+        "receives vertical rays in winter"
+       ],
+       "answer": 1,
+       "why": "Karachi is located near the sea at low height, and waterbodies make the climate of the adjacent land areas mild, so the temperature of Karachi remains mild in winter."
+      },
+      {
+       "q": "In the figure of the Earth, the zone around the Equator is the:",
+       "options": [
+        "Polar Zone",
+        "Temperate Zone",
+        "Tropical Zone",
+        "Cold Zone"
+       ],
+       "answer": 2,
+       "why": "The bands on the figure from top to bottom are: Polar Zone, Temperate Zone, Tropical Zone across the centre around the Equator, Temperate Zone and Polar Zone."
+      },
+      {
+       "q": "The Tropical Zone is hot because in this zone:",
+       "options": [
+        "the Sun rays fall vertically",
+        "the Sun rays fall slant",
+        "there is snow all year",
+        "the Sun never shines"
+       ],
+       "answer": 0,
+       "why": "The Tropical Zone, around the equator, is hot because here the Sun rays fall vertically. The Temperate Zone has a mild climate and the Polar Zone is the coldest."
+      },
+      {
+       "q": "The Moon has no storms, rains and snowfall because it has:",
+       "options": [
+        "too much air and water",
+        "no air, clouds or water like the Earth",
+        "a very thick atmosphere",
+        "many rivers"
+       ],
+       "answer": 1,
+       "why": "Weather is described in terms of temperature, humidity, precipitation, clouds and winds, and these need air and water. The Moon has no air, clouds or water like the Earth, so there are no storms, rains and snowfall on the Moon."
+      },
+      {
+       "q": "A simple wind vane is used to show:",
+       "options": [
+        "the amount of rain",
+        "the direction from which the wind is blowing",
+        "the temperature of air",
+        "the speed of a car"
+       ],
+       "answer": 1,
+       "why": "The arrow of the wind vane turns and points in the direction from which the wind is blowing, so the vane shows the direction of the wind."
+      },
+      {
+       "q": "A rain gauge measures the amount of rain on a scale marked in:",
+       "options": [
+        "centimetres only",
+        "kilometres",
+        "millimetres",
+        "degrees"
+       ],
+       "answer": 2,
+       "why": "In a simple rain gauge, a paper strip marked in millimetre scale is fixed on a transparent bottle. The level of rainwater collected, read on the millimetre scale, shows the amount of rain."
+      },
+      {
+       "q": "Places near sea level have a climate that is:",
+       "options": [
+        "always below zero",
+        "milder",
+        "the coldest",
+        "without any season"
+       ],
+       "answer": 1,
+       "why": "With the rise of height from sea level the climate becomes cooler, while places near sea level have a milder climate. Karachi near the sea is an example."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> How many weathers are there on the Moon? Does the Moon also have storms, rains and snowfall like our Earth? What is your opinion about the climate of the Moon?</p><p><strong>Ans:</strong> The Moon has no weather like our Earth. Weather is described in terms of temperature, humidity in air, precipitation (rain or snow), clouds and winds, and these need air and water. The Moon has no air, clouds or water like the Earth, so there are no storms, rains and snowfall on the Moon. In my opinion, the Moon has no climate like the Earth's climate, because its conditions do not change like the daily weather of a place on Earth.</p><p><strong>Q:</strong> Project: Construct a simple wind vane — what is made and what is observed?</p><p><strong>Ans:</strong> A simple wind vane is constructed by using cardboard or old carton, scissors, straw, board pins and coloured chart paper according to the diagram. The arrow of the vane is fixed so that it can turn freely on the pin, and it is placed in an open place. It is observed that the arrow turns and points in the direction from which the wind is blowing, so the vane shows the direction of the wind.</p><p><strong>Q:</strong> Project: Make a simple rain gauge — what is made and what is observed?</p><p><strong>Ans:</strong> A simple rain gauge is made by using a transparent plastic bottle, scissors, sellotape and a paper strip marked in millimetre scale. The bottle is cut and the marked strip is fixed on it, and the gauge is placed in the open during the rainy season. It is observed and compared that the level of rainwater collected in the gauge, read on the millimetre scale, shows the amount of rain during three days in a rainy season, and the days with more rain show a higher level.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9: Earth in the Solar System",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>The eight planets in order from the Sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Saturn is the planet with rings.</li><li>The gravity of the Sun keeps the planets and other celestial bodies together in the Solar System.</li><li>The Earth completes its revolution around the Sun in 365 days; this period is called a solar year. The Moon completes one revolution around the Earth in 29.5 days.</li><li>Seasons change due to the annual revolution of the Earth and the tilt of its axis. When it is winter in the northern hemisphere, it is summer in the southern hemisphere.</li><li>Pakistan is situated in the northern hemisphere. Venus is the planet that does not have any Moon.</li><li>In a solar eclipse the Moon comes between the Sun and the Earth; in a lunar eclipse the Earth comes between the Sun and the Moon. A solar eclipse is usually partial because the Moon is much smaller than the Earth.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> The gravity of which body keeps the planets and other celestial bodies together in the Solar System?</p><p><strong>Options:</strong> (a) Jupiter (b) Earth (c) Sun (d) Moon</p><p><strong>Correct answer:</strong> Sun</p><p><strong>Q:</strong> The Earth completes its rotation around the Sun in 365 days. This period is called:</p><p><strong>Options:</strong> (a) solar year. (b) solar month. (c) lunar month. (d) lunar year.</p><p><strong>Correct answer:</strong> solar year.</p><p><strong>Q:</strong> Due to the annual revolution of Earth and tilt of its axis:</p><p><strong>Options:</strong> (a) day and night are formed. (b) seasons change. (c) eclipses are formed. (d) shadows are formed.</p><p><strong>Correct answer:</strong> seasons change.</p><p><strong>Q:</strong> On the globe, in which part of the Earth is Pakistan situated?</p><p><strong>Options:</strong> (a) Northern hemisphere (b) Southern hemisphere (c) Equator (d) Half in northern and half in southern hemisphere</p><p><strong>Correct answer:</strong> Northern hemisphere</p><p><strong>Q:</strong> Which planet of the Solar System does not have any Moon?</p><p><strong>Options:</strong> (a) Jupiter (b) Venus (c) Mars (d) Saturn</p><p><strong>Correct answer:</strong> Venus</p>",
+     "mcqs": [
+      {
+       "q": "The gravity of which body keeps the planets and other celestial bodies together in the Solar System?",
+       "options": [
+        "Sun",
+        "Jupiter",
+        "Earth",
+        "Moon"
+       ],
+       "answer": 0,
+       "why": "The gravity of the Sun keeps the planets and other celestial bodies together in the Solar System. All the planets keep revolving around the Sun due to its gravity."
+      },
+      {
+       "q": "The Earth completes its rotation around the Sun in 365 days. This period is called:",
+       "options": [
+        "solar month.",
+        "solar year.",
+        "lunar month.",
+        "lunar year."
+       ],
+       "answer": 1,
+       "why": "Going around the Sun is the Earth's revolution (orbital movement). The Earth completes its one revolution around the Sun in 365 days, and this period is called a solar year. (The book's stem says 'rotation'; the movement around the Sun is revolution.)"
+      },
+      {
+       "q": "Due to the annual revolution of Earth and tilt of its axis:",
+       "options": [
+        "day and night are formed.",
+        "eclipses are formed.",
+        "seasons change.",
+        "shadows are formed."
+       ],
+       "answer": 2,
+       "why": "Seasons change due to the annual revolution of the Earth and the tilt of its axis. Day and night are formed by the rotation of the Earth, not by its revolution."
+      },
+      {
+       "q": "On the globe, in which part of the Earth is Pakistan situated?",
+       "options": [
+        "Southern hemisphere",
+        "Equator",
+        "Half in northern and half in southern hemisphere",
+        "Northern hemisphere"
+       ],
+       "answer": 3,
+       "why": "On the globe, Pakistan is situated in the northern hemisphere, the half of the Earth that is north of the Equator."
+      },
+      {
+       "q": "Which planet of the Solar System does not have any Moon?",
+       "options": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Saturn"
+       ],
+       "answer": 0,
+       "why": "Venus does not have any Moon. Jupiter, Mars and Saturn all have moons, but Venus has none."
+      },
+      {
+       "q": "Which planet is closest to the Sun?",
+       "options": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+       ],
+       "answer": 2,
+       "why": "Mercury is the planet closest to the Sun. It is the first planet of the Solar System and revolves closest to the Sun, at a distance of about 50 million kilometres from the Sun."
+      },
+      {
+       "q": "In how many days does the Moon complete one revolution around the Earth?",
+       "options": [
+        "7 days",
+        "15 days",
+        "29.5 days",
+        "365 days"
+       ],
+       "answer": 2,
+       "why": "The Moon completes its one revolution around the Earth in 29.5 days, while the Earth completes its one revolution around the Sun in 365 days."
+      },
+      {
+       "q": "The planet with rings around it is:",
+       "options": [
+        "Mars",
+        "Saturn",
+        "Venus",
+        "Mercury"
+       ],
+       "answer": 1,
+       "why": "In the picture of the Solar System, the planets in order are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, and Saturn is the planet with rings."
+      },
+      {
+       "q": "When it is winter in the northern hemisphere, the season in the southern hemisphere is:",
+       "options": [
+        "winter",
+        "summer",
+        "autumn",
+        "spring"
+       ],
+       "answer": 1,
+       "why": "When it is winter in the northern hemisphere, it is summer in the southern hemisphere, because the southern hemisphere then receives more direct rays and has longer days."
+      },
+      {
+       "q": "A solar eclipse is usually partial because:",
+       "options": [
+        "the Sun is very small",
+        "the Moon is much smaller than the Earth, so its shadow falls only on a small part of the Earth",
+        "the Earth stops rotating",
+        "the Moon has no shadow"
+       ],
+       "answer": 1,
+       "why": "The complete solar eclipse is very rare and usually we see partial solar eclipses, because the Moon is much smaller than the Earth, so its shadow falls only on a small part of the Earth."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>We see only one side of the Moon because the Moon completes one rotation about its own axis in the same time in which it completes one trip around the Earth.</li><li>If there were no tilt in the Earth's axis, the seasons would not change and the same season would remain all the year.</li><li>Mercury is the planet closest to the Sun, at a distance of about 50 million kilometres from the Sun.</li><li>The movement of a body around another body is its orbital movement (revolution); the movement on its own axis is its axial movement (rotation).</li><li>In the southern hemisphere the seasons are opposite to the northern hemisphere: 21 March — Autumn, 22 June — Winter, 23 September — Spring, 22 December — Summer.</li><li>The Sun is the biggest source of light and heat for the Earth; without it the Earth would become dark and very cold and life would not be possible.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> We can only see one side of the Moon. Explain.</p><p><strong>Ans:</strong> The Moon also rotates about its own axis. In the same duration in which it completes one trip around the Earth, it also completes one rotation about its own axis. That is why we can see only the same one half of the surface of the Moon, and we never see the other half.</p><p><strong>Q:</strong> If there were no tilt in the Earth's axis, how would have it affected the seasons?</p><p><strong>Ans:</strong> Seasons change because of the annual revolution of the Earth and the tilt of its axis. If there were no tilt in the Earth's axis, the Sun rays would not fall vertically on one hemisphere and slanting on the other at different times of the year. So day and night would stay equal and the seasons would not change; the same season would remain all the year.</p><p><strong>Q:</strong> When it is winter in the northern hemisphere then what will be the season in southern hemisphere?</p><p><strong>Ans:</strong> When it is winter in the northern hemisphere, it is summer in the southern hemisphere. At that time the northern hemisphere receives slanting Sun rays, so its days are shorter, while the southern hemisphere receives more direct rays and has longer days.</p><p><strong>Q:</strong> Which planet is closest to the Sun?</p><p><strong>Ans:</strong> Mercury is the planet closest to the Sun. It is the first planet of the Solar System and revolves closest to the Sun, at a distance of about 50 million kilometres from the Sun.</p><p><strong>Q:</strong> Why is the solar eclipse usually partial?</p><p><strong>Ans:</strong> The complete solar eclipse is very rare and usually we see partial solar eclipses. It is because the Moon is much smaller than the Earth, so its shadow falls only on a small part of the Earth. Therefore, the solar eclipse can be seen only in those parts of the Earth.</p><p><strong>Q:</strong> Which phenomena are shown in the following figure?</p><p><strong>Ans:</strong> Diagram (in words): The figure has two diagrams, each labelled Sun, Moon and Earth, with dotted circles showing the orbit of the Earth around the Sun and the orbit of the Moon around the Earth. In the left diagram the Moon is between the Sun and the Earth, so the Moon's shadow falls on the Earth — this is a solar eclipse. In the right diagram the Earth is between the Sun and the Moon, so the Earth's shadow falls on the Moon — this is a lunar eclipse.</p><p><strong>Q:</strong> In the following picture, each arrowhead shows the axial or orbital movement of Earth and Moon. Write the correct type of movement in the box given near each arrowhead.</p><p><strong>Ans:</strong> Diagram (in words): The picture shows the Sun in the centre-right, the Earth on its large dotted orbit around the Sun, and the Moon on its small dotted orbit around the Earth, with five empty boxes near the arrowheads. The arrow going around the Sun itself shows the axial movement (rotation) of the Sun. The big blue arrowhead on the Earth's orbit around the Sun shows the orbital movement (revolution) of the Earth. The small curved arrow on the Earth shows the axial movement (rotation) of the Earth. The arrowhead on the Moon's orbit around the Earth shows the orbital movement (revolution) of the Moon. The small curved arrow on the Moon shows the axial movement (rotation) of the Moon.</p><p><strong>Q:</strong> In how many days, the Moon completes its one revolution around the Earth? _____</p><p><strong>Ans:</strong> 29.5 days</p><p><strong>Q:</strong> In how many days, the Earth completes its one revolution around the Sun? _____</p><p><strong>Ans:</strong> 365 days</p><p><strong>Q:</strong> Identify the season in the southern hemisphere as per given figure. Write the correct season in the boxes given near the dates.</p><p><strong>Ans:</strong> Diagram (in words): The figure shows the Sun in the centre and the Earth at four positions around it, labelled 21 March, 22 June (with labels Axis, Equator and Earth), 23 September and 22 December, with pink arrows showing the direction of revolution. The seasons in the southern hemisphere are opposite to the northern hemisphere: 21 March — Autumn (equal day and night); 22 June — Winter (the southern hemisphere receives slanting rays, so its day is shortest); 23 September — Spring (equal day and night); 22 December — Summer (the southern hemisphere receives vertical rays, so its day is longest).</p><p><strong>Q:</strong> Write the names of the planets in this picture.</p><p><strong>Ans:</strong> Diagram (in words): The picture shows the Sun on the left and eight planets in a row, numbered 1 to 8 in order of distance from the Sun. 1 — Mercury, 2 — Venus, 3 — Earth, 4 — Mars, 5 — Jupiter, 6 — Saturn (the planet with rings), 7 — Uranus, 8 — Neptune.</p>",
+     "mcqs": [
+      {
+       "q": "We can see only one side of the Moon because:",
+       "options": [
+        "the Moon does not rotate at all",
+        "the Moon completes one rotation about its axis in the same time as one trip around the Earth",
+        "the other side is always dark with no surface",
+        "the Earth blocks the other side"
+       ],
+       "answer": 1,
+       "why": "The Moon also rotates about its own axis. In the same duration in which it completes one trip around the Earth, it also completes one rotation about its own axis, so we see only the same one half of its surface."
+      },
+      {
+       "q": "If there were no tilt in the Earth's axis, then:",
+       "options": [
+        "seasons would change faster",
+        "the seasons would not change and the same season would remain all the year",
+        "day and night would end",
+        "the Earth would stop revolving"
+       ],
+       "answer": 1,
+       "why": "Seasons change because of the annual revolution of the Earth and the tilt of its axis. Without the tilt, day and night would stay equal and the seasons would not change."
+      },
+      {
+       "q": "In a lunar eclipse:",
+       "options": [
+        "the Moon comes between the Sun and the Earth",
+        "the Earth comes between the Sun and the Moon",
+        "the Sun comes between the Earth and the Moon",
+        "no shadow falls anywhere"
+       ],
+       "answer": 1,
+       "why": "In a lunar eclipse the Earth is between the Sun and the Moon, so the Earth's shadow falls on the Moon. In a solar eclipse the Moon is between the Sun and the Earth."
+      },
+      {
+       "q": "In a solar eclipse:",
+       "options": [
+        "the Moon comes between the Sun and the Earth",
+        "the Earth comes between the Sun and the Moon",
+        "the Moon's shadow falls on the Sun",
+        "the Sun hides behind the Earth"
+       ],
+       "answer": 0,
+       "why": "In a solar eclipse the Moon is between the Sun and the Earth, so the Moon's shadow falls on the Earth and the Sun is hidden for those parts of the Earth."
+      },
+      {
+       "q": "The movement of the Earth around the Sun is called its:",
+       "options": [
+        "axial movement (rotation)",
+        "orbital movement (revolution)",
+        "vibration",
+        "eclipse"
+       ],
+       "answer": 1,
+       "why": "The arrow going along the Earth's orbit around the Sun shows its orbital movement (revolution), while the small curved arrow on the Earth itself shows its axial movement (rotation)."
+      },
+      {
+       "q": "On 22 December, the season in the southern hemisphere is:",
+       "options": [
+        "Winter",
+        "Autumn",
+        "Summer",
+        "Spring"
+       ],
+       "answer": 2,
+       "why": "The seasons in the southern hemisphere are opposite to the northern hemisphere. On 22 December the southern hemisphere receives vertical rays and its day is longest, so it is Summer there."
+      },
+      {
+       "q": "On 22 June, the season in the southern hemisphere is:",
+       "options": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+       ],
+       "answer": 3,
+       "why": "On 22 June the southern hemisphere receives slanting rays and its day is shortest, so it is Winter in the southern hemisphere, while the northern hemisphere has summer."
+      },
+      {
+       "q": "If the Sun stops providing light and heat, then:",
+       "options": [
+        "life will become easier",
+        "the Earth will become dark and very cold and life will not be possible",
+        "plants will grow faster",
+        "only nights will become longer"
+       ],
+       "answer": 1,
+       "why": "The Sun is the biggest source of light and heat for our Earth, and life on the Earth exists due to the Sun. Without it, plants will not grow, day and seasons will end, and living things will not survive."
+      },
+      {
+       "q": "Mercury is at a distance of about how much from the Sun?",
+       "options": [
+        "5 million kilometres",
+        "50 million kilometres",
+        "500 million kilometres",
+        "15 million kilometres"
+       ],
+       "answer": 1,
+       "why": "Mercury is the planet closest to the Sun. It is the first planet of the Solar System and revolves closest to the Sun, at a distance of about 50 million kilometres from the Sun."
+      },
+      {
+       "q": "The eighth and last planet in order from the Sun is:",
+       "options": [
+        "Uranus",
+        "Jupiter",
+        "Neptune",
+        "Saturn"
+       ],
+       "answer": 2,
+       "why": "The eight planets in order of distance from the Sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. So Neptune is the eighth and last planet."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> If the Sun stops providing light and heat, what will be its effects on the Earth? Would life be possible on the Earth?</p><p><strong>Ans:</strong> The Sun is the biggest source of light and heat for our Earth, and life on the Earth exists due to the Sun. If the Sun stops providing light and heat, the Earth will become dark and very cold. Plants will not grow, day and seasons will end, and living things will not survive. So life would not be possible on the Earth without the Sun.</p><p><strong>Q:</strong> Project: Models of lunar eclipse and solar eclipse — what is made and what is observed?</p><p><strong>Ans:</strong> Make two groups in the class. One group makes the model of lunar eclipse (as in Activity 9.5: a torch as the Sun, a football as the Earth and a tennis ball as the Moon placed in one line, so the shadow of the football falls on the tennis ball) and the other group makes the model of solar eclipse (as in Activity 9.6: the tennis ball as the Moon is placed nearer to the football as the Earth, so the shadow of the tennis ball falls on only some part of the football). It is observed that in a lunar eclipse the Earth comes between the Sun and the Moon and the Moon looks dark, while in a solar eclipse the Moon comes between the Sun and the Earth and the Sun is hidden; the solar eclipse is usually partial because the Moon's shadow covers only a small part of the Earth.</p>",
+     "mcqs": []
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10: Technology in Everyday Life",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A clinical thermometer is used to check fever. Before using it, it is given a few jerks to bring the mercury or alcohol level down into the bulb.</li><li>An instant cold pack is used to reduce inflammation as a first aid. The blood pressure 160/100 is high blood pressure.</li><li>Taking photographs of oneself is known as a selfie.</li><li>A cube has 6 surfaces, 8 corners and 12 edges. A prism (with triangular ends) has 6 corners, 9 edges and 5 surfaces. A cone has 1 corner, 1 edge and 2 surfaces. A sphere has 1 surface and no corners or edges.</li><li>A cone has a flat circular base and its sides slope up to one pointed top (apex); a prism has two same-shaped flat ends joined by flat rectangular sides.</li><li>Models are made from kneaded clay, because ordinary soil is dry and loose, does not bind together and cannot hold a shape.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> Clinical thermometer is used to:</p><p><strong>Options:</strong> (a) make shapes (b) measure inflamation in the body (c) check fever (d) measure blood pressure</p><p><strong>Correct answer:</strong> check fever</p><p><strong>Q:</strong> The number of corners of a prism are:</p><p><strong>Options:</strong> (a) 3 (b) 4 (c) 5 (d) 6</p><p><strong>Correct answer:</strong> 6</p><p><strong>Q:</strong> The surfaces of a cube are:</p><p><strong>Options:</strong> (a) 3 (b) 4 (c) 6 (d) 8</p><p><strong>Correct answer:</strong> 6</p><p><strong>Q:</strong> Taking photographs of oneself is known as:</p><p><strong>Options:</strong> (a) portrait (b) selfie (c) landscape (d) oneself</p><p><strong>Correct answer:</strong> selfie</p><p><strong>Q:</strong> Which item is used to reduce inflamation as a first aid?</p><p><strong>Options:</strong> (a) medical tape (b) tweezer (c) thermometer (d) instant cold pack</p><p><strong>Correct answer:</strong> instant cold pack</p><p><strong>Q:</strong> The blood pressure 160/100 is:</p><p><strong>Options:</strong> (a) low blood pressure (b) high blood pressure (c) normal blood pressure (d) not possible</p><p><strong>Correct answer:</strong> high blood pressure</p>",
+     "mcqs": [
+      {
+       "q": "Clinical thermometer is used to:",
+       "options": [
+        "check fever",
+        "make shapes",
+        "measure inflamation in the body",
+        "measure blood pressure"
+       ],
+       "answer": 0,
+       "why": "A clinical thermometer is used to check fever, that is, to measure the temperature of the body when a person is ill. It is not used to make shapes or to measure blood pressure."
+      },
+      {
+       "q": "The number of corners of a prism are:",
+       "options": [
+        "3",
+        "6",
+        "4",
+        "5"
+       ],
+       "answer": 1,
+       "why": "A prism with triangular ends has 6 corners: three corners at one triangular end and three at the other end. So the number of corners of a prism is 6."
+      },
+      {
+       "q": "The surfaces of a cube are:",
+       "options": [
+        "3",
+        "4",
+        "6",
+        "8"
+       ],
+       "answer": 2,
+       "why": "A cube has 6 surfaces (faces): top, bottom and four sides. So the surfaces of a cube are 6."
+      },
+      {
+       "q": "Taking photographs of oneself is known as:",
+       "options": [
+        "portrait",
+        "landscape",
+        "oneself",
+        "selfie"
+       ],
+       "answer": 3,
+       "why": "Taking photographs of oneself is known as a selfie. A portrait is a photograph of a person taken by someone else, and a landscape shows scenery."
+      },
+      {
+       "q": "Which item is used to reduce inflamation as a first aid?",
+       "options": [
+        "instant cold pack",
+        "medical tape",
+        "tweezer",
+        "thermometer"
+       ],
+       "answer": 0,
+       "why": "As a first aid, an instant cold pack is used to reduce inflammation. Medical tape, tweezers and a thermometer do not reduce inflammation."
+      },
+      {
+       "q": "The blood pressure 160/100 is:",
+       "options": [
+        "low blood pressure",
+        "high blood pressure",
+        "normal blood pressure",
+        "not possible"
+       ],
+       "answer": 1,
+       "why": "The blood pressure 160/100 is higher than the normal blood pressure, so it is high blood pressure. It is neither low nor normal."
+      },
+      {
+       "q": "Before using a clinical thermometer, it is given a few jerks to:",
+       "options": [
+        "make it warm",
+        "bring the mercury or alcohol level down into the bulb",
+        "break the bulb",
+        "change its colour"
+       ],
+       "answer": 1,
+       "why": "A clinical thermometer is given a few jerks to bring the mercury or alcohol level down into the bulb, so that it starts from a low level and gives the correct body temperature reading."
+      },
+      {
+       "q": "The number of corners of a cube is:",
+       "options": [
+        "6",
+        "8",
+        "12",
+        "4"
+       ],
+       "answer": 1,
+       "why": "A cube has 8 corners, 12 edges and 6 surfaces. The corners are the points where its edges meet: four at the top and four at the bottom."
+      },
+      {
+       "q": "A cone has a flat circular base and its sides slope up to:",
+       "options": [
+        "two pointed tops",
+        "a flat top",
+        "one pointed top (apex)",
+        "a square top"
+       ],
+       "answer": 2,
+       "why": "A cone has a flat circular base and its sides slope up to one pointed top (apex), like the cone model shown in the chapter. A prism, on the other hand, has two same-shaped flat ends and no pointed top."
+      },
+      {
+       "q": "Models are made from kneaded clay and not from any ordinary soil because ordinary soil:",
+       "options": [
+        "is too wet",
+        "is dry and loose and cannot hold a shape",
+        "is very costly",
+        "has a bad smell"
+       ],
+       "answer": 1,
+       "why": "Ordinary soil of any kind is dry and loose, does not bind together and cannot hold a shape. So only suitable clay, kneaded by mixing a little water and stretching and compressing it, or play dough can be used to make models."
+      }
+     ]
+    },
+    {
+     "title": "Short Answers and Constructed Response Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A paper cutter cuts folded paper in one straight, clean cut along the fold, so it is better than scissors for folded paper; before cutting with scissors, a line is drawn first so that the paper is cut straight and in the correct shape.</li><li>An envelope can be made from a square-shaped paper by folding its corners to the centre and gluing the edges.</li><li>Everyday items: circle — a coin and a clock face; cube — a dice and an ice cube; cylinder — a water bottle and a gas cylinder; cone — an ice-cream cone and a traffic cone; prism — a tent and a Toblerone chocolate box.</li><li>A circle cut into 2, 3, 4, 5 and 6 equal parts gives each part as 1/2, 1/3, 1/4, 1/5 and 1/6 of the total.</li><li>A mobile phone is not only used to make a call; it is also a clock, a calendar, a camera and a calculator, so its technology is progressing rapidly.</li></ul><h4>Solved Exercises</h4><p><strong>Q:</strong> What is the difference between a cone and a prism?</p><p><strong>Ans:</strong> A cone has a flat circular base and its sides slope up to one pointed top (apex), like the cone model shown in the chapter. A prism has two same-shaped flat ends (in the chapter's model, triangular ends) joined by flat rectangular sides, and it has no pointed top. So a cone has a round base and a point, while a prism has flat faces with two matching ends.</p><p><strong>Q:</strong> Can an envelope be made from a square shape paper? Explain.</p><p><strong>Ans:</strong> Yes, an envelope can be made from a square-shaped paper, as shown in Activity 10.6. Fold the paper vertically in half, open it, fold it horizontally in half and open it again, then place it with its corners on the vertical and horizontal lines. Fold the left and right corners to meet at the centre, fold the bottom corner up a little above the centre and glue its edges, and fold the top corner down to make the flap of the envelope.</p><p><strong>Q:</strong> Why a line is drawn on a paper before cutting it with a scissors?</p><p><strong>Ans:</strong> Paper and cardboard can be cut with the help of scissors. It is better to draw a line first and then cut along the line carefully, because the line guides us so that the paper is cut straight and in the correct shape.</p><p><strong>Q:</strong> Why a clinical thermometer is given jerks for a few times before using it?</p><p><strong>Ans:</strong> A clinical thermometer is given a few jerks to bring the mercury or alcohol level down into the bulb, as told in Activity 10.15. This is done so that the thermometer starts from a low level and gives the correct body temperature reading. It is not needed for a digital thermometer.</p><p><strong>Q:</strong> Why any soil cannot be used to make a model?</p><p><strong>Ans:</strong> Models are made from kneaded clay, which is prepared by mixing a little water in clay and stretching and compressing it many times like flour dough (Activity 10.9). Ordinary soil of any kind is dry and loose, does not bind together and cannot hold a shape. So only suitable clay, kneaded in this way, or play dough can be used to make models.</p><p><strong>Q:</strong> A circular shape is cut as shown in the following figure. What is the value in fraction of the total in each case? Write below each shape.</p><p><strong>Ans:</strong> Diagram (in words): The figure shows five circles, each cut into equal parts with one part separated. From left to right: the first (blue) circle is cut into 2 equal parts, so each part is 1/2 of the total; the second (orange) circle is cut into 3 equal parts, so each part is 1/3; the third (green) circle is cut into 4 equal parts, so each part is 1/4; the fourth (yellow-green) circle is cut into 5 equal parts (4 in place and 1 separated below), so each part is 1/5; the fifth (purple) circle is cut into 6 equal parts (5 in place and 1 separated), so each part is 1/6.</p><p><strong>Q:</strong> Identify the various items used in everyday life which look like a circle, a cube, a cylinder, a cone and a prism. Give two examples of each shape.</p><p><strong>Ans:</strong> Circle: a coin and a clock face (or a plate). Cube: a dice and an ice cube (or a sugar cube). Cylinder: a water bottle and a gas cylinder (or a pipe). Cone: an ice-cream cone and a traffic cone (or a funnel). Prism: a tent and a Toblerone chocolate box (or a roof-shaped prism). These are the same kinds of shapes — sphere, cube, prism, cylinder and cone — whose models are made with clay or play dough in this chapter.</p><p><strong>Q:</strong> Write below each shape, number of its corners, edges and surfaces.</p><p><strong>Ans:</strong> Diagram (in words): The figure shows five shapes in a row — a sphere (blue ball), a cube (orange), a pyramid (green), a cone (pink) and a prism (brown, with a triangular end) — with blank lines below for Corners, Edges and Surfaces. Sphere: corners 0, edges 0, surfaces 1. Cube: corners 8, edges 12, surfaces 6. Pyramid: corners 4, edges 6, surfaces 4. Cone: corners 1, edges 1, surfaces 2. Prism: corners 6, edges 9, surfaces 5.</p><p><strong>Q:</strong> Why is use of paper cutter better than the scissors?</p><p><strong>Ans:</strong> Paper can be cut easily by using a paper cutter or a knife: the paper is folded along the line, the blade of the paper knife is inserted inside the fold and pushed forward, which cuts the folded paper in one straight, clean cut along the fold. Scissors need the line to be drawn first and the cutting done carefully bit by bit, so the cutter gives a quicker and straighter cut on folded paper.</p>",
+     "mcqs": [
+      {
+       "q": "A paper cutter is better than scissors for cutting folded paper because it:",
+       "options": [
+        "cuts the paper in one straight, clean cut along the fold",
+        "needs a line drawn first",
+        "cuts bit by bit slowly",
+        "cannot cut straight"
+       ],
+       "answer": 0,
+       "why": "The paper is folded along the line and the blade of the paper knife is pushed forward inside the fold, which cuts the folded paper in one straight, clean cut. Scissors need the line drawn first and cutting done carefully bit by bit."
+      },
+      {
+       "q": "Before cutting paper with scissors, a line is drawn on the paper so that:",
+       "options": [
+        "the paper looks beautiful",
+        "the paper is cut straight and in the correct shape",
+        "the scissors become sharp",
+        "the paper becomes soft"
+       ],
+       "answer": 1,
+       "why": "It is better to draw a line first and then cut along the line carefully, because the line guides us so that the paper is cut straight and in the correct shape."
+      },
+      {
+       "q": "An envelope can be made from which shaped paper?",
+       "options": [
+        "Circular paper",
+        "Triangular paper",
+        "Square-shaped paper",
+        "No paper can be used"
+       ],
+       "answer": 2,
+       "why": "Yes, an envelope can be made from a square-shaped paper: fold the left and right corners to meet at the centre, fold the bottom corner up and glue its edges, and fold the top corner down to make the flap."
+      },
+      {
+       "q": "Which pair of everyday items look like a cylinder?",
+       "options": [
+        "A coin and a clock face",
+        "A water bottle and a gas cylinder",
+        "A dice and an ice cube",
+        "An ice-cream cone and a traffic cone"
+       ],
+       "answer": 1,
+       "why": "A water bottle and a gas cylinder (or a pipe) look like a cylinder. A coin is a circle shape, a dice is a cube, and an ice-cream cone is a cone shape."
+      },
+      {
+       "q": "A circle is cut into 4 equal parts. Each part is what fraction of the total?",
+       "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/6"
+       ],
+       "answer": 2,
+       "why": "When a circle is cut into 4 equal parts, each part is 1/4 of the total. In the same way, 2 parts give 1/2, 3 parts give 1/3, 5 parts give 1/5 and 6 parts give 1/6."
+      },
+      {
+       "q": "The number of edges of a cube is:",
+       "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+       ],
+       "answer": 3,
+       "why": "A cube has 8 corners, 12 edges and 6 surfaces. The 12 edges are the lines where its 6 square surfaces meet."
+      },
+      {
+       "q": "A sphere has:",
+       "options": [
+        "0 corners, 0 edges and 1 surface",
+        "1 corner, 1 edge and 2 surfaces",
+        "8 corners, 12 edges and 6 surfaces",
+        "6 corners, 9 edges and 5 surfaces"
+       ],
+       "answer": 0,
+       "why": "A sphere, like a ball, is fully round: it has 0 corners, 0 edges and 1 curved surface. A cone has 1 corner, 1 edge and 2 surfaces, and a prism has 6 corners, 9 edges and 5 surfaces."
+      },
+      {
+       "q": "A pyramid has how many surfaces?",
+       "options": [
+        "6",
+        "5",
+        "4",
+        "2"
+       ],
+       "answer": 2,
+       "why": "In the figure of shapes, the pyramid has 4 corners, 6 edges and 4 surfaces: one base and three triangular sides meeting at the top."
+      },
+      {
+       "q": "Mobile phone technology is progressing rapidly because:",
+       "options": [
+        "people want to do more and more tasks quickly with one small device",
+        "phones are made of clay",
+        "phones have become bigger",
+        "people make only calls on phones"
+       ],
+       "answer": 0,
+       "why": "A mobile phone is not only used to make a call; it is also a clock, a calendar, a camera and a calculator, and its many Apps are very helpful. Because people need to do more and more tasks quickly with one small device, mobile phone technology is progressing rapidly."
+      },
+      {
+       "q": "Which two items look like a cone?",
+       "options": [
+        "A coin and a plate",
+        "An ice-cream cone and a traffic cone",
+        "A dice and a sugar cube",
+        "A tent and a chocolate box"
+       ],
+       "answer": 1,
+       "why": "An ice-cream cone and a traffic cone (or a funnel) look like a cone, which has a flat circular base and one pointed top. A tent and a Toblerone chocolate box look like a prism."
+      }
+     ]
+    },
+    {
+     "title": "Investigate and Project Work",
+     "notes_html": "<h4>Investigate and Project Work</h4><p><strong>Q:</strong> Why mobile phone technology is progressing rapidly? How will be the mobile phone of the future?</p><p><strong>Ans:</strong> We are living in an information age and we remain in touch with our dears with the help of computer and mobile phone. A mobile phone is not only used to make a call; it is also a clock, a calendar, a camera and a calculator, and its many Apps are very helpful to us. Because people need to do more and more tasks quickly with one small device, mobile phone technology is progressing rapidly. The mobile phone of the future will be even smarter and faster, with more helpful Apps, a better camera and more uses in everyday life.</p><p><strong>Q:</strong> Project: Making a Nest — what is made and what is observed?</p><p><strong>Ans:</strong> A bird's nest is made from an empty pack of juice or milk, cotton or cloth and various items for decoration. Steps: (1) Cut the empty pack side for entering and leaving the birds, as shown in the figure. (2) Make it comfortable using cotton and cloths. (3) Make a hole and insert a wire through the upper edge so that it can be hanged on a tree. (4) Use colour ribbon and cardboard to make it fancy. (5) Hang it somewhere near your home or school so that birds can use it. Observation: observe if the birds use it as their nest or not.</p>",
+     "mcqs": []
+    }
+   ]
+  }
+ ]
+}
