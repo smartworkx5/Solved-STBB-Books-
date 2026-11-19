@@ -1,0 +1,1300 @@
+{
+ "book": "kptbb-c9-general-science-english",
+ "chapters": [
+  {
+   "title": "Unit 1: History and Nature of Science",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>The word science comes from the Latin word 'scientia', which means 'to know'.</li><li>The Muslim period of science ranges from the 7th to the 13th century A.D.</li><li>Al-Razi wrote the famous medical book 'Al-Havi'.</li><li>Bu-Ali-Sina wrote 'Al-Qanoon Fil-Tib' and was the first physician to describe meningitis.</li><li>Al-Bairuni wrote 'Qanoon-al-Masoodi Fil Hayat wan-Najoom'.</li><li>Muslim scientists solved scientific problems by the practical and experimentation approach.</li><li>Astronomy is the branch of science that deals with heavenly bodies.</li><li>A biopsy is a medical test in which cells or tissues are removed for examination.</li><li>John Dalton developed the atomic theory of matter.</li><li>Physical sciences deal with matter and energy and describe the material universe in terms of weight, mass etc.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Select the best answers for the following questions.</strong></p><p><strong>Q:</strong> 1. Science is originated from a Latin word Scientia, which means to:</p><p><strong>Options:</strong> (a) Know (b) Act (c) Teach (d) Behave</p><p><strong>Correct answer:</strong> Know</p><p><strong>Q:</strong> 2. The Muslim period of science ranges from:</p><p><strong>Options:</strong> (a) 1st to 6th century A.D (b) 7th to 13th century A.D (c) 14th to 16th century A.D (d) 17th to 20th century A.D</p><p><strong>Correct answer:</strong> 7th to 13th century A.D</p><p><strong>Q:</strong> 3. Al-Havi was the name of book written by:</p><p><strong>Options:</strong> (a) Jabir-bin-Hayyan (b) Bu-Ali-Sina (c) Al-Bairuni (d) Al-Razi</p><p><strong>Correct answer:</strong> Al-Razi</p><p><strong>Q:</strong> 4. Astronomy is the branch of science, which deals with:</p><p><strong>Options:</strong> (a) Heavenly bodies (b) Earthen bodies (c) Bodies in oceans (d) Anti-bodies</p><p><strong>Correct answer:</strong> Heavenly bodies</p><p><strong>Q:</strong> 5. What was the most important approach of Muslim Scientists for solving scientific problems?</p><p><strong>Options:</strong> (a) Practical and experimentation approach (b) Theoratical approach (c) Philosophical approach (d) None of these.</p><p><strong>Correct answer:</strong> Practical and experimentation approach</p><p><strong>Q:</strong> 6. The scientific method of inquiry is different from other methods of inquiry because it:</p><p><strong>Options:</strong> (a) Requires that hypotheses be tested empirically (b) Is limited to experimental research (c) Does not require revision and retesting of hypotheses that are not fully supported (d) All of the above</p><p><strong>Correct answer:</strong> Requires that hypotheses be tested empirically</p><p><strong>Q:</strong> 7. _____ is a medical test involving the removal of cells or tissues for examination.</p><p><strong>Options:</strong> (a) Sonography (b) X-rays (c) Biopsy (d) M.R.I</p><p><strong>Correct answer:</strong> Biopsy</p><p><strong>Q:</strong> 8. “Qanoon-al-Masoodi Fil Hayat wan-Najoom” was written by</p><p><strong>Options:</strong> (a) Jabir-bin-Hayyan (b) Bu-Ali-Sina (c) Al-Bairuni (d) Al-Razi</p><p><strong>Correct answer:</strong> Al-Bairuni</p><p><strong>Q:</strong> 9. “Al– Qanoon Fil-Tib” was written by</p><p><strong>Options:</strong> (a) Jabir-bin-Hayyan (b) Bu-Ali-Sina (c) Al-Bairuni (d) Al-Razi</p><p><strong>Correct answer:</strong> Bu-Ali-Sina</p><p><strong>Q:</strong> 10. Who was the first physician to describe meningitis?</p><p><strong>Options:</strong> (a) Jabir-bin-Hayyan (b) Bu-Ali-Sina (c) Al-Bairuni (d) Al-Razi</p><p><strong>Correct answer:</strong> Bu-Ali-Sina</p><p><strong>Q:</strong> 11. Who developed the atomic theory of matter?</p><p><strong>Options:</strong> (a) John Dalton (b) Michael Faraday (c) James Maxwell (d) Charles Darwin</p><p><strong>Correct answer:</strong> John Dalton</p><p><strong>Q:</strong> 12. Which science deals with matter and energy and describe the material universe in terms of weight, mass etc.</p><p><strong>Options:</strong> (a) Life Science (b) Earth Sciences (c) Physical sciences (d) None of these</p><p><strong>Correct answer:</strong> Physical sciences</p>",
+     "mcqs": [
+      {
+       "q": "Science is originated from a Latin word Scientia, which means to:",
+       "options": [
+        "Act",
+        "Know",
+        "Teach",
+        "Behave"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that science comes from the Latin word 'scientia', which means 'to know', because science is knowledge gained by observation and experimentation."
+      },
+      {
+       "q": "The Muslim period of science ranges from:",
+       "options": [
+        "1st to 6th century A.D",
+        "14th to 16th century A.D",
+        "7th to 13th century A.D",
+        "17th to 20th century A.D"
+       ],
+       "answer": 2,
+       "why": "The book's keyed answer places the Muslim period of science from the 7th to the 13th century A.D, the age of Jabir bin Hayyan, Al-Razi, Bu-Ali-Sina and Al-Bairuni."
+      },
+      {
+       "q": "Al-Havi was the name of book written by:",
+       "options": [
+        "Jabir-bin-Hayyan",
+        "Bu-Ali-Sina",
+        "Al-Bairuni",
+        "Al-Razi"
+       ],
+       "answer": 3,
+       "why": "Al-Havi is the famous medical book of Al-Razi, as keyed in the book and confirmed in the unit's account of Muslim scientists."
+      },
+      {
+       "q": "Astronomy is the branch of science, which deals with:",
+       "options": [
+        "Earthen bodies",
+        "Heavenly bodies",
+        "Bodies in oceans",
+        "Anti-bodies"
+       ],
+       "answer": 1,
+       "why": "Astronomy, listed among the physical sciences in the detailed answers, involves the study of the universe beyond the earth, i.e. the heavenly bodies."
+      },
+      {
+       "q": "What was the most important approach of Muslim Scientists for solving scientific problems?",
+       "options": [
+        "Theoretical approach",
+        "Philosophical approach",
+        "Practical and experimentation approach",
+        "Guesswork approach"
+       ],
+       "answer": 2,
+       "why": "The book's keyed answer is the practical and experimentation approach; Muslim scientists tested their ideas by experiments instead of relying on theory or philosophy alone. (The book's fourth option 'None of these' has been replaced by a real distractor in this quiz copy.)"
+      },
+      {
+       "q": "_____ is a medical test involving the removal of cells or tissues for examination.",
+       "options": [
+        "Sonography",
+        "Biopsy",
+        "X-rays",
+        "M.R.I"
+       ],
+       "answer": 1,
+       "why": "The detailed answers list biopsy, along with X-rays and sonography, as an instrument of diagnosis, and biopsy is the test in which cells or tissues are removed and examined."
+      },
+      {
+       "q": "\"Qanoon-al-Masoodi Fil Hayat wan-Najoom\" was written by",
+       "options": [
+        "Al-Bairuni",
+        "Jabir-bin-Hayyan",
+        "Bu-Ali-Sina",
+        "Al-Razi"
+       ],
+       "answer": 0,
+       "why": "The book's keyed answer is Al-Bairuni, the famous Muslim scientist who wrote Qanoon-al-Masoodi on astronomy and related sciences."
+      },
+      {
+       "q": "\"Al-Qanoon Fil-Tib\" was written by",
+       "options": [
+        "Jabir-bin-Hayyan",
+        "Al-Bairuni",
+        "Bu-Ali-Sina",
+        "Al-Razi"
+       ],
+       "answer": 2,
+       "why": "Bu-Ali-Sina wrote Al-Qanoon Fil-Tib, which, as the detailed answer records, remained a textbook in the medical institutes of Europe till the 17th century."
+      },
+      {
+       "q": "Who developed the atomic theory of matter?",
+       "options": [
+        "Michael Faraday",
+        "James Maxwell",
+        "Charles Darwin",
+        "John Dalton"
+       ],
+       "answer": 3,
+       "why": "The book's keyed answer is John Dalton, who developed the atomic theory of matter; Faraday and Maxwell worked in electricity and magnetism, and Darwin in evolution."
+      },
+      {
+       "q": "Which science deals with matter and energy and describe the material universe in terms of weight, mass etc.",
+       "options": [
+        "Life Science",
+        "Physical sciences",
+        "Earth Sciences",
+        "Social sciences"
+       ],
+       "answer": 1,
+       "why": "The detailed answer defines the physical sciences as those which deal with matter and energy and describe the material universe in terms of weight, mass, volume and other objective measures. (The book's 'None of these' option has been replaced by a real distractor in this quiz copy.)"
+      }
+     ]
+    },
+    {
+     "title": "Detailed Answers",
+     "notes_html": "<h4>Key Points</h4><ul><li>Science is an organized form of knowledge obtained by observation and experimentation.</li><li>The scientific method involves collecting data, developing hypotheses and testing them by experimentation.</li><li>Dr. Abdus Salam won the Nobel Prize for the theory of unification of two of the four basic forces of the universe.</li><li>Pakistan tested its nuclear devices at Chaghi, Balochistan, on May 28, 1998.</li><li>Jabir bin Hayyan is called the father of chemistry; Ibn-ul-Haitham is the father of optics.</li><li>The World Health Assembly declared the world free of smallpox on May 8, 1980.</li><li>Sonography (ultrasound) is used to monitor the development of the fetus in the mother's body.</li><li>Biochemistry is a compound science that developed from the overlap of chemistry and biology.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Answer the following questions in detail.</strong></p><p><strong>Q:</strong> 1. Define science? Describe how the nature of science makes it different from other modes of knowing?</p><p><strong>Ans:</strong> The word science is originated from the Latin word “scientia”, which means “to know”. Science is an organized form of knowledge obtained by observation and experimentation. It is the knowledge which is systematic, tested and brought under general principles, and it helps us to understand and describe various processes and phenomena which are taking place around us. Its nature makes it different from other branches of knowledge like history, literature etc. because for the study of science we use a specific way, the scientific method of study. The scientific method involves collecting data, developing hypotheses about that data, and then testing those hypotheses with experimentation. This systematic and practical approach to issues related to our day-to-day problems has made science unique from other branches of knowledge.</p><p><strong>Q:</strong> 2. Write the contribution of three famous scientists of Pakistan.</p><p><strong>Ans:</strong> Dr. Abdus Salam (born 1926) was a world-fame physicist who was awarded the Nobel Prize. His contribution was the presentation of the theory of unification of two of four basic forces governing the universe, which was the great achievement in the discipline of physical sciences. Dr. Abdul Qadeer Khan (born 1936) is the world-fame Pakistani nuclear scientist who excelled in the field of enrichment of uranium; along with other scientists he successfully tested the nuclear devices at Chaghi in Balochistan on May 28, 1998, and he established Kahuta Research Laboratories (KRL). Dr. Ashfaq Ahmad Khan (born 1930) is an eminent nuclear scientist of Pakistan who remained chairman of Pakistan Atomic Energy Commission for 10 years; he established the Global Change Impact Studies Center (GCISC), and in recognition of his services he was awarded the highest civil award of Nishan-i-Imtiaz by the Government of Pakistan.</p><p><strong>Q:</strong> 3. Muslims scientists made significant contributions in the field of Science. Write some of the prominent contributions of Jaber bin Hayyan, Bu-Ali-Sina and Ibn–ul–Haitham in the field of Science.</p><p><strong>Ans:</strong> Jaber bin Hayyan (722–817 A.D) is considered to be the father of chemistry. He established his own laboratory, invented sulfuric acid, nitric acid, hydrochloric acid and several other important compounds, and defined chemical reactions as the union of the elements together in small particles too small for the naked eyes to see without loss of their character. His contribution to chemistry also includes important scientific techniques such as crystallization, distillation, sublimation and evaporation. Bu-Ali-Sina (980–1037 A.D) was the greatest scientist of his time and wrote more than 100 books about medicine, science, philosophy and literature; his famous book about medicine, “Al-Qanoon Fil-Tib”, was prescribed as a text book in medical institutes of Europe till the 17th century, and in another famous book “Al-Shifa” he made useful contributions to physics, chemistry, arithmetic, biology and even music. He was also the first physician to describe meningitis, parts of the eye and the heart valves, and he found that nerves were responsible for perceived muscle pain. Ibn-ul-Haitham (965–1039 A.D) is a renowned physicist of all times who gave the basic principles of reflection and refraction of light, worked on lenses and explained the working of the eye; his famous book “Kitab-Al-Manazir” was translated into Latin, and he is considered the father of optics.</p><p><strong>Q:</strong> 4. Do you think The Holy Quran give due importance to the acquisition of knowledge and it compels its reader to ponder over the various processes and phenomena occurring in the universe. Support your answer by quoting some verses of The Holy Quran.</p><p><strong>Ans:</strong> Yes, the Holy Quran gives due importance to the acquisition of knowledge. Islamic teachings are of universal and everlasting values, and in the Holy Book “Quran” great emphasis has been laid on the acquisition of knowledge. Several verses in the Quran stimulate man to seek knowledge and to ponder over the various processes and phenomena occurring in the universe, and also exploring oceans, space and heavenly bodies etc. The Holy Quran invites man to travel and search the hidden realities of the universe, as there is no better example of the close link between Islam and acquisition of knowledge than the saying of Prophet Muhammad (PBUH), “to acquire the knowledge is the duty of every Muslim man and woman”. The Quran calls upon Muslims to look around them and study the physical world so that they might appreciate the majesty of Allah's creation: “Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the benefit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they trail like their slaves between the sky and the earth -- (Here) indeed are Signs for a people that are wise.” (Surah Al-Baqarah 2:164). Other verses say: “They ponder over the creation of earth and heavens (skies)” (Sura Al-Imran, Ayah: 191); “Indeed, the Creation of earth and heavens (skies), the difference of day and night, are the indications for the wise and intelligent” (Sura Al-Imran, Ayah: 190); and “And He is the Allah, who created every living thing from water, out of them, some crawl, some are tetra-pods (four legged) and some are bipedal (two legged). Allah creates what he pleases. He the almighty and creator” (Sura Nur, Ayah: 45).</p><p><strong>Q:</strong> 5. Give detail account of different branches of science and their interrelation ship with each other.</p><p><strong>Ans:</strong> To make scientific knowledge more systematic, it has been divided into several branches and sub-branches. The largest distinction in science is whether a science is pure or theoretical or whether it is applied or practical: pure science explains a phenomenon, while applied science determines how a particular phenomenon may be put to use. In general, pure science is divided into categories: Physical sciences, which deal with matter and energy and allow us to describe the material universe in terms of weight, mass, volume and other standard objective measures — physics includes the study of time, light and gravity, chemistry deals with the properties, composition, structure and reactions of matter, and astronomy involves the study of the universe beyond the earth; Earth sciences, which explain the phenomena of Earth, its atmosphere, and the solar system to which it belongs, and include branches such as geology, oceanography, meteorology and paleontology; and Life sciences, also known as biology, which describe living organisms, their internal processes and their relationship to each other and the environment, dealing with the study of evolution, development, distribution, origin, structure and function of living things, and categorized into branches such as botany, genetics, zoology and medicine. The mathematical science involves branches such as arithmetic, algebra, geometry and calculus. These categories of pure science have areas of overlap, where one type of phenomenon may be associated with another — for example, light (studied in physics) is the energy source behind the (chemical) process of photosynthesis, or food production, in plants (studied in biology). For this reason, distinctions between pure sciences, and even between pure and applied sciences, can blur, and a new compound science can develop, an example of which is biochemistry, in which the chemical processes of living things (such as photosynthesis, blood chemistry etc.) are observed and explained; other examples are biophysics, biostatistics and environmental chemistry. Thus all the branches of science are inter-related to each other.</p><p><strong>Q:</strong> 6. List down some of the important developments in the medical field which have provided relief to humanity.</p><p><strong>Ans:</strong> Modern technology and scientific studies have played an important role in the field of medicine and have provided great relief to humanity. Vaccination against various diseases is considered a major step towards the development of a healthy future: the World Health Organization (WHO) started a worldwide campaign in 1967 to eradicate smallpox, the goal was accomplished in 10 years due to massive vaccination efforts, the last case of smallpox occurred in Somalia in 1977, and on May 8, 1980 the World Health Assembly declared the world free of smallpox. Many epidemic diseases such as Plague, Cholera, Typhoid, Polio and Pneumonia, which were known as killer diseases, have now been controlled with the help of vaccines and drugs. The diagnosis of diseases is very important for proper treatment, and many instruments have been devised for the proper diagnosis of diseases, such as X-rays, sonography and biopsy, sonography or ultrasound being used as an effective way of monitoring the development of the fetus in the mother body. Laser technology is used to kill cancer cells and also has its applications in the field of microsurgery, treatment of the retina with the help of laser being an example of microsurgery. The repair of the heart valves, the bypass grafting and the use of pace maker is very helpful to heart patients, and the field of transplant of organs has also gained great importance, transplant of eye, heart, kidneys and lungs now being a common feature.</p><p><strong>Q:</strong> 7. What is the contribution of developments taken place in the field of agriculture and medicines for the welfare of mankind.</p><p><strong>Ans:</strong> In agriculture, the rising population created a demand for higher yield and pest resistant crops, and progress in the field of agriculture addressed these problems, so that the quality of food has been improved and the quantity of food has been increased. The use of modern technology has revolutionized the agriculture sector and made agriculture a profitable business: modern machines like tractors, scrapers, harvesters and tube wells have greatly helped man to get maximum production, and with the help of modern technology, to a certain extent, we have been able to overcome the deadly menace of water logging and salinity, so that a vast land has been reclaimed and used for agriculture. Tissue culture and genetic engineering techniques are playing prominent roles in increasing the yield by producing disease and drought resistance varieties. In medicines, modern technology has likewise served mankind: epidemic diseases such as Plague, Cholera, Typhoid, Polio and Pneumonia have been controlled with the help of vaccines and drugs, smallpox has been eradicated from the world, and instruments like X-rays, sonography and biopsy help in the proper diagnosis of diseases. Laser technology is used to kill cancer cells and in microsurgery, the repair of heart valves, bypass grafting and the use of pace maker help heart patients, and transplant of eye, heart, kidneys and lungs is now a common feature. Although at present we have not been able to find a cure for a number of diseases, yet it was the scientific attitude of the scientists which made possible the control and cure of several fatal diseases, and vaccination against various diseases is considered a major step towards the development of a healthy future.</p><p><strong>Q:</strong> 8. Write some important contributions of Greek in the field of science.</p><p><strong>Ans:</strong> The Greek period is dated 300-600 BC in the book's account of the growth of scientific processes. During this period great philosophers and scientists contributed a lot to the knowledge of science, Aristotle, Archimedes, Galen and Pythagoras being a few important names of this period. The Greeks were the first to try and develop the theory on the basis of their observations. Pythagoras concentrated on a mathematical view of the world, while Aristotle and Plato developed logical methods for examining the world around them. Similarly, it was the Greeks who first suggested that matter was made up of atoms — fundamental particles that could not be broken down further.</p>",
+     "mcqs": [
+      {
+       "q": "In the scientific method, after collecting data the next step is to:",
+       "options": [
+        "Publish the results at once",
+        "Develop hypotheses about the data and test them by experimentation",
+        "Discard the data",
+        "Memorise the data"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains that the scientific method involves collecting data, developing hypotheses about that data, and then testing those hypotheses with experimentation."
+      },
+      {
+       "q": "Dr. Abdus Salam was awarded the Nobel Prize for presenting the theory of:",
+       "options": [
+        "Uranium enrichment",
+        "Unification of two of the four basic forces governing the universe",
+        "Atomic structure",
+        "Relativity"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that Dr. Abdus Salam's great contribution was the theory of unification of two of the four basic forces governing the universe, for which he received the Nobel Prize."
+      },
+      {
+       "q": "Pakistan successfully tested its nuclear devices at Chaghi on:",
+       "options": [
+        "May 28, 1998",
+        "August 14, 1947",
+        "May 28, 1988",
+        "June 28, 1998"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that Dr. Abdul Qadeer Khan, along with other scientists, successfully tested the nuclear devices at Chaghi in Balochistan on May 28, 1998."
+      },
+      {
+       "q": "Jabir bin Hayyan is considered the father of:",
+       "options": [
+        "Optics",
+        "Medicine",
+        "Chemistry",
+        "Astronomy"
+       ],
+       "answer": 2,
+       "why": "The solved answer calls Jabir bin Hayyan (722-817 A.D) the father of chemistry; he invented sulfuric, nitric and hydrochloric acids and techniques such as distillation and crystallization."
+      },
+      {
+       "q": "Ibn-ul-Haitham, author of 'Kitab-Al-Manazir', is considered the father of:",
+       "options": [
+        "Chemistry",
+        "Optics",
+        "Algebra",
+        "Surgery"
+       ],
+       "answer": 1,
+       "why": "Ibn-ul-Haitham gave the basic principles of reflection and refraction of light, worked on lenses and explained the working of the eye, so he is considered the father of optics."
+      },
+      {
+       "q": "Bu-Ali Sina's book 'Al-Shifa' made contributions to:",
+       "options": [
+        "Only medicine",
+        "Physics, chemistry, arithmetic, biology and even music",
+        "Only astronomy",
+        "Only philosophy"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that in 'Al-Shifa' Bu-Ali-Sina made useful contributions to physics, chemistry, arithmetic, biology and even music, besides his medical masterpiece Al-Qanoon Fil-Tib."
+      },
+      {
+       "q": "The World Health Assembly declared the world free of smallpox on:",
+       "options": [
+        "May 8, 1970",
+        "May 8, 1990",
+        "May 8, 1980",
+        "May 8, 1967"
+       ],
+       "answer": 2,
+       "why": "The solved answer records that the WHO campaign begun in 1967 succeeded in ten years, the last case occurred in Somalia in 1977, and on May 8, 1980 the world was declared free of smallpox."
+      },
+      {
+       "q": "Sonography or ultrasound is used as an effective way of:",
+       "options": [
+        "Killing cancer cells",
+        "Monitoring the development of the fetus in the mother's body",
+        "Repairing heart valves",
+        "Clotting the blood"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists X-rays, sonography and biopsy as diagnostic instruments and states that sonography or ultrasound monitors the development of the fetus in the mother's body."
+      },
+      {
+       "q": "Biochemistry, which studies the chemical processes of living things, is an example of:",
+       "options": [
+        "A pure physical science",
+        "A compound science formed by the overlap of two sciences",
+        "An earth science",
+        "A mathematical science"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains that where branches of pure science overlap a new compound science develops, and biochemistry — the chemistry of living processes such as photosynthesis and blood chemistry — is its example."
+      },
+      {
+       "q": "The Greeks were the first to suggest that matter was made up of:",
+       "options": [
+        "Molecules",
+        "Cells",
+        "Atoms — fundamental particles that could not be broken down further",
+        "Four elements only"
+       ],
+       "answer": 2,
+       "why": "The solved answer on Greek contributions states that the Greeks first suggested that matter was made up of atoms, fundamental particles that could not be broken down further."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Chemistry and Life",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Chemically, plastic is a synthetic high molecular weight chain molecule (a polymer).</li><li>Nylon is made of polyamides, and latex is the natural source of rubber.</li><li>Sand is the natural source for the production of glass, and glass is a perfect storage material for chemicals.</li><li>Polyester clothes are not desirable because polyester is highly flammable.</li><li>Hydrogen is explosive while helium is inert, so helium is safer for balloons.</li><li>Of copper, aluminum, lead and iron, only iron rusts in open air.</li><li>Copper cables have a lower life cycle cost than aluminum cables.</li><li>Pure water has a pH of 7, and mercury is the ideal thermometer liquid.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Select the correct answers for the following questions.</strong></p><p><strong>Q:</strong> 1. Plastic chemically refers to as</p><p><strong>Options:</strong> (a) synthetic high molecular weight chain molecule (b) natural high molecular weight chain molecule (c) synthetic low molecular weight chain molecule (d) natural low molecular weight chain molecule</p><p><strong>Correct answer:</strong> synthetic high molecular weight chain molecule</p><p><strong>Q:</strong> 2. Polyethylene is chemically synthesized from</p><p><strong>Options:</strong> (a) long chains of ethylene (b) short chains of ethylene (c) some are long and some are short chains of ethylene (d) long chains of ethane</p><p><strong>Correct answer:</strong> long chains of ethylene</p><p><strong>Q:</strong> 3. Why it is not desirable to wear clothes made up of polyester?</p><p><strong>Options:</strong> (a) it does not clean easily (b) it is out of fashion (c) it is highly flammable (d) it fibres thread apart easily</p><p><strong>Correct answer:</strong> it is highly flammable</p><p><strong>Q:</strong> 4. The polymers from which the nylon is made up of are:</p><p><strong>Options:</strong> (a) polyethylene (b) polyether (c) polyesters (d) polyamides</p><p><strong>Correct answer:</strong> polyamides</p><p><strong>Q:</strong> 5. One of the following is a product of polymerization of ethane gas.</p><p><strong>Options:</strong> (a) polyethylene (b) polythene (c) polyesters (d) polyamides</p><p><strong>Correct answer:</strong> polythene</p><p><strong>Q:</strong> 6. Latex is a natural source of :</p><p><strong>Options:</strong> (a) rubber (b) plastics (c) nylon (d) polythene</p><p><strong>Correct answer:</strong> rubber</p><p><strong>Q:</strong> 7. Polyisoprene is a purified form of</p><p><strong>Options:</strong> (a) rubber (b) plastics (c) nylon (d) polythene</p><p><strong>Correct answer:</strong> rubber</p><p><strong>Q:</strong> 8. A prefect storage container material of chemicals is:</p><p><strong>Options:</strong> (a) plastic (b) polythene (c) rubber (d) glass</p><p><strong>Correct answer:</strong> glass</p><p><strong>Q:</strong> 9. Sand acts as a natural source for the production of which of the following product?</p><p><strong>Options:</strong> (a) plastic (b) polythene (c) rubber (d) glass</p><p><strong>Correct answer:</strong> glass</p><p><strong>Q:</strong> 10. Which of the following chemicals make the washing powder dry?</p><p><strong>Options:</strong> (a) sodium triphosphate or sodium carbonate (b) sodium triphosphate or sodium bicarbonate (c) sodium biphosphate or sodium tricarbonate (d) sodium sulphate and sodium silicate</p><p><strong>Correct answer:</strong> sodium sulphate and sodium silicate</p><p><strong>Q:</strong> 11. Identify the correct statement in the following:</p><p><strong>Options:</strong> (a) hydrogen is inert and helium is explosive (b) hydrogen is explosive and helium is inert (c) hydrogen is light and helium is explosive (d) hydrogen is gas and helium is solid at room temperature</p><p><strong>Correct answer:</strong> hydrogen is explosive and helium is inert</p><p><strong>Q:</strong> 12. If copper, aluminum, iron and lead are left in open air which one will rust?</p><p><strong>Options:</strong> (a) copper (b) aluminum (c) lead (d) iron</p><p><strong>Correct answer:</strong> iron</p><p><strong>Q:</strong> 13. Which one of the following will have lower life cycle cost if used as electrical cables?</p><p><strong>Options:</strong> (a) copper (b) aluminum (c) lead (d) iron</p><p><strong>Correct answer:</strong> copper</p><p><strong>Q:</strong> 14. One of the limitations for copper plumbing is</p><p><strong>Options:</strong> (a) it leaks easily (b) it is capable of carrying water with a specific pH (c) it is not easy to bend and cut (d) it works only in cold environment</p><p><strong>Correct answer:</strong> it is capable of carrying water with a specific pH</p><p><strong>Q:</strong> 15. Pure water has a pH of :</p><p><strong>Options:</strong> (a) 8 (b) 7 (c) 6 (d) 5</p><p><strong>Correct answer:</strong> 7</p><p><strong>Q:</strong> 16. Thermometer is filled with material which should have:</p><p><strong>Options:</strong> (a) high freezing point (b) moderate freezing point (c) low freezing point (d) no fixed freezing point</p><p><strong>Correct answer:</strong> low freezing point</p><p><strong>Q:</strong> 17. Which one of the following ideal to be used in thermometers:</p><p><strong>Options:</strong> (a) water (b) alcohol (c) benzene (d) mercury</p><p><strong>Correct answer:</strong> mercury</p>",
+     "mcqs": [
+      {
+       "q": "Plastic chemically refers to as",
+       "options": [
+        "Natural high molecular weight chain molecule",
+        "Synthetic high molecular weight chain molecule",
+        "Synthetic low molecular weight chain molecule",
+        "Natural low molecular weight chain molecule"
+       ],
+       "answer": 1,
+       "why": "The detailed answer defines plastic chemically as a synthetic high molecular weight chain molecule, or polymer, mostly based on carbon (organic) materials."
+      },
+      {
+       "q": "Why it is not desirable to wear clothes made up of polyester?",
+       "options": [
+        "It does not clean easily",
+        "It is out of fashion",
+        "Its fibres thread apart easily",
+        "It is highly flammable"
+       ],
+       "answer": 3,
+       "why": "The book's keyed answer is that polyester is highly flammable, which makes polyester clothes unsafe to wear, especially near fire."
+      },
+      {
+       "q": "The polymers from which the nylon is made up of are:",
+       "options": [
+        "Polyethylene",
+        "Polyamides",
+        "Polyether",
+        "Polyesters"
+       ],
+       "answer": 1,
+       "why": "Nylon is made from polyamides, as keyed in the book; polyethylene gives polythene and polyesters give polyester-type materials."
+      },
+      {
+       "q": "Latex is a natural source of:",
+       "options": [
+        "Plastics",
+        "Nylon",
+        "Rubber",
+        "Polythene"
+       ],
+       "answer": 2,
+       "why": "Latex is the natural source of rubber, and its purified form is called polyisoprene, as stated in the unit's exercise answers."
+      },
+      {
+       "q": "Sand acts as a natural source for the production of which of the following product?",
+       "options": [
+        "Glass",
+        "Plastic",
+        "Polythene",
+        "Rubber"
+       ],
+       "answer": 0,
+       "why": "The detailed answer explains that silica for glass is found in natural sources, most commonly sand, and is mixed with soda and lime to make glass."
+      },
+      {
+       "q": "Identify the correct statement in the following:",
+       "options": [
+        "Hydrogen is inert and helium is explosive",
+        "Hydrogen is light and helium is explosive",
+        "Hydrogen is explosive and helium is inert",
+        "Hydrogen is gas and helium is solid at room temperature"
+       ],
+       "answer": 2,
+       "why": "The detailed comparison states that hydrogen is highly flammable and forms explosive mixtures with air, while helium is an inert noble gas that never combines with other elements."
+      },
+      {
+       "q": "If copper, aluminum, iron and lead are left in open air which one will rust?",
+       "options": [
+        "Copper",
+        "Aluminum",
+        "Iron",
+        "Lead"
+       ],
+       "answer": 2,
+       "why": "Iron rusts in open air: during rusting, iron combines with oxygen in the atmosphere to produce iron oxide, while copper is resistant to corrosion and does not rust."
+      },
+      {
+       "q": "Which one of the following will have lower life cycle cost if used as electrical cables?",
+       "options": [
+        "Aluminum",
+        "Lead",
+        "Iron",
+        "Copper"
+       ],
+       "answer": 3,
+       "why": "The detailed answer concludes that although aluminum cable can be cheaper to buy, it is harder to install and more failure-prone, so the full life cycle cost of copper cable is lower."
+      },
+      {
+       "q": "Pure water has a pH of:",
+       "options": [
+        "8",
+        "6",
+        "7",
+        "5"
+       ],
+       "answer": 2,
+       "why": "Pure water is neutral, so its pH is 7 — neither acidic (below 7) nor alkaline (above 7) — as keyed in the book."
+      },
+      {
+       "q": "Which one of the following ideal to be used in thermometers:",
+       "options": [
+        "Mercury",
+        "Water",
+        "Alcohol",
+        "Benzene"
+       ],
+       "answer": 0,
+       "why": "The detailed answer concludes that mercury is the most suited thermometer material because its low freezing point and high boiling point together let it measure most temperatures."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Answers",
+     "notes_html": "<h4>Key Points</h4><ul><li>Plastic begins to decompose at about 392°F (200°C) and cannot withstand high temperatures.</li><li>Low-density polythene is made by high-pressure polymerization of ethene gas; high-density polythene is made at lower pressure with catalysts.</li><li>Glass is a mixture of silica (SiO2), soda and lime, heated to 1800°F (982°C); it is 100 percent recyclable.</li><li>In moist air copper forms hydrated copper carbonate, Cu2(OH)2CO3, and it will not rust.</li><li>Copper has a 1.6 times ampacity (current carrying capacity) advantage over aluminum, so it is better for wiring.</li><li>Water cannot be used in a thermometer because it freezes at 0°C; mercury's low freezing point and high boiling point make it ideal.</li><li>Nitrates and nitrites from fertilizers in drinking water can cause blue-baby syndrome (methemoglobinemia).</li><li>CFCs react with ozone in the upper atmosphere and reduce its protection against ultraviolet radiation.</li><li>Recycling a tonne of copper uses only 15% of the energy needed to mine and extract the same copper.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Write answers for the following questions.</strong></p><p><strong>Q:</strong> 1. a. Write in detail the chemical composition and some of the prominent chemical and physical properties of the following material. Plastic</p><p><strong>Ans:</strong> Chemically, plastic refers to a synthetic high molecular weight chain molecule, or polymer, that may have been combined with other ingredients to modify its physical properties. Most plastics are based on carbon, or organic, materials. Physically, plastic is versatile, lightweight, flexible, moisture resistant, durable, strong and relatively inexpensive, and it can be clear or opaque. When heated to moderate temperatures the polymer chains are able to flow past each other, so plastic can be moulded. Because of its organic nature, plastic usually cannot withstand high temperatures and begins to decompose at a temperature around 392°F (200°C).</p><p><strong>Q:</strong> 1. b. Write in detail the chemical composition and some of the prominent chemical and physical properties of the following material. Polythene</p><p><strong>Ans:</strong> Polythene is formed when polymers of ethene are combined together; ethene gas is the monomer. It is produced in two forms: low-density polythene, made by high-pressure polymerization of ethene gas, and high-density polythene, made at lower pressure by using catalysts. Physically, polythene is a tough, white, translucent and waxy thermoplastic, and thermoplastics can be softened by heating. It is used in the manufacture of packaging, bottles, toys, milk containers and the common plastic bag (shopping bag). It does not readily biodegrade and can reside in a landfill for hundreds of years.</p><p><strong>Q:</strong> 1. c. Write in detail the chemical composition and some of the prominent chemical and physical properties of the following material. Glass</p><p><strong>Ans:</strong> Glass manufactured by humans is a mixture of silica (SiO2), soda, lime and minor additives to add colour. Silica is found in a wide variety of natural sources, most commonly sand, and sodium carbonate, or soda, is used to lower the fusion point of silica. The elements of glass are heated to 1800° Fahrenheit (982° Celsius); the resulting fused liquid can be poured into moulds or blown into various shapes. Physically, glass is an amorphous (non-crystalline) solid, typically brittle and optically transparent. When cooled, glass is a strong, minimally conducting substance that will not interact with materials stored inside it, so it is frequently used in scientific laboratories. Glass is 100 percent recyclable.</p><p><strong>Q:</strong> 2. Compare hydrogen with helium. Which element is better to be used in balloons?</p><p><strong>Ans:</strong> Hydrogen is the most abundant element in the universe; it is colourless, highly flammable and light in weight, is diatomic, and mixes well with air so that explosive mixtures are easily formed. Helium is the second most abundant element and a member of the noble gas family; it is inert, meaning it is not very active and will not combine with other elements or compounds — in fact, no compounds of helium have ever been made. Both gases are lighter than air, so balloons filled with either gas rise, and hydrogen is even lighter than helium. However, hydrogen is explosive and the slightest spark can cause a huge explosion, while helium is inert and safe. Therefore helium is better to be used in balloons.</p><p><strong>Q:</strong> 3. Write the chemical and physical properties of copper and compare it with aluminum. Justify which element is better suited to be used in wiring.</p><p><strong>Ans:</strong> Copper is malleable, that is, it can be bent and shaped without cracking, when either hot or cold, and can be rolled into sheets as thin as 1/500 of an inch. It is ductile, that is, it can be drawn out into thin wire, and it is second only to silver in its ability to conduct electricity; it is also an excellent conductor of heat. Copper is resistant to corrosion, that is, it will not rust, and it is a moderately active metal; in moist air it combines with water and carbon dioxide to form hydrated copper carbonate, Cu2(OH)2CO3. Aluminum is a shiny, silvery white coloured metal that is light in weight and strong; its surface is covered with a thin layer of oxide that protects it from attack by air, but if the oxide layer is damaged it will burn in oxygen with a brilliant white flame to form aluminum oxide, Al2O3. For wiring, copper is better suited: it is the most efficient and reliable electrical conductor for commercial and industrial wire and cable, and compared to aluminum it has a significant (1.6 times) ampacity advantage (current carrying capacity), is easier to install and is resistant to corrosion. Although aluminum cable is sometimes less expensive to buy, it is more difficult to install and more prone to failure, so the full life cycle cost of copper cable is lower than aluminum cable.</p><p><strong>Q:</strong> 4. Give a brief description about different materials which can be used in thermometer. Based on their nature justify which is the most suited material for thermometer.</p><p><strong>Ans:</strong> The materials discussed for thermometers are water, alcohol and mercury. Water cannot be used in a thermometer because it freezes at 0°C, which would make the use of a thermometer impossible when it is freezing outside; also, fluctuations are seen in the boiling and freezing points of water, which vary with pressure, although water is used as a standard by which the thermometer is calibrated. Alcohol has a freezing point below 100 degrees Celsius (a low freezing point), so it could be used in thermometers and is perfect for measuring low temperatures, and it expands very nicely within the capillary tubes in which it is held; however, its low boiling point means high temperatures are hard to measure. Mercury also has a low freezing point, and its high boiling point makes it ideal for measuring most temperatures, although it is very expensive and dangerous. On this basis mercury is the most suited material, because its low freezing point and high boiling point together make it ideal for measuring most temperatures.</p><p><strong>Q:</strong> 5. Write three examples of chemical changes which we encounter in our daily life.</p><p><strong>Ans:</strong> A chemical change takes place at the molecular level and produces a new substance that was not there before. Three examples from daily life are: (1) Burning — burning or combustion always involves molecular oxygen O2 and is almost always exothermic (it gives off heat); when wood burns in the presence of O2 a lot of heat is produced, and the products are carbon dioxide and water. (2) Rusting — during rusting, iron (Fe) combines with oxygen (O2) in the atmosphere to produce iron oxide, a new substance. (3) Fermentation — yeast or bacteria convert sugar or other carbohydrates into either an acid or alcohol, as in dough and curds; it only happens in oxygen-free or anaerobic conditions. Respiration and decomposition (decaying) are other daily-life examples given in the unit.</p><p><strong>Q:</strong> 6. Describe the harmful impacts of CFCs, pesticides and fertilizers.</p><p><strong>Ans:</strong> Fertilizers: the toxic chemicals found in fertilizers can be absorbed into the plants and enter the food chain via vegetables and cereals, and the biggest health risk is when the chemicals seep into the ground water which is then extracted for drinking water. Such water can contain high levels of nitrates and nitrites, which can cause blue-baby syndrome (methemoglobinemia). Mercury, lead, cadmium and uranium are some of the toxic heavy metals found in fertilizers, and they can cause disturbances of the kidneys, lungs and liver. Pesticides: pesticides are designed to kill pests, but many can also pose risks to people; some, such as the organophosphates and carbamates, affect the nervous system, others may irritate the skin or eyes, some may be carcinogens, and others may affect the hormone or endocrine system in the body. CFCs: chlorofluorocarbons were regarded as safe refrigerants, but it is now proved that when CFCs are released they react with ozone in the upper atmosphere, reducing this layer's protective properties against ultraviolet radiation; scientists have found that overexposure to UV radiation can cause skin cancers and may suppress proper functioning of the body's immune system and the skin's natural defenses.</p><p><strong>Q:</strong> 7. Recycling is the need of the day. Different types of waste material like plastic, glass, rubber etc if not recycled can pose serious threats to environment. Elaborate the statement.</p><p><strong>Ans:</strong> Recycling is reusing materials in original or changed forms rather than discarding them as wastes. The Earth's natural resources are being consumed at an alarming rate, and research has been suggesting for years that the Earth is being depleted too fast to sustain a healthy balance; recycling, along with reducing consumption, is our best means to counter the damage done to the Earth for centuries. If materials are not recycled, wastes of different nature keep accumulating: for example, polythene does not readily biodegrade and can reside in a landfill for hundreds of years, and widespread use of plastic is causing unprecedented environmental problems and serious health risks. Recycling also saves resources and energy: glass is 100 percent recyclable and can be recycled endlessly without any loss in purity or quality, recycling glass lowers manufacturing costs and reduces CO2 emissions; recycling a tonne of copper uses only 15% of the energy that would be used to mine and extract the same copper, so it conserves fossil fuels and reduces carbon dioxide emissions; recovered rubber can cost half that of natural or synthetic rubber and producing rubber from reclaim uses less energy and conserves non-renewable petroleum products; and recycling iron is cheaper and less environmentally damaging than extracting it from its ores. Recycling is therefore the need of the day, both for the general public and in terms of economy.</p>",
+     "mcqs": [
+      {
+       "q": "Plastic begins to decompose at a temperature around:",
+       "options": [
+        "100°C",
+        "392°F (200°C)",
+        "500°C",
+        "50°C"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that because of its organic nature plastic usually cannot withstand high temperatures and begins to decompose at a temperature around 392°F (200°C)."
+      },
+      {
+       "q": "Low-density polythene is made by:",
+       "options": [
+        "Low-pressure polymerization of ethane",
+        "Polymerization of ethane without pressure",
+        "High-pressure polymerization of ethene gas",
+        "Cooling ethene gas"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that low-density polythene is made by high-pressure polymerization of ethene gas, while high-density polythene is made at lower pressure using catalysts."
+      },
+      {
+       "q": "Helium is better than hydrogen for filling balloons because:",
+       "options": [
+        "Helium is heavier than air",
+        "Hydrogen is inert and helium is explosive",
+        "Helium is coloured",
+        "Helium is inert and safe, while hydrogen is explosive"
+       ],
+       "answer": 3,
+       "why": "Both gases are lighter than air, but the solved answer explains that hydrogen is explosive — the slightest spark can cause a huge explosion — while helium is inert and safe."
+      },
+      {
+       "q": "In moist air, copper combines with water and carbon dioxide to form:",
+       "options": [
+        "Copper oxide",
+        "Hydrated copper carbonate, Cu2(OH)2CO3",
+        "Copper sulphate",
+        "Aluminum oxide, Al2O3"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that copper is resistant to corrosion and will not rust, but in moist air it forms hydrated copper carbonate, Cu2(OH)2CO3, on its surface."
+      },
+      {
+       "q": "Compared to aluminum, copper's ampacity (current carrying capacity) advantage is:",
+       "options": [
+        "1.6 times",
+        "0.6 times",
+        "Equal",
+        "10 times"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that compared to aluminum, copper has a significant (1.6 times) ampacity advantage, is easier to install and is resistant to corrosion, so it is better suited for wiring."
+      },
+      {
+       "q": "Water cannot be used as a thermometer liquid mainly because:",
+       "options": [
+        "It is too expensive",
+        "It freezes at 0°C",
+        "It is coloured",
+        "It does not expand"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains that water freezes at 0°C, which would make a thermometer useless when it is freezing outside; its boiling and freezing points also vary with pressure."
+      },
+      {
+       "q": "When wood burns in the presence of oxygen, the products are:",
+       "options": [
+        "Carbon monoxide and ash only",
+        "Hydrogen and carbon",
+        "Carbon dioxide and water, with a lot of heat produced",
+        "Oxygen and carbon"
+       ],
+       "answer": 2,
+       "why": "The solved answer gives burning as a daily-life chemical change: it always involves molecular oxygen, is almost always exothermic, and when wood burns the products are carbon dioxide and water."
+      },
+      {
+       "q": "High levels of nitrates and nitrites in drinking water (from fertilizers) can cause:",
+       "options": [
+        "Blue-baby syndrome (methemoglobinemia)",
+        "Polio",
+        "Rickets",
+        "Asthma"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that fertilizer chemicals seeping into ground water can raise nitrate and nitrite levels, and such water can cause blue-baby syndrome (methemoglobinemia)."
+      },
+      {
+       "q": "CFCs released into the air harm us because they:",
+       "options": [
+        "Make the air warmer directly",
+        "React with ozone in the upper atmosphere, reducing its protection against ultraviolet radiation",
+        "Cause acid rain",
+        "Poison drinking water"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains that CFCs react with ozone in the upper atmosphere and reduce the layer's protective properties against ultraviolet radiation, increasing skin cancer risk."
+      },
+      {
+       "q": "Recycling a tonne of copper uses only ______ of the energy needed to mine and extract the same copper.",
+       "options": [
+        "50%",
+        "85%",
+        "15%",
+        "100%"
+       ],
+       "answer": 2,
+       "why": "The solved answer on recycling states that recycling a tonne of copper uses only 15% of the energy that would be used to mine and extract the same copper, conserving fossil fuels."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Health, Diseases and Prevention",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Malnutrition means not consuming enough nutrients — the body lacks a balance of nutrients.</li><li>Nicotine in cigarettes is addictive and increases the blood cholesterol level.</li><li>Erythrocyte is another name for a red blood cell; leucocyte is another name for a white blood cell.</li><li>White blood cells provide the major defence of the body against invading bacteria and viruses.</li><li>Plasma makes up most of the volume of normal human blood.</li><li>In leukemia the white blood cells are numerous but defective; in anemia the body cannot get an adequate oxygen supply.</li><li>Hemophilia is caused by the absence of the clotting factor protein.</li><li>Diphtheria is a bacterial disease, tuberculosis is treated with antibiotics, and typhoid is caused by Salmonella typhi.</li><li>Hepatitis affects the liver, and measles is caused by Paramyxovirus.</li><li>HIV is the virus that attacks the immune system and causes AIDS.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Select the correct answers in the following questions.</strong></p><p><strong>Q:</strong> 1. Fast food or junk food has _________________nutritional value.</p><p><strong>Options:</strong> (a) Less (b) High (c) Moderate (d) No</p><p><strong>Correct answer:</strong> Less</p><p><strong>Q:</strong> 2. Malnutrition means</p><p><strong>Options:</strong> (a) Consuming enough nutrients (b) Consuming not enough nutrients (c) Consuming fats only (d) Eating at irregular intervals</p><p><strong>Correct answer:</strong> Consuming not enough nutrients</p><p><strong>Q:</strong> 3. In human body the first choice for the body to consume will be</p><p><strong>Options:</strong> (a) Body protein (b) Body fats (c) Body vitamins (d) Glycogen</p><p><strong>Correct answer:</strong> Glycogen</p><p><strong>Q:</strong> 4. What is drug abuse?</p><p><strong>Options:</strong> (a) Using drug when it is required (b) Taking drug in control quantities (c) Using drugs irregularly (d) Taking a prescription medication that is not prescribed</p><p><strong>Correct answer:</strong> Taking a prescription medication that is not prescribed</p><p><strong>Q:</strong> 5. Which one of the following can results in increasing blood cholesterol level?</p><p><strong>Options:</strong> (a) Tar (b) Nicotine (c) Carbon dioxide (d) Carbon monoxide</p><p><strong>Correct answer:</strong> Nicotine</p><p><strong>Q:</strong> 6. What could be one of the possible health risk associated with smoking</p><p><strong>Options:</strong> (a) Production of red blood cells decreases (b) Brain cell degrade at a fast rate (c) Hardening and narrowing of arteries accelerate (d) All of the above</p><p><strong>Correct answer:</strong> Hardening and narrowing of arteries accelerate</p><p><strong>Q:</strong> 7. Erythrocyte is another name for a</p><p><strong>Options:</strong> (a) Red blood cell (b) White blood cell (c) Platelet (d) Plasma</p><p><strong>Correct answer:</strong> Red blood cell</p><p><strong>Q:</strong> 8. Leucocyte is another name for a Red blood cell</p><p><strong>Options:</strong> (a) Red blood cell (b) Platelet (c) Plasma (d) White blood cell</p><p><strong>Correct answer:</strong> White blood cell</p><p><strong>Q:</strong> 9. Which of the following blood components provide the major defense for our bodies against invading bacteria and viruses?</p><p><strong>Options:</strong> (a) Platelets (b) Plasma (c) White blood cells (d) Red blood cells</p><p><strong>Correct answer:</strong> White blood cells</p><p><strong>Q:</strong> 10. Most of the volume of normal human blood is composed of</p><p><strong>Options:</strong> (a) Platelets (b) Plasma (c) White blood cells (d) Red blood cells</p><p><strong>Correct answer:</strong> Plasma</p><p><strong>Q:</strong> 11. In Leukemia the white blood cells are:</p><p><strong>Options:</strong> (a) Defective (b) Numerous but defective (c) Produce in less number (d) Helping the body immune responses</p><p><strong>Correct answer:</strong> Numerous but defective</p><p><strong>Q:</strong> 12. In anemia the body is unable to get:</p><p><strong>Options:</strong> (a) Proper immune response (b) Proper blood circulation (c) Adequate amount of nutritional support (d) Adequate amount of oxygen supply</p><p><strong>Correct answer:</strong> Adequate amount of oxygen supply</p><p><strong>Q:</strong> 13. The main factor behind hemophilia is the absence of :</p><p><strong>Options:</strong> (a) Gene for platelets production (b) Normal bone marrow (c) Clotting factor protein (d) Normal hormonal control</p><p><strong>Correct answer:</strong> Clotting factor protein</p><p><strong>Q:</strong> 14. One of the following is a bacterial disease:</p><p><strong>Options:</strong> (a) Small pox (b) AIDs (c) Diphtheria (d) Measles</p><p><strong>Correct answer:</strong> Diphtheria</p><p><strong>Q:</strong> 15. Tuberculosis is treated by :</p><p><strong>Options:</strong> (a) Antiviral drugs (b) Antibiotics (c) Surgery (d) Chemotherapy</p><p><strong>Correct answer:</strong> Antibiotics</p><p><strong>Q:</strong> 16. The agent that cause typhoid fever is:</p><p><strong>Options:</strong> (a) Salmonella typhi (b) Escherichia coli (c) Vibrio cholerae (d) Shigella</p><p><strong>Correct answer:</strong> Salmonella typhi</p><p><strong>Q:</strong> 17. Which symptom of small pox infection appears first?</p><p><strong>Options:</strong> (a) Rash (b) Fever (c) Painful muscles (d) Bleeding from nose</p><p><strong>Correct answer:</strong> Fever</p><p><strong>Q:</strong> 18. Which of the following is NOT a symptom of polio?</p><p><strong>Options:</strong> (a) Runny nose (b) Paralysis (c) Breathing difficulty (d) Unable to walk</p><p><strong>Correct answer:</strong> Runny nose</p><p><strong>Q:</strong> 19. Paramyxovirus causes which one of the following disease?</p><p><strong>Options:</strong> (a) Typhoid (b) Measles (c) Polio (d) Small pox</p><p><strong>Correct answer:</strong> Measles</p><p><strong>Q:</strong> 20. Which organ does hepatitis affect?</p><p><strong>Options:</strong> (a) Heart (b) Brain (c) Liver (d) Kidneys</p><p><strong>Correct answer:</strong> Liver</p><p><strong>Q:</strong> 21. HIV is transmitted when the _________________ of an infected person comes into contact with the blood or mucous membrane of a healthy person.</p><p><strong>Options:</strong> (a) clothing or skin (b) blood or other body fluids (c) drugs or alcohol (d) blood or hair</p><p><strong>Correct answer:</strong> blood or other body fluids</p><p><strong>Q:</strong> 22. HIV is _________________.</p><p><strong>Options:</strong> (a) a virus that attacks the immune system (b) a sexually transmitted virus (c) the virus that causes AIDS (d) all of the above</p><p><strong>Correct answer:</strong> all of the above</p><p><strong>Q:</strong> 23. Drug abusers are at risk for HIV infection_________________.</p><p><strong>Options:</strong> (a) only when they inject drugs (b) because drugs can affect the way people make decisions (c) when they share drug injection equipment (d) both B and C</p><p><strong>Correct answer:</strong> both B and C</p>",
+     "mcqs": [
+      {
+       "q": "Malnutrition means",
+       "options": [
+        "Consuming enough nutrients",
+        "Consuming not enough nutrients",
+        "Consuming fats only",
+        "Eating at irregular intervals"
+       ],
+       "answer": 1,
+       "why": "Malnutrition is the condition resulting from not consuming enough nutrients; the detailed answer adds that it can occur even with overeating if the diet lacks a balance of nutrients."
+      },
+      {
+       "q": "Which one of the following can results in increasing blood cholesterol level?",
+       "options": [
+        "Tar",
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Nicotine"
+       ],
+       "answer": 3,
+       "why": "The detailed answer on smoking states that nicotine is addictive and increases cholesterol levels in the body, while tar is the carcinogen and carbon monoxide reduces oxygen in the body."
+      },
+      {
+       "q": "Erythrocyte is another name for a",
+       "options": [
+        "Red blood cell",
+        "White blood cell",
+        "Platelet",
+        "Plasma"
+       ],
+       "answer": 0,
+       "why": "The solved answer on blood composition names the three elements: erythrocytes are red blood cells, leukocytes are white blood cells, and platelets are the third element in plasma."
+      },
+      {
+       "q": "Leucocyte is another name for a",
+       "options": [
+        "Red blood cell",
+        "Platelet",
+        "White blood cell",
+        "Plasma"
+       ],
+       "answer": 2,
+       "why": "Leucocytes are the white blood cells — colourless, nucleated cells that protect the body against attacking microorganisms. (The book's stem wrongly prints 'Red blood cell' at the end of this question; the quiz copy corrects the stem, and the book's key, white blood cell, is unchanged.)"
+      },
+      {
+       "q": "Which of the following blood components provide the major defense for our bodies against invading bacteria and viruses?",
+       "options": [
+        "Platelets",
+        "Plasma",
+        "Red blood cells",
+        "White blood cells"
+       ],
+       "answer": 3,
+       "why": "White blood cells protect the body against attacking microorganisms, so they provide the major defence against invading bacteria and viruses, as keyed in the book."
+      },
+      {
+       "q": "Most of the volume of normal human blood is composed of",
+       "options": [
+        "Plasma",
+        "Platelets",
+        "White blood cells",
+        "Red blood cells"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that plasma is the liquid part of blood and makes up about 55% by volume, while all the blood cells together form about 45%."
+      },
+      {
+       "q": "In Leukemia the white blood cells are:",
+       "options": [
+        "Defective",
+        "Numerous but defective",
+        "Produce in less number",
+        "Helping the body immune responses"
+       ],
+       "answer": 1,
+       "why": "The detailed answer explains that in leukemia abnormal white cells accumulate in the bone marrow and flood the bloodstream, but they cannot protect the body because they are defective."
+      },
+      {
+       "q": "The main factor behind hemophilia is the absence of:",
+       "options": [
+        "Gene for platelets production",
+        "Normal bone marrow",
+        "Clotting factor protein",
+        "Normal hormonal control"
+       ],
+       "answer": 2,
+       "why": "Hemophilia is caused by the absence of the clotting factor protein, so the blood cannot clot properly, as keyed in the book."
+      },
+      {
+       "q": "One of the following is a bacterial disease:",
+       "options": [
+        "Small pox",
+        "AIDs",
+        "Measles",
+        "Diphtheria"
+       ],
+       "answer": 3,
+       "why": "The unit's list of bacterial diseases includes tuberculosis, pertussis, tetanus, diphtheria, typhoid and cholera, while smallpox, measles and AIDS are viral diseases."
+      },
+      {
+       "q": "Tuberculosis is treated by:",
+       "options": [
+        "Antiviral drugs",
+        "Antibiotics",
+        "Surgery",
+        "Chemotherapy"
+       ],
+       "answer": 1,
+       "why": "Tuberculosis is a bacterial disease, so it is treated with antibiotics, as keyed in the book; antiviral drugs are used against viral diseases."
+      },
+      {
+       "q": "The agent that cause typhoid fever is:",
+       "options": [
+        "Escherichia coli",
+        "Vibrio cholerae",
+        "Salmonella typhi",
+        "Shigella"
+       ],
+       "answer": 2,
+       "why": "Typhoid fever is caused by the bacterium Salmonella typhi; Vibrio cholerae causes cholera, as listed in the unit's bacterial diseases."
+      },
+      {
+       "q": "Paramyxovirus causes which one of the following disease?",
+       "options": [
+        "Typhoid",
+        "Polio",
+        "Small pox",
+        "Measles"
+       ],
+       "answer": 3,
+       "why": "Measles is a viral disease caused by Paramyxovirus, as keyed in the book and listed among the viral diseases of the unit."
+      },
+      {
+       "q": "Which organ does hepatitis affect?",
+       "options": [
+        "Heart",
+        "Brain",
+        "Liver",
+        "Kidneys"
+       ],
+       "answer": 2,
+       "why": "Hepatitis is a viral disease that affects the liver, as keyed in the book."
+      },
+      {
+       "q": "HIV is:",
+       "options": [
+        "A virus that attacks the immune system and causes AIDS",
+        "A bacterium that attacks the lungs",
+        "A fungus that infects the skin",
+        "A parasite that infects red blood cells"
+       ],
+       "answer": 0,
+       "why": "HIV is a virus that attacks the immune system and is the virus that causes AIDS. (The book keys 'all of the above'; this quiz copy states that combined answer explicitly, as a single option.)"
+      },
+      {
+       "q": "Drug abusers are at risk for HIV infection",
+       "options": [
+        "Only when they inject drugs",
+        "Because drugs can affect the way people make decisions, and when they share drug injection equipment",
+        "Only through food",
+        "Only through the air"
+       ],
+       "answer": 1,
+       "why": "The book keys 'both B and C': drugs affect the way people make decisions, and sharing drug injection equipment exposes abusers to infected blood; this quiz copy states that combined answer explicitly."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Answers",
+     "notes_html": "<h4>Key Points</h4><ul><li>The WHO (1948) defined health as a state of complete physical, mental and social well being, not merely the absence of disease.</li><li>Plasma is about 55% of the blood by volume; the blood cells form about 45%.</li><li>Red blood cells live for about 120 days and number about five million per cubic millimeter.</li><li>Platelets, about 250,000-500,000 per cubic millimeter, play an important role in the clotting of blood.</li><li>Leukemia is a cancer of the blood-forming cells in the bone marrow; its abnormal white cells are defective.</li><li>In undernutrition the body first uses its glycogen (sugar) reserves, then stored water and body protein, then fats and lean muscle.</li><li>Malaria is caused by the parasite Plasmodium and is transmitted by the bite of an infected Anopheles mosquito.</li><li>Ringworm is caused by fungi called dermatophytes, which infect skin, hair and nails.</li><li>In polio, one in 200 infections leads to irreversible paralysis, usually in the legs.</li><li>On average, each cigarette shortens a smoker's life by around 11 minutes.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Write answers to the following questions.</strong></p><p><strong>Q:</strong> 1. Cleanliness ensures health. Elaborate the statement.</p><p><strong>Ans:</strong> Cleanliness is the most essential practice for good health, and the Holy Qur'an and the Hadith of the Prophet (peace be upon him) lay great stress on it — 'Cleanliness is half of faith.' Dirt is the source of different microorganisms like parasites, bacteria, fungi and viruses which cause diseases, so a person who permits these microscopic organisms to remain in dirt risks ruining his health. Eating clean food is very important, and care must be taken that all the utensils and the raw ingredients of food are clean. Cleanliness in toilets should also be maintained, a daily bath prevents skin infection, and a habit of hand washing, especially after using the toilet and before eating, should be implemented. In this way cleanliness keeps disease-causing germs away from the body and ensures health, which the World Health Organization (1948) defined as a state of complete physical, mental and social well being and not merely an absence of disease or infirmity.</p><p><strong>Q:</strong> 2. Briefly describe the composition of the blood.</p><p><strong>Ans:</strong> Blood is made of three specialized elements called erythrocytes (red blood cells), leukocytes (white blood cells) and platelets, suspended in a complex liquid called plasma. Plasma is the liquid part, about 55% by volume of the blood: about 90% of it by weight is water, about 7–8% is proteins e.g. fibrinogen and antibodies, about 0.9% is salts e.g. sodium chloride and calcium ions, about 0.1% is glucose, and about 2–3% is products of digestion e.g. amino acids and fatty acids. The blood cells form about 45% by volume. Red blood cells are the most numerous (about five million in each cubic millimeter in man), biconcave, without a nucleus, containing haemoglobin, with an average life of about 120 days. White blood cells are colourless, larger than red blood cells, with a nucleus, about 7000 to 8000 per cubic millimeter, with a short life of three to four days, and they protect the body against attacking microorganisms. Platelets are much smaller, oval and without a nucleus, about 250,000–500,000 per cubic millimeter, and they play an important role in the clotting of blood during bleeding.</p><p><strong>Q:</strong> 3. Leukemia and anemia are blood disorders. State their causes and their effects on the body.</p><p><strong>Ans:</strong> Leukemia is a cancer of blood-forming cells in the bone marrow. The risk factors found in studies are exposure to very high levels of radiation, exposure to high levels of chemicals like benzene, and that cancer patients treated with certain cancer-fighting drugs sometimes later develop leukemia. In leukemia abnormal white cells accumulate in the bone marrow and flood the bloodstream, but they cannot protect the body against disease because they are defective, and as it progresses the cancer interferes with the body's production of other blood cells, including red blood cells and platelets. Commonly seen symptoms are weakness or chronic fatigue, headaches, skin rash, non-specific bone pain, fever of unknown origin, frequent bacterial or viral infections, weight loss, easy bruising, and bleeding from gums or nose. Anemia is a common blood disorder caused by an acquired or inherited abnormality of red blood cells to provide adequate oxygen supplies to body tissues. Its causes fall into three major mechanisms: blood loss (excessive bleeding), inadequate production of red blood cells, and excessive destruction of red blood cells. Mild anemia often causes fatigue, weakness and paleness, while more severe anemia may produce faintness, dizziness, increased thirst, sweating, a weak and rapid pulse and rapid breathing, and severe anemia may produce painful lower leg cramps during exercise, shortness of breath and chest pain.</p><p><strong>Q:</strong> 4. Eating behaviour are a major cause of health disorders. List down some health issues which have a relationship with our eating behaviours.</p><p><strong>Ans:</strong> Our dietary intakes, eating habits and the balance of nutrients we consume directly affect our health, and nutritional imbalances like overnutrition and undernutrition may lead to severe health difficulties. Junk food or fast food, which is full of calories and contains an abundance of fat, sugar, sodium and other chemicals with less nutritional value, should make up only a minimal part of a healthy diet: its high fat, sodium and sugar can lead to obesity and a range of attendant health problems, including diabetes, heart disease and arthritis. Many processed foods are also made with fats and large amounts of sodium and sugar, e.g. chips and candies, and such foods should be avoided or eaten infrequently. Overnutrition, frequent or habitual overconsumption of nutrients, is dangerous mostly through excess carbohydrates and fats. Undernutrition and malnutrition also damage health: a person who eats only one kind of food, e.g. rice only in his diet, may suffer from protein deficiency even while eating enough food.</p><p><strong>Q:</strong> 5. Differentiate between malnutrition and under nutrition.</p><p><strong>Ans:</strong> Malnutrition is a condition resulting from not consuming enough nutrients, but it is not synonymous with undereating — it can occur despite overeating. This is because proper nutrition requires a balance of all nutrients, which is not present in all foods, so the body requires a balance of many different foods; even in overnutrition a person may develop a deficiency in certain nutrients if he fails to consume the proper variety of foods. Other causes of malnutrition unrelated to the amount of food eaten include digestion or absorption problems and certain medical conditions. Undernutrition, by contrast, is the opposite of overnutrition: it is a nutrient deficiency from not eating enough food, and it usually affects the balance of all the nutrients in the body. If a person is undernourished, the body first starts using its glycogen or sugar reserves, stored water and body protein, and then consumes stored fatty acids and lean muscle, which results in a dramatic decrease in body weight.</p><p><strong>Q:</strong> 6. Proper sleep and physical activities are vital for healthy growth and healthy life. Give your assessment of this statement.</p><p><strong>Ans:</strong> The statement is correct. People of all ages, both male and female, benefit from regular physical activity: significant health benefits can be obtained by doing moderate exercise e.g. 30 minutes of brisk walking, 15 minutes of running, or 45 minutes of playing volleyball daily. Physical activity reduces the risk of premature death in general, and of coronary heart disease, hypertension, colon cancer and diabetes mellitus in particular, and it also improves mental health and is important for the health of muscles, bones and joints. Rest and sleep are equally necessary, because humans are not created to work indefinitely and there should be a balance between productive times and resting times. While we rest and sleep the body cleanses, repairs, heals and renews itself, the tissues of the brain are restored, new information and memories are stored, and the nerves are recharged. If we try to keep going without breaks we feel exhausted, tired and worn out, and modern research has proved that insufficient rest and sleep can even shorten the life of an individual and put people at higher risk for accidents.</p><p><strong>Q:</strong> 7. Enlist the viral, bacterial, fungal and parasitic diseases that you have studied in this unit.</p><p><strong>Ans:</strong> Bacterial diseases studied in this unit are: tuberculosis (TB), pertussis (whooping cough), tetanus, diphtheria, typhoid and cholera. Viral diseases are: smallpox, polio, measles, hepatitis and AIDS. Fungal diseases named in the unit are: ringworm, Athlete's foot and histoplasmosis, of which ringworm is described in detail. Parasitic diseases are: malaria, threadworm (pinworm or seatworm) infestation and ascariasis.</p><p><strong>Q:</strong> 8. Give a detail note on the causes, symptoms and preventions of the following diseases. b. Malaria c. Ringworm</p><p><strong>Ans:</strong> (b) Malaria: Malaria is an infectious disease caused by a parasite, Plasmodium, which infects red blood cells. Its life cycle involves two hosts, humans and Anopheles mosquitoes, and the disease is transmitted to humans when an infected Anopheles mosquito bites a person and injects the malaria parasites into the blood. It is characterized by cycles of chills, fever, pain and sweating; the characteristic symptoms include a flu-like illness with fever, chills, muscle aches and headache, and some patients develop nausea, vomiting, cough and diarrhea, with cycles of chills, fever and sweating repeating every one, two or three days. For prevention, people should avoid malaria-endemic areas of the world, use mosquito repellents, cover exposed skin and use mosquito nets while sleeping, and travellers to an area known to have malaria need to find out which medications to take and take them as prescribed; there is no vaccine available for malaria in the book's account. Mild malaria can be treated with oral medication, and chloroquine phosphate (Aralen) is the drug of choice for all malarial parasites except chloroquine-resistant Plasmodium strains. (c) Ringworm: The causative agents of ringworm are collectively known as dermatophytes, which are fungi that may infect skin, hair and nails. If the fungi invade the skin they produce a circular white area which grows in all directions, and nail destruction and hair loss may occur. Ringworm spreads in the community by direct contact with the patient or infected animals, and the use of common showers and swimming pools or sharing of towels and sports wear are the causes of transmission. The disease can be prevented by avoiding common baths and poorly managed swimming pools and by using personal towels and sports wear only, and ringworm can be treated by antifungal tablets and ointments.</p><p><strong>Q:</strong> Note on Question 8:</p><p><strong>Ans:</strong> In the printed book, sub-part (a) of Question 8 is missing: printed page 131 ends immediately after the question stem and printed page 132 begins at 'b. Malaria'. Only the two printed sub-parts (b. Malaria and c. Ringworm) are solved above; sub-part (a) has not been reproduced or guessed.</p><p><strong>Q:</strong> 9. Polio can be prevented by vaccination. Pakistan is one of the few countries in the world where polio cases have been still identified. Investigate into the causes why people in some parts of the country are hesitant to give polio vaccines to their children.</p><p><strong>Ans:</strong> Polio is an acute viral infection caused by the polio virus, and it occurs among young children especially under 5 years of age. The virus damages motor neurons, due to which the patient loses power in the limbs leading to paralysis: one in 200 infections leads to irreversible paralysis (usually in the legs), and among those paralysed, 5% to 10% die when their breathing muscles become immobilized. Once polio occurs and damages neurons its effects cannot be reversed, so immunization is very important. Immunization against the disease through the oral vaccine (polio drops) is highly effective, and it should be given to all children under the age of 5 years. The World Health Organization (WHO) is working toward eradicating polio throughout the world, and by 2010 only four countries (Afghanistan, India, Nigeria and Pakistan) remained polio-endemic, down from more than 125 in 1988 when the programme was launched. It follows from the unit that wherever children are not brought for the polio drops — that is, wherever parents remain hesitant and their children miss immunization — those children stay unprotected, the virus continues to circulate, and cases continue to be identified, which is why every child under five must be given the vaccine.</p><p><strong>Q:</strong> 10. Smoking is the first step to drug addiction. Enlist some of the health hazards associated with smoking.</p><p><strong>Ans:</strong> Smoking is regarded as a first step before someone gets into some serious drug addiction, and in fact it is the first step towards self destruction. On average, each cigarette shortens a smoker's life by around 11 minutes and reduces life expectancy by seven to eight years. Cigarettes contain more than 4000 chemical compounds and at least 400 toxic substances; the most damaging products are tar, a carcinogen (substance that causes cancer), nicotine, which is addictive and increases cholesterol levels in the body, and carbon monoxide, which reduces oxygen in the body. Cardiovascular disease (diseases related to heart and vessels) is the main cause of death due to smoking: smoking accelerates the hardening and narrowing of the arteries (atherosclerosis), and blood clots in the heart and brain are the most common causes of sudden death. Smokers are more likely to get cancer than non-smokers, particularly lung cancer, throat cancer and mouth cancer. Smoking also stains the teeth and gums and increases the risk of periodontal disease, which causes swollen gums, bad breath and teeth to fall out. Passive smoking is also harmful: children who grow up in a home where their parents and relatives smoke have twice the risk of getting asthma and asthmatic bronchitis and a higher risk of allergies, and for adults passive smoking seems to increase the risk of lung cancer.</p>",
+     "mcqs": [
+      {
+       "q": "According to the WHO (1948), health is:",
+       "options": [
+        "Merely the absence of disease",
+        "A state of complete physical, mental and social well being, not merely an absence of disease or infirmity",
+        "Freedom from pain only",
+        "A strong body only"
+       ],
+       "answer": 1,
+       "why": "The solved answer quotes the World Health Organization (1948) definition of health as a state of complete physical, mental and social well being and not merely an absence of disease or infirmity."
+      },
+      {
+       "q": "Plasma makes up about ______ of the blood by volume.",
+       "options": [
+        "45%",
+        "90%",
+        "55%",
+        "10%"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that plasma is the liquid part, about 55% by volume of the blood, while the blood cells form about 45% by volume."
+      },
+      {
+       "q": "The average life of a red blood cell is about:",
+       "options": [
+        "3 to 4 days",
+        "120 days",
+        "1 year",
+        "30 days"
+       ],
+       "answer": 1,
+       "why": "The solved answer describes red blood cells as biconcave, without a nucleus, containing haemoglobin, about five million per cubic millimeter, with an average life of about 120 days."
+      },
+      {
+       "q": "Platelets play an important role in:",
+       "options": [
+        "Carrying oxygen",
+        "Fighting germs",
+        "The clotting of blood during bleeding",
+        "Making plasma"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that platelets — about 250,000-500,000 per cubic millimeter, much smaller and without a nucleus — play an important role in the clotting of blood during bleeding."
+      },
+      {
+       "q": "Leukemia is a cancer of:",
+       "options": [
+        "The liver cells",
+        "Blood-forming cells in the bone marrow",
+        "The skin cells",
+        "The nerve cells"
+       ],
+       "answer": 1,
+       "why": "The solved answer defines leukemia as a cancer of blood-forming cells in the bone marrow, whose abnormal white cells accumulate but are defective and cannot protect the body."
+      },
+      {
+       "q": "When a person is undernourished, the body first starts using its:",
+       "options": [
+        "Lean muscle",
+        "Body fats",
+        "Glycogen or sugar reserves",
+        "Vitamins"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that in undernutrition the body first starts using its glycogen or sugar reserves, then stored water and body protein, and then stored fatty acids and lean muscle."
+      },
+      {
+       "q": "Malaria is caused by a parasite called ______ and is transmitted by the bite of an infected ______ mosquito.",
+       "options": [
+        "Vibrio; Culex",
+        "Plasmodium; Anopheles",
+        "Salmonella; Anopheles",
+        "Plasmodium; House"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that malaria is an infectious disease caused by a parasite, Plasmodium, which infects red blood cells and is injected into the blood when an infected Anopheles mosquito bites a person."
+      },
+      {
+       "q": "Ringworm is caused by fungi collectively known as:",
+       "options": [
+        "Dermatophytes",
+        "Plasmodium",
+        "Antibodies",
+        "Leucocytes"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that the causative agents of ringworm are collectively known as dermatophytes, fungi that may infect skin, hair and nails."
+      },
+      {
+       "q": "In polio, how many infections lead to irreversible paralysis?",
+       "options": [
+        "One in 10",
+        "Every infection",
+        "One in 200",
+        "One in 5"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that polio damages motor neurons and one in 200 infections leads to irreversible paralysis (usually in the legs), which is why immunization of every child under five is essential."
+      },
+      {
+       "q": "On average, each cigarette shortens a smoker's life by around:",
+       "options": [
+        "1 minute",
+        "11 minutes",
+        "1 hour",
+        "11 hours"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that on average each cigarette shortens a smoker's life by around 11 minutes and reduces life expectancy by seven to eight years."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Population and Environment",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>A population with birth rate equal to death rate is stable.</li><li>Each environment supports a limited population depending upon its carrying capacity.</li><li>The number of births per 1000 is the crude birth rate; the study of population is called demography.</li><li>Crude death rate = total deaths in a year / total population in that year x 1000, and it is also known as the mortality rate.</li><li>Life span is the maximum number of years an individual could live.</li><li>Sustainable development is economic development that takes future generations into account.</li><li>Urbanization means the rapid growth of cities, and deforestation brings about soil erosion.</li><li>Population changes take place primarily due to births, deaths and migration together.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Select the correct answers for the following questions.</strong></p><p><strong>Q:</strong> 1. A population with birth rate equal to death rate is:</p><p><strong>Options:</strong> (a) Increasing (b) Decreasing (c) Stable (d) Growing</p><p><strong>Correct answer:</strong> Stable</p><p><strong>Q:</strong> 2. Each environment supports a limited population depending upon its:</p><p><strong>Options:</strong> (a) Biotic potential (b) Carrying capacity (c) Birth rate (d) Reproductive potential</p><p><strong>Correct answer:</strong> Carrying capacity</p><p><strong>Q:</strong> 3. Number of births per 1000 is:</p><p><strong>Options:</strong> (a) Growth rate (b) Conception rate (c) Reproduction rate (d) Crude birth rate</p><p><strong>Correct answer:</strong> Crude birth rate</p><p><strong>Q:</strong> 4. The study of population is called</p><p><strong>Options:</strong> (a) Demography (b) Population explosion (c) Population dynamics (d) Census</p><p><strong>Correct answer:</strong> Demography</p><p><strong>Q:</strong> 5. Removing natural resources and adding to environmental problems through pollution are major factors in a process called __________.</p><p><strong>Options:</strong> (a) The green revolution (b) Environmental degradation (c) The biotechnological revolution (d) The greenhouse effect</p><p><strong>Correct answer:</strong> Environmental degradation</p><p><strong>Q:</strong> 6. The changes in population take place primarily due to the changes in:</p><p><strong>Options:</strong> (a) Births (b) Migration (c) Death (d) All of the above</p><p><strong>Correct answer:</strong> All of the above</p><p><strong>Q:</strong> 7. Crude death rate is</p><p><strong>Options:</strong> (a) Total death in a specific year / total population in that year multiplied by 1000 (b) Total population in that year - total death in a specific year (c) Total population in that year + total death in a specific year (d) Total death in a specific year / total population in that multiplied by 100 year</p><p><strong>Correct answer:</strong> Total death in a specific year / total population in that year multiplied by 1000</p><p><strong>Q:</strong> 8. Crude death rate is also known as</p><p><strong>Options:</strong> (a) Mortality rates (b) Infant mortality rate (c) life span (d) None of these</p><p><strong>Correct answer:</strong> Mortality rates</p><p><strong>Q:</strong> 9. The maximum number of year that an individual could live</p><p><strong>Options:</strong> (a) Life span (b) Life expectancy (c) Birth rate (d) Fertility</p><p><strong>Correct answer:</strong> Life span</p><p><strong>Q:</strong> 10. What is the official definition of Sustainable Development?</p><p><strong>Options:</strong> (a) Reducing environmental impact (b) Using less energy in production (c) Economic development that takes future generations into account (d) None of these</p><p><strong>Correct answer:</strong> Economic development that takes future generations into account</p><p><strong>Q:</strong> 11. Why is the rate of urban growth in the world's less developed regions so much higher than elsewhere?</p><p><strong>Options:</strong> (a) Rates of population growth are higher in developing countries as compared to industrialized nations. (b) Rates of population growth are lower in developing countries than they are in industrialized nations. (c) There is widespread internal warfare in rural areas. (d) There is lack of education in the developing countries</p><p><strong>Correct answer:</strong> Rates of population growth are higher in developing countries as compared to industrialized nations.</p><p><strong>Q:</strong> 12. As the population of developing countries undergoes a demographic transition in the years to come, what is likely to be the consequence?</p><p><strong>Options:</strong> (a) The population of these countries will steadily fall. (b) There will be rapid growth of cities as more people migrate there in search of employment. (c) There will be less famine and food shortages will decrease. (d) There will be a decrease in religiosity.</p><p><strong>Correct answer:</strong> There will be rapid growth of cities as more people migrate there in search of employment.</p><p><strong>Q:</strong> 13. Urbanization mean:</p><p><strong>Options:</strong> (a) The overcrowding of immigrant neighborhoods (b) The result of what happens to an individual when exposed to city life. (c) Decisions reached about the use of available land in a city (d) Rapid growth of cities</p><p><strong>Correct answer:</strong> Rapid growth of cities</p><p><strong>Q:</strong> 14. Deforestation brings about:</p><p><strong>Options:</strong> (a) Increased sunlight (b) Weeds or unwanted plants Control (c) Soil erosion (d) Increased grazing area</p><p><strong>Correct answer:</strong> Soil erosion</p>",
+     "mcqs": [
+      {
+       "q": "A population with birth rate equal to death rate is:",
+       "options": [
+        "Increasing",
+        "Decreasing",
+        "Growing",
+        "Stable"
+       ],
+       "answer": 3,
+       "why": "When the birth rate equals the death rate, the natural growth rate (birth rate minus death rate) is zero, so the population stays stable, as keyed in the book."
+      },
+      {
+       "q": "Each environment supports a limited population depending upon its:",
+       "options": [
+        "Biotic potential",
+        "Carrying capacity",
+        "Birth rate",
+        "Reproductive potential"
+       ],
+       "answer": 1,
+       "why": "The detailed answer defines carrying capacity as the maximum number of humans an area is capable of supporting in terms of available resources, so it limits the population an environment supports."
+      },
+      {
+       "q": "Number of births per 1000 is:",
+       "options": [
+        "Growth rate",
+        "Conception rate",
+        "Crude birth rate",
+        "Reproduction rate"
+       ],
+       "answer": 2,
+       "why": "The detailed answer defines the crude birth rate as the number of live births for every thousand people in a population, calculated as births divided by total population, multiplied by 1,000."
+      },
+      {
+       "q": "The study of population is called",
+       "options": [
+        "Demography",
+        "Population explosion",
+        "Population dynamics",
+        "Census"
+       ],
+       "answer": 0,
+       "why": "Demography, from the Greek word meaning 'description of people', is the study of human populations — their size, composition and movement — as stated in the detailed answer."
+      },
+      {
+       "q": "The changes in population take place primarily due to the changes in:",
+       "options": [
+        "Births only",
+        "Deaths only",
+        "Migration only",
+        "Births, deaths and migration"
+       ],
+       "answer": 3,
+       "why": "The detailed answers show that population size is influenced by fertility (births), mortality (deaths) and migration together. (The book keys 'All of the above'; this quiz copy states that combined answer explicitly.)"
+      },
+      {
+       "q": "Crude death rate is",
+       "options": [
+        "Total death in a specific year / total population in that year multiplied by 1000",
+        "Total population in that year - total death in a specific year",
+        "Total population in that year + total death in a specific year",
+        "Total death in a specific year multiplied by 1000"
+       ],
+       "answer": 0,
+       "why": "The detailed answer calculates the crude death rate by dividing the number of deaths in a year by the total population and multiplying the result by 1,000. (The book's fourth option is garbled in print; this quiz copy cleans it into a readable wrong formula.)"
+      },
+      {
+       "q": "The maximum number of year that an individual could live",
+       "options": [
+        "Life expectancy",
+        "Life span",
+        "Birth rate",
+        "Fertility"
+       ],
+       "answer": 1,
+       "why": "Life span is the maximum number of years an individual could live, while life expectancy is the average lifespan of a society's population, as keyed in the book."
+      },
+      {
+       "q": "What is the official definition of Sustainable Development?",
+       "options": [
+        "Reducing environmental impact",
+        "Using less energy in production",
+        "Economic development that takes future generations into account",
+        "Stopping all development"
+       ],
+       "answer": 2,
+       "why": "Sustainable development, as the detailed answer quotes, is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+      },
+      {
+       "q": "Urbanization mean:",
+       "options": [
+        "The overcrowding of immigrant neighborhoods",
+        "Rapid growth of cities",
+        "Decisions reached about the use of available land in a city",
+        "The result of what happens to an individual when exposed to city life"
+       ],
+       "answer": 1,
+       "why": "Urbanization means the rapid growth of cities, driven by population growth and migration of people to cities in search of employment, as keyed in the book."
+      },
+      {
+       "q": "Deforestation brings about:",
+       "options": [
+        "Increased sunlight",
+        "Weeds or unwanted plants Control",
+        "Increased grazing area",
+        "Soil erosion"
+       ],
+       "answer": 3,
+       "why": "The detailed answer lists the results of deforestation: soil erosion, destruction of habitats, extinction of many species, floods, climatic changes and desertification."
+      }
+     ]
+    },
+    {
+     "title": "Detailed Answers",
+     "notes_html": "<h4>Key Points</h4><ul><li>Demographers find the natural growth rate by subtracting the crude death rate from the crude birth rate.</li><li>Infant mortality rate is the number of deaths among infants under age one for each 1,000 live births in a year.</li><li>Migration into an area is immigration; migration out of an area is emigration; movement within a country is internal migration.</li><li>Carrying capacity is the maximum number of humans an area can support in terms of available resources.</li><li>Per the book's Table 4.3, Afghanistan has the highest growth rate (2.21%) and China the lowest (0.49%); Pakistan's is 1.51%.</li><li>Deforestation leads to soil erosion, destruction of habitats, extinction of species, floods, climatic changes and desertification.</li><li>Sustainable development 'meets the needs of the present without compromising the ability of future generations to meet their own needs' (World Commission on Environment and Development).</li><li>The concept of sustainable development was introduced to the world at meetings such as the Earth Summit in Rio, Brazil, in 1992.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Write answers to the following questions.</strong></p><p><strong>Q:</strong> Q.1 Define demography?</p><p><strong>Ans:</strong> Demography, from the Greek word meaning 'description of people', is the study of human populations. The discipline examines the size and composition of populations, as well as the movement of people from one region to another region. Demographers also analyze the effects of population growth and its control, and demographic variables such as fertility, mortality and life expectancy, migration, urbanization, and carrying capacity of the environment play central roles in this study.</p><p><strong>Q:</strong> Q.2 Differentiate between birth rate and death rate.</p><p><strong>Ans:</strong> The birth rate, used to determine a country's fertility rate, is the crude birth rate — the number of live births for every thousand people in a population. Demographers calculate it by dividing the number of live births in a year by the total population, and then multiplying the result by 1,000. The death rate is the crude death rate, or the number of deaths annually per 1,000 people in the population, calculated by dividing the number of deaths in a year by the total population and multiplying the result by 1,000. Demographers determine a population's natural growth rate by subtracting the crude death rate from the crude birth rate.</p><p><strong>Q:</strong> Q.3 What do you mean by infant mortality rate?</p><p><strong>Ans:</strong> The infant mortality rate is the number of deaths among infants under age one for each 1,000 live births in a year. It provides demographers with an important measure of a society's population. A low infant mortality rate correlates with a higher life expectancy, which is the average lifespan of a society's population.</p><p><strong>Q:</strong> Q.4 Define the term migration. Differentiate between immigration and emigration.</p><p><strong>Ans:</strong> Migration is the movement of people from one place to another, and it affects population size. Some migration is involuntary, such as when slaves were brought to America, while other migration is voluntary, such as when families move from cities into suburbs. Migration into an area is called immigration, measured as the immigration rate, which is the number of people entering a region per each 1,000 people in the population. Migration out of an area is emigration, measured as the emigration rate, which is the number leaving per each 1,000 people in the population. Movement from one area to another within a country's borders is called internal migration.</p><p><strong>Q:</strong> Q.5 What is the significance of carrying capacity of an area?</p><p><strong>Ans:</strong> Carrying capacity is the maximum number of humans an area is capable of supporting in terms of available resources, so as population density in a given area increases, it approaches this limit. Any area has a limited carrying capacity in terms of resources and space, and once that carrying capacity is taken over by overpopulation, degradation slowly and gradually takes its root. When an area reaches carrying capacity, people may leave for a different area, people may become generally less healthy and thus less able to reproduce, population pressure may lead to war, or unsanitary conditions and close proximity may lead to a disease outbreak. For humans the calculation is complex, because we can use technology to improve resource production, ship in resources from other areas, and create sanitation systems and other infrastructure to support higher density.</p><p><strong>Q:</strong> Q.6 What do you mean by population growth? Give a comparative account of population growth of Pakistan and its neighbors.</p><p><strong>Ans:</strong> Population growth is the increase in the size of a population, influenced by fertility, mortality, and migration; demographers find the natural growth rate by subtracting the crude death rate from the crude birth rate. Poorer countries tend to grow almost completely from internal causes, for example high birth rates, while richer countries tend to grow from both internal causes and migration, and high-growth countries tend to be less industrialized. According to Table 4.3, China has 12.2 births and 6.9 deaths per 1,000 population, a population of 1,300 million and a growth rate of 0.49 percent; Pakistan has 25.1 births and 7.1 deaths per 1,000, a population of 177.2 million and a growth rate of 1.51 percent; Bangladesh has 23.8 births and 9.1 deaths per 1,000, a population of 158.1 million and a growth rate of 1.27 percent; India has 21.3 births and 7.5 deaths per 1,000, a population of 1,100 million and a growth rate of 1.38 percent; and Afghanistan has 40 births and 15 deaths per 1,000, a population of 29.121 million and a growth rate of 2.21 percent. Thus Afghanistan has the highest growth rate among these countries, Pakistan's growth rate is higher than those of India, Bangladesh and China, and China has the lowest growth rate.</p><p><strong>Q:</strong> Q.7 How do overpopulation has its impact on the agriculture and forests?</p><p><strong>Ans:</strong> The ever-increasing human population growth requires more food, which has resulted in extensive agriculture, and bringing more land under cultivation results in the destruction of habitats. Extensive agriculture requires supply of water and development of canals, which in turn causes water-logging and salinity, and in order to increase the yield, the use of fertilizers and pesticides is a common practice: over-use of fertilizers has polluted soil and water, and over-use of pesticides and herbicides can make water toxic, which can affect aquatic life. Plants in which genes have been altered absorb more nutrients, making soil depletion a problem, and excessive irrigation can cause loss of top fertile soil. Forests are destroyed for cultivation, and cutting forests and clearing land for agriculture results in soil erosion, which results in silting that decreases the life span of dams. Deforestation — the unwise and unplanned destruction or removal of trees, also driven by the need for land for roads, houses and pastures and for timber and fuel wood — leads to soil erosion, destruction of habitats, extinction of many species, floods, climatic changes and desertification.</p><p><strong>Q:</strong> Q.8 Sustainable development is key to survival in this modern day world. Evaluate the statement critically.</p><p><strong>Ans:</strong> Planet Earth has limited resources like fossil fuels, water, forests and food, and these are being constantly used and depleted with every passing moment, so excessive and unwise use has convinced conservationists and planners that if urgent measures are not taken, the world may face extreme shortage or these resources may vanish forever. The strategy to cope with this situation is to use the resource in such a way that it can be used for the present generation but at the same time it is conserved for the coming generations; according to the World Commission on Environment and Development, sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs, a concept introduced to the world at meetings such as the Earth Summit in Rio, Brazil, in 1992. However, the idea faces serious challenges due to rapid growth in population, especially in the developing and poor countries: with limited resources and increase in poverty, rapid population growth is a major obstacle to poverty reduction, unwise and unmanaged environmental exploitation is a major hurdle in sustainable management of environmental resources, and problems of health facilities, balanced and nutritious diet, rising unemployment and inflation can increase the risks of political instability and conflict. Since population is a key factor in planning and any plan for sustainable development requires a proper system of check and control of population, countries facing overpopulation must realize that until and unless they are able to control their population, prosperity will remain a dream never to be achieved — which is why sustainable development is rightly called the key to survival.</p>",
+     "mcqs": [
+      {
+       "q": "A population's natural growth rate is found by:",
+       "options": [
+        "Adding the crude birth rate and crude death rate",
+        "Subtracting the crude death rate from the crude birth rate",
+        "Dividing births by deaths",
+        "Counting the census"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that demographers determine a population's natural growth rate by subtracting the crude death rate from the crude birth rate."
+      },
+      {
+       "q": "The infant mortality rate is:",
+       "options": [
+        "The number of deaths among infants under age one for each 1,000 live births in a year",
+        "The total deaths in a year",
+        "The number of births per 1,000 people",
+        "The average lifespan of a population"
+       ],
+       "answer": 0,
+       "why": "The solved answer defines the infant mortality rate exactly this way and notes that a low infant mortality rate correlates with a higher life expectancy."
+      },
+      {
+       "q": "Movement of people from one area to another within a country's borders is called:",
+       "options": [
+        "Immigration",
+        "Emigration",
+        "Internal migration",
+        "Urbanization"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that migration into an area is immigration, migration out is emigration, and movement within a country's borders is called internal migration."
+      },
+      {
+       "q": "The immigration rate is the number of people entering a region per:",
+       "options": [
+        "Each 100 people in the population",
+        "Each 1,000 people in the population",
+        "Each 10,000 people in the population",
+        "Year only"
+       ],
+       "answer": 1,
+       "why": "The solved answer measures immigration as the number of people entering a region per each 1,000 people in the population; emigration rate is measured the same way for people leaving."
+      },
+      {
+       "q": "According to the book's Table 4.3, which country has the highest population growth rate?",
+       "options": [
+        "Pakistan",
+        "India",
+        "China",
+        "Afghanistan"
+       ],
+       "answer": 3,
+       "why": "The solved answer compares Table 4.3: Afghanistan has 40 births and 15 deaths per 1,000 and a growth rate of 2.21 percent — the highest — while China has the lowest at 0.49 percent."
+      },
+      {
+       "q": "According to the book's Table 4.3, Pakistan's population growth rate is:",
+       "options": [
+        "0.49 percent",
+        "1.51 percent",
+        "2.21 percent",
+        "1.27 percent"
+       ],
+       "answer": 1,
+       "why": "The solved answer records Pakistan with 25.1 births and 7.1 deaths per 1,000, a population of 177.2 million and a growth rate of 1.51 percent — higher than India, Bangladesh and China."
+      },
+      {
+       "q": "Cutting forests and clearing land for agriculture results in soil erosion, which in turn causes:",
+       "options": [
+        "More rainfall",
+        "Silting that decreases the life span of dams",
+        "Fertile soil to increase",
+        "Cooler climate"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that deforestation for cultivation results in soil erosion, which results in silting that decreases the life span of dams."
+      },
+      {
+       "q": "According to the World Commission on Environment and Development, sustainable development is development that:",
+       "options": [
+        "Uses all resources as fast as possible",
+        "Meets the needs of the present without compromising the ability of future generations to meet their own needs",
+        "Stops population growth completely",
+        "Depends only on fossil fuels"
+       ],
+       "answer": 1,
+       "why": "The solved answer quotes this definition of sustainable development from the World Commission on Environment and Development."
+      },
+      {
+       "q": "The concept of sustainable development was introduced to the world at meetings such as the Earth Summit held in 1992 in:",
+       "options": [
+        "Rio, Brazil",
+        "Karachi, Pakistan",
+        "New York, USA",
+        "London, UK"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that sustainable development is a concept introduced to the world at meetings such as the Earth Summit in Rio, Brazil, in 1992."
+      },
+      {
+       "q": "Carrying capacity is:",
+       "options": [
+        "The number of births per 1,000 people",
+        "The maximum number of humans an area is capable of supporting in terms of available resources",
+        "The speed of population growth",
+        "The total area of a country"
+       ],
+       "answer": 1,
+       "why": "The solved answer defines carrying capacity exactly this way: any area has a limited carrying capacity in terms of resources and space, and beyond it degradation begins."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Energy Sources",
+   "lessons": [
+    {
+     "title": "Multiple Choice Questions",
+     "notes_html": "<h4>Key Points</h4><ul><li>Fuel formed under the earth's surface by the decomposition of organic matter is called fossil fuel.</li><li>Natural gas causes the least pollution when burnt, and it is not a renewable source of energy.</li><li>A solar cell is made of silicon and converts solar energy into electrical energy.</li><li>The fuel used in a nuclear reactor is uranium.</li><li>Lignite is the state of coal with the lowest carbon content.</li><li>One unit of electricity means one kilowatt hour.</li><li>Solar energy stored in wood, grain, sugar and municipal waste is called biomass.</li><li>A fuel cell combines hydrogen and oxygen to produce electricity, heat and water.</li><li>Burning of fossil fuels causes both air pollution and global warming.</li></ul><h4>Solved Exercises</h4><p><strong>Exercise A: Select the correct answers for the following questions.</strong></p><p><strong>Q:</strong> 1. Fuel formed under the earth's surface by the decomposition of organic matter is called _____</p><p><strong>Options:</strong> (a) Organic fuel (b) Biogas (c) Fossil fuel (d) Inorganic fuel</p><p><strong>Correct answer:</strong> Fossil fuel</p><p><strong>Q:</strong> 2. Which of the following causes the least pollution when burnt?</p><p><strong>Options:</strong> (a) Petrol (b) Diesel (c) Coal (d) Natural gas</p><p><strong>Correct answer:</strong> Natural gas</p><p><strong>Q:</strong> 3. Which of these is not a renewable source of energy?</p><p><strong>Options:</strong> (a) The sun (b) Natural gas (c) Wind (d) Ocean tidal energy</p><p><strong>Correct answer:</strong> Natural gas</p><p><strong>Q:</strong> 4. A solar cell is made up of</p><p><strong>Options:</strong> (a) Silicon (b) Teflon (c) Titanium (d) Magnesium</p><p><strong>Correct answer:</strong> Silicon</p><p><strong>Q:</strong> 5. A solar cell converts _____</p><p><strong>Options:</strong> (a) Heat energy into electrical energy (b) Solar energy into electrical energy (c) Heat energy into light energy (d) Solar energy into light energy</p><p><strong>Correct answer:</strong> Solar energy into electrical energy</p><p><strong>Q:</strong> 6. The fuel used in the nuclear reactor is _____</p><p><strong>Options:</strong> (a) Cadmium (b) Uranium (c) Radium (d) Thorium</p><p><strong>Correct answer:</strong> Uranium</p><p><strong>Q:</strong> 7. The state of coal, with lowest carbon content is _____</p><p><strong>Options:</strong> (a) Bituminous coal (b) Anthracite coal (c) Lignite (d) None of these</p><p><strong>Correct answer:</strong> Lignite</p><p><strong>Q:</strong> 8. A unit of electricity means</p><p><strong>Options:</strong> (a) Megawatt (b) Nanowatt (c) Kilowatt hour (d) Joule</p><p><strong>Correct answer:</strong> Kilowatt hour</p><p><strong>Q:</strong> 9. Which of the following problems is associated with the burning of coal?</p><p><strong>Options:</strong> (a) Acid rain (b) Carbon dioxide emissions (c) Ash with toxic metal impurities (d) All of these</p><p><strong>Correct answer:</strong> All of these</p><p><strong>Q:</strong> 10. Solar energy stored in material such as wood, grain, sugar, and municipal waste is called _____.</p><p><strong>Options:</strong> (a) Fossil fuels (b) Biomass (c) Geothermal energy (d) Natural gas</p><p><strong>Correct answer:</strong> Biomass</p><p><strong>Q:</strong> 11. The world faces an energy crisis because _____.</p><p><strong>Options:</strong> (a) World demand for energy will increase (b) World oil production will peak and begin to decline (c) Shortages and the resulting escalation of prices can shock the economic and political order. (d) All of the above</p><p><strong>Correct answer:</strong> All of the above</p><p><strong>Q:</strong> 12. A fuel cell combines hydrogen and _____ to produce electricity, heat, and water.</p><p><strong>Options:</strong> (a) Carbon (b) Oxygen (c) Uranium (d) Silicon</p><p><strong>Correct answer:</strong> Oxygen</p><p><strong>Q:</strong> 13. Fossils are the</p><p><strong>Options:</strong> (a) Dead remains of living organism (b) Coal mines (c) Kind of natural resource (d) Living beings</p><p><strong>Correct answer:</strong> Dead remains of living organism</p><p><strong>Q:</strong> 14. Petroleum is mixture of</p><p><strong>Options:</strong> (a) Petrol (b) Diesel (c) Petroleum gas (d) All of these</p><p><strong>Correct answer:</strong> All of these</p><p><strong>Q:</strong> 15. Burning of fossil fuel causes</p><p><strong>Options:</strong> (a) Air pollution (b) Global warming (c) Both (a) &amp; (b) (d) None of these</p><p><strong>Correct answer:</strong> Both (a) &amp; (b)</p>",
+     "mcqs": [
+      {
+       "q": "Fuel formed under the earth's surface by the decomposition of organic matter is called _____",
+       "options": [
+        "Organic fuel",
+        "Biogas",
+        "Fossil fuel",
+        "Inorganic fuel"
+       ],
+       "answer": 2,
+       "why": "The detailed answer explains that fossil fuels were formed from the remains of plants and animals that lived millions of years ago, buried and decomposed under the earth's surface."
+      },
+      {
+       "q": "Which of the following causes the least pollution when burnt?",
+       "options": [
+        "Petrol",
+        "Diesel",
+        "Coal",
+        "Natural gas"
+       ],
+       "answer": 3,
+       "why": "The detailed answer states that natural gas is relatively clean-burning because it contains only trace portions of sulfur and nitrogen, so it causes the least pollution of the given fuels."
+      },
+      {
+       "q": "Which of these is not a renewable source of energy?",
+       "options": [
+        "The sun",
+        "Natural gas",
+        "Wind",
+        "Ocean tidal energy"
+       ],
+       "answer": 1,
+       "why": "Natural gas is a fossil fuel with a limited supply, so it is non-renewable; the sun, wind and ocean tides are renewable sources, as classified in the detailed answers."
+      },
+      {
+       "q": "A solar cell is made up of",
+       "options": [
+        "Silicon",
+        "Teflon",
+        "Titanium",
+        "Magnesium"
+       ],
+       "answer": 0,
+       "why": "A solar cell, which converts solar energy directly into electrical energy, is made up of silicon, as keyed in the book."
+      },
+      {
+       "q": "The fuel used in the nuclear reactor is _____",
+       "options": [
+        "Cadmium",
+        "Radium",
+        "Thorium",
+        "Uranium"
+       ],
+       "answer": 3,
+       "why": "The detailed answer explains that nuclear power uses controlled fission of Uranium 235 in specially designed reactors, so uranium is the reactor fuel."
+      },
+      {
+       "q": "The state of coal, with lowest carbon content is _____",
+       "options": [
+        "Bituminous coal",
+        "Lignite",
+        "Anthracite coal",
+        "Graphite"
+       ],
+       "answer": 1,
+       "why": "The detailed answer lists the states of coal from lowest to highest carbon content: lignite, bituminous coal and anthracite coal — so lignite has the lowest carbon content. (The book's 'None of these' option has been replaced by graphite, the next stage after anthracite, in this quiz copy.)"
+      },
+      {
+       "q": "A unit of electricity means",
+       "options": [
+        "Megawatt",
+        "Nanowatt",
+        "Joule",
+        "Kilowatt hour"
+       ],
+       "answer": 3,
+       "why": "One unit of electricity means one kilowatt hour — the energy used by a 1 kilowatt appliance in one hour — as keyed in the book."
+      },
+      {
+       "q": "Solar energy stored in material such as wood, grain, sugar, and municipal waste is called _____.",
+       "options": [
+        "Fossil fuels",
+        "Biomass",
+        "Geothermal energy",
+        "Natural gas"
+       ],
+       "answer": 1,
+       "why": "Solar energy stored in material such as wood, grain, sugar and municipal waste is called biomass, and biomass is listed among the renewable energy sources in the detailed answers."
+      },
+      {
+       "q": "A fuel cell combines hydrogen and _____ to produce electricity, heat, and water.",
+       "options": [
+        "Carbon",
+        "Oxygen",
+        "Uranium",
+        "Silicon"
+       ],
+       "answer": 1,
+       "why": "A fuel cell combines hydrogen with oxygen to produce electricity, heat and water, as keyed in the book."
+      },
+      {
+       "q": "Burning of fossil fuel causes",
+       "options": [
+        "Air pollution only",
+        "Global warming only",
+        "Both air pollution and global warming",
+        "Acid rain only"
+       ],
+       "answer": 2,
+       "why": "The detailed answers state that burning fossil fuels releases significant amounts of greenhouse gases and leads to a great deal of air pollution, so it causes both air pollution and global warming. (The book's keyed 'Both (a) & (b)' is written out in full in this quiz copy.)"
+      }
+     ]
+    },
+    {
+     "title": "Detailed Answers",
+     "notes_html": "<h4>Key Points</h4><ul><li>Conventional sources are fully developed sources: fossil fuels (coal, petroleum, natural gas) and nuclear power; their supply is limited.</li><li>One BTU is equal to 1055 joules, and one MMBTU means one million BTU.</li><li>Coal was formed about 300 million years ago from prehistoric plants; its states are lignite, bituminous and anthracite, and further heating and compression give graphite.</li><li>Petroleum was formed from the remains of sea animals covered by silt on the ocean floor and compressed by pressure over the years.</li><li>Natural gas consists primarily of methane (CH4) and is found along with the deposits of petroleum.</li><li>Wind turbines are mounted on towers 100 or more feet above the ground, where the wind is faster and less turbulent.</li><li>Solar energy is converted in two ways: solar thermal applications and photoelectric (photovoltaic) applications.</li><li>The Ghazi Barotha Hydropower Project has a generation capacity of 1450 MW; about 30% of Pakistan's power comes from hydroelectricity.</li><li>KANUPP has a capacity of 137 MW and CHASNUPP-1 a capacity of 325 MW.</li><li>The famous nuclear accidents are Three Mile Island (USA 1979), Chernobyl (Ukraine 1986) and Fukushima (Japan 2011).</li></ul><h4>Solved Exercises</h4><p><strong>Exercise B: Answer the following questions.</strong></p><p><strong>Q:</strong> 1. What would happen if there was no electricity?</p><p><strong>Ans:</strong> Without electricity, our cities would not be lighted, our homes would not be warmed and our food could not be cooked in the usual way, because energy lights our cities, powers our vehicles, trains and planes, warms our homes and cooks our food. Cars, planes, light bulbs, boats and machinery all transform energy into work, so they would stop working. Modern industries also cannot sustain their activities without uninterrupted energy supplies, so industry, employment and daily life would come to a halt.</p><p><strong>Q:</strong> 2. What is Overuse of electricity?</p><p><strong>Ans:</strong> Overuse of electricity is the excessive and unwise use of electrical energy, for example leaving electrical appliances on when they are not required. Such wastage puts pressure on our limited energy resources, which are rapidly decreasing, and affects the environment. To avoid it, we must put off electrical appliances when not required and use appliances that use comparatively lesser energy.</p><p><strong>Q:</strong> 3. What are the advantages and disadvantages of using petroleum?</p><p><strong>Ans:</strong> Advantages: Petroleum, or crude oil, is a liquid fuel present in various locations throughout the world. It has many uses, from the generation of electricity to the manufacture of medicines, plastics and other commercial items, and like other fossil fuels it is relatively easy to use because energy is generated from it by simple direct combustion. Disadvantages: Its excavation from the ground significantly alters the environment and its combustion leads to a great deal of air pollution, because burning fossil fuels releases significant amounts of greenhouse gases. Fossil fuels are also expensive, require established technologies, and their supply is limited, so they will eventually be used up.</p><p><strong>Q:</strong> 4. Give two examples of ways to conserve energy at home?</p><p><strong>Ans:</strong> (1) To conserve energy at homes, we must put off the electrical appliances and close gas and water valves, when not required. (2) We should use electrical appliances that use comparatively lesser energy, e.g. tube lights and energy saver bulbs. In addition, we should design our homes such that we get maximum benefits of sunlight and proper ventilation.</p><p><strong>Q:</strong> 5. What is a conventional source of energy?</p><p><strong>Ans:</strong> Conventional energy sources are typically fully developed sources of energy. They include non-renewable energy resources like fossil fuels (coal, petroleum and natural gas) as well as nuclear power. They can produce energy round the clock with established technologies, but they have a limited supply, because eventually the nuclear elements and fossil fuels will be used up.</p><p><strong>Q:</strong> 6. What is the importance of conserving energy?</p><p><strong>Ans:</strong> Conventional sources of energy are limited and the underground deposits of coal, oil, natural gas and other similar raw forms are rapidly decreasing, while the rapid growth in population increases the pressure on the use of resources. The excessive and unwise use of resources also affects the environment, and one day all the resources of energy will be exhausted. It is, therefore, highly important for us to avoid wastage of energy and conserve energy by taking suitable steps at our homes, schools, industries and offices.</p><p><strong>Q:</strong> 7. What is mmbtu?</p><p><strong>Ans:</strong> MMBTU is a unit used for measuring natural gas and energy, based on the British thermal unit (BTU). Nowadays gas bills are being charged on the basis of British thermal unit (BTU), which is also a unit of energy. One BTU is equal to 1055 joules, and one MMBTU means one million BTU.</p><p><strong>Q:</strong> 8. Describe various types of fossil fuels.</p><p><strong>Ans:</strong> The most important fossil fuels are coal, petroleum and natural gas. Coal was formed about 300 million years back from prehistoric plants which died, were covered with water and slowly decomposed in the absence of oxygen, leaving a material rich in carbon which was compressed by sand and dirt into coal; it is used extensively for the generation of electricity and for running industries. Petroleum, or crude oil, is a liquid fuel formed from the remains of biodegraded organic material — sea animals whose remains were covered by silt on the ocean floor and compressed by pressure over the years — and it is used from the generation of electricity to the manufacture of medicines, plastics and other commercial items. Natural gas consists primarily of methane (CH4), is found associated with other hydrocarbon fuel and almost always along with the deposits of petroleum; it is transported by pipelines, heats many houses, offices and other buildings, and is relatively clean-burning because it contains only trace portions of sulfur and nitrogen.</p><p><strong>Q:</strong> 9. a. Write short note on the following: Coal as fossil fuel</p><p><strong>Ans:</strong> About 300 million years back, a large number of ferns and other prehistoric plants were common on the swamp-like earth. When those plants died and fell to the ground, they were covered with water and they slowly decomposed; as decomposition took place in the absence of oxygen, much of the hydrogen content of the matter was eroded away, leaving a material rich in carbon, which was compressed over the years by sand and dirt into coal. The higher the carbon content, the more cleanly and brilliantly the coal burns; its states, from lowest carbon content to highest, are lignite, bituminous coal and anthracite coal, and if heated and compressed even more, the result is graphite, almost completely pure carbon. Coal is used extensively for the generation of electricity for running industries, and Pakistan's Thar coal is one of the 5th largest coal reservoirs in the world, which can possibly enable Pakistan to produce enough electricity to power the entire country.</p><p><strong>Q:</strong> 9. b. Write short note on the following: Petroleum</p><p><strong>Ans:</strong> Petroleum, or crude oil, is a liquid fuel that is present in various locations throughout the world. Much like coal, petroleum is formed from the remains of biodegraded organic material: when animals that lived in the sea millions of years ago died underwater, their remains were gradually covered by layers of very fine dirt known as silt on the ocean floor, and as the years passed, pressure from the layers built up and compressed the organic material, forming the oil. It has many uses, from the generation of electricity to the manufacture of medicines, plastics and other commercial items. The seas have enormous quantities of oil, and rigs are used to drill that oil; these rigs create holes to drill oil wells.</p><p><strong>Q:</strong> 9. c. Write short note on the following: Wind as source of energy</p><p><strong>Ans:</strong> Wind has been used as a source of energy for centuries. About 3000 BC ago, people probably first used the force of moving air to push a boat with a sail through the water, which might have led to the invention of the windmills; these mills were first used in central Asia, and windmills were used in Europe more than 700 years ago to grind grains and pump water. More recently wind power is used to turn wind turbines, and in the United States and Europe many wind farms routinely generate several megawatts of electricity a day. Wind power is the fastest-growing energy source in the world, and turbines powered by wind are mounted on towers 100 or more feet above the ground, where the wind is faster and less turbulent. In Pakistan efforts are being made to use wind energy for pumping water and producing electricity.</p><p><strong>Q:</strong> 10. Write in detail the nature and utility of any two non conventional sources of energy?</p><p><strong>Ans:</strong> Non-conventional sources include renewable energy resources like solar power, hydropower and wind power; they may be functional but are still undergoing development, have a much smaller environmental impact and are renewable. (1) Solar energy: Most of the energy known to man is derived in some way from the sun, and there would be no life on earth without the sun, which provides energy needed for the growth of plants and, indirectly, the existence of all animal life. A device called a solar cell can change the energy of sunlight into electrical energy; such solar cells are frequently used in calculators and watches, and batteries made up of solar cells are used to run radios, television and equipment in artificial satellites going around the earth. Solar cookers, solar geysers and solar house heating systems also work successfully by using solar energy, and solar panels can be attached to moving objects such as automobiles to power them. Solar power can be converted to energy in two ways: solar thermal applications, using the sun's energy to directly heat air or a liquid, and photoelectric applications, using photovoltaic cells to convert solar energy directly to electricity. (2) Wind energy: Wind has been used for centuries, from sailing boats about 3000 BC and the windmills of central Asia and Europe used to grind grains and pump water, to modern wind turbines. Wind power is the fastest-growing energy source in the world; turbines are mounted on towers 100 or more feet above the ground, where the wind is faster and less turbulent, and wind farms in the United States and Europe routinely generate several megawatts of electricity a day. In Pakistan efforts are being made to use wind energy for pumping water and producing electricity.</p><p><strong>Q:</strong> 11. Compare renewable energy sources with non-renewable sources.</p><p><strong>Ans:</strong> Renewable energy sources are solar, wind, hydroelectric, biomass and geothermal power. They are environmentally clean and virtually inexhaustible, so due to diminishing fossil fuels they may become a major energy choice for the 21st century; however, their major drawbacks are limited energy (in most cases not suitable for large-scale power generation) and the relative cost to build and maintain, and they are often limited to producing energy only under certain circumstances, such as sunny days for solar panels and windy days for windmills. Non-renewable sources include the fossil fuels like coal, petroleum and natural gas. They are relatively easy to use and can produce energy round the clock with established technologies, but they are expensive, their supply is limited and will eventually be used up, their excavation significantly alters the environment, and burning them releases significant amounts of greenhouse gases and contributes to environmental pollution.</p><p><strong>Q:</strong> 12. Differentiate between conventional energy sources and non-conventional energy sources.</p><p><strong>Ans:</strong> Conventional energy sources are typically fully developed and include non-renewable energy resources like fossil fuels as well as nuclear power. They require established technologies that can produce energy round the clock, but they have a limited supply because eventually the nuclear elements and fossil fuels will be used up, fossil fuels are expensive, and burning fossil fuels releases significant amounts of greenhouse gases and contributes to environmental pollution. Non-conventional sources, which include renewable energy resources like solar power, hydropower and wind power, may be functional but are still undergoing development. They have a much smaller environmental impact and they are renewable, but they are still expensive and are often limited to producing energy only under certain circumstances, such as sunny days for solar panels and windy days for windmills.</p><p><strong>Q:</strong> 13. Briefly write the process of formation of fossil fuels.</p><p><strong>Ans:</strong> Fossil fuels were formed from the remains of plants and animals that lived millions of years ago. When prehistoric plants died and fell to the ground, they were covered with water and slowly decomposed; as decomposition took place in the absence of oxygen, much of the hydrogen content of the matter was eroded away, leaving a material rich in carbon, and the material was compressed over the years by sand and dirt, leaving the form of carbon known as coal. Similarly, when animals that lived in the sea died underwater, their remains were gradually covered by layers of very fine dirt known as silt on the ocean floor, and pressure from the layers built up and compressed the organic material, forming petroleum (oil), with natural gas found along with the deposits of petroleum.</p><p><strong>Q:</strong> 14. Describe the role of energy in the development of a country.</p><p><strong>Ans:</strong> Energy has become a fundamental aspect of human existence, and the development of a country can be judged by the amount of energy it consumes; generally, a developed country has a larger demand for energy compared to a developing or underdeveloped country. Modern day industries cannot sustain their activities without uninterrupted energy supplies, and this in turn ensures the creation of employment opportunities, which ultimately generate economic activities and increase the standard of life of a nation. Development in the fields of agriculture, health, education and industry requires energy, and lack of investment in terms of energy in these fields means no development and a low standard of life. Access to energy is therefore a prerequisite for sustainable development.</p><p><strong>Q:</strong> 15. How critical is hydel power generation for Pakistan. Discuss.</p><p><strong>Ans:</strong> Hydel power is still regarded as the cheapest source of energy, and Pakistan's hydroelectric power projects are contributing significantly to the cause of electricity production. Although Pakistan has huge hydal power generation capacity, mainly on river Indus, it has yet to exploit it to its maximum capacity; the three main dams Tarbela, Mangla and Warsak, constructed for the purpose of generating electricity and irrigating agricultural land, are vital for the energy sector in Pakistan, and the Ghazi Barotha Hydropower Project alone has a generation capacity of 1450 MW. Hydel power is critical because Pakistan mainly depends upon oil and gas, its indigenous resources of oil are not enough for the growing economy so it has to import large quantities of oil and oil based products, only 55% of Pakistan's population has access to electricity, and the nation is facing the worst power supply shortage, with prolonged and frequent power breakdowns having a negative impact on industry operation, the economy and the livelihood of citizens. At present about 30% of power generation in Pakistan is derived from hydroelectricity, while abundant indigenous sustainable resources such as wind, solar and biomass remain virtually untapped, and proper planning and a clear strategy for hydel energy have yet to be devised.</p><p><strong>Q:</strong> 16. Nuclear power is regarded as one of the strategy for fulfilling the gaps of power shortages. How Pakistan has been able to use nuclear technology successfully and what hazards are associated with the use of nuclear energy?</p><p><strong>Ans:</strong> Pakistan uses nuclear energy through controlled nuclear fission in specially designed nuclear reactors: when the atom of Uranium 235 is hit by a slow moving neutron, it splits up into several parts with the release of an enormous amount of energy; cold water pushed into the core of the reactor carries away the heat and turns into steam, which is ejected into the steam turbine, which turns the generator to produce electricity. Pakistan's two main nuclear power plants are the Karachi Nuclear Power Plant (KANUPP), with a capacity of 137 Mega Watts, located at Paradise Point on the Arabian Sea Coast, about 15 miles to the west of Karachi, and Chashma Nuclear Power Plant (CHASNUPP-1), started in 1992 with the help of the People's Republic of China, with a capacity of 325 Mega Watt, located in Punjab near Chashma Barrage on the left bank of River Indus, 32 Km south of Mianwali City. Hazards: Radioactive materials emit alpha, beta and gamma radiations, which can penetrate gases, liquids and even solids; controlled nuclear reactions are useful for humanity, but when they are out of control or occur in the open, they damage the whole area, and these rays are carcinogenic (causing cancer) and also cause deformation in newborn babies. The famous accidents of civil nuclear power generation — Three Mile Island (USA 1979), Chernobyl (Ukraine 1986), where one hundred times more radiation was released than by the atom bombs dropped over Hiroshima and Nagasaki, and Fukushima (Japan 2011) — show these dangers. To avoid such hazards, care must be taken in performing nuclear reactions and disposing of nuclear wastes, the design of the nuclear reactor must include provisions for human (operator) error and equipment failure, and cooling is necessary, with a series of physical barriers between the radioactive core and the environment.</p>",
+     "mcqs": [
+      {
+       "q": "One MMBTU means:",
+       "options": [
+        "One thousand BTU",
+        "One million BTU",
+        "One billion BTU",
+        "One hundred BTU"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that MMBTU is a unit for measuring natural gas and energy based on the British thermal unit, and one MMBTU means one million BTU."
+      },
+      {
+       "q": "One BTU is equal to:",
+       "options": [
+        "100 joules",
+        "4,186 joules",
+        "1055 joules",
+        "10,550 joules"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that one BTU is equal to 1055 joules, and gas bills are charged on the basis of the British thermal unit."
+      },
+      {
+       "q": "Natural gas consists primarily of:",
+       "options": [
+        "Methane (CH4)",
+        "Carbon dioxide",
+        "Propane only",
+        "Hydrogen"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that natural gas consists primarily of methane (CH4), is found associated with other hydrocarbon fuel and almost always along with the deposits of petroleum."
+      },
+      {
+       "q": "The states of coal, from lowest to highest carbon content, are:",
+       "options": [
+        "Anthracite, bituminous, lignite",
+        "Lignite, bituminous coal and anthracite coal",
+        "Bituminous, lignite, anthracite",
+        "Graphite, lignite, anthracite"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the higher the carbon content the more cleanly coal burns, and its states from lowest carbon content to highest are lignite, bituminous coal and anthracite coal."
+      },
+      {
+       "q": "If coal is heated and compressed even more, the result is:",
+       "options": [
+        "Petroleum",
+        "Graphite, almost completely pure carbon",
+        "Natural gas",
+        "Lignite"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that if coal is heated and compressed even more, the result is graphite, which is almost completely pure carbon."
+      },
+      {
+       "q": "Pakistan's Thar coal is:",
+       "options": [
+        "A very small deposit",
+        "One of the largest coal reservoirs in the world",
+        "Already exhausted",
+        "Used only for homes"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that Pakistan's Thar coal is one of the largest coal reservoirs in the world (the book calls it the 5th largest), which could enable Pakistan to produce enough electricity to power the entire country."
+      },
+      {
+       "q": "Wind turbines are mounted on towers ______ above the ground, where the wind is faster and less turbulent.",
+       "options": [
+        "10 feet",
+        "50 feet",
+        "100 or more feet",
+        "500 feet"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that turbines powered by wind are mounted on towers 100 or more feet above the ground, where the wind is faster and less turbulent."
+      },
+      {
+       "q": "Solar power can be converted to energy in two ways: solar thermal applications and ______ applications.",
+       "options": [
+        "Photoelectric (photovoltaic)",
+        "Chemical",
+        "Nuclear",
+        "Mechanical"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that solar power is converted by solar thermal applications, which use the sun's energy to heat air or a liquid, and photoelectric applications, which use photovoltaic cells to convert solar energy directly to electricity."
+      },
+      {
+       "q": "A major drawback of renewable energy sources is that they:",
+       "options": [
+        "Produce too much pollution",
+        "Are often limited to producing energy only under certain circumstances, such as sunny days for solar panels and windy days for windmills",
+        "Have already been used up",
+        "Cannot be used at home"
+       ],
+       "answer": 1,
+       "why": "The solved comparison states that renewable sources are clean and virtually inexhaustible, but their drawbacks are limited energy output, cost, and that they produce energy only under certain circumstances."
+      },
+      {
+       "q": "The Ghazi Barotha Hydropower Project has a generation capacity of:",
+       "options": [
+        "137 MW",
+        "325 MW",
+        "1450 MW",
+        "450 MW"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the Ghazi Barotha Hydropower Project alone has a generation capacity of 1450 MW; 137 MW is KANUPP and 325 MW is CHASNUPP-1."
+      },
+      {
+       "q": "At present, about ______ of power generation in Pakistan is derived from hydroelectricity.",
+       "options": [
+        "10%",
+        "30%",
+        "55%",
+        "90%"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that at present about 30% of power generation in Pakistan is derived from hydroelectricity, mainly through the Tarbela, Mangla and Warsak dams on and around the river Indus system."
+      },
+      {
+       "q": "The Karachi Nuclear Power Plant (KANUPP) has a capacity of:",
+       "options": [
+        "325 Mega Watts",
+        "1450 Mega Watts",
+        "137 Mega Watts",
+        "1000 Mega Watts"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that KANUPP, located at Paradise Point on the Arabian Sea coast west of Karachi, has a capacity of 137 Mega Watts; CHASNUPP-1 has 325 Mega Watt."
+      },
+      {
+       "q": "The Chashma Nuclear Power Plant (CHASNUPP-1) has a capacity of:",
+       "options": [
+        "137 Mega Watt",
+        "325 Mega Watt",
+        "1450 Mega Watt",
+        "50 Mega Watt"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that CHASNUPP-1, started in 1992 with the help of the People's Republic of China near Chashma Barrage on the River Indus, has a capacity of 325 Mega Watt."
+      },
+      {
+       "q": "The Chernobyl nuclear accident (Ukraine) took place in:",
+       "options": [
+        "1979",
+        "2011",
+        "1986",
+        "1992"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists the famous accidents of civil nuclear power generation: Three Mile Island (USA 1979), Chernobyl (Ukraine 1986) and Fukushima (Japan 2011)."
+      },
+      {
+       "q": "Conventional energy sources include:",
+       "options": [
+        "Only solar and wind power",
+        "Fossil fuels (coal, petroleum and natural gas) as well as nuclear power",
+        "Only hydropower",
+        "Only biomass"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that conventional energy sources are typically fully developed sources and include non-renewable resources like fossil fuels as well as nuclear power, though their supply is limited."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3046 @@
+{
+ "book": "pctb-c8-history-en",
+ "chapters": [
+  {
+   "title": "Chapter 1: Arrival of the British in the Subcontinent",
+   "lessons": [
+    {
+     "title": "The East India Company and Its Trade",
+     "notes_html": "<h4>Foundation of the Company</h4>\n<p>The <b>East India Company</b> was established by the <b>British traders (merchants) of England</b> in <b>1600 CE</b>, after getting royal permission (a <b>charter</b>) from the Queen of England, for the purpose of <b>trade with India and the East</b>.</p>\n<h4>Arrival in India</h4>\n<p>The Company's ships first came to the port of <b>Surat</b> on <b>24 August 1608 CE</b>. In <b>1612 CE</b> it defeated the <b>Portuguese</b> in India and won trading concessions from the Mughal Empire, and in <b>1613 CE</b> a <b>Farman</b> (royal order) was issued by the Mughal emperor <b>Jahangir</b> allowing the Company to establish a <b>factory in Surat</b>.</p>\n<h4>What the Company Traded</h4>\n<p>The Company traded mainly in <b>spices, silk, cotton</b> (cotton and silk goods/cloth), <b>indigo, dye, tea and saltpeter</b>. It bought these Indian goods cheaply and sold them in Europe at <b>huge profits</b>. Indian goods were in great demand in Europe, and Arab and Portuguese traders were already earning huge profits, so the British also wished to trade with India.</p>\n<h4>From Trade to Rule</h4>\n<p>Although the Company was established for trade, it gradually became involved in the <b>politics of the subcontinent</b>. By winning the <b>Battles of Plassey (1757 CE)</b> and <b>Buxar (1764 CE)</b> it became the real ruler of Bengal and then of most of India, until after the <b>War of Independence 1857 CE</b> the British Crown took over India directly in <b>1858 CE</b>.</p>",
+     "mcqs": [
+      {
+       "q": "The East India Company was established in:",
+       "options": [
+        "1600 CE",
+        "1500 CE",
+        "1700 CE",
+        "1800 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the East India Company was established in 1600 CE by British traders after getting a royal charter from the Queen of England."
+      },
+      {
+       "q": "The East India Company was established by:",
+       "options": [
+        "The Mughal emperor Jahangir",
+        "Portuguese merchants",
+        "The British Parliament",
+        "British traders of England"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that the Company was established by the British traders (merchants) of England in 1600 CE, after getting royal permission (a charter) from the Queen."
+      },
+      {
+       "q": "The Company's ships first came to which Indian port in 1608 CE?",
+       "options": [
+        "Calcutta",
+        "Surat",
+        "Bombay",
+        "Madras"
+       ],
+       "answer": 1,
+       "why": "The solved note on the East India Company says its ships first came to the port of Surat on 24 August 1608 CE."
+      },
+      {
+       "q": "The Mughal emperor who issued a Farman in 1613 CE allowing the Company a factory at Surat was:",
+       "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that in 1613 CE a Farman (royal order) was issued by the Mughal emperor Jahangir allowing the Company to establish a factory in Surat."
+      },
+      {
+       "q": "In 1612 CE the East India Company defeated which European power in India?",
+       "options": [
+        "The French",
+        "The Dutch",
+        "The Spanish",
+        "The Portuguese"
+       ],
+       "answer": 3,
+       "why": "According to the solved note, in 1612 CE the Company defeated the Portuguese in India and won trading concessions from the Mughal Empire."
+      },
+      {
+       "q": "Which of the following was a main item of the Company's trade with India?",
+       "options": [
+        "Indigo",
+        "Coffee",
+        "Rubber",
+        "Petroleum"
+       ],
+       "answer": 0,
+       "why": "The book's Find Out answer lists the Company's trade goods: spices, silk, cotton, indigo, dye, tea and saltpeter, bought cheaply in India and sold in Europe at huge profits."
+      },
+      {
+       "q": "The royal permission given to the Company to trade with the East is called a:",
+       "options": [
+        "Farman",
+        "Treaty",
+        "Charter",
+        "Sanad"
+       ],
+       "answer": 2,
+       "why": "The solved answer says the merchants established the Company after getting royal permission (a charter) from the Queen of England; a Farman, by contrast, was a Mughal royal order."
+      },
+      {
+       "q": "After the War of Independence 1857, India was taken over directly by:",
+       "options": [
+        "The East India Company",
+        "The British Parliament in 1861 CE",
+        "The Mughal emperor",
+        "The British Crown in 1858 CE"
+       ],
+       "answer": 3,
+       "why": "The solved note explains that after the War of Independence 1857 CE the British Crown took over India directly in 1858 CE, ending Company rule."
+      },
+      {
+       "q": "The Company bought Indian goods cheaply and sold them in Europe at:",
+       "options": [
+        "A loss",
+        "Huge profits",
+        "The same price",
+        "Half price"
+       ],
+       "answer": 1,
+       "why": "The book's Find Out answer states that the Company bought Indian goods cheaply and sold them in Europe at huge profits, which is why other European traders also wanted the India trade."
+      },
+      {
+       "q": "The Company first became the real ruler of which region after Plassey and Buxar?",
+       "options": [
+        "Punjab",
+        "Mysore",
+        "Bengal",
+        "Sindh"
+       ],
+       "answer": 2,
+       "why": "The solved note says that by winning Plassey (1757) and Buxar (1764) the Company became the real ruler of Bengal and then of most of India."
+      }
+     ]
+    },
+    {
+     "title": "The Battles of Plassey and Buxar",
+     "notes_html": "<h4>The Battle of Plassey 1757 CE</h4>\n<p>The <b>Battle of Plassey</b> was fought in <b>1757 CE</b>. It was won by the British East India Company under <b>Robert Clive</b> against <b>Nawab Siraj-ud-Daulah</b> of Bengal. The British won mainly through <b>treachery</b>: Clive had secretly won over <b>Mir Jaffar</b>, the commander-in-chief (Mir Bakhshi) of the Nawab's army, by promising him the throne of Bengal. During the battle Mir Jaffar kept the largest part of the Nawab's army standing idle, so the Nawab's small loyal force was defeated; Siraj-ud-Daulah fled and was later killed. Mir Jaffar was made the new Nawab, but he remained a <b>puppet in British hands</b> — his betrayal laid the foundation of British rule in India.</p>\n<h4>Causes of the Battle of Buxar</h4>\n<p>After Plassey, the British replaced Mir Jaffar with <b>Mir Qasim</b>, who tried to free himself from British control: he reformed his army and administration and removed duties that gave the British an unfair trade advantage. The British declared war on him. Mir Qasim joined hands with <b>Shuja-ud-Daulah</b> (Nawab of Awadh) and the Mughal emperor <b>Shah Alam II</b>.</p>\n<h4>Result of Buxar 1764 CE</h4>\n<p>In the <b>Battle of Buxar (1764 CE)</b> the British under <b>Major Munro</b> defeated the combined armies of the three rulers. By the <b>Treaty of Allahabad (1765 CE)</b> the Company obtained the <b>Diwani</b> (right to collect revenue) of <b>Bengal, Bihar and Orissa</b> from the Mughal emperor. The victory of Buxar confirmed and completed what Plassey had begun — the British became the real masters of eastern India.</p>",
+     "mcqs": [
+      {
+       "q": "The Battle of Plassey was fought in:",
+       "options": [
+        "1749 CE",
+        "1751 CE",
+        "1755 CE",
+        "1757 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: the Battle of Plassey was fought in 1757 CE between Robert Clive and Nawab Siraj-ud-Daulah of Bengal."
+      },
+      {
+       "q": "The Battle of Buxar was fought in:",
+       "options": [
+        "1762 CE",
+        "1764 CE",
+        "1763 CE",
+        "1765 CE"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ: the Battle of Buxar was fought in 1764 CE; the Treaty of Allahabad followed in 1765 CE."
+      },
+      {
+       "q": "The British commander at the Battle of Plassey was:",
+       "options": [
+        "Major Munro",
+        "Robert Clive",
+        "Lord Dalhousie",
+        "Lord Canning"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that Plassey (1757 CE) was won by the British East India Company under Robert Clive against Nawab Siraj-ud-Daulah."
+      },
+      {
+       "q": "Mir Jaffar was the ______ of Nawab Siraj-ud-Daulah's army.",
+       "options": [
+        "Prime minister",
+        "Finance minister",
+        "Governor of Dhaka",
+        "Commander-in-chief (Mir Bakhshi)"
+       ],
+       "answer": 3,
+       "why": "The solved answer describes Mir Jaffar as the commander-in-chief (Mir Bakhshi) of Nawab Siraj-ud-Daulah's army, who betrayed the Nawab at Plassey."
+      },
+      {
+       "q": "Clive won over Mir Jaffar by promising him:",
+       "options": [
+        "The throne (Nawabi) of Bengal",
+        "The Diwani of Bihar",
+        "A pension in England",
+        "The governorship of Madras"
+       ],
+       "answer": 0,
+       "why": "The solved answer says Clive secretly promised Mir Jaffar the throne (Nawabi) of Bengal if he helped the British; after the victory Mir Jaffar was made Nawab but remained a British puppet."
+      },
+      {
+       "q": "After Plassey, the British replaced Mir Jaffar with:",
+       "options": [
+        "Siraj-ud-Daulah",
+        "Shuja-ud-Daulah",
+        "Mir Qasim",
+        "Shah Alam II"
+       ],
+       "answer": 2,
+       "why": "The solved answer on Buxar records that after Plassey the British made Mir Jaffar Nawab of Bengal and then replaced him with Mir Qasim, who tried to free himself from British control."
+      },
+      {
+       "q": "At Buxar, Mir Qasim was joined by Shuja-ud-Daulah and:",
+       "options": [
+        "Tipu Sultan",
+        "Haider Ali",
+        "Ranjit Singh",
+        "The Mughal emperor Shah Alam II"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that Mir Qasim joined hands with Shuja-ud-Daulah (Nawab of Awadh) and the Mughal emperor Shah Alam II against the British at Buxar."
+      },
+      {
+       "q": "The British commander who won the Battle of Buxar was:",
+       "options": [
+        "Robert Clive",
+        "Major Munro",
+        "Lord Wellesley",
+        "Lord Clive"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that in the Battle of Buxar (1764 CE) the British under Major Munro defeated the combined armies of Mir Qasim, Shuja-ud-Daulah and Shah Alam II."
+      },
+      {
+       "q": "By the Treaty of Allahabad (1765 CE) the Company obtained the Diwani of:",
+       "options": [
+        "Punjab, Sindh and NWFP",
+        "Mysore, Hyderabad and Awadh",
+        "Bengal, Bihar and Orissa",
+        "Bengal, Assam and Burma"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that by the Treaty of Allahabad (1765 CE) the Company obtained the Diwani (right to collect revenue) of Bengal, Bihar and Orissa from the Mughal emperor."
+      },
+      {
+       "q": "Diwani means the right to:",
+       "options": [
+        "Collect revenue",
+        "Command the army",
+        "Mint coins",
+        "Appoint judges"
+       ],
+       "answer": 0,
+       "why": "The book explains Diwani as the right to collect revenue, which the Company obtained for Bengal, Bihar and Orissa under the Treaty of Allahabad (1765 CE)."
+      }
+     ]
+    },
+    {
+     "title": "Mysore: Haider Ali and Tipu Sultan",
+     "notes_html": "<h4>Haider Ali of Mysore</h4>\n<p><b>Haider Ali</b> was the ruler of the state of <b>Mysore</b> in South India. He and his son <b>Tipu Sultan</b> were the strongest Indian opponents of the British in the south, and the British fought a series of <b>Anglo-Mysore wars</b> against them. Tipu Sultan died fighting the British in <b>1799 CE</b> in the <b>Fourth Anglo-Mysore War</b> at <b>Seringapatam</b>.</p>\n<h4>Why the British Defeated Haider Ali and Tipu Sultan</h4>\n<p>The solved Learning Activities give the reasons: the British had a <b>better organised and disciplined army</b>, <b>modern weapons</b>, <b>strong sea power</b> and <b>greater financial resources</b>. They also used <b>diplomacy to divide the Indian rulers</b> — the Marathas and the Nizam joined the British against Mysore — and the Indian states were <b>not united</b>, so the British defeated them one by one.</p>\n<h4>Timeline of the Company's Rise</h4>\n<ul>\n<li><b>1600 CE</b> — East India Company established</li>\n<li><b>1608 CE</b> — Company reaches Surat</li>\n<li><b>1757 CE</b> — Battle of Plassey</li>\n<li><b>1764 CE</b> — Battle of Buxar</li>\n<li><b>1799 CE</b> — Death of Tipu Sultan (Fourth Anglo-Mysore War, Seringapatam)</li>\n<li><b>1857 CE</b> — War of Independence</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Haider Ali was the ruler of the state of:",
+       "options": [
+        "Bengal",
+        "Mysore",
+        "Delhi",
+        "Jhansi"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ: Haider Ali was the ruler of the state of Mysore in South India."
+      },
+      {
+       "q": "Tipu Sultan was the son and successor of:",
+       "options": [
+        "Mir Jaffar",
+        "Haider Ali",
+        "Siraj-ud-Daulah",
+        "Shuja-ud-Daulah"
+       ],
+       "answer": 1,
+       "why": "The solved Learning Activities discuss Haider Ali and his son Tipu Sultan together as the Mysore rulers who resisted the British in South India."
+      },
+      {
+       "q": "Tipu Sultan died in:",
+       "options": [
+        "1757 CE",
+        "1764 CE",
+        "1857 CE",
+        "1799 CE"
+       ],
+       "answer": 3,
+       "why": "The book's timeline places the death of Tipu Sultan in 1799 CE, in the Fourth Anglo-Mysore War at Seringapatam."
+      },
+      {
+       "q": "Tipu Sultan died fighting at:",
+       "options": [
+        "Seringapatam",
+        "Plassey",
+        "Buxar",
+        "Panipat"
+       ],
+       "answer": 0,
+       "why": "The solved timeline records: 1799 CE — death of Tipu Sultan (Fourth Anglo-Mysore War, Seringapatam)."
+      },
+      {
+       "q": "Which two Indian powers joined the British against Mysore?",
+       "options": [
+        "Bengal and Awadh",
+        "The Sikhs and the Rajputs",
+        "The Marathas and the Nizam",
+        "Hyderabad and Bengal"
+       ],
+       "answer": 2,
+       "why": "The solved answer says the British used diplomacy to divide the Indian rulers: the Marathas and the Nizam joined the British against Mysore."
+      },
+      {
+       "q": "One reason the British defeated Haider Ali and Tipu Sultan was their:",
+       "options": [
+        "Larger population",
+        "Control of the Mughal court",
+        "Religious support",
+        "Strong sea power"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists the British advantages: a better organised and disciplined army, modern weapons, strong sea power and greater financial resources."
+      },
+      {
+       "q": "The Indian states lost to the British mainly because they were:",
+       "options": [
+        "Without armies",
+        "Not united",
+        "Without forts",
+        "Without revenue"
+       ],
+       "answer": 1,
+       "why": "The solved answer concludes that the Indian states were not united, so the British defeated them one by one, using diplomacy to divide them."
+      },
+      {
+       "q": "The wars between the British and Mysore are called the:",
+       "options": [
+        "Anglo-Maratha Wars",
+        "Anglo-Sikh Wars",
+        "Anglo-Mysore Wars",
+        "Carnatic Wars"
+       ],
+       "answer": 2,
+       "why": "The book's timeline names the 1799 conflict the Fourth Anglo-Mysore War — the series of wars between the British and the Mysore rulers Haider Ali and Tipu Sultan."
+      },
+      {
+       "q": "Which of these was NOT a British advantage over Mysore?",
+       "options": [
+        "Support of the Mughal emperor's army",
+        "Modern weapons",
+        "A disciplined army",
+        "Greater financial resources"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists British advantages as a disciplined army, modern weapons, sea power and financial resources, plus dividing Indian rulers; the Mughal emperor's army is not among them."
+      },
+      {
+       "q": "In the book's timeline, the death of Tipu Sultan (1799 CE) comes between:",
+       "options": [
+        "Plassey (1757) and Buxar (1764)",
+        "1608 and Plassey (1757)",
+        "1857 and 1858",
+        "Buxar (1764) and the War of Independence (1857)"
+       ],
+       "answer": 3,
+       "why": "The solved timeline runs: 1600 Company established, 1608 Surat, 1757 Plassey, 1764 Buxar, 1799 death of Tipu Sultan, 1857 War of Independence."
+      }
+     ]
+    },
+    {
+     "title": "The Doctrine of Lapse",
+     "notes_html": "<h4>The Policy</h4>\n<p>The <b>Doctrine of Lapse</b> was a policy introduced by <b>Lord Dalhousie</b> (Governor General) in <b>1852 CE</b> (applied from 1848 CE). Under it, if an Indian ruler of a state under British protection died <b>without a natural male heir</b>, his state would not pass to an <b>adopted son</b> but would <b>'lapse'</b> — that is, be <b>annexed by the British</b>.</p>\n<h4>States Annexed</h4>\n<p>By this policy several states were annexed, most famously <b>Jhansi</b> (the state of Rani Lakshmi Bai's husband), <b>Satara</b> and <b>Nagpur</b>.</p>\n<h4>Effects of the Policy</h4>\n<p>Indian rulers and people became <b>angry and fearful</b>, because <b>adoption was an old and sacred custom</b> of the Hindus. The policy <b>destroyed the trust</b> of the Indian princes in the British, created great resentment among Indians, and became one of the <b>major causes of the War of Independence 1857 CE</b>, in which the <b>Rani of Jhansi</b> became a leading heroine.</p>",
+     "mcqs": [
+      {
+       "q": "The Doctrine of Lapse was introduced by:",
+       "options": [
+        "Lord Canning",
+        "Lord Dalhousie",
+        "Robert Clive",
+        "Lord Curzon"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Doctrine of Lapse was a policy introduced by Lord Dalhousie (Governor General) in 1852 CE, applied from 1848 CE."
+      },
+      {
+       "q": "Under the Doctrine of Lapse, a state was annexed when its ruler died:",
+       "options": [
+        "Without paying revenue",
+        "Without British permission to rule",
+        "After losing a war",
+        "Without a natural male heir"
+       ],
+       "answer": 3,
+       "why": "The solved answer explains: if a ruler of a protected state died without a natural male heir, his state would not pass to an adopted son but would lapse — be annexed by the British."
+      },
+      {
+       "q": "'Lapse' in the Doctrine of Lapse means the state would:",
+       "options": [
+        "Be annexed by the British",
+        "Pass to the adopted son",
+        "Be ruled by a council",
+        "Become independent"
+       ],
+       "answer": 0,
+       "why": "The book explains that under the policy the state would 'lapse' — i.e. be annexed by the British — instead of passing to an adopted heir."
+      },
+      {
+       "q": "Which famous state was annexed under the Doctrine of Lapse?",
+       "options": [
+        "Mysore",
+        "Bengal",
+        "Jhansi",
+        "Awadh"
+       ],
+       "answer": 2,
+       "why": "The solved answer names Jhansi — the state of Rani Lakshmi Bai's husband — along with Satara and Nagpur, as states annexed under the Doctrine of Lapse."
+      },
+      {
+       "q": "Besides Jhansi, which states were annexed under the policy?",
+       "options": [
+        "Surat and Calcutta",
+        "Delhi and Agra",
+        "Hyderabad and Mysore",
+        "Satara and Nagpur"
+       ],
+       "answer": 3,
+       "why": "The solved detailed answer lists Jhansi, Satara and Nagpur as the states annexed under Lord Dalhousie's Doctrine of Lapse."
+      },
+      {
+       "q": "Indians resented the Doctrine of Lapse because adoption was:",
+       "options": [
+        "A new British law",
+        "An old and sacred custom",
+        "Forbidden by the Mughals",
+        "Only a royal privilege"
+       ],
+       "answer": 1,
+       "why": "The solved answer says adoption was an old and sacred custom of the Hindus, so refusing adopted heirs made Indian rulers and people angry and fearful."
+      },
+      {
+       "q": "The Doctrine of Lapse became one of the major causes of:",
+       "options": [
+        "The Battle of Plassey",
+        "The Anglo-Mysore Wars",
+        "The War of Independence 1857 CE",
+        "The First World War"
+       ],
+       "answer": 2,
+       "why": "The solved answer concludes that the Doctrine of Lapse destroyed the trust of Indian princes and became one of the major causes of the War of Independence 1857 CE."
+      },
+      {
+       "q": "The heroine of 1857 connected with the Doctrine of Lapse was:",
+       "options": [
+        "Rani Lakshmi Bai of Jhansi",
+        "Begum Hazrat Mahal",
+        "Rani of Mysore",
+        "Chand Bibi"
+       ],
+       "answer": 0,
+       "why": "The solved answer notes that Jhansi was the state of Rani Lakshmi Bai's husband, and the Rani became a leading heroine of the War of Independence 1857."
+      },
+      {
+       "q": "Lord Dalhousie held the office of:",
+       "options": [
+        "Viceroy of India",
+        "Commander-in-chief",
+        "Secretary of State",
+        "Governor General"
+       ],
+       "answer": 3,
+       "why": "The book describes Lord Dalhousie as the Governor General who introduced the Doctrine of Lapse in 1852 CE."
+      },
+      {
+       "q": "The Doctrine of Lapse applied to states that were:",
+       "options": [
+        "Fully independent",
+        "Under British protection",
+        "Ruled by the Company directly",
+        "Outside India"
+       ],
+       "answer": 1,
+       "why": "The solved answer defines the policy for 'an Indian ruler of a state under British protection' who died without a natural male heir."
+      }
+     ]
+    },
+    {
+     "title": "The War of Independence 1857 CE",
+     "notes_html": "<h4>Political Causes</h4>\n<p>The British <b>annexed Indian states</b> one after another; Lord Dalhousie's <b>Doctrine of Lapse</b> annexed states like Jhansi, and the <b>Mughal emperor was insulted</b> and threatened with the loss of his title.</p>\n<h4>Economic, Social and Military Causes</h4>\n<p><b>Economic:</b> Indian industries and trade were destroyed by British policies, heavy taxes ruined farmers, and Indian goods could not compete with British machine-made goods. <b>Social/religious:</b> the British interfered in the religion and customs of the people; Christian missionaries were active, and Indians feared forcible conversion. <b>Military:</b> Indian soldiers were paid less and treated as inferior to British soldiers, and were sent across the sea against their beliefs.</p>\n<h4>The Immediate Cause</h4>\n<p>The immediate cause was the introduction of the new <b>Enfield rifle cartridges</b>, which the soldiers had to <b>bite</b> before loading. It was rumoured (and believed) that the cartridges were greased with the <b>fat of cows and pigs</b> — the cow being sacred to Hindus and the pig forbidden (haram) for Muslims. This hurt the religious feelings of both Hindu and Muslim soldiers; the revolt of the soldiers at <b>Meerut</b> sparked the War of Independence.</p>\n<h4>The Black Hole Incident and the Aftermath</h4>\n<p>The <b>Black Hole incident</b> is related to the capture of Calcutta by Nawab Siraj-ud-Daulah in <b>1756 CE</b>: according to the British account, British prisoners were locked in a very small dark room for a night and many died of suffocation; the British used it to provoke anger against the Nawab before Plassey. After the War of 1857 failed, <b>Lord Canning</b> read out the <b>proclamation of Queen Victoria at Allahabad</b>, and the British Crown took India over directly in 1858 CE.</p>",
+     "mcqs": [
+      {
+       "q": "Lord Canning read out the proclamation of Queen Victoria at:",
+       "options": [
+        "Delhi",
+        "Agra",
+        "Calcutta",
+        "Allahabad"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: Lord Canning read out the proclamation of Queen Victoria at Allahabad after the War of Independence 1857."
+      },
+      {
+       "q": "The immediate cause of the War of Independence 1857 was:",
+       "options": [
+        "The greased Enfield rifle cartridges",
+        "The Doctrine of Lapse",
+        "Heavy taxes on farmers",
+        "The annexation of Jhansi"
+       ],
+       "answer": 0,
+       "why": "The solved answer states the immediate cause was the new Enfield rifle cartridges, believed to be greased with cow and pig fat; the Doctrine of Lapse and taxes were underlying (long-term) causes."
+      },
+      {
+       "q": "The Enfield cartridges were rumoured to be greased with the fat of:",
+       "options": [
+        "Horses and camels",
+        "Goats and sheep",
+        "Cows and pigs",
+        "Buffaloes and donkeys"
+       ],
+       "answer": 2,
+       "why": "The solved answer explains the cartridges were believed to be greased with the fat of cows and pigs — the cow sacred to Hindus and the pig forbidden (haram) for Muslims."
+      },
+      {
+       "q": "The revolt that sparked the War of Independence began with the soldiers at:",
+       "options": [
+        "Delhi",
+        "Jhansi",
+        "Kanpur",
+        "Meerut"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that the refusal to use the cartridges and the revolt of the soldiers at Meerut sparked the War of Independence 1857."
+      },
+      {
+       "q": "Which was a political cause of the War of Independence?",
+       "options": [
+        "Failure of the monsoon",
+        "Annexation of Indian states by the British",
+        "A plague epidemic",
+        "War with Afghanistan"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists political causes: the British annexed Indian states one after another, applied the Doctrine of Lapse, and insulted the Mughal emperor, threatening him with loss of his title."
+      },
+      {
+       "q": "Indian industries suffered before 1857 because Indian goods could not compete with:",
+       "options": [
+        "Chinese silk",
+        "Arab spices",
+        "British machine-made goods",
+        "Portuguese textiles"
+       ],
+       "answer": 2,
+       "why": "The solved answer gives the economic cause: Indian industries and trade were destroyed by British policies, and Indian goods could not compete with British machine-made goods."
+      },
+      {
+       "q": "Indian soldiers resented that, compared with British soldiers, they were:",
+       "options": [
+        "Paid less and treated as inferior",
+        "Given better posts",
+        "Posted near their homes",
+        "Exempted from sea voyages"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists the military cause: Indian soldiers were paid less and treated as inferior to British soldiers, and were sent across the sea against their beliefs."
+      },
+      {
+       "q": "The Black Hole incident is related to the capture of Calcutta in 1756 CE by:",
+       "options": [
+        "Mir Jaffar",
+        "Tipu Sultan",
+        "Shah Alam II",
+        "Nawab Siraj-ud-Daulah"
+       ],
+       "answer": 3,
+       "why": "The solved answer relates the Black Hole incident to the capture of Calcutta by Nawab Siraj-ud-Daulah in 1756 CE, after which British prisoners were locked in a small dark room for a night."
+      },
+      {
+       "q": "According to the British account, many Black Hole prisoners died of:",
+       "options": [
+        "Starvation",
+        "Suffocation",
+        "Disease",
+        "Wounds"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that, according to the British account, many of the prisoners locked in the small dark room died of suffocation; the British used the incident to provoke anger against the Nawab."
+      },
+      {
+       "q": "After the War of Independence, the Mughal emperor had been threatened with:",
+       "options": [
+        "Loss of his pension only",
+        "Loss of his title",
+        "Exile to Burma only",
+        "Loss of the Red Fort only"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists among the political causes that the Mughal emperor was insulted and threatened with the loss of his title by the British."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2: Reform Movements in the Subcontinent",
+   "lessons": [
+    {
+     "title": "Muslims after the War of Independence 1857",
+     "notes_html": "<h4>Religious Condition</h4>\n<p>After the War of Independence 1857 CE, the condition of the Muslims was miserable in every field. The British <b>blamed the Muslims for the war</b>; mosques and madrassas were <b>closed or destroyed</b>, religious endowments were confiscated, and the Muslims feared <b>Christian missionary pressure</b>.</p>\n<h4>Political Condition</h4>\n<p>The <b>Mughal Empire ended</b> and <b>Bahadur Shah Zafar was exiled to Rangoon</b>. Muslims were removed from government jobs and their lands and properties were seized; they had <b>no political party or representation</b>.</p>\n<h4>Educational Condition</h4>\n<p>The Muslims, distrusting the British, <b>refused to adopt the new English education</b>, while their own madrassa system had decayed. As a result they fell far behind the Hindus in education, jobs and business, and became <b>poor and backward</b>. It was in these conditions that reformers like <b>Sir Syed Ahmed Khan</b> came forward to revive the Muslims.</p>",
+     "mcqs": [
+      {
+       "q": "After 1857, the British mainly blamed which community for the war?",
+       "options": [
+        "The Muslims",
+        "The Hindus",
+        "The Sikhs",
+        "The Christians"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that after the War of Independence the British blamed the Muslims for the war, closed or destroyed mosques and madrassas and confiscated religious endowments."
+      },
+      {
+       "q": "After 1857, Bahadur Shah Zafar was exiled to:",
+       "options": [
+        "Delhi",
+        "London",
+        "Rangoon",
+        "Mecca"
+       ],
+       "answer": 2,
+       "why": "The solved answer records that the Mughal Empire ended and Bahadur Shah Zafar, the last Mughal emperor, was exiled to Rangoon."
+      },
+      {
+       "q": "Muslims fell behind the Hindus after 1857 mainly because they:",
+       "options": [
+        "Left India in large numbers",
+        "Were barred from all schools by law",
+        "Boycotted trade and farming",
+        "Refused to adopt the new English education"
+       ],
+       "answer": 3,
+       "why": "The solved answer explains that the Muslims, distrusting the British, refused the new English education while their madrassa system decayed, so they fell behind in education, jobs and business."
+      },
+      {
+       "q": "Which of these happened to Muslims after 1857?",
+       "options": [
+        "They were given more government jobs",
+        "They were removed from government jobs",
+        "Their lands were returned",
+        "They gained political representation"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the political condition: Muslims were removed from government jobs, their lands and properties were seized, and they had no political party or representation."
+      },
+      {
+       "q": "Religious endowments of the Muslims after 1857 were:",
+       "options": [
+        "Increased",
+        "Protected by law",
+        "Confiscated",
+        "Transferred to madrassas"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that after 1857 mosques and madrassas were closed or destroyed and religious endowments were confiscated by the British."
+      },
+      {
+       "q": "The Muslims feared pressure after 1857 from:",
+       "options": [
+        "Christian missionaries",
+        "Hindu reformers",
+        "Sikh preachers",
+        "Arab traders"
+       ],
+       "answer": 0,
+       "why": "The solved answer notes that the Muslims feared Christian missionary pressure after the war, one reason they distrusted the British."
+      },
+      {
+       "q": "Politically, after 1857 the Muslims had:",
+       "options": [
+        "A majority in the councils",
+        "Their own viceroy",
+        "A separate province",
+        "No political party or representation"
+       ],
+       "answer": 3,
+       "why": "The solved detailed answer states the Muslims had no political party or representation after the Mughal Empire ended in 1857."
+      },
+      {
+       "q": "The old madrassa system of the Muslims after 1857 had:",
+       "options": [
+        "Become stronger",
+        "Decayed",
+        "Been adopted by the British",
+        "Spread to Europe"
+       ],
+       "answer": 1,
+       "why": "The solved answer says the Muslims' own madrassa system had decayed, while they refused English education — a double loss that made them poor and backward."
+      },
+      {
+       "q": "The ending of which empire is linked with 1857?",
+       "options": [
+        "The Ottoman Empire",
+        "The Mughal Empire",
+        "The British Empire",
+        "The Maratha Empire"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that after the War of Independence 1857 the Mughal Empire ended and its last emperor was exiled to Rangoon."
+      },
+      {
+       "q": "The reform movement of Sir Syed Ahmed Khan arose mainly in response to:",
+       "options": [
+        "The First World War",
+        "The Partition of Bengal",
+        "The founding of the Congress",
+        "The miserable condition of Muslims after 1857"
+       ],
+       "answer": 3,
+       "why": "The chapter's solved answers show Sir Syed's whole movement — reconciliation, education and reform — as a response to the religious, political and educational misery of the Muslims after 1857."
+      }
+     ]
+    },
+    {
+     "title": "Sir Syed Ahmed Khan: Life and Reconciliation",
+     "notes_html": "<h4>Early Life</h4>\n<p><b>Sir Syed Ahmed Khan</b> was born in <b>1817 CE</b> in <b>Delhi</b>. At the time of the War of Independence 1857 he was at <b>Bijnor</b>, where he <b>saved British families</b> during the revolt. He died at <b>Aligarh in 1898 CE</b>.</p>\n<h4>Removing British Distrust</h4>\n<p>After 1857 the British considered the Muslims their enemies and the Muslims hated the British; Sir Syed worked to remove this enmity from both sides. He wrote <b>'Asbab-e-Baghawat-e-Hind'</b> (The Causes of the Indian Revolt, <b>1858 CE</b>) explaining to the British that the revolt was not only the Muslims' fault but resulted from British policies and the absence of Indians in the Legislative Council. He wrote <b>'The Loyal Muhammadans of India'</b> to show that many Muslims had remained loyal and had even saved British lives.</p>\n<h4>Advising the Muslims</h4>\n<p>He advised the Muslims to give up confrontation, <b>adopt modern education</b> and cooperate with the government for their own progress. In this way he built a <b>bridge of reconciliation</b> between the British rulers and the Muslims.</p>\n<h4>His Books</h4>\n<p>Two famous books of Sir Syed are <b>'Asbab-e-Baghawat-e-Hind'</b> (1858 CE) and <b>'Asar-us-Sanadid'</b>, about the historical buildings and people of Delhi. His <b>'Khutbat-e-Ahmadia'</b> and his <b>commentary on the Holy Quran</b> are also famous.</p>",
+     "mcqs": [
+      {
+       "q": "Sir Syed Ahmed Khan was born in:",
+       "options": [
+        "Dacca",
+        "Ghazipur",
+        "Delhi",
+        "Calcutta"
+       ],
+       "answer": 2,
+       "why": "The book's own MCQ: Sir Syed Ahmed Khan was born in Delhi — in 1817 CE, as the book's timeline records."
+      },
+      {
+       "q": "Sir Syed Ahmed Khan was born in the year:",
+       "options": [
+        "1777 CE",
+        "1857 CE",
+        "1898 CE",
+        "1817 CE"
+       ],
+       "answer": 3,
+       "why": "The book's timeline of Sir Syed's movement begins: 1817 CE — born in Delhi; 1898 CE is the year he died at Aligarh."
+      },
+      {
+       "q": "In 'Asbab-e-Baghawat-e-Hind' (1858 CE) Sir Syed explained:",
+       "options": [
+        "The history of Delhi's buildings",
+        "The real causes of the War of Independence",
+        "The rules of Urdu grammar",
+        "The life of the Prophet (PBUH)"
+       ],
+       "answer": 1,
+       "why": "The solved answer says 'Asbab-e-Baghawat-e-Hind' (1858 CE) explained the real causes of the War of Independence to the British — British policies and the absence of Indians in the Legislative Council."
+      },
+      {
+       "q": "'Asar-us-Sanadid' is a book about:",
+       "options": [
+        "The causes of the 1857 revolt",
+        "Islamic law",
+        "The historical buildings and people of Delhi",
+        "The geography of India"
+       ],
+       "answer": 2,
+       "why": "The solved answer describes 'Asar-us-Sanadid' as Sir Syed's book about the historical buildings and people of Delhi."
+      },
+      {
+       "q": "During the 1857 revolt at Bijnor, Sir Syed:",
+       "options": [
+        "Saved British families",
+        "Led the rebel army",
+        "Left India",
+        "Joined the Mughal court"
+       ],
+       "answer": 0,
+       "why": "The solved answer records that Sir Syed himself saved British families in Bijnor during the revolt — evidence he used in 'The Loyal Muhammadans of India'."
+      },
+      {
+       "q": "'The Loyal Muhammadans of India' was written to show that:",
+       "options": [
+        "Muslims wanted a separate state",
+        "Muslims rejected English education",
+        "The British caused the revolt alone",
+        "Many Muslims had remained loyal to the British"
+       ],
+       "answer": 3,
+       "why": "The solved answer states Sir Syed wrote 'The Loyal Muhammadans of India' to show that many Muslims had remained loyal and had even saved British lives."
+      },
+      {
+       "q": "Sir Syed advised the Muslims to give up confrontation and:",
+       "options": [
+        "Migrate from India",
+        "Adopt modern education",
+        "Boycott all government jobs",
+        "Close their madrassas"
+       ],
+       "answer": 1,
+       "why": "The solved answer says he advised the Muslims to give up confrontation, adopt modern education and cooperate with the government for their own progress."
+      },
+      {
+       "q": "Sir Syed's role between the British and the Muslims is best described as:",
+       "options": [
+        "A military alliance",
+        "A bridge of reconciliation",
+        "A trade agreement",
+        "A religious debate"
+       ],
+       "answer": 1,
+       "why": "The solved answer concludes: 'In this way he built a bridge of reconciliation between the British rulers and the Muslims.'"
+      },
+      {
+       "q": "'Khutbat-e-Ahmadia' is one of the famous works of:",
+       "options": [
+        "Maulana Muhammad Ali Mungeri",
+        "Hassan Ali Afandi",
+        "Maulana Zafar Ali Khan",
+        "Sir Syed Ahmed Khan"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists Sir Syed's 'Khutbat-e-Ahmadia' and his commentary on the Holy Quran among his famous works, written in defence of Islam."
+      },
+      {
+       "q": "Sir Syed Ahmed Khan died in 1898 CE at:",
+       "options": [
+        "Aligarh",
+        "Delhi",
+        "Ghazipur",
+        "Lucknow"
+       ],
+       "answer": 0,
+       "why": "The book's timeline ends: 1898 CE — Sir Syed died at Aligarh, the city of his MAO College and the Aligarh Movement."
+      }
+     ]
+    },
+    {
+     "title": "The Aligarh Movement: Educational Services",
+     "notes_html": "<h4>Schools and the Scientific Society</h4>\n<p>Sir Syed's educational services are the heart of the <b>Aligarh Movement</b>. He established a <b>school at Moradabad (1859 CE)</b> and a <b>school at Ghazipur (1864 CE)</b>. He founded the <b>Scientific Society at Ghazipur in 1863 CE</b>, which <b>translated English books</b> of science and literature into Urdu.</p>\n<h4>Journals</h4>\n<p>He started the <b>Aligarh Institute Gazette in 1866 CE</b> — a bilingual (Urdu-English) journal of the Scientific Society, published to spread modern knowledge and his reform ideas among the Muslims — and the journal <b>'Tehzeeb-ul-Akhlaq' (1870 CE)</b> to reform Muslim society.</p>\n<h4>MAO School and College</h4>\n<p>He established the <b>Muhammadan Anglo-Oriental (MAO) High School at Aligarh in 1875 CE</b>, which became <b>MAO College in 1877 CE</b> — and later, in <b>1920 CE</b>, <b>Aligarh Muslim University</b>. He also founded the <b>Muhammadan Educational Conference (1886 CE)</b> to spread education among Muslims all over India. Through these services he persuaded the Muslims to acquire modern English education, the key to their revival.</p>",
+     "mcqs": [
+      {
+       "q": "The Scientific Society at Ghazipur was founded in:",
+       "options": [
+        "1859 CE",
+        "1861 CE",
+        "1865 CE",
+        "1863 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: the Scientific Society at Ghazipur was founded in 1863 CE by Sir Syed Ahmed Khan."
+      },
+      {
+       "q": "Sir Syed started the Aligarh Institute Gazette in:",
+       "options": [
+        "1863 CE",
+        "1866 CE",
+        "1870 CE",
+        "1875 CE"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that Sir Syed Ahmed Khan started the Aligarh Institute Gazette in 1866 CE, a bilingual (Urdu-English) journal of the Scientific Society."
+      },
+      {
+       "q": "The Aligarh Institute Gazette was a journal in:",
+       "options": [
+        "Urdu only",
+        "English only",
+        "Urdu and English (bilingual)",
+        "Arabic and Persian"
+       ],
+       "answer": 2,
+       "why": "The solved answer describes the Gazette as a bilingual (Urdu-English) journal published to spread modern knowledge and Sir Syed's reform ideas among the Muslims."
+      },
+      {
+       "q": "The Scientific Society translated English books into:",
+       "options": [
+        "Urdu",
+        "Persian",
+        "Arabic",
+        "Hindi"
+       ],
+       "answer": 0,
+       "why": "The solved answer says the Scientific Society (1863 CE) translated English books of science and literature into Urdu for Indian readers."
+      },
+      {
+       "q": "Sir Syed established his first school in 1859 CE at:",
+       "options": [
+        "Ghazipur",
+        "Aligarh",
+        "Delhi",
+        "Moradabad"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists the school at Moradabad (1859 CE) first among Sir Syed's institutions, followed by the school at Ghazipur (1864 CE)."
+      },
+      {
+       "q": "MAO High School at Aligarh was established in:",
+       "options": [
+        "1866 CE",
+        "1875 CE",
+        "1877 CE",
+        "1886 CE"
+       ],
+       "answer": 1,
+       "why": "The solved answer records: Muhammadan Anglo-Oriental (MAO) High School, Aligarh (1875 CE), which became MAO College in 1877 CE."
+      },
+      {
+       "q": "MAO College, Aligarh was founded in:",
+       "options": [
+        "1875 CE",
+        "1877 CE",
+        "1886 CE",
+        "1920 CE"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that MAO High School (1875) became MAO College, Aligarh in 1877 CE — and later Aligarh Muslim University in 1920 CE."
+      },
+      {
+       "q": "MAO College later became, in 1920 CE:",
+       "options": [
+        "Delhi University",
+        "Punjab University",
+        "Osmania University",
+        "Aligarh Muslim University"
+       ],
+       "answer": 3,
+       "why": "The solved answers record that MAO College became Aligarh Muslim University in 1920 CE, and its students later played a leading role in the Pakistan Movement."
+      },
+      {
+       "q": "MAO stands for:",
+       "options": [
+        "Muhammadan Anglo-Oriental",
+        "Muslim Academic Organization",
+        "Muhammadan Arts Organization",
+        "Modern Aligarh Organization"
+       ],
+       "answer": 0,
+       "why": "The book uses MAO for Muhammadan Anglo-Oriental — the name of Sir Syed's high school (1875) and college (1877) at Aligarh."
+      },
+      {
+       "q": "Sir Syed's educational services are the heart of the movement called:",
+       "options": [
+        "The Deoband Movement",
+        "The Khilafat Movement",
+        "The Aligarh Movement",
+        "The Nadva Movement"
+       ],
+       "answer": 2,
+       "why": "The solved answer opens: 'Sir Syed's educational services are the heart of his Aligarh Movement', centred on his schools, Scientific Society, journals and MAO College."
+      }
+     ]
+    },
+    {
+     "title": "Sir Syed as a Social Reformer and the Two-Nation Theory",
+     "notes_html": "<h4>Tehzeeb-ul-Akhlaq</h4>\n<p>As a social reformer, Sir Syed tried to remove the backwardness and harmful customs of Muslim society. Through his journal <b>'Tehzeeb-ul-Akhlaq' (1870 CE)</b> he attacked <b>ignorance, superstition and useless customs</b> and promoted <b>morality, cleanliness, hard work and rational thinking</b>.</p>\n<h4>His Reform Message</h4>\n<p>He urged the Muslims to give up their hatred of English education, to adopt modern sciences, and to improve the condition of <b>women through education</b>. For religious education, he wrote a <b>commentary (Tafsir) of the Holy Quran</b> and books like 'Khutbat-e-Ahmadia' defending Islam against the objections of Christian writers, and he arranged religious instruction along with modern education in his institutions at Aligarh.</p>\n<h4>The Two-Nation Theory</h4>\n<p>Sir Syed promoted Hindu-Muslim unity in his early life, calling Hindus and Muslims <b>'the two eyes of India'</b>. But after the <b>Urdu-Hindi controversy (1867 CE)</b> he concluded that Hindus and Muslims differed in religion, culture, language, law and heroes, and that the Hindu majority, once in power, would dominate the Muslims. Hence they were <b>two separate nations</b> who could not live under one political system — the <b>Two-Nation Theory</b>, which later became the basis of Pakistan.</p>\n<h4>Timeline of the Movement</h4>\n<ul>\n<li><b>1817</b> — born in Delhi; <b>1858</b> — 'Asbab-e-Baghawat-e-Hind'</li>\n<li><b>1859</b> — school at Moradabad; <b>1863</b> — Scientific Society</li>\n<li><b>1866</b> — Aligarh Institute Gazette; <b>1870</b> — 'Tehzeeb-ul-Akhlaq'</li>\n<li><b>1875</b> — MAO High School; <b>1877</b> — MAO College</li>\n<li><b>1886</b> — Muhammadan Educational Conference; <b>1898</b> — died at Aligarh</li>\n</ul>",
+     "mcqs": [
+      {
+       "q": "Through 'Tehzeeb-ul-Akhlaq' Sir Syed attacked:",
+       "options": [
+        "English education",
+        "Ignorance, superstition and useless customs",
+        "Religious instruction",
+        "Modern science"
+       ],
+       "answer": 1,
+       "why": "The solved answer says that through 'Tehzeeb-ul-Akhlaq' (1870 CE) Sir Syed attacked ignorance, superstition and useless customs and promoted morality, cleanliness, hard work and rational thinking."
+      },
+      {
+       "q": "'Tehzeeb-ul-Akhlaq' was started in:",
+       "options": [
+        "1866 CE",
+        "1875 CE",
+        "1870 CE",
+        "1886 CE"
+       ],
+       "answer": 2,
+       "why": "The book's timeline records 1870 CE for 'Tehzeeb-ul-Akhlaq', Sir Syed's journal for the moral and social reform of the Muslims."
+      },
+      {
+       "q": "Sir Syed called Hindus and Muslims, in his early life:",
+       "options": [
+        "'The two eyes of India'",
+        "'Two enemy nations'",
+        "'Brothers in faith'",
+        "'One political party'"
+       ],
+       "answer": 0,
+       "why": "The solved answer notes that Sir Syed promoted Hindu-Muslim unity in his early life, calling both communities 'the two eyes of India'."
+      },
+      {
+       "q": "The event that changed Sir Syed's thinking about Hindu-Muslim unity was:",
+       "options": [
+        "The War of Independence 1857",
+        "The Partition of Bengal 1905",
+        "The founding of the Congress 1885",
+        "The Urdu-Hindi controversy of 1867 CE"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that after the Urdu-Hindi controversy (1867 CE) Sir Syed concluded that Hindus and Muslims were two separate nations — the Two-Nation Theory."
+      },
+      {
+       "q": "The Two-Nation Theory later became the basis of:",
+       "options": [
+        "The Congress",
+        "Pakistan",
+        "The Khilafat Movement",
+        "Aligarh University"
+       ],
+       "answer": 1,
+       "why": "The solved answer concludes that the Two-Nation Theory — Hindus and Muslims as separate nations — later became the basis of Pakistan."
+      },
+      {
+       "q": "For religious education, Sir Syed wrote a commentary (Tafsir) of:",
+       "options": [
+        "The Bible",
+        "The Holy Quran",
+        "The Vedas",
+        "The Torah"
+       ],
+       "answer": 1,
+       "why": "The solved short answer records that for religious education Sir Syed wrote a commentary (Tafsir) of the Holy Quran and books like 'Khutbat-e-Ahmadia' defending Islam."
+      },
+      {
+       "q": "'Khutbat-e-Ahmadia' defended Islam against the objections of:",
+       "options": [
+        "Hindu reformers",
+        "British officials",
+        "Atheist philosophers",
+        "Christian writers"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that Sir Syed wrote 'Khutbat-e-Ahmadia' defending Islam against the objections of Christian writers."
+      },
+      {
+       "q": "As a social reformer, Sir Syed promoted all of the following EXCEPT:",
+       "options": [
+        "Blind following of old customs",
+        "Morality and cleanliness",
+        "Hard work",
+        "Rational thinking"
+       ],
+       "answer": 0,
+       "why": "The solved answer says Sir Syed promoted morality, cleanliness, hard work and rational thinking, and attacked useless customs — the opposite of blindly following old customs."
+      },
+      {
+       "q": "Sir Syed urged the improvement of women's condition through:",
+       "options": [
+        "Political office",
+        "Trade",
+        "Education",
+        "Migration"
+       ],
+       "answer": 2,
+       "why": "The solved answer records that as a social reformer Sir Syed urged the Muslims to improve the condition of women through education."
+      },
+      {
+       "q": "In Sir Syed's institutions at Aligarh, religious instruction was arranged:",
+       "options": [
+        "Instead of modern education",
+        "Only for ulema",
+        "Outside the college",
+        "Along with modern education"
+       ],
+       "answer": 3,
+       "why": "The solved short answer says Sir Syed arranged religious instruction along with modern education in his institutions at Aligarh, so students could learn both."
+      }
+     ]
+    },
+    {
+     "title": "Other Reform Movements and Institutions",
+     "notes_html": "<h4>Darul Uloom Deoband and Nadva-tul-Ulema</h4>\n<p><b>Darul-Uloom-Deoband</b> was founded in <b>1866 CE</b>. <b>Nadva-tul-Ulema, Lucknow</b> (founded <b>1894 CE</b>) was founded by <b>Maulana Muhammad Ali Mungeri</b> along with other scholars; it aimed at reforming religious education by <b>combining the old religious sciences with modern knowledge</b>.</p>\n<h4>Sindh Madrasa and Islamia College</h4>\n<p><b>Sindh Madrasa-tul-Islam, Karachi</b> was founded by <b>Hassan Ali Afandi</b>, and <b>Islamia College Peshawar</b> by <b>Sahibzada Abdul Qayyum</b>.</p>\n<h4>Muhammadan Educational Conference</h4>\n<p>The <b>Muhammadan Educational Conference</b> was established by Sir Syed Ahmed Khan in <b>1886 CE</b>. Its objectives were: to <b>promote modern education</b> among the Muslims; to discuss their educational problems and find solutions; to spread the message of the Aligarh movement to every part of India; and to create unity and political awareness among the Muslims. It held <b>annual sessions in different cities</b>, passed resolutions for Muslim education and encouraged the establishment of schools and colleges. It was in its annual session at <b>Dhaka in 1906</b> that the <b>All India Muslim League</b> was founded.</p>\n<h4>Significance of Modern Institutions</h4>\n<p>Modern educational institutions are highly significant for Pakistan: they produce educated citizens, doctors, engineers, teachers and officers; they spread science and technology; they created the leadership that won Pakistan (the students of Aligarh played a leading role in the Pakistan Movement); and they keep our religious and cultural identity alive along with modern knowledge.</p>",
+     "mcqs": [
+      {
+       "q": "Sindh Madrasa-tul-Islam, Karachi was founded by:",
+       "options": [
+        "Maulana Zafar Ali Khan",
+        "Sahibzada Abdul Qayyum",
+        "Hassan Ali Afandi",
+        "Syed Muhammad Ali Khanpuri"
+       ],
+       "answer": 2,
+       "why": "The book's own MCQ: Sindh Madrasa-tul-Islam, Karachi was founded by Hassan Ali Afandi."
+      },
+      {
+       "q": "Muhammadan Educational Conference was established in:",
+       "options": [
+        "1886 CE",
+        "1885 CE",
+        "1888 CE",
+        "1890 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the Muhammadan Educational Conference was established in 1886 CE by Sir Syed Ahmed Khan."
+      },
+      {
+       "q": "Darul-Uloom-Deoband was founded in:",
+       "options": [
+        "1869 CE",
+        "1871 CE",
+        "1873 CE",
+        "1866 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: Darul-Uloom-Deoband was founded in 1866 CE."
+      },
+      {
+       "q": "Nadva-tul-Ulema, Lucknow was founded in:",
+       "options": [
+        "1866 CE",
+        "1894 CE",
+        "1886 CE",
+        "1906 CE"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that Nadva-tul-Ulema, Lucknow was founded in 1894 CE by Maulana Muhammad Ali Mungeri along with other scholars."
+      },
+      {
+       "q": "Nadva-tul-Ulema was founded by:",
+       "options": [
+        "Sir Syed Ahmed Khan",
+        "Maulana Muhammad Ali Mungeri",
+        "Hassan Ali Afandi",
+        "Sahibzada Abdul Qayyum"
+       ],
+       "answer": 1,
+       "why": "The solved short answer states that Nadva-tul-Ulema, Lucknow (founded 1894 CE) was founded by Maulana Muhammad Ali Mungeri, along with other scholars."
+      },
+      {
+       "q": "Nadva-tul-Ulema aimed at reforming religious education by:",
+       "options": [
+        "Rejecting all modern subjects",
+        "Teaching only in Arabic",
+        "Closing English schools",
+        "Combining old religious sciences with modern knowledge"
+       ],
+       "answer": 3,
+       "why": "The solved answer explains Nadva's aim: reforming religious education by combining the old religious sciences with modern knowledge."
+      },
+      {
+       "q": "Islamia College Peshawar was founded by:",
+       "options": [
+        "Sahibzada Abdul Qayyum",
+        "Hassan Ali Afandi",
+        "Maulana Muhammad Ali Mungeri",
+        "Sir Syed Ahmed Khan"
+       ],
+       "answer": 0,
+       "why": "The solved detailed answer names Islamia College Peshawar among the reform institutions, founded by Sahibzada Abdul Qayyum."
+      },
+      {
+       "q": "The Muhammadan Educational Conference held its sessions:",
+       "options": [
+        "Only at Aligarh",
+        "Every five years in Delhi",
+        "Annually in different cities",
+        "Only at Dhaka"
+       ],
+       "answer": 2,
+       "why": "The solved answer says the Conference held annual sessions in different cities, passed resolutions for Muslim education and encouraged the establishment of schools and colleges."
+      },
+      {
+       "q": "The All India Muslim League was founded in 1906 during the annual session of:",
+       "options": [
+        "The Indian National Congress at Bombay",
+        "Darul Uloom Deoband",
+        "Nadva-tul-Ulema at Lucknow",
+        "The Muhammadan Educational Conference at Dhaka"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that it was in the Conference's annual session at Dhaka in 1906 that the All India Muslim League was founded."
+      },
+      {
+       "q": "One objective of the Muhammadan Educational Conference was to:",
+       "options": [
+        "Oppose English education",
+        "Promote modern education among the Muslims",
+        "Collect taxes for colleges",
+        "Train soldiers"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the Conference's objectives: to promote modern education among the Muslims, discuss their educational problems, spread the Aligarh message and create unity and political awareness."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3: World Wars I and II",
+   "lessons": [
+    {
+     "title": "World War I: Causes and Outbreak",
+     "notes_html": "<h4>Span of the War</h4>\n<p><b>World War-I</b> lasted from <b>1914 CE to 1918 CE</b> (about four years). It started in 1914 and ended in <b>November 1918</b> with the defeat of Germany and its allies.</p>\n<h4>Major Causes</h4>\n<ul>\n<li><b>Rivalry and competition</b> among the European powers for colonies and trade in Asia and Africa</li>\n<li><b>The alliance system</b>: Europe was divided into two armed camps — the <b>Triple Alliance</b> (Germany, Austria-Hungary, Italy) and the <b>Triple Entente</b> (Britain, France, Russia) — so a quarrel between two countries could drag in all</li>\n<li><b>Militarism</b>: an arms race, especially the naval race between Britain and Germany</li>\n<li><b>Imperialism and nationalism</b>: extreme love of one's own nation and hatred of others, e.g. Serbian nationalism in the Balkans</li>\n</ul>\n<h4>The Immediate Cause</h4>\n<p>The immediate cause was the <b>assassination of Archduke Franz Ferdinand</b>, the heir to the throne of Austria-Hungary, by a Serbian nationalist at <b>Sarajevo on 28 June 1914 CE</b>. Austria-Hungary declared war on Serbia, and because of the system of alliances the great powers of Europe were drawn into the war one after another.</p>",
+     "mcqs": [
+      {
+       "q": "World War-I was started in:",
+       "options": [
+        "1914 CE",
+        "1910 CE",
+        "1912 CE",
+        "1916 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: World War-I started in 1914 CE and lasted until 1918 CE."
+      },
+      {
+       "q": "World War-I lasted from 1914 CE to:",
+       "options": [
+        "1916 CE",
+        "1919 CE",
+        "1920 CE",
+        "1918 CE"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that World War-I lasted from 1914 CE to 1918 CE (about four years), ending in November 1918 with the defeat of Germany and its allies."
+      },
+      {
+       "q": "The immediate cause of World War-I was the assassination of:",
+       "options": [
+        "The German Kaiser",
+        "Archduke Franz Ferdinand",
+        "The Russian Tsar",
+        "The British Prime Minister"
+       ],
+       "answer": 1,
+       "why": "The solved answer identifies the immediate cause as the assassination of Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, at Sarajevo on 28 June 1914 CE."
+      },
+      {
+       "q": "Archduke Franz Ferdinand was assassinated at:",
+       "options": [
+        "Vienna",
+        "Sarajevo",
+        "Berlin",
+        "Paris"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the Archduke was shot by a Serbian nationalist at Sarajevo on 28 June 1914 CE, after which Austria-Hungary declared war on Serbia."
+      },
+      {
+       "q": "The Triple Alliance consisted of:",
+       "options": [
+        "Britain, France and Russia",
+        "Germany, Russia and Italy",
+        "Britain, Germany and France",
+        "Germany, Austria-Hungary and Italy"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists the two armed camps: the Triple Alliance (Germany, Austria-Hungary, Italy) and the Triple Entente (Britain, France, Russia)."
+      },
+      {
+       "q": "The Triple Entente consisted of:",
+       "options": [
+        "Britain, France and Russia",
+        "Germany, Austria-Hungary and Italy",
+        "Britain, Germany and Russia",
+        "France, Italy and Russia"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists the Triple Entente as Britain, France and Russia, opposed to the Triple Alliance of Germany, Austria-Hungary and Italy."
+      },
+      {
+       "q": "The naval arms race before World War-I was mainly between:",
+       "options": [
+        "France and Italy",
+        "Russia and Austria",
+        "Britain and Germany",
+        "Britain and France"
+       ],
+       "answer": 2,
+       "why": "The solved answer names militarism — an arms race, especially the naval race between Britain and Germany — as one of the major causes of World War-I."
+      },
+      {
+       "q": "Austria-Hungary first declared war on:",
+       "options": [
+        "Russia",
+        "Germany",
+        "France",
+        "Serbia"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that after the Sarajevo assassination Austria-Hungary declared war on Serbia, and the alliance system then drew in the great powers one after another."
+      },
+      {
+       "q": "World War-I ended in November 1918 with the defeat of:",
+       "options": [
+        "Britain and France",
+        "Germany and its allies",
+        "Russia and Serbia",
+        "The Ottoman Empire only"
+       ],
+       "answer": 1,
+       "why": "The solved short answer records that World War-I ended in November 1918 with the defeat of Germany and its allies."
+      },
+      {
+       "q": "European rivalry for colonies and trade was centred on:",
+       "options": [
+        "America and Australia",
+        "The Arctic regions",
+        "Asia and Africa",
+        "South America only"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists as the first cause the rivalry and competition among the European powers for colonies and trade in Asia and Africa."
+      }
+     ]
+    },
+    {
+     "title": "Events of World War I and the Ottoman Empire",
+     "notes_html": "<h4>Main Events of the War</h4>\n<ul>\n<li><b>1914 CE</b> — Germany attacked France through Belgium; Britain declared war on Germany; the Ottoman Empire joined the Central Powers; trench warfare began on the Western Front</li>\n<li><b>1915 CE</b> — Italy joined the Allies; the Gallipoli campaign against the Ottomans failed</li>\n<li><b>1916 CE</b> — the great Battles of Verdun and the Somme caused huge losses</li>\n<li><b>1917 CE</b> — the USA joined the Allies; the Russian Revolution took place and Russia left the war</li>\n<li><b>1918 CE</b> — Germany's final offensives failed; Germany signed the armistice on 11 November 1918</li>\n<li><b>1919 CE</b> — the Treaty of Versailles formally settled the peace with Germany</li>\n</ul>\n<h4>Role of the Ottoman Empire</h4>\n<p>The <b>Ottoman Empire</b> joined World War-I on the side of the <b>Central Powers</b> (Germany and Austria-Hungary) in 1914 CE. It closed the <b>Dardanelles</b> strait, cutting Russia's supply route; the Allies attacked <b>Gallipoli (1915)</b> to open it but were defeated by the Turks under <b>Mustafa Kemal</b>. Ottoman forces fought the British in Mesopotamia (Iraq), Palestine and Arabia, where the Arabs, encouraged by Britain, revolted against the Turks (the <b>Arab Revolt</b>).</p>\n<h4>Break-up of the Ottoman Empire</h4>\n<p>After its defeat in 1918, the Ottoman Empire was broken up: its Arab territories (Palestine, Syria, Iraq, Arabia) were taken away and divided between Britain and France as <b>mandates</b>, and the <b>Khilafat (Caliphate)</b> itself was abolished by Turkey in <b>1924 CE</b> — an event which deeply affected the Muslims of India and led to the Khilafat Movement.</p>",
+     "mcqs": [
+      {
+       "q": "In 1914 Germany attacked France through:",
+       "options": [
+        "Holland",
+        "Switzerland",
+        "Spain",
+        "Belgium"
+       ],
+       "answer": 3,
+       "why": "The solved answer's events list begins: 1914 CE — Germany attacked France through Belgium; Britain declared war on Germany."
+      },
+      {
+       "q": "The Gallipoli campaign of 1915 was fought against:",
+       "options": [
+        "Germany",
+        "The Ottomans",
+        "Russia",
+        "Italy"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that in 1915 the Gallipoli campaign against the Ottomans failed; the Turks under Mustafa Kemal defeated the Allies there."
+      },
+      {
+       "q": "The Turkish commander who defeated the Allies at Gallipoli was:",
+       "options": [
+        "Enver Pasha",
+        "Mustafa Kemal",
+        "Sultan Mehmed V",
+        "Sharif Hussain"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Allies attacked Gallipoli (1915) to open the Dardanelles but were defeated by the Turks under Mustafa Kemal."
+      },
+      {
+       "q": "The USA joined the Allies in:",
+       "options": [
+        "1914 CE",
+        "1915 CE",
+        "1918 CE",
+        "1917 CE"
+       ],
+       "answer": 3,
+       "why": "The solved events list records: 1917 CE — the USA joined the Allies; the Russian Revolution took place and Russia left the war."
+      },
+      {
+       "q": "Russia left World War-I after:",
+       "options": [
+        "The Russian Revolution of 1917",
+        "The Battle of Verdun",
+        "The Gallipoli campaign",
+        "The Treaty of Versailles"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that in 1917 the Russian Revolution took place and Russia left the war."
+      },
+      {
+       "q": "Germany signed the armistice ending World War-I on:",
+       "options": [
+        "28 June 1914",
+        "1 September 1918",
+        "11 November 1918",
+        "11 November 1919"
+       ],
+       "answer": 2,
+       "why": "The solved answer records that Germany signed the armistice on 11 November 1918 and the war ended; the Treaty of Versailles followed in 1919."
+      },
+      {
+       "q": "The peace with Germany was formally settled by:",
+       "options": [
+        "The Treaty of Allahabad",
+        "The Lucknow Pact",
+        "The Geneva Convention",
+        "The Treaty of Versailles (1919)"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that in 1919 the Treaty of Versailles formally settled the peace with Germany after World War-I."
+      },
+      {
+       "q": "The Ottoman Empire joined World War-I on the side of:",
+       "options": [
+        "The Allies",
+        "The Central Powers",
+        "The Triple Entente",
+        "Neutral countries"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Ottoman Empire joined World War-I on the side of the Central Powers (Germany and Austria-Hungary) in 1914 CE."
+      },
+      {
+       "q": "By closing the Dardanelles, the Ottomans cut the supply route of:",
+       "options": [
+        "Britain",
+        "France",
+        "Russia",
+        "Italy"
+       ],
+       "answer": 2,
+       "why": "The solved answer explains that the Ottoman Empire closed the Dardanelles strait, cutting Russia's supply route, which is why the Allies attacked Gallipoli."
+      },
+      {
+       "q": "The Khilafat (Caliphate) was abolished by Turkey in:",
+       "options": [
+        "1924 CE",
+        "1918 CE",
+        "1920 CE",
+        "1930 CE"
+       ],
+       "answer": 0,
+       "why": "The solved answer records that the Khilafat itself was abolished by Turkey in 1924 CE, an event which deeply affected the Muslims of India and led to the Khilafat Movement."
+      }
+     ]
+    },
+    {
+     "title": "World War II: Causes and India's Role",
+     "notes_html": "<h4>Outbreak of the War</h4>\n<p><b>World War-II</b> started in <b>1939 CE</b> — on <b>1 September 1939</b>, when Germany under <b>Adolf Hitler</b> attacked <b>Poland</b>; Britain and France then declared war on Germany. It lasted until <b>1945 CE</b>.</p>\n<h4>Causes of World War-II</h4>\n<ul>\n<li>The harsh <b>Treaty of Versailles (1919)</b> humiliated Germany with heavy fines (reparations), loss of territory and limits on its army, creating a desire for revenge</li>\n<li>The rise of <b>dictators</b>: Hitler in Germany and Mussolini in Italy preached aggressive nationalism and expansion</li>\n<li>The <b>Great Economic Depression (1929)</b> created unemployment and instability which dictators exploited</li>\n<li>The failure of the <b>League of Nations</b> to stop aggression (Japan in Manchuria, Italy in Ethiopia)</li>\n<li>The policy of <b>appeasement</b> by Britain and France, which encouraged Hitler</li>\n</ul>\n<h4>Role of Indians in World War-II</h4>\n<p>India was made a part of World War-II by Britain <b>without consulting Indian leaders</b>. More than <b>two million Indian soldiers</b> — the largest volunteer army of the war — fought for the Allies in North Africa, Italy, the Middle East and especially in <b>Burma</b> against Japan, and their role was decisive in stopping the Japanese advance towards India. At the same time, many Indians opposed the war effort: the Congress launched the <b>Quit India Movement (1942)</b>, and <b>Subhas Chandra Bose</b> formed the <b>Indian National Army (Azad Hind Fauj)</b> with Japanese support. The war weakened Britain greatly, and after it ended in 1945 Britain could no longer hold India — independence came in 1947.</p>",
+     "mcqs": [
+      {
+       "q": "World War-II was started in:",
+       "options": [
+        "1933 CE",
+        "1939 CE",
+        "1935 CE",
+        "1937 CE"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ: World War-II started in 1939 CE, when Germany attacked Poland on 1 September 1939."
+      },
+      {
+       "q": "World War-II began when Germany attacked:",
+       "options": [
+        "France",
+        "Poland",
+        "Russia",
+        "Britain"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that World War-II started on 1 September 1939, when Germany under Adolf Hitler attacked Poland; Britain and France then declared war on Germany."
+      },
+      {
+       "q": "The German leader at the start of World War-II was:",
+       "options": [
+        "Benito Mussolini",
+        "Kaiser Wilhelm",
+        "Joseph Stalin",
+        "Adolf Hitler"
+       ],
+       "answer": 3,
+       "why": "The solved answer names Germany under Adolf Hitler as the attacker of Poland in 1939; Mussolini was the dictator of Italy."
+      },
+      {
+       "q": "The Treaty of Versailles, a cause of World War-II, was signed in:",
+       "options": [
+        "1919 CE",
+        "1914 CE",
+        "1918 CE",
+        "1929 CE"
+       ],
+       "answer": 0,
+       "why": "The solved answer explains that the harsh Treaty of Versailles (1919) humiliated Germany with reparations, loss of territory and army limits, creating a desire for revenge."
+      },
+      {
+       "q": "The Great Economic Depression, which helped dictators rise, began in:",
+       "options": [
+        "1919 CE",
+        "1939 CE",
+        "1929 CE",
+        "1945 CE"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists the Great Economic Depression (1929) among the causes of World War-II, because it created unemployment and instability which dictators exploited."
+      },
+      {
+       "q": "The League of Nations failed to stop Japan's aggression in:",
+       "options": [
+        "Poland",
+        "Ethiopia",
+        "Burma",
+        "Manchuria"
+       ],
+       "answer": 3,
+       "why": "The solved answer cites the failure of the League of Nations to stop aggression — Japan in Manchuria and Italy in Ethiopia — as a cause of World War-II."
+      },
+      {
+       "q": "The policy of giving in to Hitler by Britain and France was called:",
+       "options": [
+        "Containment",
+        "Appeasement",
+        "Isolation",
+        "Neutrality"
+       ],
+       "answer": 1,
+       "why": "The solved answer names the policy of appeasement by Britain and France, which encouraged Hitler, among the causes of World War-II."
+      },
+      {
+       "q": "The number of Indian soldiers who fought in World War-II was more than:",
+       "options": [
+        "Two hundred thousand",
+        "One million",
+        "Two million",
+        "Five hundred thousand"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that more than two million Indian soldiers — the largest volunteer army of the war — fought for the Allies on many fronts."
+      },
+      {
+       "q": "The Indian National Army (Azad Hind Fauj) was formed by:",
+       "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Muhammad Ali Jinnah"
+       ],
+       "answer": 0,
+       "why": "The solved answer records that Subhas Chandra Bose formed the Indian National Army (Azad Hind Fauj) with Japanese support to fight the British for India's freedom."
+      },
+      {
+       "q": "Indian soldiers played a decisive role in stopping the Japanese advance in:",
+       "options": [
+        "Italy",
+        "North Africa",
+        "France",
+        "Burma"
+       ],
+       "answer": 3,
+       "why": "The solved answer says Indian soldiers fought especially in Burma against Japan and their role was decisive in stopping the Japanese advance towards India."
+      }
+     ]
+    },
+    {
+     "title": "The Cold War",
+     "notes_html": "<h4>What was the Cold War?</h4>\n<p>The <b>Cold War</b> was the long period of tension and rivalry (roughly <b>1945–1991 CE</b>) between the two superpowers that emerged from World War-II — the <b>capitalist USA</b> and the <b>communist Soviet Union (USSR)</b> — and their allies. It is called 'cold' because the two <b>never fought a direct war</b>, fearing nuclear destruction.</p>\n<h4>How it was Fought</h4>\n<p>Instead of direct war, the superpowers competed through the <b>arms race</b>, the <b>space race</b>, propaganda, espionage and <b>proxy wars</b> (e.g. Korea, Vietnam, Afghanistan). The USA made the pact of <b>NATO</b> — the North Atlantic Treaty Organization (<b>1949 CE</b>) — with its European allies; in response, the Soviet Union formed the <b>Warsaw Pact</b> with its allies in <b>1955 CE</b>.</p>\n<h4>Why it Began</h4>\n<p>The wartime allies had <b>opposite ideologies and aims</b>: the USSR set up communist governments in Eastern Europe as a protective belt, while the USA tried to stop the spread of communism (<b>containment</b>). Mutual distrust, the division of Germany and the race for influence over the world divided the globe into two hostile blocs.</p>",
+     "mcqs": [
+      {
+       "q": "The Cold War was started between:",
+       "options": [
+        "America and England",
+        "America and the Soviet Union",
+        "Russia and Europe",
+        "England and France"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ: the Cold War was started between America (the USA) and the Soviet Union after World War-II."
+      },
+      {
+       "q": "The Cold War is called 'cold' because the two superpowers:",
+       "options": [
+        "Fought only in winter",
+        "Used no weapons",
+        "Signed a peace treaty",
+        "Never fought a direct war"
+       ],
+       "answer": 3,
+       "why": "The solved answer explains it was 'cold' because the USA and the USSR never fought a direct war, fearing nuclear destruction, and competed indirectly instead."
+      },
+      {
+       "q": "The pact made between the USA and its European allies was:",
+       "options": [
+        "NATO",
+        "Warsaw Pact",
+        "SEATO",
+        "The League of Nations"
+       ],
+       "answer": 0,
+       "why": "The solved short answer names NATO — the North Atlantic Treaty Organization (1949 CE) — as the pact between the USA and its European allies."
+      },
+      {
+       "q": "NATO was formed in:",
+       "options": [
+        "1945 CE",
+        "1955 CE",
+        "1949 CE",
+        "1991 CE"
+       ],
+       "answer": 2,
+       "why": "The solved answer records NATO — the North Atlantic Treaty Organization — as formed in 1949 CE; the Soviet Union replied with the Warsaw Pact in 1955 CE."
+      },
+      {
+       "q": "The Soviet Union formed which pact in response to NATO?",
+       "options": [
+        "NATO (1949 CE)",
+        "The Triple Alliance",
+        "The UN Charter",
+        "The Warsaw Pact (1955 CE)"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that in response to NATO, the Soviet Union formed the Warsaw Pact with its allies in 1955 CE."
+      },
+      {
+       "q": "The American policy of stopping the spread of communism was called:",
+       "options": [
+        "Appeasement",
+        "Containment",
+        "Isolationism",
+        "Expansion"
+       ],
+       "answer": 1,
+       "why": "The solved answer explains that the USA tried to stop the spread of communism (containment), while the USSR set up communist governments in Eastern Europe as a protective belt."
+      },
+      {
+       "q": "The Cold War period is roughly:",
+       "options": [
+        "1914–1918 CE",
+        "1939–1945 CE",
+        "1945–1991 CE",
+        "1900–1945 CE"
+       ],
+       "answer": 2,
+       "why": "The solved detailed answer defines the Cold War as the long period of tension and rivalry, roughly 1945–1991 CE, between the capitalist USA and the communist Soviet Union."
+      },
+      {
+       "q": "Korea, Vietnam and Afghanistan are examples of Cold War:",
+       "options": [
+        "Proxy wars",
+        "Naval battles",
+        "Space missions",
+        "Trade wars"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists proxy wars (e.g. Korea, Vietnam, Afghanistan) among the ways the superpowers competed without fighting each other directly."
+      },
+      {
+       "q": "The USSR set up communist governments after World War-II in:",
+       "options": [
+        "Western Europe",
+        "South Asia",
+        "Latin America",
+        "Eastern Europe"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that the USSR set up communist governments in Eastern Europe as a protective belt, which the USA opposed through containment."
+      },
+      {
+       "q": "Besides the arms race, the superpowers also competed in the:",
+       "options": [
+        "Olympic boycott only",
+        "Space race",
+        "Film industry",
+        "Oil trade only"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the arms race, space race, propaganda, espionage and proxy wars as the fields of Cold War competition."
+      }
+     ]
+    },
+    {
+     "title": "The United Nations and the Consequences of World War II",
+     "notes_html": "<h4>The United Nations</h4>\n<p>The <b>United Nations (UN)</b> was established in <b>1945 CE</b> after World War-II. Its headquarters are in <b>New York, USA</b>, and the <b>International Court of Justice</b> is based in <b>The Hague, Netherlands</b>.</p>\n<h4>Basic Functions of the UN</h4>\n<ul>\n<li>To maintain <b>international peace and security</b> and prevent wars, settling disputes between countries peacefully</li>\n<li>To develop <b>friendly relations</b> among nations</li>\n<li>To promote <b>human rights</b> and fundamental freedoms</li>\n<li>To achieve international cooperation in solving economic, social, health and humanitarian problems through agencies like <b>WHO, UNICEF, UNESCO and FAO</b></li>\n<li>To provide help in disasters and to protect refugees</li>\n</ul>\n<h4>Consequences of World War-II</h4>\n<p>The war killed about <b>60 million people</b>, including the victims of the atomic bombs dropped on <b>Hiroshima and Nagasaki</b> (Japan), and caused great destruction of cities and economies. <b>Germany was divided</b> into East and West Germany, and Europe into two blocs. The <b>USA and the USSR emerged as two superpowers</b> and the Cold War began. The colonial empires of Britain and France weakened, and many countries of Asia and Africa, including <b>Pakistan and India (1947)</b>, gained independence. New deadly weapons, especially <b>nuclear weapons</b>, changed warfare forever.</p>",
+     "mcqs": [
+      {
+       "q": "The United Nations was established in:",
+       "options": [
+        "1942 CE",
+        "1943 CE",
+        "1944 CE",
+        "1945 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: the United Nations was established in 1945 CE, after World War-II."
+      },
+      {
+       "q": "The International Court of Justice is based in:",
+       "options": [
+        "The Hague, Netherlands",
+        "New York City, USA",
+        "London, England",
+        "Paris, France"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the International Court of Justice is based in The Hague, Netherlands, while the UN headquarters are in New York, USA."
+      },
+      {
+       "q": "The headquarters of the United Nations are in:",
+       "options": [
+        "The Hague, Netherlands",
+        "Geneva, Switzerland",
+        "New York, USA",
+        "London, England"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the UN headquarters are in New York, USA, and the International Court of Justice is based in The Hague, Netherlands."
+      },
+      {
+       "q": "Which UN agency works for children?",
+       "options": [
+        "WHO",
+        "UNESCO",
+        "FAO",
+        "UNICEF"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists UNICEF among the UN agencies (with WHO, UNESCO and FAO) that solve economic, social, health and humanitarian problems; UNICEF works for children."
+      },
+      {
+       "q": "The first basic function of the United Nations is to:",
+       "options": [
+        "Collect taxes from nations",
+        "Maintain international peace and security",
+        "Command a world army",
+        "Settle trade prices"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the UN's first basic function as maintaining international peace and security and preventing wars by settling disputes peacefully."
+      },
+      {
+       "q": "About how many people were killed in World War-II?",
+       "options": [
+        "About 6 million",
+        "About 16 million",
+        "About 60 million",
+        "About 100 million"
+       ],
+       "answer": 2,
+       "why": "The book's project answer records an enormous loss of life in World War-II — about 60 million people, including millions of civilians and the victims of the atomic bombs."
+      },
+      {
+       "q": "Atomic bombs in World War-II were dropped on:",
+       "options": [
+        "Hiroshima and Nagasaki",
+        "Tokyo and Osaka",
+        "Berlin and Hamburg",
+        "Warsaw and Krakow"
+       ],
+       "answer": 0,
+       "why": "The book's project answer names the victims of the atomic bombs dropped on Hiroshima and Nagasaki (Japan) among the losses of World War-II."
+      },
+      {
+       "q": "After World War-II, Germany was divided into:",
+       "options": [
+        "North and South Germany",
+        "Three zones only",
+        "Germany and Austria",
+        "East and West Germany"
+       ],
+       "answer": 3,
+       "why": "The book's project answer states that Germany was divided into East and West Germany, and Europe into two blocs, after World War-II."
+      },
+      {
+       "q": "The two superpowers that emerged from World War-II were:",
+       "options": [
+        "Britain and France",
+        "The USA and the USSR",
+        "Germany and Japan",
+        "The USA and Britain"
+       ],
+       "answer": 1,
+       "why": "The book's project answer records that the USA and the USSR emerged as two superpowers after World War-II, and the Cold War began between them."
+      },
+      {
+       "q": "One result of World War-II for Asia and Africa was that:",
+       "options": [
+        "Colonial empires became stronger",
+        "Many colonies, including Pakistan and India, gained independence",
+        "All colonies were given to the USA",
+        "Independence movements ended"
+       ],
+       "answer": 1,
+       "why": "The book's project answer states that the colonial empires of Britain and France weakened and many countries of Asia and Africa, including Pakistan and India (1947), gained independence."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4: Political Awakening in the Subcontinent",
+   "lessons": [
+    {
+     "title": "The Congress, the Partition of Bengal and the Simla Deputation",
+     "notes_html": "<h4>The Indian National Congress</h4>\n<p>The <b>Indian National Congress</b> was established in <b>1885 CE</b> in the city of <b>Bombay</b>. Gradually it became a Hindu-dominated body which claimed to represent all Indians but ignored Muslim interests.</p>\n<h4>The Partition of Bengal 1905</h4>\n<p>The <b>Partition of Bengal (1905 CE)</b> favoured the Muslims: the new province of <b>East Bengal and Assam</b> had a Muslim majority with <b>Dhaka</b> as its capital, ending the domination of the Hindu landlords, lawyers and money-lenders of Calcutta. Muslims got more jobs, educational institutions and development in their neglected region, and it awakened them politically. When the partition was <b>annulled in 1911 CE</b> under Hindu pressure, the Muslims learned that they needed their own political party.</p>\n<h4>The Simla Deputation 1906</h4>\n<p>The <b>Simla Deputation</b> — a delegation of <b>35 Muslim leaders</b> which met the Viceroy <b>Lord Minto</b> at Simla on <b>1 October 1906</b> — was led by <b>Sir Aga Khan (Aga Khan III)</b>. It demanded <b>separate electorates</b> and representation for the Muslims, which the Viceroy promised to accept. Its success encouraged the Muslim leaders to found their own political party.</p>",
+     "mcqs": [
+      {
+       "q": "The Indian National Congress was established in 1885 in the city of:",
+       "options": [
+        "Bombay",
+        "Delhi",
+        "Lahore",
+        "Calcutta"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the Indian National Congress was established in 1885 in the city of Bombay."
+      },
+      {
+       "q": "The Partition of Bengal was annulled in:",
+       "options": [
+        "1913 CE",
+        "1915 CE",
+        "1911 CE",
+        "1917 CE"
+       ],
+       "answer": 2,
+       "why": "The book's own MCQ: the Partition of Bengal (1905) was annulled in 1911 CE under Hindu pressure."
+      },
+      {
+       "q": "The Simla Deputation met with:",
+       "options": [
+        "Lord Canning",
+        "Lord Curzon",
+        "Lord Rippon",
+        "Lord Minto"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: the Simla Deputation met with the Viceroy Lord Minto at Simla on 1 October 1906."
+      },
+      {
+       "q": "The Simla Deputation was led by:",
+       "options": [
+        "Nawab Salimullah Khan",
+        "Sir Aga Khan",
+        "Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Simla Deputation (1906), a delegation of 35 Muslim leaders, was led by Sir Aga Khan (Aga Khan III)."
+      },
+      {
+       "q": "The Simla Deputation consisted of how many Muslim leaders?",
+       "options": [
+        "25",
+        "40",
+        "35",
+        "50"
+       ],
+       "answer": 2,
+       "why": "The solved answer describes the Simla Deputation as a delegation of 35 Muslim leaders which met Lord Minto at Simla on 1 October 1906."
+      },
+      {
+       "q": "The main demand of the Simla Deputation was:",
+       "options": [
+        "Separate electorates for Muslims",
+        "A separate Muslim state",
+        "Dismissal of the Viceroy",
+        "Urdu as the official language"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that the Deputation demanded separate electorates and representation for the Muslims, which the Viceroy promised to accept."
+      },
+      {
+       "q": "The capital of the new province of East Bengal and Assam was:",
+       "options": [
+        "Calcutta",
+        "Chittagong",
+        "Sylhet",
+        "Dhaka"
+       ],
+       "answer": 3,
+       "why": "The book's project answer records that the new province of East Bengal and Assam had a Muslim majority with Dhaka as its capital."
+      },
+      {
+       "q": "The Partition of Bengal took place in:",
+       "options": [
+        "1885 CE",
+        "1905 CE",
+        "1906 CE",
+        "1911 CE"
+       ],
+       "answer": 1,
+       "why": "The book's project answer dates the Partition of Bengal to 1905 CE; it was annulled in 1911 CE under Hindu pressure."
+      },
+      {
+       "q": "The annulment of the Bengal partition taught the Muslims that:",
+       "options": [
+        "The Congress would protect them",
+        "They needed their own political party",
+        "The British were their friends",
+        "Politics was useless"
+       ],
+       "answer": 1,
+       "why": "The book's project answer concludes that when the partition was annulled in 1911, the Muslims learned they needed their own political party — a lesson applied in founding the Muslim League at Dhaka in 1906."
+      },
+      {
+       "q": "The Simla Deputation met the Viceroy on:",
+       "options": [
+        "30 December 1906",
+        "1 October 1905",
+        "23 March 1940",
+        "1 October 1906"
+       ],
+       "answer": 3,
+       "why": "The solved answer dates the Simla Deputation to 1 October 1906; the Muslim League was founded later that year, on 30 December 1906."
+      }
+     ]
+    },
+    {
+     "title": "The Muslim League: Background, Establishment and Objectives",
+     "notes_html": "<h4>Background</h4>\n<p>Several events formed the background of the Muslim League's establishment: after 1857 the Muslims were backward in education and jobs, and <b>Sir Syed's movement</b> awakened them politically; the <b>Congress</b> (founded 1885) gradually became a Hindu-dominated body; the <b>Urdu-Hindi controversy (1867)</b> convinced the Muslims that their rights could not be protected by the Congress; the <b>Partition of Bengal (1905)</b> controversy taught them the need for their own organization; and the success of the <b>Simla Deputation (October 1906)</b> encouraged the leaders.</p>\n<h4>Establishment</h4>\n<p>The <b>All India Muslim League</b> was established on <b>30 December 1906 CE at Dhaka</b>, during the annual session of the Muhammadan Educational Conference. <b>Nawab Salimullah Khan</b> of Dhaka proposed its formation; <b>Aga Khan</b> was elected its first President.</p>\n<h4>Objectives</h4>\n<ul>\n<li>To <b>protect and advance the political rights and interests</b> of the Muslims of India and represent their needs to the government</li>\n<li>To promote among the Muslims feelings of <b>loyalty to the British government</b> and remove misunderstandings</li>\n<li>To promote feelings of <b>friendliness between the Muslims and other communities</b> of India</li>\n</ul>\n<p>Under Quaid-e-Azam's leadership its objective later developed into the demand for a <b>separate homeland — Pakistan</b>, achieved in 1947.</p>",
+     "mcqs": [
+      {
+       "q": "The Muslim League was established in:",
+       "options": [
+        "1900 CE",
+        "1910 CE",
+        "1906 CE",
+        "1916 CE"
+       ],
+       "answer": 2,
+       "why": "The book's own MCQ: the All India Muslim League was established in 1906 CE, on 30 December at Dhaka."
+      },
+      {
+       "q": "The Muslim League was established at:",
+       "options": [
+        "Delhi",
+        "Lucknow",
+        "Aligarh",
+        "Dhaka"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that the All India Muslim League was established on 30 December 1906 CE at Dhaka, during the annual session of the Muhammadan Educational Conference."
+      },
+      {
+       "q": "The formation of the Muslim League was proposed by:",
+       "options": [
+        "Sir Aga Khan",
+        "Nawab Salimullah Khan",
+        "Muhammad Ali Jinnah",
+        "Nawab Mohsin-ul-Mulk"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that Nawab Salimullah Khan of Dhaka proposed the League's formation; Aga Khan was elected its first President."
+      },
+      {
+       "q": "The first President of the Muslim League was:",
+       "options": [
+        "Nawab Salimullah Khan",
+        "Muhammad Ali Jinnah",
+        "Aga Khan",
+        "Liaquat Ali Khan"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that Aga Khan was elected the first President of the All India Muslim League at its foundation in 1906."
+      },
+      {
+       "q": "The Muslim League was founded during the annual session of:",
+       "options": [
+        "The Muhammadan Educational Conference",
+        "The Indian National Congress",
+        "The Khilafat Committee",
+        "The Legislative Council"
+       ],
+       "answer": 0,
+       "why": "The solved answer records that the League was founded on 30 December 1906 at Dhaka during the annual session of the Muhammadan Educational Conference."
+      },
+      {
+       "q": "Which event of 1867 convinced Muslims they needed separate political protection?",
+       "options": [
+        "The War of Independence",
+        "The Bengal partition",
+        "The Simla Deputation",
+        "The Urdu-Hindi controversy"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists the Urdu-Hindi controversy (1867) among the events that convinced the Muslims their rights could not be protected by the Congress."
+      },
+      {
+       "q": "The first objective of the Muslim League was to:",
+       "options": [
+        "Win a separate homeland at once",
+        "Protect the political rights and interests of the Muslims",
+        "Oppose the British government",
+        "Merge with the Congress"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the first objective as protecting and advancing the political rights and interests of the Muslims of India; the separate-homeland objective developed later under Quaid-e-Azam."
+      },
+      {
+       "q": "One objective of the League was to promote loyalty among Muslims towards:",
+       "options": [
+        "The Mughal emperor",
+        "The British government",
+        "The Ottoman Caliph",
+        "The Congress"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists among the objectives: to promote among the Muslims feelings of loyalty to the British government and remove misunderstandings."
+      },
+      {
+       "q": "The League also aimed to promote friendliness between Muslims and:",
+       "options": [
+        "The British Parliament",
+        "Foreign countries",
+        "The princely states",
+        "Other communities of India"
+       ],
+       "answer": 3,
+       "why": "The solved answer gives the third objective: to promote feelings of friendliness between the Muslims and other communities of India."
+      },
+      {
+       "q": "Under Quaid-e-Azam, the League's objective developed into the demand for:",
+       "options": [
+        "A separate homeland, Pakistan",
+        "Dominion status within India",
+        "A united Bengal",
+        "Provincial autonomy only"
+       ],
+       "answer": 0,
+       "why": "The solved answer concludes that under Quaid-e-Azam's leadership the League's objective developed into the demand for a separate homeland, achieved as Pakistan in 1947."
+      }
+     ]
+    },
+    {
+     "title": "The Lucknow Pact and the Khilafat Movement",
+     "notes_html": "<h4>The Lucknow Pact 1916</h4>\n<p>The <b>Lucknow Pact (1916 CE)</b> was an agreement between the Muslim League and the Congress, largely due to the efforts of Quaid-e-Azam, then called the <b>'Ambassador of Hindu-Muslim Unity'</b>. Its important points: both parties jointly demanded <b>self-government (Home Rule)</b> for India; the Congress accepted the Muslim demand of <b>separate electorates</b>; Muslims would get <b>one-third</b> of the elected seats in the Central Legislature and fixed shares in the provinces (e.g. 50% in Punjab, 40% in Bengal); and no law concerning a community would be passed if <b>three-fourths</b> of that community's members opposed it.</p>\n<h4>The Khilafat Movement 1919-1924</h4>\n<p>The <b>Khilafat Movement (1919-1924 CE)</b> was launched by the Muslims of India to protect the <b>Ottoman Caliphate (Khilafat)</b> and the holy places of Islam after the defeat of Turkey in World War-I. The British had promised not to harm the Khilafat, but after the war they divided the Ottoman Empire. Under the leadership of the <b>Ali Brothers</b> (Maulana Muhammad Ali Jauhar and Maulana Shaukat Ali), Maulana Abul Kalam Azad and others, the Muslims protested, boycotted British goods and cooperated with <b>Gandhi's Non-Cooperation Movement</b>; thousands migrated towards Afghanistan in the <b>Hijrat Movement</b>.</p>\n<h4>End and Importance</h4>\n<p>The Moplah rising and the <b>Chauri Chaura incident (1922)</b> led Gandhi to end Non-Cooperation, and in <b>1924</b> Mustafa Kemal Ataturk himself abolished the Khilafat in Turkey, ending the movement. Its importance: it politically awakened the Muslims of India, trained them in mass struggle and brought ulema and western-educated Muslims together — experience which later served the Pakistan Movement.</p>",
+     "mcqs": [
+      {
+       "q": "The Lucknow Pact was signed in:",
+       "options": [
+        "1906 CE",
+        "1919 CE",
+        "1928 CE",
+        "1916 CE"
+       ],
+       "answer": 3,
+       "why": "The solved answer dates the Lucknow Pact to 1916 CE — an agreement between the Muslim League and the Congress, largely due to Quaid-e-Azam's efforts."
+      },
+      {
+       "q": "Quaid-e-Azam was called the 'Ambassador of Hindu-Muslim Unity' for his role in:",
+       "options": [
+        "The Lahore Resolution",
+        "The Lucknow Pact",
+        "The Simla Deputation",
+        "The Khilafat Movement"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Lucknow Pact (1916) was largely due to the efforts of Quaid-e-Azam, then called the 'Ambassador of Hindu-Muslim Unity'."
+      },
+      {
+       "q": "Under the Lucknow Pact, the Congress accepted the Muslim demand of:",
+       "options": [
+        "A separate homeland",
+        "One-third seats for Hindus",
+        "Separate electorates",
+        "Urdu as national language"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists among the Pact's points that the Congress accepted the Muslim demand of separate electorates, reversing its earlier position."
+      },
+      {
+       "q": "The Lucknow Pact gave Muslims what share of elected seats in the Central Legislature?",
+       "options": [
+        "One-third",
+        "One-fourth",
+        "One-half",
+        "Two-thirds"
+       ],
+       "answer": 0,
+       "why": "The solved answer records that under the Lucknow Pact Muslims would get one-third of the elected seats in the Central Legislature, plus fixed shares in the provinces."
+      },
+      {
+       "q": "The Khilafat Movement was launched to protect:",
+       "options": [
+        "The Mughal Empire",
+        "The Muslim League",
+        "The princely states",
+        "The Ottoman Caliphate and the holy places of Islam"
+       ],
+       "answer": 3,
+       "why": "The solved answer defines the Khilafat Movement (1919-1924 CE) as the movement to protect the Ottoman Caliphate (Khilafat) and the holy places of Islam after Turkey's defeat in World War-I."
+      },
+      {
+       "q": "The Khilafat Movement was led by the Ali Brothers — Maulana Muhammad Ali Jauhar and:",
+       "options": [
+        "Maulana Abul Kalam Azad only",
+        "Maulana Shaukat Ali",
+        "Sir Aga Khan",
+        "Nawab Salimullah Khan"
+       ],
+       "answer": 1,
+       "why": "The solved answer names the leadership: the Ali Brothers (Maulana Muhammad Ali Jauhar and Maulana Shaukat Ali), Maulana Abul Kalam Azad and others."
+      },
+      {
+       "q": "The Khilafat Movement cooperated with Gandhi's:",
+       "options": [
+        "Civil Disobedience Movement",
+        "Non-Cooperation Movement",
+        "Quit India Movement",
+        "Swadeshi Movement"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Khilafat leaders cooperated with Gandhi's Non-Cooperation Movement — people boycotted British goods, titles, schools and courts."
+      },
+      {
+       "q": "The migration of Muslims towards Afghanistan during the Khilafat Movement is called the:",
+       "options": [
+        "Khilafat March",
+        "Hijaz Movement",
+        "Refugee Movement",
+        "Hijrat Movement"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that during the movement thousands migrated towards Afghanistan in the Hijrat Movement."
+      },
+      {
+       "q": "Gandhi ended the Non-Cooperation Movement after:",
+       "options": [
+        "The Chauri Chaura incident (1922)",
+        "The Jallianwala Bagh incident",
+        "The Lucknow Pact",
+        "The Nehru Report"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that the Moplah rising and the Chauri Chaura incident (1922) led Gandhi to end the Non-Cooperation Movement."
+      },
+      {
+       "q": "The Khilafat Movement finally ended in 1924 when:",
+       "options": [
+        "The British restored the Caliph",
+        "The Ali Brothers were exiled",
+        "Mustafa Kemal Ataturk abolished the Khilafat in Turkey",
+        "The Congress withdrew support"
+       ],
+       "answer": 2,
+       "why": "The solved answer records that in 1924 Mustafa Kemal Ataturk himself abolished the Khilafat in Turkey, and the movement ended."
+      }
+     ]
+    },
+    {
+     "title": "Nehru Report, Fourteen Points and Civil Disobedience",
+     "notes_html": "<h4>The Nehru Report 1928</h4>\n<p>The <b>Nehru Report (1928 CE)</b> was a constitutional proposal prepared by a committee under <b>Motilal Nehru</b>. The Muslims refused to accept it because it <b>rejected separate electorates</b>, gave them no proper share (one-third) in the central legislature, opposed residuary powers for the provinces, and proposed a <b>unitary (strong-centre)</b> system. Quaid-e-Azam called it a <b>'parting of the ways'</b> and replied with his Fourteen Points.</p>\n<h4>The Fourteen Points 1929</h4>\n<p>Quaid-e-Azam presented his <b>Fourteen Points in 1929 CE</b>. Their highlights: a <b>federal system</b> with residuary powers with the provinces; uniform provincial autonomy; adequate minority representation; <b>one-third Muslim representation</b> in the Central Legislature; continuation of <b>separate electorates</b>; no territorial change affecting the Muslim majority in Punjab, Bengal and NWFP; full religious freedom; <b>Sindh separated from Bombay</b>; reforms in NWFP and Balochistan; adequate Muslim share in the services; protection of Muslim culture, education, language and personal law; <b>one-third Muslim ministers</b> in cabinets; and no constitutional change without the consent of the federating units. These points became the <b>basic charter of Muslim demands</b>.</p>\n<h4>The Civil Disobedience Movement 1930</h4>\n<p>The <b>Civil Disobedience Movement</b> was started by <b>Gandhi</b> and the Congress in <b>1930 CE</b> to protest against British rule and press for complete independence (Purna Swaraj). It began with Gandhi's <b>Salt March to Dandi</b>, where he broke the salt law; people refused to obey British laws, boycotted foreign goods and did not pay taxes. The Muslim League kept aloof, because the Muslims had lost trust in the Congress after the Nehru Report, so Hindu-Muslim unity weakened and the two nations moved towards the demand for separate homelands.</p>",
+     "mcqs": [
+      {
+       "q": "Quaid-e-Azam presented his Fourteen Points in:",
+       "options": [
+        "1919 CE",
+        "1929 CE",
+        "1928 CE",
+        "1940 CE"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ: Quaid-e-Azam presented his Fourteen Points in 1929 CE, in reply to the Nehru Report."
+      },
+      {
+       "q": "The Nehru Report was prepared in:",
+       "options": [
+        "1916 CE",
+        "1929 CE",
+        "1928 CE",
+        "1930 CE"
+       ],
+       "answer": 2,
+       "why": "The solved answer dates the Nehru Report to 1928 CE — a constitutional proposal prepared by a committee under Motilal Nehru."
+      },
+      {
+       "q": "The Nehru Report was prepared by a committee under:",
+       "options": [
+        "Motilal Nehru",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Lord Irwin"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that the Nehru Report (1928 CE) was a constitutional proposal prepared by a committee under Motilal Nehru."
+      },
+      {
+       "q": "Muslims rejected the Nehru Report mainly because it:",
+       "options": [
+        "Demanded a separate Muslim state",
+        "Gave Muslims one-third seats",
+        "Proposed a federal system",
+        "Rejected separate electorates for Muslims"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists the reasons: it rejected separate electorates, gave Muslims no one-third share in the central legislature, opposed residuary powers for the provinces and proposed a unitary system."
+      },
+      {
+       "q": "Quaid-e-Azam called the Nehru Report a:",
+       "options": [
+        "'Charter of freedom'",
+        "'Parting of the ways'",
+        "'Step forward'",
+        "'Victory for unity'"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that Quaid-e-Azam called the Nehru Report a 'parting of the ways' and replied with his Fourteen Points (1929 CE)."
+      },
+      {
+       "q": "The Fourteen Points demanded a system for India that was:",
+       "options": [
+        "Unitary, with a strong centre",
+        "Federal, with residuary powers with the provinces",
+        "Confederal under the British Crown",
+        "Divided into independent kingdoms"
+       ],
+       "answer": 1,
+       "why": "The solved answer lists the first highlight of the Fourteen Points: India should have a federal system with residuary powers with the provinces."
+      },
+      {
+       "q": "One of the Fourteen Points demanded that Sindh be separated from:",
+       "options": [
+        "Punjab",
+        "Balochistan",
+        "Bengal",
+        "Bombay"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists among the Fourteen Points: Sindh should be separated from Bombay, and reforms should be introduced in NWFP and Balochistan."
+      },
+      {
+       "q": "The Fourteen Points demanded what share of Muslim ministers in cabinets?",
+       "options": [
+        "One-third",
+        "One-fourth",
+        "One-half",
+        "Two-thirds"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists: no cabinet (centre or province) should be formed without one-third Muslim ministers — matching the one-third representation demanded in the Central Legislature."
+      },
+      {
+       "q": "The Civil Disobedience Movement was started in:",
+       "options": [
+        "1920 CE",
+        "1928 CE",
+        "1930 CE",
+        "1942 CE"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the Civil Disobedience Movement was started by Gandhi and the Congress in 1930 CE, beginning with the Salt March to Dandi."
+      },
+      {
+       "q": "The Civil Disobedience Movement began with Gandhi's:",
+       "options": [
+        "Hunger strike at Delhi",
+        "March to Simla",
+        "Boycott of the Round Table Conference",
+        "Salt March to Dandi"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that the movement began with Gandhi's Salt March to Dandi, where he broke the salt law; people then refused to obey British laws and boycotted foreign goods."
+      }
+     ]
+    },
+    {
+     "title": "Round Table Conferences, Communal Award and Cripps Proposals",
+     "notes_html": "<h4>The Round Table Conferences</h4>\n<p>The <b>First Round Table Conference</b> was held in <b>1930 CE</b> in London to discuss India's constitutional future. Further conferences followed in 1931 and 1932; the Civil Disobedience Movement was interrupted by the <b>Gandhi-Irwin Pact (1931)</b> so that the Congress could attend.</p>\n<h4>The Communal Award 1932</h4>\n<p>The <b>Communal Award</b> was presented in <b>1932 CE</b> by the British government, announcing separate electorates and seat shares for the different communities. Coming after the failure of the conferences to agree, it further widened the gulf between Hindus and Muslims.</p>\n<h4>The Cripps Proposals 1942</h4>\n<p>The <b>Cripps Proposals</b> were presented in <b>1942 CE</b>, during World War-II, offering India dominion status after the war. Both the Congress and the Muslim League rejected them. After their failure, the Congress launched the <b>Quit India Movement</b> in <b>August 1942 CE</b> to compel the British to leave India immediately and hand over power to the Indians. The Muslim League did not join it, considering it a move to establish Congress (Hindu) rule.</p>",
+     "mcqs": [
+      {
+       "q": "The First Round Table Conference was held in:",
+       "options": [
+        "1928 CE",
+        "1931 CE",
+        "1930 CE",
+        "1932 CE"
+       ],
+       "answer": 2,
+       "why": "The book's own MCQ: the First Round Table Conference was held in 1930 CE in London."
+      },
+      {
+       "q": "The Communal Award was presented in:",
+       "options": [
+        "1932 CE",
+        "1931 CE",
+        "1933 CE",
+        "1934 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the Communal Award was presented in 1932 CE by the British government."
+      },
+      {
+       "q": "Cripps Proposals were presented in:",
+       "options": [
+        "1940 CE",
+        "1941 CE",
+        "1943 CE",
+        "1942 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: the Cripps Proposals were presented in 1942 CE, during World War-II."
+      },
+      {
+       "q": "The Round Table Conferences were held in:",
+       "options": [
+        "Delhi",
+        "London",
+        "Simla",
+        "Bombay"
+       ],
+       "answer": 1,
+       "why": "The solved answers place the Round Table Conferences in London — the First in 1930 CE — where Indian leaders discussed the constitutional future with the British government."
+      },
+      {
+       "q": "The Gandhi-Irwin Pact, which paused the Civil Disobedience Movement, was signed in:",
+       "options": [
+        "1930 CE",
+        "1931 CE",
+        "1932 CE",
+        "1942 CE"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the Civil Disobedience Movement was interrupted by the Gandhi-Irwin Pact (1931) and the Round Table Conferences."
+      },
+      {
+       "q": "The Communal Award dealt with:",
+       "options": [
+        "Land reforms",
+        "The division of Bengal",
+        "Army recruitment",
+        "Separate electorates and seat shares for communities"
+       ],
+       "answer": 3,
+       "why": "The chapter's solved answers present the Communal Award (1932) as the British announcement on electorates and community representation, which further widened the Hindu-Muslim gulf."
+      },
+      {
+       "q": "The Cripps Proposals offered India, after the war:",
+       "options": [
+        "Dominion status",
+        "Complete independence at once",
+        "A separate Pakistan",
+        "Provincial autonomy only"
+       ],
+       "answer": 0,
+       "why": "The solved narrative records that the Cripps Proposals (1942) offered dominion status after the war and were rejected; the Congress then launched the Quit India Movement."
+      },
+      {
+       "q": "The Quit India Movement was launched in:",
+       "options": [
+        "August 1930 CE",
+        "March 1940 CE",
+        "August 1942 CE",
+        "August 1947 CE"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the Quit India Movement was launched by Gandhi and the Congress in August 1942 CE, after the failure of the Cripps Proposals."
+      },
+      {
+       "q": "The purpose of the Quit India Movement was to:",
+       "options": [
+        "Support the British war effort",
+        "Demand separate electorates",
+        "Boycott the Muslim League",
+        "Compel the British to leave India immediately"
+       ],
+       "answer": 3,
+       "why": "The solved answer explains its purpose: to compel the British to leave India immediately ('Quit India') and hand over power to the Indians during World War-II."
+      },
+      {
+       "q": "The Muslim League did not join the Quit India Movement because it considered it:",
+       "options": [
+        "Too weak a movement",
+        "A move to establish Congress (Hindu) rule",
+        "A British conspiracy",
+        "Against the Khilafat"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the Muslim League did not join the Quit India Movement, considering it a move to establish Congress (Hindu) rule."
+      }
+     ]
+    },
+    {
+     "title": "The Lahore (Pakistan) Resolution 1940",
+     "notes_html": "<h4>The Lahore Session</h4>\n<p>The annual session of the All India Muslim League was held at <b>Minto Park, Lahore (22-24 March 1940 CE)</b>, presided over by <b>Quaid-e-Azam Muhammad Ali Jinnah</b>. The <b>Lahore Resolution</b> was presented by <b>A. K. Fazlul Haq</b> (the Tiger of Bengal) and passed on <b>23 March 1940 CE</b>.</p>\n<h4>The Demand</h4>\n<p>The Resolution demanded that the Muslim-majority areas in the <b>north-western and eastern zones</b> of India should be grouped to constitute <b>'Independent States'</b> in which the constituent units would be autonomous and sovereign — in other words, a <b>separate homeland</b> for the Muslims.</p>\n<h4>Why it is Called the Pakistan Resolution</h4>\n<p>The Hindu press and newspapers immediately nicknamed it the <b>'Pakistan Resolution'</b> — because the state it demanded was the Pakistan proposed by <b>Chaudhry Rahmat Ali (1933)</b>. The name became so popular that the Resolution is remembered by it; and when Pakistan was created on <b>14 August 1947</b>, the demand of the Lahore Resolution was fulfilled.</p>\n<h4>Deliverance Day and the Lyallpur Address</h4>\n<p>When the Congress ministries resigned in 1939, Quaid-e-Azam advised the Muslims to celebrate a <b>Deliverance Day in 1939 CE</b>. At a meeting at <b>Dhobi Ghat, Lyallpur (Faisalabad) in 1942 CE</b>, he assured the minorities: <b>'Pakistan would be the solution of all problems of minorities'</b>, and equal rights would be granted to all minorities in Pakistan. His leadership — uniting the Muslims, arguing their case constitutionally and winning a homeland within seven years of the Resolution — rightly earned him the title <b>Quaid-e-Azam (the Great Leader)</b>.</p>",
+     "mcqs": [
+      {
+       "q": "The Pakistan Resolution was passed in:",
+       "options": [
+        "1940 CE",
+        "1939 CE",
+        "1941 CE",
+        "1942 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the Pakistan (Lahore) Resolution was passed in 1940 CE — on 23 March 1940 at Lahore."
+      },
+      {
+       "q": "Quaid-e-Azam advised the Muslims to celebrate a Deliverance Day in:",
+       "options": [
+        "1936 CE",
+        "1937 CE",
+        "1938 CE",
+        "1939 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: Quaid-e-Azam advised the Muslims to celebrate a Deliverance Day in 1939 CE, when the Congress ministries resigned."
+      },
+      {
+       "q": "The Lahore session of the Muslim League (1940) was presided over by:",
+       "options": [
+        "A. K. Fazlul Haq",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Nawab Salimullah Khan"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the annual session at Lahore (22-24 March 1940), in which the Lahore Resolution was passed, was presided over by Quaid-e-Azam Muhammad Ali Jinnah."
+      },
+      {
+       "q": "The Lahore Resolution was presented (moved) by:",
+       "options": [
+        "Muhammad Ali Jinnah",
+        "A. K. Fazlul Haq",
+        "Chaudhry Rahmat Ali",
+        "Allama Iqbal"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the Resolution was presented by A. K. Fazlul Haq, the 'Tiger of Bengal'; Jinnah presided over the session."
+      },
+      {
+       "q": "The Lahore Resolution was passed on:",
+       "options": [
+        "14 August 1940 CE",
+        "23 March 1939 CE",
+        "30 December 1940 CE",
+        "23 March 1940 CE"
+       ],
+       "answer": 3,
+       "why": "The solved answer dates the passing of the Lahore Resolution to 23 March 1940 CE at Minto Park, Lahore — now celebrated as Pakistan Day."
+      },
+      {
+       "q": "The Lahore Resolution demanded 'Independent States' for the Muslim-majority areas in the:",
+       "options": [
+        "North-western and eastern zones",
+        "Southern and central zones",
+        "Coastal zones only",
+        "Princely states only"
+       ],
+       "answer": 0,
+       "why": "The solved answer states that the Resolution demanded the Muslim-majority areas in the north-western and eastern zones of India be grouped to constitute 'Independent States'."
+      },
+      {
+       "q": "The name 'Pakistan' for the proposed state was given earlier, in 1933, by:",
+       "options": [
+        "Allama Iqbal",
+        "A. K. Fazlul Haq",
+        "Chaudhry Rahmat Ali",
+        "Liaquat Ali Khan"
+       ],
+       "answer": 2,
+       "why": "The solved answer explains that the state demanded was the Pakistan proposed by Chaudhry Rahmat Ali (1933), which is why the Hindu press nicknamed the Lahore Resolution the 'Pakistan Resolution'."
+      },
+      {
+       "q": "The Lahore Resolution was nicknamed the 'Pakistan Resolution' by:",
+       "options": [
+        "The British government",
+        "The Muslim League itself",
+        "The Congress working committee",
+        "The Hindu press and newspapers"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that the Hindu press and newspapers immediately nicknamed it the 'Pakistan Resolution', and the name became so popular that the Resolution is remembered by it."
+      },
+      {
+       "q": "At Lyallpur (Faisalabad) in 1942, Quaid-e-Azam assured the minorities that:",
+       "options": [
+        "Minorities would have separate electorates only",
+        "'Pakistan would be the solution of all problems of minorities'",
+        "Minorities must join the Muslim League",
+        "Pakistan would have no minorities"
+       ],
+       "answer": 1,
+       "why": "The solved answer quotes Quaid-e-Azam at Dhobi Ghat, Lyallpur (1942): equal rights would be granted to all minorities in Pakistan — 'Pakistan would be the solution of all problems of minorities.'"
+      },
+      {
+       "q": "The title 'Quaid-e-Azam' means:",
+       "options": [
+        "The Father of the Nation",
+        "The Ambassador of Unity",
+        "The Great Leader",
+        "The Tiger of Bengal"
+       ],
+       "answer": 2,
+       "why": "The book's project answer explains that the title 'Quaid-e-Azam' (the Great Leader) was rightly earned by Muhammad Ali Jinnah for uniting the Muslims and winning Pakistan in 1947."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5: Pakistan a New Country: 1947 till Today",
+   "lessons": [
+    {
+     "title": "Early Problems of Pakistan",
+     "notes_html": "<h4>Administrative and Refugee Problems</h4>\n<p>Pakistan faced many severe problems after independence in 1947 CE. <b>Administrative:</b> there was no capital, no offices, no trained staff; government had to be set up from nothing, with <b>Quaid-e-Azam</b> as the first Governor General and <b>Liaquat Ali Khan</b> as Prime Minister. <b>Refugee:</b> about <b>7 million Muslim refugees</b> poured in from India, homeless and penniless, and had to be fed, sheltered and resettled, while communal massacres took a heavy toll.</p>\n<h4>Division of Assets</h4>\n<p>Pakistan's share in the division of assets was <b>17.5 percent</b>. In the cash balances, Pakistan's share came to <b>Rs. 750 million</b>; India paid only Rs. 200 million at first and released the remaining <b>Rs. 550 million later (in January 1948, after Gandhi's fast)</b>. Pakistan also received its 17.5% share of the military stores and other government assets, though much of it was delivered late or in damaged condition.</p>\n<h4>Other Problems</h4>\n<p><b>Canal water dispute:</b> India cut off the water of the canals flowing into Pakistan (1948), threatening its agriculture. <b>Accession of princely states:</b> disputes over Junagadh, Hyderabad and above all <b>Kashmir</b>, which led to the first Kashmir war (1947-48) and remains unsolved. <b>Financial:</b> almost no industry, banks or treasury. <b>Constitutional:</b> no constitution; the state ran on the amended Government of India Act 1935, and framing a constitution took nine years. In spite of all these problems, Pakistan survived and consolidated itself by the determination of its leaders and people.</p>",
+     "mcqs": [
+      {
+       "q": "Pakistan's share in the division of assets at Partition was:",
+       "options": [
+        "10 percent",
+        "25 percent",
+        "33 percent",
+        "17.5 percent"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that Pakistan's share in the division of assets was 17.5 percent, in cash, military stores and other government assets."
+      },
+      {
+       "q": "Pakistan's share of the cash balances came to:",
+       "options": [
+        "Rs. 200 million",
+        "Rs. 750 million",
+        "Rs. 550 million",
+        "Rs. 100 million"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that Pakistan's share of the cash balances was Rs. 750 million; India paid Rs. 200 million at first and released the remaining Rs. 550 million later."
+      },
+      {
+       "q": "India released the remaining Rs. 550 million to Pakistan in January 1948 after:",
+       "options": [
+        "A UN resolution",
+        "Gandhi's fast",
+        "The Kashmir ceasefire",
+        "Liaquat Ali Khan's visit to Delhi"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that India released the remaining Rs. 550 million in January 1948, after Gandhi's fast."
+      },
+      {
+       "q": "About how many Muslim refugees poured into Pakistan after independence?",
+       "options": [
+        "About 1 million",
+        "About 3 million",
+        "About 20 million",
+        "About 7 million"
+       ],
+       "answer": 3,
+       "why": "The solved answer gives the refugee problem: about 7 million Muslim refugees poured in from India, homeless and penniless, and had to be fed, sheltered and resettled."
+      },
+      {
+       "q": "Pakistan's first Governor General was:",
+       "options": [
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Lord Mountbatten",
+        "Ayub Khan"
+       ],
+       "answer": 0,
+       "why": "The solved answer records the administrative setup: Quaid-e-Azam as the first Governor General and Liaquat Ali Khan as Prime Minister."
+      },
+      {
+       "q": "Pakistan's first Prime Minister was:",
+       "options": [
+        "Muhammad Ali Jinnah",
+        "Khawaja Nazimuddin",
+        "Liaquat Ali Khan",
+        "Iskander Mirza"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that Liaquat Ali Khan became Pakistan's first Prime Minister, with Quaid-e-Azam as the first Governor General."
+      },
+      {
+       "q": "India cut off Pakistan's canal water in:",
+       "options": [
+        "1947 CE",
+        "1950 CE",
+        "1960 CE",
+        "1948 CE"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists the canal water dispute: India cut off water of the canals flowing into Pakistan (1948), threatening its agriculture."
+      },
+      {
+       "q": "The princely-state dispute that led to the first war of 1947-48 was over:",
+       "options": [
+        "Junagadh only",
+        "Kashmir",
+        "Hyderabad only",
+        "Bahawalpur"
+       ],
+       "answer": 1,
+       "why": "The solved answer names disputes over Junagadh, Hyderabad and above all Kashmir, which led to the first Kashmir war (1947-48) and remains unsolved."
+      },
+      {
+       "q": "Until Pakistan framed its own constitution, the country ran on the amended:",
+       "options": [
+        "Indian Independence Act",
+        "Objectives Resolution only",
+        "Government of India Act 1935",
+        "Government of India Act 1919"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that before the first constitution the amended Government of India Act 1935 was enforced in the country."
+      },
+      {
+       "q": "Framing Pakistan's first constitution took about:",
+       "options": [
+        "Nine years",
+        "Two years",
+        "Five years",
+        "Fifteen years"
+       ],
+       "answer": 0,
+       "why": "The solved answer notes the constitutional problem: framing a constitution took nine years, until the first Constitution was adopted in 1956."
+      }
+     ]
+    },
+    {
+     "title": "The Objectives Resolution 1949",
+     "notes_html": "<h4>Passing of the Resolution</h4>\n<p>The <b>Objectives Resolution</b> was passed in <b>1949 CE</b> by the <b>Constituent Assembly</b>, presented by <b>Liaquat Ali Khan</b>. It is one of the most important documents in the constitutional history of Pakistan.</p>\n<h4>Salient Features</h4>\n<ul>\n<li><b>Sovereignty</b> over the entire universe belongs to <b>Allah Almighty</b> alone, and the authority exercised by the people of Pakistan is a sacred trust within the limits prescribed by Him</li>\n<li>The state shall exercise its powers through the <b>chosen representatives</b> of the people</li>\n<li>The principles of <b>democracy, freedom, equality, tolerance and social justice</b>, as enunciated by Islam, shall be fully observed</li>\n<li>Muslims shall be enabled to order their lives in accordance with the <b>Holy Quran and Sunnah</b></li>\n<li>Adequate provision shall be made for the <b>minorities</b> to freely profess and practise their religions and develop their cultures</li>\n<li>The <b>judiciary shall be independent</b>, and fundamental rights of all citizens shall be guaranteed</li>\n</ul>\n<h4>Importance</h4>\n<p>The Resolution laid down the basic principles on which the future constitution of Pakistan would be framed. It became the <b>preamble</b> of the constitutions of 1956, 1962 and 1973, and in <b>1985</b> it was made a substantive part of the 1973 Constitution as <b>Article 2-A</b>. It defines Pakistan as an <b>Islamic democratic state</b>.</p>",
+     "mcqs": [
+      {
+       "q": "The Objectives Resolution was passed in:",
+       "options": [
+        "1948 CE",
+        "1949 CE",
+        "1950 CE",
+        "1951 CE"
+       ],
+       "answer": 1,
+       "why": "The book's own MCQ: the Objectives Resolution was passed in 1949 CE by the Constituent Assembly of Pakistan."
+      },
+      {
+       "q": "The Objectives Resolution was presented in the Constituent Assembly by:",
+       "options": [
+        "Quaid-e-Azam",
+        "Liaquat Ali Khan",
+        "Ayub Khan",
+        "Khawaja Nazimuddin"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the Objectives Resolution (passed in 1949 CE) was presented by Liaquat Ali Khan in the Constituent Assembly."
+      },
+      {
+       "q": "According to the Objectives Resolution, sovereignty over the entire universe belongs to:",
+       "options": [
+        "The people of Pakistan",
+        "The Parliament",
+        "The Constituent Assembly",
+        "Allah Almighty alone"
+       ],
+       "answer": 3,
+       "why": "The solved answer gives the first salient feature: sovereignty over the entire universe belongs to Allah Almighty alone, and the people's authority is a sacred trust within His limits."
+      },
+      {
+       "q": "Under the Objectives Resolution, the state exercises its powers through:",
+       "options": [
+        "The chosen representatives of the people",
+        "The Governor General alone",
+        "The army",
+        "The judiciary"
+       ],
+       "answer": 0,
+       "why": "The solved answer lists: the state shall exercise its powers through the chosen representatives of the people — the democratic principle of the Resolution."
+      },
+      {
+       "q": "The Objectives Resolution guarantees minorities the right to:",
+       "options": [
+        "Separate countries",
+        "Their own armies",
+        "Freely profess and practise their religions",
+        "Exemption from all laws"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that adequate provision shall be made for the minorities to freely profess and practise their religions and develop their cultures."
+      },
+      {
+       "q": "The Objectives Resolution later became part of the 1973 Constitution as:",
+       "options": [
+        "Article 1",
+        "The First Schedule",
+        "Article 62",
+        "Article 2-A"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that in 1985 the Objectives Resolution was made a substantive part of the 1973 Constitution as Article 2-A, after serving as the preamble of the 1956, 1962 and 1973 constitutions."
+      },
+      {
+       "q": "Before 1985, the Objectives Resolution served in Pakistan's constitutions as the:",
+       "options": [
+        "Federal list",
+        "Preamble",
+        "Fundamental rights chapter",
+        "Emergency clause"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the Resolution became the preamble of the constitutions of 1956, 1962 and 1973, and was made Article 2-A in 1985."
+      },
+      {
+       "q": "The Objectives Resolution declares that Muslims shall order their lives in accordance with:",
+       "options": [
+        "Customary law",
+        "British law",
+        "The Holy Quran and Sunnah",
+        "Provincial traditions"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists among its features: Muslims shall be enabled to order their lives in accordance with the Holy Quran and Sunnah."
+      },
+      {
+       "q": "The principles to be fully observed under the Resolution include democracy, freedom, equality, tolerance and:",
+       "options": [
+        "Social justice",
+        "Martial law",
+        "One-party rule",
+        "Hereditary rule"
+       ],
+       "answer": 0,
+       "why": "The solved answer quotes the Resolution: the principles of democracy, freedom, equality, tolerance and social justice, as enunciated by Islam, shall be fully observed."
+      },
+      {
+       "q": "The Objectives Resolution defines Pakistan as:",
+       "options": [
+        "A secular republic",
+        "A constitutional monarchy",
+        "A one-party state",
+        "An Islamic democratic state"
+       ],
+       "answer": 3,
+       "why": "The solved answer concludes that the Resolution defines Pakistan as an Islamic democratic state and is the foundation document of its constitution-making."
+      }
+     ]
+    },
+    {
+     "title": "Constitutions of Pakistan",
+     "notes_html": "<h4>The First Constitution 1956</h4>\n<p>Pakistan adopted its <b>first Constitution in 1956 CE</b>. It was enforced on <b>23 March 1956</b>, and Pakistan became the <b>'Islamic Republic of Pakistan'</b>. (It was abrogated in 1958 when Ayub Khan imposed martial law; his own Constitution followed in 1962.)</p>\n<h4>The 1973 Constitution</h4>\n<ul>\n<li>It is a <b>written and detailed</b> constitution, framed by the elected National Assembly and passed unanimously</li>\n<li>Pakistan is a <b>federal parliamentary republic</b> — the Prime Minister is the chief executive, the President the head of state</li>\n<li><b>Islam is the state religion</b>; the Objectives Resolution is its preamble (later Article 2-A), and no law can be made against the Quran and Sunnah</li>\n<li>It guarantees <b>fundamental rights</b> to all citizens — freedom, equality before law, and protection of minorities</li>\n<li>It provides an <b>independent judiciary</b> with a Supreme Court and High Courts</li>\n<li>The legislature (Majlis-e-Shoora) has two houses: the <b>National Assembly</b> and the <b>Senate</b></li>\n<li><b>Urdu</b> is the national language</li>\n<li>It is a <b>rigid</b> constitution — amendable only by a two-thirds majority of the Parliament</li>\n</ul>\n<p>The 1973 Constitution was enforced on <b>14 August 1973</b> and, with amendments, is the constitution of Pakistan today.</p>",
+     "mcqs": [
+      {
+       "q": "Pakistan adopted its first Constitution in:",
+       "options": [
+        "1949 CE",
+        "1956 CE",
+        "1962 CE",
+        "1973 CE"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that Pakistan adopted its first Constitution in 1956 CE; it was enforced on 23 March 1956."
+      },
+      {
+       "q": "Under the 1956 Constitution, Pakistan became the:",
+       "options": [
+        "Republic of Pakistan",
+        "Dominion of Pakistan",
+        "Islamic Federation of Pakistan",
+        "Islamic Republic of Pakistan"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that with the enforcement of the first Constitution on 23 March 1956, Pakistan became the 'Islamic Republic of Pakistan'."
+      },
+      {
+       "q": "The first Constitution was enforced on:",
+       "options": [
+        "23 March 1956",
+        "14 August 1956",
+        "23 March 1949",
+        "14 August 1947"
+       ],
+       "answer": 0,
+       "why": "The solved answer dates the enforcement of the first Constitution to 23 March 1956 — the date still marked as Pakistan Day along with the 1940 Resolution."
+      },
+      {
+       "q": "The 1973 Constitution was enforced on:",
+       "options": [
+        "23 March 1973",
+        "14 August 1956",
+        "14 August 1973",
+        "1 January 1973"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the 1973 Constitution was enforced on 14 August 1973 and, with amendments, is the constitution of Pakistan today."
+      },
+      {
+       "q": "Under the 1973 Constitution, the chief executive of Pakistan is:",
+       "options": [
+        "The President",
+        "The Chief Justice",
+        "The Army Chief",
+        "The Prime Minister"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists: Pakistan is a federal parliamentary republic — the Prime Minister is the chief executive, the President the head of state."
+      },
+      {
+       "q": "The two houses of the Majlis-e-Shoora (Parliament) are:",
+       "options": [
+        "The National Assembly and the Council of States",
+        "The National Assembly and the Senate",
+        "The Senate and the Cabinet",
+        "The National Assembly and the Shariat Court"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the legislature (Majlis-e-Shoora) has two houses: the National Assembly and the Senate, giving representation to the provinces."
+      },
+      {
+       "q": "Under the 1973 Constitution, the national language of Pakistan is:",
+       "options": [
+        "English",
+        "Punjabi",
+        "Urdu",
+        "Bengali"
+       ],
+       "answer": 2,
+       "why": "The solved answer lists among the salient features of the 1973 Constitution: Urdu is the national language."
+      },
+      {
+       "q": "The 1973 Constitution can be amended only by:",
+       "options": [
+        "A two-thirds majority of the Parliament",
+        "A simple majority",
+        "The President alone",
+        "A referendum"
+       ],
+       "answer": 0,
+       "why": "The solved answer explains that the 1973 Constitution is a rigid constitution — it can be amended only by a two-thirds majority of the Parliament."
+      },
+      {
+       "q": "The 1973 Constitution declares Islam as:",
+       "options": [
+        "One of several state religions",
+        "A personal matter only",
+        "The official culture only",
+        "The state religion of Pakistan"
+       ],
+       "answer": 3,
+       "why": "The solved answer lists among its features: Islam is the state religion, and no law can be made against the Quran and Sunnah."
+      },
+      {
+       "q": "The first Constitution (1956) was abrogated in 1958 when martial law was imposed by:",
+       "options": [
+        "Iskander Mirza alone",
+        "Ayub Khan",
+        "Yahya Khan",
+        "Zulfikar Ali Bhutto"
+       ],
+       "answer": 1,
+       "why": "The book's timeline records: 1956 CE — first Constitution (abrogated 1958); 1958 CE — Ayub Khan imposes martial law; his own Constitution followed in 1962."
+      }
+     ]
+    },
+    {
+     "title": "Wars, Treaties and Foreign Relations",
+     "notes_html": "<h4>The 3rd June Plan and UN Membership</h4>\n<p>The <b>3rd June Plan</b> was presented in <b>1947 CE</b>, announcing the partition of India. Pakistan became a member of the <b>United Nations in 1947 CE</b> (30 September 1947). The United Nations sent a representative to India and Pakistan to review the <b>Kashmir issue in 1951 CE</b>.</p>\n<h4>The Indus Waters Treaty 1960</h4>\n<p>Under the <b>Indus Waters (Indus Basin) Treaty of 1960 CE</b>, Pakistan conceded the three <b>eastern rivers — Ravi, Beas and Sutlej</b> — to India, while the waters of the three <b>western rivers — Indus, Jhelum and Chenab</b> — were allocated to Pakistan (India being allowed only limited use of them).</p>\n<h4>The Indo-Pak War 1965</h4>\n<p><b>Causes:</b> the unresolved Kashmir dispute was the basic cause; the Rann of Kutch clash (April 1965) raised tensions; and in August 1965 fighting started in Kashmir, after which India attacked across the international border. <b>Events:</b> on <b>6 September 1965</b> India attacked Lahore and other fronts without a formal declaration of war; Pakistan's armed forces and people defended the country bravely — <b>Major Aziz Bhatti (Nishan-e-Haider)</b> fell defending Lahore; the Pakistan Air Force struck heavy blows, with <b>M. M. Alam's</b> famous record of shooting down five Indian planes in a minute; fierce tank battles were fought at <b>Chawinda</b> and Sialkot. The war ended on <b>23 September 1965</b> with a UN-sponsored ceasefire, followed by the <b>Tashkent Declaration (January 1966)</b>. <b>Effects:</b> both sides returned to the pre-war positions; the Kashmir issue remained unsolved; and 6 September is celebrated as <b>Defence Day</b>.</p>",
+     "mcqs": [
+      {
+       "q": "Pakistan became a member of the United Nations in:",
+       "options": [
+        "1948 CE",
+        "1949 CE",
+        "1950 CE",
+        "1947 CE"
+       ],
+       "answer": 3,
+       "why": "The book's own MCQ: Pakistan became a member of the United Nations in 1947 CE — on 30 September 1947, weeks after independence."
+      },
+      {
+       "q": "The United Nations sent a representative to India and Pakistan to review the Kashmir issue in:",
+       "options": [
+        "1951 CE",
+        "1948 CE",
+        "1955 CE",
+        "1957 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: the United Nations sent a representative to India and Pakistan to review the Kashmir issue in 1951 CE."
+      },
+      {
+       "q": "The 3rd June Plan, which announced the partition of India, was presented in:",
+       "options": [
+        "1945 CE",
+        "1946 CE",
+        "1947 CE",
+        "1948 CE"
+       ],
+       "answer": 2,
+       "why": "The book's printed options for this MCQ (1948, 1951, 1955, 1957) contain an error: the 3rd June Plan was actually presented in 1947 CE, as the builder's own note on the question records, so the correct year is 1947 CE."
+      },
+      {
+       "q": "Under the Indus Waters Treaty (1960), Pakistan conceded to India the eastern rivers:",
+       "options": [
+        "Indus, Jhelum and Chenab",
+        "Ravi, Chenab and Indus",
+        "Beas, Jhelum and Sutlej",
+        "Ravi, Beas and Sutlej"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that Pakistan conceded the three eastern rivers — Ravi, Beas and Sutlej — to India, while Indus, Jhelum and Chenab were allocated to Pakistan."
+      },
+      {
+       "q": "The western rivers allocated to Pakistan under the Indus Waters Treaty are:",
+       "options": [
+        "Ravi, Beas and Sutlej",
+        "Indus, Jhelum and Chenab",
+        "Indus, Ravi and Beas",
+        "Chenab, Sutlej and Jhelum"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the waters of the three western rivers — Indus, Jhelum and Chenab — were allocated to Pakistan, India being allowed only limited use of them."
+      },
+      {
+       "q": "India attacked Lahore across the international border on:",
+       "options": [
+        "23 September 1965",
+        "6 September 1971",
+        "6 September 1965",
+        "3 December 1971"
+       ],
+       "answer": 2,
+       "why": "The solved answer records that on 6 September 1965 India attacked Lahore and other fronts without a formal declaration of war; the date is celebrated as Defence Day."
+      },
+      {
+       "q": "The Pakistani officer who fell defending Lahore in 1965 and received the Nishan-e-Haider was:",
+       "options": [
+        "Major Aziz Bhatti",
+        "M. M. Alam",
+        "Major Shabbir Sharif",
+        "Captain Karnal Sher Khan"
+       ],
+       "answer": 0,
+       "why": "The solved answer names Major Aziz Bhatti (Nishan-e-Haider), who fell defending Lahore in the 1965 war; M. M. Alam was the PAF pilot famous for shooting down five Indian planes in a minute."
+      },
+      {
+       "q": "The famous tank battles of the 1965 war were fought at:",
+       "options": [
+        "Lahore and Kasur",
+        "Karachi and Hyderabad",
+        "Multan and Bahawalpur",
+        "Chawinda and Sialkot"
+       ],
+       "answer": 3,
+       "why": "The solved answer records fierce tank battles at Chawinda and Sialkot, among the largest since World War-II."
+      },
+      {
+       "q": "The 1965 war ended with a ceasefire on:",
+       "options": [
+        "6 September 1965",
+        "23 September 1965",
+        "17 December 1971",
+        "10 January 1966"
+       ],
+       "answer": 1,
+       "why": "The solved answer states that the war ended on 23 September 1965 with a UN-sponsored ceasefire, followed by the Tashkent Declaration in January 1966."
+      },
+      {
+       "q": "The Tashkent Declaration was signed in:",
+       "options": [
+        "September 1965",
+        "January 1966",
+        "January 1972",
+        "December 1971"
+       ],
+       "answer": 1,
+       "why": "The solved answer records that the Tashkent Declaration followed the 1965 ceasefire in January 1966, and both sides returned to the pre-war positions."
+      }
+     ]
+    },
+    {
+     "title": "The Afghan War, War on Terrorism and Ayub Khan's Era",
+     "notes_html": "<h4>The Afghan War</h4>\n<p>The <b>Afghan War</b> began in <b>1979 CE</b> when the <b>Soviet Union (USSR)</b> sent its forces into Afghanistan. Pakistan supported the Afghan Mujahideen, with the help of the USA and other countries, until the Soviet withdrawal in <b>1989</b>; civil war and then the Taliban government followed.</p>\n<h4>Impact on Pakistan</h4>\n<p>About <b>3-4 million Afghan refugees</b> came to Pakistan, burdening the economy. <b>'Kalashnikov culture'</b> — weapons and drugs (heroin) — spread in Pakistani society, increasing crime and addiction. After 9/11, Pakistan joined the <b>War on Terrorism</b> and itself faced bomb blasts and attacks in which tens of thousands of Pakistanis and soldiers were martyred; the Pakistan Army launched successful operations like <b>Zarb-e-Azb (2014 CE)</b> to clear the tribal areas. Pakistan's economy suffered heavy losses of over a hundred billion dollars.</p>\n<h4>The War on Terrorism</h4>\n<p>The immediate cause of the War on Terrorism was the terrorist attacks of <b>11 September 2001 (9/11)</b> on the United States, when hijacked aeroplanes were crashed into the <b>World Trade Center</b> in New York and the Pentagon. The USA blamed Al-Qaeda based in Afghanistan and launched the war; Pakistan, as a frontline ally, played an important role.</p>\n<h4>Milestones of Ayub Khan's Regime</h4>\n<p>Ayub Khan's era (1958-1969) is remembered as a decade of development: the <b>Basic Democracies system (1959)</b>; the <b>1962 Constitution</b> (presidential system); <b>land reforms (1959)</b>; the <b>Indus Waters Treaty (1960)</b> and construction of Mangla and Tarbela dams; rapid industrial and agricultural development (the <b>'Green Revolution'</b>); family planning; and shifting the capital to the new city of <b>Islamabad</b>.</p>",
+     "mcqs": [
+      {
+       "q": "Operation Zarb-e-Azb was launched in:",
+       "options": [
+        "2014 CE",
+        "2009 CE",
+        "2010 CE",
+        "2012 CE"
+       ],
+       "answer": 0,
+       "why": "The book's own MCQ: Operation Zarb-e-Azb was launched in 2014 CE to clear the tribal areas of militants."
+      },
+      {
+       "q": "The Afghan War began in 1979 CE when forces entered Afghanistan from:",
+       "options": [
+        "The United States",
+        "Pakistan",
+        "The Soviet Union (USSR)",
+        "Iran"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the Afghan War began in 1979 CE when the Soviet Union (USSR) sent its forces into Afghanistan; the Soviets withdrew in 1989."
+      },
+      {
+       "q": "About how many Afghan refugees came to Pakistan during the Afghan War?",
+       "options": [
+        "About 1 million",
+        "About 10 million",
+        "About 500 thousand",
+        "About 3-4 million"
+       ],
+       "answer": 3,
+       "why": "The solved answer records that about 3-4 million Afghan refugees came to Pakistan and many still live here, burdening the economy."
+      },
+      {
+       "q": "The spread of weapons and drugs in Pakistan after the Afghan War is called:",
+       "options": [
+        "'Green Revolution'",
+        "'Kalashnikov culture'",
+        "'Basic Democracies'",
+        "'Cultural invasion'"
+       ],
+       "answer": 1,
+       "why": "The solved answer names 'Kalashnikov culture' — the spread of weapons and drugs (heroin) in Pakistani society, increasing crime and addiction."
+      },
+      {
+       "q": "The immediate cause of the War on Terrorism was:",
+       "options": [
+        "The Soviet invasion of Afghanistan",
+        "The Kashmir dispute",
+        "The 9/11 attacks on the United States",
+        "The Gulf War"
+       ],
+       "answer": 2,
+       "why": "The solved answer states that the immediate cause was the terrorist attacks of 11 September 2001 (9/11), when hijacked aeroplanes crashed into the World Trade Center and the Pentagon."
+      },
+      {
+       "q": "In the 9/11 attacks, the hijacked planes crashed into the World Trade Center and:",
+       "options": [
+        "The Pentagon",
+        "The White House",
+        "The UN headquarters",
+        "The Capitol only"
+       ],
+       "answer": 0,
+       "why": "The solved answer records that on 9/11 aeroplanes were crashed into the World Trade Center in New York and the Pentagon; the USA blamed Al-Qaeda based in Afghanistan."
+      },
+      {
+       "q": "Operation Zarb-e-Azb was launched to clear militants from:",
+       "options": [
+        "Karachi",
+        "Balochistan's coast",
+        "Gilgit-Baltistan",
+        "The tribal areas"
+       ],
+       "answer": 3,
+       "why": "The solved answer states that the Pakistan Army launched successful operations like Zarb-e-Azb (2014 CE) to clear the tribal areas."
+      },
+      {
+       "q": "Ayub Khan introduced the Basic Democracies system in:",
+       "options": [
+        "1958 CE",
+        "1959 CE",
+        "1962 CE",
+        "1965 CE"
+       ],
+       "answer": 1,
+       "why": "The book's project answer lists the milestones of Ayub Khan's regime, beginning with the introduction of the Basic Democracies system (1959)."
+      },
+      {
+       "q": "Ayub Khan shifted Pakistan's capital to the new city of:",
+       "options": [
+        "Karachi",
+        "Islamabad",
+        "Lahore",
+        "Rawalpindi"
+       ],
+       "answer": 1,
+       "why": "The book's project answer lists among Ayub Khan's milestones the shifting of the capital to the new city of Islamabad; Karachi had been the first capital."
+      },
+      {
+       "q": "The rapid agricultural development in Ayub Khan's era is known as the:",
+       "options": [
+        "'White Revolution'",
+        "'Industrial Revolution'",
+        "'Land Revolution'",
+        "'Green Revolution'"
+       ],
+       "answer": 3,
+       "why": "The book's project answer records rapid industrial and agricultural development in Ayub's era — the 'Green Revolution' with new seeds, fertilizers and tube-wells."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
