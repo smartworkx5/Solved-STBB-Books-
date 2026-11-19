@@ -4535,6 +4535,10 @@
   "parts": 584,
   "size": 2624489
  },
+ "kptbb-class-1-pashto-pashto-solved-notes.pdf": {
+  "parts": 24,
+  "size": 105529
+ },
  "kptbb-class-4-islamiat-urdu-solved-notes.pdf": {
   "parts": 159,
   "size": 711258
@@ -4547,9 +4551,45 @@
   "parts": 595,
   "size": 2676490
  },
+ "kptbb-class-5-urdu-urdu-solved-notes.pdf": {
+  "parts": 417,
+  "size": 1873185
+ },
+ "kptbb-class-7-general-science-english-solved-notes.pdf": {
+  "parts": 111,
+  "size": 496904
+ },
+ "kptbb-class-7-mathematics-english-solved-notes.pdf": {
+  "parts": 331,
+  "size": 1487477
+ },
+ "kptbb-class-8-mathematics-english-solved-notes.pdf": {
+  "parts": 1296,
+  "size": 5828621
+ },
  "kptbb-class-8-pashto-pashto-solved-notes.pdf": {
   "parts": 50,
   "size": 222165
+ },
+ "kptbb-class-11-biology-english-solved-notes.pdf": {
+  "parts": 453,
+  "size": 2036821
+ },
+ "kptbb-class-11-english-english-solved-notes.pdf": {
+  "parts": 487,
+  "size": 2187173
+ },
+ "kptbb-class-11-islamiat-urdu-solved-notes.pdf": {
+  "parts": 91,
+  "size": 406510
+ },
+ "kptbb-class-12-biology-english-solved-notes.pdf": {
+  "parts": 410,
+  "size": 1841314
+ },
+ "kptbb-class-12-english-english-solved-notes.pdf": {
+  "parts": 537,
+  "size": 2414224
  },
  "kptbb-class-12-mathematics-english-solved-notes.pdf": {
   "parts": 580,
