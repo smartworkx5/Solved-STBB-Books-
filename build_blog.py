@@ -303,7 +303,7 @@ def blog_index_html(posts, page, total_pages):
         "@graph": [
             {"@type": "Organization", "name": "SolvedBooks.pk",
              "url": f"{BASE}", "logo": f"{BASE}/assets/images/logo.png",
-             "description": "Free solved exercises for Classes 1–12 — Sindh, Punjab, KPK & Balochistan boards, 389 books live in Sindhi, Urdu, English, Arabic, Punjabi & Farsi. Free PDF, no sign-up."},
+             "description": "Free solved exercises for Classes 1–12 — Sindh, Punjab, KPK & Balochistan boards, 574 books live in Sindhi, Urdu, English, Arabic, Punjabi & Farsi. Free PDF, no sign-up."},
             {"@type": "WebSite", "name": "SolvedBooks.pk", "url": f"{BASE}",
              "inLanguage": ["en", "sd", "ur"],
              "publisher": {"@type": "Organization", "name": "SolvedBooks.pk"},
