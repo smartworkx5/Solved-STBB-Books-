@@ -692,3 +692,6 @@ body.home .filters{margin-bottom:10px}
 .mcq-nav .btn{flex:1;padding:13px;font-size:15px;justify-content:center}
 .mcq-result{padding:22px 16px}
 }
+
+/* ===== PREVIEW BOX (2026-11-22, Option B — owner's choice): fixed-height reader box; the PDF pages scroll INSIDE the box and the rest of the page stays put. Modal viewer keeps its own max-height cap. ===== */
+.pdf-viewer{height:80vh;height:80dvh;scrollbar-width:thin}
